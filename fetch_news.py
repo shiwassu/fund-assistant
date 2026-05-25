@@ -21,7 +21,9 @@ sys.stdout = io.TextIOWrapper(sys.stdout.buffer, encoding='utf-8')
 # ═══════════════════════════════════════════════════
 #  配置
 # ═══════════════════════════════════════════════════
-TUSHARE_TOKEN = "5f9253df50265b4eb013e091f248af7f8872a589e4635e66a00de775"
+# 优先从环境变量读取，兼容 CI / 本地
+import os as _os
+TUSHARE_TOKEN = _os.environ.get('TUSHARE_TOKEN', '5f9253df50265b4eb013e091f248af7f8872a589e4635e66a00de775')
 RETRY_COUNT = 3
 RETRY_DELAY = 2  # 秒
 
@@ -249,7 +251,9 @@ def main():
         'items': unique,
     }
 
-    outpath = 'C:/Users/16204/fund-assistant/news-data.json'
+    # CI 环境用相对路径，本地用绝对路径
+    import os
+    outpath = os.environ.get('NEWS_OUTPUT_PATH', 'C:/Users/16204/fund-assistant/news-data.json')
     with open(outpath, 'w', encoding='utf-8') as f:
         json.dump(output, f, ensure_ascii=False, indent=2)
 
