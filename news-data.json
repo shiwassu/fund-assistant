@@ -1,17 +1,46 @@
 {
-  "updated": "2026-05-27T16:26:46.482582",
-  "total": 186,
+  "updated": "2026-05-27T19:02:51.444393",
+  "total": 192,
   "sources": [
     "新浪财经",
     "akshare-财新",
     "Tushare"
   ],
   "priority_dist": {
-    "high": 37,
+    "high": 32,
     "medium": 25,
-    "low": 124
+    "low": 135
   },
   "items": [
+    {
+      "title": "Meta将推出AI聊天机器人订阅服务 月费最低7.99美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzknca8165115.shtml",
+      "content": " Meta Platforms首次开始向消费者销售Meta AI聊天机器人订阅服务，这是该公司建立人工智能业务的重要一步，料有助于部分抵消其在AI领域高达数千亿美元的支出。",
+      "priority": "high",
+      "sectors": [
+        "机器人",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-05-27",
+      "time": "18:30",
+      "keywords": []
+    },
+    {
+      "title": "特朗普对美伊谈判“不满意” 和平前景再添变数",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzknce0494030.shtml",
+      "content": "美国总统唐纳德·特朗普表示，他对与伊朗结束这场持续近三个月战争的谈判“不满意”，这打压了对即将取得突破的预期。 特朗普周三在白宫表示：“他们非常想达成协议。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-27",
+      "time": "17:15",
+      "keywords": []
+    },
     {
       "title": "摩根士丹利称对冲基金青睐的美债策略正在收缩 反映出获利机会稀缺",
       "source": "环球市场播报",
@@ -66,92 +95,6 @@
       "period": "noon",
       "date": "2026-05-27",
       "time": "15:23",
-      "keywords": []
-    },
-    {
-      "title": "福特股价大涨，却与汽车主业无关",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-27/doc-inhzkfvc1461308.shtml",
-      "content": "车企入局储能赛道，借人工智能热潮挖掘新机遇 作者：瑞安・费尔顿 内容速览 福特汽车宣布成立全新子公司福特能源后，股价攀升至近三年新高。",
-      "priority": "high",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "15:06",
-      "keywords": []
-    },
-    {
-      "title": "富时罗素放宽美国指数纳入规则，为SpaceX等重磅IPO铺路",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-27/doc-inhzkfvh9058405.shtml",
-      "content": " 富时罗素（FTSE Russell）修改了规则，使新晋超大盘股更容易被纳入其美国指数。此举为被动投资者快速配置SpaceX及其他备受瞩目的新股敞开了大门。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "14:55",
-      "keywords": []
-    },
-    {
-      "title": "全球能源市场剧烈波动，洲际交易所天然气与电力持仓量创历史新高",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-27/doc-inhzkfve8233552.shtml",
-      "content": "受地缘冲突导致全球能源贸易路线重塑以及数据中心电力需求激增影响，洲际交易所的天然气和电力期货及期权市场迎来了前所未有的流动性。",
-      "priority": "high",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "14:49",
-      "keywords": []
-    },
-    {
-      "title": "今夜，大变局！全球“大动脉”，突传重磅！两类资产，直线跳水！",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-05-27/doc-inhzkfvh0590921.shtml",
-      "content": "全球航运“大动脉”，传来新消息！ 当地时间27日，伊朗方面称，已有多艘船只通过霍尔木兹海峡，其余船只也将在未来数小时内通行，“敌对国家船只”除外。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "14:48",
-      "keywords": [
-        "美国"
-      ]
-    },
-    {
-      "title": "深夜！全线飙涨，最高超200%！“宇宙级”消息引爆→",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-05-27/doc-inhzkfve8228304.shtml",
-      "content": "美股太空相关概念股大涨。 当地时间5月27日，美股太空相关概念股表现强势。 商业航天公司Momentus在前一交易日大涨近110%后，当天盘中再度大涨，最高涨近40%。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "14:34",
-      "keywords": []
-    },
-    {
-      "title": "万亿市值数字广告宠儿陨落：广告技术公司The Trade Desk市值大幅缩水",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-27/doc-inhzizpf1579660.shtml",
-      "content": "内容速览 受合作广告机构心生不满、行业竞争加剧以及高管接连离职等因素影响，广告技术公司 The Trade Desk 过去一年股价暴跌约 70%。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "14:28",
       "keywords": []
     },
     {
@@ -492,171 +435,160 @@
       ]
     },
     {
-      "title": "英国前首相布莱尔呼吁工党应聚焦于政策主张，而非个人形象。",
+      "title": "墨西哥央行第一季度报告：展望未来，央行管委会认为将利率维持在当前水平是适当之举。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "英国前首相布莱尔呼吁工党应聚焦于政策主张，而非个人形象。",
+      "content": "墨西哥央行第一季度报告：展望未来，央行管委会认为将利率维持在当前水平是适当之举。",
       "priority": "high",
       "sectors": [
-        "机器人"
+        "金融"
       ],
       "period": "noon",
       "date": "2026-05-28",
-      "time": "00:20",
+      "time": "02:51",
       "keywords": []
     },
     {
-      "title": "据监管文件显示，截至5月25日，Aspex持有Delivery Hero附投票权股份的7.56%投票权，此前这一比例为1",
+      "title": "墨西哥央行预计，2026年第四季度年平均核心通胀率为3.4%，与此前预测值一致。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "据监管文件显示，截至5月25日，Aspex持有Delivery Hero附投票权股份的7.56%投票权，此前这一比例为14.55%。",
+      "content": "墨西哥央行预计，2026年第四季度年平均核心通胀率为3.4%，与此前预测值一致。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-28",
-      "time": "00:19",
+      "time": "02:37",
       "keywords": []
     },
     {
-      "title": "据监管文件显示，截至5月25日，优步持有Delivery Hero对应股份附带的24.99%投票权，此前这一比例为19.",
+      "title": "【挪威将接受法国“核保护伞”】挪威首相斯特勒27日表示，挪威将加入法国总统马克龙提出的“前沿威慑”计划，但不会改变有关核",
       "source": "Tushare-sina",
       "url": "",
-      "content": "据监管文件显示，截至5月25日，优步持有Delivery Hero对应股份附带的24.99%投票权，此前这一比例为19.5%。",
+      "content": "【挪威将接受法国“核保护伞”】挪威首相斯特勒27日表示，挪威将加入法国总统马克龙提出的“前沿威慑”计划，但不会改变有关核武器的基本政策。挪威媒体分析，这意味着挪威将被纳入法国“核保护伞”框架。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-28",
-      "time": "00:18",
+      "time": "02:36",
       "keywords": []
     },
     {
-      "title": "【华尔街基金或开始减仓迎接SpaceX上市】华尔街大型共同基金与被动指数基金正为将SpaceX和OpenAI等重磅IPO",
+      "title": "墨西哥央行预测2026年国内生产总值增速为1.1%，低于上一份季度报告中预测的1.6%。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【华尔街基金或开始减仓迎接SpaceX上市】华尔街大型共同基金与被动指数基金正为将SpaceX和OpenAI等重磅IPO纳入投资组合做准备，可能减持其他大型股持仓。高盛集团全球银行及市场部美洲股票执行服务主管John Flood在给客户发布的报告中表示，对于被动型基金而言，新上市公司的潜在纳入，可能迫使他们减持其他大型股票。先前纳斯达克100指数和标普500指数推出新规，加快纳入新上市超大市值公司",
+      "content": "墨西哥央行预测2026年国内生产总值增速为1.1%，低于上一份季度报告中预测的1.6%。",
       "priority": "high",
       "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-28",
+      "time": "02:35",
+      "keywords": []
+    },
+    {
+      "title": "【Meta将推出AI聊天机器人订阅服务 月费最低7.99美元】Meta Platforms首次开始向消费者销售Meta",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "【Meta将推出AI聊天机器人订阅服务 月费最低7.99美元】Meta Platforms首次开始向消费者销售Meta AI聊天机器人订阅服务，这是该公司建立人工智能业务的重要一步，料有助于部分抵消其在AI领域高达数千亿美元的支出。新推出的订阅服务分为两档。公司发言人表示，基础档名为Meta One Plus，月费7.99美元，面向频繁使用Meta AI生成图片和视频，或依赖其进行复杂推理的用户。",
+      "priority": "high",
+      "sectors": [
+        "机器人",
+        "消费",
         "AI"
       ],
       "period": "noon",
       "date": "2026-05-28",
-      "time": "00:17",
+      "time": "02:29",
       "keywords": []
     },
     {
-      "title": "特朗普在内阁会议上宣扬其第二任政府的经济成果：今年，普通家庭的退税金额接近5000美元。自大选以来，股市创下68次历史新",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "特朗普在内阁会议上宣扬其第二任政府的经济成果：今年，普通家庭的退税金额接近5000美元。自大选以来，股市创下68次历史新高。我上任至今，401(k)养老金账户平均增值近3万美元。美国民众正从中获益。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-05-28",
-      "time": "00:09",
-      "keywords": []
-    },
-    {
-      "title": "【摩根士丹利称对冲基金青睐的美债策略正在收缩 反映出获利机会稀缺】摩根士丹利的一项分析显示, 对冲基金曾受到监管机构审视",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【摩根士丹利称对冲基金青睐的美债策略正在收缩 反映出获利机会稀缺】摩根士丹利的一项分析显示, 对冲基金曾受到监管机构审视的一种热门的美国国债交易策略正在收缩。由Eli P Carter牵头的策略师估计，美国国债的现货-期货基差交易的规模已从今年早些时候1.5万亿美元的创纪录高点降至1.35万亿美元。这种交易旨在从美国国债及其对应期货合约之间的微小价差中获利。规模下降反映出美国国债市场上能够创造获利",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "23:59",
-      "keywords": []
-    },
-    {
-      "title": "Clean Harbors将出席两场投资者会议，Q1业绩超预期后上调全年指引",
+      "title": "高盛称伊朗战争期间美元走强拖累外国官方美债需求",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-27/doc-inhzkfvh9064581.shtml",
-      "content": " 北美领先的环境与工业服务提供商Clean Harbors近日宣布，公司高级管理层将出席两场即将举行的投资者会议并进行炉边谈话。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzknce0512517.shtml",
+      "content": "高盛称，美元在美伊冲突第一个月走强，促使外国官方机构卖出美国国债。 高盛策略师Isabella Rosenberg周三在报告中写道，美元是“经估值调整后外国官方美国国债需求最有意义...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-05-27",
-      "time": "15:17",
+      "time": "18:32",
       "keywords": []
     },
     {
-      "title": "600866，副总经理被取保候审",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/wm/2026-05-27/doc-inhzkfvh9065121.shtml",
-      "content": "来源：中国基金报 【导读】星湖科技董事、副总经理闫小龙被取保候审 中国基金报记者 夏天 5月27日晚间，星湖科技（证券代码：600866）发布公告称...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "15:12",
-      "keywords": [
-        "星湖科技",
-        "伊品生物",
-        "饲料",
-        "东北"
-      ]
-    },
-    {
-      "title": "Momentus完成2500万美元私募融资，现有机构投资者按市价认购294万股",
+      "title": "对冲基金Squarepoint多名大宗商品交易员及分析师离职",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-27/doc-inhzkfvh9061387.shtml",
-      "content": "太空服务公司Momentus Inc．周三宣布，已与现有机构投资者签署证券购买协议，以按纳斯达克规则的市价发行2，942，000股普通股的方式完成一轮私募融资...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzknce0505607.shtml",
+      "content": "知情人士透露，近几个月来，数名专注于能源和大宗商品市场的交易员和分析师已从对冲基金Squarepoint Capital离职。 这些因未获授权而要求匿名的知情人士表示...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-05-27",
-      "time": "15:05",
+      "time": "18:03",
       "keywords": []
     },
     {
-      "title": "“零添加”舆情冲击下，千禾味业线上收入暴降36%",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/wm/2026-05-27/doc-inhzkfvh0592120.shtml",
-      "content": "来源：国际金融报 5月26日，千禾味业（603027）召开2025年年度暨2026年第一季度业绩说明会，直面投资者关切。 回望过去一年，受“零添加”相关舆情...",
+      "title": "欧洲股市企稳 在白宫否认和平协议报道后抹去早前涨幅",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzknaz1380611.shtml",
+      "content": "欧洲股市企稳，抹去早前涨幅。白宫否认伊朗方面关于谅解备忘录草案的报道，给市场对美伊达成协议的希望泼了一盆冷水。 斯托克欧洲600指数收盘基本持平，早前一度上涨0...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-05-27",
-      "time": "14:57",
-      "keywords": [
-        "千禾味业"
-      ]
+      "time": "18:02",
+      "keywords": []
     },
     {
-      "title": "段永平重仓泡泡玛特！斥资117亿港元举牌，称王宁“未来是乔布斯级别”",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-05-27/doc-inhzkfvh9058546.shtml",
-      "content": "“买入泡泡玛特”，正在成为知名投资人段永平近期最受市场关注的动作之一。 5月27日，港交所披露的最新权益变动信息显示，段永平通过其控制的H&amp;H International...",
+      "title": "FDIC：美国银行业一季度关键指标改善 但账面损失略增",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzknca8139835.shtml",
+      "content": " 美国联邦存款保险公司（FDIC）报告称，尽管面临中东战争和利率上升，美国银行业的关键指标在第一季度有所改善，不过行业的账面损失出现小幅增加。",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-05-27",
+      "time": "17:01",
+      "keywords": []
+    },
+    {
+      "title": "美国与墨西哥设定三轮贸易协定谈判，加拿大被排除在外",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzknaz1362045.shtml",
+      "content": " 特朗普政府的贸易机构周三表示，本周将启动与墨西哥的三轮谈判中的首轮会谈，以修订北美贸易协定，但未提及与加拿大的任何谈判。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-27",
-      "time": "14:48",
-      "keywords": [
-        "泡泡玛特",
-        "段永平",
-        "王宁",
-        "乔布斯",
-        "港交所"
-      ]
+      "time": "16:58",
+      "keywords": []
+    },
+    {
+      "title": "核电初创企业Newcleo将通过特殊目的收购公司（SPAC）完成上市",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzkfve8263427.shtml",
+      "content": " 此番交易对该企业估值约 24 亿美元。当下人工智能行业电力需求激增，多家核电企业相继启动上市进程，本次交易也顺势而为。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-27",
+      "time": "16:35",
+      "keywords": []
     },
     {
       "title": "机构认为，高位科技成长板块的赚钱效应和双向波动幅度同时增大，短期微观交易结构拥挤的压力需要消化，但行情结束的拐点或暂未到来",
@@ -936,45 +868,367 @@
       ]
     },
     {
-      "title": "俄罗斯5月25日当周消费者价格指数年初至今上涨3.22%。",
+      "title": "【高盛称伊朗战争期间美元走强拖累外国官方美债需求】高盛称，美元在美伊冲突第一个月走强，促使外国官方机构卖出美国国债。高盛",
       "source": "Tushare-sina",
       "url": "",
-      "content": "俄罗斯5月25日当周消费者价格指数年初至今上涨3.22%。",
+      "content": "【高盛称伊朗战争期间美元走强拖累外国官方美债需求】高盛称，美元在美伊冲突第一个月走强，促使外国官方机构卖出美国国债。高盛策略师Isabella Rosenberg周三在报告中写道，美元是“经估值调整后外国官方美国国债需求最有意义的驱动因素之一”。外国持有的美国国债规模3月份从纪录高位回落，而美元指数上涨2.4%，创7月份以来最大单月涨幅。Rosenberg指出，这些转变似乎发生在一些外国政府在战争",
       "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-28",
+      "time": "02:29",
+      "keywords": []
+    },
+    {
+      "title": "美联航首席执行官表示，就其本人可见的可预见未来而言，美联航至少短期内不会参与任何行业整合。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "美联航首席执行官表示，就其本人可见的可预见未来而言，美联航至少短期内不会参与任何行业整合。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-28",
+      "time": "02:09",
+      "keywords": []
+    },
+    {
+      "title": "AngioDynamics将出席高盛第47届全球医疗保健年会",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzknce0518623.shtml",
+      "content": "医疗技术公司AngioDynamics（纳斯达克代码：ANGO）今日宣布，公司管理团队将出席高盛第47届全球医疗保健年会并发表演讲。会议将于2026年6月10日举行...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-05-27",
+      "time": "19:02",
+      "keywords": []
+    },
+    {
+      "title": "FICO推出抵押贷款模拟器新功能，自动化信用规划提升贷款效率",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzknaz1394736.shtml",
+      "content": "分析软件开发商FICO（纽约证券交易所代码：FICO）今日宣布为其FICO Score抵押贷款模拟器推出两项新功能——FICO Smart Plans和FICO Score Potential...",
+      "priority": "low",
+      "sectors": [
+        "机器人"
+      ],
+      "period": "night",
+      "date": "2026-05-27",
+      "time": "19:01",
+      "keywords": []
+    },
+    {
+      "title": "欧洲4月汽车销量连续第三个月增长 纯电动车交付量激增38%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzknaz1394343.shtml",
+      "content": "欧洲汽车市场在4月实现连续第三个月增长，消费者持续转向纯电动和混合动力车型。 欧洲汽车制造商协会周三公布，4月新车注册量同比增长7%，达到115万辆。",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-05-27",
+      "time": "18:59",
+      "keywords": []
+    },
+    {
+      "title": "Twist Bioscience将出席威廉布莱尔第46届年度成长股会议",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzknaz1394308.shtml",
+      "content": "合成生物学公司Twist Bioscience（纳斯达克代码：TWST）今日宣布，公司首席执行官兼联合创始人Emily M． Leproust博士与首席财务官Adam...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-05-27",
+      "time": "18:59",
+      "keywords": []
+    },
+    {
+      "title": "Energy Vault完成收购日本850兆瓦储能项目，正式进军亚洲核心市场",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzknce0517764.shtml",
+      "content": "Energy Vault Holdings， Inc．（纽交所代码：NRGV）今日宣布，已完成对BayWa r.e． AG旗下日本850兆瓦电池储能系统开发项目组合的收购。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-05-27",
+      "time": "18:57",
+      "keywords": []
+    },
+    {
+      "title": "杰米·戴蒙正在寻找摩根大通的“下一个大交易”机会",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzknaz1394026.shtml",
+      "content": "摩根大通首席执行官杰米·戴蒙正在寻找下一笔大型交易。 戴蒙周三在Bernstein Strategic Decisions Conference上表示：“我确实认为...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-05-27",
+      "time": "18:57",
+      "keywords": []
+    },
+    {
+      "title": "尾盘：原油价格走低 道指上涨240点",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzknce0516769.shtml",
+      "content": "北京时间5月28日凌晨，美股周三尾盘继续上扬。道指上涨240点。油价因市场对美伊停火抱有希望而下跌。 道指涨241.11点，涨幅为0.48%，报50702.79点；纳指涨23.74点...",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-05-27",
+      "time": "18:52",
+      "keywords": []
+    },
+    {
+      "title": "买车遇到问题怎么维权？车主必看的投诉指南",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/consume/xiaofei/2026-05-28/doc-inhzivfn0751188.shtml",
+      "content": "汽车作为大多数家庭仅次于房产的大额消费，购买和使用过程中遇到的问题往往让人格外头疼。最近，关于汽车质量的讨论热度不低——从某品牌车型高速行驶中刹车失灵的投诉...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-05-27",
+      "time": "18:40",
+      "keywords": []
+    },
+    {
+      "title": "特朗普暗示伊朗协议可能取决于阿拉伯国家是否加入亚伯拉罕协议",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzknca8157626.shtml",
+      "content": "美国总统特朗普表示，如果阿拉伯国家不加入《亚伯拉罕协议》，他不确定美国是否应该与伊朗达成协议。 特朗普在内阁会议上讲话。 “坦率地说，我认为这是他们欠我们的...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-05-27",
+      "time": "18:01",
+      "keywords": []
+    },
+    {
+      "title": "美国5年期国债中标收益率略微高于发行前交易水平",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzknaz1380338.shtml",
+      "content": "美国财政部发行700亿美元5年期国债中标收益率4.182%，纽约时间下午1点投标截止时的发行前交易水平为4.181%，这表明需求轻微低于预期。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-05-27",
+      "time": "18:01",
+      "keywords": []
+    },
+    {
+      "title": "欧洲债市：德国国债抹去涨幅 市场重估美伊协议前景",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzknaz1380151.shtml",
+      "content": "在美国否认伊朗国家电视台有关临时和平协议草案的报道后，欧洲债券回吐涨幅。 德国两年期国债收益率持稳于2.59%，稍早一度下跌4个基点至2...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-05-27",
+      "time": "18:00",
+      "keywords": []
+    },
+    {
+      "title": "网购衣服质量有问题商家拒退货？这些投诉渠道帮你维权",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/consume/xiaofei/2026-05-28/doc-inhzivfn0723740.shtml",
+      "content": "在网上买衣服，最让人头疼的莫过于收到货后发现质量问题，找商家退换却被各种理由推脱。比如衣服面料和描述严重不符、洗了一次就起球掉色...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-27",
+      "time": "17:57",
+      "keywords": []
+    },
+    {
+      "title": "特朗普称伊朗“表现得当”后才能拿回资金",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzknca8150953.shtml",
+      "content": "美国总统特朗普在谈到伊朗时说，“当他们表现得当、做正确的事情时，我们就会让他们拿回自己的钱。” 特朗普在内阁会议上发表讲话。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-27",
+      "time": "17:37",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：无人将控制霍尔木兹海峡 但美国会照看",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzknce0493204.shtml",
+      "content": "美国总统特朗普表示，霍尔木兹海峡将不受任何人控制，但美国将会照看。 特朗普在内阁会议上发表讲话。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-27",
+      "time": "17:12",
+      "keywords": []
+    },
+    {
+      "title": "报道：特朗普称不会因为伊朗放弃浓缩铀而放松制裁",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzknce8959890.shtml",
+      "content": "PBS援引周二上午与特朗普通话的内容报道称，特朗普表示伊朗不会因为放弃高浓缩铀而被放松制裁。 特朗普对PBS表示：“他们会放弃高浓缩铀...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-27",
+      "time": "17:09",
+      "keywords": []
+    },
+    {
+      "title": "凯捷：人工智能拓宽客户支出范围",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzknca8141728.shtml",
+      "content": "法国科技服务集团凯捷于周四表示，人工智能正推动客户把投入从传统信息技术预算拓展至更多领域。此举意在打消投资者的顾虑 —— 市场曾担忧人工智能会冲击公司现有商业模式。...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-27",
+      "time": "17:07",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：美国对伊朗协议仍不满意",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzknce8958791.shtml",
+      "content": "特朗普表示，美国对伊朗协议“仍不满意，但最终会满意的。” 特朗普在内阁会议上发表上述言论。 特朗普还称，伊朗希望达成协议。 特朗普表示：“他们的谈判是硬撑...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-27",
+      "time": "17:04",
+      "keywords": []
+    },
+    {
+      "title": "英国前首相布莱尔发表5600词长文敲打工党 称逼宫斯塔默是在“玩火”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzknce8958638.shtml",
+      "content": " 英国前工党首相托尼·布莱尔批评这个他曾经领导的政党企图罢免现任首相基尔·斯塔默的做法是在“玩火”，同时也抨击现任政府缺乏明确的施政议程。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-27",
+      "time": "17:04",
+      "keywords": []
+    },
+    {
+      "title": "美国国务卿：未来几个小时或几天内将揭示伊朗局势是否有进展",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzknaz1363295.shtml",
+      "content": "美国国务卿卢比奥在内阁会议上表示：“未来数小时和数天内，我们将观察谈判是否能够取得进展。” 他表示，美国将继续推动与伊朗的外交努力。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-27",
+      "time": "17:02",
+      "keywords": []
+    },
+    {
+      "title": "美国食品价格飙升 战争和厄尔尼诺现象将雪上加霜",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzknaz1363128.shtml",
+      "content": "美国人在加油站面对汽油价格飙升之际，也在杂货店面临又一波通胀。 包括恶劣天气、关税以及牛群数量减少在内的一系列因素，已经在推动食品杂货价格以高于平均水平的速度上...",
+      "priority": "low",
       "sectors": [
         "消费"
       ],
       "period": "noon",
-      "date": "2026-05-28",
-      "time": "00:00",
+      "date": "2026-05-27",
+      "time": "17:02",
       "keywords": []
     },
     {
-      "title": "【德意志银行：全球五十大航天相关公司合计市值一年间飙升约300%】德意志银行分析师Edison Yu表示，随着航天和卫星",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【德意志银行：全球五十大航天相关公司合计市值一年间飙升约300%】德意志银行分析师Edison Yu表示，随着航天和卫星类股票涨势持续，全球50家市值最大的上市航天相关公司合计市值较一年前飙升约300%，达到4020亿美元。Yu周三在致客户的报告中写道，航天股今年以来市值平均变动幅度为138%，相比之下，纳斯达克指数为15%。他还表示，表现最好的个股涨幅约为2300%，表现最差的则下跌约60%。Y",
-      "priority": "medium",
+      "title": "美银CEO预计第二季度交易业务收入同比增长15% 称美国经济保持坚韧",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzknce8957535.shtml",
+      "content": "美国银行首席执行官Brian Moynihan表示，预计第二季度销售和交易收入将较上年同期增长约15%，同时经济保持坚韧。 Moynihan表示，该行一直在动用更多资产负债表资源来支持交...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-27",
+      "time": "17:00",
+      "keywords": []
+    },
+    {
+      "title": "鲁比奥称美国将给伊朗外交“一切成功机会”，油价大跌4%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzknaz1359266.shtml",
+      "content": "要点美国国务卿马尔科・鲁比奥表示，与伊朗的谈判已取得一些进展，美方将给外交途径 “一切成功机会”。但鲁比奥同时称，若谈判失败，特朗普总统还有其他选项...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-27",
+      "time": "16:48",
+      "keywords": []
+    },
+    {
+      "title": "贝丝・福特：美国农业正深陷危机，亟待全社会重视",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzkfvh0617323.shtml",
+      "content": "作者：霍莉・彼得森2024 年，蓝多湖乳业首席执行官贝丝・福特。谈及与农户共事，她表示：“这份工作让我认识一个个家庭、一个个乡村社群，能投身其中，我倍感荣幸。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-27",
+      "time": "16:43",
+      "keywords": []
+    },
+    {
+      "title": "德意志银行：全球五十大航天相关公司合计市值一年间飙升约300%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-28/doc-inhzkfvh9080928.shtml",
+      "content": " 德意志银行分析师Edison Yu表示，随着航天和卫星类股票涨势持续，全球50家市值最大的上市航天相关公司合计市值较一年前飙升约300%，达到4020亿美元。",
+      "priority": "low",
       "sectors": [
         "金融"
       ],
       "period": "noon",
-      "date": "2026-05-28",
-      "time": "00:00",
-      "keywords": []
-    },
-    {
-      "title": "【散户抱团再现 一家欧洲芯片制造商因一条推文暴涨逾70%】一家名不见经传的欧洲芯片制造商的股票周三飙升超过70%，此前该",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【散户抱团再现 一家欧洲芯片制造商因一条推文暴涨逾70%】一家名不见经传的欧洲芯片制造商的股票周三飙升超过70%，此前该公司被一个热门社交媒体账号大力推荐。一个名为Serenity的X账户发帖称，其已建仓X-Fab Silicon Foundries SE，这是一家在巴黎上市的公司，在全球拥有六处半导体制造基地。该X账号拥有超过40万名粉丝。这篇浏览量超过50万次的帖子引发了一场散户交易狂潮，并推",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
       "date": "2026-05-27",
-      "time": "23:49",
+      "time": "16:26",
       "keywords": []
     },
     {
@@ -1173,308 +1427,6 @@
       "period": "noon",
       "date": "2026-05-27",
       "time": "15:24",
-      "keywords": []
-    },
-    {
-      "title": "Visa整合AR Manager，升级商业解决方案Hub，加速B2B支付自动化",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-27/doc-inhzkfvc1465559.shtml",
-      "content": " 全球数字支付巨头Visa Inc．近日宣布，已将旗下Visa Accounts Receivable Manager（简称Visa AR Manager）整合进其商业解决方案中心（VCS Hub）。",
-      "priority": "low",
-      "sectors": [
-        "机器人"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "15:22",
-      "keywords": []
-    },
-    {
-      "title": "生物技术公司bioAffinity肺癌检测技术获墨西哥专利",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-27/doc-inhzkfve8242183.shtml",
-      "content": "生物技术公司bioAffinity Technologies近日宣布，已收到墨西哥工业产权局颁发的专利授权通知，该专利涵盖使用流式细胞术预测肺癌可能性的方法。",
-      "priority": "low",
-      "sectors": [
-        "医药"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "15:20",
-      "keywords": []
-    },
-    {
-      "title": "Humana完成8300万美元佛罗里达基础设施投资，深化协同患者护理模式",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-27/doc-inhzkfvc1463953.shtml",
-      "content": "Humana公司近日宣布，其位于佛罗里达州奥兰多的最新CenterWell Pharmacy邮件订单配送中心已全面投入运营。这项耗资8300万美元、面积达16...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "15:15",
-      "keywords": []
-    },
-    {
-      "title": "Tempus升级Hub平台：新一代Agentic AI架构重塑肿瘤临床工作流",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-27/doc-inhzkfvh9063558.shtml",
-      "content": "人工智能精准医疗公司Tempus AI近日宣布对旗下智能医生平台Hub进行重大技术升级，引入新一代Agentic AI架构，旨在为肿瘤科医生及护理团队提供更智能...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "15:13",
-      "keywords": []
-    },
-    {
-      "title": "Coya将在第五届ALS药物开发峰会上公布ALSTARS试验设计",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-27/doc-inhzkfvc1462374.shtml",
-      "content": "临床阶段生物技术公司Coya Therapeutics近日宣布，将在第五届ALS药物开发峰会上公布其正在进行的ALSTARS试验的详细设计，该试验旨在评估COYA...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "15:10",
-      "keywords": []
-    },
-    {
-      "title": "长鑫科技IPO成首单过会“预先审阅”项目，一文详解！",
-      "source": "中国证券报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-05-27/doc-inhzkfvc1461995.shtml",
-      "content": "5月27日，长鑫科技科创板IPO申请通过上交所上市委审议，距离上市更近一步。这也是A股市场首单过会的“预先审阅”项目。长鑫科技首发事项于2025年12月30日受理。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "15:07",
-      "keywords": []
-    },
-    {
-      "title": "NCR Voyix携手美国银行Voyager，通过Voyix Connect开通车队卡支付服务",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-27/doc-inhzkfve8237353.shtml",
-      "content": "NCR Voyix公司5月27日宣布与美国银行Voyager达成合作，将在其云端POS系统中开通Voyager车队卡支付功能，以支持商业燃油交易。这一合作进一步扩展了NCR...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "15:02",
-      "keywords": []
-    },
-    {
-      "title": "Stem借智利Granja项目将PowerTrack EMS引入拉美公用事业规模混合能源市场",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-27/doc-inhzkfvh0592356.shtml",
-      "content": "人工智能清洁能源软件与服务提供商Stem， Inc．日前宣布，智利能源巨头Copec旗下可再生能源子公司Copec Flux正在其Granja Solar项目中部署Stem的PowerTrack能源管理系统。...",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "15:00",
-      "keywords": []
-    },
-    {
-      "title": "乔治亚影院公司与IMAX扩大合作，将在美国东南部新增五家激光IMAX影院",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-27/doc-inhzkfvh0591873.shtml",
-      "content": "IMAX公司与乔治亚影院公司日前宣布达成一项新协议，将在美国东南部新增五家配备先进IMAX with Laser系统的影院。此次合作显著扩展了双方现有的合作伙伴关系——乔治亚影院的...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "14:58",
-      "keywords": []
-    },
-    {
-      "title": "AIRO加速欧洲扩张，收购丹麦工业用地以完善全球防务布局",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-27/doc-inhzkfvh9058427.shtml",
-      "content": "纳斯达克上市的新一代航空航天与防务公司AIRO Group Holdings， Inc．近日宣布了一项重大的战略举措——收购位于丹麦雷比尔市的一块约39万平方英尺的工业用地...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "14:55",
-      "keywords": []
-    },
-    {
-      "title": "石药集团股价盘中跳水超10%背后：一季度净利润同比减少41.83%",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-05-27/doc-inhzkfvh0591816.shtml",
-      "content": "每经记者|林姿辰每经编辑|魏官红 5月27日下午，石药集团（01093.HK）股价突然跳水，跌幅一度超过10%，截至收盘，股价为7.04港元/股。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "14:54",
-      "keywords": [
-        "石药集团",
-        "净利润",
-        "美元",
-        "股价"
-      ]
-    },
-    {
-      "title": "白宫称伊朗媒体发布的美伊谅解备忘录内容“不实”",
-      "source": "新华社",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-05-27/doc-inhzkfvc1462846.shtml",
-      "content": " 新华社华盛顿5月27日电 美国白宫27日在社交媒体发文称，伊朗媒体发布的报道不实，“公布的（美伊）谅解备忘录纯属捏造”。（完）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "14:54",
-      "keywords": []
-    },
-    {
-      "title": "航运与邮寄巨头Pitney Bowes斥资扩建凤凰城邮件处理中心，自动化年处理能力达20亿件",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-27/doc-inhzkfvh0590605.shtml",
-      "content": "全球航运与邮寄巨头Pitney Bowes Inc．日前宣布，其位于亚利桑那州凤凰城的新预处理运营中心正式投入使用。这座占地7.5万平方英尺的高度自动化设施将服务于快速增长的凤凰...",
-      "priority": "low",
-      "sectors": [
-        "机器人"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "14:53",
-      "keywords": []
-    },
-    {
-      "title": "5月27日增减持汇总：浙农股份等4股披露增持情况，绿通科技等10股拟减持（表）",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-05-27/doc-inhzkfve8233423.shtml",
-      "content": "据不完全统计，5月27日盘后，浙农股份、*ST国化、龙利得、ST云城披露增持情况，包括绿通科技、大豪科技、至纯科技、远方信息、晶丰明源、吴帆生物、天微电子、纽泰格...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "14:48",
-      "keywords": []
-    },
-    {
-      "title": "纽约联储：美国粮食不安全加剧K型分化，拖累低收入家庭信心",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-27/doc-inhzkfvh9056480.shtml",
-      "content": " 纽约联邦储备银行最新研究显示，美国最贫困群体面临的食品相关问题正迅速上升，这可能解释了为何在整体经济表现良好的情况下，消费者情绪却明显恶化。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "14:48",
-      "keywords": []
-    },
-    {
-      "title": "埃博拉与汉坦病毒暴露传统疫苗短板，MindWalk推出AI大流行应对平台",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-27/doc-inhzkfvc1456039.shtml",
-      "content": "针对当前埃博拉和汉坦病毒疫情暴露出的传统应变特异性疫苗的局限性，生物科技公司MindWalk Holdings Corp.(HYFT)5月27日宣布正式启动其大流行应对平台...",
-      "priority": "low",
-      "sectors": [
-        "医药",
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "14:48",
-      "keywords": [
-        "新冠肺炎"
-      ]
-    },
-    {
-      "title": "临床阶段RNAi疗法公司Silence Therapeutics将出席Jefferies全球医疗保健年会",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-27/doc-inhzkfvc1451718.shtml",
-      "content": "临床阶段RNAi疗法公司Silence Therapeutics近日宣布，公司管理层将出席2026年6月3日下午4：55（美国东部时间）举行的Jefferies全球医疗保健年会...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "14:37",
-      "keywords": []
-    },
-    {
-      "title": "Box将出席两场投资者会议，Q1财报超预期",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-27/doc-inhzkfvh0583610.shtml",
-      "content": " 云内容管理平台Box近日宣布，公司管理团队将出席两场即将举行的投资者会议。首席财务官Dylan Smith和首席运营官兼首席法务官David Leeb将参与相关活动。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "14:34",
-      "keywords": []
-    },
-    {
-      "title": "欧盟拟将大部分移动卫星频谱留给本土运营商",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-27/doc-inhzkfvh9050762.shtml",
-      "content": "内容速览 欧盟提议改革移动卫星频谱的牌照发放规则，计划将大部分频谱资源优先分配给本土运营商。 欧盟计划从明年起，将价值可观的移动卫星频谱优先分配给本土运营商...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "14:32",
-      "keywords": []
-    },
-    {
-      "title": "富国银行研究：金钱奖励已成为美国父母激励子女达成目标的主流方式",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-27/doc-inhzkfve8227107.shtml",
-      "content": "富国银行最新发布的一项研究显示，金钱奖励已成为美国父母激励子女达成目标的主流方式。这项由Ipsos于2026年4月2日至15日进行的调查...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "14:32",
-      "keywords": []
-    },
-    {
-      "title": "临床阶段肿瘤生物技术公司Immunome将出席高盛第47届全球医疗保健年会",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-27/doc-inhzkfvh9050122.shtml",
-      "content": "临床阶段肿瘤生物技术公司Immunome5月27日宣布，公司管理层将出席2026年6月9日举行的高盛第47届全球医疗保健年会，并进行公司演讲。演讲定于当日上午10：40进行。",
-      "priority": "low",
-      "sectors": [
-        "医药"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "14:31",
       "keywords": []
     },
     {
@@ -2473,381 +2425,493 @@
       ]
     },
     {
-      "title": "美国国务卿鲁比奥：我们正给予外交途径一切成功的机会，以解决伊朗问题。",
+      "title": "教皇利奥十四世坐进驾驶座，近距离查看了法拉利首款纯电动车型，并仔细检查车辆各处细节。法拉利声称，这款名为Luce的车型零",
       "source": "Tushare-sina",
       "url": "",
-      "content": "美国国务卿鲁比奥：我们正给予外交途径一切成功的机会，以解决伊朗问题。",
+      "content": "教皇利奥十四世坐进驾驶座，近距离查看了法拉利首款纯电动车型，并仔细检查车辆各处细节。法拉利声称，这款名为Luce的车型零百加速仅需2.5秒，零至二百公里每小时加速用时6.5秒，预计售价64万美元。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-28",
-      "time": "00:23",
+      "time": "02:58",
       "keywords": []
     },
     {
-      "title": "美国国务卿鲁比奥：关于伊朗问题（谈判）的进展，我们在接下来的几个小时或几天内就会看到结果。",
+      "title": "特朗普政府计划在肯尼亚设立埃博拉隔离治疗中心，专门收治在境外接触过该病毒的美国人员，以此避免中非地区疫情暴发期间将病患直",
       "source": "Tushare-sina",
       "url": "",
-      "content": "美国国务卿鲁比奥：关于伊朗问题（谈判）的进展，我们在接下来的几个小时或几天内就会看到结果。",
+      "content": "特朗普政府计划在肯尼亚设立埃博拉隔离治疗中心，专门收治在境外接触过该病毒的美国人员，以此避免中非地区疫情暴发期间将病患直接转运回美国。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-28",
-      "time": "00:22",
+      "time": "02:57",
       "keywords": []
     },
     {
-      "title": "美国国务卿鲁比奥：我们将继续推进对伊朗的外交工作。",
+      "title": "【杰米·戴蒙正在寻找摩根大通的“下一个大交易”机会】摩根大通首席执行官杰米·戴蒙正在寻找下一笔大型交易。戴蒙周三在Ber",
       "source": "Tushare-sina",
       "url": "",
-      "content": "美国国务卿鲁比奥：我们将继续推进对伊朗的外交工作。",
+      "content": "【杰米·戴蒙正在寻找摩根大通的“下一个大交易”机会】摩根大通首席执行官杰米·戴蒙正在寻找下一笔大型交易。戴蒙周三在Bernstein Strategic Decisions Conference上表示：“我确实认为，未来几年可能会有机会动用100亿至200亿美元收购某些资产”。其表示，摩根大通正在“留意机会”。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-28",
-      "time": "00:22",
+      "time": "02:54",
       "keywords": []
     },
     {
-      "title": "美国副总统万斯：我们预计有数万人通过欺诈手段申领国家补贴资金。",
+      "title": "布伦特原油期货结算价报每桶94.29美元，下跌5.29美元，跌幅5.31%。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "美国副总统万斯：我们预计有数万人通过欺诈手段申领国家补贴资金。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-05-28",
-      "time": "00:18",
-      "keywords": []
-    },
-    {
-      "title": "特朗普声称：伊朗眼下显然希望达成协议。该国经济正急剧下滑，通胀率达到250%，货币大幅贬值，整个经济体系已然崩溃。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "特朗普声称：伊朗眼下显然希望达成协议。该国经济正急剧下滑，通胀率达到250%，货币大幅贬值，整个经济体系已然崩溃。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-05-28",
-      "time": "00:16",
-      "keywords": []
-    },
-    {
-      "title": "特朗普：赫格塞思这位国防部长，完全是该职位的典型人选。他热衷战事，我也说不清缘由。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "特朗普：赫格塞思这位国防部长，完全是该职位的典型人选。他热衷战事，我也说不清缘由。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-05-28",
-      "time": "00:15",
-      "keywords": []
-    },
-    {
-      "title": "美国天然气期货涨超4.00%，现报3.013美元/百万英热。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "美国天然气期货涨超4.00%，现报3.013美元/百万英热。",
+      "content": "布伦特原油期货结算价报每桶94.29美元，下跌5.29美元，跌幅5.31%。",
       "priority": "low",
       "sectors": [
         "能源"
       ],
       "period": "noon",
       "date": "2026-05-28",
-      "time": "00:15",
+      "time": "02:41",
       "keywords": []
     },
     {
-      "title": "美国国家航空航天局：具备向月球表面投送大量载荷的充足能力。",
+      "title": "【以军在黎巴嫩大幅扩大“战区”】以色列国防军发言人27日晚在社交平台发文称，以军将对黎巴嫩真主党展开“强力打击”，宰赫拉",
       "source": "Tushare-sina",
       "url": "",
-      "content": "美国国家航空航天局：具备向月球表面投送大量载荷的充足能力。",
+      "content": "【以军在黎巴嫩大幅扩大“战区”】以色列国防军发言人27日晚在社交平台发文称，以军将对黎巴嫩真主党展开“强力打击”，宰赫拉尼河以南所有区域均被视为“战区”。以军发言人呼吁黎南部所有居民远离真主党武装人员、相关设施和装备，并建议黎南部居民撤离至宰赫拉尼河以北地区。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-28",
-      "time": "00:14",
+      "time": "02:36",
       "keywords": []
     },
     {
-      "title": "美国国家航空航天局声称，太空探索技术公司堪称其合作的顶尖商业航天企业。",
+      "title": "美国前司法部长帕姆・邦迪称其确诊甲状腺癌，术后正在接受治疗。医生称绝大多数甲状腺癌治愈率极高，存活率超98%。邦迪还定于",
       "source": "Tushare-sina",
       "url": "",
-      "content": "美国国家航空航天局声称，太空探索技术公司堪称其合作的顶尖商业航天企业。",
+      "content": "美国前司法部长帕姆・邦迪称其确诊甲状腺癌，术后正在接受治疗。医生称绝大多数甲状腺癌治愈率极高，存活率超98%。邦迪还定于周五就爱泼斯坦相关文件争议事宜出庭作证。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-28",
-      "time": "00:13",
+      "time": "02:35",
       "keywords": []
     },
     {
-      "title": "微软：优化网络儿童性虐待影像（NCII）全球上报流程，升级表单界面、细化危害描述选项，同时支持区分实拍影像与AI生成影像",
+      "title": "伊斯法罕国际机场停运80天后全面恢复运营。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "微软：优化网络儿童性虐待影像（NCII）全球上报流程，升级表单界面、细化危害描述选项，同时支持区分实拍影像与AI生成影像。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-05-28",
-      "time": "00:11",
-      "keywords": []
-    },
-    {
-      "title": "摩根大通CEO杰米·戴蒙表示，摩根大通可为一项新收购投入最高200亿美元。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "摩根大通CEO杰米·戴蒙表示，摩根大通可为一项新收购投入最高200亿美元。",
+      "content": "伊斯法罕国际机场停运80天后全面恢复运营。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-28",
-      "time": "00:10",
+      "time": "02:34",
       "keywords": []
     },
     {
-      "title": "挪威首相：挪威将受到法国核保护伞的保护。",
+      "title": "特朗普表示，他计划出席一场NBA总决赛，观看家乡球队纽约尼克斯队冲击数十年来的首个总冠军。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "挪威首相：挪威将受到法国核保护伞的保护。",
+      "content": "特朗普表示，他计划出席一场NBA总决赛，观看家乡球队纽约尼克斯队冲击数十年来的首个总冠军。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-28",
-      "time": "00:10",
+      "time": "02:33",
       "keywords": []
     },
     {
-      "title": "杜克能源推出新项目，助力南卡罗来纳州非居民用户降低成本，同时支撑电网扩容发展。",
+      "title": "美国原油期货结算价报每桶88.68美元，下跌5.21美元，跌幅5.55%。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "杜克能源推出新项目，助力南卡罗来纳州非居民用户降低成本，同时支撑电网扩容发展。",
+      "content": "美国原油期货结算价报每桶88.68美元，下跌5.21美元，跌幅5.55%。",
       "priority": "low",
       "sectors": [
         "能源"
       ],
       "period": "noon",
       "date": "2026-05-28",
-      "time": "00:09",
+      "time": "02:31",
       "keywords": []
     },
     {
-      "title": "特朗普：我们得到了其他国家的大力支持。",
+      "title": "上期所原油期货夜盘收跌3.22%，报585.40元人民币/桶。沪金夜盘收跌1.26%，沪银收跌2.28%。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "特朗普：我们得到了其他国家的大力支持。",
+      "content": "上期所原油期货夜盘收跌3.22%，报585.40元人民币/桶。沪金夜盘收跌1.26%，沪银收跌2.28%。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-05-28",
+      "time": "02:30",
+      "keywords": []
+    },
+    {
+      "title": "【“洪迪厄斯”号邮轮推迟启航返回母港时间】荷兰“泛海探险”公司27日表示，根据荷兰卫生部门建议，该公司运营的“洪迪厄斯”",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "【“洪迪厄斯”号邮轮推迟启航返回母港时间】荷兰“泛海探险”公司27日表示，根据荷兰卫生部门建议，该公司运营的“洪迪厄斯”号邮轮将推迟返回母港弗利辛根的时间，将继续停靠在荷兰鹿特丹港进行进一步清洁和消毒工作，以便后续重新投入运营。“泛海探险”公司表示，该邮轮计划自6月13日起恢复运营，并执行预定航次。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-28",
-      "time": "00:05",
+      "time": "02:28",
       "keywords": []
     },
     {
-      "title": "特朗普重申伊朗不能拥有核武器。",
+      "title": "Meta股价涨超2%。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "特朗普重申伊朗不能拥有核武器。",
+      "content": "Meta股价涨超2%。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-28",
-      "time": "00:05",
+      "time": "02:27",
       "keywords": []
     },
     {
-      "title": "特朗普谈及伊朗问题：我们或许会继续推进谈判并收尾，也可能就此作罢。",
+      "title": "欧盟委员会主席冯德莱恩：已与乌克兰泽连斯基通电话，在俄罗斯加码之际，重申欧洲对乌克兰的全力支持。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "特朗普谈及伊朗问题：我们或许会继续推进谈判并收尾，也可能就此作罢。",
+      "content": "欧盟委员会主席冯德莱恩：已与乌克兰泽连斯基通电话，在俄罗斯加码之际，重申欧洲对乌克兰的全力支持。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-28",
-      "time": "00:04",
+      "time": "02:23",
       "keywords": []
     },
     {
-      "title": "特朗普：伊朗核协议尚未达成。",
+      "title": "欧盟委员会主席冯德莱恩：未来数周对推动乌克兰入盟进程迈出决定性步伐至关重要。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "特朗普：伊朗核协议尚未达成。",
+      "content": "欧盟委员会主席冯德莱恩：未来数周对推动乌克兰入盟进程迈出决定性步伐至关重要。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-28",
-      "time": "00:04",
+      "time": "02:23",
       "keywords": []
     },
     {
-      "title": "特朗普：对伊朗核协议仍不满意。",
+      "title": "美墨加协定不确定性上升，加元跌至六周低点。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "特朗普：对伊朗核协议仍不满意。",
+      "content": "美墨加协定不确定性上升，加元跌至六周低点。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-28",
-      "time": "00:04",
+      "time": "02:22",
       "keywords": []
     },
     {
-      "title": "特朗普：伊朗希望达成协议。",
+      "title": "被问及伊朗相关谈判时，特朗普称自己“并不在意中期选举”。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "特朗普：伊朗希望达成协议。",
+      "content": "被问及伊朗相关谈判时，特朗普称自己“并不在意中期选举”。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-28",
-      "time": "00:03",
+      "time": "02:19",
       "keywords": []
     },
     {
-      "title": "【伊媒：特朗普或将单方面宣布与伊朗达成协议】伊朗法尔斯通讯社援引知情人士消息报道称，特朗普可能在未来几小时内单方面宣布：",
+      "title": "一款可让数百万美国人为子女管理全新特朗普账户的应用程序定于周四上线。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【伊媒：特朗普或将单方面宣布与伊朗达成协议】伊朗法尔斯通讯社援引知情人士消息报道称，特朗普可能在未来几小时内单方面宣布：美国与伊朗已达成最终协议。法尔斯通讯社认为，此举是美方在剩余争端彻底解决前，试图施压并引导公众舆论的行为。伊朗谈判团队一名成员表示，目前仍有部分议题悬而未决；在伊朗提出的所有诉求得到满足前，不会达成任何协议。该消息人士称，若所有争议问题彻底解决，德黑兰将正式公布谈判结果。",
+      "content": "一款可让数百万美国人为子女管理全新特朗普账户的应用程序定于周四上线。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-28",
-      "time": "00:03",
+      "time": "02:14",
       "keywords": []
     },
     {
-      "title": "俄罗斯4月工业生产同比增长1.9%。",
+      "title": "Meta现涨0.9%。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "俄罗斯4月工业生产同比增长1.9%。",
+      "content": "Meta现涨0.9%。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-28",
-      "time": "00:01",
+      "time": "02:11",
       "keywords": []
     },
     {
-      "title": "俄罗斯5月25日当周消费者价格环比上涨0.07%。",
+      "title": "加拿大自然资源部长：其他欧洲买家已对加拿大液化天然气表示兴趣。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "俄罗斯5月25日当周消费者价格环比上涨0.07%。",
+      "content": "加拿大自然资源部长：其他欧洲买家已对加拿大液化天然气表示兴趣。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-05-28",
+      "time": "02:09",
+      "keywords": []
+    },
+    {
+      "title": "Meta：订阅Instagram Plus（每月3.99美元）、Facebook Plus（每月3.99美元）以及Wha",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "Meta：订阅Instagram Plus（每月3.99美元）、Facebook Plus（每月3.99美元）以及WhatsApp Plus（每月2.99美元）的用户将可使用额外功能。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-28",
+      "time": "02:07",
+      "keywords": []
+    },
+    {
+      "title": "美国联邦航空管理局局长表示，认为波音737 MAX 7机型将在今年夏季获得认证，尺寸更大的MAX 10机型将在年底前获得",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "美国联邦航空管理局局长表示，认为波音737 MAX 7机型将在今年夏季获得认证，尺寸更大的MAX 10机型将在年底前获得认证。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-28",
+      "time": "02:06",
+      "keywords": []
+    },
+    {
+      "title": "美国联邦航空管理局局长贝德福德预计，波音将在未来90天内继续提升737 MAX的产能。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "美国联邦航空管理局局长贝德福德预计，波音将在未来90天内继续提升737 MAX的产能。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-28",
+      "time": "02:04",
+      "keywords": []
+    },
+    {
+      "title": "Meta推出Instagram、Facebook与WhatsApp订阅服务，后续还将推出更多服务，包括人工智能相关计划。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "Meta推出Instagram、Facebook与WhatsApp订阅服务，后续还将推出更多服务，包括人工智能相关计划。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-28",
+      "time": "02:04",
+      "keywords": []
+    },
+    {
+      "title": "以色列官员正与美国举行会谈，商讨扩大在黎巴嫩的军事行动。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "以色列官员正与美国举行会谈，商讨扩大在黎巴嫩的军事行动。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-28",
+      "time": "02:01",
+      "keywords": []
+    },
+    {
+      "title": "美国联邦航空管理局局长表示，该局支持波音737 MAX提高产量。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "美国联邦航空管理局局长表示，该局支持波音737 MAX提高产量。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-28",
+      "time": "02:01",
+      "keywords": []
+    },
+    {
+      "title": "联合航空公司首席执行官表示，由于发动机供应不足，全球飞机供应都将面临短缺。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "联合航空公司首席执行官表示，由于发动机供应不足，全球飞机供应都将面临短缺。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-28",
+      "time": "02:01",
+      "keywords": []
+    },
+    {
+      "title": "路透社调查显示，美国能源信息署(EIA)周四公布的报告预计上周美国天然气库存增加950亿立方英尺。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "路透社调查显示，美国能源信息署(EIA)周四公布的报告预计上周美国天然气库存增加950亿立方英尺。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-05-28",
+      "time": "01:58",
+      "keywords": []
+    },
+    {
+      "title": "美国天然气期货涨超5.00%，现报3.042美元/百万英热。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "美国天然气期货涨超5.00%，现报3.042美元/百万英热。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-05-28",
+      "time": "01:58",
+      "keywords": []
+    },
+    {
+      "title": "黎巴嫩军方：以军在卡法尔马纳至哈尔达利公路发动空袭，造成一名黎军士兵阵亡。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "黎巴嫩军方：以军在卡法尔马纳至哈尔达利公路发动空袭，造成一名黎军士兵阵亡。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-28",
+      "time": "01:55",
+      "keywords": []
+    },
+    {
+      "title": "沙特阿拉伯将向也门提供价值1.5亿美元的石油衍生产品。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "沙特阿拉伯将向也门提供价值1.5亿美元的石油衍生产品。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-05-28",
+      "time": "01:51",
+      "keywords": []
+    },
+    {
+      "title": "美国食品药品监督管理局（FDA）：截至5月27日，美国36个州共报告119例感染病例，感染者所感染的为本次暴发疫情中的鼠",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "美国食品药品监督管理局（FDA）：截至5月27日，美国36个州共报告119例感染病例，感染者所感染的为本次暴发疫情中的鼠伤寒沙门氏菌或纽波特沙门氏菌毒株。",
       "priority": "low",
       "sectors": [
         "消费"
       ],
       "period": "noon",
       "date": "2026-05-28",
-      "time": "00:00",
+      "time": "01:51",
       "keywords": []
     },
     {
-      "title": "伊朗方面：特朗普或将单方面宣布与伊朗达成协议。",
+      "title": "美国联合航空公司首席执行官表示，为整个机队100%配备星链将是我们相较所有其他航空公司的最大差异化竞争优势。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "伊朗方面：特朗普或将单方面宣布与伊朗达成协议。",
+      "content": "美国联合航空公司首席执行官表示，为整个机队100%配备星链将是我们相较所有其他航空公司的最大差异化竞争优势。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
-      "date": "2026-05-27",
-      "time": "23:56",
+      "date": "2026-05-28",
+      "time": "01:50",
       "keywords": []
     },
     {
-      "title": "【特朗普：伊朗即便放弃高浓缩铀，美方也不会解除制裁】特朗普在接受媒体采访时表示，伊朗就算交出高浓缩铀，也无法换取美方解除",
+      "title": "美国联合航空公司首席执行官表示，随着油价回落，实现100%燃油成本转嫁的门槛也随之降低。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【特朗普：伊朗即便放弃高浓缩铀，美方也不会解除制裁】特朗普在接受媒体采访时表示，伊朗就算交出高浓缩铀，也无法换取美方解除制裁。特朗普称：“他们放弃高浓缩铀，也换不来制裁豁免。绝对不会。”特朗普补充称，沙特阿拉伯应当加入《亚伯拉罕协议》，“这对沙特大有裨益”。",
+      "content": "美国联合航空公司首席执行官表示，随着油价回落，实现100%燃油成本转嫁的门槛也随之降低。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
-      "date": "2026-05-27",
-      "time": "23:56",
+      "date": "2026-05-28",
+      "time": "01:46",
       "keywords": []
     },
     {
-      "title": "特朗普在白宫主持内阁会议。",
+      "title": "美国防长赫格塞思谈及伊朗：伊朗目前虽手握导弹，但已无法继续量产导弹、无人机和舰船。他们最终选择服软，主动前来进行谈判。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "特朗普在白宫主持内阁会议。",
+      "content": "美国防长赫格塞思谈及伊朗：伊朗目前虽手握导弹，但已无法继续量产导弹、无人机和舰船。他们最终选择服软，主动前来进行谈判。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
-      "date": "2026-05-27",
-      "time": "23:56",
+      "date": "2026-05-28",
+      "time": "01:44",
       "keywords": []
     },
     {
-      "title": "【白宫：美伊谈判“进展顺利” 特朗普已划出“红线”】当地时间5月27日，白宫就伊朗问题表示，美伊谈判“进展顺利”。并称特",
+      "title": "伊朗最高领袖派驻革命卫队代表：我方始终要求谈判团队严格遵循最高领袖制定的方针开展工作。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【白宫：美伊谈判“进展顺利” 特朗普已划出“红线”】当地时间5月27日，白宫就伊朗问题表示，美伊谈判“进展顺利”。并称特朗普已明确划出谈判“红线”，特朗普政府的立场始终明确，任何协议都必须确保伊朗无法获得核武器。（央视新闻）",
+      "content": "伊朗最高领袖派驻革命卫队代表：我方始终要求谈判团队严格遵循最高领袖制定的方针开展工作。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
-      "date": "2026-05-27",
-      "time": "23:52",
-      "keywords": []
-    },
-    {
-      "title": "伊朗外长阿拉格齐与新西兰外长温斯顿·彼得斯通电话，双方就地区最新局势、伊新双边关系以及伊美谈判事宜展开磋商。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "伊朗外长阿拉格齐与新西兰外长温斯顿·彼得斯通电话，双方就地区最新局势、伊新双边关系以及伊美谈判事宜展开磋商。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-05-27",
-      "time": "23:51",
+      "date": "2026-05-28",
+      "time": "01:44",
       "keywords": []
     }
   ]
