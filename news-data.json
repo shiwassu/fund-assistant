@@ -1,6 +1,6 @@
 {
-  "updated": "2026-05-29T04:57:12.533884",
-  "total": 191,
+  "updated": "2026-05-29T10:32:49.370667",
+  "total": 188,
   "sources": [
     "新浪财经",
     "akshare-财新",
@@ -8,161 +8,207 @@
   ],
   "priority_dist": {
     "high": 42,
-    "medium": 32,
-    "low": 117
+    "medium": 31,
+    "low": 115
   },
   "items": [
     {
-      "title": "大华继显：石药集团目标价下调至6港元 降至“沽出”评级",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-05-29/doc-inhzpspv7718568.shtml",
-      "content": "大华继显发布研报称，石药集团（01093）第一季业绩显著差过该行及市场预期，将目标价由8.8港元下调至6港元，评级降至“沽出”，以反映相当大的政策风险。",
+      "title": "AI推动存储芯片价值超越石油",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhzqimn0828779.shtml",
+      "content": "若长期合约稳定行业格局，市值破万亿的美光、三星、SK 海力士仍具估值优势SK 海力士称，未来三年市场需求远超自身产能。 如今，存储芯片的价值已然超越石油。",
+      "priority": "high",
+      "sectors": [
+        "能源",
+        "半导体",
+        "AI"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "10:30",
+      "keywords": []
+    },
+    {
+      "title": "突发！688033、603255，被证监会立案",
+      "source": "证券时报",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-05-29/doc-inhzqimi9423390.shtml",
+      "content": "两家A股公司被证监会立案。 5月29日，*ST天宜（688033）公告称，公司当天收到中国证监会对公司下发的《立案告知书》。因公司涉嫌信息披露违法违规...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-05-29",
-      "time": "04:28",
-      "keywords": [
-        "大华继显",
-        "石药集团",
-        "目标价"
-      ]
+      "time": "10:22",
+      "keywords": []
     },
     {
-      "title": "视频丨微纳星空涉围标串标，被暂停全军采购资格，IPO受理仅15天即“爆雷”",
+      "title": "自4月28日以来 日本已动用11.7万亿日元进行外汇干预",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-05-29/doc-inhzqimp7598475.shtml",
+      "content": "根据日本财务省周五公布的数据，日本在过去一个月中动用了11.7万亿日元（734亿美元）干预外汇市场，以支撑日元。 日本财务省公布了4月28日至5月27日期间的月度外汇干预数据...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "10:19",
+      "keywords": []
+    },
+    {
+      "title": "法国、意大利和西班牙通胀上涨 为欧洲央行加息提供数据支撑",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-05-29/doc-inhzqimp7597753.shtml",
+      "content": "法国、意大利和西班牙通胀上涨，为欧洲央行自2023年以来首次加息提供进一步理由。 周五数据显示，因战争推动能源成本飙升，法国5月份消费者价格指数同比上涨2.8%...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "10:18",
+      "keywords": []
+    },
+    {
+      "title": "美联储卡什卡利：现在就断定美联储需要升息还为时过早",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhzqimi9418747.shtml",
+      "content": "明尼阿波利斯联储行长尼尔·卡什卡里表示，现在断定利率需要上升还为时过早，但他认为美联储应当保留所有政策选项。 卡什卡里周五在首尔高丽大学的一场活动上表示...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "10:17",
+      "keywords": []
+    },
+    {
+      "title": "5月全球债券市场剧烈震荡 美以伊战争冲击市场",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-05-29/doc-inhzqimi9418399.shtml",
+      "content": "5月，美以伊战争再次撼动全球债券市场，随着交易员将央行加息预期计入价格，收益率一度攀升至数十年高位——但和平谈判取得进展的迹象以及疲软的经济数据又令收益率急剧回落...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "10:16",
+      "keywords": []
+    },
+    {
+      "title": "北京银行：200亿元无固定期限资本债券发行完毕",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/bank/2026-05-29/doc-inhzqimi9411246.shtml",
+      "content": "5月29日金融一线消息，北京银行发布公告称，经相关监管机构批准，北京银行2026年无固定期限资本债券（第一期）（以下简称“本期债券”）已于近日在全国银行间债券市场发行完...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "10:04",
+      "keywords": []
+    },
+    {
+      "title": "欧洲央行研究：美以伊战争可能对欧元区消费者造成双重创伤",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-05-29/doc-inhzqimk7873419.shtml",
+      "content": " 欧洲央行周五公布的一项研究显示，欧元区消费者已经因俄乌冲突而伤痕累累，而美以伊战争的动荡更是加速了他们态度的转变，这意味着经济冲击可能会更加深刻、更加迅速。",
+      "priority": "high",
+      "sectors": [
+        "消费"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "09:55",
+      "keywords": []
+    },
+    {
+      "title": "能源成本加剧 法国通胀率升至逾两年高点",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-05-29/doc-inhzqimn0803091.shtml",
+      "content": " 受伊朗战事影响，能源价格持续上涨，导致法国本月通胀率攀升至两年多来的最高水平，这让欧洲央行料将在6月会议上进行自2023年以来的首次加息。",
+      "priority": "high",
+      "sectors": [
+        "能源"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "09:53",
+      "keywords": []
+    },
+    {
+      "title": "南京银行：江苏交控变更股权获得监管机构批复",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/bank/2026-05-29/doc-inhzqimk7871183.shtml",
+      "content": "5月29日金融一线消息，南京银行发布公告称，江苏交通控股有限公司（以下简称“江苏交控”）是南京银行股份有限公司（以下简称“公司”）大股东...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "09:51",
+      "keywords": []
+    },
+    {
+      "title": "急寻投资副总的中华保险：利润靠投资撑，投资靠“外人”管",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-05-29/doc-inhzqimn0804147.shtml",
+      "content": "一家没有资管牌照的千亿险企，正在用市场化的招聘，寻找一个能同时打理800亿资金、消化地产烂账、扭转寿险颓势的人。 2026年5月，中华联合保险集团股份有限公司（下称“中华...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "09:45",
+      "keywords": []
+    },
+    {
+      "title": "三星、SK海力士股价大涨触发基金触线被动抛售",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhzqccm9528655.shtml",
+      "content": " 三星电子与 SK 海力士股价大幅飙升，反倒让部分基金陷入窘境。由于持仓规模触及监管上限，这些机构如今不得不被动减持。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "09:41",
+      "keywords": []
+    },
+    {
+      "title": "打破主流模式，江西银行聘任部门总担任首席合规官",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-05-29/doc-inhzqimk7872985.shtml",
+      "content": "21世纪经济报道记者 边万莉 5月28日，江西银行发布公告，董事会已审议通过聘任钱正担任首席合规官的议案。待其任职资格获监管核准后，将正式任职。",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "09:40",
+      "keywords": []
+    },
+    {
+      "title": "中小险企的噩梦：新能源车险做一单亏一单，怎么破？",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/companyt/2026-05-29/doc-inhzpspv7701368.shtml",
-      "content": "",
+      "url": "https://finance.sina.com.cn/money/insurance/bxdt/2026-05-29/doc-inhzqimi9407256.shtml",
+      "content": "来源：WEMONEY研究室 2026年一季度，随着出险率持续回落、费用管控深化、监管政策进一步松绑，新能源车险的“盈利拐点”信号愈发清晰。",
       "priority": "high",
       "sectors": [
-        "综合"
+        "能源"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-05-29",
-      "time": "04:01",
+      "time": "09:39",
       "keywords": []
-    },
-    {
-      "title": "港股午评：恒指涨1.11% 科指涨1.66% 科网股、内房股普涨 芯片股集体回调 联想大涨逾23% 碧桂园涨超19%",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-05-29/doc-inhzpspv7702729.shtml",
-      "content": "5月29日消息，港股三大指数高开高走。截至午间收盘，恒生指数涨1.11%，报25282.84，恒生科技指数涨1.66%，国企指数涨1.28%。盘面上，科网股普涨，联想涨超23%...",
-      "priority": "high",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "04:00",
-      "keywords": []
-    },
-    {
-      "title": "视频丨突发，微纳星空被暂停全军采购资格！围标串标属于重大违法行为！3年亏10亿，累计亏90多亿，要募50亿",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/companyt/2026-05-29/doc-inhzpspu0923479.shtml",
-      "content": "",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "04:00",
-      "keywords": []
-    },
-    {
-      "title": "拟迎首位“非邮政系”董事长，中邮人寿千亿之上待破“质变”关",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/wm/2026-05-29/doc-inhzpsps8029402.shtml",
-      "content": "来源：机构之家 在银行系保险公司普遍由股东银行“输血”并派驻高管的行业惯例下，中邮人寿保险股份有限公司（下称“中邮人寿”）即将迎来首位从市场化招聘引进并擢升至董事长...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "03:54",
-      "keywords": [
-        "中邮人寿",
-        "险企",
-        "中邮",
-        "净利润"
-      ]
-    },
-    {
-      "title": "玉渊谭天：欧盟若执意推动“产能过剩工具”，中方必将反制",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-05-29/doc-inhzpspv7693934.shtml",
-      "content": "来源：玉渊谭天 29日，欧委会即将召开会议，探讨对华经贸政策调整。 就在会议开始前几天，几个欧盟成员国提交了一份提案，试图推动“韧性工具”...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "03:44",
-      "keywords": []
-    },
-    {
-      "title": "摩根士丹利沈黎：外资加速流入中国，对中国资产的认知正转变为“一定要投”",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-05-29/doc-inhzpsps8022407.shtml",
-      "content": "5月29日，在深交所2026全球投资者大会上，摩根士丹利（亚洲）中国区在岸股权业务主管、摩根士丹利期货（中国）有限公司董事长沈黎表示，外资布局中国资产已迎来拐点...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "03:43",
-      "keywords": []
-    },
-    {
-      "title": "港交所集团行政总裁陈翊庭：截至今年4月底深股通累计成交额已达118万亿元人民币",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/2026-05-29/doc-inhzpspv7684508.shtml",
-      "content": " 5月28日-29日，深交所2026全球投资者大会在深圳举办。大会以“资本市场与创新成长——‘十五五’规划下的中国机遇”为主题，香港交易所集团行政总裁陈翊庭出席并致辞。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "03:40",
-      "keywords": []
-    },
-    {
-      "title": "港交所陈翊庭：持续打通全球资本对接中国资产通道，中国资产有两大亮点格外吸引外资机构",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-05-29/doc-inhzpsps8016402.shtml",
-      "content": "5月29日，在深交所2026全球投资者大会上，香港交易所集团行政总裁陈翊庭表示，受地缘政治不确定性加剧、国内科创产业快速发展双重影响，全球投资者资产分散化需求提升...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "03:38",
-      "keywords": []
-    },
-    {
-      "title": "西锐午前大涨超20% 第一季度交付飞机196架同比增长30.67%",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/wm/2026-05-29/doc-inhzpspv7677513.shtml",
-      "content": "西锐（02507）早盘大涨超20%，截至发稿，股价上涨20.27%，现报39.04港元，成交额2.49亿港元。 5月28日，美国通用航空制造商协会（GAMA）发布了2026年第一季度通用航空飞机...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "03:34",
-      "keywords": [
-        "西锐",
-        "大涨"
-      ]
     },
     {
       "title": "美元本月上涨，交易员已将美国加息预期反映在定价中，但这也让华尔街策略师对美元进一步走升持谨慎态度。",
@@ -501,317 +547,299 @@
       ]
     },
     {
-      "title": "【深圳全链奔赴“新一代世界一流汽车城”】2026粤港澳大湾区车展今日在深圳国际会展中心启幕，鸿蒙智行、比亚迪集团、华为乾",
+      "title": "美联储施密德：主要关注点在将通胀恢复至2%的目标。就业市场保持平衡，部分受医疗行业招聘的推动。飙升的油价正在压制消费能力",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【深圳全链奔赴“新一代世界一流汽车城”】2026粤港澳大湾区车展今日在深圳国际会展中心启幕，鸿蒙智行、比亚迪集团、华为乾崑等本土企业各设专属展馆，奥迪等国际知名品牌也纷纷搭载华为智驾技术同台亮相。这既是深圳新能源汽车产业的一场“主场秀”，也是这座城市聚力打造新一代世界一流汽车城的生动缩影。深圳已构建起电池、电机、电控至整车制造的完整产业链闭环，集聚相关企业超2400家。其中，鸿蒙智行全系车型累计交",
+      "content": "美联储施密德：主要关注点在将通胀恢复至2%的目标。就业市场保持平衡，部分受医疗行业招聘的推动。飙升的油价正在压制消费能力。",
       "priority": "high",
       "sectors": [
         "消费"
       ],
       "period": "noon",
       "date": "2026-05-29",
-      "time": "12:52",
+      "time": "18:29",
       "keywords": []
     },
     {
-      "title": "韩国综合股价指数（KOSPI）盘中创历史新高。",
+      "title": "美联储施密德：有证据表明，人工智能正在抑制招聘，但并未导致裁员。与过去相比，美国经济对能源冲击的暴露程度降低。美联储必须",
       "source": "Tushare-sina",
       "url": "",
-      "content": "韩国综合股价指数（KOSPI）盘中创历史新高。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-05-29",
-      "time": "12:50",
-      "keywords": []
-    },
-    {
-      "title": "【全球存储产值将突破5500亿美元】5月27日，上交所公开信息显示，国产存储芯片龙头企业长鑫科技科创板IPO获上市审核委",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【全球存储产值将突破5500亿美元】5月27日，上交所公开信息显示，国产存储芯片龙头企业长鑫科技科创板IPO获上市审核委员会通过；国内闪存龙头长江存储，已于5月19日正式进入IPO上市辅导期。国际半导体产业协会预测，2026年全球存储产值将突破5500亿美元，成为半导体产业第一增长极。存储行业为何会出现爆发式增长，并且成为人工智能长期发展绕不开的短板？专家表示：AI的发展短期缺芯片，长期缺能源，永",
-      "priority": "high",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-05-29",
-      "time": "12:47",
-      "keywords": []
-    },
-    {
-      "title": "【伊朗官员称无意将浓缩铀运出伊朗】伊朗伊斯兰议会国家安全和外交政策委员会主席易卜拉欣·阿齐兹表示，伊方没有将浓缩铀运出伊",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【伊朗官员称无意将浓缩铀运出伊朗】伊朗伊斯兰议会国家安全和外交政策委员会主席易卜拉欣·阿齐兹表示，伊方没有将浓缩铀运出伊朗的计划。阿齐兹对俄新社表示，伊朗无意将浓缩铀转移到第三国、中间方或任何其他地方。俄罗斯外交部发言人扎哈罗娃28日在例行记者会上表示，只有伊朗才有权处置其拥有的浓缩铀，包括决定是否将浓缩铀运到其他国家，俄方从未向伊朗强加关于将浓缩铀运到俄境内的要求。美东时间25日下午，美国总统特",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-05-29",
-      "time": "12:43",
-      "keywords": []
-    },
-    {
-      "title": "【三菱汽车发布与日产合作的皮卡及Kei级小型汽车】三菱汽车周五在其新中期业务计划中宣布，将与日产汽车 在北美开展一项皮卡",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【三菱汽车发布与日产合作的皮卡及Kei级小型汽车】三菱汽车周五在其新中期业务计划中宣布，将与日产汽车 在北美开展一项皮卡车联合项目。三菱汽车表示，在日本，两家公司还将共同开发和生产Kei级小型汽车，该车型可采用汽油动力或纯电动驱动。三菱在演示文稿中表示，公司计划投资约1万亿日元（62.8 亿美元），力争在2029财年实现1600亿日元的营业利润，营业利润率达到4.5%，股东权益回报率达到10%。",
-      "priority": "high",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-05-29",
-      "time": "12:42",
-      "keywords": []
-    },
-    {
-      "title": "印度尼西亚农业部副部长：棕榈油精炼企业在出口集中化政策的过渡期将维持正常运营。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "印度尼西亚农业部副部长：棕榈油精炼企业在出口集中化政策的过渡期将维持正常运营。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-05-29",
-      "time": "12:39",
-      "keywords": []
-    },
-    {
-      "title": "【电力股年内平均上涨超40% 43股一季度实现归母净利润同比增长】5月29日早盘，电力板块多股涨停，截至午间休市，晋控电",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【电力股年内平均上涨超40% 43股一季度实现归母净利润同比增长】5月29日早盘，电力板块多股涨停，截至午间休市，晋控电力、深南电A等8股涨停，其中晋控电力获超150万手买单封板，华能蒙电封单量也超过60万手。据证券时报·数据宝统计，电力板块个股年初至今普遍上涨，平均累计涨幅达到40.08%，华电辽能、华电能源、豫能控股等股年内累计涨幅超过100%。从业绩上来看，43只电力股一季度实现归母净利润同",
+      "content": "美联储施密德：有证据表明，人工智能正在抑制招聘，但并未导致裁员。与过去相比，美国经济对能源冲击的暴露程度降低。美联储必须表明降低通胀的决心。大多数数据指向经济持续增长。我不太认同近期通胀上升是暂时的看法。截至目前，美国能源生产商尚未增加投资以扩大生产。",
       "priority": "high",
       "sectors": [
         "能源"
       ],
       "period": "noon",
       "date": "2026-05-29",
-      "time": "12:37",
+      "time": "18:26",
       "keywords": []
     },
     {
-      "title": "【“耐心资本”持续青睐！红利低波ETF华泰柏瑞（512890）近5个交易日吸金超12亿，规模逼近320亿】5月29日，市",
+      "title": "【上期所对部分客户采取限制开仓监管措施】2026年5月29日，1组实际控制关系账户在相关合约上账户组日内开仓交易量超限达",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【“耐心资本”持续青睐！红利低波ETF华泰柏瑞（512890）近5个交易日吸金超12亿，规模逼近320亿】5月29日，市场早盘高开低走，沪指跌0.37％，深成指、创指均跌1％，大消费板块逆势走强。在此背景下，红利低波ETF华泰柏瑞（512890）涨1.66％，报1.163元，换手率1.62％，半日成交额5.21亿元，居同类标的ETF首位。资金流向上，红利低波ETF华泰柏瑞（512890）长期受资金",
+      "content": "【上期所对部分客户采取限制开仓监管措施】2026年5月29日，1组实际控制关系账户在相关合约上账户组日内开仓交易量超限达到交易所处理标准。上述客户交易行为违反《上海期货交易所异常交易行为管理办法》第16条之规定，交易所决定对相关客户在相应品种上采取限制开仓的监管措施。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-29",
-      "time": "12:34",
+      "time": "18:22",
       "keywords": []
     },
     {
-      "title": "日本东证股价指数创下历史新高。",
+      "title": "【自4月28日以来 日本已动用11.7万亿日元进行外汇干预】根据日本财务省周五公布的数据，日本在过去一个月中动用了11.",
       "source": "Tushare-sina",
       "url": "",
-      "content": "日本东证股价指数创下历史新高。",
+      "content": "【自4月28日以来 日本已动用11.7万亿日元进行外汇干预】根据日本财务省周五公布的数据，日本在过去一个月中动用了11.7万亿日元（734亿美元）干预外汇市场，以支撑日元。日本财务省公布了4月28日至5月27日期间的月度外汇干预数据。媒体此前根据日本央行最终账户数据以及货币经纪商的估算分析认为，日本用于干预汇市的资金规模可能高达10万亿日元。 一位知情人士曾表示，日本于4月30日入场干预汇市；市场",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-29",
-      "time": "12:30",
+      "time": "18:17",
       "keywords": []
     },
     {
-      "title": "【NASA将评估火箭爆炸事故影响】当地时间5月28日晚，美国航天企业蓝色起源公司的“新格伦火箭”静态点火测试期间发生巨大",
+      "title": "【机构：美国国债收益率持稳，美元小幅走高】大多数期限的美国国债收益率几乎没有变化，同时美元小幅走高。市场继续在对美伊短期",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【NASA将评估火箭爆炸事故影响】当地时间5月28日晚，美国航天企业蓝色起源公司的“新格伦火箭”静态点火测试期间发生巨大爆炸。美国国家航空航天局（NASA）局长艾萨克曼随后在社交媒体平台发文表示，NASA已获悉此次事故。艾萨克曼在帖文中强调，航天飞行“容错率极低”，而研发新重型运载火箭技术更是难上加难——NASA将与蓝色起源公司协作，全力支持对此次异常情况进行彻查，评估对近期任务的影响，并尽快恢复",
+      "content": "【机构：美国国债收益率持稳，美元小幅走高】大多数期限的美国国债收益率几乎没有变化，同时美元小幅走高。市场继续在对美伊短期内达成协议的希望与协议进一步推迟的风险之间摇摆。Hola Prime首席执行官Somesh Kapuria在一份报告中表示：“鉴于最近几个月谈判的不可预测性，如果谈判受挫，市场可能仍面临逆转的风险。“他表示，地缘政治事态发展可能仍是主要的市场驱动因素，但注意力也将转向下周的采购经",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-29",
-      "time": "12:28",
+      "time": "18:15",
       "keywords": []
     },
     {
-      "title": "【加拿大弃美产改买瑞典预警机】据美联社报道，加拿大总理卡尼当地时间5月27日宣布，加拿大将采购瑞典萨博集团和加拿大庞巴迪",
+      "title": "【荷兰国际：法国陷入衰退的可能性似乎越来越大】荷兰国际集团的Charlotte de Montpellier在一份报告中",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【加拿大弃美产改买瑞典预警机】据美联社报道，加拿大总理卡尼当地时间5月27日宣布，加拿大将采购瑞典萨博集团和加拿大庞巴迪公司联合制造的预警机，而非美国产品。卡尼此前曾表示，要推动军购多元化、减少对美国的依赖。加拿大分析人士认为，上述军购决定是“检验卡尼政府摆脱对美国军事能力依赖政策的重要试金石”。 除预警机项目外，加拿大目前还在重新评估与美国洛克希德-马丁公司签署的88架F-35战斗机采购协议。",
+      "content": "【荷兰国际：法国陷入衰退的可能性似乎越来越大】荷兰国际集团的Charlotte de Montpellier在一份报告中表示，在一系列令人失望的数据公布后，法国陷入衰退的可能性似乎越来越大。第一季度GDP增速从最初预估的零增长下修至负0.1%。该季度家庭购买力大幅下降，储蓄率上升，消费下降。最近，4月份商品消费下降，而5月份消费者信心暴跌至2023年3月以来的最低水平。“政府今年0.9%的增长目标",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-29",
-      "time": "12:14",
+      "time": "18:14",
       "keywords": []
     },
     {
-      "title": "中金：大麦娱乐维持跑赢行业评级 目标价0.90港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-05-29/doc-inhzpspr9583667.shtml",
-      "content": "中金发布研报称，大麦娱乐（01060）现价对应18.3/15.5倍FY27/28经调整P/E。维持跑赢行业评级。鉴于行业估值水位回落，目标价0.9港元，对应27.4倍FY27经调整P/E...",
-      "priority": "medium",
+      "title": "【*ST岩石：公司股票将进入退市整理期交易】*ST岩石公告，公司股票将于2026年6月1日进入退市整理期交易，预计最后交",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "【*ST岩石：公司股票将进入退市整理期交易】*ST岩石公告，公司股票将于2026年6月1日进入退市整理期交易，预计最后交易日为2026年6月22日。退市整理期为15个交易日，届满后5个交易日内，上海证券交易所将对公司股票予以摘牌，公司股票终止上市。在退市整理期间，公司将不筹划或实施重大资产重组事项。提醒投资者注意风险，及时了结相关业务。",
+      "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-05-29",
-      "time": "04:30",
-      "keywords": [
-        "中金",
-        "大麦娱乐",
-        "跑赢行业"
-      ]
-    },
-    {
-      "title": "“耐心资本”持续青睐！红利低波ETF华泰柏瑞（512890）近5个交易日吸金超12亿，规模逼近320亿",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/original/2026-05-29/doc-inhzpspr9582740.shtml",
-      "content": "5月29日，市场早盘高开低走，沪指跌0.37%，深成指、创指均跌1%，大消费板块逆势走强。在此背景下，红利低波ETF华泰柏瑞（512890）涨1.66%，报1.163元，换手率1.62%...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "04:29",
+      "time": "18:12",
       "keywords": []
     },
     {
-      "title": "大摩：石药集团目标价上调至11港元 维持“增持”评级",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-05-29/doc-inhzpspu0941857.shtml",
-      "content": "摩根士丹利发布研报称，石药集团（01093）发布第一季度业绩后，维持正面看法，并在报告指，国内产品销售似乎终于恢复正增长，而过往 BD （业务拓展）交易合作及潜在新 BD...",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "04:29",
-      "keywords": [
-        "大摩",
-        "石药集团",
-        "目标价"
-      ]
-    },
-    {
-      "title": "交银国际：滔博维持“中性”投资评级 目标价2.98港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-05-29/doc-inhzpspu0940779.shtml",
-      "content": "交银国际发布研报称，下调滔博（06110）2027-28年盈利预测5-11%，并引入2029年预测，基于2027财年盈利预测的13倍目标市盈率，维持目标价2.98港元及“中性”的投资评级。",
+      "title": "上月“牛王”变“熊王”，688227，融资客大撤离！",
+      "source": "数据宝",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-05-29/doc-inhzqimn0817733.shtml",
+      "content": "5月A股市场冲高回落。 5月，A股市场冲高回落。5月14日，上证指数盘中上探4258.86点，为2015年8月以来高点，随后指数走低，最新报4068.57点。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-05-29",
-      "time": "04:27",
-      "keywords": [
-        "交银国际",
-        "滔博",
-        "目标价"
-      ]
+      "time": "10:11",
+      "keywords": []
     },
     {
-      "title": "廉颇老矣尚能饭否！格林生物第三次冲击IPO：84岁董事长掌舵接班机制缺失上市委留作业要求说明控制权稳定性",
+      "title": "上交所重要公告：调整上证50、上证180、上证380、科创50等指数样本，于2026年6月12日收市后生效",
+      "source": "长安街知事",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-05-29/doc-inhzqimk7895478.shtml",
+      "content": "5月29日，上海证券交易所、中证指数有限公司发布“关于上证50、上证180、上证380等指数定期调整结果的公告”： 根据指数规则，经指数专家委员会审议...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "10:09",
+      "keywords": []
+    },
+    {
+      "title": "源达信息宏观策略周报：主要指数表现分化，化工、硬件设备、机械调研关注度较高",
+      "source": "新浪证券",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-05-29/doc-inhzqimp7587830.shtml",
+      "content": "来源：河北源达信息技术股份有限公司 目录 一、本周市场回顾 3 1．主要指数表现 3 2．申万一级行业涨跌幅 3 二、本周机构调研情况 4机构调研热门行业 4...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "10:04",
+      "keywords": []
+    },
+    {
+      "title": "中天策略:5月29日市场分析",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-05-29/doc-inhzpsps8042880.shtml",
-      "content": "来源：国际投行研究报告 格林生物第三次冲击IPO成功过会：84岁董事长掌舵接班机制缺失申报板块深交所·创业板审议日期2026年5月28日审议结果✅审核通过保荐机构长江证券承销...",
-      "priority": "medium",
-      "sectors": [
-        "医药"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "04:01",
-      "keywords": []
-    },
-    {
-      "title": "观点汇总|浙商证券王大霁：七轮共识行情五大阶段，AI算力“风险钝化期”持股为主，盯紧三类拐点信号",
-      "source": "新浪证券",
-      "url": "https://finance.sina.com.cn/roll/2026-05-29/doc-inhzpspr9571070.shtml",
-      "content": "5月29日，浙商证券策略首席分析师王大霁做客新浪证券直播间，全面复盘A股历史上七轮板块共识行情，提炼主线行情完整生命周期规律，并定位当前AI算力赛道所处阶段...",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "04:00",
-      "keywords": []
-    },
-    {
-      "title": "青岛银行4.1亿股解禁在即！股价U型反弹后、海尔产发如何抉择？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/wm/2026-05-29/doc-inhzpsps8032206.shtml",
-      "content": "来源：机构之家 5月28日晚间，一则青岛银行（002948.SZ）海量股权解禁事件，引发市场关注。 根据公告内容显示，该行首次公开发行A股前已发行股份解除限售的数量为4.1亿股...",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "03:54",
-      "keywords": [
-        "青岛银行",
-        "海尔",
-        "股价"
-      ]
-    },
-    {
-      "title": "长飞光纤光缆午前涨超11% 长飞光纤A股盘后将正式进入MSCI新兴市场指数",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/wm/2026-05-29/doc-inhzpsps8014460.shtml",
-      "content": "长飞光纤光缆（06869）早盘涨超11%，截至发稿，股价上涨11.25%，现报233.40港元，成交额42.21亿港元。 AI训练和推理集群需求大增导致光纤供不应求。",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-05-29/doc-inhzqimp7587786.shtml",
+      "content": "",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-05-29",
-      "time": "03:39",
-      "keywords": [
-        "长飞光纤光缆",
-        "涨超"
-      ]
-    },
-    {
-      "title": "AI行情还能涨多久？浙商证券王大霁：山高路窄边走边看，紧盯三类拐点信号",
-      "source": "新浪证券",
-      "url": "https://finance.sina.com.cn/roll/2026-05-29/doc-inhzpspu0909829.shtml",
-      "content": "5月29日，浙商证券策略首席分析师王大霁做客新浪证券直播间，通过复盘A股历史共识行情规律，定位当前AI算力主线所处阶段，并给出清晰的策略判断与跟踪框架。",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "03:38",
+      "time": "10:04",
       "keywords": []
     },
     {
-      "title": "7倍牛股利通电子隐秘的角落？部分租金套利疑似无法覆盖最高融资利率 算力规模是否与资产匹配",
-      "source": "新浪证券",
-      "url": "https://finance.sina.com.cn/stock/observe/2026-05-29/doc-inhzpspv7673187.shtml",
-      "content": "出品：新浪财经上市公司研究院 文/夏虫 核心观点：7倍牛股利通电子在算力加持下业绩暴涨。然而，利通电子高增业绩疑似与重资产杠杆驱动的算力租赁赛道出现不匹配。",
+      "title": "金融行业算力进化史：从“别宕机”到“缺GPU”",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-05-29/doc-inhzqimi9424141.shtml",
+      "content": "来源：柒财经 随着算力成为数字时代的“水电煤”，如今在金融行业，高性能计算已从后台的成本中心，快速跃升为前台竞争的核心引擎，更被银行、保险...",
       "priority": "medium",
       "sectors": [
         "金融",
         "AI"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-05-29",
-      "time": "03:30",
+      "time": "10:03",
+      "keywords": []
+    },
+    {
+      "title": "日本部分金融机构将获OpenAI最新模型使用权限 以强化网络安全防御",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhzqimn0809975.shtml",
+      "content": " 日本财务大臣片山皋月表示，部分日本金融机构将获得OpenAI最新人工智能模型的使用权限，以加强应对网络安全风险的准备。",
+      "priority": "medium",
+      "sectors": [
+        "金融",
+        "AI"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "10:03",
+      "keywords": []
+    },
+    {
+      "title": "三星、SK海力士暴涨“冲击”基金持仓封顶线 引发强制抛盘",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhzqimn0805977.shtml",
+      "content": "三星电子和SK海力士股价扶摇直上，不料却给一些基金添了烦恼：它们的仓位已经变得过于庞大，以至于现在不得不卖出了。 随着这两家韩国芯片制造商股价创出盘中新高...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "09:57",
+      "keywords": []
+    },
+    {
+      "title": "苹果加码端侧人工智能，主推设备本地运行而非云端运算",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhzqimp7583064.shtml",
+      "content": "当下科技行业纷纷斥巨资建设人工智能数据中心，而苹果计划进一步展现iPhone 等设备本地运行 AI 模型的优势。 下月举办的苹果全球开发者大会上...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "09:57",
+      "keywords": []
+    },
+    {
+      "title": "分析：冶炼厂缓冲库存耗尽，铝紧缺局面或进一步加剧",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-05-29/doc-inhzqimn0802693.shtml",
+      "content": "铝的用途无处不在，从福特F-150皮卡到易拉罐等各种产品都会用到它。自中东冲突爆发以来，铝价涨幅不及原油、液化天然气或化肥。 一些行业专家警告称...",
+      "priority": "medium",
+      "sectors": [
+        "有色"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "09:52",
+      "keywords": []
+    },
+    {
+      "title": "长城基金：A股大概率维持宽幅震荡、结构活跃格局",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/wm/2026-05-29/doc-inhzqimk7870597.shtml",
+      "content": "近期A股的核心特征不是趋势性走弱，而是高位结构再平衡。市场在高成交背景下对前期拥挤交易进行消化，风格从高弹性的科技成长向更强调业绩兑现与防御属性的方向切换。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "09:50",
+      "keywords": []
+    },
+    {
+      "title": "华虹公司、源杰科技、摩尔线程、沐曦股份，纳入重要指数",
+      "source": "第一财经",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-05-29/doc-inhzqimi9403109.shtml",
+      "content": "5月29日，上交所公告，调整上证50、上证180、上证380、科创50等指数样本。 其中，科创50指数样本调入华虹公司、源杰科技、摩尔线程、沐曦股份...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "09:47",
+      "keywords": []
+    },
+    {
+      "title": "CVC接近达成40亿美元交易，拟收购国际香精香料公司食品配料业务",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhzqimk7868892.shtml",
+      "content": "出售旗下最大业务板块，是该公司提升盈利能力的最新举措 据知情人士透露，国际香精香料公司（IFF）即将达成协议，将旗下食品配料业务作价 超 40 亿美元（含债务）...",
+      "priority": "medium",
+      "sectors": [
+        "消费"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "09:47",
+      "keywords": []
+    },
+    {
+      "title": "西安银行第一大股东罕见弃权利润分配预案",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-05-29/doc-inhzqimn0802938.shtml",
+      "content": "来源：今日行长 营收增速领跑的西安银行分红议案惹争议！ 作者 | 时也运也  编辑 | 顾柠 业绩领跑，分红垫底，西北地区资产规模最大的城商行走出罕见“剪刀差”。",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "09:41",
+      "keywords": []
+    },
+    {
+      "title": "西安银行、苏农银行分红方案遭股东不满 获大比例反对和弃权票",
+      "source": "科技金融在线",
+      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-05-29/doc-inhzqimi9404325.shtml",
+      "content": "“近期，西安银行在2025年度利润分配预案的议案上，遭大规模弃票。苏农银行也在2025年度利润分配方案以及董事薪酬方案中，遭遇大比例反对票。",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "09:40",
       "keywords": []
     },
     {
@@ -1079,536 +1107,366 @@
       ]
     },
     {
-      "title": "穆迪评级将墨西哥的信用评级下调至投资级的最低级别，理由是该国财政状况恶化，这引发了人们对拉丁美洲第二大经济体正走向垃圾级的担忧",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-05-21/102446068.html?cxapp_link=true",
-      "content": "穆迪评级将墨西哥的信用评级下调至投资级的最低级别，理由是该国财政状况恶化，这引发了人们对拉丁美洲第二大经济体正走向垃圾级的担忧",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-05-29",
-      "time": "--:--",
-      "keywords": [
-        "市场动态"
-      ]
-    },
-    {
-      "title": "据知情人士称，美国总统唐纳德·特朗普准备最早于周四颁布一道旨在加强人工智能网络安全的行政命令，并已邀请科技行业领袖参加此次活动",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-05-21/102446064.html?cxapp_link=true",
-      "content": "据知情人士称，美国总统唐纳德·特朗普准备最早于周四颁布一道旨在加强人工智能网络安全的行政命令，并已邀请科技行业领袖参加此次活动",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-05-29",
-      "time": "--:--",
-      "keywords": [
-        "市场动态"
-      ]
-    },
-    {
-      "title": "【联泓新科：参股公司绵阳达高特主要生产BCB单体 可用于PCB、先进封装等领域】联泓新科5月29日在互动平台表示，绵阳达",
+      "title": "【新诺威：控股子公司收到阿斯利康4.2亿美元首付款】新诺威公告，公司控股子公司石药集团巨石生物制药有限公司于2026年5",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【联泓新科：参股公司绵阳达高特主要生产BCB单体 可用于PCB、先进封装等领域】联泓新科5月29日在互动平台表示，绵阳达高特为公司参股公司，主要生产BCB单体，可用于PCB、先进封装等领域；其相关业务占公司业务比重较小，对公司业绩贡献存在一定不确定性。",
+      "content": "【新诺威：控股子公司收到阿斯利康4.2亿美元首付款】新诺威公告，公司控股子公司石药集团巨石生物制药有限公司于2026年5月29日收到阿斯利康支付的4.2亿美元首付款。该笔款项的到账，有效充实巨石生物的现金储备，有利于推进管线研发及整体战略布局。本次收款预计将对公司业绩以及财务状况产生积极影响，具体金额以审计数据为准。",
       "priority": "medium",
       "sectors": [
-        "半导体"
+        "医药"
       ],
       "period": "noon",
       "date": "2026-05-29",
-      "time": "12:44",
+      "time": "18:14",
       "keywords": []
     },
     {
-      "title": "【满坤科技：公司尚未向特斯拉供应L3级别自动驾驶相关PCB产品】满坤科技5月29日在互动平台表示，公司智能驾驶PCB产品",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【满坤科技：公司尚未向特斯拉供应L3级别自动驾驶相关PCB产品】满坤科技5月29日在互动平台表示，公司智能驾驶PCB产品目前订单较为充足。公司智能驾驶PCB产品当前已具备支持L3级别自动驾驶的技术能力，更高阶自动驾驶应用尚处于技术研发与储备阶段。截至目前，公司尚未向特斯拉供应L3级别自动驾驶相关的PCB产品，公司将密切关注行业技术发展，积极拓展市场机会。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-05-29",
-      "time": "12:43",
-      "keywords": []
-    },
-    {
-      "title": "【长江存储陈南翔：华为“韬定律”非常好 中国半导体人要扛起大旗】“华为‘韬定律’非常好，这是中国半导体产业对全球的贡献。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【长江存储陈南翔：华为“韬定律”非常好 中国半导体人要扛起大旗】“华为‘韬定律’非常好，这是中国半导体产业对全球的贡献。”在2026第十届集微大会上，半导体投资联盟理事长、中国半导体行业协会理事长陈南翔如此评价。陈南翔也是近期开启IPO辅导的长江存储的董事长。作为半导体龙头企业的掌门人，他对半导体行业的理解具有标杆意义。他在会上表示，中国半导体人一定要扛起新兴支柱产业的大旗。",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-05-29",
-      "time": "12:42",
-      "keywords": []
-    },
-    {
-      "title": "【联想股价势创1999年以来最佳单月表现 投资者看好AI驱动的增长前景】联想集团股价本月以来已经上涨约一倍，势创1999",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【联想股价势创1999年以来最佳单月表现 投资者看好AI驱动的增长前景】联想集团股价本月以来已经上涨约一倍，势创1999年以来最大单月涨幅，投资者看好该公司由人工智能(AI)驱动的增长前景。联想集团在香港上市的股票周五一度暴涨31%，今年以来在恒生中国企业指数成分股中表现最佳。该公司财报显示，AI相关收入帮助公司缓解了零部件成本上升带来的压力。此外，戴尔对于AI服务器销售的乐观展望也提振了亚洲计算",
-      "priority": "medium",
+      "title": "大型律所自研AI，哈维、莱戈拉遭遇新挑战",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhzqimp7599599.shtml",
+      "content": "作者：朱莉娅・霍恩施泰因 此前外界担忧，Anthropic、OpenAI 推出的高端 AI 工具会让哈维、莱戈拉这类法律类应用逐渐失去市场。但两家初创企业近期营收再创新高...",
+      "priority": "low",
       "sectors": [
         "AI"
       ],
-      "period": "noon",
+      "period": "morning",
       "date": "2026-05-29",
-      "time": "12:40",
+      "time": "10:21",
       "keywords": []
     },
     {
-      "title": "三井物产正寻求液化天然气投资以满足数据中心的电力需求",
+      "title": "三年期存款也不卖了！一季度净息差大降21个基点后，多家民营银行压缩“2”字头产品",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/roll/2026-05-29/doc-inhzqimi9418349.shtml",
+      "content": " 财联社5月29日讯（记者 郭子硕）继去年五年期大额存单批量“隐退”后，民营银行存款产品调整的风向正蔓延至三年期存款产品。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "10:14",
+      "keywords": []
+    },
+    {
+      "title": "中国工商银行连续六年获评中国最佳项目融资银行",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-05-29/doc-inhzqimk7889948.shtml",
+      "content": "来源：中国工商银行 近日，香港《财资》杂志（The Asset）发布2026年度“AAA全球可持续基础设施奖项”评选结果，中国工商银行凭借在“走出去”与“一带一路”金融服务领域的优异...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "10:12",
+      "keywords": []
+    },
+    {
+      "title": "消息人士：印度石油公司从西非、中东购入500万桶原油",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhzpspv7730932.shtml",
-      "content": " 媒体援引三井物产首席执行官堀健一的话报道称，该公司正寻求投资中东、美国和澳大利亚的液化天然气（LNG）项目，以满足数据中心日益增长的电力需求。",
+      "url": "https://finance.sina.com.cn/world/2026-05-29/doc-inhzqimk7881773.shtml",
+      "content": "贸易消息人士周五透露，印度国有炼油企业印度石油公司本周通过招标，采购了500万桶来自西非及中东地区的原油。 消息称，该公司购入安哥拉基桑杰与内姆巴原油...",
       "priority": "low",
       "sectors": [
         "能源"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-05-29",
-      "time": "04:47",
+      "time": "10:10",
       "keywords": []
     },
     {
-      "title": "三菱汽车发布与日产合作的皮卡及Kei级小型汽车",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhzpspv7727938.shtml",
-      "content": "三菱汽车周五在其新中期业务计划中宣布，将与日产汽车 在北美开展一项皮卡车联合项目。 三菱汽车表示，在日本，两家公司还将共同开发和生产Kei级小型汽车...",
+      "title": "ATFX:美伊谈判忽冷忽热 原油试探85关口",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/forex/forexroll/2026-05-29/doc-inhzqimn0814823.shtml",
+      "content": "5月29日，ATFX：28日，伊朗向4艘违规船只进行警告射击，加重了市场对霍尔木兹海峡重继续封锁的担忧。除此之外，美国和伊朗之间还有一些小规模的对抗活动。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "10:10",
+      "keywords": [
+        "外汇"
+      ]
+    },
+    {
+      "title": "遇到消费纠纷该找谁 几个实用的投诉渠道一次说清楚",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/consume/xiaofei/2026-05-29/doc-inhzqimi9413739.shtml",
+      "content": "日常生活中，谁还没遇到过几件闹心的事：网购的商品货不对板、办了会员卡商家跑路、装修公司延期还增项、快递包裹破损丢失等等。",
       "priority": "low",
       "sectors": [
         "消费"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-05-29",
-      "time": "04:42",
+      "time": "10:09",
       "keywords": []
     },
     {
-      "title": "联想股价势创1999年以来最佳单月表现 投资者看好AI驱动的增长前景",
+      "title": "联发科预计AI业务收入将在2027年迎来爆发式增长",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhzpspv7726662.shtml",
-      "content": " 联想集团股价本月以来已经上涨约一倍，势创1999年以来最大单月涨幅，投资者看好该公司由人工智能（AI）驱动的增长前景。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhzqimp7590997.shtml",
+      "content": "联发科预计，今年取得强劲增长后，其正在发展的AI数据中心业务收入将在2027年实现数倍增长。 联发科总部位于新竹、以智能手机芯片领域与高通竞争而闻名。",
       "priority": "low",
       "sectors": [
         "AI"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-05-29",
-      "time": "04:40",
+      "time": "10:09",
       "keywords": []
     },
     {
-      "title": "中通快递-W于5月28日斥资499.33万美元回购22.39万股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/wm/2026-05-29/doc-inhzpsps8047655.shtml",
-      "content": " 中通快递-W（02057）发布公告，于2026年5月28日，该公司斥资499.33万美元回购22.39万股股份，每股回购价22.18-22.57美元。",
+      "title": "OpenAI推出生物防御专项计划",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhzqimp7590234.shtml",
+      "content": "OpenAI正式推出一款工具，助力研发新型生物防御技术、完善疫情应对准备能力。 OpenAI全新设立罗莎琳德生物防御计划（Rosalind Biodefense Program）...",
+      "priority": "low",
+      "sectors": [
+        "医药",
+        "AI"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "10:08",
+      "keywords": []
+    },
+    {
+      "title": "科普:跌的时候买 还是涨的时候买",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/forex/forexroll/2026-05-29/doc-inhzqimi9412622.shtml",
+      "content": "5月29日，ATFX科普：行情有两种类型，上涨和下跌；K线有两种颜色，红涨和绿跌；消息有两种结果，利多和利空。交易的世界很简单，似乎都是二元的，非黑即白。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "10:08",
+      "keywords": [
+        "外汇"
+      ]
+    },
+    {
+      "title": "万科股东会：将遵循“同债同权、公平公正”原则推进6-7月债券展期",
+      "source": "澎湃新闻",
+      "url": "https://finance.sina.com.cn/jjxw/2026-05-29/doc-inhzqimk7882714.shtml",
+      "content": "“2025年公司围绕‘保交付’、‘保兑付’、‘抓经营’、‘强管理’和‘保稳定’五大目标，迎难而上，实现了生产经营和团队的整体稳定。但当前万科面临的困难依然很大...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "10:08",
+      "keywords": []
+    },
+    {
+      "title": "婴儿潮一代投资者慎入SpaceX股票",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhzqimk7877430.shtml",
+      "content": "本周太空探索技术公司（SpaceX）相关消息整体偏少，但这一局面很快就会改变。马斯克旗下这家航天企业预计将于下周开启投资者路演...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "10:02",
+      "keywords": []
+    },
+    {
+      "title": "OEXN:原油库存继续下滑支撑油价",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/roll/2026-05-29/doc-inhzqimk7876448.shtml",
+      "content": "5月29日，最新能源数据继续显示原油与成品油库存处于下降通道。OilPrice 5月28日11:08 CDT报道显示，EIA数据表明，截至5月22日当周美国商业原油库存减少330万桶至4...",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "10:01",
+      "keywords": [
+        "外汇"
+      ]
+    },
+    {
+      "title": "中国银行信用审批部原副总经理辛强接受纪律审查和监察调查",
+      "source": "中央纪委国家监委",
+      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-05-29/doc-inhzqimp7590618.shtml",
+      "content": "中央纪委国家监委网站讯据中央纪委国家监委驻中国银行纪检监察组、河北省纪委监委消息：中国银行信用审批部原副总经理辛强涉嫌严重违纪违法...",
       "priority": "low",
       "sectors": [
         "金融"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-05-29",
-      "time": "04:25",
-      "keywords": [
-        "中通快递-W",
-        "回购"
-      ]
-    },
-    {
-      "title": "名创优品于5月28日斥资117.81万美元回购37.44万股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-05-29/doc-inhzpspu0939347.shtml",
-      "content": " 名创优品（09896）发布公告，于2026年5月28日，该公司斥资117.81万美元回购37.44万股股份，每股回购价3.085-3.1725美元。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "04:24",
-      "keywords": [
-        "名创优品",
-        "回购"
-      ]
-    },
-    {
-      "title": "蔚来李斌：纯电的体验收益已超过充换电不便带来的损失",
-      "source": "睿见Economy",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-05-29/doc-inhzpspr9574299.shtml",
-      "content": "2026第四届未来汽车先行者大会于5月29日-5月30日在深圳举行。蔚来董事长李斌出席并演讲。 他提出，中国新能源汽车市场在2025年迎来了“纯电拐点”...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "04:13",
+      "time": "10:00",
       "keywords": []
     },
     {
-      "title": "李斌：蔚来11年累计研发投入超688亿元，充换电投入超200亿元",
-      "source": "睿见Economy",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-05-29/doc-inhzpspu0932663.shtml",
-      "content": "2026第四届未来汽车先行者大会于5月29日-5月30日在深圳举行。蔚来董事长李斌出席并演讲。 他提出，中国新能源汽车市场在2025年迎来了“纯电拐点”...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "04:12",
-      "keywords": []
-    },
-    {
-      "title": "澳大利亚国民银行：美国经济增长韧性或可限制美元下行空间",
+      "title": "蓝色起源火箭在发射台爆炸 波及亚马逊卫星网络部署",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhzpspv7701908.shtml",
-      "content": "根据澳大利亚国民银行，即使美国和伊朗达成和平协议，美国经济展现出的韧性也可能会限制美元的下跌空间。 “如果达成可信且更持久的和平协议，美元可能会有所下跌...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "04:02",
-      "keywords": []
-    },
-    {
-      "title": "配料表中水排第一？央视曝光好想来“NFC果汁”标签乱象 回应：全国门店已下架相关产品",
-      "source": "5D调查",
-      "url": "https://finance.sina.com.cn/chanjing/wddc/2026-05-29/doc-inhzpspr9564831.shtml",
-      "content": "5月29日上午消息，近日，央视《东方时空》栏目曝光果汁标签乱象。节目中提及零食品牌“好想来”一款系列果汁饮料，涵盖葡萄汁、橙汁、苹果汁等品类。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhzqimi9407952.shtml",
+      "content": "美东时间周四晚间，杰夫·贝索斯投资的商业航天公司Blue Origin的New Glenn火箭在佛罗里达州发射台测试过程中时发生爆炸，巨大的火球直冲天空...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-05-29",
-      "time": "04:02",
+      "time": "09:59",
       "keywords": []
     },
     {
-      "title": "泡泡玛特午前涨超9% 公司核心IP保持旺盛生命力",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/wm/2026-05-29/doc-inhzpsps8029576.shtml",
-      "content": "泡泡玛特（09992）早盘涨超9%，截至发稿，股价上涨9.35%，现报176.60港元，成交额71.93亿港元。 华创证券指，公司核心IP保持旺盛生命力，26Q1推出Labubu与三丽鸥...",
+      "title": "两只A股，“摘星脱帽”",
+      "source": "证券时报",
+      "url": "https://finance.sina.com.cn/wm/2026-05-29/doc-inhzqimk7881604.shtml",
+      "content": "又有两只A股将“摘星脱帽”。 5月29日盘后，又有两只A股公告将“摘星脱帽”，分别是*ST天择（603721）、*ST高斯（002848）。 *ST天择公告称...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-05-29",
-      "time": "03:58",
-      "keywords": [
-        "泡泡玛特",
-        "涨超"
-      ]
-    },
-    {
-      "title": "视频丨泡泡玛特引入AI？王宁：可能会考虑",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/companyt/2026-05-29/doc-inhzpspu0919084.shtml",
-      "content": "",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "03:56",
+      "time": "09:59",
       "keywords": []
     },
     {
-      "title": "国家联合资源午前涨超10% 拟发行合共1.12亿股认购股份",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-05-29/doc-inhzpspv7695646.shtml",
-      "content": "国家联合资源（00254）盘中涨超19%，截至发稿，股价上涨10.47%，现报0.95港元，成交额409.27万港元。 国家联合资源发布公告，于2026年5月28日...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "03:55",
-      "keywords": [
-        "国家联合资源",
-        "涨超"
-      ]
-    },
-    {
-      "title": "鸿海董事长刘扬伟：公司对AI带动的增长动能“充满信心”",
+      "title": "诺和诺德：印度批准维格维用于青少年群体",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhzpspv7695122.shtml",
-      "content": "全球最大电子代工制造商鸿海董事长刘扬伟周五表示，由于人工智能（AI）需求激增，公司对增长动能“充满信心”。刘扬伟在新北市举行的年度股东大会上表示...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "03:54",
-      "keywords": []
-    },
-    {
-      "title": "河南一低保老人“被贷款”20万最新进展：其亲哥也“被贷款”29万，担保人对担保毫不知情",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-05-29/doc-inhzpsps8025477.shtml",
-      "content": "来源：新京报 近日，河南省南阳市唐河县少拜寺镇邢庄村村民小邢向记者反映，他60岁的低保户叔叔邢民金莫名背上了一笔20万元的贷款。贷款到账当日资金即被转走...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhzqimp7582428.shtml",
+      "content": " 诺和诺德印度公司向彭博社书面回应称，印度中央药品标准管控局已批准爆款减肥药Wegovy上市，适用人群为12周岁及以上、体重超60公斤（132磅） 的青少年。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-05-29",
-      "time": "03:54",
+      "time": "09:56",
       "keywords": []
     },
     {
-      "title": "摩根士丹利沈黎：A股独立行情凸显独特价值 看好高端制造和硬科技 包括人工智能、半导体、生物医药、材料等",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-05-29/doc-inhzpspv7694962.shtml",
-      "content": "5月29日，在深交所2026全球投资者大会上，摩根士丹利（亚洲）中国区在岸股权业务主管、摩根士丹利期货（中国）有限公司董事长沈黎表示，重点看好A股高端制造、硬科技...",
-      "priority": "low",
-      "sectors": [
-        "半导体",
-        "医药"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "03:51",
-      "keywords": []
-    },
-    {
-      "title": "摩根斯坦利沈黎：中国GDP贡献约30%的全球增长，但在全球权益配置权重中仅占3-5%",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/2026-05-29/doc-inhzpspr9557560.shtml",
-      "content": "5月28日-29日，深交所2026全球投资者大会在深圳举办。大会以“资本市场与创新成长——‘十五五’规划下的中国机遇”为主题，摩根斯坦利（亚洲）中国区在岸股权业务主管沈黎出席并...",
+      "title": "Base Power洽谈新一轮融资，估值达120亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhzqimn0803215.shtml",
+      "content": "据知情人士透露，成立仅三年的家用电池初创企业 Base Power，目前正洽谈新一轮融资，投后估值目标定为120 亿美元。 另有两位知情人士称...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-05-29",
-      "time": "03:51",
+      "time": "09:53",
       "keywords": []
     },
     {
-      "title": "视频丨AI大模型公司市值高涨，MiniMax创始人闫俊杰：核心是专注把科技做好！",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/stock/companyt/2026-05-29/doc-inhzpsps8020463.shtml",
-      "content": "",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "03:47",
-      "keywords": []
-    },
-    {
-      "title": "阿维塔王辉：与华为、宁德时代的合作是优势资源，但不是取得胜利的垄断性资源",
-      "source": "睿见Economy",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-05-29/doc-inhzpsps8024573.shtml",
-      "content": "2026第四届未来汽车先行者大会于5月29日-5月30日在深圳举行。阿维塔科技董事长王辉出席并演讲。 王辉表示，跟华为、宁德时代的合作是优势资源...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "03:46",
-      "keywords": []
-    },
-    {
-      "title": "港交所集团行政总裁陈翊庭：A+H股两地上市形成了显著的良性互动效应",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/2026-05-29/doc-inhzpsps8020357.shtml",
-      "content": " 5月28日-29日，深交所2026全球投资者大会在深圳举办。大会以“资本市场与创新成长——‘十五五’规划下的中国机遇”为主题，香港交易所集团行政总裁陈翊庭出席并致辞。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "03:46",
-      "keywords": []
-    },
-    {
-      "title": "OPPO Reno16 系列：“悬浮星球”背后，一项比美元防伪更难的工艺",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/mobile/n/n/2026-05-29/doc-inhzpspr9538550.shtml",
-      "content": "引言 想象一下，将一颗星球握在手里，是什么感觉？ 这一次，OPPO Reno16 系列带来的不是一层新的颜色，也不是一次简单的纹理变化，而是一颗无需辅助设备...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "03:45",
-      "keywords": [
-        "OPPO"
-      ]
-    },
-    {
-      "title": "王辉：阿维塔出海一年半，已经实现了稳定盈利",
-      "source": "睿见Economy",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-05-29/doc-inhzpspr9552312.shtml",
-      "content": "2026第四届未来汽车先行者大会于5月29日-5月30日在深圳举行。阿维塔科技董事长王辉出席并演讲。 王辉表示，阿维塔品牌的海外市场表现，验证了高端路线的正确性。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "03:41",
-      "keywords": []
-    },
-    {
-      "title": "港交所集团行政总裁陈翊庭：国际投资者布局中国资本市场仍处于起步阶段",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/2026-05-29/doc-inhzpsps8017565.shtml",
-      "content": " 5月28日-29日，深交所2026全球投资者大会在深圳举办。大会以“资本市场与创新成长——‘十五五’规划下的中国机遇”为主题，香港交易所集团行政总裁陈翊庭出席并致辞。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "03:41",
-      "keywords": []
-    },
-    {
-      "title": "蔚来李斌：车市进入决赛最残酷赛段，纯电拐点已至",
-      "source": "睿见Economy",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-05-29/doc-inhzpspv7708725.shtml",
-      "content": "2026第四届未来汽车先行者大会于5月29日-5月30日在深圳举行。蔚来董事长李斌出席并演讲。 他提出，中国新能源汽车市场在2025年迎来了“纯电拐点”...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "03:38",
-      "keywords": []
-    },
-    {
-      "title": "映宇宙盘中涨超12% 公司融资近3.3亿收购高性能GPU",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-05-29/doc-inhzpspv7681627.shtml",
-      "content": "映宇宙（03700）盘中涨超12%，本月内累计涨幅超90%。截至发稿，股价上涨6.84%，报1.25港元，成交额2128.99万港元。 映宇宙公布，拟配售3.875亿股，所得款项净额约3...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "03:37",
-      "keywords": [
-        "映宇宙",
-        "涨超"
-      ]
-    },
-    {
-      "title": "港交所集团行政总裁陈翊庭：连接全球资本与中国机遇（全文）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/2026-05-29/doc-inhzpspv7681025.shtml",
-      "content": " 5月28日-29日，深交所2026全球投资者大会在深圳举办。大会以“资本市场与创新成长——‘十五五’规划下的中国机遇”为主题，香港交易所集团行政总裁陈翊庭出席并致辞。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "03:37",
-      "keywords": []
-    },
-    {
-      "title": "港交所陈翊庭：中国资产迎历史性重估，互联互通将继续扩容",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-05-29/doc-inhzpsps8012542.shtml",
-      "content": "5月29日，在深交所2026全球投资者大会上，香港交易所集团行政总裁陈翊庭表示，随着地缘政治不确定性上升和中国科技创新崛起，越来越多国际投资者开始分散投资...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "03:36",
-      "keywords": []
-    },
-    {
-      "title": "世界正在寻找上涨的理由",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/money/forex/forexroll/2026-05-29/doc-inhzpspu0906561.shtml",
-      "content": "华尔街情报圈 全球市场周五走势愈发谨慎： - 亚太股市涨跌互见，美股期货小幅下跌，金价基本持平； - 油价、10年期美债收益率延续跌势。 市场正在寻找上涨的理由。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "03:32",
-      "keywords": []
-    },
-    {
-      "title": "佳鑫国际资源午前涨逾10% 公司收入全部来源于白钨精矿",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-05-29/doc-inhzpspv7674766.shtml",
-      "content": "佳鑫国际资源（03858）盘中涨超10%，截至发稿，股价上涨9.97%，现报87.15港元，成交额2.87亿港元。 公开资料显示，佳鑫国际资源公司全部收入由巴库塔所产白钨精矿贡献...",
+      "title": "智利国家铜业公司新掌门强调利润优先与治理整顿 或放慢扩产步伐",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-05-29/doc-inhzqimp7577568.shtml",
+      "content": " 智利国家铜业公司（Codelco）新任董事长在执掌这家国有铜业巨头后的首次董事会会议上表明，公司将从以产量为导向转向更加重视盈利能力。",
       "priority": "low",
       "sectors": [
         "有色"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-05-29",
-      "time": "03:31",
-      "keywords": [
-        "佳鑫国际资源",
-        "涨逾"
-      ]
+      "time": "09:49",
+      "keywords": []
     },
     {
-      "title": "德琪医药-B午前涨近4% ATG-022获中国NMPA临床批件",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-05-29/doc-inhzpspr9536223.shtml",
-      "content": "德琪医药-B（06996）盘中涨超5%，截至发稿，股价上涨3.64%，现报4.28港元，成交额389.25万港元。 德琪医药-B发布公告，经中国国家药品监督管理局（药监局）药品审评中心（...",
-      "priority": "low",
-      "sectors": [
-        "医药"
-      ],
-      "period": "night",
-      "date": "2026-05-29",
-      "time": "03:27",
-      "keywords": [
-        "德琪医药-B",
-        "涨近"
-      ]
-    },
-    {
-      "title": "资金争夺战升温，不止刷卡立减金，多地农商行自掏腰包减免微信提现手续费",
+      "title": "或打破惯例，李学军拟内部晋升中邮人寿董事长",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-05-29/doc-inhzpsps8003206.shtml",
-      "content": "来源：华夏时报 银行与第三方支付平台的资金“争夺战”正持续升温。 继多家银行通过微信立减金引导平台资金回流后，五月份以来，广西、湖南、山东、江苏等地农商行再出新招...",
+      "url": "https://finance.sina.com.cn/money/insurance/bxyx/2026-05-29/doc-inhzqimp7607316.shtml",
+      "content": "原标题：或打破惯例，李学军拟内部晋升中邮人寿董事长；一季度保费收入近900亿 来源：险企高参 作为规模最大的“银行系”险企，2026年第一季度，中邮人寿经营表现有所分化...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-05-29",
-      "time": "03:26",
+      "time": "09:46",
       "keywords": []
+    },
+    {
+      "title": "薇诺娜营销总监转投上海家化：贝泰妮再失大将，林小海加速“人才合围”",
+      "source": "新浪证券",
+      "url": "https://finance.sina.com.cn/stock/aigcy/2026-05-29/doc-inhzqccr7703945.shtml",
+      "content": "一则人事变动，折射国货美妆两重天：一家百废待兴招兵买马，一家核心流失深陷泥潭 国货美妆赛道再掀波澜。据悉，贝泰妮旗下核心品牌薇诺娜的营销总监已正式离职...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "09:43",
+      "keywords": []
+    },
+    {
+      "title": "女掌门徐茹斌管控成本，南粤银行董监高薪酬下滑了",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-05-29/doc-inhzqimk7868331.shtml",
+      "content": "来源：银瑞社 作者：许淑敏 掌舵广东南粤银行一年的时间，董事长徐茹斌始终很低调。 2026年外界能看到关于徐茹斌的信息，还是她在南粤银行2026年经营工作会议上发表讲话。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "09:41",
+      "keywords": []
+    },
+    {
+      "title": "2026世界智能产业博览会同期活动《精益赋能·智能跃迁》智能工厂梯度培育闭门会在津举办",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-05-29/doc-inhzqccn7995149.shtml",
+      "content": "2026世界智能产业博览会同期活动——《精益赋能·智能跃迁》智能工厂梯度培育闭门会于5月29日在天津举行。本次同期活动由爱波瑞智能制造研究院承办，汇聚了中国工程院院士...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-05-29",
+      "time": "09:40",
+      "keywords": []
+    },
+    {
+      "title": "Ojai由Waymo与中国电动汽车品牌极氪合作开发。车辆的基础车壳在完成制造后，运往美国亚利桑那州进行传感器和软件的最终组装，即使计入关税，新车辆的造价也远低于",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-05-29/102449056.html?cxapp_link=true",
+      "content": "Ojai由Waymo与中国电动汽车品牌极氪合作开发。车辆的基础车壳在完成制造后，运往美国亚利桑那州进行传感器和软件的最终组装，即使计入关税，新车辆的造价也远低于捷豹车型",
+      "priority": "low",
+      "sectors": [
+        "机器人",
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-05-29",
+      "time": "--:--",
+      "keywords": [
+        "华尔街原声"
+      ]
+    },
+    {
+      "title": "韩国化妆品正一边从中国市场抽身，一边深入布局欧美、中东；中国进口化妆品市场加速分化，平价品牌加速撤离，中高档彩妆、护肤品方面进口品牌仍领先",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-05-29/102448975.html?cxapp_link=true",
+      "content": "韩国化妆品正一边从中国市场抽身，一边深入布局欧美、中东；中国进口化妆品市场加速分化，平价品牌加速撤离，中高档彩妆、护肤品方面进口品牌仍领先",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-29",
+      "time": "--:--",
+      "keywords": [
+        "数据图解"
+      ]
     },
     {
       "title": "油价小幅下跌，美国和伊朗已初步同意延长停火60天，霍尔木兹海峡因此有望恢复畅通",
@@ -2591,367 +2449,424 @@
       ]
     },
     {
-      "title": "【乌克兰：俄罗斯隔夜对一艘土耳其船只发动了无人机袭击】乌克兰称，俄罗斯隔夜对一艘土耳其船只发动了无人机袭击。这艘货船当时",
+      "title": "【ST天玑：回购股份比例达2.13% 已使用资金4933.58万元】ST天玑公告称，公司于2026年4月29日审议通过回",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【乌克兰：俄罗斯隔夜对一艘土耳其船只发动了无人机袭击】乌克兰称，俄罗斯隔夜对一艘土耳其船只发动了无人机袭击。这艘货船当时悬挂瓦努阿图国旗，从敖德萨地区驶往土耳其。乌克兰海军表示，两名受伤船员已被乌克兰海军撤离，火情已迅速扑灭。",
+      "content": "【ST天玑：回购股份比例达2.13% 已使用资金4933.58万元】ST天玑公告称，公司于2026年4月29日审议通过回购股份方案，拟以5000万元-10000万元回购，价格不超16元/股。截至5月29日，公司以集中竞价交易方式回购6508742股，占总股本2.13%，最高成交价8.36元/股，最低6.44元/股，已使用资金4933.58万元。公司后续将继续实施回购计划并及时披露信息。",
       "priority": "low",
       "sectors": [
-        "综合"
+        "金融"
       ],
       "period": "noon",
       "date": "2026-05-29",
-      "time": "12:54",
+      "time": "18:29",
       "keywords": []
     },
     {
-      "title": "【赛力斯张正萍：华为乾崑智驾能够达到“不只是人眼可以看到”的状态 哪个智驾系统好用要交给市场回答】5月29日，赛力斯汽车",
+      "title": "【崔东树：中国汽车将实现5000万辆规模 占比全球市场50%】乘联分会秘书长崔东树今日在2026未来汽车先行者大会上表示",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【赛力斯张正萍：华为乾崑智驾能够达到“不只是人眼可以看到”的状态 哪个智驾系统好用要交给市场回答】5月29日，赛力斯汽车董事长张正萍在第四届未来先行者大会上谈及华为乾崑智驾与特斯拉FSD的对比时表示：“哪个智驾系统好用还是要交给市场来回答。全新一代问界M9搭载了6颗激光雷达，这方面不输给FSD。另外，FSD模拟的是人类视觉驾驶逻辑，而华为乾崑智驾能够达到‘不只是人眼可以看到’的状态。”",
+      "content": "【崔东树：中国汽车将实现5000万辆规模 占比全球市场50%】乘联分会秘书长崔东树今日在2026未来汽车先行者大会上表示，当下中国汽车年销量为3500万辆左右，预计短期内可以达到4000万辆规模。未来，中国汽车销量占比全球市场有望实现40%、50%，甚至更高的比例，预计会达到5000万辆规模。“汽车会成为智能载体和规模化的大众耐用电子消费品，基于此，汽车将成为引领中国制造业走向世界的产业。”",
       "priority": "low",
       "sectors": [
         "消费"
       ],
       "period": "noon",
       "date": "2026-05-29",
-      "time": "12:52",
+      "time": "18:29",
       "keywords": []
     },
     {
-      "title": "乌克兰称，俄罗斯昨夜对一艘土耳其船只发动了无人机袭击。",
+      "title": "【康华生物：纳美信RSV疫苗启动Ⅱ期临床试验】康华生物公告，公司拟收购的纳美信自主研发的冻干呼吸道合胞病毒mRNA疫苗（",
       "source": "Tushare-sina",
       "url": "",
-      "content": "乌克兰称，俄罗斯昨夜对一艘土耳其船只发动了无人机袭击。",
+      "content": "【康华生物：纳美信RSV疫苗启动Ⅱ期临床试验】康华生物公告，公司拟收购的纳美信自主研发的冻干呼吸道合胞病毒mRNA疫苗（RSV疫苗）已正式启动Ⅱ期临床试验。纳美信是一家专注于mRNA领域新型疫苗与药物研发的生物科技企业，公司计划通过三期投资最终持有纳美信100%股权。RSV疫苗适用于预防呼吸道合胞病毒感染引起的下呼吸道疾病，采用冻干mRNA疫苗工艺，预期可在2℃~8℃稳定存储。I期临床试验免后30",
+      "priority": "low",
+      "sectors": [
+        "医药"
+      ],
+      "period": "noon",
+      "date": "2026-05-29",
+      "time": "18:28",
+      "keywords": []
+    },
+    {
+      "title": "美国国防部长赫格塞思：与泰国国防部长举行首次会晤，会谈氛围良好。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "  美国国防部长赫格塞思：与泰国国防部长举行首次会晤，会谈氛围良好。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-29",
-      "time": "12:48",
+      "time": "18:28",
       "keywords": []
     },
     {
-      "title": "【三井物产正寻求液化天然气投资以满足数据中心的电力需求】媒体援引三井物产首席执行官堀健一的话报道称，该公司正寻求投资中东",
+      "title": "美国国防部长赫格塞思：推进美泰国防工业合作相关磋商。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【三井物产正寻求液化天然气投资以满足数据中心的电力需求】媒体援引三井物产首席执行官堀健一的话报道称，该公司正寻求投资中东、美国和澳大利亚的液化天然气（LNG）项目，以满足数据中心日益增长的电力需求。堀健一称，该公司将考虑入股液化天然气和天然气化工企业，或与这些企业签订供应协议。他补充说，随着企业寻求清洁能源来为人工智能基础设施供电，液化天然气的需求正在激增。堀健一表示：“若无法确保能源供应，就无法",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-05-29",
-      "time": "12:47",
-      "keywords": []
-    },
-    {
-      "title": "印度气象局：6月份印度大部分地区气温可能高于平均水平。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "印度气象局：6月份印度大部分地区气温可能高于平均水平。",
+      "content": "美国国防部长赫格塞思：推进美泰国防工业合作相关磋商。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-29",
-      "time": "12:43",
+      "time": "18:28",
       "keywords": []
     },
     {
-      "title": "【满坤科技：已向海康威视等厂商提供工业机器手领域PCB产品】满坤科技5月29日在互动平台表示，公司主要从事单/双面、多层",
+      "title": "摩根大通集团于5月25日减持中国人民财产保险股份有限公司H股，其好仓持仓占比从8.79%降至7.93%。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【满坤科技：已向海康威视等厂商提供工业机器手领域PCB产品】满坤科技5月29日在互动平台表示，公司主要从事单/双面、多层印制电路板（PCB）的研发、生产和销售，PCB作为各类电子器件的基础载板和关键互联件，可广泛应用于机器人、工业机器手等领域。目前，公司产品尚未应用于人形机器人，但已向海康威视等厂商提供工业机器手领域PCB产品。",
+      "content": "摩根大通集团于5月25日减持中国人民财产保险股份有限公司H股，其好仓持仓占比从8.79%降至7.93%。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-05-29",
+      "time": "18:27",
+      "keywords": []
+    },
+    {
+      "title": "【美国、丹麦和格陵兰岛三方代表在华盛顿举行新一轮谈判】总台记者当地时间5月29日获悉，美国、丹麦和格陵兰岛代表28日在美",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "【美国、丹麦和格陵兰岛三方代表在华盛顿举行新一轮谈判】总台记者当地时间5月29日获悉，美国、丹麦和格陵兰岛代表28日在美国华盛顿举行新一轮秘密谈判，就三方未来关系、北极安全及资源合作等议题展开磋商。据悉，27日，丹麦外交大臣率丹麦代表团抵达华盛顿，并于28日与格陵兰岛代表举行会谈。美国方面则由总统国家安全事务副助理迈克尔·尼德姆负责谈判事务。当前三方讨论主要围绕未来防务合作、北约在北极地区角色以及",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-29",
-      "time": "12:41",
+      "time": "18:27",
       "keywords": []
     },
     {
-      "title": "【特朗普再称所有牌尽在其手】在当地时间5月28日播出的一段采访中，美国总统特朗普在被问到“在何种情况下会重启对伊朗军事行",
+      "title": "泽连斯基：已准备好以任何必要方式支持罗马尼亚。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【特朗普再称所有牌尽在其手】在当地时间5月28日播出的一段采访中，美国总统特朗普在被问到“在何种情况下会重启对伊朗军事行动”时警告称，如果谈判未能达成有利结果，军事行动仍是一种选择。他还再次强调，在与伊朗的谈判中，美国“手握所有的牌”（即掌握着压倒性的筹码），“因为我们已在军事上已经击败了他们（伊朗）”",
+      "content": "泽连斯基：已准备好以任何必要方式支持罗马尼亚。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-29",
-      "time": "12:39",
+      "time": "18:27",
       "keywords": []
     },
     {
-      "title": "【日本人工智能基础设施企业Datasection接入OpenAI】总部位于东京的人工智能基础设施企业 Datasecti",
+      "title": "【中国中铁与四川省签署深化战略合作协议】5月28日上午，中国中铁党委书记、董事长陈文健与四川省委副书记、省长施小琳在成都",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【日本人工智能基础设施企业Datasection接入OpenAI】总部位于东京的人工智能基础设施企业 Datasection Inc. 今日宣布，计划接入 OpenAI 应用程序接口，为旗下泰泽人工智能云平台（TAIZA AI ）打造智能体人工智能工作流功能。此次整合后，亚太地区符合资质的企业客户，可通过数据Datasection自研的TAIZA平台调用 OpenAI 模型，无需直接访问 Open",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-05-29",
-      "time": "12:39",
-      "keywords": []
-    },
-    {
-      "title": "印度尼西亚农业部副部长：已要求地方政府监控鲜棕榈果定价，并执行现行棕榈果定价相关规定。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "印度尼西亚农业部副部长：已要求地方政府监控鲜棕榈果定价，并执行现行棕榈果定价相关规定。",
+      "content": "【中国中铁与四川省签署深化战略合作协议】5月28日上午，中国中铁党委书记、董事长陈文健与四川省委副书记、省长施小琳在成都举行会谈，并共同出席中国中铁与四川省深化战略合作协议签署仪式。根据协议，双方将围绕轨道交通、高速公路、水利水电环保、城镇化建设和工业制造、科技文化等领域开展全方位、多层次合作，实现共同发展。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-29",
-      "time": "12:38",
+      "time": "18:27",
       "keywords": []
     },
     {
-      "title": "印度尼西亚副农业部长：已会见棕榈油种植户团体，以解决鲜果价格下跌相关诉求。",
+      "title": "据港交所披露：5月26日，摩根士丹利持有的美的集团H股多头仓位从3.39%提升至5.00%。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "印度尼西亚副农业部长：已会见棕榈油种植户团体，以解决鲜果价格下跌相关诉求。",
+      "content": "据港交所披露：5月26日，摩根士丹利持有的美的集团H股多头仓位从3.39%提升至5.00%。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-29",
-      "time": "12:37",
+      "time": "18:25",
       "keywords": []
     },
     {
-      "title": "日本经济产业省：日本4月煤油销量同比下降13.3%，汽油销量同比下降2.6%。4月日本石油产品总销量同比下降11.3%。",
+      "title": "摩根大通将富途目标股价从100美元上调至112美元。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "日本经济产业省：日本4月煤油销量同比下降13.3%，汽油销量同比下降2.6%。4月日本石油产品总销量同比下降11.3%。",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-05-29",
-      "time": "12:31",
-      "keywords": []
-    },
-    {
-      "title": "日本经济产业省：日本4月原油进口量同比下降65.7%。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "日本经济产业省：日本4月原油进口量同比下降65.7%。",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-05-29",
-      "time": "12:30",
-      "keywords": []
-    },
-    {
-      "title": "广州市易鸿智能装备股份有限公司向港交所提交上市申请。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "广州市易鸿智能装备股份有限公司向港交所提交上市申请。",
+      "content": "摩根大通将富途目标股价从100美元上调至112美元。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-29",
-      "time": "12:27",
+      "time": "18:23",
       "keywords": []
     },
     {
-      "title": "【印尼塞梅鲁火山发生喷发 火山灰柱高约1000米】据印尼火山地质减灾中心消息，当地时间5月29日9时43分，位于东爪哇省",
+      "title": "【高通美股盘前持续走高现涨超5%】高通美股盘前持续走高现涨超5%，现报255.55美元。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【印尼塞梅鲁火山发生喷发 火山灰柱高约1000米】据印尼火山地质减灾中心消息，当地时间5月29日9时43分，位于东爪哇省的塞梅鲁火山发生喷发，火山灰柱高约1000米，持续时间为110秒。",
+      "content": "【高通美股盘前持续走高现涨超5%】高通美股盘前持续走高现涨超5%，现报255.55美元。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-29",
-      "time": "12:23",
+      "time": "18:23",
       "keywords": []
     },
     {
-      "title": "国际文传电讯社援引俄罗斯国防部消息称，俄罗斯昨夜击落208架乌克兰无人机。",
+      "title": "【中国巨石：巨石集团与巨石香港对巨石淮安增资8亿元】中国巨石公告，巨石集团与巨石香港拟共同向巨石淮安增资8亿元。其中，巨",
       "source": "Tushare-sina",
       "url": "",
-      "content": "国际文传电讯社援引俄罗斯国防部消息称，俄罗斯昨夜击落208架乌克兰无人机。",
+      "content": "【中国巨石：巨石集团与巨石香港对巨石淮安增资8亿元】中国巨石公告，巨石集团与巨石香港拟共同向巨石淮安增资8亿元。其中，巨石集团增资4.8亿元，持股60%；巨石香港增资3.2亿元，持股40%。增资后，巨石淮安注册资本将由20亿元变更为28亿元。本次增资已于2026年5月29日经公司董事会审议通过，不构成重大资产重组和关联交易，不会改变公司合并报表范围。增资旨在加快巨石淮安电子级玻纤项目建设，提升产能",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-29",
-      "time": "12:23",
+      "time": "18:23",
       "keywords": []
     },
     {
-      "title": "俄罗斯雅罗斯拉夫尔州州长称，该州境内一处储油设施遭无人机袭击后起火。",
+      "title": "【中远海运港口：获授塔拉戈纳港口特许权】中远海运港口公告，公司非全资附属公司纳港投资有限公司与PTP IB RICA S",
       "source": "Tushare-sina",
       "url": "",
-      "content": "俄罗斯雅罗斯拉夫尔州州长称，该州境内一处储油设施遭无人机袭击后起火。",
+      "content": "【中远海运港口：获授塔拉戈纳港口特许权】中远海运港口公告，公司非全资附属公司纳港投资有限公司与PTP IB RICA S.A.（PTP）组成联合体，就西班牙塔拉戈纳港口安达卢西亚码头旁的多式联运多用途海运货物码头特许权项目投标。2026年5月28日，塔拉戈纳港务局批准向由纳港投资及PTP成立的项目公司授出特许权。特许权期限50年，涵盖总面积约51.06万平方米。预计总投资额约1.45亿欧元，纳港投",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-29",
-      "time": "12:22",
+      "time": "18:23",
       "keywords": []
     },
     {
-      "title": "俄罗斯州长称，无人机袭击了俄罗斯雅罗斯拉夫尔州的储油设施。",
+      "title": "德国总理默茨发言人：流媒体配额符合欧美贸易协定相关规定。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "俄罗斯州长称，无人机袭击了俄罗斯雅罗斯拉夫尔州的储油设施。",
+      "content": " 德国总理默茨发言人：流媒体配额符合欧美贸易协定相关规定。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-29",
-      "time": "12:21",
+      "time": "18:23",
       "keywords": []
     },
     {
-      "title": "【OpenAI正调查影响用户登录和使用ChatGPT的故障】OpenAI当地时间5月28日表示，正调查可能导致用户无法与",
+      "title": "港交所披露：5月26日，美国银行对中远海运能源运输股份有限公司H股的多头持仓从5.91%降至3.52%",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【OpenAI正调查影响用户登录和使用ChatGPT的故障】OpenAI当地时间5月28日表示，正调查可能导致用户无法与ChatGPT对话、登录或创建帐户的问题。根据网络状况监控网站Downdetector的数据，截至美东时间28日晚11:04，已有约5000起相关故障的报告。",
+      "content": "港交所披露：5月26日，美国银行对中远海运能源运输股份有限公司H股的多头持仓从5.91%降至3.52%",
       "priority": "low",
       "sectors": [
-        "AI"
+        "能源",
+        "金融"
       ],
       "period": "noon",
       "date": "2026-05-29",
-      "time": "12:20",
+      "time": "18:22",
       "keywords": []
     },
     {
-      "title": "伊朗总统表示，伊朗致力于外交途径。",
+      "title": "【渣打银行支持财政部在香港发行60亿元人民币绿色主权债券】5月28日，中华人民共和国财政部代表中央政府在香港特别行政区成",
       "source": "Tushare-sina",
       "url": "",
-      "content": "伊朗总统表示，伊朗致力于外交途径。",
+      "content": "【渣打银行支持财政部在香港发行60亿元人民币绿色主权债券】5月28日，中华人民共和国财政部代表中央政府在香港特别行政区成功发行了60亿元人民币绿色主权债券。其中，渣打银行担任联席主承销商及联席账簿管理人。",
       "priority": "low",
       "sectors": [
-        "综合"
+        "金融"
       ],
       "period": "noon",
       "date": "2026-05-29",
-      "time": "12:20",
+      "time": "18:22",
       "keywords": []
     },
     {
-      "title": "【印尼盾在市场重新开盘后跌幅扩大至0.5%】印尼盾在结束两天假期后重新开盘，跌幅延续至历史新低。周五，印尼盾成为亚洲表现",
+      "title": "【上海四批次5宗宅地110.45亿元成交】5月29日，上海四批次土拍历时两日收官，5宗宅地总成交金额110.45亿元。其",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【印尼盾在市场重新开盘后跌幅扩大至0.5%】印尼盾在结束两天假期后重新开盘，跌幅延续至历史新低。周五，印尼盾成为亚洲表现最差的货币之一。美元/印尼盾上涨0.5%至17880点；印尼盾有望创下自2024年10月以来最糟糕的单月纪录。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-05-29",
-      "time": "12:19",
-      "keywords": []
-    },
-    {
-      "title": "三菱汽车：将于2026财年至2031财年期间推出13款车型，其中含5款混合动力车型（HEV）与5款插电式混合动力车型（P",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "三菱汽车：将于2026财年至2031财年期间推出13款车型，其中含5款混合动力车型（HEV）与5款插电式混合动力车型（PHEV）。",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-05-29",
-      "time": "12:17",
-      "keywords": []
-    },
-    {
-      "title": "【江苏：世界最大水上立交主体工程通过水下验收】5月29日，淮河入海水道二期工程淮安枢纽立交地涵主体工程顺利通过水下工程验",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【江苏：世界最大水上立交主体工程通过水下验收】5月29日，淮河入海水道二期工程淮安枢纽立交地涵主体工程顺利通过水下工程验收，该工程为当前全球规模最大的水上立交主体工程。 作为国务院部署的172项节水供水重大水利工程之一，淮河入海水道二期工程是江苏省目前单体投资规模最大的水利工程。其中，淮安枢纽工程总投资约17亿元，为淮河入海水道第二梯级核心枢纽。",
+      "content": "【上海四批次5宗宅地110.45亿元成交】5月29日，上海四批次土拍历时两日收官，5宗宅地总成交金额110.45亿元。其中，4宗宅地溢价、1宗底价成交。从拿地房企来看，保利发展斩获青浦区、虹口区共2宗宅地，大华集团斩获1宗闵行区宅地，上海城投斩获1宗虹口区宅地，保利置业斩获1宗浦东新区宅地。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-29",
-      "time": "12:17",
+      "time": "18:21",
       "keywords": []
     },
     {
-      "title": "三菱汽车：将与日产在日本联合开发及生产轻型汽车（内燃机车型/纯电动车型）。",
+      "title": "【方正证券：股东中国信达拟减持1%股份】方正证券公告，中国信达持有5.93亿股，占公司总股本的7.20%，拟于2026年",
       "source": "Tushare-sina",
       "url": "",
-      "content": "三菱汽车：将与日产在日本联合开发及生产轻型汽车（内燃机车型/纯电动车型）。",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-05-29",
-      "time": "12:16",
-      "keywords": []
-    },
-    {
-      "title": "罗马尼亚敦促北约加快反无人机系统的移交。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "罗马尼亚敦促北约加快反无人机系统的移交。",
+      "content": "【方正证券：股东中国信达拟减持1%股份】方正证券公告，中国信达持有5.93亿股，占公司总股本的7.20%，拟于2026年6月23日至2026年9月22日期间，以集中竞价方式减持不超过8232.1万股，约占公司总股本的1.00%，股份来源为协议转让取得，减持原因为经营需要。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-29",
-      "time": "12:16",
+      "time": "18:20",
       "keywords": []
     },
     {
-      "title": "罗马尼亚外交部称，罗马尼亚已就无人机入侵事件向北约通报。",
+      "title": "【康捷国际物流美股盘前涨超23%】康捷国际物流美股盘前涨超23%，现报197.104美元。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "罗马尼亚外交部称，罗马尼亚已就无人机入侵事件向北约通报。",
+      "content": "【康捷国际物流美股盘前涨超23%】康捷国际物流美股盘前涨超23%，现报197.104美元。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-29",
-      "time": "12:16",
+      "time": "18:19",
       "keywords": []
     },
     {
-      "title": "印度气象局：厄尔尼诺天气现象大概率将于6-7月形成。",
+      "title": "【大烨智能：持股5%以上股东部分股份解除质押】大烨智能公告称，近日公司持股5%以上股东南京明昭投资管理有限公司所持公司2",
       "source": "Tushare-sina",
       "url": "",
-      "content": "印度气象局：厄尔尼诺天气现象大概率将于6-7月形成。",
+      "content": "【大烨智能：持股5%以上股东部分股份解除质押】大烨智能公告称，近日公司持股5%以上股东南京明昭投资管理有限公司所持公司2300万股股份解除质押，占其所持股份比例99.65%，占公司总股本比例7.26%。解除质押起始日为2023年4月11日，解除日期为2026年5月28日，质权人为江苏润元科技小额贷款有限公司。截至公告披露日，南京明昭持有公司股份2307.9995万股，占总股本7.28%，本次解除质",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-05-29",
-      "time": "12:15",
+      "time": "18:19",
+      "keywords": []
+    },
+    {
+      "title": "【星球石墨：“星球转债”转股达已发行股份总额10.61%致股东权益变动】星球石墨公告称，截至2026年5月28日，累计3",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "【星球石墨：“星球转债”转股达已发行股份总额10.61%致股东权益变动】星球石墨公告称，截至2026年5月28日，累计35292.70万元“星球转债”已转股，形成股份15251101股，占转股前公司已发行股份总额的10.61%。尚未转股的可转债金额为26707.30万元，占发行总量的43.08%。因可转债转股，公司总股本增加，控股股东张艺、钱淑娟合计持股比例由66.53%被动稀释至60.15%。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-29",
+      "time": "18:18",
+      "keywords": []
+    },
+    {
+      "title": "【ST三木：公司及子公司部分债务逾期 本息合计1325.96万元】ST三木公告称，公司及全资子公司三木建发、控股子公司福",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "【ST三木：公司及子公司部分债务逾期 本息合计1325.96万元】ST三木公告称，公司及全资子公司三木建发、控股子公司福州轻工近期部分债务逾期，涉及广发银行、中国银行、浙商银行、中信银行，逾期债务合计本息1325.96万元，占公司最近一期经审计净资产的10.99%。截至2026年5月29日，公司及控股子公司对外担保余额等三项担保合计43.48亿元，占比3603.57%，逾期担保金额1325.96万",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-29",
+      "time": "18:18",
+      "keywords": []
+    },
+    {
+      "title": "【华建集团：连续12个月累计涉诉324起 涉案金额7.50亿元】华建集团公告称，截至公告披露日，公司及下属子公司连续十二",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "【华建集团：连续12个月累计涉诉324起 涉案金额7.50亿元】华建集团公告称，截至公告披露日，公司及下属子公司连续十二个月内累计诉讼、仲裁案件共324起，诉讼、仲裁金额合计7.50亿元，其中189起案件已判决或调解，135起案件在审理阶段。公司及下属子公司作为原告或申请方的案件共68起，涉诉金额4.05亿元；作为被告或被申请方的案件共256起，涉诉金额3.45亿元。因案件存在未审理等情况，暂时无",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-29",
+      "time": "18:18",
+      "keywords": []
+    },
+    {
+      "title": "港交所文件显示，小米于5月29日耗资2.994亿港元回购1070万股B类股份。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "港交所文件显示，小米于5月29日耗资2.994亿港元回购1070万股B类股份。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-05-29",
+      "time": "18:17",
+      "keywords": []
+    },
+    {
+      "title": "摩根大通对哔哩哔哩的多头持仓于5月26日从14.52%降至11.90%。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "摩根大通对哔哩哔哩的多头持仓于5月26日从14.52%降至11.90%。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-29",
+      "time": "18:16",
+      "keywords": []
+    },
+    {
+      "title": "【英镑下跌，受伊朗战争和英国政治风险影响】随着围绕伊朗战争和英国首相基尔·斯塔默命运的持续风险带来压力，英镑下跌。财政部",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "【英镑下跌，受伊朗战争和英国政治风险影响】随着围绕伊朗战争和英国首相基尔·斯塔默命运的持续风险带来压力，英镑下跌。财政部长斯科特·贝森特表示，在有报道称双方谈判代表达成延长停火的协议后，美国和伊朗“具备达成协议的条件“。然而，副总统JD·万斯表示，美国与伊朗“还没到那一步“。在近期糟糕的选举结果之后，斯塔默面临潜在的领导权挑战。Monex Europe分析师在一份报告中表示，美伊消息面将继续驱动英",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-29",
+      "time": "18:15",
+      "keywords": []
+    },
+    {
+      "title": "【美盈森：控股子公司金之彩公司涉及名誉权纠纷案二审受理】美盈森公告，公司收购的控股子公司深圳市金之彩文化创意有限公司涉及",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "【美盈森：控股子公司金之彩公司涉及名誉权纠纷案二审受理】美盈森公告，公司收购的控股子公司深圳市金之彩文化创意有限公司涉及名誉权纠纷案，一审判决后，西藏新天地投资合伙企业（有限合伙）、欧阳宣不服判决上诉，法院已受理。公司为被上诉人之一。案件为名誉权纠纷，不涉及具体诉讼金额。因案件尚未审理，对公司本期利润或期后利润可能产生的影响存在不确定性。公司将督促金之彩公司积极应诉，并及时披露案件进展情况。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-29",
+      "time": "18:14",
+      "keywords": []
+    },
+    {
+      "title": "【云南能投：拟公开发行10亿元公司债券】云南能投公告，公司董事会2026年第六次临时会议审议通过了《关于公司申请在深圳证",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "【云南能投：拟公开发行10亿元公司债券】云南能投公告，公司董事会2026年第六次临时会议审议通过了《关于公司申请在深圳证券交易所公开发行10亿元公司债券的议案》。为进一步拓展融资渠道、降低融资成本，公司拟向深圳证券交易所申请并经中国证券监督管理委员会同意注册后公开发行不超过人民币10亿元（含）的公司债券。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-29",
+      "time": "18:13",
+      "keywords": []
+    },
+    {
+      "title": "欧盟委员会：与 Anthropic 的沟通交流氛围良好、富有成效。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "欧盟委员会：与 Anthropic 的沟通交流氛围良好、富有成效。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-05-29",
+      "time": "18:11",
       "keywords": []
     }
   ]
