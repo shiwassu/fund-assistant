@@ -678,7 +678,7 @@ async function loadRecommend(){
   const el = document.getElementById('recContent');
   el.innerHTML = '<span style="color:var(--orange)">⏳ 正在加载推荐数据…</span>';
   try{
-    const resp = await fetch('recommend-data.json');
+    const resp = await fetch('recommend-data.json?t=' + Date.now());
     if(!resp.ok) throw new Error('HTTP '+resp.status);
     const data = await resp.json();
     if(!data.sectors || data.sectors.length===0){
