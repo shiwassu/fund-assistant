@@ -190,6 +190,7 @@
   <div class="tab" data-panel="news">📰 新闻 <span class="tab-badge tb-red" id="newsBadge">0</span></div>
   <div class="tab" data-panel="monitor">📊 技术指标 <span class="tab-badge tb-yellow" id="alertBadge">0</span></div>
   <div class="tab" data-panel="signals">📈 信号与持仓</div>
+  <div class="tab" data-panel="recommend">🎯 板块推荐 <span class="tab-badge tb-green" id="recBadge">0</span></div>
 </div>
 
 <!-- ═══════ DASHBOARD ═══════ -->
@@ -257,6 +258,15 @@
 </div>
 
 <!-- ═══════ SIGNALS ═══════ -->
+<!-- ═══════ RECOMMEND ═══════ -->
+<div class="panel" id="panel-recommend">
+  <div class="btn-row">
+    <button class="btn primary" onclick="loadRecommend()">🔄 加载推荐数据</button>
+    <span style="font-size:11px;color:var(--text-dim)">多因子评分: 纯度×0.25 + 经理回报×0.20 + 收益×0.20 + 回撤×0.20 + 规模×0.15</span>
+  </div>
+  <div id="recContent" style="font-size:12px;color:var(--text-dim)">点击"加载推荐数据"获取最新板块入场信号和基金推荐</div>
+</div>
+
 <div class="panel" id="panel-signals">
   <div class="btn-row">
     <button class="btn primary" onclick="generateAll()">🔍 生成交易信号</button>
@@ -662,6 +672,55 @@ function loadHistory(){
   }catch(e){ signalHistory = []; }
 }
 function clearHistory(){ signalHistory=[]; localStorage.removeItem('fund_signal_history'); renderSignals(); }
+
+// ── 板块推荐 ──
+async function loadRecommend(){
+  const el = document.getElementById('recContent');
+  el.innerHTML = '<span style="color:var(--orange)">⏳ 正在加载推荐数据…</span>';
+  try{
+    const resp = await fetch('recommend-data.json');
+    if(!resp.ok) throw new Error('HTTP '+resp.status);
+    const data = await resp.json();
+    if(!data.sectors || data.sectors.length===0){
+      el.innerHTML = '<div style="color:var(--text-dim);padding:40px;text-align:center">暂无达到入场标准的板块</div>';
+      return;
+    }
+    document.getElementById('recBadge').textContent = data.sectors.length;
+
+    let html = `<div style="color:var(--green);margin-bottom:16px">● 数据更新于 ${(data.updated||'').slice(0,16)} | ${data.sectors.length} 个板块达到入场标准</div>`;
+    for(const sec of data.sectors){
+      html += `<div class="card" style="margin-bottom:16px;border-left:3px solid var(--green)">`;
+      html += `<div class="card-header" style="font-size:12px">🔥 ${sec.name} <span style="color:var(--green);margin-left:8px">入场评分: ${sec.entry_score}</span></div>`;
+      if(!sec.funds || sec.funds.length===0){
+        html += '<div style="color:var(--text-dim);font-size:12px">无推荐基金</div>';
+      } else {
+        html += `<table style="width:100%;border-collapse:collapse;font-size:12px">
+          <tr style="color:var(--text-dim);font-size:10px;text-transform:uppercase">
+            <td style="padding:6px 8px">排名</td><td style="padding:6px 8px">代码</td><td style="padding:6px 8px">名称</td>
+            <td style="padding:6px 8px">纯度</td><td style="padding:6px 8px">经理</td><td style="padding:6px 8px">经理回报</td>
+            <td style="padding:6px 8px">近3月</td><td style="padding:6px 8px">综合分</td></tr>`;
+        for(let i=0; i<sec.funds.length; i++){
+          const f = sec.funds[i];
+          html += `<tr style="border-top:1px solid var(--border)">
+            <td style="padding:8px">${i+1}</td>
+            <td style="padding:8px;font-family:monospace;color:var(--primary)">${f.code}</td>
+            <td style="padding:8px">${(f.name||'').slice(0,22)}</td>
+            <td style="padding:8px">${f.purity||'--'}%</td>
+            <td style="padding:8px">${(f.manager||'--').slice(0,6)}</td>
+            <td style="padding:8px;color:var(--green)">${f.mgr_return||'--'}%</td>
+            <td style="padding:8px;color:${(f.return_3m||0)>=0?'var(--green)':'var(--red)'}">${f.return_3m>=0?'+':''}${f.return_3m||'--'}%</td>
+            <td style="padding:8px;font-weight:700;color:var(--primary)">${f.score||'--'}</td>
+          </tr>`;
+        }
+        html += '</table>';
+      }
+      html += '</div>';
+    }
+    el.innerHTML = html;
+  }catch(e){
+    el.innerHTML = `<div style="color:var(--red);padding:40px;text-align:center">加载失败: ${e.message}<br><span style="font-size:11px">请确保 recommend-data.json 已部署</span></div>`;
+  }
+}
 
 // ╔══════════════════════════════════════════════════════════╗
 // ║  RENDER                                                ║
@@ -1188,6 +1247,7 @@ setInterval(()=>{
   if(id==='panel-monitor') renderMonitor();
   if(id==='panel-signals'){ generateAll(); }
   if(id==='panel-dashboard'){ renderNews(); renderSignals(); }
+  if(id==='panel-recommend'){ loadRecommend(); }
 }, 30000);
 
 // init

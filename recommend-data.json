@@ -1,0 +1,149 @@
+{
+  "updated": "2026-05-31T22:18:46.534794",
+  "sectors": [
+    {
+      "name": "半导体",
+      "entry_score": 71.2,
+      "funds": [
+        {
+          "code": "006502",
+          "name": "财通集成电路产业股票A",
+          "type": "股票型",
+          "return_3m": 84.19,
+          "return_1y": 377.77,
+          "total_return": 661.18,
+          "nav": 7.6118,
+          "purity": 65.0,
+          "manager": "金梓才",
+          "mgr_return": 1347.9,
+          "mgr_exp_days": 4211,
+          "score": 85.2
+        },
+        {
+          "code": "006503",
+          "name": "财通集成电路产业股票C",
+          "type": "股票型",
+          "return_3m": 83.83,
+          "return_1y": 374.03,
+          "total_return": 616.97,
+          "nav": 7.1697,
+          "purity": 65.0,
+          "manager": "金梓才",
+          "mgr_return": 1347.9,
+          "mgr_exp_days": 4211,
+          "score": 85.2
+        },
+        {
+          "code": "008281",
+          "name": "国泰CES半导体芯片行业ETF联接A",
+          "type": "指数型-股票",
+          "return_3m": 25.3,
+          "return_1y": 101.58,
+          "total_return": 207.09,
+          "nav": 2.6826,
+          "purity": 80.0,
+          "manager": "梁杏",
+          "mgr_return": 207.1,
+          "mgr_exp_days": 3644,
+          "score": 81.9
+        }
+      ]
+    },
+    {
+      "name": "机器人",
+      "entry_score": 72.5,
+      "funds": [
+        {
+          "code": "027233",
+          "name": "银华中证机器人ETF发起式联接A",
+          "type": "指数型-股票",
+          "return_3m": NaN,
+          "return_1y": NaN,
+          "total_return": 5.08,
+          "nav": 1.0508,
+          "purity": 65.0,
+          "manager": "谭跃峰",
+          "mgr_return": 83.5,
+          "mgr_exp_days": 1614,
+          "score": 65.8
+        },
+        {
+          "code": "027234",
+          "name": "银华中证机器人ETF发起式联接C",
+          "type": "指数型-股票",
+          "return_3m": NaN,
+          "return_1y": NaN,
+          "total_return": 5.06,
+          "nav": 1.0506,
+          "purity": 65.0,
+          "manager": "谭跃峰",
+          "mgr_return": 83.5,
+          "mgr_exp_days": 1614,
+          "score": 65.8
+        },
+        {
+          "code": "020999",
+          "name": "南方中证机器人ETF发起联接I",
+          "type": "指数型-股票",
+          "return_3m": 0,
+          "return_1y": 0,
+          "total_return": 0,
+          "nav": 0,
+          "purity": 65.0,
+          "manager": "潘水洋",
+          "mgr_return": 201.2,
+          "mgr_exp_days": 815,
+          "score": 61.0
+        }
+      ]
+    },
+    {
+      "name": "有色",
+      "entry_score": 74.4,
+      "funds": [
+        {
+          "code": "026458",
+          "name": "银华中证有色金属ETF联接A",
+          "type": "指数型-股票",
+          "return_3m": NaN,
+          "return_1y": NaN,
+          "total_return": -3.42,
+          "nav": 0.9658,
+          "purity": 65.0,
+          "manager": "张凯",
+          "mgr_return": 80.5,
+          "mgr_exp_days": 4946,
+          "score": 75.2
+        },
+        {
+          "code": "026459",
+          "name": "银华中证有色金属ETF联接C",
+          "type": "指数型-股票",
+          "return_3m": NaN,
+          "return_1y": NaN,
+          "total_return": -3.45,
+          "nav": 0.9655,
+          "purity": 65.0,
+          "manager": "张凯",
+          "mgr_return": 80.5,
+          "mgr_exp_days": 4946,
+          "score": 75.2
+        },
+        {
+          "code": "002610",
+          "name": "博时黄金ETF联接A",
+          "type": "指数型-其他",
+          "return_3m": -13.66,
+          "return_1y": 27.48,
+          "total_return": 220.8,
+          "nav": 3.208,
+          "purity": 65.0,
+          "manager": "赵云阳",
+          "mgr_return": 312.2,
+          "mgr_exp_days": 4947,
+          "score": 67.1
+        }
+      ]
+    }
+  ]
+}
