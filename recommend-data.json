@@ -1,51 +1,51 @@
 {
-  "updated": "2026-05-31T23:32:45.870444",
+  "updated": "2026-06-01T21:12:41.683063",
   "sectors": [
     {
-      "name": "金融",
-      "entry_score": 73.1,
+      "name": "有色",
+      "entry_score": 74.4,
       "funds": [
         {
-          "code": "660015",
-          "name": "农银行业轮动混合A",
-          "type": "混合型-偏股",
-          "return_3m": 29.64,
-          "return_1y": 95.92,
-          "total_return": 1355.78,
-          "nav": 13.4515,
-          "purity": 65.0,
-          "manager": "邢军亮",
-          "mgr_return": 109.7,
-          "mgr_exp_days": 1781,
-          "score": 79.4
-        },
-        {
-          "code": "027166",
-          "name": "汇添富中证金融科技主题ETF发起式联接A",
+          "code": "026458",
+          "name": "银华中证有色金属ETF联接A",
           "type": "指数型-股票",
           "return_3m": null,
           "return_1y": null,
-          "total_return": -6.15,
-          "nav": 0.9385,
+          "total_return": -3.42,
+          "nav": 0.9658,
           "purity": 65.0,
-          "manager": "何丽竹",
-          "mgr_return": 104.8,
-          "mgr_exp_days": 439,
+          "manager": "张凯",
+          "mgr_return": 80.5,
+          "mgr_exp_days": 4946,
           "score": 75.2
         },
         {
-          "code": "027167",
-          "name": "汇添富中证金融科技主题ETF发起式联接C",
+          "code": "026459",
+          "name": "银华中证有色金属ETF联接C",
           "type": "指数型-股票",
           "return_3m": null,
           "return_1y": null,
-          "total_return": -6.16,
-          "nav": 0.9384,
+          "total_return": -3.45,
+          "nav": 0.9655,
           "purity": 65.0,
-          "manager": "何丽竹",
-          "mgr_return": 104.8,
-          "mgr_exp_days": 439,
+          "manager": "张凯",
+          "mgr_return": 80.5,
+          "mgr_exp_days": 4946,
           "score": 75.2
+        },
+        {
+          "code": "002610",
+          "name": "博时黄金ETF联接A",
+          "type": "指数型-其他",
+          "return_3m": -13.66,
+          "return_1y": 27.48,
+          "total_return": 220.8,
+          "nav": 3.208,
+          "purity": 65.0,
+          "manager": "赵云阳",
+          "mgr_return": 312.2,
+          "mgr_exp_days": 4947,
+          "score": 67.1
         }
       ]
     }

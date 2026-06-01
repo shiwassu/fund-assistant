@@ -1,242 +1,237 @@
 {
-  "updated": "2026-06-01T12:20:31.688895",
-  "total": 187,
+  "updated": "2026-06-01T21:12:41.351316",
+  "total": 190,
   "sources": [
     "新浪财经",
     "akshare-财新",
     "Tushare"
   ],
   "priority_dist": {
-    "high": 41,
-    "medium": 32,
-    "low": 114
+    "high": 37,
+    "medium": 31,
+    "low": 122
   },
   "items": [
     {
-      "title": "英伟达联手微软发布AI PC芯片，盘前股价双双大涨",
+      "title": "全线大涨！刚刚，直线狂飙！黄仁勋，彻底引爆！",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-01/doc-inhzxmec8257906.shtml",
+      "content": "黄仁勋再度引爆科技圈。 刚刚，英伟达美股盘前股价一度大涨近3%，截至发稿，涨幅为2.49%。芯片巨头Arm美股盘前直线拉升，涨幅扩大至13%。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:58",
+      "keywords": []
+    },
+    {
+      "title": "布鲁克发布4D蛋白质组学重大突破，助力疾病生物学深度研究",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewf8368672.shtml",
-      "content": "周一盘前交易中，英伟达与微软股价双双走高。英伟达上涨约2%，微软涨幅接近4%。这一涨势源于两家公司在台北国际电脑展上联合发布的重磅产品——专为Windows...",
-      "priority": "high",
-      "sectors": [
-        "半导体",
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-06-01",
-      "time": "12:10",
-      "keywords": []
-    },
-    {
-      "title": "IBM股价大涨 此前一段特朗普提及该股票的旧视频在网上流传",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewf8367936.shtml",
-      "content": " IBM股价盘前一度大涨15%，周末期间，一段唐纳德·特朗普在去年12月某活动上称赞IBM首席执行官并讨论该公司股票的视频在社交媒体上再次流传。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-01",
-      "time": "12:09",
-      "keywords": []
-    },
-    {
-      "title": "两连板后，603890紧急澄清",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-01/doc-inhzxewp2355776.shtml",
-      "content": "近两个交易日，春秋电子（603890）股价强势走出连续涨停行情，引发市场高度关注。6月1日晚间，公司发布股票交易异常波动公告，针对AI PC、机器人等热门概念传闻逐一澄清...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-01",
-      "time": "12:03",
-      "keywords": []
-    },
-    {
-      "title": "权益缩水三成，一年10位基金经理离任，博时基金怎么了？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/fund/jjyj/2026-06-01/doc-inhzxewi5141807.shtml",
-      "content": "来源：金观社Pro 2025年5月至今，博时已有10位基金经理离任，其中包括郭晓林、于冰、黄瑞庆、金晟哲等多位老将， 10位基金经理任内管理规模合计超千亿...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-06-01",
-      "time": "11:54",
-      "keywords": []
-    },
-    {
-      "title": "前美联储主席鲍威尔警告，特朗普的政治“压力测试”将破坏公众对央行的信任",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewi5137524.shtml",
-      "content": "美国前美联储主席杰罗姆·鲍威尔警告称，美国政府试图对央行施加更大政治压力的行为，将损害公众对其独立性的信心。 鲍威尔的美联储主席任期已于5月15日结束。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-06-01",
-      "time": "11:53",
-      "keywords": []
-    },
-    {
-      "title": "多地抢滩太空算力，全球万亿美元级市场待挖掘",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/roll/2026-06-01/doc-inhzxewp2349270.shtml",
-      "content": "建设太空算力基础设施，有望成为突破地面物理极限、破解算力供需矛盾的新方案。 北京成立太空智算研究院，天津组建太空数智基础设施联合攻关体...",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-06-01",
-      "time": "11:49",
-      "keywords": [
-        "太空",
-        "北京市",
-        "上海市",
-        "研究院"
-      ]
-    },
-    {
-      "title": "异地就医待遇衔接进入深水区，医保服务项目目录将率先落地",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/roll/2026-06-01/doc-inhzxewf8359302.shtml",
-      "content": "随着异地就医管理体系逐步完善，政策重心开始由提高结算便利性逐步转向提升跨区域治理效能。 异地就医的治理正进入“啃硬骨头”的阶段。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-06-01",
-      "time": "11:49",
-      "keywords": [
-        "异地就医",
-        "医保",
-        "统一"
-      ]
-    },
-    {
-      "title": "银行同业存单净融资时隔半年转正，释放哪些信号？",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/roll/2026-06-01/doc-inhzxewp2346550.shtml",
-      "content": " 时隔半年，同业存单净融资转正。Wind数据显示，刚刚过去的5月，银行业同业存单净融资额超过1600亿元，上一次存单发行量超过到期量还是在去年10月。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-06-01",
-      "time": "11:45",
-      "keywords": [
-        "同业存单",
-        "融资",
-        "银行",
-        "利率",
-        "负债"
-      ]
-    },
-    {
-      "title": "比亚迪各品牌 5 月销量公布，海外销售突破 16 万辆再创历史新高",
-      "source": "IT之家",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-06-01/doc-inhzxewn3878245.shtml",
-      "content": "IT之家 6 月 1 日消息，比亚迪汽车官方刚刚公布了旗下各品牌的 5 月销量情况。据介绍，比亚迪 5 月份销售 383453 辆，海外销售突破 16 万辆，再创历史新高。",
-      "priority": "high",
-      "sectors": [
-        "消费"
-      ],
-      "period": "morning",
-      "date": "2026-06-01",
-      "time": "11:39",
-      "keywords": [
-        "比亚迪",
-        "新能源汽车"
-      ]
-    },
-    {
-      "title": "英伟达新芯片提振股价盘前上涨 英特尔和AMD下跌",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewn3874874.shtml",
-      "content": "英伟达盘前上涨2.4%，此前该公司宣布将推出新款PC芯片，正式进军个人电脑市场。消息带动芯片设计公司Arm股价大涨13%，但对传统CPU厂商形成压力，英特尔下跌5%，高通下跌8...",
-      "priority": "high",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "morning",
-      "date": "2026-06-01",
-      "time": "11:35",
-      "keywords": []
-    },
-    {
-      "title": "美团业绩超预期，“外卖减亏”能否带动恒生科技指数回升？",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/roll/2026-06-01/doc-inhzxewp2341444.shtml",
-      "content": "互联网公司外卖业务集体改善。 6月1日晚间，美团（03690.HK）公布了2026年第一季度业绩，公布业绩前当天美团股价大涨6.54%，报收78.25港元，带动恒生科技指数回升1.65%...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-06-01",
-      "time": "11:29",
-      "keywords": [
-        "美团",
-        "外卖",
-        "恒生科技"
-      ]
-    },
-    {
-      "title": "AI应用逆市爆发！金融IT超跌反弹，华宝基金金融科技ETF（159851）收涨2.67%，板块修复窗口打开？",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-06-01/doc-inhzxewi5124548.shtml",
-      "content": "周一（6月1日），金融科技板块超跌反弹，金融IT方向大幅走高。星环科技大涨超15%，润和软件涨超12%，税友股份、中科金财封板，格尔软件逼近涨停，博睿数据、银之杰...",
-      "priority": "high",
-      "sectors": [
-        "金融",
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-06-01",
-      "time": "11:25",
-      "keywords": []
-    },
-    {
-      "title": "港股通创新药巨震，发生了什么？520880午后突发跳水，康方生物等11股振幅超10%！",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-06-01/doc-inhzxewn3871048.shtml",
-      "content": "6月首个交易日（6月1日），港股通创新药意外冲高回落，午后大幅杀跌。100%创新药研发标的——港股通创新药ETF华宝（520880）高开后一度涨近3%，而后快速回落，午后加速走低...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxmef5033055.shtml",
+      "content": " 布鲁克公司在ASMS 2026上宣布了一系列创新技术进展，涵盖4D蛋白质组学性能突破、蛋白质变体功能分析以及杂交代谢组学方法，旨在推动疾病生物学研究进入新阶段。",
       "priority": "high",
       "sectors": [
         "医药"
       ],
-      "period": "morning",
+      "period": "night",
       "date": "2026-06-01",
-      "time": "11:24",
+      "time": "20:57",
       "keywords": []
     },
     {
-      "title": "公募基金基准变更潮来袭，近32万亿银行理财资金迎来可复制经验，资管行业基准体系标准化愈加完善",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/roll/2026-06-01/doc-inhzxewn3871807.shtml",
-      "content": "财联社6月1日讯（编辑 李响） 今日，公募基金行业迎来《公开募集证券投资基金业绩比较基准指引》（以下简称《指引》）施行以来最大规模的基准调整潮。",
+      "title": "*ST荣控：6月3日起撤销退市风险警示",
+      "source": "证券时报网",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-01/doc-inhzxmem2243658.shtml",
+      "content": "人民财讯6月1日电，*ST荣控（000668）6月1日公告，公司股票将于2026年6月2日停牌一天，6月3日开市起复牌并撤销退市风险警示，股票简称变更为“荣丰控股”...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:57",
+      "keywords": [
+        "证券时报",
+        "停牌",
+        "复牌",
+        "涨跌幅限制"
+      ]
+    },
+    {
+      "title": "美联航客机因“炸弹”命名的蓝牙设备紧急折返",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxmec8255502.shtml",
+      "content": "日前，美国联合航空公司一架从纽瓦克飞往西班牙的航班因机上出现名为“BOMB”的蓝牙设备而触发安全警报，在起飞约三小时后被迫折返。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:56",
+      "keywords": []
+    },
+    {
+      "title": "603272，股价翻倍！公司澄清：光芯片资产注入消息不实！",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/s/2026-06-01/doc-inhzxmec8253343.shtml",
+      "content": "*ST联翔提示风险：股价击鼓传花效应明显，光芯片资产注入消息不实！ 4月下旬以来，*ST联翔（603272）多次涨停，股价自低点以来已翻倍。",
+      "priority": "high",
+      "sectors": [
+        "半导体",
+        "光模块"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:46",
+      "keywords": []
+    },
+    {
+      "title": "康方生物依沃西再获突破，肺癌死亡风险降低34%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewn3902060.shtml",
+      "content": "康方生物自主研发的全球首创PD-1/VEGF双特异性抗体依沃西，在治疗晚期鳞状非小细胞肺癌的III期临床研究HARMONi-6中取得重大突破。",
+      "priority": "high",
+      "sectors": [
+        "医药"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:45",
+      "keywords": []
+    },
+    {
+      "title": "曾旭东获批担任蜀道（四川）保险代理有限公司董事长",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/hm/2026-06-01/doc-inhzxewp2366944.shtml",
+      "content": " 6月1日金融一线消息，四川金融监管局发布《关于曾旭东蜀道（四川）保险代理有限公司董事长任职资格的批复》，核准曾旭东蜀道（四川）保险代理有限公司董事长的任职资格。",
       "priority": "high",
       "sectors": [
         "金融"
       ],
-      "period": "morning",
+      "period": "night",
       "date": "2026-06-01",
-      "time": "11:22",
+      "time": "20:39",
+      "keywords": []
+    },
+    {
+      "title": "鲍威尔警告：政治压力正成为美联储的“压力测试”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewn3899083.shtml",
+      "content": "美国前美联储主席杰罗姆·鲍威尔在卸任后的首次重要公开讲话中警告称，特朗普政府施加的政治压力正在考验美联储的独立性，若央行官员可因政策分歧被罢免...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:37",
+      "keywords": []
+    },
+    {
+      "title": "智谱、MiniMax“齐入”恒指，谁在导演这场千亿“接盘”戏码？",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-01/doc-inhzxewf8382684.shtml",
+      "content": "来源：环球老虎财经app 2026年涨势凶猛的AI“双雄”智谱、MiniMax即将加入恒生综合指数以及恒生科技指数，距离进入港股通也渐行渐近。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:37",
+      "keywords": []
+    },
+    {
+      "title": "陈竹获批担任唯品富邦消金首席合规官",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/hm/2026-06-01/doc-inhzxewn3898922.shtml",
+      "content": "6月1日金融一线消息，四川金融监管局发布《关于陈竹四川省唯品富邦消费金融有限公司首席合规官任职资格的批复》，核准陈竹四川省唯品富邦消费金融有限公司首席合规官的任职...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:37",
+      "keywords": []
+    },
+    {
+      "title": "AI热潮推动日韩股市再创新高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewf8378457.shtml",
+      "content": " 尽管中东地缘政治局势依然紧张，但在人工智能投资热潮的强劲推动下，日本和韩国股市周一双双创下历史新高，显示出科技板块对区域市场的巨大影响力。",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:37",
+      "keywords": []
+    },
+    {
+      "title": "今夜，全线大涨！英伟达，彻底引爆！",
+      "source": "证券时报",
+      "url": "https://finance.sina.com.cn/wm/2026-06-01/doc-inhzxewn3899927.shtml",
+      "content": "英伟达引爆市场。 当地时间6月1日，受英伟达进军电脑芯片市场影响，美股相关科技股盘前大涨，截至发稿，英伟达涨超2%，Arm涨超11%，IBM涨超10%，微软、甲骨文...",
+      "priority": "high",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:35",
       "keywords": [
-        "基准",
-        "公募基金",
-        "财联社",
-        "理财",
-        "资产"
+        "英伟达",
+        "美元",
+        "目标价",
+        "微软"
       ]
+    },
+    {
+      "title": "刘祎获批担任重庆农商行副行长",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/hm/2026-06-01/doc-inhzxewp2365332.shtml",
+      "content": " 6月1日金融一线消息，重庆金融监管局发布《关于刘祎重庆农村商业银行副行长任职资格的批复》，核准刘祎重庆农村商业银行股份有限公司副行长的任职资格。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:35",
+      "keywords": []
+    },
+    {
+      "title": "毕节农村商业银行获批筹建",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/bank/2026-06-01/doc-inhzxewf8376815.shtml",
+      "content": " 6月1日金融一线消息，国家金融监督管理总局贵州监管局发布《关于筹建毕节农村商业银行股份有限公司的批复》，同意筹建毕节农村商业银行股份有限公司。",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:33",
+      "keywords": []
+    },
+    {
+      "title": "法国吸引外资达 1080 亿美元，其中半数流向软银旗下数据中心项目",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewp2364604.shtml",
+      "content": "多家企业承诺向法国投资930 亿欧元（折合 1080 亿美元），其中半数资金将投向软银支持的数据中心项目。法国总统马克龙正计划依托本国核电产能...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:32",
+      "keywords": []
     },
     {
       "title": "鲍威尔周日在预先准备的讲稿中指出，如果任何一届政府设法因政策分歧而撤换美联储官员，那么未来的政府也会如法泡制",
@@ -511,232 +506,188 @@
       ]
     },
     {
-      "title": "埃及央行：埃及 7 月至次年 3 月劳工侨汇达 349 亿美元。",
+      "title": "受大选结果影响，哥伦比亚比索大涨 3.1%，互换合约价格大幅下跌。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "   埃及央行：埃及 7 月至次年 3 月劳工侨汇达 349 亿美元。",
+      "content": "  受大选结果影响，哥伦比亚比索大涨 3.1%，互换合约价格大幅下跌。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-01",
-      "time": "20:18",
+      "time": "21:04",
       "keywords": []
     },
     {
-      "title": "【文件：欧盟云计算新规将限制亚马逊、微软、谷歌参与战略性招标项目】相关文件显示，欧盟计划为关键公共采购项目中的云计算服务",
+      "title": "【《供水条例》施行】记者从水利部了解到，《供水条例》自6月1日起施行，《城市供水条例》同时废止。《供水条例》于今年2月公",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【文件：欧盟云计算新规将限制亚马逊、微软、谷歌参与战略性招标项目】相关文件显示，欧盟计划为关键公共采购项目中的云计算服务设立严格准入标准，此举或将把亚马逊、微软、谷歌三大美国科技企业排除在相关项目之外。 该提案是欧盟委员会《云计算与人工智能发展法案》的组成部分。欧盟数字事务负责人亨娜·维尔库宁将于周三正式公布这套法案及配套政策，核心目标是降低欧洲对美国科技的依赖。 这份此前未对外披露的提案仍有可能",
+      "content": "【《供水条例》施行】记者从水利部了解到，《供水条例》自6月1日起施行，《城市供水条例》同时废止。《供水条例》于今年2月公布。基于推进城乡融合发展、平等保障城乡居民饮用水权利等需要，条例在原《城市供水条例》的基础上，将农村供水纳入其中，将促进城乡供水在规划布局、设施建设、管理服务等方面标准统一、制度并轨、相互融合、共同发展，推动城乡供水“同源、同网、同质、同监管、同服务”。（新华社）",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-01",
-      "time": "20:15",
+      "time": "21:00",
       "keywords": []
     },
     {
-      "title": "欧盟各国卫生部长将于周五召开埃博拉疫情紧急会议。",
+      "title": "【原油期货上涨，美伊尚未达成协议】随着周末过去，美国和伊朗仍未达成协议，且双方发生交火，原油期货走高。“尽管双方交换了修",
       "source": "Tushare-sina",
       "url": "",
-      "content": "  欧盟各国卫生部长将于周五召开埃博拉疫情紧急会议。",
+      "content": "【原油期货上涨，美伊尚未达成协议】随着周末过去，美国和伊朗仍未达成协议，且双方发生交火，原油期货走高。“尽管双方交换了修改后的提议，但缺乏明确的突破以及该地区再次发生的事件加剧了人们的担忧，即影响霍尔木兹海峡的限制措施可能会比此前预期的持续更长时间，”Tickmill的Joseph Dahrieh在一份报告中表示。“虽然成功达成协议最终可能有助于压低价格，但航线的重新开放和能源供应的正常化可能会是",
+      "priority": "high",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "20:56",
+      "keywords": []
+    },
+    {
+      "title": "市场消息：以太坊的质押比例达到32.4%，创下历史新高。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "市场消息：以太坊的质押比例达到32.4%，创下历史新高。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-01",
-      "time": "20:14",
+      "time": "20:54",
       "keywords": []
     },
     {
-      "title": "俄罗斯央行副行长：出口收入增速快于卢布升值幅度，因此出口商所处境况向好。",
+      "title": "【机构：即使伊朗战争结束，欧元的反弹潜力似乎也有限】荷兰合作银行的Jane Foley在一份报告中表示，伊朗战争的结束和",
       "source": "Tushare-sina",
       "url": "",
-      "content": "俄罗斯央行副行长：出口收入增速快于卢布升值幅度，因此出口商所处境况向好。",
+      "content": "【机构：即使伊朗战争结束，欧元的反弹潜力似乎也有限】荷兰合作银行的Jane Foley在一份报告中表示，伊朗战争的结束和霍尔木兹海峡的重新开放将使欧元兑美元回升，但上升空间可能有限。“虽然美联储10月份的降息应会使欧元在下半年呈上升趋势，但我们预计[欧元兑美元]在此期间不会获得显著的上涨动力。”她说，市场已经充分反映了欧洲央行在此期间加息两次的预期，而欧元区经济增长面临的阻力意味着欧元今年可能难以",
       "priority": "high",
       "sectors": [
-        "综合"
+        "金融"
       ],
       "period": "noon",
       "date": "2026-06-01",
-      "time": "20:14",
+      "time": "20:54",
       "keywords": []
     },
     {
-      "title": "美高梅度假村盘前大涨 10.2%。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "  美高梅度假村盘前大涨 10.2%。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-01",
-      "time": "20:11",
-      "keywords": []
-    },
-    {
-      "title": "【铂科新材：拟发行H股股票并在香港联交所主板挂牌上市】铂科新材公告，公司于2026年6月1日召开第四届董事会第十七次会议",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【铂科新材：拟发行H股股票并在香港联交所主板挂牌上市】铂科新材公告，公司于2026年6月1日召开第四届董事会第十七次会议，审议通过《关于公司发行H股股票并在香港联合交易所有限公司上市的议案》《关于公司发行H股股票并在香港联合交易所有限公司上市方案的议案》等议案。公司正在筹划发行境外上市外资股（H股）股票并在香港联合交易所有限公司主板挂牌上市，旨在满足业务发展需要，推进国际化战略，提升国际品牌形象及",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-01",
-      "time": "20:11",
-      "keywords": []
-    },
-    {
-      "title": "【退市观典：股票退市整理期剩余5个交易日 期满将终止上市】退市观典公告称，公司于2026年5月11日收到上交所终止公司股",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【退市观典：股票退市整理期剩余5个交易日 期满将终止上市】退市观典公告称，公司于2026年5月11日收到上交所终止公司股票上市的决定，股票于5月19日进入退市整理期，预计最后交易日期为6月8日。截至6月1日已交易10个交易日，剩余5个交易日。退市整理期届满后5个交易日内，上交所将对公司股票予以摘牌。期间公司不筹划或实施重大资产重组，提醒投资者了结相关业务，提前办理司法续冻手续。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-01",
-      "time": "20:07",
-      "keywords": []
-    },
-    {
-      "title": "【王兴：外卖行业竞争趋于理性，长期UE将回到合理水平】在美团2026年第一季度业绩电话会上，美团CEO王兴表示，外卖行业",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【王兴：外卖行业竞争趋于理性，长期UE将回到合理水平】在美团2026年第一季度业绩电话会上，美团CEO王兴表示，外卖行业整体的补贴逐渐趋于理性，竞争正在重新聚焦运营效率和用户体验，这种转变凸显了美团的优势。“即便我们逐步缩减补贴，平台用户依旧保持健康增长，用户粘性也持续增强，我们在中高客单价外卖赛道的地位进一步巩固。”王兴表示，此前一轮非理性竞争证明了一件事，单纯依靠补贴拉动订单增长的模式难以为继",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-01",
-      "time": "20:07",
-      "keywords": []
-    },
-    {
-      "title": "【涉5亿欧元可疑交易调查 Wise股价暴跌11%】数字汇款巨头Wise(WSE.US)因涉嫌约 5 亿欧元的可疑交易在比",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【涉5亿欧元可疑交易调查 Wise股价暴跌11%】数字汇款巨头Wise(WSE.US)因涉嫌约 5 亿欧元的可疑交易在比利时接受调查，消息传出后，Wise的股价暴跌，截至发稿，该股跌11.35%。据报道，比利时检察官正在调查该公司，因为他们担心该公司的账户已被犯罪分子用于洗钱，包括欺诈、腐败和贩毒所得。据称，该调查于 2025 年启动。检察官正在调查该公司在欧洲 30 多个国家是否存在违反反洗钱法",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-01",
-      "time": "20:06",
-      "keywords": []
-    },
-    {
-      "title": "【IBM股价大涨 此前一段特朗普提及该股票的旧视频在网上流传】IBM股价盘前一度大涨15%，周末期间，一段唐纳德·特朗普",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【IBM股价大涨 此前一段特朗普提及该股票的旧视频在网上流传】IBM股价盘前一度大涨15%，周末期间，一段唐纳德·特朗普在去年12月某活动上称赞IBM首席执行官并讨论该公司股票的视频在社交媒体上再次流传。在该视频片段中，特朗普表示IBM首席执行官Arvind Krishna已将“股价从相当低的位置带到了非常不错的水平”。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-01",
-      "time": "20:05",
-      "keywords": []
-    },
-    {
-      "title": "人工智能冲击ChatGPT诞生前的一代初创企业",
+      "title": "Mobileye获评Frost & Sullivan 2026年全球乘用车ADAS行业年度公司",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewi5148032.shtml",
-      "content": "核心要点 市场研究机构 PitchBook 的数据显示，美国 857 家独角兽初创企业中，近半数已有三年未获得新一轮融资。 PitchBook 统计，2021 年完成上一轮融资的初创企业...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxmem2247124.shtml",
+      "content": "Mobileye近日被弗若斯特沙利文评为2026年全球乘用车高级驾驶辅助系统行业年度公司，这是该机构授予的最高行业荣誉。该奖项表彰了Mobileye在可扩展ADAS解决方案方面的全球市...",
       "priority": "medium",
       "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "21:07",
+      "keywords": []
+    },
+    {
+      "title": "美团高管解读Q1财报：仅依靠补贴推动的订单增长是不可持续的",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/2026-06-01/doc-inhzxmem2244377.shtml",
+      "content": "美团发布2026年第一季度业绩。本季度，美团实现收入910亿元，同比增长5.6%，经营亏损由上季度的161亿元减少至65亿元。 详见：美团：2026年一季度营收910亿元...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "21:01",
+      "keywords": []
+    },
+    {
+      "title": "股市近期走势，与 2000 年互联网泡沫顶峰阶段惊人相似",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewf8383911.shtml",
+      "content": "标普500指数在5月最后一个交易日创下收盘新高，但仅有少数几只股票（大多集中在人工智能板块）同步触及历史最高点。 这一异常现象...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:50",
+      "keywords": []
+    },
+    {
+      "title": "利空突袭！黄仁勋动手，AMD、英特尔、高通集体大跌",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-01/doc-inhzxewn3903329.shtml",
+      "content": "来源：中国基金报 【导读】黄仁勋把英特尔、AMD、高通的股价“打趴”了 中国基金报记者 泰勒 黄仁勋的大消息——英伟达发布面向PC的全新AI芯片，结果却是对手们英特尔、AMD...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:46",
+      "keywords": []
+    },
+    {
+      "title": "SpaceX上市热潮下，Intuitive Machines与Redwire或成潜在机会",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewp2368947.shtml",
+      "content": " 随着SpaceX即将启动史诗级IPO，航天板块成为市场焦点。在这轮热潮中，部分分析人士认为，Intuitive Machines和Redwire等航天股可能成为被低估的机会。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:44",
+      "keywords": []
+    },
+    {
+      "title": "英伟达AI进展提振市场，周一美股期货走高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewf8377928.shtml",
+      "content": "美国股指期货周一上涨，英伟达在人工智能领域的最新进展提振了科技股表现，暂时盖过了市场对美伊紧张局势的担忧。 标普500指数期货上涨0.3%，纳斯达克100指数期货上涨0...",
+      "priority": "medium",
+      "sectors": [
+        "半导体",
         "AI"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-06-01",
-      "time": "12:16",
+      "time": "20:35",
       "keywords": []
     },
     {
-      "title": "二永债发行冷热不均：国有大行密集募资，农商行集体缺席",
-      "source": "界面",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-01/doc-inhzxewp2353950.shtml",
-      "content": "界面新闻记者 | 曾令俊 今年以来，银行业资本补充市场呈现明显分化景象。一边是国有大行与股份制银行密集发布二永债（商业银行发行的二级资本债和永续债）...",
+      "title": "净流出240亿，资金撤离电子板块",
+      "source": "中国证券报-中证网",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-01/doc-inhzxmem2243442.shtml",
+      "content": "6月1日，A股市场震荡调整，资金面上，市场避险情绪升温。Wind数据显示，今日沪深两市主力资金净流出389.98亿元，资金从多数行业板块撤出。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "night",
       "date": "2026-06-01",
-      "time": "11:58",
+      "time": "20:30",
       "keywords": [
-        "二级资本",
-        "中小银行",
-        "利率"
+        "传媒"
       ]
     },
     {
-      "title": "中邮基金“80后”总经理杀入视频号，风口还是弯道？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/fund/jjyj/2026-06-01/doc-inhzxewp2353535.shtml",
-      "content": "作者 |郑理 来源 | 独角金融 最近，作为“公募第一股”中邮基金（834344.NQ）总经理张志名，一位掌管着近900亿资产的“80后”，打破金融高管西装革履的刻板印象...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-06-01",
-      "time": "11:55",
-      "keywords": []
-    },
-    {
-      "title": "伊朗战争引发的通胀冲击料将不及 2022 年飙升幅度",
+      "title": "挪威海上油气工人拟罢工，8%从业者参与",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewn3877664.shtml",
-      "content": "媒体分析称，经济学家认为，本轮伊朗冲突引发的通胀冲击，烈度将不及 2022 年能源危机期间的物价暴涨。 媒体梳理共识经济研究机构的预测数据后发现...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewn3896092.shtml",
+      "content": "挪威油气行业工会数据显示，若国家调解的工资谈判失败，近8%的挪威海上油气工人计划于6月5日起罢工。 代表油气行业参与谈判的挪威海上工业协会发言人表示...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "night",
       "date": "2026-06-01",
-      "time": "11:43",
-      "keywords": []
-    },
-    {
-      "title": "英伟达重新发明PC？联想集团收涨5%创新高，规模最大港股通信息技术ETF华宝（159131）韧性收红",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-06-01/doc-inhzxewp2339549.shtml",
-      "content": "6月1日，互联网软件久违大反攻，聚焦港股“硬科技”的港股通信息C指数冲高回落收涨0.74%，同类规模最大、流动性最强*的港股通信息技术ETF华宝（159131）早盘一度冲高逾3%...",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "morning",
-      "date": "2026-06-01",
-      "time": "11:28",
-      "keywords": []
-    },
-    {
-      "title": "AI应用逆市崛起！港股带头冲锋，华宝基金港股互联网ETF猛攻3.23%！金融科技超跌反弹，159851收涨2.67%",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-06-01/doc-inhzxewf8346031.shtml",
-      "content": " 周一（6月1日），A股市场全天冲高回落，创业板指跌超2%，黄白线分化明显，中小盘股走势较强。港股则迎来反弹，互联网龙头成为上涨主力。",
-      "priority": "medium",
-      "sectors": [
-        "金融",
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-06-01",
-      "time": "11:22",
+      "time": "20:29",
       "keywords": []
     },
     {
@@ -1021,68 +972,384 @@
       ]
     },
     {
-      "title": "【摩根大通交易员对投机型科技股持怀疑态度】由安德鲁·泰勒领导的摩根大通市场情报部门指出，在经历了如此迅猛的上涨之后，鉴于",
+      "title": "焦煤连续主力合约日内涨2%，现报1375.00元。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【摩根大通交易员对投机型科技股持怀疑态度】由安德鲁·泰勒领导的摩根大通市场情报部门指出，在经历了如此迅猛的上涨之后，鉴于潜在收益率仍有可能高举不下，投资者理应“对科技股中那些风险较高的个股保持警惕”。泰勒主张转向该行业中更具知名度的公司，尤其是在债券收益率上升的情况下，因为这可能会对规模较小且亏损的公司造成最大影响。他补充道，那些规模较大、盈利状况较好的科技股进行的股票回购活动“有助于推动向优质企",
+      "content": "焦煤连续主力合约日内涨2%，现报1375.00元。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-01",
-      "time": "20:17",
+      "time": "21:00",
       "keywords": []
     },
     {
-      "title": "B·莱利投资银行首次覆盖美国稀土，给予买入评级，目标价为28美元。",
+      "title": "【国内期货夜盘开盘】集运指数欧线期货连续涨11.69%，鸡蛋连续涨4.72%，多晶硅连续涨3.38%，菜籽连续涨3.03",
       "source": "Tushare-sina",
       "url": "",
-      "content": "B·莱利投资银行首次覆盖美国稀土，给予买入评级，目标价为28美元。",
+      "content": "【国内期货夜盘开盘】集运指数欧线期货连续涨11.69%，鸡蛋连续涨4.72%，多晶硅连续涨3.38%，菜籽连续涨3.03%，红枣连续涨2.24%，沥青连续涨2.05%。",
       "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "21:00",
+      "keywords": []
+    },
+    {
+      "title": "【商务部启动2026年“服务消费季”活动】6月1日，2026年“服务消费季”活动在浙江省杭州市启动。商务部副部长鄢东、中",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "【商务部启动2026年“服务消费季”活动】6月1日，2026年“服务消费季”活动在浙江省杭州市启动。商务部副部长鄢东、中央广播电视总台副台长余俊生、浙江省副省长张雁云以及文化和旅游部等部门有关司局负责同志出席启动仪式。\n\n为深入贯彻党中央、国务院关于促进服务消费高质量发展的决策部署，落实全国服务业大会精神，扩大优质服务供给，促进服务消费提质惠民，商务部牵头开展2026年“服务消费季”系列促消费活动",
+      "priority": "medium",
+      "sectors": [
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "20:58",
+      "keywords": []
+    },
+    {
+      "title": "欧洲斯托克600指数当日短暂转涨。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "欧洲斯托克600指数当日短暂转涨。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "20:57",
+      "keywords": []
+    },
+    {
+      "title": "全球基金6月1日净卖出391亿印度卢比的印度股票。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "全球基金6月1日净卖出391亿印度卢比的印度股票。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "20:56",
+      "keywords": []
+    },
+    {
+      "title": "【打破“只买不卖”惯例 Strategy出售所持部分比特币】全球最大的比特币企业级持有者Strategy Inc.出售了",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "【打破“只买不卖”惯例 Strategy出售所持部分比特币】全球最大的比特币企业级持有者Strategy Inc.出售了约250万美元的比特币，这是该公司自2022年以来首次减持这一加密货币。联合创始人Michael Saylor上个月在公司季度业绩电话会上已暗示未来存在出售比特币的可能性。这与他多年来反复向股东保证“不会出售所持比特币”的立场相比，是一次显著转变。Strategy表示，未来出售比",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "20:54",
+      "keywords": []
+    },
+    {
+      "title": "Seaport Therapeutics将出席两大投资者会议，聚焦神经精神药物研发",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxmef5038397.shtml",
+      "content": " Seaport Therapeutics是一家专注于开发新型神经精神疾病疗法的临床阶段生物制药公司，近日宣布其管理团队将参与两场即将举行的投资者会议。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "21:09",
+      "keywords": []
+    },
+    {
+      "title": "Asian Cinemas与IMAX达成合作，将在印度开设三家IMAX激光影院",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxmek3779291.shtml",
+      "content": "IMAX公司与印度领先影院连锁品牌Asian Cinemas近日宣布达成合作协议，将通过AMB Cinemas品牌在印度开设三家全新的IMAX激光影院。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "21:06",
+      "keywords": []
+    },
+    {
+      "title": "Camden Property Trust将出席REITweek大会并发布Q2运营更新",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxmek3777736.shtml",
+      "content": "Camden Property Trust今日宣布，公司将出席于2026年6月2日至3日举行的Nareit REITweek 2026投资者大会。公司同时提供了2026年第二季度运营趋势的最新情况...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "21:02",
+      "keywords": []
+    },
+    {
+      "title": "Quantinuum寻求通过IPO筹集至多14.6亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxmec8256713.shtml",
+      "content": "Quantinuum寻求通过IPO发行2650万股A类普通股，每股价格为53至55美元，目标筹集不超14.6亿美元的资金。 拟在纳斯达克上市，股票代码为QNT。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:59",
+      "keywords": []
+    },
+    {
+      "title": "打破“只买不卖”惯例 Strategy出售所持部分比特币",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxmek3775835.shtml",
+      "content": "全球最大的比特币企业级持有者Strategy出售了约250万美元的比特币，这是该公司自2022年以来首次减持这一加密货币。 联合创始人Michael...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:58",
+      "keywords": []
+    },
+    {
+      "title": "英伟达发布DSX平台与人形机器人，加速AI工厂与物理智能落地",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewf8383426.shtml",
+      "content": "英伟达在GTC2026大会上宣布推出两大创新成果：面向AI工厂的NVIDIA DSX基础设施平台，以及首款开源人形机器人参考设计Isaac GR00T...",
+      "priority": "low",
+      "sectors": [
+        "半导体",
+        "机器人",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:48",
+      "keywords": []
+    },
+    {
+      "title": "英唐智控又要\"买买买\"了：拟8亿吞下两个标的背后，一场长达十年的转型困局",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-01/doc-inhzxmef5031189.shtml",
+      "content": "来源：全景财经 当一家公司以“发行股份”的方式再次准备出手收购时，你需要问的不是它买了什么，而是它过去买的，到底怎么样了？ 01 序幕：又一份发行股份购买资产预案...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:47",
+      "keywords": []
+    },
+    {
+      "title": "软银宣布750亿欧元投资法国AI基础设施",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewf8382482.shtml",
+      "content": " 软银集团在“选择法国”峰会上宣布，将在法国投资高达750亿欧元，用于开发和运营总容量达5吉瓦的人工智能数据中心。这是软银在欧洲最大规模的人工智能基础设施投资。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:46",
+      "keywords": []
+    },
+    {
+      "title": "宇树科技73天火速上会，美团、腾讯、阿里和雷军都是股东",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/wm/2026-06-01/doc-inhzxewi5160987.shtml",
+      "content": "记者丨赵云帆 编辑丨郑世凤，巫燕玲 视频编辑丨杨浩凯 6月1日，据上交所官网，上交所上市审核委员会召开2026年第31次上市审核委员会审议会议，审议结果显示...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:44",
+      "keywords": [
+        "IPO",
+        "机器人",
+        "雷军",
+        "腾讯",
+        "美团"
+      ]
+    },
+    {
+      "title": "近千名UAW工人在美国车桥工厂罢工，抗议18年薪资停滞",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewf8381183.shtml",
+      "content": " 当地时间6月1日零时，美国汽车工人联合会近1000名成员在位于密歇根州三河市的美国车桥工厂正式举行罢工，原因是工会与该公司的合同谈判破裂。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:42",
+      "keywords": []
+    },
+    {
+      "title": "苏州银行：聘任王强为行长兼首席合规官 李伟、贝灏明、薛辉、赵刚为副行长",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/hm/2026-06-01/doc-inhzxewf8380202.shtml",
+      "content": "6月1日金融一线消息，苏州银行发布第六届董事会第二次会议决议公告，会议审议通过多项高管聘任议案，同意聘任王强为行长，李伟、贝灏明、薛辉、赵刚为副行长...",
+      "priority": "low",
       "sectors": [
         "有色",
         "金融"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-06-01",
-      "time": "20:15",
+      "time": "20:40",
       "keywords": []
     },
     {
-      "title": "【6月1日《新闻联播》主要内容】今天《新闻联播》主要内容有：1.《求是》杂志发表习近平总书记重要文章《前瞻布局和发展未来",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【6月1日《新闻联播》主要内容】今天《新闻联播》主要内容有：1.《求是》杂志发表习近平总书记重要文章《前瞻布局和发展未来产业》； 2.【新思想引领新征程】传承红色基因增长知识本领 在新征程上跑好历史接力赛； 3.韩正会见巴西外长； 4.【“十五五”开好局起好步】谱写中原大地推进中国式现代化新篇章 重庆打造新时代西部大开发重要战略支点； 5.全国共有少先队员1.12亿名； 6.我国推进儿童友好建设城",
-      "priority": "medium",
+      "title": "新势力出海第一，零跑汽车的爆发力藏不住了",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/s/2026-06-01/doc-inhzxewi5160591.shtml",
+      "content": "来源：环球老虎财经app 持续领跑，再创新纪录！零跑汽车5月交付达81569台，同比增超81%。5月，零跑汽车海外出口超2万台，领跑新势力海外销量。",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:37",
+      "keywords": []
+    },
+    {
+      "title": "棉花期货走高 受供应缺口扩大预期叠加油价上涨影响",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewi5155005.shtml",
+      "content": "受全球棉花缺口预期加剧及油价反弹提振，纽约棉花期货连续第三个交易日上涨。 最活跃合约一度上涨2.5%，至每磅81.61美分，创5月20日以来新高。",
+      "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-06-01",
-      "time": "20:11",
+      "time": "20:35",
       "keywords": []
     },
     {
-      "title": "数据编纂机构挪威机动车公路运输局（OFV）表示，5月份特斯拉在挪威的新车注册量同比增长28.7%。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "数据编纂机构挪威机动车公路运输局（OFV）表示，5月份特斯拉在挪威的新车注册量同比增长28.7%。",
-      "priority": "medium",
+      "title": "苏州银行：选举崔庆军为第六届董事会董事长",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/hm/2026-06-01/doc-inhzxewp2364236.shtml",
+      "content": "6月1日金融一线消息，苏州银行发布第六届董事会第一次会议决议公告，会议审议通过了关于选举苏州银行股份有限公司第六届董事会董事长的议案...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:32",
+      "keywords": []
+    },
+    {
+      "title": "SBM Offshore获巴西国油SEAP-I和SEAP-II两艘FPSO合同",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewn3896511.shtml",
+      "content": " SBM Offshore已获得巴西国家石油公司授予的两份合同，涉及位于巴西东北部塞尔希培-阿拉戈斯盆地的两个浮式生产储卸油装置项目。",
+      "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-06-01",
-      "time": "20:10",
+      "time": "20:31",
       "keywords": []
     },
     {
-      "title": "【李家超率团正式展开中亚之行】香港特区行政长官李家超率领的 70 人外访代表团今日（6月1日）在哈萨克斯坦正式展开访问行",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【李家超率团正式展开中亚之行】香港特区行政长官李家超率领的 70 人外访代表团今日（6月1日）在哈萨克斯坦正式展开访问行程。这是本届特区政府规模最大的一次外访代表团，汇聚了香港与内地各行业精英。 香港代表来自主要商会、金融及专业服务、基建、地产、能源、创科、传媒等领域；内地代表则涵盖创科、制药、高端制造、汽车产业等板块。 李家超表示，代表团将共同探索中亚的无限潜力，深入了解这个充满活力的新兴市场，",
-      "priority": "medium",
+      "title": "盘前：纳指期货涨0.1% 英伟达领涨芯片股",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewf8378634.shtml",
+      "content": "周一全球股市交投于纪录高位附近，股市继续锁定新一轮涨幅，尽管油价反弹，但在美国和伊朗围绕和平协议仍陷入僵局之际，股市表现依然坚挺，人工智能热潮继续推动需求...",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:30",
+      "keywords": []
+    },
+    {
+      "title": "红杉中国创始及执行合伙人沈南鹏捐资3亿元 C9，成立新书院",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-01/doc-inhzxewn3902179.shtml",
+      "content": "来源：青塔 原标题：获捐3亿元！C9，成立新书院 值上海交通大学建校130周年之际，1985级首届教改试点班杰出校友、红杉中国创始及执行合伙人沈南鹏先生慷慨捐资3亿元...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:30",
+      "keywords": []
+    },
+    {
+      "title": "BP向韩国GS Energy出售Browse LNG项目5%股份",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewf8374960.shtml",
+      "content": "BP周一宣布，已同意将其在西澳大利亚Browse液化天然气项目中所持股份的5%出售给韩国GS Energy。 此次出售后，BP在该项目中的持股比例降至39.33%。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:28",
+      "keywords": []
+    },
+    {
+      "title": "油价上涨超3%，美伊相互袭击后市场担忧升级",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewp2362949.shtml",
+      "content": "周一油价上涨逾3%，此前伊朗与美国相互发动袭击，同时以色列下令部队进一步深入黎巴嫩，与受伊朗支持的真主党作战。 截至格林尼治标准时间7时01分，美国原油期货上涨2...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:28",
+      "keywords": []
+    },
+    {
+      "title": "伊朗重启南帕尔斯三座海上气平台生产",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewp2362609.shtml",
+      "content": " 帕尔斯石油天然气公司首席执行官周日向官方媒体表示，伊朗已恢复南帕尔斯气田三座海上平台的生产。此前，以色列的袭击导致部分陆上设施加工能力中断，这些平台被迫停产。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:26",
+      "keywords": []
+    },
+    {
+      "title": "石油财富重塑圭亚那：机遇与隐忧并存",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewp2361883.shtml",
+      "content": " 圭亚那曾是南美洲最贫穷的国家之一，如今却因石油而成为全球增长最快的经济体。随着中东冲突推高油价，这个加勒比小国正迎来创纪录的石油收入。",
+      "priority": "low",
       "sectors": [
         "综合"
       ],
@@ -1170,453 +1437,100 @@
       "sectors": [
         "能源"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-06-01",
-      "time": "12:19",
+      "time": "20:24",
       "keywords": []
     },
     {
-      "title": "Vantage Drilling同意以2.58亿美元被Eldorado Drilling收购",
+      "title": "圭亚那着眼创纪录石油收入，全球能源市场格局生变",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewn3892587.shtml",
-      "content": " Vantage Drilling已达成一项合并协议，根据该协议，总部位于挪威的Eldorado Drilling将以约2.576亿美元的股权价值收购这家海上钻井承包商。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewf8373430.shtml",
+      "content": " 在美国与以色列对伊朗的战争推高油价之前，圭亚那已是全球增长最快的经济体。如今，随着这场冲突重塑全球能源市场，这个拥有近100万人口的加勒比小国将获得更大的财富。",
       "priority": "low",
       "sectors": [
-        "综合"
+        "能源"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-06-01",
-      "time": "12:19",
+      "time": "20:24",
       "keywords": []
     },
     {
-      "title": "伊朗冲突带来的航运扰动持续，捷蓝航空预警燃油成本上涨",
+      "title": "法国巴黎银行：亚洲科技股超级周期远未见顶",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewp2359979.shtml",
-      "content": " 由于霍尔木兹海峡航运受阻的状况已持续四个月，航空燃油价格不断走高、全球航空业承压，美国捷蓝航空于周一上调了第二季度燃油成本预期。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewi5150240.shtml",
+      "content": "法国巴黎银行表示，至少在短期内，在估值支撑下，科技股超级周期依然是亚洲市场中唯一具有高确定性的盈利增长故事。 “现在就断言科技股周期已经见顶还为时过早...",
       "priority": "low",
       "sectors": [
-        "综合"
+        "金融"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-06-01",
-      "time": "12:18",
+      "time": "20:23",
       "keywords": []
     },
     {
-      "title": "伯克希尔68亿美元收购住宅建筑商泰勒莫里森，阿贝尔上任首笔大型交易敲定",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewn3892016.shtml",
-      "content": "伯克希尔哈撒韦公司周日宣布，已同意以约68亿美元全现金收购美国住宅建筑商泰勒莫里森房屋公司，此举标志着新任首席执行官格雷格·阿贝尔执掌以来首笔数十亿美元级并购正式...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-01",
-      "time": "12:16",
-      "keywords": []
-    },
-    {
-      "title": "文件：欧盟云计算新规将限制亚马逊、微软、谷歌参与战略性招标项目",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-06-01/doc-inhzxewn3891738.shtml",
-      "content": "北京时间6月1日晚间消息，相关文件显示，欧盟计划为关键公共采购项目中的云计算服务设立严格准入标准，此举或将把亚马逊、微软、谷歌三大美国科技企业排除在相关项目之外。...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-01",
-      "time": "12:15",
-      "keywords": []
-    },
-    {
-      "title": "美国中央司令部称昨晚拦截了两枚伊朗弹道导弹",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-06-01/doc-inhzxewn3891469.shtml",
-      "content": "美国中央司令部在X上发帖称，这两枚弹道导弹的目标是驻科威特美军。 声明称，没有美方人员受伤。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-01",
-      "time": "12:14",
-      "keywords": []
-    },
-    {
-      "title": "长生人寿发布增资扩股引进战略投资者公告 资金拟用于补足资本金、支撑业务发展",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-06-01/doc-inhzxewn3891856.shtml",
-      "content": "每经记者|袁园  6月1日，《每日经济新闻》记者从北京产权交易所获悉，长生人寿保险有限公司（以下简称“长生人寿”）已在北京产权交易所发布增资扩股引进战略投资者项目...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-01",
-      "time": "12:14",
-      "keywords": [
-        "长生人寿",
-        "海航集团",
-        "净利润"
-      ]
-    },
-    {
-      "title": "英伟达新芯片冲击PC市场，高通英特尔AMD股价集体大跌",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewf8369710.shtml",
-      "content": "英伟达在台北国际电脑展上发布新款PC处理器的消息，引发芯片市场格局剧变，传统芯片巨头股价遭遇重挫。 高通盘前大跌9.5%，跌幅居前。",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-06-01",
-      "time": "12:13",
-      "keywords": []
-    },
-    {
-      "title": "英伟达新芯片引爆产业链，戴尔、惠普、Arm股价齐涨",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewi5146340.shtml",
-      "content": "英伟达在台北国际电脑展上发布新款PC处理器的消息，不仅推动自身股价走高，也带动了产业链相关公司股价大幅上涨。 戴尔科技与惠普公司盘前分别上涨1.5%和超过3.5%。",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-06-01",
-      "time": "12:11",
-      "keywords": []
-    },
-    {
-      "title": "上海银行：2025年度每股派0.22元（含税） 6月8日除权除息",
+      "title": "上海银行：调整上银转债转股价格至8.35元/股",
       "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-06-01/doc-inhzxewn3889492.shtml",
-      "content": "6月1日金融一线消息，上海银行发布2025年年度权益分派实施公告，本次利润分配以届时实施权益分派股权登记日公司普通股总股本14，209，032，651股为基数...",
+      "url": "https://finance.sina.com.cn/jryx/bank/2026-06-01/doc-inhzxewp2360984.shtml",
+      "content": " 6月1日金融一线消息，上海银行发布公告，因实施2025年度权益分派，公司将调整上银转债转股价格，调整自2026年6月8日起生效。",
       "priority": "low",
       "sectors": [
         "金融"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-06-01",
-      "time": "12:09",
+      "time": "20:22",
       "keywords": []
     },
     {
-      "title": "华贵保险：总经理罗振华因年龄原因辞任",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/hm/2026-06-01/doc-inhzxewn3882645.shtml",
-      "content": " 6月1日金融一线消息，华贵人寿保险股份有限公司近日发布公告，罗振华因年龄原因辞去公司总经理职务，经董事会决议，自2026年5月15日起不再聘任罗振华为公司总经理。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-06-01",
-      "time": "11:53",
-      "keywords": []
-    },
-    {
-      "title": "伊朗：美国最新协议草案中未包含铀“转移”或“处置”条款",
+      "title": "BP在阿塞拜疆巨型ACG油田启动天然气生产",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-06-01/doc-inhzxewn3881650.shtml",
-      "content": " 伊朗半官方的法尔斯通讯社援引对谈判代表团一名新闻官员的采访报道，伊朗方面表示，美国发送的最新协议文本中不再包含“转移或处置”核材料的表述。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewf8372414.shtml",
+      "content": " BP及其合作伙伴已在阿塞拜疆里海海域的Azeri-Chirag-Gunashli油田启动非伴生天然气生产，标志着这个世界最大产油油田之一首次实现商业天然气生产。",
       "priority": "low",
       "sectors": [
-        "综合"
+        "能源"
       ],
-      "period": "morning",
+      "period": "night",
       "date": "2026-06-01",
-      "time": "11:51",
+      "time": "20:21",
       "keywords": []
     },
     {
-      "title": "优步选定慕尼黑作为自动驾驶出租车测试基地",
+      "title": "2026贵金属投资展望：金价“拉锯”何时休，白银价格由谁主导",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/roll/2026-06-01/doc-inhzxewp2364531.shtml",
+      "content": "21世纪经济报道记者 雷若馨 深圳报道 2026年的贵金属市场，正在经历一场冰与火的交织。 年初，国际金价一度触及5600美元/盎司的历史高位，市场高呼“黄金时代”延续；然而...",
+      "priority": "low",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "20:21",
+      "keywords": [
+        "黄金",
+        "金价",
+        "美元",
+        "贵金属投资",
+        "李晨阳"
+      ]
+    },
+    {
+      "title": "阿塞拜疆阿布歇隆天然气项目取得进展，新销售协议签署",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewp2348594.shtml",
-      "content": "慕尼黑街巷密集、高速路网完善，为自动驾驶出租车规模化落地提供了理想环境马克・温特霍夫与安德鲁・麦克唐纳站在一辆露西德自动驾驶出租车概念车旁。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxewn3893123.shtml",
+      "content": " 阿塞拜疆国家石油公司、道达尔能源、阿联酋国际石油控股公司以及土耳其博塔什石油管道公司已签署一项天然气销售与购买协议，涉及阿塞拜疆阿布歇隆气田即将生产的天然气。",
       "priority": "low",
       "sectors": [
-        "综合"
+        "能源"
       ],
-      "period": "morning",
+      "period": "night",
       "date": "2026-06-01",
-      "time": "11:50",
+      "time": "20:20",
       "keywords": []
-    },
-    {
-      "title": "“618”暗战：投诉、网贷营销与反诈图鉴",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/roll/2026-06-01/doc-inhzxewf8365497.shtml",
-      "content": "21世纪经济报道记者雷晨 2026年5月底，杭州的陈女士收到一件并非自己下单的快递。拆开后，一张印有“抖音‘618’专属金卡”的卡片赫然在目，扫码即可领取购物补贴。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-06-01",
-      "time": "11:42",
-      "keywords": [
-        "618",
-        "AI"
-      ]
-    },
-    {
-      "title": "月涨超160%后主动拆概念，宝鼎科技澄清未接触英伟达 | 长三角资本局",
-      "source": "长三角资本局",
-      "url": "https://finance.sina.com.cn/stock/csjzbj/2026-06-01/doc-inhzxewp2342762.shtml",
-      "content": "文|新浪财经上海站 十里 AI供应链传闻退潮时，宝鼎科技选择把市场最想听的故事逐项拆开。 5月31日，宝鼎科技发布股票交易异常波动公告称...",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "morning",
-      "date": "2026-06-01",
-      "time": "11:36",
-      "keywords": []
-    },
-    {
-      "title": "南航C919完成首次深度定检",
-      "source": "信息时报",
-      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-06-01/doc-inhzxewn3877635.shtml",
-      "content": "信息时报讯（记者 成小珍 通讯员 南宣）近日，随着南航CZ3237航班从广州白云国际机场腾空起飞，南航首架国产大飞机C919在圆满完成首次深度定检（以下简称“C检”）后...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-06-01",
-      "time": "11:36",
-      "keywords": [
-        "南航",
-        "C919",
-        "国产大飞机",
-        "机务"
-      ]
-    },
-    {
-      "title": "陈存友入主一年后，超达装备把机器人推到台前：南通汽车模具公司寻找第二增长曲线 | 长三角资本局",
-      "source": "长三角资本局",
-      "url": "https://finance.sina.com.cn/stock/csjzbj/2026-06-01/doc-inhzxewn3875180.shtml",
-      "content": "文|新浪财经上海站 十里 5月29日，一场在上海举行的投资者交流会，把超达装备这家南通汽车模具公司重新推到聚光灯下。 交流会上，超达装备董事长陈存友将智能机器人业务放...",
-      "priority": "low",
-      "sectors": [
-        "机器人",
-        "消费"
-      ],
-      "period": "morning",
-      "date": "2026-06-01",
-      "time": "11:36",
-      "keywords": []
-    },
-    {
-      "title": "百诚医药控制权交易“一周游”：夫妻实控人未能交棒，CRO企业易主降温 | 长三角资本局",
-      "source": "长三角资本局",
-      "url": "https://finance.sina.com.cn/stock/csjzbj/2026-06-01/doc-inhzxewf8351460.shtml",
-      "content": "文|新浪财经上海站 十里 百诚医药的控制权变更谈判，在停牌一周后终止。 5月31日晚，百诚医药公告称，公司此前因控股股东、实际控制人邵春能...",
-      "priority": "low",
-      "sectors": [
-        "医药"
-      ],
-      "period": "morning",
-      "date": "2026-06-01",
-      "time": "11:36",
-      "keywords": []
-    },
-    {
-      "title": "又一“算力金属”被AI带火，伦锡5个月涨40%",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/roll/2026-06-01/doc-inhzxewp2344344.shtml",
-      "content": "这场由AI算力需求驱动的“算力金属”行情，将锡从传统工业金属推向与算力规模挂钩的资源金属。但产业链利润加速向上游集中、下游封装厂成本承压的现实...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-06-01",
-      "time": "11:35",
-      "keywords": []
-    },
-    {
-      "title": "【持仓分析】中财期货鸡蛋净多头持仓连续第3日增加！",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-06-01/doc-inhzxewf8354473.shtml",
-      "content": "前20期商动态：净持仓较上日减少903手6月1日，鸡蛋前20名期货公司（全月份合约加总）多单持仓58.05万手，空单持仓55.38万手，多空比1.05。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-06-01",
-      "time": "11:34",
-      "keywords": [
-        "鸡蛋",
-        "中财期货",
-        "主力合约"
-      ]
-    },
-    {
-      "title": "股价重挫90%，一夜两家A股公司被立案，近3万股民受波及",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/wm/2026-06-01/doc-inhzxewi5129070.shtml",
-      "content": "记者丨莫丽娟 编辑丨彭康一 2026年5月29日晚间，A股上市公司*ST天宜（688033）与鼎际得（603255）因涉嫌信息披露违法违规，同时公告收到证监会《立案告知书》。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-06-01",
-      "time": "11:34",
-      "keywords": [
-        "股价",
-        "历史",
-        "跌停",
-        "A股",
-        "发行价"
-      ]
-    },
-    {
-      "title": "张忆东最新分享：短期警惕夏季回撤风险，但在AI的时代洪流下，没有高低切，只有扩散",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-01/doc-inhzxewi5141160.shtml",
-      "content": "来源：六里投资报 海通国际执行委员会委员、研究部主管及首席经济学家张忆东，近日在2026湾区财富大会上围绕“AI科技浪潮的周期探讨及资产配置”，发表了主旨演讲。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-06-01",
-      "time": "11:31",
-      "keywords": []
-    },
-    {
-      "title": "赛力斯：5月新能源汽车销量33476辆",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/t/2026-06-01/doc-inhzxewn3874591.shtml",
-      "content": "（来源：每日经济新闻）每经AI快讯，6月1日，赛力斯发布产销快报，5月赛力斯新能源汽车销量33,476辆；1-5月累计销量145,108辆，同比增长15.14%。",
-      "priority": "low",
-      "sectors": [
-        "能源",
-        "消费"
-      ],
-      "period": "morning",
-      "date": "2026-06-01",
-      "time": "11:29",
-      "keywords": [
-        "新能源汽车",
-        "AI"
-      ]
-    },
-    {
-      "title": "长沙银行来到瓶颈期",
-      "source": "读懂财经",
-      "url": "https://finance.sina.com.cn/wm/2026-06-01/doc-inhzxewi5126028.shtml",
-      "content": "通常聊起城商行的成长性，大家的第一反应往往是传统包邮区那些自带光环的标杆，比如宁波银行、江苏银行等等。但实际上，在中部也有一家银行...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-06-01",
-      "time": "11:28",
-      "keywords": [
-        "长沙银行",
-        "城商行",
-        "贷款",
-        "息差",
-        "银行"
-      ]
-    },
-    {
-      "title": "新能源车出口，快到国内零售一半了",
-      "source": "高工锂电",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-06-01/doc-inhzxewp2344916.shtml",
-      "content": "摘要纯电、插混同时出海2026年一季度，中国新能源乘用车国内零售190.8万辆，出口90.8万辆。出口规模相当于国内零售量的47.6%。同一季度，国内新能源乘用车零售同比下降21...",
-      "priority": "low",
-      "sectors": [
-        "能源",
-        "消费"
-      ],
-      "period": "morning",
-      "date": "2026-06-01",
-      "time": "11:27",
-      "keywords": [
-        "新能源",
-        "新能源车",
-        "乘用车"
-      ]
-    },
-    {
-      "title": "ASCO2026：中国创新药数据高光亮眼，为什么股价全线下跌？逻辑在变化",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-06-01/doc-inhzxewp2345110.shtml",
-      "content": "美国中部时间5月29日至6月2日，被誉为全球肿瘤学界“奥斯卡”的2026年美国临床肿瘤学会（ASCO）年会正在芝加哥如火如荼地举行。",
-      "priority": "low",
-      "sectors": [
-        "医药"
-      ],
-      "period": "morning",
-      "date": "2026-06-01",
-      "time": "11:25",
-      "keywords": [
-        "中国",
-        "肿瘤"
-      ]
-    },
-    {
-      "title": "小米新车型刷新纽北SUV圈速纪录",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-06-01/doc-inhzxewf8355108.shtml",
-      "content": "近期，世界互联网大会高级会员单位小米公司在北京举行人车家全生态新品发布会，正式发布全新小米YU7家族，新增小米YU7 GT、YU7标准版两大车型。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-06-01",
-      "time": "11:25",
-      "keywords": [
-        "小米",
-        "SUV"
-      ]
-    },
-    {
-      "title": "华为 MatePad Pro Max 系列旗舰平板重点参数配置差异公布，一表看懂",
-      "source": "IT之家",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-06-01/doc-inhzxewp2345810.shtml",
-      "content": "IT之家 6 月 1 日消息，在今天的华为 nova 16 系列及全场景新品发布会，华为终端 BG CEO 何刚正式发布了一款平板的集大成之作 —— MatePad Pro Max。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-06-01",
-      "time": "11:24",
-      "keywords": [
-        "华为平板",
-        "华为 ",
-        "IT之家"
-      ]
-    },
-    {
-      "title": "凯龙股份两企业成功入选2025年湖北省制造业单项冠军企业名单",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-06-01/doc-inhzxewf8348657.shtml",
-      "content": "近日，湖北省经济和信息化厅正式发布“2025年湖北省制造业单项冠军企业名单”，湖北凯龙化工集团股份有限公司、湖北凯龙楚兴化工集团有限公司分别凭借主导产品“工业炸药”和“...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-06-01",
-      "time": "11:21",
-      "keywords": [
-        "湖北省",
-        "制造业"
-      ]
     },
     {
       "title": "贝恩公司的最新大型企业全球调查显示，自动化帮助节约的成本总体上未达到预期",
@@ -2680,255 +2594,409 @@
       ]
     },
     {
-      "title": "【有研复材：拟投资1.5亿元建设先进金属基复合材料产业化项目一期】有研复材公告，公司拟实施2026年度投资计划，计划投资",
+      "title": "【双元科技：北京元程序增持股份至5%】双元科技公告称，6月1日，信息披露义务人北京元程序资产管理有限公司通过上交所系统以",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【有研复材：拟投资1.5亿元建设先进金属基复合材料产业化项目一期】有研复材公告，公司拟实施2026年度投资计划，计划投资“有研金属复合材料（廊坊）有限公司先进金属基复合材料产业化项目”一期，投资金额为1.5亿元。该项目为续建项目，主要用于推进先进金属基复合材料产业化落地，满足公司发展战略规划和生产经营需要。项目已于2026年3月1日开始进行施工准备工作，目前工程按计划有序推进。本次投资旨在提升公司",
+      "content": "【双元科技：北京元程序增持股份至5%】双元科技公告称，6月1日，信息披露义务人北京元程序资产管理有限公司通过上交所系统以集中竞价交易方式增持公司股份425,223股。本次权益变动后，其持股数量达2,957,135股，占总股本比例从4.28%升至5.00%。增持资金为自有资金，股份不存在权利限制。未来12个月内，不排除继续增减持可能，将依法履行信披义务。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "21:09",
+      "keywords": []
+    },
+    {
+      "title": "美国天然气期货日内下跌3.00%，现报3.191美元/百万英热。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "美国天然气期货日内下跌3.00%，现报3.191美元/百万英热。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "21:08",
+      "keywords": []
+    },
+    {
+      "title": "英国政府公布了彼得·曼德尔森出任美国大使相关文件的第二批批次文件。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "英国政府公布了彼得·曼德尔森出任美国大使相关文件的第二批批次文件。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-01",
-      "time": "20:19",
+      "time": "21:08",
       "keywords": []
     },
     {
-      "title": "【燃油涨价，印度多家航空公司大幅削减航班】由于航空燃油成本上涨和旅行需求疲软，印度航空公司、靛蓝航空公司和印度航空快运公",
+      "title": "【瑞银：未来几年英国国债收益率或将居高不下甚至上升】瑞银经济学家迪恩·特纳在一份报告中表示，远期利率表明，未来几年英国国",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【燃油涨价，印度多家航空公司大幅削减航班】由于航空燃油成本上涨和旅行需求疲软，印度航空公司、靛蓝航空公司和印度航空快运公司决定自1日起大幅削减国内航班。此前，这些航空公司已削减部分国际航班。",
+      "content": "【瑞银：未来几年英国国债收益率或将居高不下甚至上升】瑞银经济学家迪恩·特纳在一份报告中表示，远期利率表明，未来几年英国国债收益率可能居高不下，甚至进一步上升。他表示，收益率上升意味着偿债成本增加，“可能很快成为一个令人头疼的问题”。特纳指出，英国的债务存量超过GDP的90%，且政府赤字居高不下。然而，从全球范围来看，在公共财政的可持续性方面，英国“既不是处境最好的，也不是最差的”。Tradeweb",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "21:08",
+      "keywords": []
+    },
+    {
+      "title": "国际劳工组织表示，美国官员Sheng Li不会按此前预期在7月就任副总干事一职。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "国际劳工组织表示，美国官员Sheng Li不会按此前预期在7月就任副总干事一职。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-01",
-      "time": "20:18",
+      "time": "21:06",
       "keywords": []
     },
     {
-      "title": "Coinbase Global股价盘前下跌4%，Strategy Asset股价下跌5.8%。",
+      "title": "【华研精机：实控人包贺林拟减持1%股份】华研精机公告，控股股东、实际控制人之一兼董事长包贺林直接持股3429.32万股，",
       "source": "Tushare-sina",
       "url": "",
-      "content": "Coinbase Global股价盘前下跌4%，Strategy Asset股价下跌5.8%。",
+      "content": "【华研精机：实控人包贺林拟减持1%股份】华研精机公告，控股股东、实际控制人之一兼董事长包贺林直接持股3429.32万股，占28.58%；合计持股4286.65万股，占35.72%。其拟于2026年6月24日至2026年9月23日，通过集中竞价减持不超过120万股，占公司总股本1%，股份来源为首次公开发行前已发行股份，减持原因为个人资金需求。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-01",
-      "time": "20:17",
+      "time": "21:06",
       "keywords": []
     },
     {
-      "title": "南非主要股指下跌 1.1%，报 113422.00 点。",
+      "title": "Live Nation将收购Dale Play Live的多数股权。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "  南非主要股指下跌 1.1%，报 113422.00 点。",
+      "content": "Live Nation将收购Dale Play Live的多数股权。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-01",
-      "time": "20:16",
+      "time": "21:05",
       "keywords": []
     },
     {
-      "title": "加密概念股盘前下跌，比特币跌至一个多月低位。riot游戏平台股价下跌2.9%；Hut 8 Mining美股上市股份下跌1",
+      "title": "国际劳工组织称，因美国拖欠会费迟迟未补缴，已决定撤销该组织副总干事一职的任命。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "加密概念股盘前下跌，比特币跌至一个多月低位。riot游戏平台股价下跌2.9%；Hut 8 Mining美股上市股份下跌1.5%；Marathon Digital Holdings股价下跌2.6%。",
+      "content": "国际劳工组织称，因美国拖欠会费迟迟未补缴，已决定撤销该组织副总干事一职的任命。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-01",
-      "time": "20:15",
+      "time": "21:04",
       "keywords": []
     },
     {
-      "title": "比特币跌破72000美元，日内跌2.31%。",
+      "title": "【顺钠股份：与伊顿在800V数据中心电源及变压器相关业务上暂无合作】顺钠股份(000533)6月1日于互动平台表示，目前",
       "source": "Tushare-sina",
       "url": "",
-      "content": "比特币跌破72000美元，日内跌2.31%。",
+      "content": "【顺钠股份：与伊顿在800V数据中心电源及变压器相关业务上暂无合作】顺钠股份(000533)6月1日于互动平台表示，目前公司与伊顿在800V数据中心电源、变压器相关业务上，暂无合作或者供货关系。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-01",
-      "time": "20:14",
+      "time": "21:04",
       "keywords": []
     },
     {
-      "title": "【万兴科技：万兴剧厂用户规模及收入均快速起量 用户留存及复购表现良好】万兴科技(300624)6月1日在互动易平台表示，",
+      "title": "【武汉商学院原党委书记刘志辉接受审查调查】据湖北省纪委监委消息：武汉商学院原党委书记刘志辉涉嫌严重违纪违法，目前正接受湖",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【万兴科技：万兴剧厂用户规模及收入均快速起量 用户留存及复购表现良好】万兴科技(300624)6月1日在互动易平台表示，旗下万兴剧厂目前处于产品快速迭代与市场推广并行推进阶段，3月产品正式开放以来，用户规模及收入均快速起量，已吸引包括灵漫、掌玩、心视觉等头部漫剧制作团队及大量中腰部专业创作者入驻，用户留存及复购表现良好。",
+      "content": "【武汉商学院原党委书记刘志辉接受审查调查】据湖北省纪委监委消息：武汉商学院原党委书记刘志辉涉嫌严重违纪违法，目前正接受湖北省纪委监委纪律审查和监察调查。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-01",
-      "time": "20:13",
+      "time": "21:03",
       "keywords": []
     },
     {
-      "title": "WOLFSPEED 成立专属数据中心解决方案团队。",
+      "title": "瑞银将露露乐檬目标价从176美元下调至153美元。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "  WOLFSPEED 成立专属数据中心解决方案团队。",
+      "content": "瑞银将露露乐檬目标价从176美元下调至153美元。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-01",
-      "time": "20:12",
+      "time": "21:03",
       "keywords": []
     },
     {
-      "title": "WOLFSPEED ：硅谷设立专属数据中心团队。",
+      "title": "【长征十二号乙火箭首飞成功 助力星座组网】6月1日，长征十二号乙遥一运载火箭在东风商业航天创新试验区发射升空，将搭载的千",
       "source": "Tushare-sina",
       "url": "",
-      "content": "   WOLFSPEED ：硅谷设立专属数据中心团队。",
+      "content": "【长征十二号乙火箭首飞成功 助力星座组网】6月1日，长征十二号乙遥一运载火箭在东风商业航天创新试验区发射升空，将搭载的千帆极轨08组卫星顺利送入预定轨道，飞行试验任务取得圆满成功。长征十二号乙运载火箭是中国航天科技集团商业火箭有限公司抓总研制的新一代单芯级四米级可重复使用运载火箭，主要面向我国大规模互联网星座组网等商业发射需求。（新华社）",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-01",
-      "time": "20:12",
+      "time": "21:03",
       "keywords": []
     },
     {
-      "title": "印度-缅甸联合声明：印度与缅甸同意促进并深化双边贸易，包括通过卢比-缅元结算机制开展合作。",
+      "title": "美满电子推出 102.4 太比特每秒交换机。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "印度-缅甸联合声明：印度与缅甸同意促进并深化双边贸易，包括通过卢比-缅元结算机制开展合作。",
+      "content": "  美满电子推出 102.4 太比特每秒交换机。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-01",
-      "time": "20:09",
+      "time": "21:02",
       "keywords": []
     },
     {
-      "title": "Strategy美股盘前跌幅扩大至5%。",
+      "title": "【旺山旺水：财务部疏忽使用全球发售所得款项】旺山旺水发布补充公告，集团财务部在2026年1月进行第二项认购时，未能注意到",
       "source": "Tushare-sina",
       "url": "",
-      "content": "Strategy美股盘前跌幅扩大至5%。",
+      "content": "【旺山旺水：财务部疏忽使用全球发售所得款项】旺山旺水发布补充公告，集团财务部在2026年1月进行第二项认购时，未能注意到相关账户中的自有资金不足以支付全部认购金额，错误地使用了全球发售所得款项。公司已采取补救措施，包括提供培训课程、实施新规程等，确保未来资金使用合规。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-01",
-      "time": "20:08",
+      "time": "21:02",
       "keywords": []
     },
     {
-      "title": "美国中央司令部：美国东部时间昨晚 23 时，美军成功拦截两枚瞄准科威特境内美军基地的伊朗弹道导弹。导弹被当即拦截，美方人",
+      "title": "据猫眼专业版数据，截至6月1日21时，2026六一档票房0.73亿，《给阿嬷的情书》成六一档票房冠军。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "美国中央司令部：美国东部时间昨晚 23 时，美军成功拦截两枚瞄准科威特境内美军基地的伊朗弹道导弹。导弹被当即拦截，美方人员无人伤亡。美国中央司令部将保持高度戒备，持续防范伊朗方面的袭击、保护驻军安全，并维护当前停火局面。",
+      "content": "据猫眼专业版数据，截至6月1日21时，2026六一档票房0.73亿，《给阿嬷的情书》成六一档票房冠军。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-01",
-      "time": "20:07",
+      "time": "21:02",
       "keywords": []
     },
     {
-      "title": "赛富时：本次交易预计于 2027 财年第三季度完成交割。",
+      "title": "【三丰智能：暂未开展人形机器人相关业务】三丰智能(300276)6月1日于互动平台表示，目前，公司暂未开展人形机器人相关",
       "source": "Tushare-sina",
       "url": "",
-      "content": "  赛富时：本次交易预计于 2027 财年第三季度完成交割。",
+      "content": "【三丰智能：暂未开展人形机器人相关业务】三丰智能(300276)6月1日于互动平台表示，目前，公司暂未开展人形机器人相关业务。",
+      "priority": "low",
+      "sectors": [
+        "机器人"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "21:02",
+      "keywords": []
+    },
+    {
+      "title": "People 拟以每股 48.30 美元现金收购米高梅度假村。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "People 拟以每股 48.30 美元现金收购米高梅度假村。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-01",
-      "time": "20:07",
+      "time": "21:01",
       "keywords": []
     },
     {
-      "title": "赛富时签署收购 Contentful 的最终协议，交易细节未披露。",
+      "title": "【伊拉克南部港口附近一船只发生爆炸 未造成人员伤亡】当地时间6月1日，伊拉克南部港口官员称，一艘悬挂巴拿马国旗的巨型船只",
       "source": "Tushare-sina",
       "url": "",
-      "content": "  赛富时签署收购 Contentful 的最终协议，交易细节未披露。",
+      "content": "【伊拉克南部港口附近一船只发生爆炸 未造成人员伤亡】当地时间6月1日，伊拉克南部港口官员称，一艘悬挂巴拿马国旗的巨型船只在伊拉克南部乌姆盖斯尔港附近发生爆炸。初步信息显示爆炸事件由船上机械故障引起，事件未造成人员伤亡。（央视新闻）",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-01",
-      "time": "20:07",
+      "time": "21:01",
       "keywords": []
     },
     {
-      "title": "索韦康咨询公司：预计俄罗斯2025-2026年度小麦出口量将为4680万吨。",
+      "title": "斯堪尼亚强化欧洲电动卡车产能布局。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "索韦康咨询公司：预计俄罗斯2025-2026年度小麦出口量将为4680万吨。",
+      "content": "斯堪尼亚强化欧洲电动卡车产能布局。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-01",
-      "time": "20:06",
+      "time": "21:01",
       "keywords": []
     },
     {
-      "title": "西门子：马库斯·格拉布迈尔出任电气产品事业部首席执行官。",
+      "title": "【经济学家：英国潜在首相挑战者在即将到来的选举中获胜或将打击英镑】Ebury经济学家Enrique Diaz-Alvar",
       "source": "Tushare-sina",
       "url": "",
-      "content": " 西门子：马库斯·格拉布迈尔出任电气产品事业部首席执行官。",
+      "content": "【经济学家：英国潜在首相挑战者在即将到来的选举中获胜或将打击英镑】Ebury经济学家Enrique Diaz-Alvarez在一份报告中表示，如果英国工党潜在领导人挑战者安迪·伯纳姆在即将举行的特别选举中获胜，英镑可能会下跌。伯纳姆最近重申了他对英国财政规则的承诺。Diaz-Alvarez说，然而，伯纳姆必须赢得6月18日的选举才能正式挑战首相基尔·斯塔默的领导地位，这场选举对英镑来说仍然至关重要",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-01",
-      "time": "20:06",
+      "time": "21:01",
       "keywords": []
     },
     {
-      "title": "AMC影院创下自2019年以来5月份全球最高观影人次纪录。",
+      "title": "数据显示，俄罗斯能源巨头俄罗斯天然气工业股份公司5月经土耳其溪海底管道向欧洲输送的天然气日均气量达4740万立方米，同比",
       "source": "Tushare-sina",
       "url": "",
-      "content": "AMC影院创下自2019年以来5月份全球最高观影人次纪录。",
+      "content": "数据显示，俄罗斯能源巨头俄罗斯天然气工业股份公司5月经土耳其溪海底管道向欧洲输送的天然气日均气量达4740万立方米，同比增长3%。乌克兰与俄罗斯为期五年的供气协议于2025年1月到期且未续约，此后土耳其成为俄罗斯天然气输往欧洲仅剩的中转通道。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "20:59",
+      "keywords": []
+    },
+    {
+      "title": "突尼斯国家农业办公室：11 月至次年 4 月橄榄油出口收入达 12.5 亿美元。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "   突尼斯国家农业办公室：11 月至次年 4 月橄榄油出口收入达 12.5 亿美元。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-01",
-      "time": "20:05",
+      "time": "20:58",
       "keywords": []
     },
     {
-      "title": "【深蓝汽车5月全球销量33243辆，同比增长30%】6月1日，深蓝汽车公布，2026年5月全球销量33243辆，同比增长",
+      "title": "数据显示，5月份俄罗斯对欧洲的管道天然气出口同比增长3%。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【深蓝汽车5月全球销量33243辆，同比增长30%】6月1日，深蓝汽车公布，2026年5月全球销量33243辆，同比增长30%。1-5月全球累计销售130531辆，同比增长15%。",
+      "content": "数据显示，5月份俄罗斯对欧洲的管道天然气出口同比增长3%。",
       "priority": "low",
       "sectors": [
-        "消费"
+        "能源"
       ],
       "period": "noon",
       "date": "2026-06-01",
-      "time": "20:04",
+      "time": "20:57",
+      "keywords": []
+    },
+    {
+      "title": "星座能源集团宣布，1100万股二次增发已完成定价，每股价格为281美元。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "星座能源集团宣布，1100万股二次增发已完成定价，每股价格为281美元。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "20:54",
+      "keywords": []
+    },
+    {
+      "title": "【智迪科技：拟1.52亿元收购丰旭国际100%股权】智迪科技(301503.SZ)公告称，公司拟以自有或自筹资金1.52",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "【智迪科技：拟1.52亿元收购丰旭国际100%股权】智迪科技(301503.SZ)公告称，公司拟以自有或自筹资金1.52亿元购买丰旭国际投资有限公司100%股权，交易完成后丰旭国际成为公司全资子公司，其子公司越南丰旭成为全资孙公司。本次交易旨在推进国际化战略，规避越南子公司租金上涨风险，增强运营稳定性。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "20:54",
+      "keywords": []
+    },
+    {
+      "title": "据阿拉伯电视台消息，一艘巴拿马籍大型油轮在伊拉克领海航行期间爆炸。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "  据阿拉伯电视台消息，一艘巴拿马籍大型油轮在伊拉克领海航行期间爆炸。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "20:53",
+      "keywords": []
+    },
+    {
+      "title": "据港交所文件：智享生物（苏州）股份有限公司向港交所提交上市申请书。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "据港交所文件：智享生物（苏州）股份有限公司向港交所提交上市申请书。",
+      "priority": "low",
+      "sectors": [
+        "医药"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "20:52",
+      "keywords": []
+    },
+    {
+      "title": "伊朗表示将确保日本船只“更”便捷地通过其领海。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "伊朗表示将确保日本船只“更”便捷地通过其领海。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "20:52",
+      "keywords": []
+    },
+    {
+      "title": "【伊朗伊斯兰革命卫队发布摧毁美军无人机的视频】当地时间6月1日，伊朗伊斯兰革命卫队发布其防空系统摧毁美军MQ-1无人机的",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "【伊朗伊斯兰革命卫队发布摧毁美军无人机的视频】当地时间6月1日，伊朗伊斯兰革命卫队发布其防空系统摧毁美军MQ-1无人机的相关视频。视频未显示事件发生的具体时间，但当地时间5月31日，伊朗称其击落一架该型号无人机。近期，尽管伊美谈判进程持续，但双方在波斯湾区域附近多次发生交火，地区局势仍呈现紧张和不确定性。（央视新闻）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "20:51",
       "keywords": []
     }
   ]
