@@ -1,6 +1,54 @@
 {
-  "updated": "2026-06-01T21:12:41.683063",
+  "updated": "2026-06-01T21:58:09.565928",
   "sectors": [
+    {
+      "name": "机器人",
+      "entry_score": 72.5,
+      "funds": [
+        {
+          "code": "027233",
+          "name": "银华中证机器人ETF发起式联接A",
+          "type": "指数型-股票",
+          "return_3m": null,
+          "return_1y": null,
+          "total_return": 5.08,
+          "nav": 1.0508,
+          "purity": 65.0,
+          "manager": "谭跃峰",
+          "mgr_return": 83.5,
+          "mgr_exp_days": 1614,
+          "score": 65.8
+        },
+        {
+          "code": "027234",
+          "name": "银华中证机器人ETF发起式联接C",
+          "type": "指数型-股票",
+          "return_3m": null,
+          "return_1y": null,
+          "total_return": 5.06,
+          "nav": 1.0506,
+          "purity": 65.0,
+          "manager": "谭跃峰",
+          "mgr_return": 83.5,
+          "mgr_exp_days": 1614,
+          "score": 65.8
+        },
+        {
+          "code": "020999",
+          "name": "南方中证机器人ETF发起联接I",
+          "type": "指数型-股票",
+          "return_3m": 0,
+          "return_1y": 0,
+          "total_return": 0,
+          "nav": 0,
+          "purity": 65.0,
+          "manager": "潘水洋",
+          "mgr_return": 201.2,
+          "mgr_exp_days": 815,
+          "score": 61.0
+        }
+      ]
+    },
     {
       "name": "有色",
       "entry_score": 74.4,
