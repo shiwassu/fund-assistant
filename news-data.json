@@ -1,17 +1,60 @@
 {
-  "updated": "2026-06-02T00:25:41.197349",
-  "total": 185,
+  "updated": "2026-06-01T18:25:44.955568",
+  "total": 187,
   "sources": [
     "新浪财经",
     "akshare-财新",
     "Tushare"
   ],
   "priority_dist": {
-    "high": 27,
-    "medium": 26,
-    "low": 132
+    "high": 25,
+    "medium": 23,
+    "low": 139
   },
   "items": [
+    {
+      "title": "伊朗战事引发供应链冲击，各国工厂成本飙升",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzxrni2185949.shtml",
+      "content": "周一多项制造业调研数据显示：受伊朗冲突带来的经济冲击影响，欧洲制造业上月承压，产品需求走弱、原材料成本创下四年最大涨幅；而美国与亚洲多国工厂受益于企业备货行为实...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "16:57",
+      "keywords": []
+    },
+    {
+      "title": "Apollo首席经济学家：AI热潮将浇灭美联储新任主席沃什快速降息的希望",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzxrnc4985976.shtml",
+      "content": "Apollo Global Management Inc．首席经济学家Torsten Slok表示，人工智能基础设施建设在初期将推高通胀，这将使新任美联储主席凯文·沃什无法以他此前所暗示的可能的速度那...",
+      "priority": "high",
+      "sectors": [
+        "金融",
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "16:51",
+      "keywords": []
+    },
+    {
+      "title": "Anthropic已秘密提交美国IPO申请 估值近万亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzxrmz8201620.shtml",
+      "content": " 人工智能巨头Anthropic周一表示，已秘密提交美国首次公开募股（IPO）申请，这可能成为华尔街人工智能热潮中的一个分水岭时刻。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "16:29",
+      "keywords": []
+    },
     {
       "title": "美国原油大涨超7%：伊朗称将中止与美谈判并彻底封锁霍尔木兹海峡",
       "source": "环球市场播报",
@@ -21,9 +64,9 @@
       "sectors": [
         "能源"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-06-01",
-      "time": "23:35",
+      "time": "15:35",
       "keywords": []
     },
     {
@@ -35,9 +78,9 @@
       "sectors": [
         "半导体"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-06-01",
-      "time": "23:30",
+      "time": "15:30",
       "keywords": []
     },
     {
@@ -49,56 +92,9 @@
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-06-01",
-      "time": "23:16",
-      "keywords": []
-    },
-    {
-      "title": "美国国债下跌 伊美谈判遇阻推高美联储加息预期",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxrnc4954098.shtml",
-      "content": "美国国债下跌，迹象显示美国和伊朗之间的和平谈判遇阻，加剧了对能源成本上升将刺激通胀并迫使美联储提高利率的担忧。 周一的抛售导致31万亿美元美国国债市场的收益率走高...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-01",
-      "time": "23:07",
-      "keywords": []
-    },
-    {
-      "title": "四连板牛股000539，澄清多则传闻",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/wm/2026-06-01/doc-inhzxmek3818365.shtml",
-      "content": "连续斩获4个涨停的粤电力A（000539），火速发布澄清公告，直指近期市场多个传言存在夸大、不实及误导。 6月1日晚间，粤电力A发布股票交易异常波动暨风险提示公告称...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-01",
-      "time": "23:00",
-      "keywords": [
-        "粤电力A",
-        "电力",
-        "新能源",
-        "投产"
-      ]
-    },
-    {
-      "title": "达美乐6月1日至7日在美全场披萨五折",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxmec8303150.shtml",
-      "content": "达美乐披萨为庆祝六月的“全国乳制品月”，宣布推出重磅优惠：6月1日至7日期间，所有菜单价披萨一律五折。 达美乐执行副总裁兼首席餐厅官Frank...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-01",
-      "time": "22:54",
+      "time": "15:16",
       "keywords": []
     },
     {
@@ -111,7 +107,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -127,7 +123,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -143,7 +139,7 @@
         "消费"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -159,7 +155,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -175,7 +171,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -191,7 +187,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -207,7 +203,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -223,7 +219,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -239,7 +235,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -255,7 +251,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -271,7 +267,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -287,7 +283,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -303,7 +299,7 @@
         "半导体"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -319,7 +315,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -335,7 +331,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -351,7 +347,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -367,66 +363,66 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
       ]
     },
     {
-      "title": "葡萄牙汽车协会（ACAP）数据：5 月葡萄牙特斯拉新车上牌量同比大涨 348.8%，1 至 5 月累计同比增幅 58",
+      "title": "周一（6月1日），美联储隔夜逆回购协议（RRP）使用规模为13.02亿美元（交易对手5家），上个交易日报116.77亿美",
       "source": "Tushare-sina",
       "url": "",
-      "content": "  葡萄牙汽车协会（ACAP）数据：5 月葡萄牙特斯拉新车上牌量同比大涨 348.8%，1 至 5 月累计同比增幅 58.4%。",
-      "priority": "high",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-06-01",
-      "time": "23:56",
-      "keywords": []
-    },
-    {
-      "title": "【调查显示，随着3月伊朗局势冲击消退，英国公众5月通胀预期进一步放缓】根据民调公司YouGov为美国花旗银行进行的月度调",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【调查显示，随着3月伊朗局势冲击消退，英国公众5月通胀预期进一步放缓】根据民调公司YouGov为美国花旗银行进行的月度调查数据，英国公众对未来通货膨胀的预期在5月份有所缓和，一年期通胀预期从5.0%回落至4.7%，3月为5.4%，长期通胀预期从4.5%回落至4.0%。此前该预期曾在3月份飙升至2023年以来的最高水平。这一回落迹象让英国央行感到些许宽慰，表明伊朗战争带来的价格冲击所造成的持久影响可",
+      "content": "周一（6月1日），美联储隔夜逆回购协议（RRP）使用规模为13.02亿美元（交易对手5家），上个交易日报116.77亿美元。",
       "priority": "high",
       "sectors": [
         "金融"
       ],
       "period": "noon",
-      "date": "2026-06-01",
-      "time": "23:44",
+      "date": "2026-06-02",
+      "time": "01:19",
       "keywords": []
     },
     {
-      "title": "【国际金价跌破4500美元】因中东紧张局势加剧，国际黄金价格1日盘中加速下跌。纽约商品交易所8月黄金期价一度跌至每盎司4",
+      "title": "【伊方称将就黎巴嫩和加沙问题红线被突破作出回应】据伊朗国家电视台报道，与伊朗伊斯兰革命卫队情报组织相关的一个社交媒体账号",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【国际金价跌破4500美元】因中东紧张局势加剧，国际黄金价格1日盘中加速下跌。纽约商品交易所8月黄金期价一度跌至每盎司4455美元附近，跌幅接近2.5%。 据伊朗媒体1日报道，伊朗和“抵抗阵线”计划彻底封锁霍尔木兹海峡，并在曼德海峡等其他“战线”开启行动。 据伊朗塔斯尼姆通讯社1日报道，伊朗官员表示，以色列必须立即停止在黎巴嫩和加沙地带的军事行动，并从黎巴嫩撤出。在此要求得到满足前，伊朗不会举行任",
+      "content": "【伊方称将就黎巴嫩和加沙问题红线被突破作出回应】据伊朗国家电视台报道，与伊朗伊斯兰革命卫队情报组织相关的一个社交媒体账号1日发文称，在黎巴嫩和加沙问题上越过红线，意味着对伊朗国家安全以及伊斯兰抵抗力量发动直接战争。报道说，该账号称，作为回应，伊朗决心实施防御行动，包括采取打破既有规则和框架的措施、开辟新的战线，同时维持霍尔木兹海峡既有态势。（新华社）",
       "priority": "high",
       "sectors": [
-        "黄金"
+        "消费"
       ],
       "period": "noon",
-      "date": "2026-06-01",
-      "time": "23:43",
+      "date": "2026-06-02",
+      "time": "01:03",
       "keywords": []
     },
     {
-      "title": "市场消息：俄罗斯核监管机构负责人与国际原子能机构总干事格罗西就扎波罗热核电站局势举行会谈。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "市场消息：俄罗斯核监管机构负责人与国际原子能机构总干事格罗西就扎波罗热核电站局势举行会谈。",
-      "priority": "high",
+      "title": "欧洲股市下跌 伊朗停止与美国交换信息",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzxvue3599833.shtml",
+      "content": "欧洲股市下跌，有关伊朗将停止与美国交换信息以抗议以色列在黎巴嫩军事行动的报道，令中东停火前景蒙上阴影。 斯托克600指数收跌0.8%...",
+      "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-01",
-      "time": "23:37",
+      "time": "17:40",
+      "keywords": []
+    },
+    {
+      "title": "个人交易者推动Kalshi崛起，如今它瞄准华尔街",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzxrnc4983042.shtml",
+      "content": "核心要点仅 2026 年 5 月，零售交易者就将 Kalshi 的交易量推高至170 亿美元以上，同比激增超 2500%。但公司下一步重心转向机构投资者。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "16:42",
       "keywords": []
     },
     {
@@ -438,9 +434,9 @@
       "sectors": [
         "综合"
       ],
-      "period": "night",
-      "date": "2026-06-02",
-      "time": "00:05",
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "16:05",
       "keywords": []
     },
     {
@@ -452,9 +448,9 @@
       "sectors": [
         "综合"
       ],
-      "period": "night",
-      "date": "2026-06-02",
-      "time": "00:02",
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "16:02",
       "keywords": []
     },
     {
@@ -466,100 +462,9 @@
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-06-01",
-      "time": "23:12",
-      "keywords": []
-    },
-    {
-      "title": "挪威近8%的石油工人威胁从6月5日起罢工",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxrnc4953883.shtml",
-      "content": "挪威石油行业工会周一表示，如果本周由政府斡旋的工资调解失败，近8%的挪威海上油气工人计划从6月5日起罢工。 代表石油行业参与谈判的“挪威海上石油协会”发言人表示...",
-      "priority": "medium",
-      "sectors": [
-        "能源"
-      ],
-      "period": "night",
-      "date": "2026-06-01",
-      "time": "23:07",
-      "keywords": []
-    },
-    {
-      "title": "深夜中概股逆势上涨，蔚来涨超6%，哔哩哔哩涨超5%，拼多多涨超3%",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/wm/2026-06-01/doc-inhzxrni2156927.shtml",
-      "content": " 6月1日，美股三大指数集体低开，截至北京时间22：30，道琼斯指数跌0.27%，纳斯达克综合指数跌0.03%，标普500指数跌0.06%。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-01",
-      "time": "23:06",
-      "keywords": [
-        "蔚来",
-        "美元",
-        "哔哩哔哩",
-        "拼多多",
-        "中概股"
-      ]
-    },
-    {
-      "title": "美国制造业活动连续五个月扩张 5月份创出四年来最大增幅",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxmem2284681.shtml",
-      "content": "受到新订单和产出增长提振，美国制造业活动5月份以四年来最快速度扩张。 周一公布的数据显示，美国供应管理协会的制造业指数上升1.3点，至54。该数据高于50表明增长。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-01",
-      "time": "22:58",
-      "keywords": []
-    },
-    {
-      "title": "微策略抛售250万美元比特币后股价走低，系2022年来首度减持",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxmef5078045.shtml",
-      "content": "核心要点公司周一披露文件显示：5 月 26 日 —5 月 31 日，微策略抛售 32 枚比特币，合计变现 250 万美元，成交均价 77135 美元 / 枚。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-01",
-      "time": "22:48",
-      "keywords": []
-    },
-    {
-      "title": "PowerBank将AI计算、模块化数据中心与能源基础设施定位为核心战略增长板块",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxmec8300493.shtml",
-      "content": "PowerBank Corporation（纳斯达克代码：SUUN，Cboe CA代码：SUNN）今日宣布，将AI计算基础设施与模块化数据中心新增为核心战略增长板块...",
-      "priority": "medium",
-      "sectors": [
-        "能源",
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-06-01",
-      "time": "22:47",
-      "keywords": []
-    },
-    {
-      "title": "美国股市早盘小幅下跌 伊朗据报道暂停与美国交换信息",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxmek3812089.shtml",
-      "content": "美国股市周一早盘走低，此前伊朗媒体报道称该国将停止与美国交换信息，引发油价飙升。 纽约时间10：00，标普500指数和道指跌0.1%，纳斯达克100指数跌0.3%。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-01",
-      "time": "22:43",
+      "time": "15:12",
       "keywords": []
     },
     {
@@ -572,7 +477,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -588,7 +493,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "量化观察"
@@ -604,7 +509,7 @@
         "半导体"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -620,7 +525,7 @@
         "半导体"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "研报精华"
@@ -637,7 +542,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "今日热点"
@@ -653,7 +558,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -669,7 +574,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -685,7 +590,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -701,7 +606,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -718,7 +623,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "今日热点"
@@ -737,7 +642,7 @@
         "消费"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "今日热点"
@@ -753,7 +658,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -769,7 +674,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "权益周观察"
@@ -788,7 +693,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "今日热点"
@@ -804,7 +709,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -821,7 +726,7 @@
         "光模块"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "今日热点"
@@ -837,11 +742,305 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
       ]
+    },
+    {
+      "title": "【市况火热，欧洲垃圾级企业竞相削减贷款成本】本周伊始，借款人正纷纷涌向欧洲杠杆贷款市场进行债务重定价，希望利用有利的信用",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "【市况火热，欧洲垃圾级企业竞相削减贷款成本】本周伊始，借款人正纷纷涌向欧洲杠杆贷款市场进行债务重定价，希望利用有利的信用条件来削减其加点。汉堡王（Burger King）的运营商Restaurant Brands Europe、眼科护理服务商nexeye、以及汽车零部件制造商Parts Holding Europe等公司，均在寻求将其欧元定期贷款的利率削减25-50个基点。生育连锁机构Ivirma",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-02",
+      "time": "02:08",
+      "keywords": []
+    },
+    {
+      "title": "苹果准备推出账单拆分功能 进一步深入金融领域",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzxvue3608893.shtml",
+      "content": " 苹果公司计划为iPhone推出一项新服务，让用户可以分摊团体聚餐或其他活动的账单，此举将帮助苹果扩大向日常金融工具领域的进军，并挑战第三方应用。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "18:14",
+      "keywords": []
+    },
+    {
+      "title": "SpaceX在IPO中为部分员工及亲友预留高达5%的股份",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzxvuf2072761.shtml",
+      "content": " 根据周一发布的一份修订版申报文件，SpaceX已在其首次公开募股（IPO）发售的股票中，预留了最高5%的股份供“特定员工及相关人士”通过直接股票认购计划进行购买。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-01",
+      "time": "18:02",
+      "keywords": []
+    },
+    {
+      "title": "特朗普称以色列和真主党将停止袭击，原油回落",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzxvtx8099395.shtml",
+      "content": "美国总统特朗普称以色列和伊朗支持的真主党已同意停止战斗，且以色列不会向贝鲁特派兵，原油期货从高点回落。 特朗普称，他与以色列总理内塔尼亚胡进行了交谈...",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "17:59",
+      "keywords": []
+    },
+    {
+      "title": "泽连斯基的幕僚长：乌克兰已准备好接受与俄罗斯维持前线现状",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzxvtx8099084.shtml",
+      "content": "乌克兰准备接受与俄罗斯维持前线现状，乌克兰总统泽连斯基的幕僚长Kyrylo Budanov在基辅表示。 他称，乌克兰不会把顿巴斯让给俄罗斯...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "17:58",
+      "keywords": []
+    },
+    {
+      "title": "特朗普称与内塔尼亚胡进行了“富有成效”的通话",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzxvtz4876129.shtml",
+      "content": "特朗普在社交媒体发帖表示，“我与以色列总理内塔尼亚胡进行了一次非常富有成效的通话，不会有军队前往贝鲁特。” 特朗普表示，所有正在途中的部队都已被下令返回。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "17:58",
+      "keywords": []
+    },
+    {
+      "title": "特朗普称与伊朗的谈判正“快速”继续进行",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzxvtz4876032.shtml",
+      "content": "美国总统特朗普发帖称：“与伊朗的谈判正在快速继续进行。”",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "17:57",
+      "keywords": []
+    },
+    {
+      "title": "特朗普称真主党和以色列同意互不攻击",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzxvtx8094429.shtml",
+      "content": "特朗普在社交媒体发帖表示，以色列和黎巴嫩同意停止一切交火。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "17:42",
+      "keywords": []
+    },
+    {
+      "title": "全球资产管理公司增持加拿大政府债券",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzxvtx8089527.shtml",
+      "content": "加鼎华阜合作银行（Desjardins Group）经济学家Tiago Figueiredo表示，在美债市场面临有关美国债务可持续性问题之际，活跃的全球资产管理公司正在其投资组合中增加更多加拿...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "17:25",
+      "keywords": []
+    },
+    {
+      "title": "Anthropic的IPO申请印证了华尔街对人工智能的痴迷",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzxvtz4866573.shtml",
+      "content": "人工智能巨头Anthropic周一表示，该公司已秘密提交了在美国进行首次公开募股的申请，这标志着华尔街人工智能热潮迎来一个分水岭时刻。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "17:25",
+      "keywords": []
+    },
+    {
+      "title": "伊朗外交部：将美国视为违反停火协议的责任方",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzxrmz8218289.shtml",
+      "content": "伊朗外交部周一在一份声明中表示，美国应对违反与伊朗停火协议的行为以及以色列在黎巴嫩违反停火的行为负责。 声明称，在任何一个战线违反停火协议...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "17:18",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：对美伊谈判是否破裂“毫不在乎”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzxrnc4993959.shtml",
+      "content": " 美国总统特朗普于周一对美伊和平谈判可能破裂的消息表现得满不在乎，他在接受采访时直言：“老实说，就算谈判结束了我也无所谓。”",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "17:12",
+      "keywords": []
+    },
+    {
+      "title": "真主党已向特朗普表示同意停火",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzxrni2190602.shtml",
+      "content": "据以色列Channel 12未说明消息来源报道，真主党已向美国总统特朗普表示，同意在不设任何先决条件的情况下立即停火。 另据以色列公共广播公司Kan未说明消息来源报道...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "17:11",
+      "keywords": []
+    },
+    {
+      "title": "IBM股价飙升 特朗普赞扬CEO的旧视频在网上重新流传",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzxrmz8215583.shtml",
+      "content": "一段近六个月前特朗普称赞国际商业机器公司（IBM）首席执行官的视频令IBM股价周一飙升10%，市值增加超过280亿美元。 去年12月，特朗普在白宫一场活动上称赞IBM首席执行官Ar...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "17:10",
+      "keywords": []
+    },
+    {
+      "title": "Anthropic抢先OpenAI递交保密IPO申报文件、启动上市筹备",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzxrni2187413.shtml",
+      "content": " Anthropic（ANTH.PVT）周一披露，已向美国证券交易委员会（SEC）递交保密上市申请材料，在 IPO 进程上抢先竞品 OpenAI（OPAI.PVT）。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "17:02",
+      "keywords": []
+    },
+    {
+      "title": "针对比尔・盖茨深度调查四大核心结论",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzxrnc4987113.shtml",
+      "content": " 美国司法部披露的案卷详细记录了比尔・盖茨与杰弗里・爱泼斯坦的往来，盖茨的公众形象因此遭遇重创。本报围绕这位亿万慈善家的调查，梳理出四项关键信息。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "16:54",
+      "keywords": []
+    },
+    {
+      "title": "特朗普家族的初创企业计划向军方部署人形机器人",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzxrnh3715604.shtml",
+      "content": "核心要点初创企业未来基石工业 2024 年成立，主打将人形机器人应用于军工与工业场景，而非家政、服务业。该公司人形机器人已在乌克兰开展实测，目标短期内落地美军装备。",
+      "priority": "low",
+      "sectors": [
+        "机器人"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "16:48",
+      "keywords": []
+    },
+    {
+      "title": "Salesforce对Anthropic的投资估值约为50亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzxrnc4983910.shtml",
+      "content": "Salesforce对Anthropic投资的估值约为50亿美元，此前这家软件巨头持续投资这家迅速崛起的人工智能初创企业。 据一位知情人士透露...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "16:44",
+      "keywords": []
+    },
+    {
+      "title": "Anthropic已保密提交IPO注册文件草案 最快今秋登陆美股",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzxrnh3713159.shtml",
+      "content": "Anthropic已保密提交IPO注册文件草案，力争最快于今年秋季登陆美股市场。 该公司周一在博客文章中表示：“拟发行股份数量及发行价格尚未确定。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "16:39",
+      "keywords": []
+    },
+    {
+      "title": "纽约联储研究：远程办公加剧青年失业问题",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzxrni2179819.shtml",
+      "content": "核心要点 纽约联邦储备银行研究显示，远程办公普及因素，占到青年失业率增幅的 64%。 经济学家在周一发布的博客文章中表示：“企业不愿招录应届毕业生加入远程团队...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "16:36",
+      "keywords": []
+    },
+    {
+      "title": "伊朗外长与巴基斯坦陆军参谋长和外长讨论停火进程",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-02/doc-inhzxrmz8201211.shtml",
+      "content": " 伊朗外交部在社交媒体上发帖称，外交部长阿拉格齐与巴基斯坦陆军参谋长阿西姆·穆尼尔通话，讨论了地区局势发展和停火进程相关问题。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "16:27",
+      "keywords": []
     },
     {
       "title": "Anthropic向美国证交会保密提交IPO文件草案",
@@ -852,9 +1051,9 @@
       "sectors": [
         "综合"
       ],
-      "period": "night",
-      "date": "2026-06-02",
-      "time": "00:12",
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "16:12",
       "keywords": []
     },
     {
@@ -866,9 +1065,9 @@
       "sectors": [
         "综合"
       ],
-      "period": "night",
-      "date": "2026-06-02",
-      "time": "00:04",
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "16:04",
       "keywords": []
     },
     {
@@ -880,9 +1079,9 @@
       "sectors": [
         "综合"
       ],
-      "period": "night",
-      "date": "2026-06-02",
-      "time": "00:01",
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "16:01",
       "keywords": []
     },
     {
@@ -894,9 +1093,9 @@
       "sectors": [
         "综合"
       ],
-      "period": "night",
-      "date": "2026-06-02",
-      "time": "00:00",
+      "period": "noon",
+      "date": "2026-06-01",
+      "time": "16:00",
       "keywords": []
     },
     {
@@ -908,9 +1107,9 @@
       "sectors": [
         "黄金"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-06-01",
-      "time": "23:46",
+      "time": "15:46",
       "keywords": []
     },
     {
@@ -922,9 +1121,9 @@
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-06-01",
-      "time": "23:39",
+      "time": "15:39",
       "keywords": []
     },
     {
@@ -936,9 +1135,9 @@
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-06-01",
-      "time": "23:31",
+      "time": "15:31",
       "keywords": []
     },
     {
@@ -950,9 +1149,9 @@
       "sectors": [
         "金融"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-06-01",
-      "time": "23:29",
+      "time": "15:29",
       "keywords": []
     },
     {
@@ -964,9 +1163,9 @@
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-06-01",
-      "time": "23:26",
+      "time": "15:26",
       "keywords": []
     },
     {
@@ -978,9 +1177,9 @@
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-06-01",
-      "time": "23:26",
+      "time": "15:26",
       "keywords": []
     },
     {
@@ -992,9 +1191,9 @@
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-06-01",
-      "time": "23:24",
+      "time": "15:24",
       "keywords": []
     },
     {
@@ -1006,9 +1205,9 @@
       "sectors": [
         "AI"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-06-01",
-      "time": "23:22",
+      "time": "15:22",
       "keywords": []
     },
     {
@@ -1020,9 +1219,9 @@
       "sectors": [
         "半导体"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-06-01",
-      "time": "23:22",
+      "time": "15:22",
       "keywords": []
     },
     {
@@ -1034,9 +1233,9 @@
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-06-01",
-      "time": "23:22",
+      "time": "15:22",
       "keywords": []
     },
     {
@@ -1048,9 +1247,9 @@
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-06-01",
-      "time": "23:21",
+      "time": "15:21",
       "keywords": []
     },
     {
@@ -1062,9 +1261,9 @@
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-06-01",
-      "time": "23:19",
+      "time": "15:19",
       "keywords": []
     },
     {
@@ -1076,9 +1275,9 @@
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-06-01",
-      "time": "23:17",
+      "time": "15:17",
       "keywords": []
     },
     {
@@ -1090,9 +1289,9 @@
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-06-01",
-      "time": "23:14",
+      "time": "15:14",
       "keywords": []
     },
     {
@@ -1104,233 +1303,9 @@
       "sectors": [
         "能源"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-06-01",
-      "time": "23:12",
-      "keywords": []
-    },
-    {
-      "title": "美国佛罗里达州总检察长因AI危害起诉OpenAI",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxmef5083845.shtml",
-      "content": "针对人工智能（AI）聊天机器人被控存在安全缺失一事，各界反弹声浪日益高涨，而美国佛罗里达州对此发起了新一轮攻势，成为首个对OpenAI及其首席执行官山姆·奥特曼提起诉讼...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-06-01",
-      "time": "23:05",
-      "keywords": []
-    },
-    {
-      "title": "Summit Midstream启动首次股票回购计划，规模3500万美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxmec8306043.shtml",
-      "content": " Summit Midstream Corporation宣布，其董事会已批准一项股份回购计划，授权公司回购最多3500万美元的已发行普通股。这是该公司首次启动股票回购计划。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-06-01",
-      "time": "23:03",
-      "keywords": []
-    },
-    {
-      "title": "Identiv推出ID-Pixels 3.0，为实体供应链带来可扩展的无电池智能",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxmek3818285.shtml",
-      "content": "Identiv， Inc．今日宣布推出ID-Pixels 3.0，这是一款基于Wiliot第三代集成电路构建的下一代蓝牙低功耗嵌体与标签产品系列。该产品使企业能够持续感知...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-01",
-      "time": "23:02",
-      "keywords": []
-    },
-    {
-      "title": "Decoy Therapeutics携手hVIVO，推进首创多靶点抗病毒药物D-MAV进入临床",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxmem2285401.shtml",
-      "content": " Decoy Therapeutics今日宣布，已与全球人类挑战研究领域的领先企业hVIVO达成战略合作，旨在将其首创的“可设计多靶点抗病毒药物”候选物推进至临床阶段。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-01",
-      "time": "23:01",
-      "keywords": []
-    },
-    {
-      "title": "卫材与CaringKind携手推出新计划，应对阿尔茨海默病患者用餐与营养需求",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxmek3817748.shtml",
-      "content": " 卫材今日宣布，与CaringKind合作推出一项新计划，将其Magnolia Meals at Home项目扩展至阿尔茨海默病及相关痴呆症群体，提供针对性的用餐和营养指导资源。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-01",
-      "time": "23:00",
-      "keywords": []
-    },
-    {
-      "title": "Citius Oncology在ASCO公布LYMPHIR联合帕博利珠单抗治疗妇科肿瘤I期数据",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxmec8304700.shtml",
-      "content": "Citius Oncology， Inc．近日在2026年美国临床肿瘤学会年会上，以壁报形式公布了LYMPHIR联合帕博利珠单抗治疗复发或难治性妇科恶性肿瘤的I期临床研究数据。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-01",
-      "time": "22:59",
-      "keywords": []
-    },
-    {
-      "title": "Full Circle Lithium完成对渥太华消防局的首批加拿大销售",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxmec8304091.shtml",
-      "content": "Full Circle Lithium Corp．今日宣布，通过其加拿大经销商Safetek-Profire，已完成对渥太华消防局的FCL-X锂离子电池灭火解决方案销售。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-01",
-      "time": "22:57",
-      "keywords": []
-    },
-    {
-      "title": "Thesis Gold & Silver任命Dimitry Demianyuk为项目开发执行副总裁，强化团队实力",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxmem2283746.shtml",
-      "content": "Thesis Gold &amp; Silver Inc．（TSXV： TAU，OTCQX： THSGF）今日宣布，任命Dimitry Demianyuk为执行副总裁兼项目开发主管，自2026年6月21日起生效。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-01",
-      "time": "22:56",
-      "keywords": []
-    },
-    {
-      "title": "OpenAI遭美佛州总检察长起诉 理由是“AI产生危害”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxmef5079842.shtml",
-      "content": " 随着各界针对AI聊天机器人安全缺陷的维权追责浪潮不断升温，佛罗里达州率先发难，成为美国首个起诉OpenAI及其首席执行官山姆·奥特曼的州。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-06-01",
-      "time": "22:53",
-      "keywords": []
-    },
-    {
-      "title": "微软将在Build开发者大会发布全新AI模型与Windows升级内容",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxmek3814299.shtml",
-      "content": "本周微软将在旧金山举办Build开发者大会，会场规模精简、场地更紧凑。目前开发者对Windows与GitHub的信任度跌至历史低位，本次大会正是微软重拾开发者信任...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-06-01",
-      "time": "22:49",
-      "keywords": []
-    },
-    {
-      "title": "Kevin Guest呼吁专业人士在“职业健康月”优先关注健康",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxmem2280615.shtml",
-      "content": "USANA Health Sciences董事长兼首席执行官Kevin Guest呼吁专业人士、领导者和组织在六月的“职业健康月”期间，将健康置于工作和生活的优先位置。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-01",
-      "time": "22:46",
-      "keywords": []
-    },
-    {
-      "title": "Karyopharm将邀专家解读骨髓纤维化III期SENTRY试验结果",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxmef5076533.shtml",
-      "content": " Karyopharm Therapeutics Inc．今日宣布，将于美国东部时间6月2日下午2：00召开投资者电话会议，详细解读selinexor联合ruxolitinib治疗骨髓纤维化的III期SENTRY试验结果。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-01",
-      "time": "22:44",
-      "keywords": []
-    },
-    {
-      "title": "伊朗停止与美国谈判，誓言“彻底”封锁霍尔木兹海峡",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxmef5076480.shtml",
-      "content": "要点速览伊朗官方媒体塔斯尼姆通讯社称，为报复美方持续违反停火协议，伊朗谈判代表将停止通过中间人向美方传递信息。报道还称，德黑兰将采取行动全面封锁霍尔木兹海峡。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-01",
-      "time": "22:44",
-      "keywords": []
-    },
-    {
-      "title": "Biohaven启动口服PKM2调节剂BHV-8100首次人体给药，靶向代谢恢复与免疫调节",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxmek3811876.shtml",
-      "content": "Biohaven Ltd．今日宣布，其口服、可穿透血脑屏障的丙酮酸激酶M2亚型调节剂BHV-8100已启动首次人体给药。BHV-8100是一种新型疗法...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-01",
-      "time": "22:42",
-      "keywords": []
-    },
-    {
-      "title": "首届Enhanced Games吸引超10亿人参与，以极低媒体投入引爆全球话题",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxmem2278566.shtml",
-      "content": "Enhanced今日宣布，于5月24日至30日举行的首届Enhanced Games在七天内吸引了全球超过10亿人参与，成功引爆互联网话题讨论。作为一项精英体育赛事及个性化健康产品公司...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-01",
-      "time": "22:41",
-      "keywords": []
-    },
-    {
-      "title": "法院驳回禁令申请，Perpetua Resources推进Stibnite金矿项目建设",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-01/doc-inhzxmec8296150.shtml",
-      "content": " Perpetua Resources Corp．今日宣布，在爱达荷州联邦地区法院驳回环保团体针对Stibnite金矿项目提出的初步禁令申请后，公司已启动2026年野外作业季的额外关键施工活动。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-01",
-      "time": "22:38",
+      "time": "15:12",
       "keywords": []
     },
     {
@@ -1343,7 +1318,7 @@
         "机器人"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1359,7 +1334,7 @@
         "有色"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1375,7 +1350,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "风电观察"
@@ -1391,7 +1366,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "霍尔木兹日报"
@@ -1407,7 +1382,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "大宗观察"
@@ -1423,7 +1398,7 @@
         "有色"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1439,7 +1414,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1455,7 +1430,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1471,7 +1446,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1487,7 +1462,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1503,7 +1478,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1519,7 +1494,7 @@
         "医药"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1535,7 +1510,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1551,7 +1526,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1567,7 +1542,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "CCI快报"
@@ -1585,7 +1560,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1601,7 +1576,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1618,7 +1593,7 @@
         "消费"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1634,7 +1609,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "数据图解"
@@ -1650,7 +1625,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1666,7 +1641,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1682,7 +1657,7 @@
         "消费"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1698,7 +1673,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "霍尔木兹日报"
@@ -1715,7 +1690,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1731,7 +1706,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1747,7 +1722,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1763,7 +1738,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1779,7 +1754,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1795,7 +1770,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1811,7 +1786,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1827,7 +1802,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "霍尔木兹日报"
@@ -1843,7 +1818,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1860,7 +1835,7 @@
         "消费"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1876,7 +1851,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1892,7 +1867,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1908,7 +1883,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "霍尔木兹日报"
@@ -1924,7 +1899,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "今日热点"
@@ -1940,7 +1915,7 @@
         "半导体"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1956,7 +1931,7 @@
         "半导体"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1972,7 +1947,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1988,7 +1963,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "公司速递"
@@ -2004,7 +1979,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场洞察"
@@ -2020,7 +1995,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2036,7 +2011,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2052,7 +2027,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -2068,7 +2043,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2084,7 +2059,7 @@
         "黄金"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2100,7 +2075,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2116,7 +2091,7 @@
         "消费"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2132,7 +2107,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "霍尔木兹日报"
@@ -2148,7 +2123,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2164,7 +2139,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2180,7 +2155,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2196,7 +2171,7 @@
         "有色"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2212,7 +2187,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -2228,7 +2203,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2244,7 +2219,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2260,7 +2235,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "霍尔木兹日报"
@@ -2276,7 +2251,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2292,7 +2267,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2308,7 +2283,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2324,7 +2299,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -2340,7 +2315,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "CCI快报"
@@ -2356,7 +2331,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -2372,7 +2347,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -2388,444 +2363,486 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-02",
+      "date": "2026-06-01",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
       ]
     },
     {
-      "title": "【SpaceX拟在IPO中预留最多5%股份 供员工及亲友认购】SpaceX在更新的文件中披露，公司将在即将进行的首次公开",
+      "title": "市场消息： 美国将缩减非洲地区可办理签证业务的大使馆数量。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【SpaceX拟在IPO中预留最多5%股份 供员工及亲友认购】SpaceX在更新的文件中披露，公司将在即将进行的首次公开募股(IPO)中，预留最多5%的股份供部分员工以及公司高管的亲友认购。文件显示，这部分A类股票将通过定向售股计划进行预留。SpaceX上个月已披露，被列入“亲友名单”的参与者将不受锁定期限制。定向售股计划在IPO中较为常见，但参与者通常会受到锁定期约束，短期内不得出售股票。Spa",
+      "content": "市场消息： 美国将缩减非洲地区可办理签证业务的大使馆数量。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-02",
-      "time": "00:22",
+      "time": "02:20",
       "keywords": []
     },
     {
-      "title": "【特朗普称尚未收到伊朗关于暂停谈判的消息】当地时间6月1日获悉，美国总统特朗普表示，关于伊朗问题，他尚未收到伊朗方面暂停",
+      "title": "【消息人士称以色列应美国要求推迟空袭黎巴嫩贝鲁特】消息人士称，以色列应美国的要求推迟了原定对黎巴嫩贝鲁特的空袭计划，并补",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【特朗普称尚未收到伊朗关于暂停谈判的消息】当地时间6月1日获悉，美国总统特朗普表示，关于伊朗问题，他尚未收到伊朗方面暂停谈判的消息。当地时间1日，伊朗方面有消息称，鉴于以色列在黎巴嫩的持续军事行动，并考虑到黎巴嫩停火是伊美停火的先决条件之一，伊朗谈判团队暂停通过中间人同美国的对话和文本交换。消息称，伊朗官员和谈判代表表示，以色列必须立即停止在加沙地带和黎巴嫩的侵略和残暴的军事行动，并必须从黎巴嫩完",
+      "content": "【消息人士称以色列应美国要求推迟空袭黎巴嫩贝鲁特】消息人士称，以色列应美国的要求推迟了原定对黎巴嫩贝鲁特的空袭计划，并补充说，美国正在推进一项停火倡议，并要求以色列等待。但相关消息未得到以色列官方证实。（央视新闻）",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-02",
-      "time": "00:22",
+      "time": "02:10",
       "keywords": []
     },
     {
-      "title": "Salesforce 对 Anthropic 的投资估值约 50 亿美元。",
+      "title": "【苹果准备推出账单拆分功能，进一步深耕金融领域】苹果公司正为 iPhone 研发一项全新服务，支持用户拆分聚餐或各类集体",
       "source": "Tushare-sina",
       "url": "",
-      "content": "  Salesforce 对 Anthropic 的投资估值约 50 亿美元。",
+      "content": "【苹果准备推出账单拆分功能，进一步深耕金融领域】苹果公司正为 iPhone 研发一项全新服务，支持用户拆分聚餐或各类集体活动的账单。该功能支持用户拍摄消费小票，把账单消费项目分摊给多位参与者，并自动生成收款申请。这项服务依托Apple Cash运行，可在钱包 App 或信息应用内使用，用户也能通过苹果手表确认付款。知情人士表示苹果最早有望于下周的全球开发者大会官宣该功能，并将其预装在新一代手机系统",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-06-02",
+      "time": "01:58",
+      "keywords": []
+    },
+    {
+      "title": "钯金期货日内涨1%，现报1396.00美元/盎司。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "钯金期货日内涨1%，现报1396.00美元/盎司。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-02",
-      "time": "00:21",
+      "time": "01:54",
       "keywords": []
     },
     {
-      "title": "以色列国防军：在黎巴嫩南部以军驻防区域拦截一架无人机。",
+      "title": "【特朗普：与伊朗的谈判正“快速推进”】美国总统特朗普1日在社交媒体上说，与伊朗的谈判正“快速推进”。 (新华社)",
       "source": "Tushare-sina",
       "url": "",
-      "content": "  以色列国防军：在黎巴嫩南部以军驻防区域拦截一架无人机。",
+      "content": "【特朗普：与伊朗的谈判正“快速推进”】美国总统特朗普1日在社交媒体上说，与伊朗的谈判正“快速推进”。 (新华社)",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-02",
-      "time": "00:17",
+      "time": "01:52",
       "keywords": []
     },
     {
-      "title": "特朗普被问及能否耗过伊朗时表示：伊朗想拖多久，我就能等多久，他们正蒙受巨额经济损失。",
+      "title": "乌克兰总统泽连斯基： 乌军可打击所有俄方控制区域内的俄军后勤设施，在乌克兰东部和南部，俄军几乎没有安全通行的道路。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "  特朗普被问及能否耗过伊朗时表示：伊朗想拖多久，我就能等多久，他们正蒙受巨额经济损失。",
+      "content": "乌克兰总统泽连斯基： 乌军可打击所有俄方控制区域内的俄军后勤设施，在乌克兰东部和南部，俄军几乎没有安全通行的道路。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-02",
-      "time": "00:17",
+      "time": "01:46",
       "keywords": []
     },
     {
-      "title": "特朗普接受NBC记者采访时谈及伊朗相关事宜，表示并未收到伊朗方面有关暂停谈判报道的相关讯息。",
+      "title": "乌克兰总统泽连斯基：乌军行动已造成克里米亚及其他被占领地区燃油短缺。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "特朗普接受NBC记者采访时谈及伊朗相关事宜，表示并未收到伊朗方面有关暂停谈判报道的相关讯息。",
+      "content": "乌克兰总统泽连斯基：乌军行动已造成克里米亚及其他被占领地区燃油短缺。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-02",
-      "time": "00:15",
+      "time": "01:45",
       "keywords": []
     },
     {
-      "title": "特朗普：我方将维持霍尔木兹海峡封锁举措。",
+      "title": "特朗普：与伊朗的谈判正在快速推进。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "  特朗普：我方将维持霍尔木兹海峡封锁举措。",
+      "content": "  特朗普：与伊朗的谈判正在快速推进。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-02",
-      "time": "00:14",
+      "time": "01:44",
       "keywords": []
     },
     {
-      "title": "特朗普谈及伊朗问题：说实话，我认为我们谈论得太多了。我认为保持沉默会非常好。",
+      "title": "以色列国防军：鉴于确认有火箭弹从黎巴嫩发射，目标直指冲突线沿线的各社区，后方司令部已发布预防性指令。公众应在警报响起时立",
       "source": "Tushare-sina",
       "url": "",
-      "content": "特朗普谈及伊朗问题：说实话，我认为我们谈论得太多了。我认为保持沉默会非常好。",
+      "content": "以色列国防军：鉴于确认有火箭弹从黎巴嫩发射，目标直指冲突线沿线的各社区，后方司令部已发布预防性指令。公众应在警报响起时立即进入避难场所。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-02",
-      "time": "00:13",
+      "time": "01:40",
       "keywords": []
     },
     {
-      "title": "Anthropic投资方股价跳涨， Zoom 通讯股价上涨 9.4%，韩国 SK 电信美股涨幅 14.6%。",
+      "title": "【伊朗外交部：美对以色列违反黎以停火协议负有直接责任】当地时间1日，伊朗外交部就美以持续违反停火协议发表声明。声明指出，",
       "source": "Tushare-sina",
       "url": "",
-      "content": "Anthropic投资方股价跳涨， Zoom 通讯股价上涨 9.4%，韩国 SK 电信美股涨幅 14.6%。",
+      "content": "【伊朗外交部：美对以色列违反黎以停火协议负有直接责任】当地时间1日，伊朗外交部就美以持续违反停火协议发表声明。声明指出，美国对违反伊美停火协议以及以色列违反黎以停火协议负有直接责任，美国应对此局势的后果承担全部责任。伊朗将在认为必要时捍卫自身利益。（央视新闻）",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-02",
-      "time": "00:10",
+      "time": "01:40",
       "keywords": []
     },
     {
-      "title": "比特币跌破71000美元，日内跌3.69%。",
+      "title": "【特朗普：以色列和黎真主党的所有交火行动将立即停止】当地时间6月1日，美国总统特朗普在社交媒体“真实社交”上发文表示，他",
       "source": "Tushare-sina",
       "url": "",
-      "content": "比特币跌破71000美元，日内跌3.69%。",
+      "content": "【特朗普：以色列和黎真主党的所有交火行动将立即停止】当地时间6月1日，美国总统特朗普在社交媒体“真实社交”上发文表示，他与以色列总理内塔尼亚胡进行了一次富有成效的通话，现已确定不会有任何部队前往贝鲁特，凡是此前正在途中的部队，均已奉命撤回。特朗普还表示，通过高级别代表的协调，他也与黎巴嫩真主党进行了一次良好的沟通。双方已达成共识，所有交火行动将立即停止——即以色列不会攻击黎真主党，黎真主党也不会攻",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-02",
-      "time": "00:09",
+      "time": "01:38",
       "keywords": []
     },
     {
-      "title": "美国中央司令部：数千名美国海军、空军和陆军人员正在海上、空中以及陆地上为美国对伊朗的持续封锁行动提供支持。截至6月1日，",
+      "title": "特朗普就中东问题发表评论后，美国国债跌幅收窄。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "美国中央司令部：数千名美国海军、空军和陆军人员正在海上、空中以及陆地上为美国对伊朗的持续封锁行动提供支持。截至6月1日，部队已指示121艘商船改道，并对5艘船只实施了停运措施，以确保相关行动的顺利进行。",
+      "content": "特朗普就中东问题发表评论后，美国国债跌幅收窄。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-02",
-      "time": "00:09",
+      "time": "01:36",
       "keywords": []
     },
     {
-      "title": "【董军同南非国防和退伍军人部部长会谈】6月1日，国防部长董军应邀访问南非期间与南国防和退伍军人部部长莫采卡举行会谈。双方",
+      "title": "【特朗普：真主党和以色列同意互不攻击】美国总统特朗普在社交媒体“真相社交”发文称， 同以色列总理内塔尼亚胡进行了一次富有",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【董军同南非国防和退伍军人部部长会谈】6月1日，国防部长董军应邀访问南非期间与南国防和退伍军人部部长莫采卡举行会谈。双方就两国两军关系、国际地区形势和共同关心的问题深入交换意见，表示将落实好两国元首重要共识，持续深化全方位务实合作。会谈前，莫采卡为董军举行欢迎仪式，并陪同检阅仪仗队。(国防部发布)",
+      "content": "【特朗普：真主党和以色列同意互不攻击】美国总统特朗普在社交媒体“真相社交”发文称， 同以色列总理内塔尼亚胡进行了一次富有成效的通话，美方不会向贝鲁特派兵，所有正在驰援途中的部队均已原路撤回。与此同时，我通过高层特使与真主党顺利通了话，对方达成全面停火共识：以色列不会对其发起袭击，真主党也不再袭击以色列。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-02",
-      "time": "00:07",
+      "time": "01:35",
       "keywords": []
     },
     {
-      "title": "【黎巴嫩议会议长：真主党已准备好和以色列达成停火协议】黎巴嫩议会议长纳比·贝里的高级顾问阿里·哈姆丹6月1日透露，贝里前",
+      "title": "美国总统特朗普：坦率地说，有关与伊朗谈判的问题开始变得无聊了。（CNBC）",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【黎巴嫩议会议长：真主党已准备好和以色列达成停火协议】黎巴嫩议会议长纳比·贝里的高级顾问阿里·哈姆丹6月1日透露，贝里前一日已向美国方面表示，黎巴嫩真主党已准备好立即与以色列达成全面停火协议。哈姆丹同时强调，贝里承诺将全力保证该停火协议的切实执行。(央视新闻)",
+      "content": "美国总统特朗普：坦率地说，有关与伊朗谈判的问题开始变得无聊了。（CNBC）",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-02",
-      "time": "00:03",
+      "time": "01:34",
       "keywords": []
     },
     {
-      "title": "葡萄牙汽车协会（ACAP）数据：5 月葡萄牙轻型纯电动汽车新车上牌量同比增长 56.1%。",
+      "title": "特朗普：不会向贝鲁特派遣军队，所有正在开赴当地的部队均已奉命折返。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "  葡萄牙汽车协会（ACAP）数据：5 月葡萄牙轻型纯电动汽车新车上牌量同比增长 56.1%。",
+      "content": "  特朗普：不会向贝鲁特派遣军队，所有正在开赴当地的部队均已奉命折返。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-02",
+      "time": "01:31",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：我通过高层代表同真主党进行了一次十分顺畅的通话，对方同意全面停止交火。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "  特朗普：我通过高层代表同真主党进行了一次十分顺畅的通话，对方同意全面停止交火。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-02",
+      "time": "01:31",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：我与以色列总理内塔尼亚胡进行了一场极富成效的通话。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "特朗普：我与以色列总理内塔尼亚胡进行了一场极富成效的通话。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-02",
+      "time": "01:30",
+      "keywords": []
+    },
+    {
+      "title": "【上汽MG欧洲首家工厂落户西班牙】上汽集团旗下MG品牌已选定西班牙建设其首家欧洲汽车工厂。当地政府表示，该项目位于西班牙",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "【上汽MG欧洲首家工厂落户西班牙】上汽集团旗下MG品牌已选定西班牙建设其首家欧洲汽车工厂。当地政府表示，该项目位于西班牙西北部，初始投资预计约2亿欧元(2.32亿美元)，不包括港口费用，年产能可达12万辆。工厂预计于2028年投产。MG原为英国品牌，近20年前被上汽集团收购，目前是欧洲销量最高的中国汽车品牌之一。",
       "priority": "low",
       "sectors": [
         "消费"
       ],
       "period": "noon",
       "date": "2026-06-02",
-      "time": "00:02",
+      "time": "01:28",
       "keywords": []
     },
     {
-      "title": "【日菲商定尽早实现老旧日舰对菲出口】日本广播协会（NHK）5月31日报道，日本防卫大臣小泉进次郎当天在新加坡与菲律宾防长",
+      "title": "伊拉克安全官员消息：波斯湾海域、乌姆卡斯尔港东南约 40 海里处一艘货轮遭遇二次爆炸并起火，暂无人员伤亡通报。初步研",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【日菲商定尽早实现老旧日舰对菲出口】日本广播协会（NHK）5月31日报道，日本防卫大臣小泉进次郎当天在新加坡与菲律宾防长特奥多罗举行会谈，双方就日本海上自卫队的老旧护卫舰尽早向菲律宾出口基本达成共识。共同社报道称，这一1989年服役的“阿武隈”级护卫舰有可能成为日本解禁杀伤性武器出口后，首个武器装备出口案例。(CCTV国际时讯)",
+      "content": "  伊拉克安全官员消息：波斯湾海域、乌姆卡斯尔港东南约 40 海里处一艘货轮遭遇二次爆炸并起火，暂无人员伤亡通报。初步研判显示，这艘在波斯湾、伊拉克乌姆卡斯尔港东南约 40 海里处遭遇二次爆炸的货轮系遭无人机袭击所致。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-02",
-      "time": "00:02",
+      "time": "01:26",
       "keywords": []
     },
     {
-      "title": "意大利交通部数据：今年 1-5 月特斯拉新车注册量较 2025 年同期上涨 15.2%。",
+      "title": "两名以色列消息人士：以色列正等待特朗普最终批准，方可在贝鲁特南部郊区开展军事行动。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "  意大利交通部数据：今年 1-5 月特斯拉新车注册量较 2025 年同期上涨 15.2%。",
+      "content": "  两名以色列消息人士：以色列正等待特朗普最终批准，方可在贝鲁特南部郊区开展军事行动。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-02",
-      "time": "00:01",
+      "time": "01:25",
       "keywords": []
     },
     {
-      "title": "意大利交通部数据：5 月特斯拉新车上牌量同比下滑 23.5%。",
+      "title": "据伊朗国家通讯社（IRNA）：伊朗石油部长表示，本国能源设施重建工作取得重大进展，有望快速恢复产能。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "  意大利交通部数据：5 月特斯拉新车上牌量同比下滑 23.5%。",
+      "content": "据伊朗国家通讯社（IRNA）：伊朗石油部长表示，本国能源设施重建工作取得重大进展，有望快速恢复产能。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-06-02",
+      "time": "01:11",
+      "keywords": []
+    },
+    {
+      "title": "市场消息： 俄罗斯正考虑进口航空煤油。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "市场消息： 俄罗斯正考虑进口航空煤油。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-02",
-      "time": "00:01",
+      "time": "01:10",
       "keywords": []
     },
     {
-      "title": "Anthropic 已向美国证券交易委员会（SEC）秘密递交 S-1 招股说明书草案。",
+      "title": "特朗普：石油价格短期内将“像石头一样”下挫。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "Anthropic 已向美国证券交易委员会（SEC）秘密递交 S-1 招股说明书草案。",
+      "content": "特朗普：石油价格短期内将“像石头一样”下挫。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-06-02",
+      "time": "01:06",
+      "keywords": []
+    },
+    {
+      "title": "伊朗外交部：伊朗将依据自卫权，在必要时动用全部自身力量维护本国利益。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "  伊朗外交部：伊朗将依据自卫权，在必要时动用全部自身力量维护本国利益。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-02",
-      "time": "00:00",
+      "time": "01:05",
       "keywords": []
     },
     {
-      "title": "【SpaceX：马斯克同意接受为期366天的股票锁定期】根据SpaceX提交的S-1文件修正案，马斯克已与承销商达成协议",
+      "title": "【内塔尼亚胡与特朗普通话，讨论伊朗及黎巴嫩局势】6月1日，以色列总理内塔尼亚胡与美国总统特朗普通电话，就伊朗及黎巴嫩局势",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【SpaceX：马斯克同意接受为期366天的股票锁定期】根据SpaceX提交的S-1文件修正案，马斯克已与承销商达成协议，接受为期366天的锁定期。在未经高盛事先书面同意的情况下，他持有的所有股份均不得出售。SpaceX还表示，将预留最多5%的IPO A类普通股供部分员工以及由公司高管指定的人士认购。",
+      "content": "【内塔尼亚胡与特朗普通话，讨论伊朗及黎巴嫩局势】6月1日，以色列总理内塔尼亚胡与美国总统特朗普通电话，就伊朗及黎巴嫩局势进行讨论。日前，随着以军越过利塔尼河展开进攻，4月17日开始的黎以临时停火已经名存实亡。以色列总理内塔尼亚胡5月31日下令扩大在黎军事行动，同时寻求美国支持打击贝鲁特等地，并已就此与美方沟通。（央视）",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-01",
-      "time": "23:59",
+      "date": "2026-06-02",
+      "time": "01:04",
       "keywords": []
     },
     {
-      "title": "【纽约联储研究：比起人工智能 远程办公对年轻毕业生求职影响更大】纽约联储银行的一项研究显示，相较于人工智能的普及，远程办",
+      "title": "特朗普：不担心油价。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【纽约联储研究：比起人工智能 远程办公对年轻毕业生求职影响更大】纽约联储银行的一项研究显示，相较于人工智能的普及，远程办公的兴起更能解释近期年轻大学毕业生失业率上升的原因。纽约联储经济学家Natalia Emanuel等研究人员周一在纽约联储官网发布的博客文章中表示，29岁以下拥有大学学历劳动者的失业率较疫情前水平上升，其中约64%可归因于居家办公趋势。Emanuel及合作者比较了软件工程等“可远",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-06-01",
-      "time": "23:58",
-      "keywords": []
-    },
-    {
-      "title": "伊朗外交部：外长同巴基斯坦官员通电话。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "伊朗外交部：外长同巴基斯坦官员通电话。",
+      "content": "特朗普：不担心油价。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-01",
-      "time": "23:55",
+      "date": "2026-06-02",
+      "time": "01:04",
       "keywords": []
     },
     {
-      "title": "【伊朗最高领袖军事顾问：伊方耐心有限 绝不允许海上封锁继续】当地时间1日，伊朗最高领袖军事顾问雷扎伊表示，霍尔木兹海峡由",
+      "title": "特朗普：正在询问内塔尼亚胡到底发生了什么事。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【伊朗最高领袖军事顾问：伊方耐心有限 绝不允许海上封锁继续】当地时间1日，伊朗最高领袖军事顾问雷扎伊表示，霍尔木兹海峡由伊朗控制，伊朗绝不允许海上封锁继续下去，也绝不容忍黎巴嫩局势升级。伊朗武装部队的耐心是有限的。（央视新闻）",
+      "content": "特朗普：正在询问内塔尼亚胡到底发生了什么事。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-01",
-      "time": "23:54",
+      "date": "2026-06-02",
+      "time": "01:04",
       "keywords": []
     },
     {
-      "title": "以色列国防军通报：以色列罗斯哈尼克拉与霍夫贝特泽特地区响起针对敌方飞行器的防空警报。",
+      "title": "特朗普：我不在乎与伊朗的和平谈判是否结束。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "  以色列国防军通报：以色列罗斯哈尼克拉与霍夫贝特泽特地区响起针对敌方飞行器的防空警报。",
+      "content": "特朗普：我不在乎与伊朗的和平谈判是否结束。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-01",
-      "time": "23:53",
+      "date": "2026-06-02",
+      "time": "01:03",
       "keywords": []
     },
     {
-      "title": "伊朗第一副总统：如今事实已十分明朗，美国中央情报局与以色列摩萨德针对伊朗的战略就是颠覆本国政府。",
+      "title": "伊朗外交部：一条战线违反停火，等同于所有战线违反停火。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "  伊朗第一副总统：如今事实已十分明朗，美国中央情报局与以色列摩萨德针对伊朗的战略就是颠覆本国政府。",
+      "content": "伊朗外交部：一条战线违反停火，等同于所有战线违反停火。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-01",
-      "time": "23:51",
+      "date": "2026-06-02",
+      "time": "01:02",
       "keywords": []
     },
     {
-      "title": "【乌干达反政府武装袭击刚果（金）东部致16人死亡】刚果（金）政府6月1日发表声明说，乌干达反政府武装“民主同盟军”5月3",
+      "title": "伊朗外交部：美国需对破坏伊方相关停火协议以及以色列在黎巴嫩境内违反停火协定的行为承担直接责任。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【乌干达反政府武装袭击刚果（金）东部致16人死亡】刚果（金）政府6月1日发表声明说，乌干达反政府武装“民主同盟军”5月31日袭击了刚果（金）东部北基伍省贝尼市一个街区，造成16人死亡。声明说，袭击发生在贝尼市北部。根据当地部门通报，遇难者包括15名平民和1名军人，多处民房在袭击中受损。声明说，打击“民主同盟军”仍是刚果（金）政府的“绝对优先事项”。刚果（金）军方正在追捕袭击者，并采取必要措施加强平",
+      "content": "  伊朗外交部：美国需对破坏伊方相关停火协议以及以色列在黎巴嫩境内违反停火协定的行为承担直接责任。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-01",
-      "time": "23:49",
+      "date": "2026-06-02",
+      "time": "01:02",
       "keywords": []
     },
     {
-      "title": "【伊朗武装部队警告以色列】伊朗武装部队哈塔姆·安比亚中央司令部司令阿卜杜拉希6月1日发出警告称，以色列继续在该地区作恶，",
+      "title": "市场消息：在上周蓝色起源火箭发生爆炸后，亚马逊卫星互联网业务负责人要求员工稳住心神、专注工作。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【伊朗武装部队警告以色列】伊朗武装部队哈塔姆·安比亚中央司令部司令阿卜杜拉希6月1日发出警告称，以色列继续在该地区作恶，威胁要轰炸黎巴嫩首都贝鲁特南郊，并向当地居民发出撤离警告。鉴于该政权屡次违反停火协议，倘若这一威胁付诸实施的话，伊朗也警告以色列北部地区居民和军事设施附近居民，“如果不想受到伤害，请立即离开该地区”。（ CCTV国际时讯 ）",
+      "content": "市场消息：在上周蓝色起源火箭发生爆炸后，亚马逊卫星互联网业务负责人要求员工稳住心神、专注工作。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-01",
-      "time": "23:47",
+      "date": "2026-06-02",
+      "time": "01:02",
       "keywords": []
     },
     {
-      "title": "市场消息：贝莱德拟收购日本打车软件 Go 公司 15% 股权。",
+      "title": "华硕发布了搭载NVIDIA RTX Spark显卡的革命性ProArt P16和P14笔记本电脑。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "市场消息：贝莱德拟收购日本打车软件 Go 公司 15% 股权。",
+      "content": "华硕发布了搭载NVIDIA RTX Spark显卡的革命性ProArt P16和P14笔记本电脑。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-01",
-      "time": "23:41",
+      "date": "2026-06-02",
+      "time": "01:01",
       "keywords": []
     },
     {
-      "title": "土耳其总统埃尔多安：主要反对党内部的派系纷争与土政府无关， 政府不会放任街头陷入动荡。",
+      "title": "【夜盘期货收盘】国际铜夜盘收涨1.10%，沪铜收涨1.12%，沪铝收涨0.49%，沪锌收涨0.26%，沪铅收跌0.09%",
       "source": "Tushare-sina",
       "url": "",
-      "content": "土耳其总统埃尔多安：主要反对党内部的派系纷争与土政府无关， 政府不会放任街头陷入动荡。",
+      "content": "【夜盘期货收盘】国际铜夜盘收涨1.10%，沪铜收涨1.12%，沪铝收涨0.49%，沪锌收涨0.26%，沪铅收跌0.09%，沪镍收涨1.26%，沪锡收涨2.46%。氧化铝夜盘收跌0.69%，铝合金收涨0.41%。不锈钢夜盘收涨1.52%。",
       "priority": "low",
       "sectors": [
-        "综合"
+        "有色"
       ],
       "period": "noon",
-      "date": "2026-06-01",
-      "time": "23:39",
+      "date": "2026-06-02",
+      "time": "01:00",
       "keywords": []
     },
     {
-      "title": "伊朗中央军事指挥部警告：若以色列空袭贝鲁特，为免遭打击，奉劝以色列北部居民提前撤离。",
+      "title": "航运数据显示，委内瑞拉5月份的石油出口量上升至125万桶/日。\n5月份委内瑞拉输往加勒比地区用于储存的石油出口量降至约5",
       "source": "Tushare-sina",
       "url": "",
-      "content": "伊朗中央军事指挥部警告：若以色列空袭贝鲁特，为免遭打击，奉劝以色列北部居民提前撤离。",
+      "content": "航运数据显示，委内瑞拉5月份的石油出口量上升至125万桶/日。\n5月份委内瑞拉输往加勒比地区用于储存的石油出口量降至约5.8万桶/日。\n委内瑞拉对印度的石油出口在五月增至约42.7万桶/日。\n委内瑞拉对美国的石油出口在五月增加至约55.8桶/日。",
       "priority": "low",
       "sectors": [
-        "综合"
+        "能源"
       ],
       "period": "noon",
-      "date": "2026-06-01",
-      "time": "23:39",
-      "keywords": []
-    },
-    {
-      "title": "伊朗最高领袖顾问：霍尔木兹海峡由伊朗管控，我方不会容忍封锁局面持续下去。我方不会容忍黎巴嫩局势持续升温，伊朗武装部队",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "  伊朗最高领袖顾问：霍尔木兹海峡由伊朗管控，我方不会容忍封锁局面持续下去。我方不会容忍黎巴嫩局势持续升温，伊朗武装部队的忍耐有限度。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-01",
-      "time": "23:35",
-      "keywords": []
-    },
-    {
-      "title": "【黎巴嫩一名官员向美方透露，真主党已准备好同以色列全面停火】黎巴嫩议会议长的首席顾问向AXIOS透露，黎巴嫩议会议长于周",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【黎巴嫩一名官员向美方透露，真主党已准备好同以色列全面停火】黎巴嫩议会议长的首席顾问向AXIOS透露，黎巴嫩议会议长于周日向特朗普政府表态，真主党愿意立即与以色列实现全面停火，且承诺将保障停火落地。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-01",
-      "time": "23:35",
+      "date": "2026-06-02",
+      "time": "00:55",
       "keywords": []
     }
   ]
