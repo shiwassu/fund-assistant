@@ -1,17 +1,116 @@
 {
-  "updated": "2026-06-05T20:31:26.007142",
-  "total": 187,
+  "updated": "2026-06-05T22:04:30.454278",
+  "total": 189,
   "sources": [
     "新浪财经",
     "akshare-财新",
     "Tushare"
   ],
   "priority_dist": {
-    "high": 34,
-    "medium": 46,
-    "low": 107
+    "high": 36,
+    "medium": 40,
+    "low": 113
   },
   "items": [
+    {
+      "title": "6月6日外盘头条：美伊和平谈判仍陷僵局 非农报告提振加息预期 美股遭遇抛售 谷歌与SpaceX达成百亿算力协议",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamhua7875052.shtml",
+      "content": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、伊朗战争逼近百日 美伊和平谈判仍陷僵局 2、美国5月新增就业17.2万人 经济表现大幅超出市场预期 3...",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-06-05",
+      "time": "21:59",
+      "keywords": []
+    },
+    {
+      "title": "纽约汇市：美元指数创12周来最大涨幅 非农报告提振加息预期",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamhtx9043086.shtml",
+      "content": "强劲的就业数据推动市场上调对美联储的加息押注，美元指数创下3月13日以来最大涨幅，美元兑所有G10货币均走强。 彭博美元即期指数上涨0...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-05",
+      "time": "21:42",
+      "keywords": []
+    },
+    {
+      "title": "谷歌与SpaceX达成重磅算力协议：每月支付9.2亿美元，租用11万颗英伟达GPU",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamhtw2265623.shtml",
+      "content": "SpaceX和谷歌达成云服务协议。根据该协议，谷歌同意从2026年10月到2029年6月每月向SpaceX支付9.2亿美元。 根据周五提交的监管文件，谷歌将使用约11万个英伟达图形处理器...",
+      "priority": "high",
+      "sectors": [
+        "半导体",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-06-05",
+      "time": "21:41",
+      "keywords": []
+    },
+    {
+      "title": "美国股市：纳斯达克100指数创逾一年最大跌幅 交易员撤离科技股",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamamy2391011.shtml",
+      "content": " 华尔街历史性的周度连涨告一段落。科技股抛售以及债券收益率走高冲击美股，早前发布的强劲就业报告推高了对美联储下一步利率动作将是加息的押注。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-05",
+      "time": "21:25",
+      "keywords": []
+    },
+    {
+      "title": "美国消费者借贷再度强劲增加 创2022年以来最大连续两月增幅",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamane7993862.shtml",
+      "content": "美国消费者借款4月再次强劲增加，创下2022年底以来最大的连续两月增幅。 美联储周五公布的数据显示，4月未偿信贷总额增加207亿美元，3月修正后为增加222亿美元。",
+      "priority": "high",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-06-05",
+      "time": "21:05",
+      "keywords": []
+    },
+    {
+      "title": "美国债市：短端领跌国债 强劲就业报告推升加息预期",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamanc1217402.shtml",
+      "content": "美债周五全线下挫，收益率曲线呈强烈的熊市趋平走势。在强劲的5月非农就业报告发布后，未来几个月的加息溢价定价大幅攀升。美联储会期对应的OIS完全消化将在今年年底前加息...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-05",
+      "time": "21:03",
+      "keywords": []
+    },
+    {
+      "title": "花旗维持对美联储降息的预测 在华尔街日显孤立",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-06-06/doc-iniamamy2381810.shtml",
+      "content": "美国就业数据表现强劲后，花旗集团经济学家不为所动，维持其对美联储今年将降息三次的预测，而这一预测已日显孤立。 花旗首席美国经济学家Andrew Hollenhorst周五写道...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-05",
+      "time": "20:58",
+      "keywords": []
+    },
     {
       "title": "6月6日收盘：美股收跌纳指重挫1100点 美联储加息预期升温令股指承压",
       "source": "环球市场播报",
@@ -122,48 +221,6 @@
       "period": "night",
       "date": "2026-06-05",
       "time": "19:22",
-      "keywords": []
-    },
-    {
-      "title": "特朗普：将把利率决策交由沃什负责",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniakwea2487302.shtml",
-      "content": "特朗普表示，他将把利率决策交由美联储主席凯文·沃什负责。 特朗普在空军一号上向记者表示。 特朗普表示，他希望利率降低。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-06-05",
-      "time": "18:24",
-      "keywords": []
-    },
-    {
-      "title": "房利美和房地美股价坐上过山车 特朗普此前放话“万亿估值”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniakwef1321815.shtml",
-      "content": " 房利美和房地美的普通股周五开盘大幅上涨，此前美国总统特朗普表示，这两家抵押贷款融资巨头的价值可能高达1万亿美元。不过，随着市场怀疑情绪升温，它们随后转跌。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-05",
-      "time": "17:58",
-      "keywords": []
-    },
-    {
-      "title": "欧洲股市单周收跌 对利率敏感的板块承压",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniakwea2480035.shtml",
-      "content": "欧洲股市下跌，科技股抛售势头加剧，通胀威胁也令市场情绪承压。 斯托克欧洲600指数本周收跌0.5%，创三周来最差表现。强劲的美国就业报告提振了市场对美联储势将加息的预期...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-06-05",
-      "time": "17:46",
       "keywords": []
     },
     {
@@ -474,59 +531,59 @@
       ]
     },
     {
-      "title": "美国银行存款从前一周的 19.285 万亿美元增至 19.333 万亿美元。",
+      "title": "【受美联储加息预期押注影响，美国市场信用恐慌指标的恶化程度创两个月最大】衡量北美信用风险预期的一项核心指标录得两个多月以",
       "source": "Tushare-sina",
       "url": "",
-      "content": "美国银行存款从前一周的 19.285 万亿美元增至 19.333 万亿美元。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-06-06",
-      "time": "04:16",
-      "keywords": []
-    },
-    {
-      "title": "【美国消费者借贷再度强劲增加 创2022年以来最大连续两月增幅】美国消费者借款4月再次强劲增加，创下2022年底以来最大",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【美国消费者借贷再度强劲增加 创2022年以来最大连续两月增幅】美国消费者借款4月再次强劲增加，创下2022年底以来最大的连续两月增幅。美联储周五公布的数据显示，4月未偿信贷总额增加207亿美元，3月修正后为增加222亿美元。接受媒体调查的经济学家预估中值为增加177亿美元。汽车贷款和学费贷款等非循环信贷4月增加91亿美元。信用卡和其他循环信贷未偿余额增加116亿美元。该报告不包括抵押贷款。随着汽",
-      "priority": "high",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-06-06",
-      "time": "04:05",
-      "keywords": []
-    },
-    {
-      "title": "英国央行行长贝利：人工智能对经济增长的传导速度将快于以往各类创新成果。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "英国央行行长贝利：人工智能对经济增长的传导速度将快于以往各类创新成果。",
+      "content": "【受美联储加息预期押注影响，美国市场信用恐慌指标的恶化程度创两个月最大】衡量北美信用风险预期的一项核心指标录得两个多月以来的最大幅度恶化。此前，美国5月份的就业增长超出了所有经济学家的预测，进而推高了债券收益率。标普道琼斯指数公司的CDX投资级指数（该指数随恐慌情绪蔓延而上升）上涨1.58个基点，至52.479。在经过换期调整（Roll-adjusted）的基础上，这创3月27日以来以基点计的最大",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-06",
-      "time": "03:37",
+      "time": "05:40",
       "keywords": []
     },
     {
-      "title": "市场消息：秘鲁总统候选人SÁNCHEZ表示将支持央行行长贝拉德的任职。",
+      "title": "市场消息：美国国务院在国务卿鲁比奥主导下向伊朗世界杯代表队核发签证，附带严苛监管措施。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "市场消息：秘鲁总统候选人SÁNCHEZ表示将支持央行行长贝拉德的任职。",
+      "content": "市场消息：美国国务院在国务卿鲁比奥主导下向伊朗世界杯代表队核发签证，附带严苛监管措施。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-06",
-      "time": "03:33",
+      "time": "05:09",
+      "keywords": []
+    },
+    {
+      "title": "美满电子和伟创力将纳入标普500指数",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamhua7871628.shtml",
+      "content": "标普道琼斯指数在电邮声明中表示，美满电子和伟创力将在6月22日开盘前取代Pool Corp．和金宝汤加入标普500指数。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-05",
+      "time": "21:42",
+      "keywords": []
+    },
+    {
+      "title": "6月6日美股成交额前20：博通业绩指引不及预期，股价三连跌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamamz9160564.shtml",
+      "content": " 周五美股成交额第1名美光科技收跌13.21%，成交679亿美元。周五美股存储概念股普跌，博通公司AI芯片销售前景未达市场过高预期后，各大芯片制造商普跌。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-05",
+      "time": "21:04",
       "keywords": []
     },
     {
@@ -710,48 +767,6 @@
       "period": "night",
       "date": "2026-06-05",
       "time": "18:58",
-      "keywords": []
-    },
-    {
-      "title": "Chipotle获摩根大通上调评级 股价止跌回升",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniakwea2492960.shtml",
-      "content": " Chipotle Mexican Grill股价周五走高，此前摩根大通将该股评级从中性上调至超配，认为这家墨西哥风味快餐连锁店的股价已跌出吸引力。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-05",
-      "time": "18:54",
-      "keywords": []
-    },
-    {
-      "title": "NU E Power公布第四季度业绩，净亏损697万美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniakwef1330676.shtml",
-      "content": "NU E Power Corp．近日公布了截至2025年12月31日的第四季度财务业绩。报告显示，公司第四季度净亏损为697万美元。 截至2025年12月31日，公司持有现金755384美元...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-05",
-      "time": "18:52",
-      "keywords": []
-    },
-    {
-      "title": "美国、墨西哥和加拿大料错过7月美墨加协定续签节点 紧张局势恐加剧",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniakwec9255670.shtml",
-      "content": " 知情人士称，美国、墨西哥和加拿大料将错过7月1日这一续签贸易协议的关键时间节点，这可能导致三国围绕汽车制造业及其他行业的规则和关税展开数月乃至数年的拉锯。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-05",
-      "time": "17:38",
       "keywords": []
     },
     {
@@ -1048,172 +1063,171 @@
       ]
     },
     {
-      "title": "Spartan Delta，Southern Cross Gold被纳入纳入标普多伦多综合指数。",
+      "title": "【美国麻疹确诊病例连续两年超两千】美国疾病控制和预防中心5日公布的数据显示，2026年美国麻疹确诊病例数已达2030例，",
       "source": "Tushare-sina",
       "url": "",
-      "content": "Spartan Delta，Southern Cross Gold被纳入纳入标普多伦多综合指数。",
+      "content": "【美国麻疹确诊病例连续两年超两千】美国疾病控制和预防中心5日公布的数据显示，2026年美国麻疹确诊病例数已达2030例，连续第二年超过2000例。 该机构称，截至目前，2026年已报告30起新的麻疹疫情，约93%的确诊病例与疫情暴发有关。约72%的病例发生在20岁以下人群中。2026年的住院率约为6%，低于2025年的11%。 此外，该机构称约92%的病例发生在未接种麻疹疫苗或疫苗接种情况不明的人",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-06",
-      "time": "04:19",
+      "time": "05:56",
       "keywords": []
     },
     {
-      "title": "Altius，Extendicare，Hammond Power三只个股被纳入标普多伦多综合指数。",
+      "title": "国际货币基金组织：董事会完成对尼泊尔的审议，批准发放4290万美元贷款。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "Altius，Extendicare，Hammond Power三只个股被纳入标普多伦多综合指数。",
+      "content": "国际货币基金组织：董事会完成对尼泊尔的审议，批准发放4290万美元贷款。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-06",
-      "time": "04:18",
+      "time": "05:37",
       "keywords": []
     },
     {
-      "title": "周五（6月5日），美股行业ETF涨跌各异，半导体ETF收盘重挫9.22%，全球科技股指数ETF跌7.32%，科技行业ET",
+      "title": "周五（6月5日），彭博电动汽车价格回报指数跌4.10%，报3776.20点，北京时间08:00开盘以来持续下挫，16:0",
       "source": "Tushare-sina",
       "url": "",
-      "content": "周五（6月5日），美股行业ETF涨跌各异，半导体ETF收盘重挫9.22%，全球科技股指数ETF跌7.32%，科技行业ETF跌6.66%，网络股指数ETF跌3.24%，公用事业ETF涨0.93%，日常消费品ETF涨1.71%。",
+      "content": "周五（6月5日），彭博电动汽车价格回报指数跌4.10%，报3776.20点，北京时间08:00开盘以来持续下挫，16:00-20:00（美国非农就业报告发布之前）持稳于3860点上方，本周累计下跌5.88%，6月3日08:00高开至4108.09点，随后持续走低。",
       "priority": "medium",
       "sectors": [
-        "半导体"
+        "消费"
       ],
       "period": "noon",
       "date": "2026-06-06",
-      "time": "04:15",
+      "time": "05:22",
       "keywords": []
     },
     {
-      "title": "标普维持瑞典主权信用评级 AAA/A-1+，评级展望稳定。",
+      "title": "标普道琼斯指数宣布调整美国相关指数编制规则，美满电子与伟创力即将纳入标普 500 指数成分股。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "  标普维持瑞典主权信用评级 AAA/A-1+，评级展望稳定。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-06",
-      "time": "04:04",
-      "keywords": []
-    },
-    {
-      "title": "半导体指数收盘下跌10%，创2020年3月以来最大跌幅。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "半导体指数收盘下跌10%，创2020年3月以来最大跌幅。",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-06-06",
-      "time": "04:01",
-      "keywords": []
-    },
-    {
-      "title": "【美股收盘：三大股指集体收跌】道指跌1.35%，标普500指数跌2.64%，纳指跌4.10%。迈威尔科技跌15.89%，",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【美股收盘：三大股指集体收跌】道指跌1.35%，标普500指数跌2.64%，纳指跌4.10%。迈威尔科技跌15.89%，Arm Holdings跌12.75%，美光跌12.46%，泰瑞达跌12.16%，英特尔跌11.51%。“七姐妹”方面：谷歌跌0.86%，苹果跌1.09%，微软跌2.57%，亚马逊跌2.98%，Meta Platforms跌5.53%，英伟达跌5.93%，特斯拉跌6.59%。",
+      "content": "标普道琼斯指数宣布调整美国相关指数编制规则，美满电子与伟创力即将纳入标普 500 指数成分股。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-06",
-      "time": "04:00",
+      "time": "05:19",
       "keywords": []
     },
     {
-      "title": "本周，标普500指数累跌约2.4%，道指累跌约0.1%，纳指累跌约4.3%，半导体指数累跌约3.2%，银行指数涨2.8%",
+      "title": "伟创力因纳入标普 500 指数，股价上涨 3.3%。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "本周，标普500指数累跌约2.4%，道指累跌约0.1%，纳指累跌约4.3%，半导体指数累跌约3.2%，银行指数涨2.8%，科技股七巨头指数跌4.5%，存储芯片指数跌5.4%，软件先驱指数跌5%、AI赢家指数跌5.2%，超大规模云服务商指数跌5.9%，加密货币指数跌13.5%。非农就业报告发布当天，标普500指数初步收跌2.5%，科技板块跌5.3%，可选消费、原材料板块跌超2%，日用消费品板块涨1.",
-      "priority": "medium",
-      "sectors": [
-        "半导体",
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-06-06",
-      "time": "04:00",
-      "keywords": []
-    },
-    {
-      "title": "费城半导体指数跌幅扩大至10%。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "费城半导体指数跌幅扩大至10%。",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-06-06",
-      "time": "04:00",
-      "keywords": []
-    },
-    {
-      "title": "【纳斯达克中国金龙指数收跌3.47%】海天网络跌20.06%，亿航跌14.41%，中进医疗跌13.64%，逸仙电商跌13",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【纳斯达克中国金龙指数收跌3.47%】海天网络跌20.06%，亿航跌14.41%，中进医疗跌13.64%，逸仙电商跌13.19%，亿咖通科技跌12.50%。",
+      "content": "伟创力因纳入标普 500 指数，股价上涨 3.3%。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-06",
-      "time": "04:00",
+      "time": "05:19",
       "keywords": []
     },
     {
-      "title": "美国商品期货交易委员会（CFTC）：至6月2日当周，美国投机者将标普500指数CME净空头持仓增加38,113手至485",
+      "title": "POOL CORP, CAMPBELL'S 将被剔除出标普 500 指数。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "美国商品期货交易委员会（CFTC）：至6月2日当周，美国投机者将标普500指数CME净空头持仓增加38,113手至485,582手，股票基金经理将标普500指数CME净多头持仓减少23,807手至985,207手。",
+      "content": "POOL CORP, CAMPBELL'S 将被剔除出标普 500 指数。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-06",
-      "time": "03:59",
+      "time": "05:18",
       "keywords": []
     },
     {
-      "title": "【美元指数5日上涨】美元指数5日上涨。 衡量美元对六种主要货币的美元指数当天上涨0.65%，在汇市尾市收于100.07。",
+      "title": "美满电子美股盘后涨5%，该公司将被纳入标普500指数。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【美元指数5日上涨】美元指数5日上涨。 衡量美元对六种主要货币的美元指数当天上涨0.65%，在汇市尾市收于100.07。 截至纽约汇市尾市，1欧元兑换1.15美元，低于前一交易日的1.16美元；1英镑兑换1.33美元，低于前一交易日的1.34美元。 1美元兑换160.17日元，高于前一交易日的160.02日元；1美元兑换0.7962瑞士法郎，高于前一交易日的0.7892瑞士法郎；1美元兑换1.39",
+      "content": "美满电子美股盘后涨5%，该公司将被纳入标普500指数。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-06",
-      "time": "03:56",
+      "time": "05:17",
       "keywords": []
     },
     {
-      "title": "【本周芝加哥玉米期货跌超6.4%，大豆累跌超5.4%，咖啡累跌超7%】周五（6月5日）纽约尾盘，彭博谷物分类指数跌0.8",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【本周芝加哥玉米期货跌超6.4%，大豆累跌超5.4%，咖啡累跌超7%】周五（6月5日）纽约尾盘，彭博谷物分类指数跌0.84%，报29.3870点，本周累计下跌5.61%，整体平滑地持续下挫。CBOT玉米期货跌1.53%，报4.18美元/蒲式耳，本周累跌6.44%。CBOT小麦期货跌0.22%，报5.8025美元/蒲式耳，本周累跌4.95%。CBOT大豆期货跌0.63%，报11.2225美元/蒲式耳",
-      "priority": "medium",
+      "title": "美国能源部长：美国正洽谈在加州设立石油储备相关事宜",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamhtx9046046.shtml",
+      "content": "美国能源部长赖特本周五透露，特朗普政府正就落地加州石油储备项目开展实质性磋商。该项目落地后既能完善加州石油基建，也会掣肘加州民主党州长加文・纽瑟姆缩减本土化石燃...",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-06-05",
+      "time": "21:52",
+      "keywords": []
+    },
+    {
+      "title": "SpaceX IPO在正式启动推介后不久据悉已获超额认购",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamhtx9043666.shtml",
+      "content": " 据知情人士透露，SpaceX创纪录的750亿美元首次公开募股（IPO），在正式启动推介后不久，所获认购规模就已超过供发售的股份数。",
+      "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
-      "date": "2026-06-06",
-      "time": "03:29",
+      "period": "night",
+      "date": "2026-06-05",
+      "time": "21:44",
+      "keywords": []
+    },
+    {
+      "title": "大宗商品综述：油价走低 基本金属普跌 现货黄金抹去今年涨幅",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamhtw2262364.shtml",
+      "content": " 原油价格下跌，交易员评估需求减弱迹象以及在重开霍尔木兹海峡方面鲜有进展的美伊和平谈判。现货黄金抹去今年涨幅。基本金属普跌。",
+      "priority": "low",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-06-05",
+      "time": "21:31",
+      "keywords": []
+    },
+    {
+      "title": "伊朗战争逼近百日 美伊和平谈判仍陷僵局",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamamy2389803.shtml",
+      "content": "伊朗战争已持续近百日，美国和伊朗在任何潜在停火上仍僵持不下，并且德黑兰方面称其与阿曼对霍尔木兹海峡拥有主权。 继真主党与以色列隔夜在黎巴嫩南部发生冲突后...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-05",
+      "time": "21:22",
+      "keywords": []
+    },
+    {
+      "title": "美股遭遇抛售 但高盛称未见仓位极端拥挤现象",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniamamz9162729.shtml",
+      "content": "3月下旬以来美股持续上涨让投资者有了许多担忧后市的理由。不过，在高盛交易员看来，仓位极端拥挤并非主要忧虑。 高盛衡量整体市场情绪的一项指标目前正徘徊在0.2附近...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-05",
+      "time": "21:10",
       "keywords": []
     },
     {
@@ -1424,118 +1438,6 @@
       "period": "night",
       "date": "2026-06-05",
       "time": "19:06",
-      "keywords": []
-    },
-    {
-      "title": "Meta考虑大规模股权融资加码AI基础设施，股价应声下跌",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniakweh8106471.shtml",
-      "content": " Meta Platforms股价周五大幅下挫，此前有报道称这家社交媒体巨头正考虑进行大规模股权融资，为其人工智能基础设施扩建筹集资金。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-06-05",
-      "time": "18:50",
-      "keywords": []
-    },
-    {
-      "title": "波音考虑提高737产量，但CEO称63架仍是当前目标",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniakweh8106318.shtml",
-      "content": " 波音公司正在研究进一步提升其畅销机型737系列客机月产量的可能性，但首席执行官凯利·奥特伯格明确表示，目前公司仍以每月生产63架为目标。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-05",
-      "time": "18:49",
-      "keywords": []
-    },
-    {
-      "title": "美国多个州准备提起诉讼，阻止派拉蒙对华纳兄弟探索公司的收购",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniakwef1328888.shtml",
-      "content": "派拉蒙与华纳兄弟探索公司股价下跌，消息称多州将提起诉讼阻止合并 多个州准备提起诉讼，以阻止派拉蒙收购华纳兄弟探索公司。 派拉蒙天空之舞与华纳兄弟探索公司的股价大幅...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-05",
-      "time": "18:40",
-      "keywords": []
-    },
-    {
-      "title": "特朗普称政府正探讨与AI企业建立合作关系",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniakwea2490126.shtml",
-      "content": " 美国总统唐纳德·特朗普表示，他在考虑让美国政府与大型人工智能公司建立合作关系的提议，并将很快就此与相关企业高管展开讨论。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-06-05",
-      "time": "18:39",
-      "keywords": []
-    },
-    {
-      "title": "尾盘：纳指重挫1000点 芯片股持续遭抛售",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniakweh8104663.shtml",
-      "content": " 北京时间6月6日凌晨，美股周五尾盘全线下跌，纳指重挫1000点，创近8个月最大跌幅。关键芯片股遭到抛售。远超预期的5月非农就业报告后，美国国债收益率攀升。",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "night",
-      "date": "2026-06-05",
-      "time": "18:38",
-      "keywords": []
-    },
-    {
-      "title": "特朗普称不急于推进房利美与房地美IPO",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniakwea2490013.shtml",
-      "content": " 美国总统特朗普表示，尽管联邦住房金融局局长Bill Pulte将兼任代理国家情报总监，但房利美和房地美的IPO计划并未被排除。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-05",
-      "time": "18:38",
-      "keywords": []
-    },
-    {
-      "title": "特朗普称下周可能在白宫与各大人工智能公司会面",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniakwec9264710.shtml",
-      "content": "美国总统特朗普在谈及各大AI公司时表示：“它们都要来白宫，可能就在下周。” 特朗普在空军一号上向记者发表讲话。 特朗普表示，此次会面将探讨美国人如何从AI中受益。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-05",
-      "time": "18:25",
-      "keywords": []
-    },
-    {
-      "title": "特朗普：在美国的帮助下 大量石油流出霍尔木兹海峡",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-06/doc-iniakweh8102490.shtml",
-      "content": "美国总统特朗普表示，在美国的帮助下，“大量”石油流出霍尔木兹海峡。 特朗普在前往威斯康星州的飞机上表示。 他还表示，大量石油在流入美国。",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "night",
-      "date": "2026-06-05",
-      "time": "18:25",
       "keywords": []
     },
     {
@@ -2539,311 +2441,437 @@
       ]
     },
     {
-      "title": "霍尼韦尔：实施反向股票拆分，将已发行股份缩减至3.17亿股，将法定股本缩减至10亿股。",
+      "title": "特朗普：我们正在了结在伊朗悬而未决的遗留问题。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "霍尼韦尔：实施反向股票拆分，将已发行股份缩减至3.17亿股，将法定股本缩减至10亿股。",
+      "content": "  特朗普：我们正在了结在伊朗悬而未决的遗留问题。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-06",
-      "time": "04:29",
+      "time": "05:59",
       "keywords": []
     },
     {
-      "title": "霍尼韦尔：霍尼韦尔航空航天部门将于2026年6月29日以股票代码HONA在纳斯达克挂牌交易。",
+      "title": "市场消息：以色列情报部门指控美国副总统万斯向土耳其总统埃尔多安泄露了摩萨德借助库尔德武装打击伊朗的行动计划。 据称埃尔多",
       "source": "Tushare-sina",
       "url": "",
-      "content": "霍尼韦尔：霍尼韦尔航空航天部门将于2026年6月29日以股票代码HONA在纳斯达克挂牌交易。",
+      "content": "市场消息：以色列情报部门指控美国副总统万斯向土耳其总统埃尔多安泄露了摩萨德借助库尔德武装打击伊朗的行动计划。 据称埃尔多安以库尔德武装盘踞土边境触碰其红线为由，施压特朗普否决该项行动。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-06",
-      "time": "04:29",
+      "time": "05:59",
       "keywords": []
     },
     {
-      "title": "霍尼韦尔将在分拆完成后推进1股合并为2股的反向股票拆分。",
+      "title": "周五（6月5日）纽约尾盘，美国10年期基准国债收益率涨5.74个基点，报4.5303%，北京时间20:29（非农就业报告",
       "source": "Tushare-sina",
       "url": "",
-      "content": "霍尼韦尔将在分拆完成后推进1股合并为2股的反向股票拆分。",
+      "content": "周五（6月5日）纽约尾盘，美国10年期基准国债收益率涨5.74个基点，报4.5303%，北京时间20:29（非农就业报告发布前60秒）下挫至4.46%下方，数据发布时飙升至4.52%一线，本周累计上涨9.49个基点，交投于4.4217%-4.5522%区间。两年期美债收益率涨10.39个基点，报4.1470%，数据发布前持稳于4.04%，随后拉升至4.10%附近，本周累涨14.30个基点，交投于4",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-06",
-      "time": "04:29",
+      "time": "05:52",
       "keywords": []
     },
     {
-      "title": "霍尼韦尔：将霍尼韦尔航空航天业务分拆的股权登记日定为2026年6月15日。",
+      "title": "【毛里求斯针对埃博拉疫情加强入境限制】毛里求斯5日公布内阁会议决定，暂时禁止在过去21天内有刚果（金）、乌干达或南苏丹旅",
       "source": "Tushare-sina",
       "url": "",
-      "content": "霍尼韦尔：将霍尼韦尔航空航天业务分拆的股权登记日定为2026年6月15日。",
+      "content": "【毛里求斯针对埃博拉疫情加强入境限制】毛里求斯5日公布内阁会议决定，暂时禁止在过去21天内有刚果（金）、乌干达或南苏丹旅行史的外国公民入境。所有前往毛里求斯的航空及海运旅客须在登机或登船前填写“综合旅行表”和“健康申报表”。对出现埃博拉病毒感染症状的旅客，将立即实施隔离并进行临床评估。（新华社）",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-06",
-      "time": "04:29",
+      "time": "05:52",
       "keywords": []
     },
     {
-      "title": "霍尼韦尔董事会确定除息基准日，并公布霍尼韦尔航空航天分拆以及霍尼韦尔反向股票拆分的预期时间安排。",
+      "title": "【美国能源部长：美国正洽谈在加州设立石油储备相关事宜】美国能源部长赖特本周五透露，特朗普政府正就落地加州石油储备项目开展",
       "source": "Tushare-sina",
       "url": "",
-      "content": "霍尼韦尔董事会确定除息基准日，并公布霍尼韦尔航空航天分拆以及霍尼韦尔反向股票拆分的预期时间安排。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-06",
-      "time": "04:28",
-      "keywords": []
-    },
-    {
-      "title": "数字基础设施建设公司ITG Communications LLC.计划IPO，其支持者包括橡树资本。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "数字基础设施建设公司ITG Communications LLC.计划IPO，其支持者包括橡树资本。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-06",
-      "time": "04:22",
-      "keywords": []
-    },
-    {
-      "title": "市场消息：受爱泼斯坦相关风波影响后，高盛首席执行官挽留 公司首席法律顾问留任。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "市场消息：受爱泼斯坦相关风波影响后，高盛首席执行官挽留 公司首席法律顾问留任。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-06",
-      "time": "04:06",
-      "keywords": []
-    },
-    {
-      "title": "标普500终结九连涨走势。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "标普500终结九连涨走势。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-06",
-      "time": "04:05",
-      "keywords": []
-    },
-    {
-      "title": "市场消息：伊拉克苏莱曼尼亚传出爆炸声。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "  市场消息：伊拉克苏莱曼尼亚传出爆炸声。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-06",
-      "time": "04:03",
-      "keywords": []
-    },
-    {
-      "title": "宝洁股价收盘上涨4.1%，创下自2024年1月以来最佳单日表现。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "宝洁股价收盘上涨4.1%，创下自2024年1月以来最佳单日表现。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-06",
-      "time": "04:01",
-      "keywords": []
-    },
-    {
-      "title": "美军通报：过去两个月近千艘商船驶过霍尔木兹海峡。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "  美军通报：过去两个月近千艘商船驶过霍尔木兹海峡。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-06",
-      "time": "03:58",
-      "keywords": []
-    },
-    {
-      "title": "美国商品期货交易委员会(CFTC)：截至6月2日当周，投机者将CBOT美国2年期国债期货净空头持仓增加94,942手至1",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "美国商品期货交易委员会(CFTC)：截至6月2日当周，投机者将CBOT美国2年期国债期货净空头持仓增加94,942手至1,350,188手，美国5年期国债期货净空头持仓增加46,091手至1,369,218手，美国10年期国债期货净空头持仓增加41,621手至829,575手，超长期国债期货净空头持仓增加27,868手至287,710手。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-06",
-      "time": "03:56",
-      "keywords": []
-    },
-    {
-      "title": "【国际油价5日下跌】国际油价5日下跌。 截至当天收盘，纽约商品交易所7月交货的轻质原油期货价格下跌2.5美元，收于每桶9",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【国际油价5日下跌】国际油价5日下跌。 截至当天收盘，纽约商品交易所7月交货的轻质原油期货价格下跌2.5美元，收于每桶90.54美元，跌幅为2.69%；8月交货的伦敦布伦特原油期货价格下跌1.94美元，收于每桶93.09美元，跌幅为2.04%。(新华社)",
+      "content": "【美国能源部长：美国正洽谈在加州设立石油储备相关事宜】美国能源部长赖特本周五透露，特朗普政府正就落地加州石油储备项目开展实质性磋商。该项目落地后既能完善加州石油基建，也会掣肘加州民主党州长加文・纽瑟姆缩减本土化石燃料使用规模的施政计划。相关媒体拿到一份 6 月 2 日的文件，文件由坐拥加州近海三座石油钻井平台的萨布尔近海石油公司法务团队递交至美国能源部。文件显示，该企业提议在西海岸建设战略石油储备",
       "priority": "low",
       "sectors": [
         "能源"
       ],
       "period": "noon",
       "date": "2026-06-06",
-      "time": "03:54",
+      "time": "05:51",
       "keywords": []
     },
     {
-      "title": "市场消息：美国司法部派员前往洛杉矶监督计票工作。",
+      "title": "特朗普：伊朗多数防空力量已遭摧毁，但仍保有作战能力。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "市场消息：美国司法部派员前往洛杉矶监督计票工作。",
+      "content": "特朗普：伊朗多数防空力量已遭摧毁，但仍保有作战能力。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-06",
-      "time": "03:47",
+      "time": "05:47",
       "keywords": []
     },
     {
-      "title": "【哈马斯代表团抵达埃及 与斡旋方讨论落实加沙停火】巴勒斯坦伊斯兰抵抗运动（哈马斯）5日发表声明说，其领导层代表团当天抵达",
+      "title": "美国能源部长赖特：美国正考量在加利福尼亚州筹建石油储备库。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【哈马斯代表团抵达埃及 与斡旋方讨论落实加沙停火】巴勒斯坦伊斯兰抵抗运动（哈马斯）5日发表声明说，其领导层代表团当天抵达埃及首都开罗，将于6日起与斡旋方讨论切实在加沙地带实现停火。声明说，代表团由哈马斯高级官员哈利勒·哈亚率领。会谈预计持续数日，其间代表团将与埃方官员和相关斡旋人员会面，以期切实落实加沙停火第一阶段协议，停止以色列对加沙地带的持续袭击，并建立进入停火第二阶段的适当机制。声明说，代表",
+      "content": "   美国能源部长赖特：美国正考量在加利福尼亚州筹建石油储备库。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-06-06",
+      "time": "05:46",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：我们掌握伊朗无人机工厂的具体位置。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "  特朗普：我们掌握伊朗无人机工厂的具体位置。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-06",
-      "time": "03:46",
+      "time": "05:45",
       "keywords": []
     },
     {
-      "title": "纽约期银失守68美元/盎司，日内跌8.08%。",
+      "title": "特朗普谈及相关协议：伊朗别无选择，只是还需要一点时间。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "纽约期银失守68美元/盎司，日内跌8.08%。",
+      "content": "  特朗普谈及相关协议：伊朗别无选择，只是还需要一点时间。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-06",
-      "time": "03:42",
+      "time": "05:45",
       "keywords": []
     },
     {
-      "title": "纽约期银日内跌8%，现报68.02美元/盎司。",
+      "title": "特朗普谈及伊朗迟迟不愿达成协议的缘由：这件事对伊朗而言难度极大。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "纽约期银日内跌8%，现报68.02美元/盎司。",
+      "content": "特朗普谈及伊朗迟迟不愿达成协议的缘由：这件事对伊朗而言难度极大。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-06",
-      "time": "03:42",
+      "time": "05:44",
       "keywords": []
     },
     {
-      "title": "美国海关与边境保护局：铝、钢、铜全新关税制度将于 6 月 8 日正式生效。",
+      "title": "特朗普：伊朗还有一些导弹，我们知道它们在哪儿。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "美国海关与边境保护局：铝、钢、铜全新关税制度将于 6 月 8 日正式生效。",
-      "priority": "low",
-      "sectors": [
-        "有色"
-      ],
-      "period": "noon",
-      "date": "2026-06-06",
-      "time": "03:38",
-      "keywords": []
-    },
-    {
-      "title": "伊朗媒体表示，美国尚未向伊朗足球队参加世界杯的部分技术及行政工作人员发放签证。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "伊朗媒体表示，美国尚未向伊朗足球队参加世界杯的部分技术及行政工作人员发放签证。",
+      "content": "特朗普：伊朗还有一些导弹，我们知道它们在哪儿。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-06",
-      "time": "03:38",
+      "time": "05:44",
       "keywords": []
     },
     {
-      "title": "比特币挖矿公司CleanSpark价跌幅收窄至10%，此前曾一度下跌16%。",
+      "title": "特朗普：伊朗目前仍剩余 21% 至 22% 的导弹库存。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "比特币挖矿公司CleanSpark价跌幅收窄至10%，此前曾一度下跌16%。",
+      "content": "  特朗普：伊朗目前仍剩余 21% 至 22% 的导弹库存。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-06",
-      "time": "03:36",
+      "time": "05:42",
       "keywords": []
     },
     {
-      "title": "美国商品期货交易委员会（CFTC）：6月2日当周，投机者所持COMEX黄金净多头头寸增加14,410手合约，至111,3",
+      "title": "特朗普：伊朗万万没想到自身势力近乎遭到重创。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "美国商品期货交易委员会（CFTC）：6月2日当周，投机者所持COMEX黄金净多头头寸增加14,410手合约，至111,341手合约，创18周新高。投机者所持NYMEX WTI原油净多头头寸增加8,497手合约，至124,259手合约。",
-      "priority": "low",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "noon",
-      "date": "2026-06-06",
-      "time": "03:34",
-      "keywords": []
-    },
-    {
-      "title": "市场消息： 秘鲁总统候选人SÁNCHEZ承诺恢复与墨西哥外交关系。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "市场消息： 秘鲁总统候选人SÁNCHEZ承诺恢复与墨西哥外交关系。",
+      "content": "  特朗普：伊朗万万没想到自身势力近乎遭到重创。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-06",
-      "time": "03:34",
+      "time": "05:41",
+      "keywords": []
+    },
+    {
+      "title": "市场消息：过去一小时内，波斯湾北部的伊朗哈尔克岛传出爆炸与防空作战相关动向。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "市场消息：过去一小时内，波斯湾北部的伊朗哈尔克岛传出爆炸与防空作战相关动向。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-06",
+      "time": "05:39",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：我并不怎么看好西班牙。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "  特朗普：我并不怎么看好西班牙。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-06",
+      "time": "05:38",
+      "keywords": []
+    },
+    {
+      "title": "Netflix任命Jay Hoag为董事会主席，自年度股东大会起生效。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "Netflix任命Jay Hoag为董事会主席，自年度股东大会起生效。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-06",
+      "time": "05:37",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：我们正朝着完成和批准农业法案的目标稳步前进。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "特朗普：我们正朝着完成和批准农业法案的目标稳步前进。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-06",
+      "time": "05:37",
+      "keywords": []
+    },
+    {
+      "title": "市场消息：美国司法部周五通报，美军扣押一艘超大型油轮，美方称该船隶属于伊朗 “幽灵船队”，涉嫌运输遭制裁的伊朗原油。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "  市场消息：美国司法部周五通报，美军扣押一艘超大型油轮，美方称该船隶属于伊朗 “幽灵船队”，涉嫌运输遭制裁的伊朗原油。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-06-06",
+      "time": "05:36",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：伊朗冲突结束后，我们准备“大干一场”。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "特朗普：伊朗冲突结束后，我们准备“大干一场”。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-06",
+      "time": "05:36",
+      "keywords": []
+    },
+    {
+      "title": "美国能源部长赖特：已尝试就该州炼油产能紧张问题与加州州长纽森展开合作。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "美国能源部长赖特：已尝试就该州炼油产能紧张问题与加州州长纽森展开合作。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-06-06",
+      "time": "05:35",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：马斯克之前有过一段不愉快的经历，但现在他是我朋友。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "特朗普：马斯克之前有过一段不愉快的经历，但现在他是我朋友。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-06",
+      "time": "05:29",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：埃隆·马斯克80%的时候很聪明，20%的时候很糟糕。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "特朗普：埃隆·马斯克80%的时候很聪明，20%的时候很糟糕。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-06",
+      "time": "05:29",
+      "keywords": []
+    },
+    {
+      "title": "【墨西哥西南部近海地区发生5.4级地震】根据欧洲-地中海地震中心报告，当地时间5日14时55分，墨西哥西南部格雷罗州近海",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "【墨西哥西南部近海地区发生5.4级地震】根据欧洲-地中海地震中心报告，当地时间5日14时55分，墨西哥西南部格雷罗州近海地区发生5.4级地震，震源深度32公里。目前暂无人员伤亡及财产损失报告。（央视新闻）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-06",
+      "time": "05:29",
+      "keywords": []
+    },
+    {
+      "title": "市场消息：阿波罗全球管理公司与黑石集团已为Anthropic敲定一笔350亿美元的融资计划，用于扩建该公司的人工智能基础",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "市场消息：阿波罗全球管理公司与黑石集团已为Anthropic敲定一笔350亿美元的融资计划，用于扩建该公司的人工智能基础设施。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-06",
+      "time": "05:19",
+      "keywords": []
+    },
+    {
+      "title": "加拿大食品检验局：将对从美国受影响地区输入加拿大的牲畜（包括马）实施临时进口限制。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "加拿大食品检验局：将对从美国受影响地区输入加拿大的牲畜（包括马）实施临时进口限制。",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-06-06",
+      "time": "05:19",
+      "keywords": []
+    },
+    {
+      "title": "富时A50期指连续夜盘收跌0.68%，报15308点。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "富时A50期指连续夜盘收跌0.68%，报15308点。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-06",
+      "time": "05:15",
+      "keywords": []
+    },
+    {
+      "title": "美国能源部长赖特：要保障霍尔木兹海峡有足够输油量以压低汽油和柴油价格，最终仍需要通过与伊朗达成决议来实现。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "美国能源部长赖特：要保障霍尔木兹海峡有足够输油量以压低汽油和柴油价格，最终仍需要通过与伊朗达成决议来实现。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-06-06",
+      "time": "05:14",
+      "keywords": []
+    },
+    {
+      "title": "特朗普谈及能源与化肥领域：正在筹划相关举措。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "  特朗普谈及能源与化肥领域：正在筹划相关举措。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-06-06",
+      "time": "05:13",
+      "keywords": []
+    },
+    {
+      "title": "特朗普称赞过去两个月就业数据向上修正。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "  特朗普称赞过去两个月就业数据向上修正。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-06",
+      "time": "05:13",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：加拿大对待我们农民太苛刻了。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "特朗普：加拿大对待我们农民太苛刻了。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-06",
+      "time": "05:11",
+      "keywords": []
+    },
+    {
+      "title": "特朗普谈及伊朗战事：这算不上一场大规模战争，只是军事冲突，属于演练性质。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "  特朗普谈及伊朗战事：这算不上一场大规模战争，只是军事冲突，属于演练性质。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-06",
+      "time": "05:11",
       "keywords": []
     }
   ]
