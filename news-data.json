@@ -1,99 +1,123 @@
 {
-  "updated": "2026-06-08T21:03:12.215506",
-  "total": 188,
+  "updated": "2026-06-08T23:49:43.414695",
+  "total": 183,
   "sources": [
     "新浪财经",
     "akshare-财新",
     "Tushare"
   ],
   "priority_dist": {
-    "high": 26,
+    "high": 33,
     "medium": 38,
-    "low": 124
+    "low": 112
   },
   "items": [
     {
-      "title": "城堡证券：通胀压力或迫使美联储很快加息",
+      "title": "6月9日财经早餐：加息预期与强势美元施压，金价或测试4250关口",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-06-09/doc-iniauefa3392086.shtml",
+      "content": "汇通财经APP讯——周二（北京时间6月9日）亚市早盘，现货黄金交投于4327.50美元/盎司附近，美联储加息的预期增加，美元持续走强打压金价，周一一度触及4268美元/盎司附近...",
+      "priority": "high",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "23:22",
+      "keywords": [
+        "美元",
+        "特朗普",
+        "美联储",
+        "金价",
+        "加息"
+      ]
+    },
+    {
+      "title": "哥伦比亚大学研究称私函评级虚高 掩盖信用风险",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxf5355508.shtml",
-      "content": " 城堡证券认为，投资者面临的下一个重大风险是金融环境的收紧，因为美联储可能“很快”需要加息，以遏制日益加剧的通胀压力。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniauefa3390159.shtml",
+      "content": " 哥伦比亚商学院研究人员的最新研究显示，在近年来华尔街最热门领域 —— 规模1.8万亿美元的私募信贷市场中，支撑其中越来越大一部分资产的评级系统性地低估了投资风险。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "night",
       "date": "2026-06-08",
-      "time": "20:16",
+      "time": "23:21",
       "keywords": []
     },
     {
-      "title": "Oculis三期临床试验失败致股价暴跌，多家律所启动证券欺诈调查",
+      "title": "韩国一季度GDP环比增长1.8%，创五年多来最快增速",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattri5478581.shtml",
-      "content": "生物制药公司Oculis Holding AG（纳斯达克代码：OCS）正面临多家股东权益律师事务所的证券欺诈调查。继2026年5月29日披露其核心候选药物OCS-01的两项三期临床试验失败后...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniaueff2056941.shtml",
+      "content": "韩国央行周四公布的数据显示，受强劲出口和稳健内需的支撑，韩国今年第一季度增速创五年多来最快。 韩国央行初步数据显示，1月至3月实际国内生产总值（GDP）环比增长1.8%...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "night",
       "date": "2026-06-08",
-      "time": "19:47",
+      "time": "23:09",
       "keywords": []
     },
     {
-      "title": "Amplitude下调盈利展望引发股价暴跌，多家律所启动证券欺诈调查",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattre6789293.shtml",
-      "content": "数字分析平台Amplitude， Inc．（纳斯达克代码：AMPL）正面临多家股东权益律师事务所的证券欺诈调查。继5月初公布一季报并大幅下调全年盈利指引后...",
+      "title": "30年期美债利率再破5% 外资押注多元化另类资产",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/roll/2026-06-09/doc-iniaueey6606337.shtml",
+      "content": "5月美国非农数据引发的连锁反应，正以超预期强度重塑全球资产定价逻辑。 作为全球资产定价之锚，美债收益率急速拉升，正在把市场推进一场“洗牌”：海外资金“用脚投票”...",
       "priority": "high",
       "sectors": [
-        "综合"
+        "金融"
       ],
       "period": "night",
       "date": "2026-06-08",
-      "time": "19:36",
+      "time": "23:00",
+      "keywords": [
+        "资产",
+        "利率",
+        "美债"
+      ]
+    },
+    {
+      "title": "通用汽车车轴供应商的罢工仍在继续",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxi2163133.shtml",
+      "content": "据当地工会官员透露，通用汽车卡车的一家主要供应商周一进入罢工第二周，美国汽车工人联盟与道奇公司仍未能达成协议。 “很遗憾，我们刚刚离开了谈判桌。",
+      "priority": "high",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "22:02",
       "keywords": []
     },
     {
-      "title": "业绩暴雷叠加战略突变，Angi Inc.遭多家律所证券欺诈调查",
+      "title": "美国股市：纳斯达克100指数创逾一周最大涨幅 芯片股带动美股回升",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattri5474807.shtml",
-      "content": "家居服务平台Angi Inc．（纳斯达克代码：ANGI）正面临多家股东权益律师事务所的证券欺诈调查。继5月初公布惨淡的一季报导致股价单日暴跌逾35%后...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxa6693580.shtml",
+      "content": "标普500指数周一上涨，收复上周部分跌幅，芯片股大涨，同时投资者评估中东紧张局势缓和的影响。标普500指数上涨0.3%。上周五，强劲就业数据推动市场提高对美联储加息的预期...",
       "priority": "high",
       "sectors": [
-        "综合"
+        "半导体"
       ],
       "period": "night",
       "date": "2026-06-08",
-      "time": "19:33",
+      "time": "21:25",
       "keywords": []
     },
     {
-      "title": "Amylyx将在ENDO 2026年会公布两项重磅海报，聚焦减肥术后低血糖",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattra5137431.shtml",
-      "content": "Amylyx Pharmaceuticals， Inc．（纳斯达克代码：AMLX）近日宣布，将于6月13日至16日在芝加哥举行的美国内分泌学会年会（ENDO 2026）上...",
+      "title": "金融监管总局：整治无序竞争 多渠道补充资本",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-09/doc-iniatxxf5366018.shtml",
+      "content": "【相关阅读】金融监管总局：要加快制定与房地产发展新模式相适应的融资制度 金融监管总局最新发声！坚定推进中小金融机构减量提质...",
       "priority": "high",
       "sectors": [
-        "综合"
+        "金融"
       ],
       "period": "night",
       "date": "2026-06-08",
-      "time": "19:13",
-      "keywords": []
-    },
-    {
-      "title": "IGI获准进驻印度GIFT City，南亚市场布局取得突破",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattre6781023.shtml",
-      "content": "独立珠宝首饰鉴定实验室国际宝石学院（International Gemological Institute，简称IGI）近日宣布，已正式获得印度国际金融服务中心管理局（IFSCA）颁发的运营许可证...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "19:03",
+      "time": "21:00",
       "keywords": []
     },
     {
@@ -388,201 +412,294 @@
       ]
     },
     {
-      "title": "【6月9日美股成交额前20：英特尔获谷歌300万颗TPU大单】第6名英特尔收高11.19%，成交148.7亿美元。周一该",
+      "title": "【城堡证券：通胀压力或迫使美联储很快加息】城堡证券称，大规模人工智能投资周期、能源市场趋紧以及劳动力市场走强共同推高了经",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【6月9日美股成交额前20：英特尔获谷歌300万颗TPU大单】第6名英特尔收高11.19%，成交148.7亿美元。周一该股股价创一个月来最大涨幅，此前有报道称，Alphabet旗下谷歌将2028年逾300万颗专用AI芯片订单交给英特尔。据两名未具名知情人士透露，在经过数月技术测试后，谷歌决定选择英特尔生产部分张量处理器（TPU）。消息人士称，随着台积电难以满足市场强劲需求，英特尔正从谷歌等公司获得",
+      "content": "【城堡证券：通胀压力或迫使美联储很快加息】城堡证券称，大规模人工智能投资周期、能源市场趋紧以及劳动力市场走强共同推高了经济增长和通胀的上行风险，“美联储的下一步行动很可能是加息……也许很快”。",
+      "priority": "high",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-06-09",
+      "time": "07:38",
+      "keywords": []
+    },
+    {
+      "title": "【中信建投：低轨卫星组网加速，Computex多款新品发布】中信建投研报指出，千帆星座一周三次组网发射，在轨卫星达到20",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "【中信建投：低轨卫星组网加速，Computex多款新品发布】中信建投研报指出，千帆星座一周三次组网发射，在轨卫星达到200颗。6月文昌计划5次发射任务，近期多款民营火箭首飞在即，火箭供给端逐步丰富叠加发射服务保障能力完善，商业航天产业进程有望加速。SpaceX上市在即，有望快速纳入纳指，板块有望迎来价值重估。Computex多款新品重磅发布，云端向机柜级发展，同时端侧落地进一步加速。英伟达、英特尔",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-09",
-      "time": "04:46",
+      "time": "07:29",
       "keywords": []
     },
     {
-      "title": "【城堡证券认为通胀压力或迫使美联储很快加息】城堡证券认为，投资者面临的下一个重大风险是金融环境的收紧，因为美联储可能“很",
+      "title": "【中信建投：市场成交处于高位，盈利韧性与估值低位支撑非银投资价值】中信建投研报指出，本周股票成交额环比出现回落，但继续维",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【城堡证券认为通胀压力或迫使美联储很快加息】城堡证券认为，投资者面临的下一个重大风险是金融环境的收紧，因为美联储可能“很快”需要加息，以遏制日益加剧的通胀压力。该机构的欧洲、中东和非洲(EMEA)固定收益销售主管Nohshad Shah在客户报告中写道，大规模人工智能投资周期、能源市场趋紧以及劳动力市场走强共同推高了经济增长和通胀的上行风险。“美联储的下一步行动很可能是加息……也许很快，”Shah",
+      "content": "【中信建投：市场成交处于高位，盈利韧性与估值低位支撑非银投资价值】中信建投研报指出，本周股票成交额环比出现回落，但继续维持高位，市场交投情绪仍在较高水平。当前保险板块估值具有较高配置价值，当前股价过度反映较高基数带来的潜在业绩增速压力，资产端回暖有望带动二季度利润增速和股价修复。港股非银板块在低估值特征与盈利改善预期共振下中长期配置价值凸显。监管逻辑趋稳、促消费导向明确、AI技术提效的背景下，消费",
       "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-09",
+      "time": "07:29",
+      "keywords": []
+    },
+    {
+      "title": "【欧盟内部围绕推动俄乌谈判存在分歧】欧盟外交与安全政策高级代表卡拉斯8日表示，必须做出一切努力，以便俄罗斯和乌克兰能够进",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "【欧盟内部围绕推动俄乌谈判存在分歧】欧盟外交与安全政策高级代表卡拉斯8日表示，必须做出一切努力，以便俄罗斯和乌克兰能够进行对话，同时欧洲的核心安全利益也需要得到尊重。但卡拉斯认为现在不是与俄罗斯就乌克兰问题展开谈判的合适时机。总台记者获悉，目前欧盟内部对于如何推动谈判以及何时启动实质性接触仍存在不同看法，一些国家认为目前尚不具备与俄方开展严肃谈判的条件。英法德三国领导人7日在伦敦与乌克兰总统泽连斯",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-09",
+      "time": "07:25",
+      "keywords": []
+    },
+    {
+      "title": "【哥伦比亚大学研究称私函评级虚高 掩盖信用风险】哥伦比亚商学院研究人员的最新研究显示，在近年来华尔街最热门领域 —— 规",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "【哥伦比亚大学研究称私函评级虚高 掩盖信用风险】哥伦比亚商学院研究人员的最新研究显示，在近年来华尔街最热门领域 —— 规模1.8万亿美元的私募信贷市场中，支撑其中越来越大一部分资产的评级系统性地低估了投资风险。这一发现来自本月在线发表、尚未经过同行评审的一篇论文，加剧了外界对美国寿险行业潜藏风险的担忧。保险公司正加码押注私募信贷，为打造这些产品的金融家带来了丰厚收益，同时促使主要监管机构和分析师警",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-09",
+      "time": "07:20",
+      "keywords": []
+    },
+    {
+      "title": "【Moderna：获得英国批准开展林奇综合征癌症疫苗试验】Moderna 已获得英国药品和保健产品监管局的批准，开展 m",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "【Moderna：获得英国批准开展林奇综合征癌症疫苗试验】Moderna 已获得英国药品和保健产品监管局的批准，开展 mRNA-4194 的 1/2 期研究，这是一种用于治疗林奇综合征的在研 mRNA 癌症疫苗。",
+      "priority": "high",
+      "sectors": [
+        "医药"
+      ],
+      "period": "noon",
+      "date": "2026-06-09",
+      "time": "07:09",
+      "keywords": []
+    },
+    {
+      "title": "OpenAI周一表示，该公司近期已就美国首次公开募股（IPO）提交了保密申请，与竞争对手Anthropic一道进军股市，",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "OpenAI周一表示，该公司近期已就美国首次公开募股（IPO）提交了保密申请，与竞争对手Anthropic一道进军股市，以吸引投资者关注人工智能热潮。CERITY PARTNERS合伙人舒尔曼（Michael Ashley Schulman）点评称，“毫无疑问，OpenAI正在保持各种可能性，因为Anthropic在完成一轮巨额融资后已率先提交了上市申请。但这两家巨头都遵循着由各自面临的监管风暴和",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-06-09",
+      "time": "07:06",
+      "keywords": []
+    },
+    {
+      "title": "除了头版内容，今天《人民日报》涉及财经的主要内容还包括：\n1、丁薛祥出席三峡水运新通道工程开工仪式\n2、国务院印发《现代",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "除了头版内容，今天《人民日报》涉及财经的主要内容还包括：\n1、丁薛祥出席三峡水运新通道工程开工仪式\n2、国务院印发《现代化应急体系建设“十五五”规划》\n3、建设“好房子”，改造老旧小区、老旧街区厂区……城市更新聚焦23项重点任务（权威发布）\n4、“换道超车”的门道（评论员观察）\n5、四川推动种业振兴 打造新时代更高水平的“天府粮仓”\n6、形成覆盖多元赛道的万亿元产业规模 情绪消费新场景加速涌现（大",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-09",
+      "time": "07:02",
+      "keywords": []
+    },
+    {
+      "title": "日经指数在周一遭抛售后或将反弹",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniaueff2072555.shtml",
+      "content": "随着对中东冲突升温的担忧有所缓解，日本股市在周一遭抛售后或将反弹。新加坡交易所的日经指数期货上涨2.5%，至65515点。在OpenAI申请上市后，科技股成为关注焦点。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "23:48",
+      "keywords": []
+    },
+    {
+      "title": "MSCI称SpaceX有望在上市10个交易日后被纳入其指数",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniauefc5292901.shtml",
+      "content": " 指数提供商MSCI周一确认，将沿用现行规则，把大型首次公开募股（IPO）提前纳入其全球标准指数。这可能为SpaceX纳入指数扫清障碍，从而刺激被动管理型投资基金的需求。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "23:37",
+      "keywords": []
+    },
+    {
+      "title": "三生制药获汇添富基金管理增持18.6万股 每股作价约16.31港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-09/doc-iniaueff2064796.shtml",
+      "content": "香港联交所最新数据显示，6月3日，汇添富基金管理股份有限公司增持三生制药（01530）18.6万股，每股作价16.3139港元，总金额约为303.44万港元。",
+      "priority": "medium",
       "sectors": [
         "金融"
       ],
-      "period": "noon",
-      "date": "2026-06-09",
-      "time": "03:49",
-      "keywords": []
-    },
-    {
-      "title": "6月9日热门中概股涨跌不一 日月光半导体涨4.29%，拼多多跌2.88%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxf5355878.shtml",
-      "content": "6月9日热门中概股涨跌不一，纳斯达克中国金龙指数（HXC）收跌0.62%。 上涨个股（按市值从高到低）：台积电涨2.77%，日月光半导体涨4.29%，联电涨1.42%，理想汽车涨2.32%...",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
       "period": "night",
       "date": "2026-06-08",
-      "time": "20:18",
-      "keywords": []
+      "time": "23:27",
+      "keywords": [
+        "三生制药",
+        "汇添富基金",
+        "增持"
+      ]
     },
     {
-      "title": "6月9日收盘：道指连续第二日收跌 芯片股推动纳指与标普指数反弹",
+      "title": "标普下调捷蓝航空评级至“CCC+”，因燃油价格上涨阻碍其复苏",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxf5353012.shtml",
-      "content": "北京时间6月9日凌晨，美股周一收盘涨跌不一，道指收跌，纳指与标普500指数反弹。芯片股在上周遭遇猛烈抛售后企稳。市场继续关注持续发酵的中东紧张局势...",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "20:06",
-      "keywords": []
-    },
-    {
-      "title": "周一美股半导体股收复部分失地",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattri5481507.shtml",
-      "content": "半导体股在周一抹去了此前一个交易日的部分跌幅。iShares半导体ETF（SOXX）在午盘交易中跃升近7%，有望创下一年多来的最佳单日表现。",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "19:58",
-      "keywords": []
-    },
-    {
-      "title": "Needham上调渤健评级，看好产品线前景改善",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattrh3572819.shtml",
-      "content": "Needham &amp; Company已改变对渤健（Biogen）的观望态度，将该生物科技公司的股票评级从“持有”上调至“买入”，并于周一生效。该机构给出的新目标价为255美元...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniauefa3386115.shtml",
+      "content": " 全球评级机构标普周一表示，已将捷蓝航空的评级从“B-”下调至“CCC+”，进一步跌入垃圾级区间，因为高昂的航空燃油成本阻碍了其复苏。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "night",
       "date": "2026-06-08",
-      "time": "19:56",
+      "time": "23:14",
       "keywords": []
     },
     {
-      "title": "标普全球携手Cohere，为金融机构打造可信AI智能体工作流",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattrm2254106.shtml",
-      "content": "标普全球公司（S&amp;P Global，纽约证券交易所代码：SPGI）近日宣布与加拿大AI公司Cohere达成战略合作，将其金融数据整合至Cohere的企业级AI平台North中...",
+      "title": "多家公募解析市场调整：短期休整不改科技牛中期主线，资金转向红利与高股息避险",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/original/2026-06-09/doc-iniauefa3383281.shtml",
+      "content": "6月8日，A股遭遇明显调整，上证指数失守4000点，收跌1.70%，创业板指大跌3.69%。盘面上，AI硬件、半导体、CPO等前期强势的科技板块全线回调，银行...",
       "priority": "medium",
       "sectors": [
-        "金融",
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "23:09",
+      "keywords": []
+    },
+    {
+      "title": "美股存储芯片集体反弹，以色列与伊朗暂缓交火，国际油价冲高回落",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/wm/2026-06-09/doc-iniaueff2055112.shtml",
+      "content": " 北京时间6月9日凌晨，美国三大股指收盘涨跌不一，道指跌0.16%报50786.01点，标普500指数涨0.3%报7405.73点，纳指涨0.86%报25929.66点。",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "23:02",
+      "keywords": [
+        "美股",
+        "油价",
+        "原油"
+      ]
+    },
+    {
+      "title": "全球科技板块波动警示资金扎堆风险",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/roll/2026-06-09/doc-iniaueff2057290.shtml",
+      "content": " 上周五，美国三大股指全线下挫，以科技股为主的纳斯达克指数单日重挫4.15%。本周一，韩国综合指数开盘后一度触发熔断机制，最终收跌8.29%；A股主要指数也受到了影响。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "23:00",
+      "keywords": [
+        "美国",
+        "全球科技",
+        "A股",
+        "AI"
+      ]
+    },
+    {
+      "title": "6月9日隔夜要闻：特朗普将宣布对伊取得全面胜利 苹果发布新一代AI平台 英特尔获谷歌300万颗TPU大单",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxe3489781.shtml",
+      "content": "市场 6月9日收盘：道指连续第二日收跌 芯片股推动纳指与标普指数反弹 6月9日美股成交额前20：英特尔获谷歌300万颗TPU大单 6月9日热门中概股涨跌不一 日月光半导体涨4.29%...",
+      "priority": "medium",
+      "sectors": [
         "AI"
       ],
       "period": "night",
       "date": "2026-06-08",
-      "time": "19:45",
+      "time": "22:30",
       "keywords": []
     },
     {
-      "title": "半导体泰斗Nicholas Donofrio加入Corvex董事会，助力AI业务发展",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattre6790422.shtml",
-      "content": "Corvex， Inc．（纳斯达克代码：MOVE）近日宣布，半导体与计算行业资深专家Nicholas M． Donofrio将在公司即将召开的年度股东大会上当选后加入董事会。",
-      "priority": "medium",
-      "sectors": [
-        "半导体",
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "19:40",
-      "keywords": []
-    },
-    {
-      "title": "Badger Meter被指虚增业绩，投资者集体诉讼申请截至8月3日",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattre6787400.shtml",
-      "content": "知名股东权益诉讼律师事务所The Schall Law Firm近日提醒Badger Meter， Inc．（纽约证券交易所代码：BMI）的投资者，针对该公司的证券欺诈集体诉讼中...",
+      "title": "全球科技股共振下跌 机构称中期积极配置成长板块",
+      "source": "中国证券报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-06-09/doc-iniaueey6590514.shtml",
+      "content": "全球科技股共振下跌。在美股科技股当地时间6月5日大跌后，6月8日，日经225指数跌近4%，韩国综合指数跌逾8%。A股市场调整，大盘科技股带动三大指数下跌，深证成指...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "night",
       "date": "2026-06-08",
-      "time": "19:30",
-      "keywords": []
+      "time": "22:14",
+      "keywords": [
+        "科技股",
+        "融资",
+        "创业板指",
+        "股票",
+        "点数"
+      ]
     },
     {
-      "title": "观点综述：强劲就业数据发布后华尔街纷纷上调美债收益率预期",
+      "title": "蒙特利尔银行：做多美元仍是最佳交易之一 高利率、高通胀格局有望支撑其继续走强",
+      "source": "智通财经APP",
+      "url": "https://finance.sina.com.cn/money/forex/forexroll/2026-06-09/doc-iniaueff2042743.shtml",
+      "content": " 加拿大蒙特利尔银行（BMO）表示，在全球经济逐渐进入“高利率、高通胀”的新宏观环境下，继续看涨美元仍然是外汇市场最具吸引力的交易策略之一。",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "22:00",
+      "keywords": [
+        "利率",
+        "美元",
+        "美国",
+        "通胀",
+        "蒙特利尔银行"
+      ]
+    },
+    {
+      "title": "纽约汇市：美元指数涨势逆转 中东紧张局势降温",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattri5473774.shtml",
-      "content": "摩根大通的策略师认为，强劲的美国经济将在未来几个月推动基准国债收益率升至新的高点。 由Jay Barry领导的团队将10年期国债收益率的年底预测值（ 周一美国交易时段约为4...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxa6704768.shtml",
+      "content": " 美元指数周一下跌，此前一度触及两个月高点。伊朗和以色列同意暂停交火，缓解了市场对和平谈判受挫的担忧，油价和债券收益率均从盘中高点回落。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "night",
       "date": "2026-06-08",
-      "time": "19:29",
-      "keywords": []
-    },
-    {
-      "title": "Jackson推出挂钩道琼斯指数的新型RILA，首创六年期费率锁定功能",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattra5137948.shtml",
-      "content": "Jackson National Life Insurance Company（Jackson）近日宣布推出Jackson Market Link Pro 4（JMLP4）和Jackson Market Link Pro Advisory 4（JMLPA4）...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "19:15",
-      "keywords": []
-    },
-    {
-      "title": "洲际交易所：美国一季度房屋净值提取量创四年新高",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattre6780137.shtml",
-      "content": "洲际交易所（Intercontinental Exchange， Inc．，纽约证券交易所代码：ICE）最新发布的2026年6月抵押贷款监测报告显示，美国房主在第一季度提取的房屋净值规模创下自2021...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "19:00",
-      "keywords": []
-    },
-    {
-      "title": "北方信托申请豁免以在旗下多系列信托中增设ETF份额类别",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattre6779656.shtml",
-      "content": "北方信托（Northern Trust， 纳斯达克代码：NTRS）周一正式宣布，已为其赞助的两只多系列信托提交了豁免救济申请，计划在现有的共同基金份额类别旁增设交易所交易基金（ETF...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "18:58",
-      "keywords": []
-    },
-    {
-      "title": "尾盘：道指基本持平 纳指与标普指数维持涨势",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattrh3555907.shtml",
-      "content": " 北京时间6月9日凌晨，美股周一尾盘维持涨势。芯片股在上周遭遇猛烈抛售后出现企稳反弹迹象。市场继续关注持续发酵的中东紧张局势，以及本周五SpaceX史诗级IPO的临近。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "18:54",
+      "time": "21:53",
       "keywords": []
     },
     {
@@ -910,88 +1027,546 @@
       ]
     },
     {
-      "title": "【MSCI称将对SpaceX IPO采用标准方法】MSCI称，打算对SpaceX的首次公开募股（IPO）采用针对大型IP",
+      "title": "【证券日报：住房租赁市场释放企稳信号】根据中指研究院50城住宅租赁价格指数，5月份，50个城市住宅平均租金为33.94元",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【MSCI称将对SpaceX IPO采用标准方法】MSCI称，打算对SpaceX的首次公开募股（IPO）采用针对大型IPO的标准方法。MSCI表示，SpaceX必须符合指数成份股资格规则，才会被考虑提前纳入指数，有关提前纳入的决定将于第十个交易日收盘时生效。",
+      "content": "【证券日报：住房租赁市场释放企稳信号】根据中指研究院50城住宅租赁价格指数，5月份，50个城市住宅平均租金为33.94元/平方米/月，环比下降0.11%，同比下降3.17%。从市场表现来看，5月份住宅租赁市场缺乏明显季节性需求支撑，租金小幅回落符合历年市场运行规律。不过，与近两年同期相比，今年租金表现明显更稳定。数据显示，2024年5月份和2025年5月份，50城住宅平均租金环比跌幅均超过0.3%",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-09",
-      "time": "04:44",
+      "time": "07:43",
       "keywords": []
     },
     {
-      "title": "MSCI新兴市场股票指数收盘下跌3.6%，创3月以来最大单日跌幅。",
+      "title": "【华泰证券策略：关注AI通胀与资源通胀】华泰证券策略指出，5月全行业景气指数小幅回落，与PMI回落相印证，或反映当前需求",
       "source": "Tushare-sina",
       "url": "",
-      "content": "MSCI新兴市场股票指数收盘下跌3.6%，创3月以来最大单日跌幅。",
+      "content": "【华泰证券策略：关注AI通胀与资源通胀】华泰证券策略指出，5月全行业景气指数小幅回落，与PMI回落相印证，或反映当前需求仍待改善。分板块看，近3个月中游材料、上游资源、TMT景气改善幅度居前。行业层面，景气改善的线索较上个月更聚焦：AI通胀下算力端光通信、存储、MLCC景气爬坡，此外端侧消费电子、应用端游戏景气亦改善；涨价链景气改善斜率居前，如煤炭、钢铁、装修建材、部分化工品、小金属、工业金属、航",
       "priority": "medium",
       "sectors": [
-        "综合"
+        "AI"
       ],
       "period": "noon",
       "date": "2026-06-09",
-      "time": "04:36",
+      "time": "07:41",
       "keywords": []
     },
     {
-      "title": "费城半导体指数收盘上涨5.6%。",
+      "title": "【华泰证券：英伟达芯片内存降配报道若属实 短期回调提供高拥挤交易再平衡良机】华泰证券研报称，SemiAnalysis于6",
       "source": "Tushare-sina",
       "url": "",
-      "content": "费城半导体指数收盘上涨5.6%。",
+      "content": "【华泰证券：英伟达芯片内存降配报道若属实 短期回调提供高拥挤交易再平衡良机】华泰证券研报称，SemiAnalysis于6月4日报告指出，英伟达将计划于3Q26开售的新一代AI服务器VeraRubinNVL72的CPU侧内存用量减半。尽管报告说明该调整由三大原厂存储供给紧张所驱动，仍引发投资人对“AI存储需求见顶”的担忧，6月5日，美光、闪迪、西部数据、希捷等美股存储板块普跌（闪迪-11.2%、美光",
       "priority": "medium",
       "sectors": [
         "半导体"
       ],
       "period": "noon",
       "date": "2026-06-09",
-      "time": "04:01",
+      "time": "07:39",
       "keywords": []
     },
     {
-      "title": "【美股收盘：三大股指集体涨跌不一】道指跌0.16%，标普500指数涨0.29%，纳指涨0.86%。英特尔涨11.10%，",
+      "title": "【韩国股指期货隔夜大幅反弹 涨幅达 5.4%】过去两个交易日的风险冲击行情已基本收尾，亚洲各地投资者有望迎来期待已久的喘",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【美股收盘：三大股指集体涨跌不一】道指跌0.16%，标普500指数涨0.29%，纳指涨0.86%。英特尔涨11.10%，美光涨9.83%，阿克迈跌4.99%，好时跌4.75%，Ciena科技跌4.41%。“七姐妹”方面：特斯拉涨4.59%，英伟达涨1.73%，亚马逊跌0.33%，微软跌1.18%，谷歌跌1.22%，Meta Platforms跌1.31%，苹果跌1.89%。",
+      "content": "【韩国股指期货隔夜大幅反弹 涨幅达 5.4%】过去两个交易日的风险冲击行情已基本收尾，亚洲各地投资者有望迎来期待已久的喘息时机。美股回归常态走势也起到助力作用。受市场多方利好言论及持续传出的投资消息提振，科技股大幅反弹。人工智能领域融资活动持续推进，亚马逊发行了史上规模最大的加元债券。英伟达黄仁勋与韩企签署多项合作协议，加之韩国国民年金基金推动韩元走强，韩国股指期货隔夜大幅反弹，涨幅达 5.4%。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-09",
-      "time": "04:00",
+      "time": "07:34",
       "keywords": []
     },
     {
-      "title": "【纳斯达克中国金龙指数收跌0.57%】中进医疗跌10.93%，复朗集团跌7.19%，陆金所控股跌5.17%，新氧跌4.9",
+      "title": "【中信建投：火箭降本开启商业航天新周期，柔性化引领太阳翼技术新趋势】中信建投研报指出，低轨资源稀缺且先到先得，全球卫星组",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【纳斯达克中国金龙指数收跌0.57%】中进医疗跌10.93%，复朗集团跌7.19%，陆金所控股跌5.17%，新氧跌4.92%，大全新能源跌4.87%。",
+      "content": "【中信建投：火箭降本开启商业航天新周期，柔性化引领太阳翼技术新趋势】中信建投研报指出，低轨资源稀缺且先到先得，全球卫星组网竞赛白热化。SpaceX规划超百万颗卫星，中国星网/千帆/鸿擎合计规划近4万颗，ITU时限约束下各方加速抢占频轨资源。可回收火箭是产业提速核心催化：国内多款火箭密集冲刺复用试验，SpaceX V3星舰发射成本有望大幅下降。太阳翼是产业链确定性最强的通胀环节，单星功率提升驱动面积",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-09",
-      "time": "04:00",
+      "time": "07:26",
       "keywords": []
     },
     {
-      "title": "【美元指数8日下跌】衡量美元对六种主要货币的美元指数当天下跌0.03%，在汇市尾市收于100.042。截至纽约汇市尾市，",
+      "title": "【IAEA呼吁伊朗恢复合作 西方国家拟以决议施压恐使美伊和谈复杂化】国际原子能机构(IAEA)总干事格罗西(Rafael",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【美元指数8日下跌】衡量美元对六种主要货币的美元指数当天下跌0.03%，在汇市尾市收于100.042。截至纽约汇市尾市，1欧元兑换1.1528美元，高于前一交易日的1.1523美元；1英镑兑换1.3339美元，高于前一交易日的1.3337美元。1美元兑换160.26日元，高于前一交易日的160.17日元；1美元兑换0.7979瑞士法郎，高于前一交易日的0.7962瑞士法郎；1美元兑换1.3956加",
+      "content": "【IAEA呼吁伊朗恢复合作 西方国家拟以决议施压恐使美伊和谈复杂化】国际原子能机构(IAEA)总干事格罗西(Rafael Grossi)周一呼吁伊朗与他\"重新接触\"，以便重启对一年前遭美国和以色列轰炸的核设施的核查工作。与此同时，美国正带头推动IAEA理事会通过一项相关决议。伊朗至今仍未向IAEA通报这些遭轰炸核设施的现状，也未说明曾储存在那里的核材料去向——包括已浓缩至接近武器级水平的铀。虽然空",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-09",
-      "time": "03:43",
+      "time": "07:15",
       "keywords": []
+    },
+    {
+      "title": "摩根士丹利：恢复跟踪阳光电源，评级超配，目标价230.72元人民币。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "摩根士丹利：恢复跟踪阳光电源，评级超配，目标价230.72元人民币。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-09",
+      "time": "07:10",
+      "keywords": []
+    },
+    {
+      "title": "马斯克展示AI数据中心卫星的更多细节 剑指太空算力网络",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniaueff2071497.shtml",
+      "content": " 在SpaceX正在进行史上最大规模IPO之际，首席执行官埃隆·马斯克详细展示了该公司计划建造的人工智能（AI）数据中心卫星的初始版本。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "23:44",
+      "keywords": []
+    },
+    {
+      "title": "在持续的供应干扰担忧之际，油价小幅走高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniauefc5293477.shtml",
+      "content": "在持续的供应干扰担忧之际，油价在早盘交易中小幅走高。澳新银行研究部的分析师在一份研究报告中说，虽然伊朗和以色列暗示他们将避免敌对行动进一步升温...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "23:39",
+      "keywords": []
+    },
+    {
+      "title": "韩国股指期货隔夜大幅反弹 涨幅达5.4%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniaueff2067878.shtml",
+      "content": "过去两个交易日的风险冲击行情已基本收尾，亚洲各地投资者有望迎来期待已久的喘息时机。美股回归常态走势也起到助力作用。受市场多方利好言论及持续传出的投资消息提振...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "23:34",
+      "keywords": []
+    },
+    {
+      "title": "威高股份遭贝莱德减持约7211.28万股 每股作价约3.36港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-09/doc-iniauefc5291261.shtml",
+      "content": "香港联交所最新数据显示，6月2日，贝莱德减持威高股份（01066）7211.2812万股，每股作价3.3601港元，总金额约为2.42亿港元。减持后最新持股数目约为1.85亿股，持股比例为4...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "23:33",
+      "keywords": [
+        "威高股份",
+        "减持"
+      ]
+    },
+    {
+      "title": "堃博医疗-B获Futu Trustee Limited增持17万股 每股作价约0.86港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-09/doc-iniaueey6617667.shtml",
+      "content": "香港联交所最新数据显示，6月3日，Futu Trustee Limited增持堃博医疗-B（02216）17万股，每股作价0.8578港元，总金额约为14.58万港元。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "23:32",
+      "keywords": [
+        "堃博医疗-B",
+        "增持"
+      ]
+    },
+    {
+      "title": "操盘必读：影响股市利好或利空消息_2026年6月9日_财经新闻",
+      "source": "股市直击",
+      "url": "https://finance.sina.com.cn/stock/cpbd/2026-06-09/doc-iniaueey6618564.shtml",
+      "content": "宏观新闻 1、就欧盟日前推动相关国家减少所谓“对华依赖”，外交部发言人林剑8日在例行记者会上答问时表示，中方对解决中欧经贸分歧的态度是开放积极的...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "23:31",
+      "keywords": []
+    },
+    {
+      "title": "星悦康旅获宋浩东增持96.4万股 每股作价0.27港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-09/doc-iniauefa3394112.shtml",
+      "content": "香港联交所最新数据显示，6月5日，宋浩东增持星悦康旅（03662）96.4万股，每股作价0.27港元，总金额约为26.03万港元。增持后最新持股数目为7293.3万股，最新持股比例为10...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "23:30",
+      "keywords": [
+        "星悦康旅",
+        "宋浩东",
+        "增持"
+      ]
+    },
+    {
+      "title": "太古股份公司A遭贝莱德减持59.56万股 每股作价约82.04港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-09/doc-iniaueff2065684.shtml",
+      "content": "香港联交所最新数据显示，6月2日，贝莱德减持太古股份公司A（00019）59.56万股，每股作价82.0374港元，总金额约为4885.71万港元。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "23:29",
+      "keywords": [
+        "太古股份公司A",
+        "贝莱德",
+        "减持"
+      ]
+    },
+    {
+      "title": "元续科技遭RAYS Capital Partners Limited减持38.7万股 每股作价约4.04港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-09/doc-iniauefc5289126.shtml",
+      "content": "香港联交所最新数据显示，6月3日，RAYS Capital Partners Limited减持元续科技（08637）38.7万股，每股作价4.0434港元，总金额约为156.48万港元。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "23:28",
+      "keywords": [
+        "元续科技",
+        "减持"
+      ]
+    },
+    {
+      "title": "股海导航_2026年6月9日_沪深股市公告与交易提示",
+      "source": "股市直击",
+      "url": "https://finance.sina.com.cn/stock/s/2026-06-09/doc-iniaueff2065947.shtml",
+      "content": "【停牌】 600717 天津港 002160 常铝股份 【复牌】 600228 返利科技 300831 ST派瑞 【品大事】  和远气体：目前六氟化钨产品尚处于试生产阶段尚未签署任何具有法律约束力的...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "23:25",
+      "keywords": [
+        "股海导航",
+        "沪深股市",
+        "公告提示"
+      ]
+    },
+    {
+      "title": "华勤技术获大摩增持约70.19万股 每股作价约92.58港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-09/doc-iniaueey6614398.shtml",
+      "content": " 香港联交所最新资料显示，6月3日，大摩增持华勤技术（03296）70.1926万股，每股作价92.5825港元。增持后最新持股数目约为439.62万股，最新持股比例为6.52%。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "23:25",
+      "keywords": [
+        "华勤技术",
+        "大摩",
+        "增持"
+      ]
+    },
+    {
+      "title": "中国铁塔遭贝莱德减持约450.31万股 每股作价约9.99港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-09/doc-iniauefa3391089.shtml",
+      "content": "香港联交所最新资料显示，6月2日，贝莱德减持中国铁塔（00788）450.3088万股，每股作价9.9916港元，总金额约为4499.31万港元。减持后最新持股数目约为3.26亿股...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "23:24",
+      "keywords": [
+        "中国铁塔",
+        "贝莱德",
+        "减持"
+      ]
+    },
+    {
+      "title": "富卫集团获执行董事李泽楷增持9500股 每股作价约29.88港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-09/doc-iniauefc5287137.shtml",
+      "content": "香港联交所最新数据显示，6月4日，执行董事李泽楷增持富卫集团（01828）9500股，每股作价29.8821港元，总金额约为28.39万港元。增持后最新持股数目约为8.46亿股...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "23:23",
+      "keywords": [
+        "富卫集团",
+        "李泽楷",
+        "增持"
+      ]
+    },
+    {
+      "title": "江苏宁沪高速公路获贝莱德减持约3626.29万股 每股作价约10.52港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-09/doc-iniaueff2062459.shtml",
+      "content": "香港联交所最新资料显示，6月2日，贝莱德减持江苏宁沪高速公路（00177）3626.2881万股，每股作价10.5159港元，总金额约为3.81亿港元。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "23:21",
+      "keywords": [
+        "江苏宁沪高速公路",
+        "贝莱德",
+        "减持"
+      ]
+    },
+    {
+      "title": "黄金交易提醒：停火曙光乍现，金价探底回升，后市盯紧这两大数据",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-06-09/doc-iniaueey6612112.shtml",
+      "content": "汇通财经APP讯——周一（6月8日）金价一度跌至近两个半月以来的最低点4268美元附近，但随后又神奇地收复了大部分失地。表面上看，这是一场由中东地缘局势与美国经济数据联手...",
+      "priority": "low",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "23:18",
+      "keywords": [
+        "黄金",
+        "金价",
+        "美元",
+        "美联储",
+        "通胀"
+      ]
+    },
+    {
+      "title": "四大证券报头版头条内容精华摘要_2026年6月9日_财经新闻",
+      "source": "股市直击",
+      "url": "https://finance.sina.com.cn/stock/y/2026-06-09/doc-iniaueff2058388.shtml",
+      "content": "6月9日（星期二），今日报刊头条主要内容精华如下： 中国证券报 电子布“年内已实现5轮涨价”刷屏 上市公司独家回应 6月8日，电子布“年内已实现5轮涨价”刷屏财经圈。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "23:10",
+      "keywords": [
+        "上证报",
+        "中证报",
+        "证券日报"
+      ]
+    },
+    {
+      "title": "俞浩深陷争议，百亿追觅谁来托底？",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/roll/2026-06-09/doc-iniauefc5282438.shtml",
+      "content": "疯狂刷屏的俞浩和大举扩张的追觅，似乎都一时被按下了暂停键。 6月5日，追觅科技创始人兼CEO俞浩微博主页显示：“因违反相关法律法规，该用户目前处于禁言状态。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "23:00",
+      "keywords": [
+        "基金"
+      ]
+    },
+    {
+      "title": "伊朗和以色列同意暂停交火 特朗普寻求避免局势升级",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-06-09/doc-iniauefa3376471.shtml",
+      "content": " 伊朗和以色列同意暂缓对彼此的打击，此前双方暴力冲突升级，对和平谈判构成威胁，并促使美国总统唐纳德·特朗普呼吁局势降温。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "22:51",
+      "keywords": []
+    },
+    {
+      "title": "消费前先查一查，别被食品标签的宣传忽悠了",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/consume/xiaofei/2026-06-09/doc-iniaswmk8669793.shtml",
+      "content": "最近，一条关于盒马麻薯的热搜让不少消费者心头一紧——有消费者在盒马APP上购买了一款双拼麻薯，商品详情页醒目标注着“58%纯脂黑巧克力”，但孩子吃下后仔细查看配料表...",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "22:30",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：将在未来两周内宣布对伊战争取得全面胜利",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxa6709595.shtml",
+      "content": "美国总统特朗普表示，美国将在未来两周内宣布对伊朗战争取得“全面胜利”。 特朗普称，胜利将“很快”到来，届时油价将下跌。 特朗普表示，伊朗愿意同意不拥有核武器...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "22:05",
+      "keywords": []
+    },
+    {
+      "title": "Meta推出“劳工学院”，培训数据中心建设工人",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxf5385938.shtml",
+      "content": "Meta Platforms表示，在熟练技术工人成为紧俏资源之际，该公司正在创办一个“劳工学院”，培训美国人建设其数据中心。该公司表示，这项为期五周的培训计划是与世邦魏理仕（CB...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "21:58",
+      "keywords": []
+    },
+    {
+      "title": "沃尔玛又一位高管离职",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxf5385474.shtml",
+      "content": "随著新领导层对公司进行改革，沃尔玛更多高管相继离职。 沃尔玛计划在周一下午宣布戴安娜·马歇尔（Diana Marshall）的离职，马歇尔是沃尔玛旗下仓储式会员店山姆会员商店的...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "21:57",
+      "keywords": []
+    },
+    {
+      "title": "FDA准辉瑞公司一款用于治疗儿童出血性疾病的药物",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxi2161145.shtml",
+      "content": " 辉瑞公司周一表示，美国食品药品监督管理局（FDA）已批准其药物Hympavzi用于预防或减少儿童及部分血友病患者的出血发作频率。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "21:56",
+      "keywords": []
+    },
+    {
+      "title": "以色列国防军：已拦截来自也门的空中目标",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxi2160083.shtml",
+      "content": "以色列国防军表示，在埃拉特地区响起敌机渗透警报后，国防军拦截了一架来自也门的可疑空中目标。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "21:52",
+      "keywords": []
+    },
+    {
+      "title": "6月9日外盘头条：SpaceX上市获大幅超额认购 OpenAI提交美国IPO申请 苹果WWDC26 库克谢幕 系统提速",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxf5379852.shtml",
+      "content": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、亚马逊与康宁公司就数据中心光纤达成协议 2、一文看懂苹果WWDC26：库克谢幕，系统提速，Siri终于聪明了？",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "21:40",
+      "keywords": []
+    },
+    {
+      "title": "继Anthropic之后，OpenAI也提交了美国IPO申请",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxe3472275.shtml",
+      "content": " ChatGPT开发商OpenAI于周一秘密提交了美国首次公开募股（IPO）申请，与竞争对手Anthropic一道进军股市，以满足投资者对人工智能热潮的投资需求。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "21:28",
+      "keywords": []
+    },
+    {
+      "title": "美国债市：伊朗与以色列同意暂缓交火 国债收窄油价飙升引发的跌幅",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxf5374895.shtml",
+      "content": "美国国债周一收盘下跌，但得益于油价从盘中高点回落，国债跌幅也较盘中收窄。伊朗与以色列之间的战火升级推动油价一度升至盘中高点，但随着袭击停止，油价回落。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "21:24",
+      "keywords": []
+    },
+    {
+      "title": "国际金价跌破4300美元关口",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-09/doc-iniatxxf5365783.shtml",
+      "content": "文章来源：经济参考报 近日，国际金价震荡下行，现货黄金跌破4300美元/盎司关口。当地时间8日，伦敦现货黄金盘中一度下探至4268.02美元/盎司...",
+      "priority": "low",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "21:00",
+      "keywords": [
+        "黄金",
+        "金价"
+      ]
     },
     {
       "title": "6月9日美股成交额前20：英特尔获谷歌300万颗TPU大单",
@@ -1026,6 +1601,20 @@
       ]
     },
     {
+      "title": "美能能源终止募投项目“换脸” 巧施“财技”卡点增资收购自家关联资产",
+      "source": "中国证券报-中证网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-06-09/doc-iniaueey6604218.shtml",
+      "content": "募投项目三年后临阵叫停“烂尾”，实控人家族突击增资6500万元“垫高”标的净资产，上市公司再以7395.78万元高价收购关联资产——上市刚满三年的美能能源...",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-06-08",
+      "time": "20:23",
+      "keywords": []
+    },
+    {
       "title": "原油：WTI涨幅收窄 以色列和伊朗暗示避免进一步升级",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxf5356151.shtml",
@@ -1037,417 +1626,6 @@
       "period": "night",
       "date": "2026-06-08",
       "time": "20:19",
-      "keywords": []
-    },
-    {
-      "title": "特朗普提名布兰奇担任司法部长 参议院确认之路或遇阻力",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxf5355930.shtml",
-      "content": " 美国总统特朗普提名代理司法部长托德·布兰奇正式出任该职位，以此奖励这位忠实的盟友，但围绕布兰奇的一些争议可能导致他的参议院确认之路面临阻力。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "20:18",
-      "keywords": []
-    },
-    {
-      "title": "白宫提名Blanche担任司法部长",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxi2131437.shtml",
-      "content": "根据提交给美国参议院的提名通知，白宫表示，总统特朗普已提名Todd Blanche出任司法部长。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "20:16",
-      "keywords": []
-    },
-    {
-      "title": "黄仁勋拒绝赴参院作证 沃伦要求其公开回应质询",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniatxxi2131371.shtml",
-      "content": "美国参议员伊丽莎白·沃伦在声明中表示：“我感谢黄先生的回应，但美国民众理应在公开场合得到答案。” 此前，英伟达首席执行官黄仁勋拒绝了沃伦邀请他在本周晚些时候于参议院...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "20:15",
-      "keywords": []
-    },
-    {
-      "title": "苹果发布新一代AI平台及升级版Siri 投资者反应平平",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattre6795985.shtml",
-      "content": "为了追赶硅谷同行，苹果公司周一发布新一代AI平台，包括升级版数字助手Siri，但投资者对此反应平淡。 苹果软件业务负责人Craig Federighi在全球开发者大会主题演讲中介绍了...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "19:58",
-      "keywords": []
-    },
-    {
-      "title": "一文看懂苹果WWDC26：库克谢幕，系统提速，Siri终于聪明了？",
-      "source": "新浪数码",
-      "url": "https://finance.sina.com.cn/tech/mobile/n/n/2026-06-09/doc-iniattrh3573081.shtml",
-      "content": " 北京时间6月9日凌晨，苹果一年一度的WWDC开发者大会如约而至。今年的WWDC26堪称“最不按常理出牌”的一届，同时这也是现任CEO库克的“谢幕演出”。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "19:57",
-      "keywords": [
-        "WWDC",
-        "苹果",
-        "AI",
-        "库克"
-      ]
-    },
-    {
-      "title": "新研究：社区健康指导加持“食养”方案，显著提升2型糖尿病患者身心健康水平",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattrm2256932.shtml",
-      "content": "新奥尔良——在2026年美国糖尿病协会第86届科学会议上公布的一项最新研究显示，参与雅培“食物即药物”（Food is Medicine）项目的成年2型糖尿病患者...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "19:55",
-      "keywords": []
-    },
-    {
-      "title": "渤健阿尔茨海默症新药二期试验未达主要终点，多家律所启动证券欺诈调查",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattrm2255126.shtml",
-      "content": "生物技术巨头渤健公司（Biogen Inc．，纳斯达克代码：BIIB）正面临多家股东权益律师事务所的证券欺诈调查。继2026年5月14日披露其tau靶向反义寡核苷酸疗法diranersen的二期...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "19:49",
-      "keywords": []
-    },
-    {
-      "title": "科睿唯安任命Simon Webster为知识产权部门总裁",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattre6792378.shtml",
-      "content": "科睿唯安（Clarivate Plc，纽约证券交易所代码：CLVT）近日宣布，Simon Webster将于2026年6月10日出任公司知识产权（IP）部门总裁...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "19:46",
-      "keywords": []
-    },
-    {
-      "title": "核心候选药临床试验现癌症病例，Abivax遭律所证券欺诈调查",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattrh3566859.shtml",
-      "content": "法国临床阶段生物技术公司Abivax S.A．（纳斯达克代码：ABVX）正面临股东权益律师事务所The Schall Law Firm的证券欺诈调查。调查聚焦于公司是否就核心候选药物obefazimod...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "19:38",
-      "keywords": []
-    },
-    {
-      "title": "阿姆斯壮世界工业披露项目延期致股价重挫，多家律所启动证券欺诈调查",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattre6787739.shtml",
-      "content": "美国建筑天花板系统制造商阿姆斯壮世界工业公司（Armstrong World Industries， Inc．，纽约证券交易所代码：AWI）正面临多家股东权益律师事务所的证券欺诈调查。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "19:31",
-      "keywords": []
-    },
-    {
-      "title": "Illumina推出StrataMap，一张芯片即可绘制组织内基因表达的“三维地图”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattre6786480.shtml",
-      "content": "基因测序服务提供商Illumina， Inc．（纳斯达克股票代码：ILMN）今日正式宣布推出StrataMap空间解决方案。这是一款端到端的、基于测序技术的空间转录组学研究平台...",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "19:26",
-      "keywords": []
-    },
-    {
-      "title": "IQSTEL启动股份回购计划，彰显对内在价值与长期增长的信心",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattrh3563048.shtml",
-      "content": " 跨国科技公司IQSTEL Inc．（纳斯达克代码：IQST）近日宣布，其董事会已正式授权一项股份回购计划，将在公开市场回购最多100万股公司普通股。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "19:23",
-      "keywords": []
-    },
-    {
-      "title": "VinFast一季度净亏损同步扩大59%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattre6785595.shtml",
-      "content": "越南电动汽车制造商VinFast Auto Ltd．（纳斯达克代码：VFS）近日公布了2026年第一季度财报。财报显示，公司全球营收同比增长近42%...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "19:22",
-      "keywords": []
-    },
-    {
-      "title": "Terreno Realty与新泽西州伊丽莎白市地块签署预租约",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattrh3562557.shtml",
-      "content": "Terreno Realty Corporation（纽约证券交易所代码：TRNO）近日宣布，已就其位于新泽西州伊丽莎白市的一处4.6英亩改良土地地块签署了一份预租协议...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "19:21",
-      "keywords": []
-    },
-    {
-      "title": "Onterris加入Greentown Labs，加速环境创新技术商业化",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattra5139064.shtml",
-      "content": "全球环境解决方案公司Onterris（纽约证券交易所代码：ONT）近日宣布，以最高级别的Terawatt Partner身份加入全球最大的气候科技和能源初创企业孵化器Greentown Labs...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "19:20",
-      "keywords": []
-    },
-    {
-      "title": "Jack in the Box宣布再融资及债务削减计划，预计年内累计减债2.36亿美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattre6785023.shtml",
-      "content": " Jack in the Box Inc．（纳斯达克代码：JACK）近日宣布，作为其“JACK on Track”计划的一部分，公司将采取一系列措施以减少未偿债务并进一步优化资本结构。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "19:20",
-      "keywords": []
-    },
-    {
-      "title": "CI&T加入Claude合作伙伴网络，千名认证工程师助力全球企业规模化部署AI",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattrh3561685.shtml",
-      "content": "CI&amp;T（纽约证券交易所代码：CINT）近日宣布正式加入Anthropic的Claude合作伙伴网络，旨在帮助全球大型企业规模化部署Claude AI模型。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "19:18",
-      "keywords": []
-    },
-    {
-      "title": "Pull-Ups推出Learning Layer技术，帮助如厕训练中的孩子感知干湿差异",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattra5138280.shtml",
-      "content": "金佰利公司（Kimberly-Clark，纽约证券交易所代码：KMB）旗下品牌Pull-Ups近日宣布推出创新Learning Layer技术，旨在帮助如厕训练中的孩子感知尿湿瞬间...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "19:17",
-      "keywords": []
-    },
-    {
-      "title": "合并后股东仅占1.8%，Halper Sadeh调查SUNation Energy交易公平性",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattrh3561303.shtml",
-      "content": "投资者权益律师事务所Halper Sadeh LLC近日宣布，正在对SUNation Energy， Inc．（纳斯达克代码：SUNE）与Suniva的合并交易进行调查...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "19:16",
-      "keywords": []
-    },
-    {
-      "title": "Elastic推出Kubernetes智能调查工作流，助力SRE快速定位故障",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattri5470573.shtml",
-      "content": "Elastic（纽约证券交易所代码：ESTC）近日宣布推出一项基于代理的Kubernetes调查工作流，以及基于模型上下文协议的可观测性技能。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "19:14",
-      "keywords": []
-    },
-    {
-      "title": "GE航空航天与Wolfspeed携手推动高压碳化硅技术商业化",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattra5137006.shtml",
-      "content": "通用电气航空航天（GE Aerospace，纽约证券交易所代码：GE）与 Wolfspeed Inc．（纽约证券交易所代码：WOLF）于6月8日宣布签署谅解备忘录...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "19:11",
-      "keywords": []
-    },
-    {
-      "title": "Upstart遭集体诉讼，首席原告申请截止日期为6月8日",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattrh3559761.shtml",
-      "content": "知名证券律师事务所Faruqi &amp; Faruqi， LLP提醒Upstart Holdings， Inc．（纳斯达克代码：UPST）的投资者，针对该公司的联邦证券集体诉讼中...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "19:09",
-      "keywords": []
-    },
-    {
-      "title": "FICO宣布20亿美元股票回购计划及15亿美元加速回购协议",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattrh3559185.shtml",
-      "content": "分析软件提供商Fair Isaac Corporation（FICO，纽约证券交易所代码：FICO）近日宣布，其董事会已批准一项最高20亿美元的股票回购计划...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "19:07",
-      "keywords": []
-    },
-    {
-      "title": "特朗普的10万美元H-1B签证费政令遭法官驳回",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-09/doc-iniattrh3551039.shtml",
-      "content": " 一名联邦法官驳回了美国总统特朗普此前对H-1B签证申请收费10万美元的决定，此举为依赖外国技术人才的美国科技公司提供了喘息机会。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "18:38",
-      "keywords": []
-    },
-    {
-      "title": "苹果官宣新OS系统开发者Beta版今天推出，今秋提供给所有用户",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/2026-06-09/doc-iniattra5125053.shtml",
-      "content": "新浪科技讯 6月9日凌晨，苹果召开WWDC26全球开发者大会。苹果表示，为孩子的需求着想，其也陆续推出更多实用功能及新功能，比如SiriAI等。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "18:24",
-      "keywords": []
-    },
-    {
-      "title": "苹果 iOS 27照片App升级“空间构图”技术，支持先拍照再调整视角",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/2026-06-09/doc-iniattqy8348624.shtml",
-      "content": "新浪科技讯 6月9日凌晨，苹果召开WWDC26全球开发者大会。据介绍，在macOS 27、iOS 27 系统中，苹果宣布为照片App引入“空间构图”技术，能够帮助用户先拍照再构图。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "18:22",
-      "keywords": []
-    },
-    {
-      "title": "Siri 已集成至相机应用",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/2026-06-09/doc-iniattrh3545972.shtml",
-      "content": " 新浪科技讯 6月9日凌晨，苹果召开WWDC26全球开发者大会。苹果表示，在推出Siri AI外，还宣布Siri已集成到iPhone的相机应用中，可以识别物体并将其保存到 Siri 应用中。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "18:18",
-      "keywords": []
-    },
-    {
-      "title": "Siri AI推出自动校正功能",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/2026-06-09/doc-iniattqy8347424.shtml",
-      "content": "新浪科技讯 6月9日凌晨，苹果召开WWDC26全球开发者大会。据介绍，在macOS 27、iOS 27 系统中，基于Siri AI推出系统级别的AI自动校正功能。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "18:17",
-      "keywords": []
-    },
-    {
-      "title": "苹果“AI”由谷歌Gemini提供技术，可在云端服务器运行",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/world/2026-06-09/doc-iniattqy8343682.shtml",
-      "content": "新浪科技讯 6月9日凌晨，苹果召开WWDC26全球开发者大会。苹果宣布Apple Intelligence与谷歌达成合作，引入Gemini大模型，并带来全新的AI架构。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-06-08",
-      "time": "18:03",
       "keywords": []
     },
     {
@@ -2433,437 +2611,269 @@
       ]
     },
     {
-      "title": "周一（6月8日）纽约尾盘，现货黄金大致持平，报4326.91美元/盎司，整体呈现出V形走势，交投于4353.37-426",
+      "title": "【中方呼吁为实现乌克兰危机政治解决坚持不懈努力】中国常驻联合国副代表孙磊8日在安理会审议乌克兰问题时表示，乌克兰危机涉及",
       "source": "Tushare-sina",
       "url": "",
-      "content": "周一（6月8日）纽约尾盘，现货黄金大致持平，报4326.91美元/盎司，整体呈现出V形走势，交投于4353.37-4268.80美元。COMEX黄金期货跌0.34%，报4350.30美元/盎司，北京时间13:37曾刷新日低至4293美元。",
+      "content": "【中方呼吁为实现乌克兰危机政治解决坚持不懈努力】中国常驻联合国副代表孙磊8日在安理会审议乌克兰问题时表示，乌克兰危机涉及的矛盾错综复杂，达成和平协议绝非易事，实现政治解决仍任重道远，需要各方坚持不懈作出努力。 孙磊说，乌克兰危机仍在延宕，冲突烈度持续上升，局势呈螺旋式升级。战场相关的数字每天都在变化，新的袭击、新的伤亡、新的设施损毁不断出现，但有一个事实始终不变——军事手段无法带来和平，冲突延续下",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-09",
+      "time": "07:44",
+      "keywords": []
+    },
+    {
+      "title": "【马斯克展示AI数据中心卫星的更多细节 剑指太空算力网络】在SpaceX正在进行史上最大规模IPO之际，首席执行官埃隆·",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "【马斯克展示AI数据中心卫星的更多细节 剑指太空算力网络】在SpaceX正在进行史上最大规模IPO之际，首席执行官埃隆·马斯克详细展示了该公司计划建造的人工智能(AI)数据中心卫星的初始版本。马斯克在社交媒体平台X上分享的一段30分钟视频中谈及SpaceX的未来规划，内容涵盖星舰的后续研发，以及SpaceX与特斯拉在美国联合建设的超级芯片工厂。斯克展示了名为AI1的卫星渲染图及相关规格，Space",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-06-09",
+      "time": "07:44",
+      "keywords": []
+    },
+    {
+      "title": "【在持续的供应干扰担忧之际，油价小幅走高】在持续的供应干扰担忧之际，油价在早盘交易中小幅走高。澳新银行研究部的分析师在一",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "【在持续的供应干扰担忧之际，油价小幅走高】在持续的供应干扰担忧之际，油价在早盘交易中小幅走高。澳新银行研究部的分析师在一份研究报告中说，虽然伊朗和以色列暗示他们将避免敌对行动进一步升温，但也门胡塞武装宣布将全面禁止以色列船只在红海航行。这些分析师补充说，这“增加了沙特阿拉伯原油进入国际市场的关键替代路线之一的风险“，尽管对于什么构成以色列船只存在一些猜测。近月西得州中质油期货上涨0.1%，报每桶9",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-06-09",
+      "time": "07:39",
+      "keywords": []
+    },
+    {
+      "title": "美国国家飓风中心（NHC）表示，飓风“克里斯蒂娜”的中心正进一步靠近中美洲海岸；预计未来几天将迎来强降雨，离岸风影响区域",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "美国国家飓风中心（NHC）表示，飓风“克里斯蒂娜”的中心正进一步靠近中美洲海岸；预计未来几天将迎来强降雨，离岸风影响区域可能出现沿海洪水。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-09",
+      "time": "07:36",
+      "keywords": []
+    },
+    {
+      "title": "纽约期金失守4340美元/盎司，日内跌0.52%。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "纽约期金失守4340美元/盎司，日内跌0.52%。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-09",
+      "time": "07:34",
+      "keywords": []
+    },
+    {
+      "title": "美国国家飓风中心（NHC）表示，飓风鲍里斯正逼近墨西哥南部海岸。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "美国国家飓风中心（NHC）表示，飓风鲍里斯正逼近墨西哥南部海岸。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-09",
+      "time": "07:33",
+      "keywords": []
+    },
+    {
+      "title": "【万吨级船舶“爬楼梯”翻越大坝 三峡新通道解锁通航新模样】6月8日，三峡水运新通道工程在湖北省宜昌市正式开工建设，这是“",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "【万吨级船舶“爬楼梯”翻越大坝 三峡新通道解锁通航新模样】6月8日，三峡水运新通道工程在湖北省宜昌市正式开工建设，这是“十五五”时期我国开工建设的首个重大标志性工程，三峡水运新通道工程包含三峡枢纽新通道和葛洲坝航运扩能。目前，三峡船闸的主流通航船型是5000吨级，而这条新通道可以通行万吨级大型船舶，整体年通过能力达到3.36亿吨，通航效率提高的同时，万吨级船舶货运成本还可以下降约30%。建成后，三",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-09",
+      "time": "07:32",
+      "keywords": []
+    },
+    {
+      "title": "新加坡交易所日经股指期货开盘上涨1595点，报65530点。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "新加坡交易所日经股指期货开盘上涨1595点，报65530点。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-09",
+      "time": "07:31",
+      "keywords": []
+    },
+    {
+      "title": "现货黄金失守4320美元/盎司，日内跌0.21%。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "现货黄金失守4320美元/盎司，日内跌0.21%。",
       "priority": "low",
       "sectors": [
         "黄金"
       ],
       "period": "noon",
       "date": "2026-06-09",
-      "time": "04:52",
+      "time": "07:29",
       "keywords": []
     },
     {
-      "title": "【联合国秘书长：对中东局势再次升级深感担忧】当地时间6月8日，联合国秘书长古特雷斯发表声明，对中东地区近期局势再次升级深",
+      "title": "俄罗斯副外长对《消息报》表示，俄罗斯和白俄罗斯始终准备好动用一切可用手段，包括核武器，来保障国家安全。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【联合国秘书长：对中东局势再次升级深感担忧】当地时间6月8日，联合国秘书长古特雷斯发表声明，对中东地区近期局势再次升级深感担忧；他呼吁所有相关方立即停止袭击，保持最大限度克制，并避免采取任何可能进一步加剧本已高度紧张局势的行动。",
+      "content": "俄罗斯副外长对《消息报》表示，俄罗斯和白俄罗斯始终准备好动用一切可用手段，包括核武器，来保障国家安全。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-09",
-      "time": "04:48",
+      "time": "07:28",
       "keywords": []
     },
     {
-      "title": "【非洲疾控中心：本轮埃博拉疫情确诊病例升至563例】当地时间6月8日，非洲疾控中心发布统计数据，截至6月7日，本轮埃博拉",
+      "title": "乌克兰：根据楚胡伊夫市长的报告，五人在俄罗斯导弹袭击后死亡，另外三人受伤。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【非洲疾控中心：本轮埃博拉疫情确诊病例升至563例】当地时间6月8日，非洲疾控中心发布统计数据，截至6月7日，本轮埃博拉疫情累计确诊病例数升至563例。其中，刚果（金）确诊病例544例，确诊死亡病例88例；乌干达确诊病例19例，确诊死亡病例2例。",
+      "content": "乌克兰：根据楚胡伊夫市长的报告，五人在俄罗斯导弹袭击后死亡，另外三人受伤。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-09",
-      "time": "04:39",
+      "time": "07:27",
       "keywords": []
     },
     {
-      "title": "据法尔斯通讯社：消息称也门方面向以色列发动无人机袭击。",
+      "title": "【苹果升级版Siri姗姗来迟但终亮相 主打实用并强调隐私保护】在加利福尼亚州库比蒂诺举行的年度全球开发者大会上，苹果发布",
       "source": "Tushare-sina",
       "url": "",
-      "content": "据法尔斯通讯社：消息称也门方面向以色列发动无人机袭击。",
+      "content": "【苹果升级版Siri姗姗来迟但终亮相 主打实用并强调隐私保护】在加利福尼亚州库比蒂诺举行的年度全球开发者大会上，苹果发布了“Siri AI”，这是一款对话能力更强的助手，拥有独立的应用程序，并具备分析用户屏幕内容以及从网络中提取信息的能力。此时距苹果首次承诺进行重大升级已过去两年，而升级计划此前曾多次推迟。TECHnalysis Research总裁兼首席分析师Bob O’Donnell表示，“这",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-09",
-      "time": "04:38",
+      "time": "07:23",
       "keywords": []
     },
     {
-      "title": "吉利德与默克宣布，两项评估每周口服一次的艾滋病治疗药物Islatravir/lenacapavir的三期临床试验取得",
+      "title": "【菲律宾航空公司据悉正在考虑订购20架宽体飞机】据知情人士透露，菲律宾航空正考虑采购20架宽体客机，用以替换旗下老旧的空",
       "source": "Tushare-sina",
       "url": "",
-      "content": "  吉利德与默克宣布，两项评估每周口服一次的艾滋病治疗药物Islatravir/lenacapavir的三期临床试验取得积极主要终点结果。",
+      "content": "【菲律宾航空公司据悉正在考虑订购20架宽体飞机】据知情人士透露，菲律宾航空正考虑采购20架宽体客机，用以替换旗下老旧的空客A330与波音777机型。因相关洽谈仍处于保密阶段，知情人士要求匿名。他们表示，航司目前正在评估波音787梦想客机、空客A330neo以及A350机型，尚未敲定最终采购方案。该人士补充称，马尼拉机场的运营条件无法适配新款波音777X，因此菲律宾航空不会采购这款波音777的接替机",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-09",
-      "time": "04:35",
+      "time": "07:20",
       "keywords": []
     },
     {
-      "title": "Perrigo预计全财年调整后持续经营每股收益2美元至2.30美元。",
+      "title": "菲律宾航空公司据悉正在考虑订购20架宽体飞机。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "Perrigo预计全财年调整后持续经营每股收益2美元至2.30美元。",
+      "content": "菲律宾航空公司据悉正在考虑订购20架宽体飞机。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-09",
-      "time": "04:27",
+      "time": "07:16",
       "keywords": []
     },
     {
-      "title": "明晟公司：将采用标准评估方法处理SpaceX的首次公开募股事宜。",
+      "title": "【以军空袭黎巴嫩南部致至少17人死亡】以色列当天对黎巴嫩南部多地发动空袭，造成至少17人死亡、多人受伤。黎巴嫩卫生部表示",
       "source": "Tushare-sina",
       "url": "",
-      "content": "  明晟公司：将采用标准评估方法处理SpaceX的首次公开募股事宜。",
+      "content": "【以军空袭黎巴嫩南部致至少17人死亡】以色列当天对黎巴嫩南部多地发动空袭，造成至少17人死亡、多人受伤。黎巴嫩卫生部表示，以色列军队当天凌晨对奈拜提耶地区济夫塔镇发动空袭，造成7人死亡、8人受伤。以军还对提尔市红十字会中心附近区域发动空袭，造成5人死亡、8人受伤，其中包括4名红十字会急救人员。据黎巴嫩国家通讯社报道，以军当天对西顿地区哈赖耶卜镇发动空袭，造成1人死亡；在提尔针对车辆的空袭造成4人死",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-09",
-      "time": "04:22",
+      "time": "07:15",
       "keywords": []
     },
     {
-      "title": "阿斯利康减肥药临床试验结果显示，受试者体重平均下降 10.5%。",
+      "title": "兴业证券首席经济学家刘郁认为，6月作为二季度经济重要的冲刺期，政府债有望成为撬动融资需求的重要变量，财政加码发力的可能性",
       "source": "Tushare-sina",
       "url": "",
-      "content": "  阿斯利康减肥药临床试验结果显示，受试者体重平均下降 10.5%。",
+      "content": "兴业证券首席经济学家刘郁认为，6月作为二季度经济重要的冲刺期，政府债有望成为撬动融资需求的重要变量，财政加码发力的可能性较大。6月政府债供给量或将迎来年内高峰。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-09",
-      "time": "04:16",
+      "time": "07:13",
       "keywords": []
     },
     {
-      "title": "圣地亚哥燃气电力公司、高通公司与加州大学圣地亚哥分校携手开展边缘人工智能合作，助力提升野火及极端天气应对能力。",
+      "title": "【特朗普称未来两周将对伊朗全面胜利】当地时间6月8日，美国总统特朗普在参加一场为南卡罗来纳州联邦参议员格雷厄姆举行的电话",
       "source": "Tushare-sina",
       "url": "",
-      "content": "  圣地亚哥燃气电力公司、高通公司与加州大学圣地亚哥分校携手开展边缘人工智能合作，助力提升野火及极端天气应对能力。",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-06-09",
-      "time": "04:15",
-      "keywords": []
-    },
-    {
-      "title": "伊朗塔斯尼姆通讯社援引消息称，伊拉克北部的苏莱曼尼亚地区传出爆炸声。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "  伊朗塔斯尼姆通讯社援引消息称，伊拉克北部的苏莱曼尼亚地区传出爆炸声。",
+      "content": "【特朗普称未来两周将对伊朗全面胜利】当地时间6月8日，美国总统特朗普在参加一场为南卡罗来纳州联邦参议员格雷厄姆举行的电话助选活动时表示，美国将在未来两周内对伊朗取得“全面胜利”。特朗普称，美伊双方目前仍在进行谈判，伊朗希望达成协议，并愿意接受美国提出的关键条件，包括不拥有核武器。他进一步表示：“我认为我们正在赢得这场较量，真正的胜利将在未来两周内到来。当我们宣布全面胜利时，那将是彻底的胜利，而且很",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-09",
-      "time": "04:14",
+      "time": "07:08",
       "keywords": []
     },
     {
-      "title": "Applied Digital在Delta Forge 2签署新的数据中心租赁协议，该公司股价盘后涨9%。",
+      "title": "美国西部金属有限公司在西沙漠地区发现大型铟锌金矿。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "Applied Digital在Delta Forge 2签署新的数据中心租赁协议，该公司股价盘后涨9%。",
+      "content": "美国西部金属有限公司在西沙漠地区发现大型铟锌金矿。",
+      "priority": "low",
+      "sectors": [
+        "有色"
+      ],
+      "period": "noon",
+      "date": "2026-06-09",
+      "time": "07:06",
+      "keywords": []
+    },
+    {
+      "title": "野村证券认为，如果SpaceX的股价在IPO后保持强劲，将有助于改善投资者情绪，这对日本股市来说也是一个利好因素。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "野村证券认为，如果SpaceX的股价在IPO后保持强劲，将有助于改善投资者情绪，这对日本股市来说也是一个利好因素。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-09",
-      "time": "04:12",
-      "keywords": []
-    },
-    {
-      "title": "西捷航空：反对政府在燃油成本上涨之际向航空公司提供贷款的提案， 加拿大不应采取国内外及加美边境相关举措扰乱市场秩序。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "西捷航空：反对政府在燃油成本上涨之际向航空公司提供贷款的提案， 加拿大不应采取国内外及加美边境相关举措扰乱市场秩序。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-09",
-      "time": "04:08",
-      "keywords": []
-    },
-    {
-      "title": "据CNN：肯尼迪艺术中心官网已撤下特朗普相关标识。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "据CNN：肯尼迪艺术中心官网已撤下特朗普相关标识。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-09",
-      "time": "04:04",
-      "keywords": []
-    },
-    {
-      "title": "据Axios：特朗普称，他曾对内塔尼亚胡发出警告，若再度与伊朗开战，对方或将陷入孤军作战的境地。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "据Axios：特朗普称，他曾对内塔尼亚胡发出警告，若再度与伊朗开战，对方或将陷入孤军作战的境地。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-09",
-      "time": "04:03",
-      "keywords": []
-    },
-    {
-      "title": "美国农业部：截至上周，美国大豆播种进度达 92%，长势优良至极佳的比例为 65%。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "  美国农业部：截至上周，美国大豆播种进度达 92%，长势优良至极佳的比例为 65%。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-09",
-      "time": "04:01",
-      "keywords": []
-    },
-    {
-      "title": "据伊朗伊斯兰共和国通讯社：伊拉克媒体称，伊拉克埃尔比勒省传来多起剧烈爆炸声，美军战斗机正在该区域上空大规模巡逻。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "据伊朗伊斯兰共和国通讯社：伊拉克媒体称，伊拉克埃尔比勒省传来多起剧烈爆炸声，美军战斗机正在该区域上空大规模巡逻。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-09",
-      "time": "03:58",
-      "keywords": []
-    },
-    {
-      "title": "伊朗议会议长卡利巴夫：伊朗无需在战争与谈判之间二选一，时机成熟便会应战，时机合适则展开谈判。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "伊朗议会议长卡利巴夫：伊朗无需在战争与谈判之间二选一，时机成熟便会应战，时机合适则展开谈判。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-09",
-      "time": "03:52",
-      "keywords": []
-    },
-    {
-      "title": "乌克兰总统泽连斯基： 感谢二人愿意在未来数周积极行动，推动外交斡旋，以求结束俄乌冲突。我们清楚，当前全球目光大多聚焦伊朗",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "乌克兰总统泽连斯基： 感谢二人愿意在未来数周积极行动，推动外交斡旋，以求结束俄乌冲突。我们清楚，当前全球目光大多聚焦伊朗局势，但实现欧洲和平仍是我们共同的目标。双方结合七国集团峰会及六月其他相关活动，探讨了后续前景。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-09",
-      "time": "03:51",
-      "keywords": []
-    },
-    {
-      "title": "乌克兰总统泽连斯基：今日已与维特科夫、库什纳进行交谈， 会谈氛围十分积极。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "乌克兰总统泽连斯基：今日已与维特科夫、库什纳进行交谈， 会谈氛围十分积极。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-09",
-      "time": "03:50",
-      "keywords": []
-    },
-    {
-      "title": "苹果软件主管克雷格・费德里吉： 新版 Siri 人工智能系统不会基于屏幕感知信息投放广告。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "苹果软件主管克雷格・费德里吉： 新版 Siri 人工智能系统不会基于屏幕感知信息投放广告。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-09",
-      "time": "03:48",
-      "keywords": []
-    },
-    {
-      "title": "路透社与益普索联合民调显示，特朗普支持率为 35%，与五月中旬持平，仅高于本届任期 34% 的最低值。仅 22% 民",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "  路透社与益普索联合民调显示，特朗普支持率为 35%，与五月中旬持平，仅高于本届任期 34% 的最低值。仅 22% 民众认可特朗普应对生活成本问题的举措，70% 表示不认可。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-09",
-      "time": "03:47",
-      "keywords": []
-    },
-    {
-      "title": "路透社与益普索联合民调显示，特朗普支持率维持在其政治生涯低位附近，多数美国人预计油价将会上涨。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "  路透社与益普索联合民调显示，特朗普支持率维持在其政治生涯低位附近，多数美国人预计油价将会上涨。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-09",
-      "time": "03:47",
-      "keywords": []
-    },
-    {
-      "title": "【特朗普“劝和”幕后：内塔尼亚胡需要战争继续 特朗普则相反】据Axios网站报道，特朗普在过去24小时里一直努力避免战争",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【特朗普“劝和”幕后：内塔尼亚胡需要战争继续 特朗普则相反】据Axios网站报道，特朗普在过去24小时里一直努力避免战争全面重启。他陷入两难境地：一方面他明白内塔尼亚胡几乎不可能对伊朗的导弹袭击置之不理；另一方面他担心这种报复循环会演变成全面战争。内塔尼亚胡的逻辑是，如果不对伊朗展开报复，就将向外界传递伊朗占据上风、并能够威慑美国和以色列采取军事行动的信号。特朗普劝阻内塔尼亚胡不要反击的通话结束时",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-09",
-      "time": "03:46",
-      "keywords": []
-    },
-    {
-      "title": "美国交通部长达菲：正与美国国家铁路客运公司合作制定宾夕法尼亚车站安保方案。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "美国交通部长达菲：正与美国国家铁路客运公司合作制定宾夕法尼亚车站安保方案。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-09",
-      "time": "03:46",
-      "keywords": []
-    },
-    {
-      "title": "美国农业部（USDA）将在饲料中试验使用伊维菌素，以控制野生动物中的螺旋蝇疫情。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "美国农业部（USDA）将在饲料中试验使用伊维菌素，以控制野生动物中的螺旋蝇疫情。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-09",
-      "time": "03:45",
-      "keywords": []
-    },
-    {
-      "title": "美国白宫：特朗普向美国参议院提名托德・布兰奇出任司法部长。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "美国白宫：特朗普向美国参议院提名托德・布兰奇出任司法部长。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-09",
-      "time": "03:39",
-      "keywords": []
-    },
-    {
-      "title": "据NBC：英伟达CEO表示，乐意接待沃伦当面交谈。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "据NBC：英伟达CEO表示，乐意接待沃伦当面交谈。",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-06-09",
-      "time": "03:36",
-      "keywords": []
-    },
-    {
-      "title": "据NBC： 英伟达CEO黄仁勋拒绝沃伦本周的出庭作证邀请。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "据NBC： 英伟达CEO黄仁勋拒绝沃伦本周的出庭作证邀请。",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-06-09",
-      "time": "03:35",
-      "keywords": []
-    },
-    {
-      "title": "美国西南航空与新加坡航空启动联运合作。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "美国西南航空与新加坡航空启动联运合作。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-09",
-      "time": "03:30",
-      "keywords": []
-    },
-    {
-      "title": "华纳兄弟股价涨幅扩大至盘中高点2.1%。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "华纳兄弟股价涨幅扩大至盘中高点2.1%。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-09",
-      "time": "03:30",
-      "keywords": []
-    },
-    {
-      "title": "【国际油价8日微涨】截至当天收盘，纽约商品交易所7月交货的轻质原油期货价格上涨76美分，收于每桶91.30美元，涨幅为0",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【国际油价8日微涨】截至当天收盘，纽约商品交易所7月交货的轻质原油期货价格上涨76美分，收于每桶91.30美元，涨幅为0.84%；8月交货的伦敦布伦特原油期货价格上涨1.16美元，收于每桶94.25美元，涨幅为1.25%。",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-06-09",
-      "time": "03:29",
+      "time": "07:04",
       "keywords": []
     }
   ]
