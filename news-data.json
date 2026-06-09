@@ -1,17 +1,45 @@
 {
-  "updated": "2026-06-09T20:34:24.725504",
-  "total": 181,
+  "updated": "2026-06-09T22:12:50.928565",
+  "total": 180,
   "sources": [
     "新浪财经",
     "akshare-财新",
     "Tushare"
   ],
   "priority_dist": {
-    "high": 29,
-    "medium": 37,
-    "low": 115
+    "high": 27,
+    "medium": 30,
+    "low": 123
   },
   "items": [
+    {
+      "title": "美债交易员建仓押注美联储很快将加息 周三通胀报告备受关注",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniawicy6043559.shtml",
+      "content": "债券交易员正大举建仓，押注未来几个月美联储将多次加息，其中一些人预计最早可能在9月政策会议上行动。 与有担保隔夜融资利率（SOFR）挂钩的期权市场中...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-09",
+      "time": "21:48",
+      "keywords": []
+    },
+    {
+      "title": "美联储将于6月24日公布2026年银行压力测试结果",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniawiea2801022.shtml",
+      "content": "美国联邦储备委员会周二表示，将于6月24日公布其年度大型银行压力测试结果。 美联储每年进行此项测试，以检验大型银行在假设的经济衰退和市场压力情境下的表现。",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-09",
+      "time": "21:17",
+      "keywords": []
+    },
     {
       "title": "摩根士丹利G10外汇策略主管：美联储将维持利率不变 美元将走弱",
       "source": "环球市场播报",
@@ -361,101 +389,73 @@
       ]
     },
     {
-      "title": "美联储：（压力测试）假设情景包括全球经济严重衰退，商业和住宅房地产市场以及公司债市场压力加剧。",
+      "title": "【美联储6月维持利率不变的概率为98.2%】据CME“美联储观察”：美联储到6月维持利率不变的概率为98.2%，累计降息",
       "source": "Tushare-sina",
       "url": "",
-      "content": "美联储：（压力测试）假设情景包括全球经济严重衰退，商业和住宅房地产市场以及公司债市场压力加剧。",
+      "content": "【美联储6月维持利率不变的概率为98.2%】据CME“美联储观察”：美联储到6月维持利率不变的概率为98.2%，累计降息25个基点的概率为1.8%。美联储到7月维持利率不变的概率为85.8%，累计加息25个基点的概率12.6%，累计降息25个基点的概率为1.6%。",
       "priority": "high",
       "sectors": [
         "金融"
       ],
       "period": "noon",
       "date": "2026-06-10",
-      "time": "04:20",
+      "time": "06:02",
       "keywords": []
     },
     {
-      "title": "高盛在5月就业数据向好后，取消对美联储2026年降息的预判，将降息预期调整至2027年。",
+      "title": "纽约期金突破4280美元/盎司，日内跌0.15%。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "高盛在5月就业数据向好后，取消对美联储2026年降息的预判，将降息预期调整至2027年。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-06-10",
-      "time": "04:05",
-      "keywords": []
-    },
-    {
-      "title": "美联储：压力测试结果不会影响资本要求。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "美联储：压力测试结果不会影响资本要求。",
+      "content": "纽约期金突破4280美元/盎司，日内跌0.15%。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-10",
-      "time": "04:00",
+      "time": "06:00",
       "keywords": []
     },
     {
-      "title": "美联储将于6月24日公布华尔街银行压力测试结果。",
+      "title": "【美债交易员建仓押注美联储很快将加息 周三通胀报告备受关注】债券交易员正大举建仓，押注未来几个月美联储将多次加息，其中一",
       "source": "Tushare-sina",
       "url": "",
-      "content": "美联储将于6月24日公布华尔街银行压力测试结果。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-06-10",
-      "time": "04:00",
-      "keywords": []
-    },
-    {
-      "title": "【大摩G10外汇策略主管：美联储将维持利率不变 美元将走弱】摩根士丹利的G10外汇策略主管David Adams表示，随",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【大摩G10外汇策略主管：美联储将维持利率不变 美元将走弱】摩根士丹利的G10外汇策略主管David Adams表示，随着美联储达不到市场预期并且在今年维持利率不变，美元可能走弱。“从风险平衡来看，美元未来会下跌，”Adams在纽约接受采访时表示，“我们看空美元”。他认为，欧元将在第三季度升至1.23美元，因为欧洲央行今年将加息两次，而美联储则会按兵不动。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-06-10",
-      "time": "03:44",
-      "keywords": []
-    },
-    {
-      "title": "【美国外国情报监视法即将于周五到期】美国外国情报监视法即将于周五到期。据消息人士透露，特朗普今日在白宫与众议长约翰逊会面",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【美国外国情报监视法即将于周五到期】美国外国情报监视法即将于周五到期。据消息人士透露，特朗普今日在白宫与众议长约翰逊会面时表示，他无意向民主党妥协，也不会为推动该法案延期而迅速提名新任国家情报总监接替比尔·普尔特。共和党方面认为此次会谈进展不顺，目前对法案能否取得突破持悲观态度。民主党表态，除非特朗普撤换普尔特，否则将阻挠法案延期。部分共和党人原本希望众议长能劝说特朗普提名新的国家情报总监，以此化",
+      "content": "【美债交易员建仓押注美联储很快将加息 周三通胀报告备受关注】债券交易员正大举建仓，押注未来几个月美联储将多次加息，其中一些人预计最早可能在9月政策会议上行动。与有担保隔夜融资利率（SOFR）挂钩的期权市场中，这正是当前的主题。SOFR对美联储政策敏感。自上周五美国就业报告意外强劲、导致债市下挫以来，交易员一直在加大对加息的押注。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-10",
-      "time": "03:38",
+      "time": "05:42",
       "keywords": []
     },
     {
-      "title": "加拿大森沃斯能源（Cenovus）首席执行官表示，在当前监管框架下，阿尔伯塔省拟议的通往西海岸的输油管道无法通过私营部门",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "加拿大森沃斯能源（Cenovus）首席执行官表示，在当前监管框架下，阿尔伯塔省拟议的通往西海岸的输油管道无法通过私营部门获得融资。",
-      "priority": "high",
+      "title": "数据表明：沙特对欧洲的航空燃油供应已高于霍尔木兹海峡关闭前",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-06-10/doc-iniawiec4647124.shtml",
+      "content": " 据船舶追踪机构Kpler和Vortexa的数据显示，本月沙特阿拉伯向欧洲输送的航空燃油量有望超过霍尔木兹海峡开放时的水平，凸显了沙特通过红海加大出口的重要性。",
+      "priority": "medium",
       "sectors": [
-        "能源"
+        "综合"
       ],
-      "period": "noon",
-      "date": "2026-06-10",
-      "time": "03:31",
+      "period": "night",
+      "date": "2026-06-09",
+      "time": "21:13",
+      "keywords": []
+    },
+    {
+      "title": "美国股市：科技股抛售拖累大盘 主要股指剧烈波动",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-06-10/doc-iniawicy6018502.shtml",
+      "content": " 美国股票市场周二剧烈震荡，标普500指数一度大跌2.3%，随后收复大部分失地，投资者一边消化伊朗战争相关消息，一边等待可能显示通胀升温的经济数据。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-09",
+      "time": "21:10",
       "keywords": []
     },
     {
@@ -568,62 +568,6 @@
       "period": "night",
       "date": "2026-06-09",
       "time": "19:29",
-      "keywords": []
-    },
-    {
-      "title": "全球信贷竞争强度指数攀升至历史最高点，流动性周期持续上升",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniawawi1504375.shtml",
-      "content": "全球债务市场正呈现前所未有的活跃态势。据仲量联行最新发布的资本指标数据，2026年4月，全球信贷竞争强度指数攀升至历史最高点，标志着商业地产领域一个强劲的新流动性周...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-09",
-      "time": "19:03",
-      "keywords": []
-    },
-    {
-      "title": "尾盘：美股涨跌不一 芯片股拖累纳指下跌1.3%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniawawf4725653.shtml",
-      "content": " 北京时间6月10日凌晨，美股周二尾盘涨跌不一。芯片股在经历一日反弹后失去了上涨势头。油价下跌推动原材料和非必需消费品板块逆势上扬。市场继续关注中东局势的最新发展。",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "night",
-      "date": "2026-06-09",
-      "time": "18:52",
-      "keywords": []
-    },
-    {
-      "title": "飞利浦北美CEO：人工智能正在提升临床医生的准确性",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniavwqi4821669.shtml",
-      "content": "飞利浦（一家为医疗行业提供诊断、成像和云技术服务的公司）赞助的一项调查显示，人工智能正在帮助提高患者护理的准确性，并在某些情况下节省时间和成本...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-09",
-      "time": "17:08",
-      "keywords": []
-    },
-    {
-      "title": "美国科技股在全面抛售中下跌 芯片制造商表现不佳",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniavwqi4819604.shtml",
-      "content": "美国主要科技股和互联网股周二下跌，在全面抛售中大幅下挫，这再次凸显了该类股剧烈的波动性。 纳斯达克100指数下跌3%，较本月早些时候创下的峰值已累计下跌逾7%。",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-06-09",
-      "time": "17:04",
       "keywords": []
     },
     {
@@ -935,87 +879,144 @@
       ]
     },
     {
-      "title": "两倍杠杆SpaceX ETF将与该公司IPO同日上市。",
+      "title": "标普500指数期货下跌0.2%，纳斯达克指数期货下跌0.3%。消息面上，美军恢复对伊朗的打击。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "两倍杠杆SpaceX ETF将与该公司IPO同日上市。",
+      "content": "标普500指数期货下跌0.2%，纳斯达克指数期货下跌0.3%。消息面上，美军恢复对伊朗的打击。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-10",
-      "time": "04:29",
+      "time": "06:01",
       "keywords": []
     },
     {
-      "title": "芝商所宣布推出纳斯达克芝商所加密货币指数期货。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "芝商所宣布推出纳斯达克芝商所加密货币指数期货。",
-      "priority": "medium",
+      "title": "6月10日外盘头条：美国对伊朗发动新一轮打击 SpaceX IPO获大幅超额认购 欧盟提议新一轮对俄制裁",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniawiea2830169.shtml",
+      "content": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、美国在直升机被击落后对伊朗发动新一轮打击 2、欧盟提议新一轮对俄制裁 包括维持俄罗斯石油价格上限不变 3...",
+      "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
-      "date": "2026-06-10",
-      "time": "04:18",
+      "period": "night",
+      "date": "2026-06-09",
+      "time": "22:00",
       "keywords": []
     },
     {
-      "title": "花旗集团首席财务官预计，第二季度投行业收入将实现百分之十几的增长。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "花旗集团首席财务官预计，第二季度投行业收入将实现百分之十几的增长。",
-      "priority": "medium",
+      "title": "美国在直升机被击落后对伊朗发动新一轮打击",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-06-10/doc-iniawiea2824091.shtml",
+      "content": " 美国周二对伊朗发动打击，此前美国总统特朗普表示德黑兰在霍尔木兹海峡击落了一架美军阿帕奇直升机，这进一步加深了人们对两国和平前景的疑虑。",
+      "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
-      "date": "2026-06-10",
-      "time": "04:10",
+      "period": "night",
+      "date": "2026-06-09",
+      "time": "21:53",
       "keywords": []
     },
     {
-      "title": "【美股收盘：三大股指集体涨跌不一】道指涨0.15%，标普500指数跌0.27%，纳指跌0.99%。Coherent Co",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【美股收盘：三大股指集体涨跌不一】道指涨0.15%，标普500指数跌0.27%，纳指跌0.99%。Coherent Corp跌11.44%，Lumentum Holdings Inc. Common Stock When Issued跌8.23%，Strategy跌7.92%，斯马克涨10.34%，安费诺涨7.33%，Pool Corporation涨6.34%。“七姐妹”方面：谷歌涨0.31%，",
-      "priority": "medium",
+      "title": "ABC：特朗普称对伊朗的回应“非常强硬、非常有力”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniawicy6044336.shtml",
+      "content": " 据美国广播公司（ABC）记者援引与特朗普的通话报道，这位美国总统表示他认为美国对伊朗的回应“应该非常强硬、非常有力，美国此次行动正是如此”。",
+      "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
-      "date": "2026-06-10",
-      "time": "04:00",
+      "period": "night",
+      "date": "2026-06-09",
+      "time": "21:49",
       "keywords": []
     },
     {
-      "title": "【纳斯达克中国金龙指数收跌0.37%】亿航跌23.54%，海天网络跌11.98%，金生游乐跌9.49%，复朗集团跌8.4",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "【纳斯达克中国金龙指数收跌0.37%】亿航跌23.54%，海天网络跌11.98%，金生游乐跌9.49%，复朗集团跌8.45%，大全新能源跌7.64%。",
-      "priority": "medium",
+      "title": "超微电脑计划进行70亿美元的股权融资 用于购买AI服务器组件",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-06-10/doc-iniawiea2821080.shtml",
+      "content": "超微电脑计划进行70亿美元的股权融资 用于购买AI服务器组件记者Andrew Pollack【彭博】--超微电脑计划进行70亿美元的股权融资，用于购买履行客户人工智能(AI...",
+      "priority": "low",
       "sectors": [
-        "综合"
+        "AI"
       ],
-      "period": "noon",
-      "date": "2026-06-10",
-      "time": "04:00",
+      "period": "night",
+      "date": "2026-06-09",
+      "time": "21:48",
       "keywords": []
     },
     {
-      "title": "惠誉评级下调美国住宅建筑行业及北美建筑产品行业展望。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "惠誉评级下调美国住宅建筑行业及北美建筑产品行业展望。",
-      "priority": "medium",
+      "title": "美国在美军直升机被击落后对伊朗实施打击",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniawiea2831703.shtml",
+      "content": "在美国总统唐纳德·特朗普誓言对一架美军直升机被击落事件进行报复的数小时后，美军对伊朗发动了新一轮空袭。美国中央司令部在社交媒体发文称...",
+      "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
-      "date": "2026-06-10",
-      "time": "03:40",
+      "period": "night",
+      "date": "2026-06-09",
+      "time": "21:36",
+      "keywords": []
+    },
+    {
+      "title": "纽约汇市：美元连续第二日小幅走低 交易员等待美国CPI数据",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniawief1433432.shtml",
+      "content": " 美元周二连续第二个交易日小幅走低。此前，特朗普誓言回应伊朗对军用直升机的袭击，导致美元在纽约午间一度上涨。美国国债收益率和原油日间均下跌。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-09",
+      "time": "21:30",
+      "keywords": []
+    },
+    {
+      "title": "大宗商品综述：油价跌幅收窄 铜价基本持平 金价下跌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniawawf4764424.shtml",
+      "content": "油价跌幅收窄，因为美国总统特朗普称美国必须回应伊朗袭击事件。由于中东局势再次出现紧张迹象，铜价在回吐涨幅后收盘基本持平。",
+      "priority": "low",
+      "sectors": [
+        "黄金",
+        "有色"
+      ],
+      "period": "night",
+      "date": "2026-06-09",
+      "time": "20:45",
+      "keywords": []
+    },
+    {
+      "title": "6月10日美股成交额前20：Nuvalent获GSK收购，股价飙升逾39%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniawawf4763180.shtml",
+      "content": "周二美股成交额第1名美光科技收跌1.41%，成交654.81亿美元。将于6月24日发布2026财年第三季度财报，期权市场正在为其股价可能出现约20%的大幅波动定价...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-09",
+      "time": "20:43",
+      "keywords": []
+    },
+    {
+      "title": "报道：马克龙邀请沙特王储和卡塔尔埃米尔参加G7峰会",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniawawi1535099.shtml",
+      "content": "据Politico报道，法国总统马克龙已邀请沙特王储穆罕默德·本·萨勒曼和卡塔尔埃米尔塔米姆·本·哈马德·阿勒萨尼出席下周举行的七国集团（G7）领导人峰会。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-09",
+      "time": "20:34",
       "keywords": []
     },
     {
@@ -1366,132 +1367,6 @@
       "period": "night",
       "date": "2026-06-09",
       "time": "19:11",
-      "keywords": []
-    },
-    {
-      "title": "Terreno Realty在华盛顿州肯特市签订租约",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniawawa6101115.shtml",
-      "content": " 专注于沿海市场工业地产的房地产投资信托公司Terreno Realty Corporation近日宣布，已在华盛顿州肯特市成功执行一份重要的提前续租协议。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-09",
-      "time": "18:59",
-      "keywords": []
-    },
-    {
-      "title": "美股本轮下跌对即将上市的SpaceX可谓不妙",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniawawa6100417.shtml",
-      "content": "周五美股开盘以来的趋势清晰表明，周二的下跌不过是周五抛售的延续，而周一的行情仅是稍作喘息。如果市场情绪没有改善，SpaceX将面临麻烦...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-09",
-      "time": "18:56",
-      "keywords": []
-    },
-    {
-      "title": "Anthropic发布不具备执行网络安全任务能力的Mythos模型",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniawawe2877499.shtml",
-      "content": " Anthropic PBC正广泛发布Mythos模型的一个版本，该版本将被禁止执行网络安全任务。数月前，该公司曾警告称，这款强大的人工智能模型能够发现并利用关键软件中的漏洞。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-09",
-      "time": "18:55",
-      "keywords": []
-    },
-    {
-      "title": "特朗普称伊朗在霍尔木兹海峡击落直升机，美国必须“回应”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniawawi1502346.shtml",
-      "content": "美国总统唐纳德·特朗普周二指责伊朗击落了一架在霍尔木兹海峡上空巡逻的阿帕奇直升机，并表示美国将“做出回应”。 特朗普在“真相社交”平台上发帖称...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-09",
-      "time": "18:55",
-      "keywords": []
-    },
-    {
-      "title": "伊朗外长：武装部队对侵犯领空行为保持“戒备”状态",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniawawf4726200.shtml",
-      "content": "伊朗外长阿拉格齐表示：“靠近我国领土的外国军队，由于自身的人为错误、事故，或者可能被卷入交火，始终面临风险” 阿拉格齐表示，外国军队应离开该地区，以降低风险。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-09",
-      "time": "18:55",
-      "keywords": []
-    },
-    {
-      "title": "油价跌幅收窄 受特朗普称美国必须回应伊朗袭击事件影响",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniavwqh2976578.shtml",
-      "content": "油价跌幅收窄，此前美国总统特朗普称美国必须对伊朗击落美军武装直升机一事作出回应。 全球基准的布伦特原油位于每桶91美元附近，WTI原油价格在每桶89美元附近徘徊。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-09",
-      "time": "17:19",
-      "keywords": []
-    },
-    {
-      "title": "美国调查发现伊朗无人机击中美军直升机并导致其坠毁",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniavwqi4825161.shtml",
-      "content": "美国官员透露，美国调查认定一架伊朗无人机击中一架美军直升机并导致其坠毁。 这名美国官员表示调查仍未确定该事件是否属于蓄意行为。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-09",
-      "time": "17:17",
-      "keywords": []
-    },
-    {
-      "title": "欧盟提议新一轮对俄制裁 包括维持俄罗斯石油价格上限不变",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniavwqh2975612.shtml",
-      "content": "欧盟委员会提议维持俄罗斯石油价格上限不变至1月，作为对俄第21轮制裁方案的一部分。 欧盟委员会主席冯德莱恩周二提出该措施，旨在限制俄罗斯从伊朗战争引发的能源价格飙升...",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-06-09",
-      "time": "17:15",
-      "keywords": []
-    },
-    {
-      "title": "Anthropic发布了不具备网络安全功能的Mythos公开版",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-10/doc-iniavwqh2974823.shtml",
-      "content": "Anthropic正推出其Mythos AI模型的公开版本，但设置了限制措施，禁止将其用于网络安全等高风险领域。此前，该模型在今年早些时候的预览版因其发现软件漏洞的能力而在全球引...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-09",
-      "time": "17:13",
       "keywords": []
     },
     {
@@ -2494,269 +2369,381 @@
       ]
     },
     {
-      "title": "艾里逊变速箱控股公司：将斥资数百万美元为法国陆军升级新一代战术卡车。",
+      "title": "【美方发动打击后，特朗普仍认为伊方相关协议即将达成】白宫一名高级官员称，尽管美国于周二实施报复性打击，但特朗普依旧认为与",
       "source": "Tushare-sina",
       "url": "",
-      "content": "艾里逊变速箱控股公司：将斥资数百万美元为法国陆军升级新一代战术卡车。",
+      "content": "【美方发动打击后，特朗普仍认为伊方相关协议即将达成】白宫一名高级官员称，尽管美国于周二实施报复性打击，但特朗普依旧认为与伊朗的和平协议很快就能敲定。这名官员称目前协议的推进态势并未发生改变。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-10",
-      "time": "04:27",
+      "time": "06:09",
       "keywords": []
     },
     {
-      "title": "超微电脑提交混合上架发行申请，发行规模暂未披露。",
+      "title": "有消息称，无人机飞入伊拉克南部空域。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "超微电脑提交混合上架发行申请，发行规模暂未披露。",
+      "content": "有消息称，无人机飞入伊拉克南部空域。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-10",
-      "time": "04:27",
+      "time": "06:07",
       "keywords": []
     },
     {
-      "title": "KALSHI：KALSHI平台上每个市场都设有举报工具，供用户提交举报线索。",
+      "title": "WTI原油失守88美元/桶，日内涨0.85%。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "KALSHI：KALSHI平台上每个市场都设有举报工具，供用户提交举报线索。",
+      "content": "WTI原油失守88美元/桶，日内涨0.85%。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-06-10",
+      "time": "06:05",
+      "keywords": []
+    },
+    {
+      "title": "【美国官员：美军打击了霍尔木兹海峡周边伊朗防空和雷达系统】据美国官员的消息，美军已对霍尔木兹海峡周边多套伊朗防空系统和雷",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "【美国官员：美军打击了霍尔木兹海峡周边伊朗防空和雷达系统】据美国官员的消息，美军已对霍尔木兹海峡周边多套伊朗防空系统和雷达系统发动打击。稍早前，美国中央司令部表示，在总统特朗普指示下，美军于美国东部时间17时开始对伊朗发动“自卫性”打击，以回应前一天美军“阿帕奇”直升机被击落事件。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-10",
-      "time": "04:24",
+      "time": "06:03",
       "keywords": []
     },
     {
-      "title": "KALSHI：针对内幕交易或操纵风险较高的市场，我们现在要求交易者在参与前提供就业信息。",
+      "title": "日本与马来西亚将就保障液化天然气稳定供应开展合作。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "KALSHI：针对内幕交易或操纵风险较高的市场，我们现在要求交易者在参与前提供就业信息。",
+      "content": "日本与马来西亚将就保障液化天然气稳定供应开展合作。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-06-10",
+      "time": "06:00",
+      "keywords": []
+    },
+    {
+      "title": "WTI原油日内涨1%，现报89.40美元/桶。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "WTI原油日内涨1%，现报89.40美元/桶。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-06-10",
+      "time": "06:00",
+      "keywords": []
+    },
+    {
+      "title": "美国官员：特朗普认为相关协议仍有望很快达成。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "美国官员：特朗普认为相关协议仍有望很快达成。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-10",
-      "time": "04:24",
+      "time": "05:59",
       "keywords": []
     },
     {
-      "title": "【特朗普淡化直升机遇袭事件，称这“算不上什么大事”】美国总统特朗普淡化伊朗在霍尔木兹海峡上空击落美军直升机一事，他表示，",
+      "title": "美国一名官员表示，近期的打击行动意在向伊朗发出警告，预计不会扰乱旨在通过谈判结束冲突的相关努力。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "【特朗普淡化直升机遇袭事件，称这“算不上什么大事”】美国总统特朗普淡化伊朗在霍尔木兹海峡上空击落美军直升机一事，他表示，这“算不上什么大事”，并称“飞行员安然无恙”。",
+      "content": "美国一名官员表示，近期的打击行动意在向伊朗发出警告，预计不会扰乱旨在通过谈判结束冲突的相关努力。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-10",
-      "time": "04:22",
+      "time": "05:59",
       "keywords": []
     },
     {
-      "title": "特朗普淡化直升机遇袭事件，称这“算不上什么大事”。",
+      "title": "【特朗普称对伊朗进行打击“非常重要”】当地时间6月9日，美国总统特朗普表示：“我认为作出回应非常重要。他们击落了一架直升",
       "source": "Tushare-sina",
       "url": "",
-      "content": "特朗普淡化直升机遇袭事件，称这“算不上什么大事”。",
+      "content": "【特朗普称对伊朗进行打击“非常重要”】当地时间6月9日，美国总统特朗普表示：“我认为作出回应非常重要。他们击落了一架直升机，而我们正在进行回应。”特朗普表示：“我一直相信要以强硬方式回应。我们原本有一项非常好的协议，而且很可能仍然会有。这次行动是对他们昨晚击落我们直升机的回应，我认为回应应该非常强硬、非常有力，而这次行动正是如此。”",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-10",
-      "time": "04:17",
+      "time": "05:58",
       "keywords": []
     },
     {
-      "title": "纳斯达克数据显示，5月下旬空头头寸较5月中旬增加1.5%。",
+      "title": "日本与英国拟就海上风电合作达成协议。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "纳斯达克数据显示，5月下旬空头头寸较5月中旬增加1.5%。",
+      "content": "日本与英国拟就海上风电合作达成协议。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-06-10",
+      "time": "05:56",
+      "keywords": []
+    },
+    {
+      "title": "美国官员：此次针对伊朗的空袭目标包括防空设施与雷达站。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "美国官员：此次针对伊朗的空袭目标包括防空设施与雷达站。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-10",
-      "time": "04:12",
+      "time": "05:53",
       "keywords": []
     },
     {
-      "title": "美光科技任命亚历克西斯·布莱克·比约林进入董事会。",
+      "title": "以色列方面消息：以色列并未袭击贝鲁特。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "美光科技任命亚历克西斯·布莱克·比约林进入董事会。",
+      "content": "以色列方面消息：以色列并未袭击贝鲁特。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-10",
-      "time": "04:06",
+      "time": "05:52",
       "keywords": []
     },
     {
-      "title": "花旗集团首席财务官表示，美国经济与民众消费展现出韧性。",
+      "title": "特朗普政府官员已要求政府人工智能测试部门停止发布公开报告。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "花旗集团首席财务官表示，美国经济与民众消费展现出韧性。",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-06-10",
-      "time": "04:05",
-      "keywords": []
-    },
-    {
-      "title": "美国副总统万斯：伊朗核协议肯定会在中期选举前达成。",
-      "source": "Tushare-sina",
-      "url": "",
-      "content": "美国副总统万斯：伊朗核协议肯定会在中期选举前达成。",
+      "content": "特朗普政府官员已要求政府人工智能测试部门停止发布公开报告。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-10",
-      "time": "04:01",
+      "time": "05:51",
       "keywords": []
     },
     {
-      "title": "美国副总统万斯：伊朗核协议可能在一周内达成，也可能在几个月内达成。",
+      "title": "伊朗德黑兰迈赫拉巴德机场附近出现军机活动。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "美国副总统万斯：伊朗核协议可能在一周内达成，也可能在几个月内达成。",
+      "content": "伊朗德黑兰迈赫拉巴德机场附近出现军机活动。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-10",
-      "time": "04:01",
+      "time": "05:50",
       "keywords": []
     },
     {
-      "title": "苹果股价收跌3.6%，创2月12日以来最大跌幅。",
+      "title": "伊朗塔斯尼姆通讯社： 伊朗数小时前已发出警告，必将针对美方以阿帕奇直升机事件为借口发起的侵略行动予以回击。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "苹果股价收跌3.6%，创2月12日以来最大跌幅。",
+      "content": "伊朗塔斯尼姆通讯社： 伊朗数小时前已发出警告，必将针对美方以阿帕奇直升机事件为借口发起的侵略行动予以回击。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-10",
-      "time": "04:00",
+      "time": "05:49",
       "keywords": []
     },
     {
-      "title": "巴林常驻联合国代表称，伊朗针对海湾国家的袭击行为威胁地区安全，并呼吁伊朗缓和局势。",
+      "title": "【超微电脑计划进行70亿美元的股权融资 盘后重挫逾0%】超微电脑计划进行70亿美元的股权融资，用于购买履行客户人工智能(",
       "source": "Tushare-sina",
       "url": "",
-      "content": "巴林常驻联合国代表称，伊朗针对海湾国家的袭击行为威胁地区安全，并呼吁伊朗缓和局势。",
+      "content": "【超微电脑计划进行70亿美元的股权融资 盘后重挫逾0%】超微电脑计划进行70亿美元的股权融资，用于购买履行客户人工智能(AI)服务器订单所需的组件。该公司周二发布新闻稿称，此次股权融资将包括50亿美元的承销发售（包含约12.5亿美元普通股和约37.5亿美元存托股份）以及不超过20亿美元的普通股市价发售，后者涉及超微电脑不早于第三季度开始不时地在公开市场直接出售股票。超微电脑在盘后交易中重挫逾10%",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-10",
-      "time": "03:59",
+      "time": "05:48",
       "keywords": []
     },
     {
-      "title": "伊朗副外长表示，该国并非蓄意袭击美军直升机。",
+      "title": "伊朗方面：贾斯克与穆巴拉克山两处地点遭到敌方袭击。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "伊朗副外长表示，该国并非蓄意袭击美军直升机。",
+      "content": "伊朗方面：贾斯克与穆巴拉克山两处地点遭到敌方袭击。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-10",
-      "time": "03:59",
+      "time": "05:45",
       "keywords": []
     },
     {
-      "title": "KALSHI计划要求用户披露工作单位方可进行特定交易。",
+      "title": "【特朗普称对伊朗的回应“非常强硬、非常有力”】据美国广播公司(ABC)记者援引与特朗普的通话报道，这位美国总统表示他认为",
       "source": "Tushare-sina",
       "url": "",
-      "content": "KALSHI计划要求用户披露工作单位方可进行特定交易。",
+      "content": "【特朗普称对伊朗的回应“非常强硬、非常有力”】据美国广播公司(ABC)记者援引与特朗普的通话报道，这位美国总统表示他认为美国对伊朗的回应“应该非常强硬、非常有力，美国此次行动正是如此”。特朗普说：“我认为作出回应非常重要。他们击落了一架直升机，在我们通话之际，我们正予以回应。”",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-10",
-      "time": "03:58",
+      "time": "05:44",
       "keywords": []
     },
     {
-      "title": "法国总统马克龙邀请沙特王储、卡塔尔埃米尔出席七国集团峰会。",
+      "title": "【美国众议院通过约700亿美元的移民执法拨款法案】当地时间6月9日，美国众议院通过总额约700亿美元的《安全美国法案》，",
       "source": "Tushare-sina",
       "url": "",
-      "content": "法国总统马克龙邀请沙特王储、卡塔尔埃米尔出席七国集团峰会。",
+      "content": "【美国众议院通过约700亿美元的移民执法拨款法案】当地时间6月9日，美国众议院通过总额约700亿美元的《安全美国法案》，为美国移民与海关执法局（ICE）和边境巡逻队提供资金直至美国总统特朗普本届任期结束。该法案上周已获参议院通过，下一步将提交美国总统签署成为法律。法案旨在为ICE和边境巡逻队提供资金支持。此前，民主党要求推动移民执法改革，包括要求执法人员佩戴随身摄像机及进入住宅前取得司法授权，但遭",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-10",
-      "time": "03:49",
+      "time": "05:40",
       "keywords": []
     },
     {
-      "title": "美国地质调查局：俄罗斯千岛群岛东南偏东 120 公里处发生5.1 级地震。",
+      "title": "【伊朗南部多地遭美军空袭】当地时间今天（6月10日）凌晨，伊朗南部霍尔木兹甘省东部地区，包括格什姆岛以及锡里克、米纳布等",
       "source": "Tushare-sina",
       "url": "",
-      "content": "美国地质调查局：俄罗斯千岛群岛东南偏东 120 公里处发生5.1 级地震。",
+      "content": "【伊朗南部多地遭美军空袭】当地时间今天（6月10日）凌晨，伊朗南部霍尔木兹甘省东部地区，包括格什姆岛以及锡里克、米纳布等地在内，均传出爆炸声，防空系统启动。美军中央司令部稍早前宣布，美军已对伊朗发动袭击，以报复美军一架“阿帕奇”直升机被击落。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-10",
-      "time": "03:42",
+      "time": "05:39",
       "keywords": []
     },
     {
-      "title": "派拉蒙聘请前拜登政府白宫官员舒万扎・戈夫担任美国政府事务民主党方向负责人。",
+      "title": "【伊朗霍尔木兹甘省部分地区发生爆炸】当地时间10日凌晨，伊朗南部霍尔木兹甘省东部地区，包括锡里克、米纳布等，发生数起爆炸",
       "source": "Tushare-sina",
       "url": "",
-      "content": "派拉蒙聘请前拜登政府白宫官员舒万扎・戈夫担任美国政府事务民主党方向负责人。",
+      "content": "【伊朗霍尔木兹甘省部分地区发生爆炸】当地时间10日凌晨，伊朗南部霍尔木兹甘省东部地区，包括锡里克、米纳布等，发生数起爆炸。爆炸的确切来源和地点尚不清楚，但当地消息人士称，该省部分地区有防空系统启动。美国中央司令部稍早前宣布，美军已对伊朗发动袭击，以报复一架“阿帕奇”直升机被伊朗方面击落。（央视新闻）",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-10",
-      "time": "03:35",
+      "time": "05:37",
       "keywords": []
     },
     {
-      "title": "安全消息人士称，伊拉克埃尔比勒东北部的伊朗库尔德反对派营地遭三次无人机袭击。",
+      "title": "伊朗国家媒体称格什姆岛遭到袭击。",
       "source": "Tushare-sina",
       "url": "",
-      "content": "安全消息人士称，伊拉克埃尔比勒东北部的伊朗库尔德反对派营地遭三次无人机袭击。",
+      "content": "伊朗国家媒体称格什姆岛遭到袭击。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-10",
-      "time": "03:29",
+      "time": "05:36",
+      "keywords": []
+    },
+    {
+      "title": "美国联邦存款保险公司主席特拉维斯·希尔：要求银行审查人员重点关注重大金融风险。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "美国联邦存款保险公司主席特拉维斯·希尔：要求银行审查人员重点关注重大金融风险。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-06-10",
+      "time": "05:33",
+      "keywords": []
+    },
+    {
+      "title": "澳航推出境内经济舱票价：190余条航线、近60个航点的单程票价低至105澳元。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "澳航推出境内经济舱票价：190余条航线、近60个航点的单程票价低至105澳元。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-10",
+      "time": "05:32",
+      "keywords": []
+    },
+    {
+      "title": "伊朗国家媒体称，锡里克镇证实遭一枚炮弹击中。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "伊朗国家媒体称，锡里克镇证实遭一枚炮弹击中。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-10",
+      "time": "05:32",
+      "keywords": []
+    },
+    {
+      "title": "特朗普接受美国广播公司采访时表示：美方对伊朗的反击行动力度十足、攻势强劲。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "特朗普接受美国广播公司采访时表示：美方对伊朗的反击行动力度十足、攻势强劲。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-10",
+      "time": "05:30",
+      "keywords": []
+    },
+    {
+      "title": "伊朗法尔斯通讯社称霍尔木兹甘省东部地区传出爆炸声。",
+      "source": "Tushare-sina",
+      "url": "",
+      "content": "伊朗法尔斯通讯社称霍尔木兹甘省东部地区传出爆炸声。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-10",
+      "time": "05:30",
       "keywords": []
     }
   ]
