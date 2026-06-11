@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-10T22:29:35.429286",
+  "updated": "2026-06-11T00:02:41.747171",
   "total": 148,
   "sources": [
     "新浪财经",
@@ -7,121 +7,150 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 25,
-    "medium": 27,
-    "low": 96
+    "high": 26,
+    "medium": 28,
+    "low": 94
   },
   "items": [
     {
-      "title": "纽约汇市：美元保持稳定 交易员权衡美国CPI数据及伊朗局势",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniaynca2411314.shtml",
-      "content": " 美元收复了5月份美国核心CPI环比升幅略低于预期后的跌幅。加元涨幅收窄；加拿大央行如预期般维持利率不变，但警告伊朗战争带来的通胀压力风险。",
+      "title": "突发，美军发动袭击！美股全线大跌！端午与暑期出行热度攀升，A股旅游板块表现活跃",
+      "source": "数据宝",
+      "url": "https://finance.sina.com.cn/stock/relnews/2026-06-11/doc-iniayskw5613552.shtml",
+      "content": "暑期旅游产品预订已进入高峰期，出游人次显著增长，旅游产品供给更为丰富多元。 受美伊地缘冲突升级，市场避险情绪升温。截至收盘，道琼斯指数跌1.87%，报49918...",
+      "priority": "high",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:47",
+      "keywords": []
+    },
+    {
+      "title": "凌晨，全线跳水，AI服务器巨头暴跌！霍尔木兹海峡，突发！",
+      "source": "证券时报",
+      "url": "https://finance.sina.com.cn/wm/2026-06-11/doc-iniaysmc0924391.shtml",
+      "content": "全线收跌。 当地时间6月10日，美股三大指数全线收跌，道指下挫超950点。板块方面，科技股多数走低，芯片股延续近期跌势。此外，AI服务器巨头超微电脑暴跌，收跌近28%。",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:38",
+      "keywords": [
+        "AI",
+        "美元"
+      ]
+    },
+    {
+      "title": "黑色星期三！道指重挫近千点，半导体板块跌近4%，特朗普威胁空袭原油飙升",
+      "source": "一财网",
+      "url": "https://finance.sina.com.cn/roll/2026-06-11/doc-iniayskz4148892.shtml",
+      "content": "【相关阅读】 中东，突传“黑天鹅”！深夜，美股集体杀跌，科技股普跌！国际油价大涨！A股如何走？ 标普500指数科技板块进入技术性回调区间。",
+      "priority": "high",
+      "sectors": [
+        "能源",
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:34",
+      "keywords": [
+        "特朗普",
+        "美元",
+        "道指",
+        "原油",
+        "半导体"
+      ]
+    },
+    {
+      "title": "最新！中东，突传“黑天鹅”！深夜，美股集体杀跌，科技股普跌！国际油价大涨！A股如何走？",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-06-11/doc-iniayskz4147747.shtml",
+      "content": "来源：期货日报 美股大跌！ 截至6月10日收盘，道琼斯指数下跌1.87%，纳斯达克指数下跌1.98%，标普500指数下跌1.62%。 大型科技股方面，微软跌1.50%，谷歌A跌2.16%...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "night",
       "date": "2026-06-10",
-      "time": "20:40",
+      "time": "23:34",
       "keywords": []
     },
     {
-      "title": "大宗商品综述：油价走高 基本金属普跌 黄金扩大跌幅",
+      "title": "查诺斯唱空SpaceX：无论如何不值1.75万亿美元",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayncf0959823.shtml",
-      "content": " 油价上涨，因美国总统特朗普警告将再次打击伊朗，并且数据显示美国原油库存再次大幅下降。中东紧张局势升温以及对美联储加息的预期推动基本金属普跌、黄金扩大跌幅。",
-      "priority": "high",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "20:37",
-      "keywords": []
-    },
-    {
-      "title": "美国债市：美债录得下跌 油价上涨抹去CPI数据驱动的涨势",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayncf0959383.shtml",
-      "content": " 美国国债周三收跌，因为原油价格上涨，抹去了5月CPI数据以及10年期国债招标获得良好需求的利好。在美国总统特朗普威胁将很快对伊朗发动袭击后，基准原油价格大涨逾3%。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayskw5599048.shtml",
+      "content": " 知名空头投资者吉姆·查诺斯将矛头指向了备受瞩目的SpaceX IPO，警告这家由埃隆·马斯克领导的太空技术公司的估值是建立在“希望和梦想”之上的，并不能证明其合理性。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "night",
       "date": "2026-06-10",
-      "time": "20:36",
+      "time": "23:17",
       "keywords": []
     },
     {
-      "title": "销售结构变化拖累ARR增长，Commvault因证券欺诈面临集体诉讼",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayfve2516413.shtml",
-      "content": "数据保护软件公司Commvault Systems， Inc．（NASDAQ： CVLT）正面临证券欺诈集体诉讼。此前公司披露的ARR增长低于预期，并下调了全年指引，导致股价在单日内暴跌逾31%...",
+      "title": "突发！美军发动空袭，美伊发生海上冲突！伊朗：关闭霍尔木兹海峡",
+      "source": "证券时报",
+      "url": "https://finance.sina.com.cn/wm/2026-06-11/doc-iniaysmc0913793.shtml",
+      "content": "【相关阅读】美中央司令部称袭击伊朗境内多个目标 伊朗将视接近霍尔木兹海峡船只通敌 伊朗：全面关闭霍尔木兹海峡 美伊局势骤然升级。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "night",
       "date": "2026-06-10",
-      "time": "19:31",
-      "keywords": []
+      "time": "23:03",
+      "keywords": [
+        "伊朗",
+        "美军",
+        "霍尔木兹海峡",
+        "美国"
+      ]
     },
     {
-      "title": "关键癌症试验因无效终止，Immutep股价暴跌83%后面临集体诉讼",
+      "title": "6月11日隔夜要闻：美国再度打击伊朗 美股收低 油价走高 超微电脑暴跌 美国5月退还近220亿美元关税",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayfvi1065454.shtml",
-      "content": "生物技术公司Immutep Limited（NASDAQ： IMMP）正面临证券欺诈集体诉讼。此前该公司宣布，其针对一线非小细胞肺癌的关键三期临床试验TACTI-004因无效而被独立数据监测委员...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayskw5576126.shtml",
+      "content": "市场 6月11日收盘：美股收跌道指下挫950点 市场关注通胀数据与中东局势 6月11日美股成交额前20：超微电脑拟进行70亿美元股权融资...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "night",
       "date": "2026-06-10",
-      "time": "19:24",
+      "time": "22:44",
       "keywords": []
     },
     {
-      "title": "涉足非法博彩遭做空，Sportradar市值蒸发8亿美元后面临集体诉讼",
+      "title": "WTI原油期货亚洲开盘跃升 美国再度打击伊朗",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayfvf4283257.shtml",
-      "content": "体育数据巨头Sportradar Group AG（NASDAQ： SRAD）正面临证券欺诈集体诉讼。此前做空机构指控该公司明知故犯地与黑市赌博运营商合作以增加收入，导致股价暴跌逾22%...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayskw5572356.shtml",
+      "content": "油价大涨，此前美国对伊朗发动新一轮打击，再度冲击脆弱的停火局面，并可能延长扰动全球市场的中东冲突。 WTI一度上涨2.6%，至每桶92.39美元，此前一个交易日收涨逾2%。",
+      "priority": "high",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "22:38",
+      "keywords": []
+    },
+    {
+      "title": "Anthropic呼吁美国在未制定联邦标准的情况下，不要阻挠各州出台人工智能相关法律",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayskw5570865.shtml",
+      "content": "Anthropic周三呼吁美国国会不要阻挠各州的人工智能监管，除非立法者通过一项针对“灾难性人工智能风险”的“严格”联邦法律。这是该公司就该技术制定规则的更广泛提案的一部分...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "night",
       "date": "2026-06-10",
-      "time": "19:08",
-      "keywords": []
-    },
-    {
-      "title": "会计丑闻引发股价崩盘，Veritone面临证券集体诉讼",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayfva5729679.shtml",
-      "content": "人工智能软件公司Veritone， Inc．（NASDAQ： VERI）正面临证券欺诈集体诉讼。此前公司承认财报存在会计错误，导致营收被夸大，股价在短时间内暴跌超过40%。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "19:07",
-      "keywords": []
-    },
-    {
-      "title": "Avis解约引发股价暴跌70%，Verra Mobility面临证券集体诉讼",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayfvi1057705.shtml",
-      "content": "智能出行技术提供商Verra Mobility Corporation（NASDAQ： VRRM）正面临证券欺诈集体诉讼。在最大商业客户Avis Budget Group终止合同、公司下调全年业绩指引...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "19:04",
+      "time": "22:36",
       "keywords": []
     },
     {
@@ -134,7 +163,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -150,7 +179,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -167,7 +196,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -183,7 +212,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -199,7 +228,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -215,7 +244,7 @@
         "消费"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -231,7 +260,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -247,7 +276,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "光伏观察"
@@ -263,7 +292,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -279,7 +308,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "霍尔木兹日报"
@@ -295,7 +324,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -311,7 +340,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -327,7 +356,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -346,7 +375,7 @@
         "消费"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "今日热点"
@@ -362,7 +391,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -378,7 +407,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -394,150 +423,182 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
       ]
     },
     {
-      "title": "美国股市：主要股指下跌 地缘政治担忧抵消通胀数据带来的乐观情绪",
+      "title": "美银：客户上周抛售美国科技股规模创2008年以来最大",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniaynay5652085.shtml",
-      "content": "美国股市连续第二个交易日下跌，中东紧张局势升级的迹象盖过了围绕通胀报告的乐观情绪。 标普500指数下跌1.6%，抹去盘初小幅涨幅。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayskw5622083.shtml",
+      "content": " 美银证券援引截至6月5日当周的客户资金流向数据，称随着标普500指数创下2025年4月以来最大单周跌幅，上周该行客户撤出美国科技股的规模达到纪录最大。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-11",
+      "time": "00:00",
+      "keywords": []
+    },
+    {
+      "title": "广深铁路股份获易方达基金增持500.4万股 每股作价约2.34港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-11/doc-iniaysky2390756.shtml",
+      "content": "香港联交所最新资料显示，6月4日，易方达基金管理有限公司增持广深铁路股份（00525）500.4万股，每股作价2.3431港元，总金额约为1172.49万港元。",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:49",
+      "keywords": [
+        "广深铁路股份",
+        "易方达基金",
+        "增持"
+      ]
+    },
+    {
+      "title": "三生制药获汇添富基金增持97.5万股 每股作价约15.68港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-11/doc-iniaysky2389695.shtml",
+      "content": "香港联交所最新数据显示，6月5日，汇添富基金管理股份有限公司增持三生制药（01530）97.5万股，每股作价15.681港元，总金额约为1528.90万港元。",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:46",
+      "keywords": [
+        "三生制药",
+        "汇添富基金",
+        "增持"
+      ]
+    },
+    {
+      "title": "百奥赛图获易方达基金增持20.7万股 每股作价约40.63港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-11/doc-iniaysky2389263.shtml",
+      "content": "香港联交所最新数据显示，6月4日，易方达基金管理有限公司增持百奥赛图（02315）20.7万股，每股作价40.6298港元，总金额约为841.04万港元。",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:45",
+      "keywords": [
+        "百奥赛图",
+        "易方达基金",
+        "增持"
+      ]
+    },
+    {
+      "title": "网易云音乐获富国基金增持51.38万股 每股作价约113.04港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-11/doc-iniaysmc0926011.shtml",
+      "content": "香港联交所最新数据显示，6月8日，富国基金管理有限公司增持网易云音乐（09899）51.38万股，每股作价113.0369港元，总金额约为5807.84万港元。",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:42",
+      "keywords": [
+        "网易云音乐",
+        "富国基金",
+        "增持"
+      ]
+    },
+    {
+      "title": "陈果最新策略：先保下限再求上限 A股需走向再平衡 避免单押单一赛道",
+      "source": "新浪证券",
+      "url": "https://finance.sina.com.cn/stock/2026-06-11/doc-iniayskz4149740.shtml",
+      "content": "6月11日，东方财富证券研究所副所长陈果发布最新策略观点。他指出，年初全球资金一致预期看好的贵金属大幅起落，Q2 全球资金预期看好的韩国存储股也在大幅起落。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "night",
       "date": "2026-06-10",
-      "time": "21:15",
+      "time": "23:42",
       "keywords": []
     },
     {
-      "title": "标准普尔将阿根廷信用评级上调至B- 展望稳定",
+      "title": "比尔盖茨就爱泼斯坦案作证，称曾被后者敲诈",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniaynca2428820.shtml",
-      "content": "标准普尔将阿根廷的长期外币债务评级从CCC+上调至B-，展望稳定。 标准普尔表示，得益于持续财政盈余和经济失衡改善，阿根廷政府已经获得更多流动性来偿付债务。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniaysky2383021.shtml",
+      "content": " 微软联合创始人比尔·盖茨周三在美国国会作证时表示，当他与已故性侵犯者杰弗里·爱泼斯坦交往，为他的慈善基金会筹款时，他“并不完全了解”爱泼斯坦的罪行程度。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "night",
       "date": "2026-06-10",
-      "time": "21:14",
+      "time": "23:33",
       "keywords": []
     },
     {
-      "title": "6月11日美股成交额前20：超微电脑拟进行70亿美元股权融资，股价重挫约30%",
+      "title": "券商调研青睐硬科技赛道 关注景气周期与全球化布局",
+      "source": "证券时报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-11/doc-iniayskz4142451.shtml",
+      "content": "人民财讯6月11日电，当前，券商调研重心向硬科技赛道倾斜。记者梳理近一个月（5月10日至6月10日）券商调研数据发现，738家受访上市公司普遍拥有扎实基本面与明确技术落地场...",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:22",
+      "keywords": [
+        "券商"
+      ]
+    },
+    {
+      "title": "道指深夜重挫950点，科技股普跌，超微电脑大跌27%，甲骨文绩后跌超7%，黄金跌超4%",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-11/doc-iniaysky2367010.shtml",
+      "content": " 当地时间6月10日，美股三大股指集体收跌，道指跌1.87%跌超950点，标普500指数跌1.62%，纳指跌1.98%，标普和纳指双双收于一个多月来最低水平。",
+      "priority": "medium",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "22:56",
+      "keywords": []
+    },
+    {
+      "title": "微软旗下的Xbox计划进行大规模裁员",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniaynay5640369.shtml",
-      "content": "周三美股成交额第1名美光科技收跌4.7%，成交492.93亿美元。周三美股芯片股普遍走低。分析指出，美股AI交易已经过于拥挤，多头资金和机构资金仓位都高度集中在少数AI基础设...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayskw5572580.shtml",
+      "content": "据了解公司策略的知情人士透露，微软旗下的Xbox业务计划下个月进行大规模裁员。 知情人士透露，微软预计将在6月30日财年结束后不久进行裁员，具体规模尚不清楚。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "night",
       "date": "2026-06-10",
-      "time": "20:56",
+      "time": "22:38",
       "keywords": []
     },
     {
-      "title": "6月11日热门中概股多数下跌 台积电跌4.44%，阿里巴巴跌3.57%",
+      "title": "SpaceX据悉获得三大债券评级机构的投资级评级",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniaynca2406947.shtml",
-      "content": "6月11日热门中概股涨跌不一，纳斯达克中国金龙指数（HXC）收跌0.28%。 上涨个股（按市值从高到低）：网易涨3.97%，中华电信涨1.24%，携程涨1.98%，贝壳涨0.09%，中通涨2...",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "20:29",
-      "keywords": []
-    },
-    {
-      "title": "埃及结清油气行业欠款",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniaynay5616316.shtml",
-      "content": "埃及石油与矿产资源部部长周三表示，全额结清拖欠油气合作伙伴的欠款是该行业的一个转折点。 巴达维补充道，这一成就（将欠款从2024年6月时的约61亿美元降至零）“恢复了投...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniaysky2349370.shtml",
+      "content": " 据知情人士透露，埃隆·马斯克的SpaceX告诉投资者，该公司已从三家主要债券评级机构获得了投资级评级，这可能有助于SpaceX在IPO后继续融资时降低成本。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "night",
       "date": "2026-06-10",
-      "time": "19:50",
-      "keywords": []
-    },
-    {
-      "title": "英国推动能源投资，向700多个项目提供电网接入许可",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayfvi1070057.shtml",
-      "content": "英国电力规划机构周三表示，根据一项经过改革的电网接入分配体系，英国已向700多个项目提供了电网接入许可。预计这一新体系将有助于每年释放高达400亿英镑的清洁能源投资。...",
-      "priority": "medium",
-      "sectors": [
-        "能源"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "19:38",
-      "keywords": []
-    },
-    {
-      "title": "隐瞒内存采购策略，Calix因证券欺诈面临集体诉讼",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayfve2516661.shtml",
-      "content": "网络设备制造商Calix， Inc．（NYSE： CALX）正面临证券欺诈集体诉讼。此前公司披露，此前八个季度持续扩张的创纪录毛利率，实际上依赖于提前采购廉价内存组件的有限库存...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "19:31",
-      "keywords": []
-    },
-    {
-      "title": "资产净值持续下滑股息遭削减，FS KKR因证券欺诈面临集体诉讼",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayfvf4290981.shtml",
-      "content": "业务发展公司FS KKR Capital Corp．（NYSE： FSK）正面临证券欺诈集体诉讼。此前该公司披露净资产值连续多个季度下降，并于2026年2月将季度股息从0.70美元大幅削减至0...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "19:30",
-      "keywords": []
-    },
-    {
-      "title": "重组项目受挫业绩大幅下滑，Helen of Troy因证券欺诈面临集体诉讼",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayfve2514612.shtml",
-      "content": "消费用品公司Helen of Troy Limited（NASDAQ： HELE）正面临证券欺诈集体诉讼。该公司被指控在Pegasus项目重组计划的实际进展方面误导投资者...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "19:25",
-      "keywords": []
-    },
-    {
-      "title": "做空报告揭开“幽灵交易”，SES AI因证券欺诈面临集体诉讼",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayfvi1059993.shtml",
-      "content": "锂金属电池技术公司SES AI Corporation（NYSE： SES）正面临证券欺诈集体诉讼。此前做空机构指控该公司通过关联方自买自卖交易虚增营收...",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "19:10",
+      "time": "22:38",
       "keywords": []
     },
     {
@@ -550,7 +611,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -566,7 +627,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场洞察"
@@ -582,7 +643,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "地产观察"
@@ -599,7 +660,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "今日热点"
@@ -615,7 +676,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -631,7 +692,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -647,7 +708,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "权益周观察"
@@ -663,7 +724,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "数据图解"
@@ -679,7 +740,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -695,7 +756,7 @@
         "半导体"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -711,7 +772,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -727,7 +788,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -744,7 +805,7 @@
         "消费"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "今日热点"
@@ -762,7 +823,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -778,7 +839,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -794,7 +855,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -810,459 +871,494 @@
         "光模块"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "今日热点"
       ]
     },
     {
-      "title": "美国军方：已开始对伊朗发动更多袭击",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayncc4218259.shtml",
-      "content": " 美国中央司令部在X上发帖表示，“美国中央司令部部队于美东时间今天下午5点15分开始对伊朗境内多个目标发动额外的自卫性打击。”",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "21:46",
-      "keywords": []
-    },
-    {
-      "title": "美国已开始对伊朗发动袭击",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniaynca2444865.shtml",
-      "content": "据Axios记者援引美国官员在X发帖表示，美国对伊朗的袭击已经开始。 此前，美国总统特朗普誓言立即打击伊朗，德黑兰称民用水利设施遭美军袭击。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "21:40",
-      "keywords": []
-    },
-    {
-      "title": "甲骨文股价盘后下跌 数据中心成本掩盖AI相关业务增长",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniaynay5663755.shtml",
-      "content": "甲骨文公布的季度资本支出高于预期，引发投资者对该公司人工智能（AI）基础设施业务盈利能力的担忧。 公司截至5月31日的财季资本支出为159亿美元...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "21:33",
-      "keywords": []
-    },
-    {
-      "title": "6月11日外盘头条：特朗普宣布立即打击伊朗 美国5月退还220亿美元关税 Anthropic呼吁强制测试AI模型",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayncf0982062.shtml",
-      "content": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、特朗普誓言立即打击伊朗 德黑兰称民用水利设施遭美军袭击 2、部分美国大银行因涉嫌非法终止服务面临联邦调查 3...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "21:30",
-      "keywords": []
-    },
-    {
-      "title": "甲骨文数据中心支出高于预期",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayncc4185753.shtml",
-      "content": "甲骨文公布的季度资本支出高于预期，引发投资者对该公司人工智能（AI）基础设施业务盈利能力的担忧。 在截至5月31日的财季中，公司资本支出为159亿美元...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "20:41",
-      "keywords": []
-    },
-    {
-      "title": "白宫提名Brian Johnson担任美国消费者金融保护局局长",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayncc4184258.shtml",
-      "content": "根据公告，白宫已将Brian Johnson出任美国消费者金融保护局局长的提名提交给参议院。",
-      "priority": "low",
-      "sectors": [
-        "消费",
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "20:38",
-      "keywords": []
-    },
-    {
-      "title": "部分美国大银行因涉嫌非法终止服务面临联邦调查",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniaynca2410389.shtml",
-      "content": "据一位知情人士透露，美国联邦检察官正在调查华尔街一些大型银行是否出于政治原因，非法终止了与部分客户的业务往来。 因调查处于保密阶段而要求匿名的这位知情人士表示...",
+      "title": "新秀丽于6月10日斥资2033.55万港元回购142.53万股",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-11/doc-iniayskw5621958.shtml",
+      "content": "新秀丽（01910）发布公告，于2026年6月10日斥资2033.55万港元回购142.53万股。",
       "priority": "low",
       "sectors": [
         "金融"
       ],
       "period": "night",
       "date": "2026-06-10",
-      "time": "20:38",
-      "keywords": []
+      "time": "23:59",
+      "keywords": [
+        "新秀丽",
+        "回购"
+      ]
     },
     {
-      "title": "SpaceX上市倒计时：聚焦史上最大IPO 华尔街热捧与质疑交织",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniaynca2409317.shtml",
-      "content": "近期备受市场瞩目的SpaceX首次公开募股（IPO）进入倒计时，马斯克旗下这家火箭、卫星和人工智能公司的首发规模有望缔造历史，华尔街严阵以待。",
+      "title": "英派药业-B因超额配股权获行使而发行629.64万股H股",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-11/doc-iniayskz4158473.shtml",
+      "content": "英派药业-B（07630）发布公告，于2026年6月10日因超额配股权获悉数行使而发行及配发629.64万股H股股份。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "night",
       "date": "2026-06-10",
-      "time": "20:36",
-      "keywords": []
+      "time": "23:58",
+      "keywords": [
+        "英派药业-B",
+        "发行",
+        "H股"
+      ]
     },
     {
-      "title": "原油：油价上涨 特朗普警告将再次打击伊朗",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniaynay5631777.shtml",
-      "content": "油价上涨，因为美国总统特朗普誓言立即打击伊朗，同时数据显示美国原油库存再次大幅下降。 WTI上涨2.1%，收于每桶91美元上方，扭转此前跌势。",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "20:34",
-      "keywords": []
-    },
-    {
-      "title": "美国5月退还近220亿美元关税 基本抵消当月关税收入",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniaynca2408733.shtml",
-      "content": " 美国财政部在5月向进口商退还了近220亿美元的关税收入。这是自最高法院推翻特朗普的大部分关税措施以来，美国政府进行的首批此类退款。",
+      "title": "海清智元于6月11日至6月16日招股 拟全球发售8516.25万股H股",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggipo/2026-06-11/doc-iniaysmc0931625.shtml",
+      "content": "海清智元（01392）于2026年6月11日至6月16日招股，公司拟全球发售8516.25万股H股，其中，香港发售占约10%，国际发售占约90%。发售价将为每股发售股份7.2港元，每手500股...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "night",
       "date": "2026-06-10",
-      "time": "20:34",
-      "keywords": []
+      "time": "23:55",
+      "keywords": [
+        "海清智元",
+        "招股"
+      ]
     },
     {
-      "title": "6月11日收盘：美股收跌道指下挫950点 市场关注通胀数据与中东局势",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniaynca2400342.shtml",
-      "content": "北京时间6月11日凌晨，美股周三收跌，道指下挫约950点。芯片股延续近期跌势。美国总统特朗普暗示伊朗谈判耗时“过长”并威胁采取更多行动后，原油价格走高。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "20:09",
-      "keywords": []
-    },
-    {
-      "title": "全球风能理事会报告：到2035年底全球海上风电装机容量预计将翻两番",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniaynca2395574.shtml",
-      "content": "全球风能理事会周二发布的一份报告显示，未来十年，全球海上风电装机容量预计将翻两番，到2035年底达到420吉瓦。 报告要点如下： 截至2025年底...",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "19:56",
-      "keywords": []
-    },
-    {
-      "title": "挪威补贴审查投票为浮式风电项目前景蒙上阴影",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniaynay5617839.shtml",
-      "content": " 挪威议会周二要求政府重新评估其为该国首个商业浮式海上风电场计划的补贴方案，这引发了项目可能完全停滞的担忧，并对能源转型项目的更广泛前景造成了影响。",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "19:55",
-      "keywords": []
-    },
-    {
-      "title": "马来西亚国家石油公司与日本JERA签署20年LNG供应协议",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniaynca2394535.shtml",
-      "content": " 马来西亚国家石油公司与日本JERA公司已签署一项新的长期液化天然气供应协议，将双方的合作伙伴关系延续至本世纪四十年代。",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "19:53",
-      "keywords": []
-    },
-    {
-      "title": "ADNOC寻求通过XRG在加拿大实现上游及LNG业务增长",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniaynca2394066.shtml",
-      "content": " 阿布扎比国家石油公司一位高级 executives 周二在卡尔加里举行的全球能源展上表示，该公司正通过其国际业务分支XRG，在加拿大的上游和液化天然气领域探索机遇。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "19:52",
-      "keywords": []
-    },
-    {
-      "title": "壳牌在纳米比亚近海油井发现“最具前景地下构造”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniaynay5616601.shtml",
-      "content": "壳牌公司及其合作伙伴卡塔尔能源与纳米比亚国家石油公司（NAMCOR）报告称，在纳米比亚近海0039号石油勘探许可证区块内的Merlin-1X勘探井取得了令人鼓舞的结果。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "19:51",
-      "keywords": []
-    },
-    {
-      "title": "EnQuest达成8.33亿美元交易，收购马来西亚海上权益",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayfvf4298065.shtml",
-      "content": " EnQuest公司已同意以最高8.33亿美元的价格收购马来西亚四个海上生产分成合同的权益。这笔交易将显著增加这家独立能源公司的产量、储量和现金流。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "19:50",
-      "keywords": []
-    },
-    {
-      "title": "TGS将为赤道几内亚创建大型海上地震数据集",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayfva5746186.shtml",
-      "content": "TGS公司已与赤道几内亚碳氢化合物与矿业发展部签署协议，将创建一个覆盖该国海上盆地的全国性“大型地震测量”项目的第一阶段，该项目计划创建一个大型海上多客户地震数据集...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "19:48",
-      "keywords": []
-    },
-    {
-      "title": "PXGEO与挪威国家石油公司达成协议，开展自主水下检测试验",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayfve2523043.shtml",
-      "content": " PXGEO公司已与挪威国家石油公司签署了一项为期一年的框架协议，将使用萨博公司的“萨博虎”水下干预无人机技术进行自主水下检测试验。",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "19:47",
-      "keywords": []
-    },
-    {
-      "title": "REGENT公司的“海翔翼”地效飞行器借助新认证流程，准备进军日本市场",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayfvf4296525.shtml",
-      "content": "商船三井和日本航空已与英国劳氏船级社以及总部位于美国的REGENT Craft公司达成协议，将共同为REGENT公司的全电动“海翔翼”地效飞行器制定认证和运营批准流程...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "19:45",
-      "keywords": []
-    },
-    {
-      "title": "巴西国家石油公司入股挪威国家石油公司运营的巴西近海Itaimbezinho区块",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayfvi1071741.shtml",
-      "content": "巴西国家石油公司已同意从挪威国家石油公司手中收购巴西近海坎波斯盆地Itaimbezinho勘探区块50%的权益。 挪威国家石油公司目前持有该区块100%的权益。",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "19:43",
-      "keywords": []
-    },
-    {
-      "title": "里海海上建设公司新增建AHTS船舶，提升海上作业能力",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayfve2521020.shtml",
-      "content": "里海海上建设公司（Caspian Offshore Construction，简称COC）已从中太平洋工程与承包公司（Sinopacific Engineering &amp; Contracting...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "19:42",
-      "keywords": []
-    },
-    {
-      "title": "错失10亿美元拉美转型目标，Globant因证券欺诈面临集体诉讼",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayfve2515808.shtml",
-      "content": "IT和软件服务公司Globant S.A．（NYSE： GLOB）正面临证券欺诈集体诉讼。该公司此前号称要将其拉丁美洲业务打造成一个增长引擎，但实际上面临需求下降...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "19:29",
-      "keywords": []
-    },
-    {
-      "title": "隐瞒库存与需求问题，GPK公司因证券欺诈面临集体诉讼",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayfve2515449.shtml",
-      "content": "消费品包装巨头图形包装控股公司（Graphic Packaging Holding Company，NYSE： GPK）正面临证券欺诈集体诉讼。此前公司多次下调财务指引...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "19:28",
-      "keywords": []
-    },
-    {
-      "title": "Grail关键癌症试验失败引发集体诉讼，投资者索赔截至8月4日",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayfva5737914.shtml",
-      "content": "多癌种早期检测公司Grail， Inc．（NASDAQ： GRAL）正面临证券欺诈集体诉讼。此前公司宣布，其关键的NHS-Galleri试验未达到主要终点...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "19:27",
-      "keywords": []
-    },
-    {
-      "title": "座椅供应商缺陷致交付受阻，Lucid因证券欺诈面临集体诉讼",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayfve2513880.shtml",
-      "content": "电动汽车制造商Lucid Group， Inc．（NASDAQ： LCID）正面临证券欺诈集体诉讼。该公司被指控在Gravity SUV因供应商座椅质量问题导致交付中断一事上误导投资者...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "19:23",
-      "keywords": []
-    },
-    {
-      "title": "隐瞒收购标的客户流失，LKQ因证券欺诈面临集体诉讼",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayfve2513329.shtml",
-      "content": "汽车替换零件分销商LKQ Corporation（NASDAQ： LKQ）正面临证券欺诈集体诉讼。该公司被指控在2023年以约21亿美元收购Uni-Select及其子公司FinishMaster的过程中...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "19:21",
-      "keywords": []
-    },
-    {
-      "title": "Phreesia营收指引突然下调约3700万美元， 因证券欺诈面临集体诉讼",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayfve2512995.shtml",
-      "content": "医疗健康软件平台提供商Phreesia， Inc．（NYSE： PHR）正面临证券欺诈集体诉讼。该公司在2025年12月给出2027财年营收指引后，仅过约四个月便大幅下调预期约3700万美元...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "19:20",
-      "keywords": []
-    },
-    {
-      "title": "巴西数字银行PicS因IPO隐瞒信贷缺陷，股价腰斩后面临集体诉讼",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayfvf4288009.shtml",
-      "content": "巴西数字银行PicS N.V．（NASDAQ： PICS）正面临证券欺诈集体诉讼。该公司于2026年1月30日以每股19美元的价格完成首次公开募股，募资约4.34亿美元...",
+      "title": "图达通于6月10日斥资约122.01万港元回购28.05万股",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-11/doc-iniaysmc0931578.shtml",
+      "content": "图达通（02665）发布公告，于2026年6月10日该公司斥资约122.01万港元回购28.05万股，回购价格为每股4.17至4.60港元。",
       "priority": "low",
       "sectors": [
         "金融"
       ],
       "period": "night",
       "date": "2026-06-10",
-      "time": "19:19",
-      "keywords": []
+      "time": "23:55",
+      "keywords": [
+        "图达通",
+        "回购"
+      ]
     },
     {
-      "title": "涉PFIC税务问题及CFO言论，POET Technologies面临证券集体诉讼",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayfvf4286410.shtml",
-      "content": "加拿大硅光子技术公司POET Technologies Inc．（NASDAQ： POET）正面临证券欺诈集体诉讼。此前公司被指控未披露其可能被认定为被动外国投资公司（PFIC）的税务身份...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "19:15",
-      "keywords": []
-    },
-    {
-      "title": "股价曾狂飙486倍，Regencell收到司法部传票后面临证券集体诉讼",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayfvf4284999.shtml",
-      "content": "一家仅有12名员工、没有任何营收的中药生物科技公司，市值一度飙升至140亿美元，股价在一年内从不足0.30美元暴涨至78.00美元，涨幅高达486倍。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-10",
-      "time": "19:12",
-      "keywords": []
-    },
-    {
-      "title": "Anthropic CEO呼吁强制测试AI模型 并赋予政府干预权",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayfvf4281758.shtml",
-      "content": " Anthropic PBC首席执行官Dario Amodei表示，如果新的人工智能模型带来特定风险，政府应有权阻止AI开发商部署这些模型。",
+      "title": "狮腾控股与美亚娱乐联手推出AI驱动品牌“MASYN”",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-11/doc-iniayskz4153840.shtml",
+      "content": "狮腾控股（02562）发布公告，本公司与美亚娱乐资讯集团有限公司（美亚娱乐，00391）今日宣布达成战略合作，携手推出全新AI驱动品牌MASYN。",
       "priority": "low",
       "sectors": [
         "AI"
       ],
       "period": "night",
       "date": "2026-06-10",
-      "time": "19:05",
+      "time": "23:52",
+      "keywords": [
+        "狮腾控股",
+        "美亚娱乐",
+        "MASYN"
+      ]
+    },
+    {
+      "title": "稀美资源遭Jiawei Resources Holding Limited减持3410万股 每股作价16.1港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-11/doc-iniaysmc0928817.shtml",
+      "content": "香港联交所最新数据显示，6月5日，Jiawei Resources Holding Limited减持稀美资源（09936）3410万股，每股作价16.1港元，总金额约为5.49亿港元。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:50",
+      "keywords": [
+        "稀美资源",
+        "减持"
+      ]
+    },
+    {
+      "title": "中国煤层气获王忠胜增持93万股 每股作价约0.38港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-11/doc-iniaysky2390454.shtml",
+      "content": "香港联交所最新数据显示，6月9日，王忠胜增持中国煤层气（08270）93万股，每股作价0.3827港元，总金额约为35.59万港元。增持后最新持股数目约为2.92亿股，持股比例为74...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:48",
+      "keywords": [
+        "中国煤层气",
+        "增持"
+      ]
+    },
+    {
+      "title": "中国建筑兴业获FIDELITY CHINA SPECIAL SITUATIONS PLC增持54万股 每股作价约0.8港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-11/doc-iniaysky2390128.shtml",
+      "content": "香港联交所最新数据显示，6月5日，FIDELITY CHINA SPECIAL SITUATIONS PLC增持中国建筑兴业（00830）54万股，每股作价0.7986港元，总金额约为43.12万港元。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:47",
+      "keywords": [
+        "中国建筑兴业",
+        "增持"
+      ]
+    },
+    {
+      "title": "中东，突传大消息！美军袭击！伊朗宣布关闭霍尔木兹海峡！特朗普发声！黄金、白银集体下挫，原油直线飙涨",
+      "source": "",
+      "url": "https://finance.sina.com.cn/world/2026-06-11/doc-iniayskw5613285.shtml",
+      "content": "中东，传来大消息，美中央司令部称袭击伊朗境内多个目标。特朗普对媒体称，美军将继续打击伊朗。6月11日最新消息，伊朗宣布对所有船只关闭霍尔木兹海峡。",
+      "priority": "low",
+      "sectors": [
+        "能源",
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:45",
+      "keywords": []
+    },
+    {
+      "title": "沃尔核材获小摩增持42.22万股 每股作价约14.51港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-11/doc-iniayskw5611678.shtml",
+      "content": "香港联交所最新数据显示，6月4日，小摩增持沃尔核材（09981）42.22万股，每股作价14.5147港元，总金额约为612.81万港元。增持后最新持股数目为700.915万股...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:44",
+      "keywords": [
+        "沃尔核材",
+        "增持"
+      ]
+    },
+    {
+      "title": "福莱特玻璃获主席阮洪良增持119.6万股 每股作价约7.48港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-11/doc-iniaysmc0926407.shtml",
+      "content": "香港联交所最新资料显示，6月8日，主席阮洪良增持福莱特玻璃（06865）119.6万股，每股作价7.4812港元，总金额约为894.75万港元。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:43",
+      "keywords": [
+        "福莱特玻璃",
+        "增持"
+      ]
+    },
+    {
+      "title": "哔哩哔哩-W获Norges Bank增持62.528万股 每股作价约144.03港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-11/doc-iniayskw5610162.shtml",
+      "content": "香港联交所最新资料显示，6月8日，Norges Bank增持哔哩哔哩-W（09626）62.528万股，每股作价144.0293港元，总金额约为9005.86万港元。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:41",
+      "keywords": [
+        "哔哩哔哩-W",
+        "增持"
+      ]
+    },
+    {
+      "title": "三花智控遭Schroders PLC减持136.63万股 每股作价约30.48港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-11/doc-iniaysky2386493.shtml",
+      "content": "香港联交所最新资料显示，6月8日，Schroders PLC减持三花智控（02050）136.63万股，每股作价30.4838港元，总金额约为4165万港元。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:40",
+      "keywords": [
+        "三花智控",
+        "减持"
+      ]
+    },
+    {
+      "title": "绩后大跌！甲骨文交出靓丽财报，但巨额融资计划引担忧",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/roll/2026-06-11/doc-iniayskw5612760.shtml",
+      "content": "转自：财联社 美东时间周三盘后，甲骨文公司报告了第四财季（截至5月31日）财报。 尽管该季度甲骨文公司的盈利和收入均强于预期，同时上调了全年利润预测...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:38",
+      "keywords": [
+        "美元",
+        "甲骨文",
+        "分析师",
+        "财报",
+        "融资"
+      ]
+    },
+    {
+      "title": "Anthropic敦促美国国会在联邦标准出台前不要阻止各州制定AI法规",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniaysmc0923649.shtml",
+      "content": "Anthropic公司周三呼吁美国国会不要阻止各州制定人工智能法规，除非立法者通过一项“严格的”联邦法律来应对“灾难性的人工智能风险”。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:38",
+      "keywords": []
+    },
+    {
+      "title": "视频|美军称对伊朗多个目标实施新一轮打击 伊朗多地传出爆炸声",
+      "source": "新华社",
+      "url": "https://finance.sina.com.cn/money/fund/2026-06-11/doc-iniaysmc0920531.shtml",
+      "content": "",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:30",
+      "keywords": []
+    },
+    {
+      "title": "中信建投：若封锁延宕致使库存击穿安全红线，油价二次飙升的风险犹存",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/roll/2026-06-11/doc-iniayskz4144981.shtml",
+      "content": "来源：中信建投证券研究 文|周君芝陈怡 纵观战后原油周期演进，本次霍尔木兹封锁未重演70年代的“超级翻倍”，核心在于全球供需结构重塑与宏观缓冲机制的生效。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:25",
+      "keywords": []
+    },
+    {
+      "title": "OpenAI与甲骨文合作，OCI客户可用云额度直接调用OpenAI模型及Codex",
+      "source": "界面",
+      "url": "https://finance.sina.com.cn/world/2026-06-11/doc-iniaysmc0919023.shtml",
+      "content": "OpenAI与甲骨文当地时间6月10日宣布合作，甲骨文云基础设施（OCI）客户将可在数周内通过现有甲骨文云承诺额度（UCM积分）访问OpenAI前沿模型及Codex...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:22",
+      "keywords": [
+        "甲骨文"
+      ]
+    },
+    {
+      "title": "快讯：现货黄金日内跌超1%，现报4030美元/盎司",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/nmetal/gjshz/2026-06-11/doc-iniayskw5600580.shtml",
+      "content": "2026年6月11日，现货黄金日内跌超1%，现报4030美元/盎司。",
+      "priority": "low",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:20",
+      "keywords": []
+    },
+    {
+      "title": "股海导航_2026年6月11日_沪深股市公告与交易提示",
+      "source": "股市直击",
+      "url": "https://finance.sina.com.cn/stock/s/2026-06-11/doc-iniaysky2378303.shtml",
+      "content": "【停牌】 000908 ST景峰 300093 *ST金刚 000504 *ST生物 300411 金盾股份 5002306 *ST云网 【复牌】 688189 ST南新 300225 金力泰 003032 传智教育 【品大事】  2连板双星...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:19",
+      "keywords": [
+        "股海导航",
+        "沪深股市",
+        "公告提示"
+      ]
+    },
+    {
+      "title": "欧盟与韩国签署数字贸易协议，深化双边经济关系",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniaysky2370999.shtml",
+      "content": "欧盟与韩国周三签署了一项数字贸易协定，旨在提升数字交易便利性，并进一步加强双方的经济联系。这项数字贸易协议以及峰会上达成的其他合作内容...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:10",
+      "keywords": []
+    },
+    {
+      "title": "AI冲击就业前景引发广泛讨论，专家热议“谁将真正受益于人机混合劳动力时代”？",
+      "source": "澎湃新闻",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-11/doc-iniaysky2372605.shtml",
+      "content": "人工智能技术加速进入职场，正在重新塑造美国社会对就业、教育和职业发展的认知。围绕“谁将真正受益于人机混合劳动力时代”这一问题，《纽约时报》近日组织了一场专题讨论...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:10",
+      "keywords": [
+        "AI"
+      ]
+    },
+    {
+      "title": "特朗普召开战情室会议讨论对伊朗军事行动",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-11/doc-iniayskz4139509.shtml",
+      "content": "据央视新闻消息，据美国方面消息，美国总统特朗普于当地时间6月10日下午在白宫战情室召开会议，讨论针对伊朗可能采取的新一轮打击行动。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:09",
+      "keywords": [
+        "特朗普",
+        "伊朗",
+        "美国",
+        "白宫",
+        "美国总统"
+      ]
+    },
+    {
+      "title": "四大证券报头版头条内容精华摘要_2026年6月11日_财经新闻",
+      "source": "股市直击",
+      "url": "https://finance.sina.com.cn/stock/y/2026-06-11/doc-iniaysky2368626.shtml",
+      "content": "6月11日（星期四），今日报刊头条主要内容精华如下： 中国证券报 5月份CPI总体平稳 PPI继续上涨 国家统计局6月10日发布数据显示，5月份...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:05",
+      "keywords": [
+        "上证报",
+        "中证报",
+        "证券日报"
+      ]
+    },
+    {
+      "title": "5月我国新能源汽车产销量同比两位数增长",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/wm/2026-06-11/doc-iniayskz4134016.shtml",
+      "content": "转自：大湾区之声 我国夏粮小麦收获超七成 记者从农业农村部了解到，截至10日17时，全国已收获夏粮小麦2.48亿亩，收获进度73.06%。",
+      "priority": "low",
+      "sectors": [
+        "能源",
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:02",
+      "keywords": []
+    },
+    {
+      "title": "伊朗：全面关闭霍尔木兹海峡",
+      "source": "新华社",
+      "url": "https://finance.sina.com.cn/roll/2026-06-11/doc-iniaysmc0905973.shtml",
+      "content": "来源：新华社 新华社德黑兰6月11日电 伊朗武装部队11日说，即日起霍尔木兹海峡对所有船只关闭，违规通行者将成为打击目标。 据多家伊朗媒体报道...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:00",
+      "keywords": []
+    },
+    {
+      "title": "SpaceX要买诺基亚？买不起，更买不到",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/roll/2026-06-11/doc-iniaysmc0909175.shtml",
+      "content": " SpaceX上市在即，任何风吹草动都会引发大范围关注。近期有传言称，SpaceX计划强化其在电信基础设施和AI领域的布局，而诺基亚被认为是最具战略价值的潜在收购目标之一。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "23:00",
+      "keywords": []
+    },
+    {
+      "title": "伊朗革命卫队称打击两艘非法通过霍尔木兹海峡的船只",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-11/doc-iniaysmc0907334.shtml",
+      "content": "伊朗导弹无人机袭击美军舰 ‌当地时间11日，伊朗伊斯兰革命卫队海军称，两艘试图非法通过霍尔木兹海峡的船只遭到打击。 目前，伊朗暂未就该事件公布更多细节。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "22:55",
+      "keywords": []
+    },
+    {
+      "title": "美国打击伊朗南部防空系统和雷达",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayskz4113369.shtml",
+      "content": " Axios记者援引一名美国官员的话在X上发帖称，美国打击的所有目标都位于伊朗南部，包括防空系统、雷达以及无人机指挥控制单元。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "22:34",
+      "keywords": []
+    },
+    {
+      "title": "美国连续第二天打击伊朗境内目标 脆弱停火遭受进一步考验",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-11/doc-iniayskz4113024.shtml",
+      "content": "美国军方表示，已连续第二天对伊朗境内的“多个”目标发动袭击，此前特朗普指责德黑兰拖延临时和平协议谈判。 美国中央司令部表示，已于纽约时间周三下午5点15分开始所谓的“...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-10",
+      "time": "22:33",
       "keywords": []
     },
     {
@@ -1275,7 +1371,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1291,7 +1387,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1307,7 +1403,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1323,7 +1419,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1341,7 +1437,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1357,7 +1453,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1373,7 +1469,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1389,7 +1485,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1405,7 +1501,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1421,7 +1517,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1437,7 +1533,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1453,7 +1549,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1469,7 +1565,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1486,7 +1582,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1502,7 +1598,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场速递"
@@ -1518,7 +1614,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1534,7 +1630,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1550,7 +1646,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1566,7 +1662,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1582,7 +1678,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "霍尔木兹周报"
@@ -1598,7 +1694,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1614,7 +1710,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1630,7 +1726,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1647,7 +1743,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1663,7 +1759,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1679,7 +1775,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "行业速递"
@@ -1695,7 +1791,7 @@
         "医药"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1711,7 +1807,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1727,7 +1823,7 @@
         "医药"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1743,7 +1839,7 @@
         "黄金"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1759,7 +1855,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1775,7 +1871,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1791,7 +1887,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "CCI快报"
@@ -1807,7 +1903,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1824,7 +1920,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1840,7 +1936,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场速递"
@@ -1856,7 +1952,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1872,7 +1968,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1888,7 +1984,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1904,7 +2000,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1920,7 +2016,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1936,7 +2032,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1952,7 +2048,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "霍尔木兹日报"
@@ -1968,7 +2064,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1984,7 +2080,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2000,7 +2096,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2016,7 +2112,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2032,7 +2128,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2048,7 +2144,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2064,7 +2160,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -2081,7 +2177,7 @@
         "机器人"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场洞察"
@@ -2097,7 +2193,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2113,7 +2209,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2129,7 +2225,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2145,7 +2241,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2161,7 +2257,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "数据图解"
@@ -2177,7 +2273,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "霍尔木兹日报"
@@ -2193,7 +2289,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2210,7 +2306,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2226,7 +2322,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2242,7 +2338,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2258,7 +2354,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2274,7 +2370,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2290,7 +2386,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-06-10",
+      "date": "2026-06-11",
       "time": "--:--",
       "keywords": [
         "商圈"
