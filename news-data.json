@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-12T18:27:21.443400",
+  "updated": "2026-06-12T20:39:45.280051",
   "total": 148,
   "sources": [
     "新浪财经",
@@ -7,11 +7,109 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 34,
-    "medium": 21,
-    "low": 93
+    "high": 37,
+    "medium": 23,
+    "low": 88
   },
   "items": [
+    {
+      "title": "SpaceX股票收于160.95美元，创纪录IPO首日上涨19.22%，市值突破2万亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyif1870389.shtml",
+      "content": "美股周五常规交易时段已经结束，截至收盘，SpaceX股价上涨25.95美元，涨幅为19.22%，收于160.95美元，公司市值达到21045.6亿美元。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-12",
+      "time": "20:08",
+      "keywords": []
+    },
+    {
+      "title": "6月13日收盘：美股收高道指涨0.7% 市场关注美伊谈判与SpaceX首秀",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyih8646940.shtml",
+      "content": "北京时间6月13日凌晨，美股周五收高。传美伊接近达成和平协议。伊朗官方媒体报道称该和平协议将使霍尔木兹海峡重新开放。SpaceX登陆纳斯达克，收盘市值超过2.1万亿美元...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-12",
+      "time": "20:05",
+      "keywords": []
+    },
+    {
+      "title": "ChatGPT月活突破10亿 竞品增速达640%和973%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyhz3128962.shtml",
+      "content": " 市场研究机构Sensor Tower的最新估计显示，OpenAI旗下应用ChatGPT在2026年5月突破10亿月活跃用户，成为有史以来最快达到这一规模的应用程序。",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-06-12",
+      "time": "19:50",
+      "keywords": []
+    },
+    {
+      "title": "律所对Sleep Number发起证券欺诈调查 股价已暴跌逾九成",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-inicetzk8765264.shtml",
+      "content": "Wolf Haldenstein Adler Freeman &amp; Herz LLP律师事务所宣布，代表Sleep Number Corporation（纳斯达克代码：SNBR）的股东，对该公司可能存在的证券欺诈行为发起调查。...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-12",
+      "time": "19:22",
+      "keywords": []
+    },
+    {
+      "title": "美国应急储备原油出口飙升至历史新高 战争扰乱供应",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-inicetzi1986080.shtml",
+      "content": "由于伊朗战争引发有记录以来最严重的供应中断，美国应急储备原油出口飙升至历史新高。 Kpler Ltd．汇编的海关数据显示，今年迄今已有近2...",
+      "priority": "high",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-06-12",
+      "time": "19:15",
+      "keywords": []
+    },
+    {
+      "title": "马斯克成为世界首位万亿富豪，大致相当于瑞士或波兰一年的GDP",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-inicetzc3246668.shtml",
+      "content": "埃隆·马斯克刚刚成为世界上第一位万亿富豪。 随着SpaceX周五在纳斯达克以每股150美元的价格开盘，他在该公司的持股价值超过7660亿美元。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-12",
+      "time": "19:03",
+      "keywords": []
+    },
+    {
+      "title": "尾盘：美股尾盘走高，SpaceX市值超2.2万亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-inicetzi1979158.shtml",
+      "content": "北京时间6月13日凌晨，美股周五尾盘走高。传美伊接近达成和平协议。伊朗官方媒体报道称该和平协议将使霍尔木兹海峡重新开放。SpaceX登陆纳斯达克...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-12",
+      "time": "18:52",
+      "keywords": []
+    },
     {
       "title": "SpaceX给出28.5万亿美元潜在市场规模，该数据需基于超长期视角考量",
       "source": "环球市场播报",
@@ -164,62 +262,6 @@
       "period": "noon",
       "date": "2026-06-12",
       "time": "16:01",
-      "keywords": []
-    },
-    {
-      "title": "SpaceX上市催生巨额财富，员工可买下圣安东尼奥四成房产",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-iniceptf3316619.shtml",
-      "content": "随着SpaceX即将以每股135美元的价格完成史上最大规模IPO，公司估值达到1.77万亿美元，一场史无前例的财富分配正在上演。根据房地产 brokerage Redfin发布的最新报告...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-12",
-      "time": "15:41",
-      "keywords": []
-    },
-    {
-      "title": "SpaceX上市催生2.4万亿美元衍生品定价，亚洲投资者绕道抢筹",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-iniceptn8821437.shtml",
-      "content": "SpaceX即将以每股135美元的发行价登陆纳斯达克，对应估值1.77万亿美元，成为全球史上规模最大的IPO。然而，由于亚洲多数市场无法直接参与此次发行...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-12",
-      "time": "15:26",
-      "keywords": []
-    },
-    {
-      "title": "“估值泰斗” 称 SpaceX 给出的潜在市场规模纯属“凭空臆想”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-iniceptn8821173.shtml",
-      "content": "素有 “估值泰斗” 之称的学者对 SpaceX 约 1.8 万亿美元的估值存疑。 纽约大学金融学教授阿斯瓦斯・达莫达兰周五在 CNBC 节目《街头喧嚣》中表示：“SpaceX...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-12",
-      "time": "15:25",
-      "keywords": []
-    },
-    {
-      "title": "肖特韦尔：28.5万亿美元潜在市场规模，源于所有设备与人都需“回传数据至云端”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-iniceptf3307111.shtml",
-      "content": " SpaceX 招股书中有一个极具冲击力的数据：公司测算自身整体潜在市场规模达 28.5 万亿美元，该市场绝大部分来自企业级 AI 应用，而目前 SpaceX 在这一领域的业务布局尚浅。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-12",
-      "time": "15:12",
       "keywords": []
     },
     {
@@ -531,6 +573,76 @@
       ]
     },
     {
+      "title": "6月13日热门中概股多数上涨 联电涨4.50%，理想汽车涨3.77%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyih8652147.shtml",
+      "content": "6月13日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收高0.48%。 上涨个股（按市值从高到低）：台积电涨0.65%，阿里巴巴涨0.08%，拼多多涨0.32%，日月光半导体涨3...",
+      "priority": "medium",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-06-12",
+      "time": "20:25",
+      "keywords": []
+    },
+    {
+      "title": "五家AI与航天公司新晋纳斯达克100指数",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyia9907622.shtml",
+      "content": " 纳斯达克近日公布了2026年6月季度再平衡结果，五家新公司将被纳入纳斯达克100指数，同时移除五家现有成分股。此次调整将于2026年6月22日开盘前正式生效。",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-06-12",
+      "time": "20:00",
+      "keywords": []
+    },
+    {
+      "title": "交易员对美元看涨程度升至逾一年来最高水平",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyhz3130724.shtml",
+      "content": "交易员对美元的看涨程度升至逾一年来最高水平，中东战争巩固了美元的避险地位。 根据美国商品期货交易委员会（CFTC）周五公布并由彭博汇编的数据，截至6月9日，对冲基金...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-12",
+      "time": "19:57",
+      "keywords": []
+    },
+    {
+      "title": "劳埃德银行乘武士债券热潮 成功发行750亿日元债券",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyif1863186.shtml",
+      "content": "英国劳埃德银行集团近日重返日本武士债券市场，完成了一笔750亿日元（约合4.68亿美元）的日元计价债券发行，成为最新一家利用日本投资者强劲需求的海外借款机构。",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-12",
+      "time": "19:43",
+      "keywords": []
+    },
+    {
+      "title": "欧洲股市接近纪录高位 受美伊协议进展提振",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-inicetzc3252291.shtml",
+      "content": "欧洲股市本周收于纪录高位附近，市场猜测美伊接近达成重新开放霍尔木兹海峡的协议，推动油价下跌。 欧洲斯托克600指数收盘上涨1.9%，接近2月战前的峰值。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-12",
+      "time": "19:22",
+      "keywords": []
+    },
+    {
       "title": "Momentus宣布2500万美元市价定增，股价大幅震荡",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-iniceptm2053824.shtml",
@@ -542,48 +654,6 @@
       "period": "noon",
       "date": "2026-06-12",
       "time": "15:59",
-      "keywords": []
-    },
-    {
-      "title": "新晋SpaceX百万富翁重塑大额财富管理行业格局",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-inicepti0092479.shtml",
-      "content": "核心要点SpaceX 本次 IPO 催生数千名新晋百万富翁，部分员工抱团谈判，拿到费率更低的财富管理定制方案。私人银行、大型券商、信托公司及注册投资顾问纷纷组建团队...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-12",
-      "time": "15:41",
-      "keywords": []
-    },
-    {
-      "title": "软件股迈向二十年来最长连跌 AI扰动之忧再度来袭",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-iniceptf3312950.shtml",
-      "content": "软件公司股价周五下跌，延续了近期的低迷走势，该板块正迈向约二十年来最长的连跌纪录。 安硕扩展科技-软件部门ETF在纽约下跌约1%。",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-06-12",
-      "time": "15:29",
-      "keywords": []
-    },
-    {
-      "title": "SpaceX创纪录IPO据悉吸引逾3500亿美元认购需求 20%份额配给散户",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-iniceptm2044884.shtml",
-      "content": "据知情人士透露，SpaceX创纪录的750亿美元首次公开募股（IPO）吸引了超过3500亿美元的机构和散户投资需求。 知情人士称，作为史上规模最大的IPO...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-12",
-      "time": "15:28",
       "keywords": []
     },
     {
@@ -863,6 +933,230 @@
       ]
     },
     {
+      "title": "美国官员：伊朗协议将实现特朗普的目标",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyia9914392.shtml",
+      "content": "美国政府高级官员在与媒体举行的电话会议上表示，与伊朗的协议将实现总统唐纳德·特朗普设定的核心目标。 官员表示，该协议将重开霍尔木兹海峡、解除美国的封锁...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-12",
+      "time": "20:29",
+      "keywords": []
+    },
+    {
+      "title": "报道：特朗普称可能本周末或周一签署与伊朗的协议",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyhz3138163.shtml",
+      "content": "据Axios记者援引与特朗普的通话在X发帖报道，这位美国总统认为与伊朗的协议可能在本周末或周一签署。 据Axios报道，特朗普称他已要求伊朗就其官方媒体有关协议细节的报道发...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-12",
+      "time": "20:28",
+      "keywords": []
+    },
+    {
+      "title": "美国官员：美国认为伊朗对霍尔木兹海峡的控制力已减弱",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyhz3137420.shtml",
+      "content": "一位美国高级政府官员在与记者通话时表示，美国认为伊朗对霍尔木兹海峡的控制力已减弱。 这位官员表示，美国认为自身的影响力增强，而伊朗施加的压力有所减弱。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-12",
+      "time": "20:24",
+      "keywords": []
+    },
+    {
+      "title": "美国称已在霍尔木兹海峡使139艘商船改道",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyif1874568.shtml",
+      "content": "美国中央司令部在X发帖表示，自4月13日以来，美军在对伊朗的持续封锁行动中已指示139艘商船改变航线。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-12",
+      "time": "20:23",
+      "keywords": []
+    },
+    {
+      "title": "SpaceX上市抽走氧气 其他太空股集体重挫",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyih8645996.shtml",
+      "content": "SpaceX备受期待的首次公开募股引发了其他火箭、卫星和太空相关公司股票周五的抛售潮。 自去年年底SpaceX上市的消息开始流传以来，小型航天相关股票一度借势上涨。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-12",
+      "time": "20:02",
+      "keywords": []
+    },
+    {
+      "title": "谷歌解释为何放弃特朗普政府20亿美元量子计划",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyif1868165.shtml",
+      "content": "谷歌公司近日披露了未参与特朗普政府推出的20亿美元量子计算资助计划的原因。谷歌量子人工智能首席运营官Charina Chou在Semafor科技峰会上表示...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-12",
+      "time": "20:00",
+      "keywords": []
+    },
+    {
+      "title": "Ben & Jerry's创始人呼吁从Magnum手中“解放”这一10亿美元品牌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceyia9903959.shtml",
+      "content": "Ben &amp; Jerry‘s联合创始人本·科恩近期发起一项名为“解放Ben &amp; Jerry’s”的行动，呼吁母公司Magnum冰淇淋公司出售该品牌。科恩认为...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-12",
+      "time": "19:47",
+      "keywords": []
+    },
+    {
+      "title": "甲骨文赢得3.96亿美元联邦人力资源现代化合同",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-inicetzf0031785.shtml",
+      "content": "美国人事管理办公室已授予甲骨文公司一份价值3.958亿美元的合同，用于为联邦政府打造统一的人力资源平台。该平台将覆盖约200万名美国联邦文职雇员...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-12",
+      "time": "19:36",
+      "keywords": []
+    },
+    {
+      "title": "Natural Grocers庆祝“阿肯色日” 为会员提供免费好礼与购物优惠",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-inicetzc3254618.shtml",
+      "content": " 美国天然食品零售商Natural Grocers by Vitamin Cottage， Inc．（纳斯达克代码：NGVC）于2026年6月15日至17日在其位于阿肯色州的三家门店举办年度“阿肯色日”庆祝活动。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-12",
+      "time": "19:31",
+      "keywords": []
+    },
+    {
+      "title": "Square金融为卖家推出3.50%高收益储蓄账户，利率超全美均值8倍",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-inicetzk8764819.shtml",
+      "content": "Block旗下Square金融服务公司近日宣布，面向使用其平台的卖家推出全新高收益储蓄产品。该账户为日均余额达到1万美元的Square卖家提供3.50%的年化百分比收益率...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-12",
+      "time": "19:20",
+      "keywords": []
+    },
+    {
+      "title": "QXO对TopBuild债券要约收购获超99%提早认购",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-inicetzk8763862.shtml",
+      "content": "美国建材分销企业QXO公司周五宣布，其针对TopBuild Corp．两笔优先票据进行的现金要约收购和同意征求获得极高比例的提早认购，为完成对TopBuild的收购交易扫清了关键障碍。...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-12",
+      "time": "19:16",
+      "keywords": []
+    },
+    {
+      "title": "戴德梁行促成爱立信创纪录百万平方英尺总部交易",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-inicetzk8762087.shtml",
+      "content": "近日，全球知名房地产服务商戴德梁行（Cushman &amp; Wakefield，NYSE：CWK）成功协助瑞典通信巨头爱立信（Ericsson，NASDAQ：ERIC）完成其新总部选址。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-12",
+      "time": "19:11",
+      "keywords": []
+    },
+    {
+      "title": "美国官员：美方预计与伊朗的技术性谈判持续60天",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-inicetzk8760042.shtml",
+      "content": "一位特朗普政府高级官员在谈到与伊朗和平协议谈判的时间安排时说：“我们设想的技术性谈判将持续60天。”",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-12",
+      "time": "19:05",
+      "keywords": []
+    },
+    {
+      "title": "美国官员：伊朗签署协议的可能性大约为80%-85%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-inicetzi1982617.shtml",
+      "content": "一位美国政府高级官员表示 ，“伊朗签署协议的可能性大概在80%到85% 之间，但还不到100%”。 “他们的系统非常复杂”。 该官员表示，如果伊朗遵守和平协议...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-12",
+      "time": "19:04",
+      "keywords": []
+    },
+    {
+      "title": "特朗普政府：美国与伊朗可能在数日内签署协议，但并非“100%”确定",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-inicetzk8757297.shtml",
+      "content": " 特朗普政府一位高级官员周五表示，美国和伊朗可能在未来“几天内”签署一项协议，该协议内容包括重新开放霍尔木兹海峡，并采取措施拆除伊朗的核计划。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-12",
+      "time": "18:55",
+      "keywords": []
+    },
+    {
+      "title": "SpaceX上市首秀高开高走 宏大蓝图接受市场检验",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-06-13/doc-inicetzc3252654.shtml",
+      "content": "埃隆·马斯克旗下SpaceX股票周五上市首日开盘上涨。公司750亿美元的IPO缔造历史，并一举跻身全球最大上市公司之列。 纽约时间上午11：46...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-12",
+      "time": "18:00",
+      "keywords": []
+    },
+    {
       "title": "SpaceX正股正式上市，各类“替代概念股”集体跳水：交易员逢低布局标的一览",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-iniceptm2073541.shtml",
@@ -1000,302 +1294,6 @@
       "period": "noon",
       "date": "2026-06-12",
       "time": "16:08",
-      "keywords": []
-    },
-    {
-      "title": "SpaceX开盘价150美元/股",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-iniceptm2051955.shtml",
-      "content": "SpaceX 于周五正式挂牌，开盘价每股 150 美元，较 135 美元的发行价上涨约 11%。 该开盘价低于此前盘前意向报价区间。券商交易柜台最初收到的预估开盘价为 175 美元...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-12",
-      "time": "15:50",
-      "keywords": []
-    },
-    {
-      "title": "SpaceX 董事称该公司是“人类历史上影响力最深远的企业之一”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-iniceptf3318577.shtml",
-      "content": "SpaceX 董事安东尼奥・格雷西亚斯在 CNBC 采访中表示，他认为 SpaceX 是 “人类历史上影响力最为深远的企业之一”。 格雷西亚斯同时也是 Valor Equity...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-12",
-      "time": "15:47",
-      "keywords": []
-    },
-    {
-      "title": "纳斯达克总裁解读交易所如何完成SpaceX这类巨型IPO挂牌",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-inicepti0093989.shtml",
-      "content": "纳斯达克总裁尼尔森・格里格斯在接受 CNBC 采访时表示，完成这场创纪录规模的新股上市，敲钟只是形式，敲定合理的首笔成交价格才是核心...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-12",
-      "time": "15:45",
-      "keywords": []
-    },
-    {
-      "title": "SpaceX首笔成交价现竞价为每股150美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-iniceptf3317162.shtml",
-      "content": " 券商交易柜台收到的 SpaceX 盘前意向报价显示，该股首笔成交价格预计在 150 美元 / 股左右。该价格较今日早些时段、以及最初给出的 175 美元预估大幅回落。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-12",
-      "time": "15:43",
-      "keywords": []
-    },
-    {
-      "title": "Sharon AI与英伟达签署六年算力合作协议，股价早盘下挫7.1%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-iniceptn8826891.shtml",
-      "content": "澳大利亚AI云服务商Sharon AI Holdings周五宣布，已与英伟达签署一项为期六年的AI基础设施算力合作协议。受此消息提振，该公司股价盘前一度飙升超过20%...",
-      "priority": "low",
-      "sectors": [
-        "半导体",
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-06-12",
-      "time": "15:42",
-      "keywords": []
-    },
-    {
-      "title": "Marvell挖角Adobe CFO，AI增长战略再落重子",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-iniceptm2047383.shtml",
-      "content": "Marvell Technology公司周四宣布，任命Adobe首席财务官Dan Durn为公司新任CFO，任期自2026年6月15日起生效。Durn此前已在Marvell董事会任职两年，此番转任管理核心...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-06-12",
-      "time": "15:35",
-      "keywords": []
-    },
-    {
-      "title": "3月底迄今联发科股价已飙升187%，谷歌AI芯片合作驱动估值重塑",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-iniceptf3314432.shtml",
-      "content": "联发科股价正迎来有史以来表现最佳的一个季度。自今年3月底以来，该公司股价累计上涨187%，市值增长超过1300亿美元，成为亚洲市场表现最亮眼的股票之一。",
-      "priority": "low",
-      "sectors": [
-        "半导体",
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-06-12",
-      "time": "15:34",
-      "keywords": []
-    },
-    {
-      "title": "洛杉矶县Palisades山火案开审，370亿美元损失成投资者关注焦点",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-iniceptf3313778.shtml",
-      "content": "针对洛杉矶县史上最具破坏性山火——Palisades大火的纵火案审理本周进入关键阶段。庭审证词详细披露了被告与人工智能聊天机器人的互动记录...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-12",
-      "time": "15:32",
-      "keywords": []
-    },
-    {
-      "title": "伊朗外长：美伊谅解备忘录从未如此接近",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-inicepti0088470.shtml",
-      "content": "伊朗外交部长阿巴斯·阿拉格齐在X发帖称，伊斯兰堡谅解备忘录“从未如此接近”。 称细节将在“适当时候”公布。 还表示：“在最终敲定之前，媒体应避免对其内容进行猜测”。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-12",
-      "time": "15:27",
-      "keywords": []
-    },
-    {
-      "title": "万斯：伊朗被冻结的资金不会仅仅因签署美伊协议而解冻",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-iniceptm2044361.shtml",
-      "content": "美国副总统万斯在X平台发文称：“伊朗不会获得任何现金，美国不会仅仅因为他们签了协议或参加会谈就解冻任何资金。” 万斯表示，围绕“重开霍尔木兹海峡并终结伊朗核武计划的...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-12",
-      "time": "15:26",
-      "keywords": []
-    },
-    {
-      "title": "谷歌披露退出特朗普20亿美元量子计划：附加条件不符自身研发节奏",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-inicepti0087827.shtml",
-      "content": "谷歌公司周四（2026年6月11日）披露，之所以未参与特朗普政府推出的20亿美元量子计算资助计划，是因为该计划附带的条件与公司既定的研发时间表存在冲突...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-12",
-      "time": "15:25",
-      "keywords": []
-    },
-    {
-      "title": "红杉资本肖恩・马奎尔：如今的SpaceX堪比三年前的英伟达",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-iniceptn8820792.shtml",
-      "content": "红杉资本合伙人肖恩・马奎尔将当下的 SpaceX 对标另一大 AI 受益企业 —— 英伟达。 “在我看来，现阶段的 SpaceX 更像三年前的英伟达，而非特斯拉。",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-06-12",
-      "time": "15:23",
-      "keywords": []
-    },
-    {
-      "title": "肖特韦尔称SpaceX是“由爱国者组成的企业”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-iniceptn8819555.shtml",
-      "content": "肖特韦尔在接受 CNBC 采访时表示，除商业业务合同外，SpaceX 始终致力于为政府提供服务，并完整履约各类政府订单。 “我们是一家由爱国者组成的公司...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-12",
-      "time": "15:19",
-      "keywords": []
-    },
-    {
-      "title": "BrandSafway一季度EBITDA下降20%，公司债价格应声下跌",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-iniceptm2042233.shtml",
-      "content": " 受成本上升及数据中心建设投入增加的双重压力，工业服务巨头BrandSafway母公司Brand Industrial Services Inc．一季度盈利大幅下滑，拖累其公司债价格走低。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-12",
-      "time": "15:19",
-      "keywords": []
-    },
-    {
-      "title": "肖特韦尔谈散户投资热潮：马斯克致力于“让太空向所有人敞开大门”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-iniceptm2041327.shtml",
-      "content": "这场巨型 IPO 吸引了海量散户投资者踊跃参与，肖特韦尔表示，市场这份高涨热情，正契合马斯克对公司的长远构想。 “他一心想让太空向所有人敞开大门。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-12",
-      "time": "15:16",
-      "keywords": []
-    },
-    {
-      "title": "肖特韦尔回应伊朗方面威胁：“我们会继续奋勇前行”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-iniceptm2040559.shtml",
-      "content": " 肖特韦尔表示，尽管伊朗扬言要在中东地区打击埃隆・马斯克旗下企业，SpaceX 并不会因此退缩。她称，SpaceX 各业务层面长期以来都遭遇过各类威胁。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-12",
-      "time": "15:14",
-      "keywords": []
-    },
-    {
-      "title": "安进聘请杜克大学复核数据，力保年销售5亿美元药物Tavneos",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-iniceptm2040014.shtml",
-      "content": "安进公司(Amgen)正采取有力手段，以捍卫其年销售额约5亿美元的罕见病药物Tavneos。在美国食品药品监督管理局以数据完整性和安全性问题为由提议将该药撤市后...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-12",
-      "time": "15:13",
-      "keywords": []
-    },
-    {
-      "title": "肖特韦尔：外界严重误解马斯克",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-iniceptn8817134.shtml",
-      "content": " 肖特韦尔在 CNBC 采访中表示，她认为外界 “严重误解了马斯克”。她称，上市前期交流过程中，一众投资者都对马斯克改观颇深。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-12",
-      "time": "15:13",
-      "keywords": []
-    },
-    {
-      "title": "肖特韦尔谈及潜在经营风险：没有什么事让我 “极度担忧”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-iniceptn8815591.shtml",
-      "content": "肖特韦尔表示，目前并未发现任何值得拉响警报的经营风险。 “眼下摆在我们面前的事务里，没有哪一件让我极度忧心，” 她说道，“无论是现有技术...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-12",
-      "time": "15:10",
-      "keywords": []
-    },
-    {
-      "title": "肖特韦尔谈 SpaceX：“我们本质是一家基建企业”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-inicepti0082138.shtml",
-      "content": "SpaceX公司总裁兼首席运营官格温妮・肖特韦尔表示，公司在新兴 AI 新型云赛道中是实打实的竞争者。 她在 CNBC 采访中说道：“我们擅长搭建基础设施，自研运载火箭...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-12",
-      "time": "15:08",
-      "keywords": []
-    },
-    {
-      "title": "肖特韦尔称 SpaceX 的 AI1 卫星将于明年年底发射",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-12/doc-iniceptn8815035.shtml",
-      "content": "SpaceX公司总裁兼首席运营官格温妮・肖特韦尔在接受 CNBC 采访时表示，SpaceX 计划在明年年底发射 AI1 卫星，但在此之前，公司会先在部分星链宽带卫星与星链移动卫星上搭载...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-06-12",
-      "time": "15:07",
       "keywords": []
     },
     {
