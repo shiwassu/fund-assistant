@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-13T09:44:55.405801",
+  "updated": "2026-06-13T12:11:31.349180",
   "total": 148,
   "sources": [
     "新浪财经",
@@ -7,11 +7,25 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 22,
-    "medium": 27,
-    "low": 99
+    "high": 21,
+    "medium": 26,
+    "low": 101
   },
   "items": [
+    {
+      "title": "上市36年“A股活化石”退市，000004成老牌壳公司衰败样本",
+      "source": "中国证券报",
+      "url": "https://finance.sina.com.cn/stock/s/2026-06-13/doc-inichhar1459698.shtml",
+      "content": "1990年12月1日，深交所试营业，深发展、深万科、深金田、深安达、深原野五只股票率先登场——江湖称为“深市老五股”。 时隔36年，*ST国华（000004）——昔日老五股中最神秘也最“...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-06-13",
+      "time": "09:57",
+      "keywords": []
+    },
     {
       "title": "配合存储公司财务造假，26家客户突然被起诉",
       "source": "上海证券报",
@@ -38,34 +52,6 @@
       "period": "morning",
       "date": "2026-06-13",
       "time": "06:26",
-      "keywords": []
-    },
-    {
-      "title": "央行不再“收水”！6000亿元暂别净回笼",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/wm/2026-06-13/doc-inicfreu9737598.shtml",
-      "content": "记者丨唐婧 编辑丨周炎炎 曾芳 央行6个月期买断式逆回购结束缩量，等额对冲6000亿元。 6月12日，中国人民银行发布公告称，为保持银行体系流动性充裕...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-13",
-      "time": "04:22",
-      "keywords": []
-    },
-    {
-      "title": "港股IPO乱象频出！随意标榜自身为“行业第一”、招股书沦为广告等行径被痛批",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-06-13/doc-inicfvnr2848439.shtml",
-      "content": "Career In 投行PEVC 随着港股市场持续优化IPO上市机制，港股监管层对新股上市文件质量的监管力度持续加码。继今年1月底香港证监会发布通函...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-13",
-      "time": "04:01",
       "keywords": []
     },
     {
@@ -358,6 +344,76 @@
       ]
     },
     {
+      "title": "仁芯科技金栎：呼吁芯片行业统一标准，一次验证、多家认可",
+      "source": "睿见Economy",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inichnki2606942.shtml",
+      "content": "2026中国汽车重庆论坛于6月12日-13日举行，仁芯科技有限公司产品副总裁金栎出席并演讲。 金栎表示，国产芯片在入门阶段注重设计，但后续会面临如何快速提升供货能力以满足...",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "noon",
+      "date": "2026-06-13",
+      "time": "12:06",
+      "keywords": []
+    },
+    {
+      "title": "副总管基金一年亏超25%，申万菱信宣布增聘基金经理",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/fund/jjyj/2026-06-13/doc-inichnkq8149187.shtml",
+      "content": "",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-06-13",
+      "time": "11:58",
+      "keywords": []
+    },
+    {
+      "title": "猛士万良渝：价格战正反噬消费者信心，行业平均利润率已降至3.4%",
+      "source": "睿见Economy",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inichhas8268462.shtml",
+      "content": "2026中国汽车重庆论坛于6月12日-13日举行，猛士汽车CEO万良渝出席并演讲。 万良渝表示，行业利润持续承压，虽然价格战现在已经得到很好的控制，但行业仍然面临这样的局面...",
+      "priority": "medium",
+      "sectors": [
+        "消费"
+      ],
+      "period": "morning",
+      "date": "2026-06-13",
+      "time": "11:28",
+      "keywords": []
+    },
+    {
+      "title": "蓝月亮两年亏超10亿港元，高管涨薪千万至4797万港元，累计分红已超累计净利润",
+      "source": "第一财经",
+      "url": "https://finance.sina.com.cn/stock/s/2026-06-13/doc-inichhar1475874.shtml",
+      "content": "",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-06-13",
+      "time": "10:49",
+      "keywords": []
+    },
+    {
+      "title": "小米汽车宋钢：制造是“产品和品牌之外的第三动力”",
+      "source": "睿见Economy",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inichhas8237943.shtml",
+      "content": "2026中国汽车重庆论坛于6月12日-13日举行，小米汽车部副总裁、参谋长宋钢出席并演讲。 宋钢在演讲中表示，在当前的汽车行业讨论中，制造和供应链往往被视为“很LOW”的话题...",
+      "priority": "medium",
+      "sectors": [
+        "消费"
+      ],
+      "period": "morning",
+      "date": "2026-06-13",
+      "time": "10:08",
+      "keywords": []
+    },
+    {
       "title": "零跑汽车徐军：未来十年汽车行业进入微利常态，打法从“敢、快”转向“精、灵”",
       "source": "睿见Economy",
       "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inicfzuu8350297.shtml",
@@ -425,90 +481,6 @@
       "period": "morning",
       "date": "2026-06-13",
       "time": "06:26",
-      "keywords": []
-    },
-    {
-      "title": "风险出清，中信建投投行迎复苏拐点？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/quanshang/qsyj/2026-06-13/doc-inicfzuq9575403.shtml",
-      "content": "中信建投投行业务在经历周期波动后，正走出规模与合规双向并进的稳健增长曲线。 出品|中访网 审核|李晓燕 资本市场先行赔付制度迎来标志性司法进展...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-13",
-      "time": "05:12",
-      "keywords": []
-    },
-    {
-      "title": "Soul App鲁陆：调研显示，20%重度用户每月情绪消费支出达2000元",
-      "source": "睿见Economy",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inicfrey8494598.shtml",
-      "content": "2026IAI传鉴国际创意节于6月12日至13日在北京举办，主题为“聚势新增长”。SoulApp商业化负责人鲁陆表示，调研发现，90%的Z世代认同情绪消费理念...",
-      "priority": "medium",
-      "sectors": [
-        "消费"
-      ],
-      "period": "night",
-      "date": "2026-06-13",
-      "time": "04:25",
-      "keywords": []
-    },
-    {
-      "title": "东方财富策略陈果：若霍尔木兹海峡复航，利好哪些行业？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/roll/2026-06-13/doc-inicfrey8499865.shtml",
-      "content": "陈果投资策略 摘要 美伊走向新一轮和谈，美国国会众议院要求特朗普结束对伊朗的军事行动；伊朗方面有关霍尔木兹海峡管理的草案目前已进入伊朗最高国家安全委员会审议阶段...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-13",
-      "time": "03:46",
-      "keywords": []
-    },
-    {
-      "title": "如何应对利润变化？Unity张俊波：车厂应从“卖车”转向持续软件服务收入",
-      "source": "睿见Economy",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inicfreu9720078.shtml",
-      "content": "2026中国汽车重庆论坛于6月12日-13日举行，Unity中国CEO张俊波出席并演讲。 谈及当前汽车行业利润变化及应对策略，张俊波表示，今年上半年...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-13",
-      "time": "03:45",
-      "keywords": []
-    },
-    {
-      "title": "佳乐酒业徐小梅：白酒主力消费群体转向90后与新中产，偏爱颜值出众的产品",
-      "source": "睿见Economy",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inicfrey8475630.shtml",
-      "content": " 2026IAI传鉴国际创意节于6月12日至13日在北京举办，主题为“聚势新增长”。佳乐酒业副总经理兼北京公司总经理徐小梅在演讲中表示，白酒消费人群发生转移。",
-      "priority": "medium",
-      "sectors": [
-        "消费"
-      ],
-      "period": "night",
-      "date": "2026-06-13",
-      "time": "03:39",
-      "keywords": []
-    },
-    {
-      "title": "主力大调仓！超168亿资金撤出“易中天”，涌向这些方向",
-      "source": "中国证券报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-06-13/doc-inicfret2940025.shtml",
-      "content": "本周（6月8日—12日），A股持续震荡，三大股指走势分化。银行、有色金属等权重板块形成支撑，上证指数走势相对坚挺；深证成指、创业板指受科技成长股回调拖累...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-13",
-      "time": "03:26",
       "keywords": []
     },
     {
@@ -772,6 +744,161 @@
       ]
     },
     {
+      "title": "中电科胡文：车规芯片国产化必须从“事后替代”转向“前期共创”",
+      "source": "睿见Economy",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inichnkq8147229.shtml",
+      "content": "2026中国汽车重庆论坛于6月12日-13日举行，第三中电科芯片技术集团汽车芯片首席专家胡文出席并演讲。 胡文谈到，车规芯片不是短跑，而是一个长期的系统工程。",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "morning",
+      "date": "2026-06-13",
+      "time": "11:52",
+      "keywords": []
+    },
+    {
+      "title": "黑芝麻智能邓堃：芯片公司必须在车规、功能安全、柔性产能上多做文章",
+      "source": "睿见Economy",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inichnki2600715.shtml",
+      "content": "2026中国汽车重庆论坛于6月12日-13日举行，黑芝麻智能应用工程副总裁邓堃出席并演讲。 邓堃谈到，从技术层面来说，高性能、低成本、低功耗的三角平衡...",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "morning",
+      "date": "2026-06-13",
+      "time": "11:46",
+      "keywords": []
+    },
+    {
+      "title": "神经元信息薛百华：未来汽车通讯或将“一条总线干掉所有线缆”",
+      "source": "睿见Economy",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inichnkk9372122.shtml",
+      "content": "2026中国汽车重庆论坛于6月12日-13日举行，神经元信息技术有限公司总经理薛百华出席并演讲。 谈及车内通讯技术演进与光应用布局的问题时，薛百华表示...",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "morning",
+      "date": "2026-06-13",
+      "time": "11:35",
+      "keywords": []
+    },
+    {
+      "title": "年投诉超5000宗！韩泰、锦湖原厂轮胎用了2年多就开裂，涉大众、小米、特斯拉等十余款车型",
+      "source": "红星资本局",
+      "url": "https://finance.sina.com.cn/chanjing/gsnews/2026-06-13/doc-inichnki2600891.shtml",
+      "content": " 红星资本局6月13日消息，近期，一汽-大众、上汽大众旗下多款车型被消费者投诉“原厂轮胎开裂”，主要涉及韩泰和锦湖两家轮胎供应商。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-06-13",
+      "time": "11:31",
+      "keywords": []
+    },
+    {
+      "title": "阿维塔王辉谈辅助驾驶：各车企应集体加强用户培训机制",
+      "source": "睿见Economy",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inichhar1492136.shtml",
+      "content": "2026中国汽车重庆论坛于6月12日-13日举行，阿维塔科技董事长王辉出席并演讲。 王辉表示，在存量竞争的环境中，即便坚持做技术、做价值，也难免被市场裹挟。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-06-13",
+      "time": "11:31",
+      "keywords": []
+    },
+    {
+      "title": "地平线余凯：主机厂自研是产业规律，供应商要做“偏房丫鬟”等召唤",
+      "source": "睿见Economy",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inichham2713284.shtml",
+      "content": "2026中国汽车重庆论坛于6月12日-13日举行，地平线创始人兼CEO余凯出席并演讲。 在回应“智能化时代是否会出现像宁德时代那样利润集中的企业”时，余凯表示...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-06-13",
+      "time": "10:58",
+      "keywords": []
+    },
+    {
+      "title": "瑞银专家电话会：厄尔尼诺现象已“正式成立”且可能“非常强烈”",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/roll/2026-06-13/doc-inichhas8256568.shtml",
+      "content": "华尔街见闻 美国国家海洋和大气管理局已正式宣布厄尔尼诺现象成立，模型显示有63%的概率演变为“极强”事件。该现象对农业、粮食通胀、煤炭需求...",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "morning",
+      "date": "2026-06-13",
+      "time": "10:44",
+      "keywords": []
+    },
+    {
+      "title": "理想汽车刘立国：下一个十年不是配置之争，而是生命之争",
+      "source": "睿见Economy",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inichhan9481153.shtml",
+      "content": "2026中国汽车重庆论坛于6月12日-13日举行，理想汽车整车电动高级副总裁刘立国出席并演讲。 刘立国谈到，理想判断汽车的下一个十年不是配置之争，还是生命之争。",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "morning",
+      "date": "2026-06-13",
+      "time": "10:38",
+      "keywords": []
+    },
+    {
+      "title": "小鹏汽车余鹏：物联AI从底盘开始",
+      "source": "睿见Economy",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inichhas8242455.shtml",
+      "content": "2026中国汽车重庆论坛于6月12日-13日举行，小鹏集团副总裁、汽车技术中心负责人余鹏出席并演讲。 余鹏在演讲中表示，物理AI时代已经到来，底盘在这场变革中被重新定义。",
+      "priority": "low",
+      "sectors": [
+        "消费",
+        "AI"
+      ],
+      "period": "morning",
+      "date": "2026-06-13",
+      "time": "10:21",
+      "keywords": []
+    },
+    {
+      "title": "智界汽车赵长江：预计2035年中国品牌出海将达1500-2000万辆",
+      "source": "睿见Economy",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inichham2688484.shtml",
+      "content": "2026中国汽车重庆论坛于6月12日-13日举行，智界汽车执行董事及执行副总裁赵长江出席并演讲。 赵长江在演讲中表示，中国汽车过去是大而不强...",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "morning",
+      "date": "2026-06-13",
+      "time": "09:47",
+      "keywords": []
+    },
+    {
+      "title": "英格兰队在美国备战世界杯遭洗劫，“只剩一个足球”",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-13/doc-inichham2688643.shtml",
+      "content": "来源 | 环球网 长安街知事 据环球网6月13日援引英媒报道，被球迷称为“三狮军团”的英格兰队在抵达美国堪萨斯城备战世界杯前遭遇意外，运输球队训练装备的车辆失窃...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-06-13",
+      "time": "09:40",
+      "keywords": []
+    },
+    {
       "title": "SpaceX业务一极盈利两极亏损 累计亏损达413亿美元",
       "source": "市场资讯",
       "url": "https://finance.sina.com.cn/roll/2026-06-13/doc-inicfzuq9574502.shtml",
@@ -828,7 +955,7 @@
       "keywords": []
     },
     {
-      "title": "合资转型进入下半场：为什么广汽丰田能够突围？",
+      "title": "当合资集体承压，谁找到了转型新路径？",
       "source": "新浪科技",
       "url": "https://finance.sina.com.cn/stock/enterprise/2026-06-13/doc-inicfzuq9552311.shtml",
       "content": "当下，中国合资汽车品牌正经历一场前所未有的挑战。新能源汽车渗透率持续攀升，智能化竞争不断升级，加之油价上浮等因素的影响，今年传统合资品牌普遍销量低迷...",
@@ -969,6 +1096,76 @@
       "keywords": []
     },
     {
+      "title": "三聚氰胺磷酸盐(MP)商品报价动态（2026-06-13）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-06-13/doc-inicfvnr2883297.shtml",
+      "content": "生意社06月13日讯交易商品牌/产地交货地最新报价三聚氰胺磷酸盐（MP） 含量：99%湖南永硕新材料科技有限公司湖南永硕新材料湖南省/郴州市21元/千克 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-06-13",
+      "time": "06:15",
+      "keywords": []
+    },
+    {
+      "title": "氢氧化锆商品报价动态（2026-06-13）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-06-13/doc-inicfvnr2874839.shtml",
+      "content": "生意社06月13日讯交易商品牌/产地交货地最新报价氢氧化锆 含量：45%湖南永硕新材料科技有限公司永硕新材料湖南省/郴州市28元/公斤 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-06-13",
+      "time": "06:15",
+      "keywords": []
+    },
+    {
+      "title": "锡酸锌商品报价动态（2026-06-13）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-06-13/doc-inicfvnr2875622.shtml",
+      "content": "生意社06月13日讯交易商品牌/产地交货地最新报价锡酸锌 含量：46%湖南永硕新材料科技有限公司永硕新材料湖南省/郴州市180元/公斤 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "有色"
+      ],
+      "period": "morning",
+      "date": "2026-06-13",
+      "time": "06:15",
+      "keywords": []
+    },
+    {
+      "title": "碳酸锆钾商品报价动态（2026-06-13）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-06-13/doc-inicfvnr2875708.shtml",
+      "content": "生意社06月13日讯交易商品牌/产地交货地最新报价碳酸锆钾 含量：22%湖南永硕新材料科技有限公司永硕新材料湖南省/郴州市24元/公斤 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-06-13",
+      "time": "06:15",
+      "keywords": []
+    },
+    {
+      "title": "氟化锰商品报价动态（2026-06-13）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-06-13/doc-inicfvns9651788.shtml",
+      "content": "生意社06月13日讯交易商品牌/产地交货地最新报价氟化锰 工业级湖南永硕新材料科技有限公司永硕新材料湖南省/郴州市22元/公斤 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-06-13",
+      "time": "06:15",
+      "keywords": []
+    },
+    {
       "title": "蔚来李斌：中国汽车产业进入“决赛圈”最残酷阶段",
       "source": "睿见Economy",
       "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inicfvnv1630096.shtml",
@@ -1064,204 +1261,6 @@
       "period": "night",
       "date": "2026-06-13",
       "time": "05:29",
-      "keywords": []
-    },
-    {
-      "title": "长江证券副董事长辞职！",
-      "source": "",
-      "url": "https://finance.sina.com.cn/roll/2026-06-13/doc-inicfvnr2855581.shtml",
-      "content": "来源：五道口江湖 长江证券6月12日公告：2026年6月11日，公司董事会收到副董事长陈佳先生辞职的书面报告，因个人原因，陈佳先生申请辞去公司董事、副董事长...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-13",
-      "time": "05:28",
-      "keywords": []
-    },
-    {
-      "title": "是否会自研芯片？长安汽车史云朋回应",
-      "source": "睿见Economy",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inicfvnv1610334.shtml",
-      "content": "2026中国汽车重庆论坛于6月12日-13日举行，长安汽车芯片应用经理史云朋出席并演讲。 被问及长安汽车是否会自研芯片时，史云朋表示，自研与否是一个情景选择...",
-      "priority": "low",
-      "sectors": [
-        "半导体",
-        "消费"
-      ],
-      "period": "night",
-      "date": "2026-06-13",
-      "time": "05:23",
-      "keywords": []
-    },
-    {
-      "title": "阿联酋已同意向伊朗释放百亿美元资金 但遭否认",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-13/doc-inicfvnr2850147.shtml",
-      "content": "据相关媒体引四处消息来源报道，阿联酋已同意向伊朗释放百亿美元的资金。 阿联酋已同意释放总计100亿美元的资金，其中超过30亿美元已经交付。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-13",
-      "time": "05:18",
-      "keywords": []
-    },
-    {
-      "title": "汇鼎光学董事长焦飞宏谈配镜：青少年群体中，情绪价值超越产品本身的功能价值",
-      "source": "睿见Economy",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inicfvnv1603861.shtml",
-      "content": "2026IAI传鉴国际创意节于6月12日至13日在北京举办，主题为“聚势新增长”。汇鼎光学董事长焦飞宏表示，企业专注眼镜镜片研发生产，产品覆盖青少年、中青年、中老年全人群。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-13",
-      "time": "05:07",
-      "keywords": []
-    },
-    {
-      "title": "润多滋胡自强：所有消费行为最终都在回答 “我想成为什么样的人”",
-      "source": "睿见Economy",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inicfvnv1597617.shtml",
-      "content": " 2026IAI传鉴国际创意节于6月12日至13日在北京举办，主题为“聚势新增长”。润多滋胡自强表示，现在有一个很明显的现象，很多人消费之后都会发朋友圈分享。",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "night",
-      "date": "2026-06-13",
-      "time": "04:49",
-      "keywords": []
-    },
-    {
-      "title": "德载厚资本董扬呼吁：中国芯片企业不要搞全栈自研，要拉群合作",
-      "source": "睿见Economy",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inicfrey8500699.shtml",
-      "content": " 2026中国汽车重庆论坛于6月12日-13日举行，中国动力电池产业创新联盟理事长、中国汽车芯片产业创新联盟理事长、德载厚资本董事长董扬出席并演讲。",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "night",
-      "date": "2026-06-13",
-      "time": "04:39",
-      "keywords": []
-    },
-    {
-      "title": "钛媒体发布关于哈啰报警的声明，称所有信息均有据可查，有据可依",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/roll/2026-06-13/doc-inicfvnv1598218.shtml",
-      "content": "【相关阅读】被曝曾推出暴力手段针对竞品核心人员、扣押竞争对手车辆，哈啰回应：文章涉嫌传播不实信息等，已举报 来源：钛媒体 ▎声明。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-13",
-      "time": "04:37",
-      "keywords": []
-    },
-    {
-      "title": "比亚迪凌和平：“闪充技术”为新能源汽车持续高速发展起到引领作用",
-      "source": "睿见Economy",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inicfrey8491955.shtml",
-      "content": "2026中国汽车重庆论坛于6月12日-13日举行，比亚迪汽车工程研究院副院长凌和平出席并演讲。凌和平谈到，比亚迪推出的闪充技术，以及自己建站...",
-      "priority": "low",
-      "sectors": [
-        "能源",
-        "消费"
-      ],
-      "period": "night",
-      "date": "2026-06-13",
-      "time": "04:19",
-      "keywords": []
-    },
-    {
-      "title": "雷军回应“用私家车装600斤车厘子被指违规”，交警发声",
-      "source": "封面新闻",
-      "url": "https://finance.sina.com.cn/wm/2026-06-13/doc-inicfreu9725182.shtml",
-      "content": "近日，小米创办人、董事长兼CEO雷军用私家车装600斤车厘子被指违规引发热议。 6月12日，雷军发布视频称“带1000斤车厘子慰问工程师”。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-13",
-      "time": "03:52",
-      "keywords": []
-    },
-    {
-      "title": "世界杯带火中国制造：卖家忙到凌晨1点，西班牙球衣日销500件",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/roll/2026-06-13/doc-inicfret2946321.shtml",
-      "content": "对于中国卖家而言，持续一年的世界杯销售周期目前正处于第二波高峰。凌晨1点，陈宁（化名）的工厂还在赶工。这位做了10年足球周边生意的卖家，最近每天这个点下班。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-13",
-      "time": "03:48",
-      "keywords": []
-    },
-    {
-      "title": "深铁集团向万科提供11.4亿元股东借款",
-      "source": "新京报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-13/doc-inicfreu9713465.shtml",
-      "content": "新京报贝壳财经讯（记者段文平）6月12日晚，万科发布公告称，第一大股东深圳市地铁集团有限公司（以下简称“深铁集团”或“出借人”）向公司提供不超过11...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-13",
-      "time": "03:28",
-      "keywords": []
-    },
-    {
-      "title": "非遗传承人黄旺旺：2024年和泡泡玛特IP联名作品成功破圈",
-      "source": "睿见Economy",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inicfret2930736.shtml",
-      "content": "2026IAI传鉴国际创意节于6月12日至13日在北京举办，主题为“聚势新增长”。福建省工艺美术大师、国家级非遗莆田木雕代表性传承人黄旺旺在演讲中谈到，审美与眼界...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-13",
-      "time": "03:14",
-      "keywords": []
-    },
-    {
-      "title": "尚界Z7现身重庆车展，这次内饰没有“松”",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/shenji/2026-06-13/doc-inicfret2929566.shtml",
-      "content": "新浪科技讯 6月13日上午消息，近日，2026重庆车展正式开幕。鸿蒙智行也携包括享界S9、智界R7等多款高关注车型集体亮相。在北京车展因内饰“松动”而引起争议的尚界Z7也再度现...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-13",
-      "time": "03:12",
-      "keywords": []
-    },
-    {
-      "title": "瑞浦兰钧张小聪：乘用车进入平缓期，商用车蓝海市场值得期待",
-      "source": "睿见Economy",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-06-13/doc-inicfreu9702626.shtml",
-      "content": "2026中国汽车重庆论坛于6月12日-13日举行，瑞浦兰钧副总裁张小聪出席并演讲。 张小聪指出，从2010年至今，他见证了中国新能源汽车产业的快速增长直至全球领先。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-13",
-      "time": "03:06",
       "keywords": []
     },
     {
