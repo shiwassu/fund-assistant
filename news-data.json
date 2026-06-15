@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-15T18:52:22.781527",
+  "updated": "2026-06-15T22:36:48.576979",
   "total": 149,
   "sources": [
     "新浪财经",
@@ -7,11 +7,123 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 28,
-    "medium": 25,
-    "low": 96
+    "high": 26,
+    "medium": 24,
+    "low": 99
   },
   "items": [
+    {
+      "title": "美国战略石油储备跌至1983年以来最低水平",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-16/doc-inicpvua6389851.shtml",
+      "content": "美国战略石油储备已降至40多年来的最低水平，原因是紧急库存被释放，以缓解伊朗战争引发的供应中断。 美国能源部周一公布的数据显示，截至6月12日，美国战略石油储备为3...",
+      "priority": "high",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "22:30",
+      "keywords": []
+    },
+    {
+      "title": "山姆被约谈背后，超市食品安全问题该去哪里投诉",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/consume/xiaofei/2026-06-16/doc-inicnpyq9963863.shtml",
+      "content": "2026年6月15日，国家市场监管总局约谈沃尔玛中国总部负责人的消息登上微博热搜第一，引发广泛关注。约谈原因直指山姆会员商店长期集中爆发的各类食品安全问题——从门店货架...",
+      "priority": "high",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "22:30",
+      "keywords": []
+    },
+    {
+      "title": "美国股市：美伊临时协议提振风险偏好 纳斯达克100指数大涨3.1%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-16/doc-inicpvua6367828.shtml",
+      "content": "美国主要股指上涨，此前美国和伊朗同意达成临时协议以重开霍尔木兹海峡，此举推动油价下跌，并在美联储主席凯文·沃什本周首次主持货币政策会议前缓解了市场对通胀的担忧。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "21:50",
+      "keywords": []
+    },
+    {
+      "title": "SpaceX上市交易次日飙升20% 市值增加4120亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-16/doc-inicpvty9590300.shtml",
+      "content": "SpaceX股价在上市第二个交易日继续大涨，延续该公司在上周五上市首日便跻身全球市值最高的上市公司行列的耀眼表现。 SpaceX周一上涨20%，市值增加4120亿美元。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "21:50",
+      "keywords": []
+    },
+    {
+      "title": "城堡证券：利率上升将对风险资产构成挑战 美联储最快可能9月加息",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-16/doc-inicpvuc7816401.shtml",
+      "content": " 城堡证券表示，随着美联储逐步接近新一轮加息周期，加之投资者对人工智能造成经济影响的判断变得更加审慎，风险资产可能面临动荡。",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "20:52",
+      "keywords": []
+    },
+    {
+      "title": "多艘伊朗船只顺利通过美方海上封锁区",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-16/doc-inicpvty9568298.shtml",
+      "content": "据伊朗方面当地时间16日消息，3艘油轮和2艘载有伊朗基本物资的船只已突破美国方面实施的海上封锁。另有消息称，多艘伊朗船只顺利穿过封锁区。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "20:47",
+      "keywords": []
+    },
+    {
+      "title": "金价跃升 美国和伊朗达成协议以恢复霍尔木兹海峡通行",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-06-16/doc-inicpvuc7811295.shtml",
+      "content": " 金价和银价上涨，此前美国和伊朗达成临时协议，旨在结束敌对行动并恢复霍尔木兹海峡通行，这缓解了全球通胀担忧，可能降低市场对加息的预期。",
+      "priority": "high",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "20:35",
+      "keywords": []
+    },
+    {
+      "title": "6月16日收盘：美股收高纳指涨超3% 道指涨逾450点创历史新高 市场关注美伊协议签订",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-06-16/doc-inicpvua6330164.shtml",
+      "content": "北京时间6月16日凌晨，美股周一收高。美国总统特朗普表示，霍尔木兹海峡“已经部分开放”，并将于周五（6月19日）全面开放，届时，美国和伊朗将正式签署一份谅解备忘录。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "20:28",
+      "keywords": []
+    },
     {
       "title": "特朗普给予沃什充足空间重塑美联储",
       "source": "环球市场播报",
@@ -52,146 +164,6 @@
       "period": "noon",
       "date": "2026-06-15",
       "time": "16:18",
-      "keywords": []
-    },
-    {
-      "title": "联邦贸易委员会重拳整治汽车经销商“隐形收费”，乱象依旧屡禁不止",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-16/doc-inicpmee9725238.shtml",
-      "content": "购车消费者动辄被收取数千美元不透明杂费，汽车行业仍在变通规避监管一辆汽车后备箱敞开，一张长长的消费单据从箱内延伸出来 内容速览...",
-      "priority": "high",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "16:00",
-      "keywords": []
-    },
-    {
-      "title": "全球资本市场瞩目！超级央行周来袭，美联储新主席首秀，核心看点一文全梳理",
-      "source": "中国证券报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-15/doc-inicpewk6620638.shtml",
-      "content": "本周，全球主要央行将迎来密集议息窗口。 北京时间6月15日至16日，日本央行召开政策会议；6月18日凌晨，美联储将公布最新利率决议；英国央行、瑞士央行、挪威央行...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "15:12",
-      "keywords": []
-    },
-    {
-      "title": "瑞银认为油价下跌将缓解美联储主席沃什面临的加息压力",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-15/doc-inicpewm8102690.shtml",
-      "content": " 瑞银集团的Leslie Falconio表示，美国和伊朗宣称双方达成协议重新开放霍尔木兹海峡，抑制了油价并引发美国国债市场上涨之后，美联储今年加息的压力正在缓解。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "14:57",
-      "keywords": []
-    },
-    {
-      "title": "重大诉讼披露不及时不完整，国晟科技及三名高管被北京证监局、上交所警示",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-15/doc-inicpewp4875859.shtml",
-      "content": "6月15日，国晟科技（603778.SH）发布公告，因涉及一起重大买卖合同纠纷的信息披露存在不及时、不完整问题，公司及相关人员先后收到中国证监会北京监管局（以下简称“北京证...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "14:44",
-      "keywords": []
-    },
-    {
-      "title": "千亿龙头，预计上半年净利翻倍增长",
-      "source": "中国证券报-中证网",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-15/doc-inicpewm8101690.shtml",
-      "content": " 6月15日晚，亿纬锂能发布半年度业绩预告，预计今年上半年净利润为31.3亿元—33.71亿元，同比增长95%—110%；扣非后净利润为24.3亿元—26亿元，同比增长110%—125%。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "14:38",
-      "keywords": []
-    },
-    {
-      "title": "10倍牛股，诉讼披露不及时，遭监管警示",
-      "source": "中国证券报-中证网",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-15/doc-inicpewk6613645.shtml",
-      "content": "国晟科技6月15日晚公告称，因5184.62万元诉讼披露不及时，国晟科技及相关责任人今日收到北京证监局出具的警示函。 同日，上交所公告称...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "14:38",
-      "keywords": []
-    },
-    {
-      "title": "五年借账户炒自家股票累计交易超7000万元最终亏损，仙鹤股份实控人王明龙仍遭处罚 | 长三角资本局",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/stock/csjzbj/2026-06-15/doc-inicpewp4872778.shtml",
-      "content": "文|新浪财经上海站 十里 实控人炒自家公司股票，竟然也能炒亏。 这不是段子，而是仙鹤股份实控人王明龙刚刚收到的一张监管罚单。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "14:36",
-      "keywords": []
-    },
-    {
-      "title": "深夜，全线飙涨！霍尔木兹海峡，突传重磅！伊朗重大宣布",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-15/doc-inicpewh9830270.shtml",
-      "content": "全球股市狂飙。 受美伊达成停战协议刺激，美股三大指数全线大涨，道指创出历史新高，纳指大涨超2%，大型科技股、芯片、光通信概念股集体爆发...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "14:32",
-      "keywords": []
-    },
-    {
-      "title": "美债全线上扬 伊朗协议促使交易员削减对美联储的加息押注",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-15/doc-inicpewp4870588.shtml",
-      "content": "美债上涨，伊朗临时协议达成的消息传出后，投资者降低对美联储加息的预期。 各期限美债收益率均下降，对货币政策变化最为敏感的短期债券收益率领跌。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "14:30",
-      "keywords": []
-    },
-    {
-      "title": "SpaceX尚未公布载人登火星时间表，Kalshi交易员认为本十年内难以实现",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-15/doc-inicpewm8089647.shtml",
-      "content": " SpaceX上周五在纳斯达克正式挂牌上市，首日股价大涨逾19%，市值突破2万亿美元大关。然而，尽管该公司已顺利登陆公开市场，其部分长期规划的实现仍遥遥无期。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "14:16",
       "keywords": []
     },
     {
@@ -436,6 +408,48 @@
       ]
     },
     {
+      "title": "6月16日热门中概股多数上涨 台积电涨4.12%，拼多多涨2.44%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-06-16/doc-inicpvuf4616515.shtml",
+      "content": "6月16日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收涨0.39%。 上涨个股（按市值从高到低）： 台积电涨4.12%，拼多多涨2.44%，日月光半导体涨1%，网易涨0.09%...",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "21:46",
+      "keywords": []
+    },
+    {
+      "title": "在美上市新兴市场ETF第四周遭撤资 韩国吸金最多",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-16/doc-inicpvuc7816773.shtml",
+      "content": " 上周，投资者连续第四周从美国上市、投资新兴市场股票和债券的交易所交易基金（ETF）撤资，撤资步伐明显加快，韩国吸金规模居首。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "20:53",
+      "keywords": []
+    },
+    {
+      "title": "纽约汇市：美元指数下跌 美伊临时协议提振市场风险偏好",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-16/doc-inicpvuc7816106.shtml",
+      "content": " 美元兑多数G10货币下跌，其中瑞典克朗领涨，此前美国与伊朗达成临时协议以重开霍尔木兹海峡，此举提振了美国国债和股市，并令油价承压。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "20:51",
+      "keywords": []
+    },
+    {
       "title": "加驻美大使：对美贸易谈判中聚焦于寻求高额的特定行业关税减免",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-16/doc-inicprni4682853.shtml",
@@ -489,62 +503,6 @@
       "period": "noon",
       "date": "2026-06-15",
       "time": "16:03",
-      "keywords": []
-    },
-    {
-      "title": "IMF总裁：能源供应恢复需要时间 仍对中东战争的影响“高度警惕”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-15/doc-inicpewp4885098.shtml",
-      "content": " 国际货币基金组织（IMF）表示，尽管美国和伊朗宣布达成协议重新开放霍尔木兹海峡，但能源供应恢复需要时间，因此该组织仍对中东战争给全球经济带来的影响保持“高度警惕”。",
-      "priority": "medium",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "15:20",
-      "keywords": []
-    },
-    {
-      "title": "美国参议院沃伦沃伦要求获取私募股权投资数据中心交易的相关资料",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-15/doc-inicpewm8100939.shtml",
-      "content": "美国民主党联邦参议员沃伦于周五致函四家大型基建投资机构，要求其提供旗下数据中心相关交易的详细资料。 她重点关注数据中心与公用事业企业之间可能存在的所有权重叠问题...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "14:50",
-      "keywords": []
-    },
-    {
-      "title": "美国6月份住宅建筑商信心指数超预期下滑",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-15/doc-inicpewh9833891.shtml",
-      "content": "新华社华盛顿2026年6月15日电 美国全国住宅建筑商协会（NAHB）与富国银行15日联合公布的数据显示，由于抵押贷款利率高企、建筑材料价格上涨以及南部地区行业情绪急剧恶化...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "14:44",
-      "keywords": []
-    },
-    {
-      "title": "今夜，26家A股公司提示风险！",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-15/doc-inicpewp4871442.shtml",
-      "content": "来源：中国基金报 【导读】26家A股公司发布股价异动公告，回应多个热点并提示风险 中国基金报记者 闻言 6月15日晚间，26家A股公司发布股票交易异常波动或股票交易风险提示...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "14:30",
       "keywords": []
     },
     {
@@ -821,6 +779,232 @@
       ]
     },
     {
+      "title": "6月16日外盘头条：美国和伊朗达成临时和平协议 SpaceX上市交易次日飙升20% 英伟达五年来首次发行投资级债券",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-16/doc-inicpvuc7848504.shtml",
+      "content": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、美国和伊朗达成临时和平协议 本周有望重开霍尔木兹海峡 2、欧洲准备好在美伊和平协议落实后协助重开霍尔木兹海峡 3...",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "22:04",
+      "keywords": []
+    },
+    {
+      "title": "美国和伊朗达成临时和平协议 本周有望重开霍尔木兹海峡",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-16/doc-inicpvuf4621031.shtml",
+      "content": " 美国和伊朗达成了一项临时和平协议，以重新开放霍尔木兹海峡，并进一步推动结束这场持续15周的战争。这场冲突不仅在中东地区造成严重混乱，也对全球经济产生了广泛冲击。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "21:56",
+      "keywords": []
+    },
+    {
+      "title": "大宗商品综述：油价跌至3月初以来最低 金价跃升 铝价大跌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-16/doc-inicpvuf4619591.shtml",
+      "content": " 油价跌至3月初以来最低，美国与伊朗同意达成临时协议以重开霍尔木兹海峡，尽管船东在恢复通航前仍希望获得更多细节。金价和银价上涨。伦铝大跌。",
+      "priority": "low",
+      "sectors": [
+        "黄金",
+        "有色"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "21:53",
+      "keywords": []
+    },
+    {
+      "title": "以色列国防军：在黎巴嫩南部截获多枚真主党火箭弹",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-16/doc-inicpvty9591059.shtml",
+      "content": "以色列国防军称，真主党向正在黎巴嫩南部作战的以军士兵发射多枚火箭弹，以色列空军予以拦截。 周一早些时候发生多起事件，真主党向在黎巴嫩南部作战的以军士兵发射一枚反...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "21:51",
+      "keywords": []
+    },
+    {
+      "title": "Information：高通洽谈收购AI芯片初创企业Tenstorrent",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-16/doc-inicpvuf4618705.shtml",
+      "content": "The Information援引一位直接了解交易的人士报道，高通正在洽谈收购初创公司Tenstorrent。 报道称，两家公司讨论的价格至少在80亿至100亿美元之间。",
+      "priority": "low",
+      "sectors": [
+        "半导体",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "21:51",
+      "keywords": []
+    },
+    {
+      "title": "新兴市场股票逼近纪录高点 美伊协议带动油价下跌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-16/doc-inicpvty9589472.shtml",
+      "content": "新兴市场货币、股票和债券周一加入全球风险资产涨势，此前美国和伊朗达成一项临时协议，旨在恢复霍尔木兹海峡通行。 随着布伦特原油跌至3月份以来最低水平...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "21:48",
+      "keywords": []
+    },
+    {
+      "title": "霍尔木兹海峡何时重开？特朗普的答案让欧洲盟友难以置信",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-16/doc-inicpvua6339288.shtml",
+      "content": "美国总统特朗普不断强调，承载全球约五分之一原油和液化天然气供应的霍尔木兹海峡将在周五重新开放。 但在七国集团（G7）峰会场边...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "20:55",
+      "keywords": []
+    },
+    {
+      "title": "美国一架B-52同温层堡垒轰炸机起飞后不久坠毁",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-16/doc-inicpvuf4592605.shtml",
+      "content": "据福克斯新闻在X平台援引官员消息报道，一架美国空军B-52同温层堡垒轰炸机在爱德华兹空军基地起飞后不久坠毁。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "20:52",
+      "keywords": []
+    },
+    {
+      "title": "美国债市：国债涨幅在英伟达250亿美元债券定价前收窄",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-16/doc-inicpvuf4591948.shtml",
+      "content": "美国国债在美国交易时段回吐了早些时候的部分涨幅；此前美国和伊朗达成协议以恢复霍尔木兹海峡通行，油价随之下跌，美债受到提振。英伟达宣布发债后，美债涨势消退。",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "20:50",
+      "keywords": []
+    },
+    {
+      "title": "原油：油价重挫 美伊协议有望重开霍尔木兹海峡",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-16/doc-inicpvty9560151.shtml",
+      "content": " 油价跌至3月初以来最低水平，美国与伊朗同意达成临时协议以重开霍尔木兹海峡，尽管船东在恢复通航前仍希望获得更多细节。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "20:49",
+      "keywords": []
+    },
+    {
+      "title": "特朗普盛赞美伊协议 尽管双方在具体内容上仍存分歧",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-16/doc-inicpvuc7815105.shtml",
+      "content": " 尽管美伊在协议的具体内容上存在分歧，白宫仍试图证明其与伊朗达成的临时协议将结束全球能源危机，并实现特朗普政府的战时目标。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "20:47",
+      "keywords": []
+    },
+    {
+      "title": "内塔尼亚胡：以军将继续留在黎巴嫩的安全区",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-06-16/doc-inicpvuf4586839.shtml",
+      "content": " 以色列总理内塔尼亚胡在记者会上表示，以军将继续驻留在其于黎巴嫩、叙利亚和加沙地带设立的安全区，“需要多久就会持续多久”。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "20:33",
+      "keywords": []
+    },
+    {
+      "title": "欧盟与摩尔多瓦正式启动首个入盟谈判议题",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-16/doc-inicpvuc7812301.shtml",
+      "content": "欧盟理事会15日发布公告称，欧盟与摩尔多瓦当天就摩尔多瓦加入欧盟谈判进程中的“基本原则”议题正式启动谈判。公告表示，“基本原则”议题涵盖欧盟法律体系中与法治和基本权利...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "20:13",
+      "keywords": []
+    },
+    {
+      "title": "加州州长纽森：特朗普指示司法部调查本人及妻子",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-16/doc-inicprni4693414.shtml",
+      "content": "加利福尼亚州州长加文·纽森指控美国总统特朗普下令司法部调查他和他的妻子。 纽森在一段视频声明中表示，特朗普政府针对他是因为他“正在考虑竞选总统”...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "18:57",
+      "keywords": []
+    },
+    {
+      "title": "伊朗总统：伊美谅解备忘录是停止战争开启谈判的重要一步",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-16/doc-inicprni4694159.shtml",
+      "content": "△佩泽希齐扬（资料图）伊朗总统佩泽希齐扬当地时间15日在其个人社交媒体上表示，在经过密集讨论后，伊朗伊斯兰议会绝大多数成员同意了伊美谅解备忘录文本...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "18:24",
+      "keywords": []
+    },
+    {
+      "title": "以总理：无论有没有协议 伊朗都不会拥有核武器",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-16/doc-inicprne6442188.shtml",
+      "content": "当地时间15日晚，以色列总理内塔尼亚胡举行自今年3月以来的首场新闻发布会，就美伊达成谅解备忘录等问题发表讲话。内塔尼亚胡表示：“无论有没有这份协议...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "18:20",
+      "keywords": []
+    },
+    {
       "title": "英伟达五年来首次发行投资级债券 认购额高达850亿美元",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-16/doc-inicprnf7906038.shtml",
@@ -832,6 +1016,48 @@
       "period": "night",
       "date": "2026-06-15",
       "time": "18:17",
+      "keywords": []
+    },
+    {
+      "title": "美国战略石油储备降至1983年7月以来最低水平",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-16/doc-inicprni4693993.shtml",
+      "content": "△资料图央视记者当地时间15日获悉，美政府最新数据显示，美国战略石油储备上周进一步减少890万桶，降至3.403亿桶，为1983年7月以来的最低水平。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "18:16",
+      "keywords": []
+    },
+    {
+      "title": "伊朗外长与黎巴嫩官员通话 通报伊美谅解备忘录细节",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-16/doc-inicprnf7911275.shtml",
+      "content": "伊朗外交部当地时间15日表示，伊朗外交部长阿拉格齐当天分别与黎巴嫩总统奥恩和黎巴嫩议会议长贝里通电话。阿拉格齐向黎巴嫩官员通报了伊美谅解备忘录各项条款的细节...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "18:11",
+      "keywords": []
+    },
+    {
+      "title": "美官员：美伊协议已电子签署 19日将正式签署",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-16/doc-inicprni4686869.shtml",
+      "content": "美国政府一名高级官员15日表示，美国和伊朗已通过电子方式签署了谅解备忘录，但双方仍将于19日举行正式签署仪式。该官员在一场记者简报会上说...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-15",
+      "time": "18:08",
       "keywords": []
     },
     {
@@ -861,6 +1087,20 @@
       "period": "noon",
       "date": "2026-06-15",
       "time": "16:51",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：霍尔木兹海峡恢复通航“不需要太多帮助”",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-16/doc-inicpmei8015851.shtml",
+      "content": "美国总统特朗普15日在法国埃维昂莱班出席七国集团峰会期间表示，霍尔木兹海峡恢复通航“不需要太多（外部）帮助”。特朗普在与法国总统马克龙会谈时作出上述表态。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-15",
+      "time": "16:37",
       "keywords": []
     },
     {
@@ -976,255 +1216,17 @@
       "keywords": []
     },
     {
-      "title": "美国官员：美伊谅解备忘录细节将于24-48小时内公布",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-15/doc-inicpmei7989078.shtml",
-      "content": "一位美国高级官员在与记者的电话会议中表示，美伊谅解备忘录的所有细节将在24-48小时内公布。",
+      "title": "特朗普称美伊协议内容将在19日签署后公布",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-16/doc-inicpmem4793994.shtml",
+      "content": "△特朗普（资料图）当地时间6月15日，美国总统特朗普表示，霍尔木兹海峡“已经部分开放”，并将于周五（6月19日）全面开放，届时，美国和伊朗将正式签署一份谅解备忘录。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-06-15",
-      "time": "15:58",
-      "keywords": []
-    },
-    {
-      "title": "美国官员：霍尔木兹海峡航运通行将在两周内改善",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-15/doc-inicpmeh6501915.shtml",
-      "content": "一位美国高级官员在与记者的电话会议上表示，未来一到两周内，霍尔木兹海峡的航运量将显著增加。 这位官员表示，由于海峡中存在水雷，海峡通行状况需要一段时间才能改善。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "15:57",
-      "keywords": []
-    },
-    {
-      "title": "欧洲准备好在美伊和平协议落实后协助重开霍尔木兹海峡",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-15/doc-inicpewh9853797.shtml",
-      "content": "欧洲领导人表示，他们已准备好在美伊和平协议执行后部署军事资源以重开霍尔木兹海峡。 英国首相基尔·斯塔默周一上午在记者会上表示...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "15:49",
-      "keywords": []
-    },
-    {
-      "title": "大型船东和船舶管理公司对中东航运形势仍然态度谨慎",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-15/doc-inicpewk6627989.shtml",
-      "content": " 尽管美国和伊朗达成重开霍尔木兹海峡的临时和平协议，但两家大型成品油运输企业和一家大型船舶管理公司仍对航行保持谨慎态度。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "15:40",
-      "keywords": []
-    },
-    {
-      "title": "媒体称美伊已经签署了谅解备忘录",
-      "source": "新华社",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-15/doc-inicpewk6628797.shtml",
-      "content": " 新华社华盛顿6月15日电 据路透社、美国阿克西奥斯新闻网站等媒体15日报道，美国总统特朗普、副总统万斯已签署了美伊谅解备忘录，伊朗伊斯兰议会议长卡利巴夫也已签署。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "15:40",
-      "keywords": []
-    },
-    {
-      "title": "霍尔木兹海峡航运多久才能全面恢复？",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-15/doc-inicpewk6624247.shtml",
-      "content": "即便海峡通航量恢复至战前一半水平，也需数周时间，连锁影响或将持续数月霍尔木兹海峡航运恢复常态恐需数周，甚至数月之久 市场此前寄望美伊和平协议终结数十年来最严重的...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "15:30",
-      "keywords": []
-    },
-    {
-      "title": "美国能源股普遍下挫，美伊达成协议推动油价回落",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-15/doc-inicpewk6623669.shtml",
-      "content": " 美国能源股周一下跌，跟随原油价格走低，此前美国与伊朗达成协议，结束持续数月的冲突，并重新开放重要的石油运输咽喉——霍尔木兹海峡。",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "15:28",
-      "keywords": []
-    },
-    {
-      "title": "华尔街老将给美股狂欢泼冷水：高油价与高利率存滞后效应",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-15/doc-inicpewh9844960.shtml",
-      "content": " 尽管华尔街近期对美国经济的预期已相当乐观，但现实经济表现总体仍好于市场共识，这支撑了风险偏好，并推动股市持续上涨。不过，这一支撑因素可能很快减弱。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "15:23",
-      "keywords": []
-    },
-    {
-      "title": "法国总统马克龙拒绝取消数字税 无视特朗普威胁对葡萄酒加税",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-15/doc-inicpewk6618729.shtml",
-      "content": " 在美国总统特朗普威胁对法国葡萄酒加征关税后，法国总统马克龙仍拒绝取消该国的数字税，这为两位领导人在埃维昂的七国集团峰会期间会晤时可能产生冲突埋下伏笔。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "15:11",
-      "keywords": []
-    },
-    {
-      "title": "承销商行使绿鞋超额配售权，SpaceX IPO募资总额达857亿美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-15/doc-inicpewk6618430.shtml",
-      "content": "核心要点 承销商行使 “绿鞋” 超额配售权后，SpaceX 本次 IPO 募资总额升至 857 亿美元。 本次超额配售规模，超过史上绝大多数科技企业 IPO 的募资体量。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "15:10",
-      "keywords": []
-    },
-    {
-      "title": "艺电推出EA Advertising平台，广告可直接植入游戏",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-15/doc-inicpewp4881620.shtml",
-      "content": "电子艺界（EA）周一在一份新闻稿中宣布推出“EA Advertising”（EA广告）平台。该平台旨在让品牌通过其游戏产品组合与粉丝建立联系...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "15:09",
-      "keywords": []
-    },
-    {
-      "title": "艺电推出EA广告业务，为品牌提供“游戏内原生植入”全新广告渠道",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-15/doc-inicpewm8105339.shtml",
-      "content": "核心要点 艺电（Electronic Arts）正式上线 EA 广告业务，为各大品牌打造依托旗下游戏触达玩家粉丝的全新营销渠道。 艺电公司周一发布官方公告，宣布推出 EA 广告业务。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "15:08",
-      "keywords": []
-    },
-    {
-      "title": "安索帕将与特朗普政府会晤，协商迈索斯模型相关争端",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-15/doc-inicpewh9840250.shtml",
-      "content": "核心要点 安索帕公司高层工作人员将与特朗普政府会面，试图化解企业近期与美国政府产生的争端。 美国政府勒令安索帕，禁止所有外籍人士访问其最新两款人工智能模型 ——...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "15:06",
-      "keywords": []
-    },
-    {
-      "title": "Anthropic将与特朗普政府就Mythos模型争议举行会谈",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-15/doc-inicpewm8104700.shtml",
-      "content": " 据一位消息人士透露，Anthropic的高级员工周一正在华盛顿特区与特朗普政府官员举行会谈，试图解决这家AI公司近期与美国政府之间引发高度关注的争端。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "15:04",
-      "keywords": []
-    },
-    {
-      "title": "Anthropic将就Mythos相关纠纷与特朗普政府展开会晤",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-15/doc-inicpewm8102300.shtml",
-      "content": " 据一名接近 Anthropic 公司的消息人士透露，该企业多名高层管理人员将于周一在华盛顿特区同特朗普政府官员会面，力求化解这家人工智能企业近期与美国政府爆发的重大纠纷。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "14:55",
-      "keywords": []
-    },
-    {
-      "title": "辞任华林证券CEO不到一个月转身AI算力公司，秦湘进入行云科技董事会候选名单 | 长三角资本局",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/stock/csjzbj/2026-06-15/doc-inicpewm8096856.shtml",
-      "content": "文|新浪财经上海站 十里 从券商首席执行官的位置离开不到一个月，秦湘的新去向便浮出水面。 6月9日晚间，行云科技公告称，为进一步优化董事会治理结构...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "14:36",
-      "keywords": []
-    },
-    {
-      "title": "美伊签署停火协议前夕 美方对伊朗港口封锁仍维持实质运作",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-15/doc-inicpewp4871313.shtml",
-      "content": "负责协调地区航运与军事力量沟通的联合海事信息中心（JMIC）日前分发官方通告明确，在美伊双方定于6月19日正式执行停火协议前，美国对伊朗港口的军事封锁措施依然有效...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "14:32",
-      "keywords": []
-    },
-    {
-      "title": "SpaceX IPO承销商行使“绿鞋”超额配售权，总融资额达857亿美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-15/doc-inicpewp4867598.shtml",
-      "content": "SpaceX首次公开募股（IPO）的承销商已正式行使了超额配售权，使本次IPO的总融资额达到857亿美元。 马斯克旗下的这家航天与人工智能公司上周四已通过首轮发行筹集了750亿美...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-15",
-      "time": "14:21",
+      "time": "16:12",
       "keywords": []
     },
     {
