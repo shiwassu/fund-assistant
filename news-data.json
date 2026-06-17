@@ -1,174 +1,244 @@
 {
-  "updated": "2026-06-17T00:02:03.541970",
-  "total": 149,
+  "updated": "2026-06-17T05:28:43.482830",
+  "total": 147,
   "sources": [
     "新浪财经",
     "akshare-财新",
     "Tushare"
   ],
   "priority_dist": {
-    "high": 27,
-    "medium": 22,
-    "low": 100
+    "high": 32,
+    "medium": 17,
+    "low": 98
   },
   "items": [
     {
-      "title": "决策日指南：美联储新主席沃什将迎来首个重大考验 声明措辞备受关注",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicsezc4008124.shtml",
-      "content": " 预计美联储决策者周三将维持利率不变，随着通胀攀升并侵蚀消费者购买力，而总统唐纳德·特朗普继续施压降低借贷成本，这次会议对新任主席凯文·沃什来说将是一次初步考验。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:44",
-      "keywords": []
-    },
-    {
-      "title": "002348 ，签超35亿元算力大单！暴增超130%，AI眼镜出货猛涨（附股）",
-      "source": "数据宝",
-      "url": "https://finance.sina.com.cn/wm/2026-06-17/doc-inicseyw9046630.shtml",
-      "content": "2026年全球消费级智能眼镜出货量预计突破2368.7万台。 高乐股份签35.57亿元算力合同 6月16日晚间，高乐股份（002348.SZ）公告称，公司全资子公司哈尔滨智浩科技有限公司与...",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:40",
-      "keywords": []
-    },
-    {
-      "title": "城堡证券认为美联储9月开始加息的概率上升",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicseyy5820750.shtml",
-      "content": "城堡证券表示，随着通胀变得更加持续而广泛，美联储最早从9月开始启动一系列加息的概率正在上升。 该公司宏观策略主管Frank Flight在给客户的一份报告中写道...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:38",
-      "keywords": []
-    },
-    {
-      "title": "俄乌突发！莫斯科炼油厂遇袭，俄军击落12枚航空炸弹和491架无人机！以军违反停火协议！油价大跌",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-06-17/doc-inicsmhu8918905.shtml",
-      "content": "来源：期货日报 早上好，先来关注下最新消息。 以军持续在黎南部开展军事行动，伊朗军方发出警告 当地时间16日，伊朗武装部队哈塔姆安比亚中央总部发布声明称...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:37",
-      "keywords": []
-    },
-    {
-      "title": "惊天逆向预测！花旗坚称美联储今年降息三次 油价回落及劳动力市场走弱将送“助攻”",
-      "source": "智通财经APP",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-17/doc-inicseyz7229282.shtml",
-      "content": " 在债券交易员和华尔街其他同行都在押注加息之际，花旗集团首席美国经济学家安德鲁·霍伦霍斯特却表示，随着劳动力市场走弱和油价回落，美联储今年将降息。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:35",
-      "keywords": []
-    },
-    {
-      "title": "6月17日财经早餐：聚焦首次无点阵图美联储决议，加息预期降温支撑金价，美油连续四日下挫或测试75关口",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-06-17/doc-inicseyw9040383.shtml",
-      "content": "汇通财经APP讯——周三（北京时间6月17日）亚市早盘，现货黄金交投于4336美元/盎司附近，金价震荡走高，受市场对美联储今年加息预期降温推动...",
-      "priority": "high",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:30",
-      "keywords": []
-    },
-    {
-      "title": "财经早报：美伊协议谈判进入第二阶段，巴基斯坦向中方通报情况丨2026年6月17日",
+      "title": "吴清：中国资产的安全+韧性+创新价值，受到国际投资者广泛关注和青睐",
       "source": "新浪证券",
-      "url": "https://finance.sina.com.cn/stock/y/2026-06-17/doc-inicsezc4005884.shtml",
-      "content": "【重磅】全球迎来“芯片牛”！别再错过，立即开户跟进&gt;&gt; 【头条要闻】 美被曝拒绝以色列看美伊谅解备忘录 据美国有线电视新闻网（CNN）报道，一名以色列消息人士透露...",
+      "url": "https://finance.sina.com.cn/wm/2026-06-17/doc-inicsvwv3896621.shtml",
+      "content": "6月17日，2026陆家嘴论坛举行，证监会主席吴清表示，随着新“国九条”和“1+N”政策体系各项任务落地实施，中国资本市场发生了积极而深刻的变化，市场运行稳健活跃...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "night",
-      "date": "2026-06-16",
-      "time": "23:23",
-      "keywords": [
-        "早报",
-        "央行",
-        "股市"
-      ]
-    },
-    {
-      "title": "黄金交易提醒：地缘风险骤降+加息预期崩塌，牛市重启了？聚焦沃什“首秀”",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-06-17/doc-inicsezc3992660.shtml",
-      "content": "汇通财经APP讯——全球黄金市场再次上演强势反弹。周二（6月16日）现货黄金价格续涨0.5%，收于每盎司4331.05美元附近。8月美国期金合约也同步走高，结算价报4354.4美元。",
-      "priority": "high",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:05",
+      "date": "2026-06-17",
+      "time": "05:26",
       "keywords": []
     },
     {
-      "title": "高盛称今年全球并购交易规模已超2.6万亿美元",
+      "title": "吴清：市值超千亿上市公司中，科技企业占比已达45%",
+      "source": "新浪证券",
+      "url": "https://finance.sina.com.cn/wm/2026-06-17/doc-inicsvwv3895682.shtml",
+      "content": "6月17日，2026陆家嘴论坛举行，证监会主席吴清表示，不断提升服务新质生产力发展质效。接续推出“科创板八条”“并购六条”“科创板1+6”、深化创业板改革等一揽子政策措施...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "05:24",
+      "keywords": []
+    },
+    {
+      "title": "吴清：两年多来共查办各类案件1358件，罚没款353亿元，投资者信心明显增强",
+      "source": "新浪证券",
+      "url": "https://finance.sina.com.cn/wm/2026-06-17/doc-inicsvws5736087.shtml",
+      "content": "6月17日，2026陆家嘴论坛举行，证监会主席吴清表示，全面落实依法从严监管理念。坚持监管“长牙带刺”、有棱有角，健全覆盖发行上市、持续监管、退市、机构...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "05:22",
+      "keywords": []
+    },
+    {
+      "title": "韩国央行预计中东冲突结束后通胀仍将高企，因芯片行业工资上涨",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicseyw9027261.shtml",
-      "content": " 高盛集团在社交媒体上发帖援引Dealogic的数据称，2026年迄今，该行提供咨询服务的并购交易总额已超1万亿美元，创下投行半年内业务量的历史纪录。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicsvwt7117318.shtml",
+      "content": "韩国央行周三表示，尽管中东冲突结束，但受科技产业繁荣带来的收入增长影响，韩国预计仍将面临高企的消费价格。 韩国央行的报告指出...",
+      "priority": "high",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "05:20",
+      "keywords": []
+    },
+    {
+      "title": "韩国提高不公平交易行为举报者奖励上限，最高可分得罚款金额10%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicsvwt7114139.shtml",
+      "content": "韩国反垄断监管机构周三表示，为更好地奖励举报不公平交易行为的举报人，韩国将从本周起取消举报奖励金额上限。 据韩国公平交易委员会（FTC）称，从周四开始...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "night",
-      "date": "2026-06-16",
-      "time": "23:04",
+      "date": "2026-06-17",
+      "time": "05:13",
       "keywords": []
     },
     {
-      "title": "券商扩表提速 年内发债规模突破万亿元",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/roll/2026-06-17/doc-inicseyy5804148.shtml",
-      "content": "2026年，券商债券融资火热，年内发债规模突破万亿元，行业扩表进程明显加快。 6月16日，中国银河证券披露了最新一期短期融资券发行结果，本次发行规模40亿元...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:00",
-      "keywords": []
-    },
-    {
-      "title": "监管整饬 消费主题基金缘何变身“科技盲盒”",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/roll/2026-06-17/doc-inicseyw9025883.shtml",
-      "content": " 2026年以来，随着科技赛道持续火热、消费板块低位徘徊，一个现象凸显：大量以“消费”命名的基金，前十大重仓股中却堆满了光模块、AI算力、半导体等科技标的。",
+      "title": "5月份访韩外国游客消费额首次突破2万亿韩元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicsvwt7110910.shtml",
+      "content": " 韩国旅游发展局（KTO）周三公布的数据显示，5月份外国游客在韩国的月度消费额首次突破2万亿韩元（约合13.2亿美元），创历史新高。",
       "priority": "high",
       "sectors": [
         "消费"
       ],
       "period": "night",
-      "date": "2026-06-16",
-      "time": "23:00",
+      "date": "2026-06-17",
+      "time": "05:09",
       "keywords": []
+    },
+    {
+      "title": "金融监管总局局长丁向群最新发声全文，重点来了！",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/wm/2026-06-17/doc-inicsvwt7106915.shtml",
+      "content": "金融监管总局局长、论坛共同轮值主席丁向群6月17日在2026陆家嘴论坛上发表讲话，就“将加快推动银监法、保险法修订出台”“支持新型金融业务在上海先行先试”“妥善应对全球性风...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "04:54",
+      "keywords": []
+    },
+    {
+      "title": "主动ETF丰富场内公募基金产品谱系 境内ETF市场总规模近5万亿元",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/roll/2026-06-17/doc-inicsvwt7098367.shtml",
+      "content": "来源：上海证券报·中国证券网上证报中国证券网讯（记者 何昕怡）当前，ETF市场迎来重要发展机遇期，我国ETF市场呈现高速发展态势。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "04:39",
+      "keywords": []
+    },
+    {
+      "title": "重磅白皮书发布，为破解全球治理赤字提供中国方案",
+      "source": "界面",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-17/doc-inicsvwv3871519.shtml",
+      "content": "界面新闻记者 | 张倩楠界面新闻编辑 | 刘海川 2026年是中国“十五五”开局之年，也是APEC中国年。6月17日，中国国务院新闻办公室发布《构建更加公正合理的全球治理体系：中国...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "04:37",
+      "keywords": []
+    },
+    {
+      "title": "中国加紧筹建世界人工智能合作组织，密集开展政策部署",
+      "source": "一财网",
+      "url": "https://finance.sina.com.cn/roll/2026-06-17/doc-inicsvwt7094145.shtml",
+      "content": "针对人工智能，探索“沙盒监管”、触发式监管等新型监管方式 中共中央政治局委员、外交部长王毅6月17日在国务院新闻办发布会上表示，中国正在加紧筹建世界人工智能合作组织...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "04:35",
+      "keywords": []
+    },
+    {
+      "title": "从28亿元“僵尸债”到90万元罚单：中银消费金融的双重问责与治理拷问",
+      "source": "",
+      "url": "https://finance.sina.com.cn/money/bank/guangjiao/2026-06-17/doc-inicsvwt7099001.shtml",
+      "content": "2026年5月13日，中银消费金融单日挂牌27.96亿元不良贷款，创下消费金融行业公开记录以来最大单日转让规模。创纪录出清动作背后，监管罚单、催收争议...",
+      "priority": "high",
+      "sectors": [
+        "消费",
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "04:24",
+      "keywords": []
+    },
+    {
+      "title": "新主席上任\"第一把火\"怎么烧？沃什首秀倒计时，美联储今晚将释放什么信号？",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-06-17/doc-inicsvwv3861064.shtml",
+      "content": " 汇通财经APP讯——周三（6月17日）亚洲时段，美元指数小幅回落至99.50附近，处于守势。受会议前瞻预期影响，多头主动减仓令美元承压震荡走弱。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "04:17",
+      "keywords": []
+    },
+    {
+      "title": "新能源车维权难在哪，消费者买车前该注意什么",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/consume/xiaofei/2026-06-17/doc-inicsrqx3930486.shtml",
+      "content": "最近，特斯拉FSD（完全自动驾驶监督版）系统在美国被两名联邦参议员点名质疑，要求监管机构核查其宣传的安全数据是否真实准确。这是继此前多起自动驾驶事故调查之后...",
+      "priority": "high",
+      "sectors": [
+        "能源",
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "04:14",
+      "keywords": []
+    },
+    {
+      "title": "朱鹤新：将积极回应市场需求，新增发放新一批QDII的额度",
+      "source": "澎湃新闻",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-17/doc-inicsrqv7197514.shtml",
+      "content": "6月17日，中国人民银行副行长、国家外汇管理局局长朱鹤新谈及推进跨境投融资便利化时表示，一是在去年已出台9条投融资便利化政策的基础上，新增推出一揽子增量政策...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "04:00",
+      "keywords": []
+    },
+    {
+      "title": "芯片大佬蒋学明7.5亿元入局张小泉，股价大涨后“跳水”",
+      "source": "界面",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-17/doc-inicsrqu5808094.shtml",
+      "content": " 继昨日20CM强势涨停后，6月17日，张小泉（301055.SZ）股价震荡走跌，早上开盘一度涨超2%，后又大跌近4%。截至上午收盘时，其股价跌幅为2.74%，报39.02元/股。",
+      "priority": "high",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "03:44",
+      "keywords": []
+    },
+    {
+      "title": "城堡证券表示，随着通胀变得更加持续而广泛，美联储最早从9月开始启动一系列加息的概率正在上升",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-06-17/102454907.html?cxapp_link=true",
+      "content": "城堡证券表示，随着通胀变得更加持续而广泛，美联储最早从9月开始启动一系列加息的概率正在上升",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-17",
+      "time": "--:--",
+      "keywords": [
+        "市场动态"
+      ]
     },
     {
       "title": "威灵顿投资管理公司固定收益投资组合经理Brij Khurana表示，尽管沃什曾提出AI将带来生产力提升并具有去通胀效应的观点，但在当前环境下，债券投资者更期望他",
@@ -428,74 +498,50 @@
       ]
     },
     {
-      "title": "实控人减持刚落地，鹿山新材拟推股权激励计划，设定业绩考核目标刷新近4年盈利纪录",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-17/doc-inicsmhz3882189.shtml",
-      "content": "每经记者|胥帅每经编辑|陈旭 6月16日晚间，鹿山新材（SH603051，股价21.51元，总市值34.77亿元）发布公告，计划推出2026年股票期权和限制性股票激励计划。",
+      "title": "机构：黄金短期或回调但中长期仍看好，维持年内4800目标价位",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-06-17/doc-inicsrqv7198965.shtml",
+      "content": "汇通财经APP讯——综合巴克莱最新研报观点，此前伊朗地缘冲突期间金价累计回落26%，短期美元、美债收益率与股市分流资金压制金价，但通胀、储备多元化...",
+      "priority": "medium",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "04:01",
+      "keywords": [
+        "金价",
+        "美元",
+        "黄金"
+      ]
+    },
+    {
+      "title": "港股午评：恒指跌0.37% 科指涨0.17% 汽车股、油气股低迷 芯片股走强 SENASIC上市首日涨超118%",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-17/doc-inicsrqu5817750.shtml",
+      "content": "6月17日消息，港股三大指数涨跌不一。截至午间收盘，恒生指数跌0.37%，报24403.70，恒生科技指数涨0.17%，国企指数跌0.74%。盘面上，科网股涨跌不一，联想超2%...",
+      "priority": "medium",
+      "sectors": [
+        "半导体",
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "04:00",
+      "keywords": []
+    },
+    {
+      "title": "亿纬锂能业绩报喜！打响半年报行情的第一枪！硬科技宽基——双创50ETF华宝（588330）摸高0.9%逼近历史高点",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/etf/2026-06-17/doc-inicsrqv7186364.shtml",
+      "content": "今日（6月17日）覆盖创业板+科创板50只高成长龙头的硬科技宽基——双创50ETF华宝（588330）场内价格盘中摸高0.91%，现涨0.76%，冲击日线3连阳，逼近历史高点（1.380）。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "night",
-      "date": "2026-06-16",
-      "time": "23:53",
-      "keywords": []
-    },
-    {
-      "title": "日经指数在近期大幅上涨后或将下跌",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicsmhx7101770.shtml",
-      "content": "受对美伊和平协议的希望推动，日本股市在近期大幅上涨至创纪录高点后可能会下跌。在新加坡交易所，日经指数期货下跌0.6%，报69，070点。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:45",
-      "keywords": []
-    },
-    {
-      "title": "软银缩减拉美投资布局，当地创投热潮消退",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicseyy5808109.shtml",
-      "content": " 软银集团如今难以在拉美找到符合大额投资标准的初创企业，凸显出短短数年前还涌入创纪录风险资本的当地科技行业，热度已大幅降温。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:12",
-      "keywords": []
-    },
-    {
-      "title": "公募基金发行透视：年内新基募资超5000亿元 中金基金、广发基金产品募资额居前",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-17/doc-inicseyz7220865.shtml",
-      "content": "转自：新华财经 新华财经北京6月17日电 今年以来，公募基金发行市场持续回暖。 以基金成立日统计，截至2026年6月14日，年内公募基金市场合计发行基金产品750只（初始基金口...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:09",
-      "keywords": []
-    },
-    {
-      "title": "瑞士嘉盛银行亚洲首席投资总监陈东：AI行情至少有一年 盈利修复是港股上行关键",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/roll/2026-06-17/doc-inicseyz7213812.shtml",
-      "content": "港股市场延续分化格局。 截至2026年6月13日，恒生指数年内累计下跌约3.6%，板块间表现差异仍较为显著。据恒生银行投资总监办公室数据，截至5月中旬...",
-      "priority": "medium",
-      "sectors": [
-        "金融",
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:00",
+      "date": "2026-06-17",
+      "time": "03:45",
       "keywords": []
     },
     {
@@ -724,11 +770,479 @@
       ]
     },
     {
-      "title": "当被问到应该如何看待此次下跌时，黄仁勋回答称，该行业仍处于基础设施修建早期阶段，而这些基础设施将是AI驱动性未来的基础",
+      "title": "韩国5月汽车出口额同比下降5.9%，因工厂火灾导致零部件供应中断",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicsvwq8955250.shtml",
+      "content": "韩国周三公布的数据显示，受当地一家汽车工厂发生火灾导致零部件供应中断的影响，5月份韩国汽车出口额同比下降近6%。 据韩国产业通商资源部的数据...",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "05:17",
+      "keywords": []
+    },
+    {
+      "title": "李氏大药厂午后涨近8% 拟回购不多于5000万港元公司股份",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-17/doc-inicsvwv3891614.shtml",
+      "content": "李氏大药厂（00950）午后股价上涨7.62%，现报1.13港元，成交额235.69万港元。 李氏大药厂昨晚公布，根据购回授权进行股份购回计划...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "05:16",
+      "keywords": [
+        "李氏大药厂",
+        "涨近"
+      ]
+    },
+    {
+      "title": "希迪智驾午后飙升逾33% 沙特国家矿业公司到访希迪智驾共推智慧矿山全球化实践",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-17/doc-inicsvwt7114751.shtml",
+      "content": "希迪智驾（03881）盘中飙升逾35%，截至发稿，股价上涨33.56%，现报22.96港元，成交额1.24亿港元。 6月16日，沙特阿拉伯国家矿业公司（Maaden）代表团到访希迪智驾开展交流...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "05:14",
+      "keywords": [
+        "希迪智驾",
+        "飙升"
+      ]
+    },
+    {
+      "title": "五大行这家分行均升格为一级行！农行苏州行或将晋级，湖北省行副行长石俊功拟任掌门人",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-06-17/doc-inicsvwq8957281.shtml",
+      "content": "来源：今日行长 农行苏州分行即将晋级！ 作者 | 时也运也  编辑 | 顾柠 国有五大行苏州分行即将全部单列为一级分行！ 据悉，继工行苏州分行2025年11月升格为一级分行后...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "05:12",
+      "keywords": []
+    },
+    {
+      "title": "潘功胜最新发言划重点！将在上海自贸区开展离岸人民币外汇交易试点",
+      "source": "界面",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-17/doc-inicsvwt7110794.shtml",
+      "content": "6月17日上午，中国人民银行行长潘功胜在2026陆家嘴论坛开幕式上发表主旨演讲，主要内容包括： ①在上海自贸区开展离岸人民币外汇交易试点，授权工行、农行、中行、建行...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "05:04",
+      "keywords": []
+    },
+    {
+      "title": "韩国宣布成为第四个与OpenAI建立AI安全合作的国家",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicsvws5724421.shtml",
+      "content": " 韩国科技信息通信部周三宣布，韩国成为第四个与ChatGPT开发商OpenAI在人工智能（AI）领域建立安全合作伙伴关系的国家。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "05:04",
+      "keywords": []
+    },
+    {
+      "title": "大学生返乡创业12年：从“省标杆家庭农场”到被强制清退，行政诉讼被驳后上诉",
+      "source": "澎湃新闻",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-11/doc-iniazihv0848052.shtml",
+      "content": " 入围“广东省标杆家庭农场”仅一年后，广东茂名“新农人”林华杰与父亲林海经营的蓝海湾家庭农场，在2025年8月被强制清退。虾塘被停水停电，鱼虾低价急售，看护房随后被拆除。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "04:57",
+      "keywords": [
+        "林海",
+        "广东省",
+        "茂名市"
+      ]
+    },
+    {
+      "title": "天工国际将于7月29日派发末期股息每股2.91港仙",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-17/doc-inicsvwq8941727.shtml",
+      "content": "天工国际（00826）公布，将于2026年7月29日派发末期股息每股2.91港仙。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "04:54",
+      "keywords": [
+        "天工国际",
+        "派发",
+        "末期股息"
+      ]
+    },
+    {
+      "title": "中通快递-W于6月16日耗资约499.56万美元回购22.143万股",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-17/doc-inicsvwq8941309.shtml",
+      "content": "中通快递-W（02057）公布，2026年6月16日耗资约499.56万美元回购22.143万股股份。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "04:53",
+      "keywords": [
+        "中通快递-W",
+        "回购"
+      ]
+    },
+    {
+      "title": "阿联酋富查伊拉5月船用燃油销量创历史新低",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicsvwt7103768.shtml",
+      "content": " 标普全球发布的富查伊拉石油工业区最新数据显示，受中东战事影响霍尔木兹海峡航运受阻、船舶补给需求持续低迷，阿联酋富查伊拉港5月船用燃油销量持续下滑，创下历史新低。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "04:53",
+      "keywords": []
+    },
+    {
+      "title": "乐舒适附属Sunmart与银行订立外汇远期合约",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-17/doc-inicsvwt7103464.shtml",
+      "content": "乐舒适（02698）公布，于2026年6月15日，公司间接全资附属公司Sunmart与银行订立外汇远期合约，据此，Sunmart同意于相关交割日期卖出合共2990万欧元及买入合共3469...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "04:53",
+      "keywords": [
+        "乐舒适",
+        "订立",
+        "远期合约"
+      ]
+    },
+    {
+      "title": "大众汽车要求竞购财团提交对发动机子公司的最终报价",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicsvwv3879092.shtml",
+      "content": "媒体援引知情人士报道，大众汽车已要求三家竞购财团下周就其价值100亿美元的发动机子公司出售交易提交最终报价。竞购财团背后有欧洲亿万富豪家族...",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "04:52",
+      "keywords": []
+    },
+    {
+      "title": "潘功胜宣布完善短端利率调控机制举措！",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/bank/bank_yhfg/2026-06-17/doc-inicsvws5726551.shtml",
+      "content": "来源：金融时报 2026年6月17日，在陆家嘴论坛上，人民银行潘功胜行长提出完善短端利率调控机制的两项举措，一是将临时隔夜正/逆回购的操作利率区间由此前的70bp收窄为对称...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "04:49",
+      "keywords": []
+    },
+    {
+      "title": "吴清：进一步健全投融资相协调的资本市场功能 更好服务新质生产力和经济高质量发展（全文）",
+      "source": "中国证监会网站",
+      "url": "https://finance.sina.com.cn/wm/2026-06-17/doc-inicsvwt7101003.shtml",
+      "content": "进一步健全投融资相协调的资本市场功能 更好服务新质生产力和经济高质量发展——吴清主席在2026陆家嘴论坛上的主题演讲 尊敬的吉宁书记、小川行长、龚正市长，各位领导...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "04:43",
+      "keywords": []
+    },
+    {
+      "title": "油轮掉头 驶往中东等候霍尔木兹海峡通航",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicsvwq8931291.shtml",
+      "content": " 本周，两艘原本驶向非洲的油轮在印度洋掉头，改航中东。船东们争相调整船舶部署，赶在霍尔木兹海峡有望重新开放前抢占运力。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "04:37",
+      "keywords": []
+    },
+    {
+      "title": "G7领导人同意加强对俄罗斯油气制裁 重申伊朗永远不会获得核武器",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicsvwv3866650.shtml",
+      "content": "根据声明，七国集团（G7）领导人同意加强对俄罗斯的制裁，包括对石油和天然气领域的制裁。还同意向乌克兰增加提供防空能力、更多系统和拦截器以及远程打击能力。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "04:30",
+      "keywords": []
+    },
+    {
+      "title": "朱鹤新：将发放新一批QDII额度",
+      "source": "中证金牛座",
+      "url": "https://finance.sina.com.cn/money/bank/bank_yhfg/2026-06-17/doc-inicsvwv3892420.shtml",
+      "content": " 中国人民银行副行长、国家外汇管理局局长朱鹤新6月17日在2026陆家嘴论坛上表示，围绕“四个深化”，深入推进资本项目高水平制度型开放。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "04:29",
+      "keywords": []
+    },
+    {
+      "title": "金监总局：严厉打击金融“黑灰产”，坚定推行保险业“报行合一”",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/roll/2026-06-17/doc-inicsvws5714302.shtml",
+      "content": "21世纪经济报道 记者郭聪聪 6月17日上午，2026陆家嘴论坛在上海开幕，国家金融监督管理总局局长、论坛共同轮值主席丁向群致开幕词并发表讲话。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "04:24",
+      "keywords": []
+    },
+    {
+      "title": "货车司机、网约车司机、外卖员、快递员，将迎来专属普惠金融产品",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/roll/2026-06-17/doc-inicsvwt7098902.shtml",
+      "content": "21世纪经济报道 记者郭聪聪 6月17日上午，2026陆家嘴论坛在上海开幕，国家金融监督管理总局局长、论坛共同轮值主席丁向群致开幕词并发表讲话。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "04:24",
+      "keywords": []
+    },
+    {
+      "title": "李书福：任何创新都要考虑商业价值与可持续性",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/china/gncj/2026-06-17/doc-inicsrqs9043806.shtml",
+      "content": "三亚学院 走进校园 是为了更好地走向社会 6月15日，吉利控股集团董事长、三亚学院永久名誉校长李书福与师生、校友代表围坐在科学与艺术馆...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "04:06",
+      "keywords": []
+    },
+    {
+      "title": "李书福董事长与我们围坐谈心：关于教育、人工智能与未来",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/china/gncj/2026-06-17/doc-inicsrqs9042594.shtml",
+      "content": "三亚学院 走进校园 是为了更好地走向社会 6月15日，吉利控股集团董事长、三亚学院永久名誉校长李书福与师生、校友代表围坐在科学与艺术馆...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "04:05",
+      "keywords": []
+    },
+    {
+      "title": "中国金融结构的变迁和金融市场现代化——中国人民银行行长潘功胜在2026陆家嘴论坛上的主题演讲",
+      "source": "",
+      "url": "https://finance.sina.com.cn/money/bank/2026-06-17/doc-inicsrqv7205249.shtml",
+      "content": "尊敬的何立峰副总理、陈吉宁书记、人民银行原行长周小川先生、龚正市长，尊敬的各位来宾： 大家好！ 刚才，何立峰副总理的讲话对于我们准确把握国内外经济金融形势的变化...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "04:03",
+      "keywords": [
+        "利率",
+        "流动性",
+        "人民银行",
+        "金融市场",
+        "陆家嘴论坛"
+      ]
+    },
+    {
+      "title": "朱鹤新：中国资本项下跨境人民币收付占比升至60%左右",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/roll/2026-06-17/doc-inicsrqv7199269.shtml",
+      "content": "6月17日上午，2026陆家嘴论坛在上海开幕。中国人民银行副行长、国家外汇管理局局长朱鹤新在发表主题演讲时表示，人民币金融枢纽带功能持续拓展...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "04:00",
+      "keywords": [
+        "朱鹤新",
+        "人民币",
+        "陆家嘴论坛"
+      ]
+    },
+    {
+      "title": "朱鹤新详解资本项目开放深化：将进一步从单项业务便利向经营主体便利的转变",
+      "source": "澎湃新闻",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-17/doc-inicsrqv7197353.shtml",
+      "content": "6月17日，中国人民银行副行长、国家外汇管理局局长朱鹤新在2026陆家嘴论坛上表示，面向未来，在更高层次、更高质量上推进开放。将坚持市场化、法治化、国际化...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "03:59",
+      "keywords": [
+        "朱鹤新",
+        "人民币",
+        "跨境资本",
+        "美元"
+      ]
+    },
+    {
+      "title": "新加坡铁矿石期货价格跌破每吨100美元 为3月以来首次",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicsrqx3970844.shtml",
+      "content": "新加坡铁矿石期货价格自3月以来首次跌破每吨100美元。交投最活跃的合约一度下跌1.6%，至每吨99.60美元。周三的下跌延续了此前连续五周的跌势。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "03:56",
+      "keywords": []
+    },
+    {
+      "title": "迈威生物-B午前涨逾3% 旗下迈威视与维眸生物达成战略合作",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-17/doc-inicsrqx3968480.shtml",
+      "content": "迈威生物-B（02493）盘中涨超3%，截至发稿，股价上涨2.64%，现报26.46港元，成交额696.10万港元。 6月16日，据迈威生物官微消息，公司宣布其控股子公司迈威视与国内领先的...",
+      "priority": "low",
+      "sectors": [
+        "医药"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "03:52",
+      "keywords": [
+        "迈威生物-B",
+        "涨逾"
+      ]
+    },
+    {
+      "title": "快手-W午前涨逾6% 据报泛大西洋集团正洽谈领投可灵AI首轮融资",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-17/doc-inicsrqu5808829.shtml",
+      "content": "快手-W（01024）盘中涨超6%，截至发稿，股价上涨5.63%，现报46.94港元，成交额13.18亿港元。 据媒体报道，泛大西洋集团（GENERAL...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "03:48",
+      "keywords": [
+        "快手-W",
+        "涨逾"
+      ]
+    },
+    {
+      "title": "朱鹤新：全球创新资本配置中国动能增强，中国也为全球提供更多耐心资本",
+      "source": "一财网",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-17/doc-inicsrqx3968147.shtml",
+      "content": "6月17日，在2026陆家嘴论坛上，国家外汇管理局局长朱鹤新表示，中国坚持全方位开放合作，依托跨境资本双向流动，创新生态、产业能力和金融服务与全球高效联通...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "03:45",
+      "keywords": []
+    },
+    {
+      "title": "中国联塑午前涨近4% 与天怀数智达成战略合作进军AI算力领域",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-17/doc-inicsrqu5804791.shtml",
+      "content": "中国联塑（02128）盘中涨超5%，截至发稿，股价上涨3.50%，现报4.44港元，成交额2952.42万港元。 6月16日，中国联塑集团旗下的联塑算力设施供应有限公司与浙江天怀数智科技...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "03:45",
+      "keywords": [
+        "中国联塑",
+        "涨近"
+      ]
+    },
+    {
+      "title": "兆易创新午前涨近4% 存储器周期持续上行公司产品有望量价齐升",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-06-17/doc-inicsrqx3959855.shtml",
+      "content": "兆易创新（03986）盘中涨超8%，截至发稿，股价上涨3.60%，现报762.50港元，成交额13.86亿港元。 TrendForce集邦咨询最新研究显示，受全球大厂产能向HBM...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-17",
+      "time": "03:42",
+      "keywords": [
+        "兆易创新",
+        "涨近"
+      ]
+    },
+    {
+      "title": "摩根大通上调对大型科技公司建设人工智能(AI)基础设施所需的花费和借款预估",
       "source": "财新",
-      "url": "https://database.caixin.com/2026-06-08/102451979.html?cxapp_link=true",
-      "content": "当被问到应该如何看待此次下跌时，黄仁勋回答称，该行业仍处于基础设施修建早期阶段，而这些基础设施将是AI驱动性未来的基础",
-      "priority": "medium",
+      "url": "https://database.caixin.com/2026-06-17/102454905.html?cxapp_link=true",
+      "content": "摩根大通上调对大型科技公司建设人工智能(AI)基础设施所需的花费和借款预估",
+      "priority": "low",
       "sectors": [
         "AI"
       ],
@@ -740,11 +1254,11 @@
       ]
     },
     {
-      "title": "李在明周一在就任总统一周年举行的新闻发布会上发表讲话，承诺将在半导体行业之外，通过在各个行业培养世界领先竞争力来推动国家经济发展",
+      "title": "日本四个月来首次转为贸易逆差，芯片和其他电子元件的进口激增",
       "source": "财新",
-      "url": "https://database.caixin.com/2026-06-08/102451942.html?cxapp_link=true",
-      "content": "李在明周一在就任总统一周年举行的新闻发布会上发表讲话，承诺将在半导体行业之外，通过在各个行业培养世界领先竞争力来推动国家经济发展",
-      "priority": "medium",
+      "url": "https://database.caixin.com/2026-06-17/102454909.html?cxapp_link=true",
+      "content": "日本四个月来首次转为贸易逆差，芯片和其他电子元件的进口激增",
+      "priority": "low",
       "sectors": [
         "半导体"
       ],
@@ -756,13 +1270,13 @@
       ]
     },
     {
-      "title": "大多数行业高管都认同：随着AI的落地应用，工作职位将会减少",
+      "title": "在该股处于盘中高点时，埃隆·马斯克旗下这家火箭与人工智能公司市值一度超过微软，短暂成为全球市值第四大公司",
       "source": "财新",
-      "url": "https://database.caixin.com/2026-06-08/102451940.html?cxapp_link=true",
-      "content": "大多数行业高管都认同：随着AI的落地应用，工作职位将会减少",
-      "priority": "medium",
+      "url": "https://database.caixin.com/2026-06-17/102454901.html?cxapp_link=true",
+      "content": "在该股处于盘中高点时，埃隆·马斯克旗下这家火箭与人工智能公司市值一度超过微软，短暂成为全球市值第四大公司",
+      "priority": "low",
       "sectors": [
-        "AI"
+        "综合"
       ],
       "period": "noon",
       "date": "2026-06-17",
@@ -772,531 +1286,36 @@
       ]
     },
     {
-      "title": "龙蟠科技拟折让约8.91%配股 最多净筹约1.94亿港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-17/doc-inicsmhu8926258.shtml",
-      "content": "龙蟠科技（02465）公布，于2026年6月16日，公司与联席配售代理订立配售协议，拟透过联席配售代理发行最多合共1500万股配售股份，每股配售股份13.09港元...",
+      "title": "计算机设备、塑料制品和航空旅行成本飙升进一步表明伊朗战争以及数据中心建设热潮正在推高通胀",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-06-17/102454900.html?cxapp_link=true",
+      "content": "计算机设备、塑料制品和航空旅行成本飙升进一步表明伊朗战争以及数据中心建设热潮正在推高通胀",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:59",
+      "period": "noon",
+      "date": "2026-06-17",
+      "time": "--:--",
       "keywords": [
-        "龙蟠科技",
-        "折让",
-        "配股"
+        "市场动态"
       ]
     },
     {
-      "title": "诺和诺德遭黑客组织窃取大量数据并勒索2500万美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicsmhz3885133.shtml",
-      "content": " 一个网络勒索组织周二声称，他们从制药巨头诺和诺德公司窃取了超过 1TB 的数据，在向该公司索要2500万美元赎金未果后，正在考虑出售部分数据。",
+      "title": "报道称，这家美国初创公司研发投入超过190亿美元，仅在销售和营销方面就花费近60亿美元",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-06-17/102454899.html?cxapp_link=true",
+      "content": "报道称，这家美国初创公司研发投入超过190亿美元，仅在销售和营销方面就花费近60亿美元",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:59",
-      "keywords": []
-    },
-    {
-      "title": "锦艺集团控股附属拟763.4万港元入股釜山超大规模数据中心项目 提供898.6万美元贷款",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-17/doc-inicsmhw5702350.shtml",
-      "content": "锦艺集团控股（00565）公布，于2026年6月16日，公司间接非全资附属公司艺能企业（国际）有限公司拟向Divine Consulting Group Limited收购Edgeon Data Co．， Ltd17...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:58",
+      "period": "noon",
+      "date": "2026-06-17",
+      "time": "--:--",
       "keywords": [
-        "锦艺集团控股",
-        "入股",
-        "项目"
+        "市场动态"
       ]
-    },
-    {
-      "title": "MERDEKAGOLD-DRS拟全球发售8966.86万份预托证券 预期6月26日上市",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggipo/2026-06-17/doc-inicsmhu8921725.shtml",
-      "content": "MERDEKAGOLD-DRS（06228）于2026年6月17日至2026年6月23日招股，公司拟全球发售8966.86万份销售预托证券，香港公开发售占10%，国际发售占90%，另有15%超额配股权。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:56",
-      "keywords": [
-        "MERDEKAGOLD-DRS",
-        "全球发售",
-        "证券"
-      ]
-    },
-    {
-      "title": "2026陆家嘴论坛今日开幕，最新议程来了",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-17/doc-inicseyz7219883.shtml",
-      "content": "为期两天的2026陆家嘴论坛6月17日上午将开幕。本届论坛的主题设定为“全球治理倡议下的金融发展与合作：新愿景、新挑战和新机遇”，由国家金融监督管理总局局长与上海市市长...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:55",
-      "keywords": []
-    },
-    {
-      "title": "建滔集团遭独立非执行董事庄坚琪减持1万股 每股作价100港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-17/doc-inicsmhz3880537.shtml",
-      "content": "香港联交所最新数据显示，6月15日，独立非执行董事庄坚琪减持建滔集团（00148）1万股，每股作价100港元，总金额为100万港元。减持后最新持股数目约为33.00万股...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:53",
-      "keywords": [
-        "建滔集团",
-        "非执行董事",
-        "减持"
-      ]
-    },
-    {
-      "title": "胜利证券获执行董事陈沛泉增持6000股 每股作价4.24港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-17/doc-inicsmhx7104164.shtml",
-      "content": "香港联交所最新数据显示，6月16日，执行董事陈沛泉增持胜利证券（08540）6000股，每股作价4.24港元，总金额约为2.54万港元。增持后最新持股数目约为1429.50万股...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:52",
-      "keywords": [
-        "胜利证券",
-        "增持"
-      ]
-    },
-    {
-      "title": "德康农牧获董事长王德根两日合计增持20.31万股 涉资约989.63万港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-17/doc-inicsmhu8918987.shtml",
-      "content": "香港联交所最新资料显示，6月15日和6月16日，董事长王德根增持德康农牧（02419）合计20.31万股，每股均价分别为49.7501港元及47.1406港元，总金额约989.63万港元。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:52",
-      "keywords": [
-        "德康农牧",
-        "增持"
-      ]
-    },
-    {
-      "title": "依视路陆逊梯卡将与应用材料合作开发AI眼镜和增强现实技术",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicsmhu8918708.shtml",
-      "content": " 全球最大眼镜制造商依视路陆逊梯卡与应用材料公司周二宣布签署了一项长期协议，将合作开发增强现实（AR）显示技术和人工智能眼镜。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:51",
-      "keywords": []
-    },
-    {
-      "title": "北京首都机场股份获WBT Value Limited增持77.74万股 每股作价约2.42港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-17/doc-inicsmhu8918696.shtml",
-      "content": "香港联交所最新数据显示，6月12日，WBT Value Limited增持北京首都机场股份（00694）77.74万股，每股作价2.4217港元，总金额约为188.26万港元。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:51",
-      "keywords": [
-        "北京首都机场股份",
-        "增持"
-      ]
-    },
-    {
-      "title": "旭日企业获董事长杨振鑫增持3.60万股 每股作价约1.36港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-17/doc-inicsmhw5695464.shtml",
-      "content": "香港联交所最新数据显示，6月15日，董事长杨振鑫增持旭日企业（00393）3.60万股，每股作价1.3600港元，总金额约为4.90万港元。增持后最新持股数目约为9.60亿股...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:49",
-      "keywords": [
-        "旭日企业",
-        "增持"
-      ]
-    },
-    {
-      "title": "森松国际遭董事会主席松久晃基减持3.30万股 每股作价约8.79港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-17/doc-inicsmhu8918031.shtml",
-      "content": "香港联交所最新数据显示，6月15日，董事会主席松久晃基减持森松国际（02155）3.30万股，每股作价8.7918港元，总金额约为29.01万港元。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:49",
-      "keywords": [
-        "森松国际",
-        "减持"
-      ]
-    },
-    {
-      "title": "浩柏国际遭张元亮减持900万股 每股作价1.44港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-17/doc-inicsmhz3878835.shtml",
-      "content": " 香港联交所最新数据显示，6月12日，张元亮减持浩柏国际（08431）900万股，每股作价1.44港元，总金额为1296万港元。减持后最新持股数目为3900万股，最新持股比例为16.49%。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:48",
-      "keywords": [
-        "浩柏国际",
-        "减持"
-      ]
-    },
-    {
-      "title": "恒安国际获集团副总裁徐大座增持4.1万股 每股作价约24.33港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-17/doc-inicsmhx7102375.shtml",
-      "content": "香港联交所最新数据显示，6月12日，集团副总裁徐大座增持恒安国际（01044）4.1万股，每股作价24.3271港元，总金额约为99.74万港元。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:47",
-      "keywords": [
-        "恒安国际",
-        "增持"
-      ]
-    },
-    {
-      "title": "德永佳集团获主席潘彬泽增持177万股 每股作价约1.12港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-17/doc-inicsmhu8916650.shtml",
-      "content": "香港联交所最新数据显示，6月11日，主席潘彬泽增持德永佳集团（00321）177万股，每股作价1.1155港元，总金额约为197.44万港元。增持后最新持股数目约为7.24亿股...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:46",
-      "keywords": [
-        "德永佳集团",
-        "增持"
-      ]
-    },
-    {
-      "title": "宁德时代遭JPMorgan Chase & Co.减持约71.85万股 每股作价约660.35港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-17/doc-inicsmhu8916299.shtml",
-      "content": "香港联交所最新数据显示，6月10日，JPMorgan Chase &amp; Co．减持宁德时代（03750）71.8522万股，每股作价660.3452港元，总金额约为4.74亿港元。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:45",
-      "keywords": [
-        "宁德时代",
-        "减持"
-      ]
-    },
-    {
-      "title": "印尼金矿商Merdeka Gold寻求通过香港上市筹资至多23.9亿港元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicseyw9045492.shtml",
-      "content": "据港交所公告，印尼金矿企业Merdeka Gold Resources在香港上市交易中提议按每份至多26.60港元的价格，发行8970万份香港存托凭证（HDR）。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:42",
-      "keywords": []
-    },
-    {
-      "title": "OpenAI在2026年第一季度烧掉了37亿美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicseyy5822518.shtml",
-      "content": "据媒体援引该公司向股东提供的文件报道，OpenAI在2026年第一季度烧掉了37亿美元，占其57亿美元收入的一半以上。 本月早些时候，OpenAI表示已秘密提交美国首次公开募股（IPO...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:41",
-      "keywords": []
-    },
-    {
-      "title": "多家期货公司拟换董事长、总经理",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-06-17/doc-inicsmhu8919542.shtml",
-      "content": "来源：期货日报 6月16日，中期协公布了新一期期货公司高管人员专业能力水平评价测试合格人员名单，共20人通过测试。其中，1家公司拟调整董事长，4家公司拟调整总经理。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:37",
-      "keywords": []
-    },
-    {
-      "title": "特朗普：美国不会在伊朗投入任何资金，美伊已成功在线上签署谅解备忘录，现在协议谈判已进入第二阶段",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/roll/2026-06-17/doc-inicsmhw5694795.shtml",
-      "content": "特朗普称美伊协议谈判进入第二阶段 美国总统特朗普16日称，美国和伊朗已成功在线上签署谅解备忘录，现在美伊协议谈判已进入第二阶段，“这应该比第一阶段更容易”。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:36",
-      "keywords": []
-    },
-    {
-      "title": "英国首相斯塔默：英国和欧盟将于7月22日举行峰会",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicseyw9038724.shtml",
-      "content": " 英国首相斯塔默周二表示，英国与欧盟将于7月22日举行第二次峰会。目前，英国政府正寻求重塑与欧盟的关系，并推动在贸易、安全和经济领域加强合作。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:29",
-      "keywords": []
-    },
-    {
-      "title": "中信建投：硅基高景气，碳基慢修复，K型分化再确认",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/wm/2026-06-17/doc-inicsezc4005302.shtml",
-      "content": "中信建投证券研究 文|黄文涛刘天宇 1.5月经济数据表明，经济正在出现“硅基”部门与“碳基”部门的二元分化。 2．价格方面，硅基产业链的爆发是推升PPI的重要原因。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:28",
-      "keywords": []
-    },
-    {
-      "title": "贵金属迎超跌修复窗口 多种因素催化筑牢底部支撑",
-      "source": "中国证券报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-17/doc-inicsezc3999020.shtml",
-      "content": "● 本报记者 马爽 近期贵金属市场走出一波“先蹲后跳”的行情：在6月11日触及阶段低点后，金银铂钯集体反弹，其中伦敦现货白银从低点起一度涨超14%，黄金、铂金...",
-      "priority": "low",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:24",
-      "keywords": []
-    },
-    {
-      "title": "高息存单加价倒卖暗流涌动 谁在灰色地带“炒利息”",
-      "source": "中国证券报",
-      "url": "https://finance.sina.com.cn/roll/2026-06-17/doc-inicsezc3998269.shtml",
-      "content": "存款利率持续下行，高息大额存单日渐稀缺，一场围绕存单转让的私下加价交易在社交平台上悄然升温。一边是转出方试图绕开官方平台以加价方式寻求更高回报；另一边是受让方愿...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:20",
-      "keywords": []
-    },
-    {
-      "title": "苹果将于明年推出带摄像头的AirPods和新一代折叠屏iPhone",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicsezc3997722.shtml",
-      "content": " 苹果公司计划于2027年底推出配备摄像头的耳机AirPods，作为新品发布计划的一部分，这款产品将帮助苹果进军人工智能设备市场。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:19",
-      "keywords": []
-    },
-    {
-      "title": "汇丰与谷歌云达成人工智能合作",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicseyz7221385.shtml",
-      "content": "汇丰控股周三宣布与Alphabet旗下的谷歌云达成一项多年合作协议，旨在提升这家英国银行巨头的人工智能能力。 此次合作标志着汇丰首席执行官艾桥智（Georges...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:19",
-      "keywords": []
-    },
-    {
-      "title": "布油跌超5%，三个月来首破80美元！美伊协议冲击，高盛、大摩双双下调目标价",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-06-17/doc-inicseyy5810331.shtml",
-      "content": "来源：华尔街见闻 美伊就重开霍尔木兹海峡达成临时协议，引发全球油市剧烈震荡，华尔街主要银行下调油价预测，布伦特原油价格跌至三个月低点。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:15",
-      "keywords": []
-    },
-    {
-      "title": "2026陆家嘴论坛今日开幕 与会人士将围绕“建立健全功能完善的资本市场”等议题展开讨论",
-      "source": "证券时报网",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-17/doc-inicsezc3994517.shtml",
-      "content": "人民财讯6月17日电，今日，主题为“全球治理倡议下的金融发展与合作：新愿景、新挑战和新机遇”的2026陆家嘴论坛正式开幕，70余名中外嘉宾相聚黄浦江畔...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:10",
-      "keywords": []
-    },
-    {
-      "title": "操盘必读：影响股市利好或利空消息_2026年6月17日_财经新闻",
-      "source": "股市直击",
-      "url": "https://finance.sina.com.cn/stock/cpbd/2026-06-17/doc-inicseyy5812128.shtml",
-      "content": "宏观新闻 1、昨日，国家发展改革委主任郑栅洁主持召开座谈会，围绕系统推进“六张网”建设听取意见建议。郑栅洁表示，希望企业坚定发展信心、抓住发展机遇...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:09",
-      "keywords": []
-    },
-    {
-      "title": "贵金属迎超跌修复 多种因素催化筑牢底部支撑",
-      "source": "中国证券报",
-      "url": "https://finance.sina.com.cn/money/nmetal/gjshz/2026-06-17/doc-inicsmhu8921452.shtml",
-      "content": "● 本报记者 马爽 近期贵金属市场走出一波“先蹲后跳”的行情：在6月11日触及阶段低点后，金银铂钯集体反弹，其中伦敦现货白银从低点起一度涨超14%，黄金、铂金...",
-      "priority": "low",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:08",
-      "keywords": []
-    },
-    {
-      "title": "股海导航_2026年6月17日_沪深股市公告与交易提示",
-      "source": "股市直击",
-      "url": "https://finance.sina.com.cn/stock/s/2026-06-17/doc-inicseyz7217339.shtml",
-      "content": "【热点】 扬杰科技：获得欧盟理事会9个月豁免期。 瑞丰新材：公司被欧盟列入制裁名单。 金沃股份2025年度利润分配预案：拟10转4派3元。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:06",
-      "keywords": [
-        "股海导航",
-        "沪深股市",
-        "公告提示"
-      ]
-    },
-    {
-      "title": "四大证券报头版头条内容精华摘要_2026年6月17日_财经新闻",
-      "source": "股市直击",
-      "url": "https://finance.sina.com.cn/stock/y/2026-06-17/doc-inicseyw9028497.shtml",
-      "content": "6月17日（星期三），今日报刊头条主要内容精华如下： 中国证券报 国家发展改革委： 积极吸引社会资本参与“六张网”建设 6月16日，国家发展改革委主任郑栅洁主持召开民营企业...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:04",
-      "keywords": [
-        "上证报",
-        "中证报",
-        "证券日报"
-      ]
-    },
-    {
-      "title": "芯碁微装香港上市拟募资多达32.4亿港元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-17/doc-inicseyw9026036.shtml",
-      "content": " 据提交给香港交易所的文件，合肥芯碁微电子装备在香港上市中发行1，280万股股票，发行价区间为每股240.09-252.73港元。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:01",
-      "keywords": []
-    },
-    {
-      "title": "5月楼市持续回暖 一线城市二手房价格连涨三个月",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/roll/2026-06-17/doc-inicsezc3990986.shtml",
-      "content": "在“超长小阳春”的带动下，一线城市的房价延续良好态势。6月16日，国家统计局发布今年5月70个大中城市商品住宅销售价格变动情况。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-16",
-      "time": "23:00",
-      "keywords": []
     },
     {
       "title": "这是近期针对俄罗斯能源基础设施一系列袭击中的最新一起，意味着俄罗斯正面临日益严重的燃料短缺",
@@ -2310,54 +2329,6 @@
       "time": "--:--",
       "keywords": [
         "霍尔木兹周报"
-      ]
-    },
-    {
-      "title": "对AI交易过热的担忧导致全球科技股降温，美国科技股上周五也因市场担忧可能升息而大幅下跌",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-06-08/102451981.html?cxapp_link=true",
-      "content": "对AI交易过热的担忧导致全球科技股降温，美国科技股上周五也因市场担忧可能升息而大幅下跌",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-06-17",
-      "time": "--:--",
-      "keywords": [
-        "市场动态"
-      ]
-    },
-    {
-      "title": "美国总统唐纳德·特朗普此前呼吁以色列总理本杰明·内塔尼亚胡不要将局势升级",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-06-08/102451938.html?cxapp_link=true",
-      "content": "美国总统唐纳德·特朗普此前呼吁以色列总理本杰明·内塔尼亚胡不要将局势升级",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-17",
-      "time": "--:--",
-      "keywords": [
-        "市场动态"
-      ]
-    },
-    {
-      "title": "即使美伊和平协议达成，仍有诸多障碍将阻碍石油供应的正常恢复",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-06-08/102451900.html?cxapp_link=true",
-      "content": "即使美伊和平协议达成，仍有诸多障碍将阻碍石油供应的正常恢复",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-06-17",
-      "time": "--:--",
-      "keywords": [
-        "市场动态"
       ]
     }
   ]
