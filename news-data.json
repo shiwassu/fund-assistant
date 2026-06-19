@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-19T21:48:12.941872",
+  "updated": "2026-06-19T23:44:10.516693",
   "total": 149,
   "sources": [
     "新浪财经",
@@ -7,11 +7,39 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 31,
-    "medium": 10,
-    "low": 108
+    "high": 29,
+    "medium": 11,
+    "low": 109
   },
   "items": [
+    {
+      "title": "6月20日隔夜要闻：特朗普对伊朗协议定调 意在驳斥美国失败论 油价上涨 美伊核谈遇阻且油轮通行放缓",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-iniczanc0922174.shtml",
+      "content": "市场 全球股市本周强势收官，但整体情绪谨慎 欧洲股市因伊朗推迟谈判下跌 诺和诺德股价逆势大涨 宏观 特朗普向Axios表示 他不认为Anthropic对美国安全构成威胁...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-19",
+      "time": "23:02",
+      "keywords": []
+    },
+    {
+      "title": "6月20日外盘头条：美伊核谈尚未开始即因黎巴嫩问题陷入停滞 伊朗提出“保险费” 交易员提高美联储加息押注",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-inicywef1033127.shtml",
+      "content": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、美伊核谈因黎巴嫩问题未能举行 尚未启动便陷入停滞 2、伊朗提出“保险费” 宣示对霍尔木兹海峡的控制权 3...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-19",
+      "time": "21:52",
+      "keywords": []
+    },
     {
       "title": "欧洲股市因伊朗推迟谈判下跌 诺和诺德股价逆势大涨",
       "source": "环球市场播报",
@@ -24,6 +52,20 @@
       "period": "noon",
       "date": "2026-06-19",
       "time": "17:54",
+      "keywords": []
+    },
+    {
+      "title": "投资人士：美联储鹰派立场不改黄金牛市格局，市场长期利好逻辑存续",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-06-20/doc-inicymqp9342834.shtml",
+      "content": "来源：汇通网  汇通财经APP讯——默克投资公司（Merk Investments）创始人兼首席执行官阿克塞尔·默克（Axel Merk）表示，即便美联储将政策重心聚焦抗通胀、整体转向鹰派...",
+      "priority": "high",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "noon",
+      "date": "2026-06-19",
+      "time": "17:34",
       "keywords": []
     },
     {
@@ -98,80 +140,6 @@
         "美元",
         "贵金属"
       ]
-    },
-    {
-      "title": "资金狂涌！全球科技升温，公募加速布局韩国赛道",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/wm/2026-06-19/doc-inicxyys2731266.shtml",
-      "content": "【重磅】立即开户，投资韩国半导体资产&gt;&gt; 全球科技产业互通背景下，投资者对韩股的需求刺激着基金公司持续加码布局。 随着全球AI产业景气度持续攀升...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-19",
-      "time": "12:13",
-      "keywords": []
-    },
-    {
-      "title": "外资机构调研活跃，AI半导体等高景气赛道受青睐",
-      "source": "中国证券报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-06-19/doc-inicxyyp4635003.shtml",
-      "content": " Wind数据显示，2026年以来至6月19日，外资机构对A股上市公司调研活动频频，半导体、电子设备等科技赛道，以及医疗及高端制造领域公司成为外资重点关注对象。",
-      "priority": "high",
-      "sectors": [
-        "半导体",
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-06-19",
-      "time": "12:06",
-      "keywords": []
-    },
-    {
-      "title": "黄力晨:美联储释放鹰派信号 继续打压黄金价格",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/nmetal/hjfx/2026-06-19/doc-inicxyyr1385845.shtml",
-      "content": "6月19日，昨日周四我们认为，美联储周三维持利率不变，但释放了明确的鹰派信号，市场对美联储加息的预期大幅升温，直接打压黄金价格...",
-      "priority": "high",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "morning",
-      "date": "2026-06-19",
-      "time": "11:41",
-      "keywords": [
-        "美联储",
-        "美元"
-      ]
-    },
-    {
-      "title": "广东：实施互联网企业梯度培育计划 争取打造万亿级世界一流互联网企业（附全文）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/roll/2026-06-19/doc-inicxusr4717134.shtml",
-      "content": "摘要：广东印发《广东省推进服务业扩能提质实施方案》，实施互联网企业梯度培育计划，建立全周期培育体系，培育一批百亿级骨干企业，争取打造万亿级世界一流互联网企业。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-06-19",
-      "time": "10:35",
-      "keywords": []
-    },
-    {
-      "title": "沃什将美联储的“精简”策略带入了一个复杂且对信息需求旺盛的世界",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-19/doc-inicxusv9590916.shtml",
-      "content": "美联储主席沃什（Kevin Warsh）本周在首次政策会议上迅速展现了其执政风格，此次会议标志着美联储回归1990年代那种精简高效的央行运作模式——在此之前...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-06-19",
-      "time": "10:01",
-      "keywords": []
     },
     {
       "title": "家庭消费仍面临压力，尽管中国政府多次推出支持消费的政策，包括消费补贴和降低消费贷利率等，但家庭仍倾向于选择储蓄，而非增加杠杆来消费、投资或购买住房",
@@ -495,6 +463,20 @@
       ]
     },
     {
+      "title": "汽车巨头大众汽车宣布，将削减约5万个岗位",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/roll/2026-06-20/doc-iniczane2263596.shtml",
+      "content": "来源【央视财经】； 原标题：《汽车巨头宣布，将削减约5万个岗位》 当地时间18日，德国汽车制造商大众汽车集团表示，受地缘政治紧张、行业竞争加剧等因素影响...",
+      "priority": "medium",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-06-19",
+      "time": "23:23",
+      "keywords": []
+    },
+    {
       "title": "机构：霍尔木兹海峡重启商业航运以来已有至少20艘油轮通航",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-inicymqi4446287.shtml",
@@ -655,6 +637,104 @@
       ]
     },
     {
+      "title": "以色列“同意停火”后，再次发动袭击",
+      "source": "环球网",
+      "url": "https://finance.sina.com.cn/roll/2026-06-20/doc-iniczane2263839.shtml",
+      "content": "以色列“同意停火”后再次空袭黎巴嫩南部 黎巴嫩国家通讯社19日报道称，黎巴嫩真主党与以色列同意停火后，以色列战机当天仍对黎南部杰津地区发动空袭...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-19",
+      "time": "23:23",
+      "keywords": []
+    },
+    {
+      "title": "特朗普紧盯AI：一周前视Anthropic为“国家安全威胁”，现仍不排除必要时干预",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/world/2026-06-20/doc-iniczane2259186.shtml",
+      "content": "来源：华尔街见闻 1 被问及是否认为Anthropic对美国安全构成威胁，特朗普称，现在不是，一周前也许是。他说，该司在美政府表达担忧后迅速回应...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-06-19",
+      "time": "23:10",
+      "keywords": []
+    },
+    {
+      "title": "国际油价V型反弹，美股期货全线下跌，以色列“同意停火”后再次空袭黎巴嫩南部",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/wm/2026-06-20/doc-iniczanc0926246.shtml",
+      "content": "国际油价V型反弹！ 北京时间6月20日，ICE布油、WIT原油盘中一度直线跳水跌约1%，随后双双快速反弹，最终ICE布油收涨0.47%，周跌8.53%，WTI原油涨0.91%。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-19",
+      "time": "23:09",
+      "keywords": []
+    },
+    {
+      "title": "美伊谈判，又有新消息",
+      "source": "中国证券报-中证网",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-20/doc-iniczanf9034630.shtml",
+      "content": "伊美谈判相关斡旋方21日在埃及举行会晤 新华社德黑兰6月19日电 据伊朗伊斯兰共和国广播电视台19日报道，埃及和巴基斯坦当天发表联合声明说...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-19",
+      "time": "23:05",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：不再认为Anthropic对美国安全构成威胁",
+      "source": "鞭牛士",
+      "url": "https://finance.sina.com.cn/stock/companyt/2026-06-20/doc-iniczane2258337.shtml",
+      "content": " 6月20日消息，据周五发布的《Axios Show》节目采访报道，唐纳德·特朗普上周表示，他可能将人工智能公司Anthropic视为国家安全威胁，但他现在不再这么认为了。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-19",
+      "time": "23:05",
+      "keywords": []
+    },
+    {
+      "title": "全球股市本周强势收官，但整体情绪谨慎",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-iniczanc0919272.shtml",
+      "content": "全球股市在本周强劲上涨后于周末趋于谨慎，因美伊临时和平协议带来的宽慰让位于对能否达成持久协议的担忧。 由于美国股市因六月节假期休市...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-19",
+      "time": "22:51",
+      "keywords": []
+    },
+    {
+      "title": "特朗普向Axios表示 他不认为Anthropic对美国安全构成威胁",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-iniczane2250768.shtml",
+      "content": " 美国总统唐纳德·特朗普表示，他不认为Anthropic PBC构成国家安全威胁。几天前，特朗普政府采取措施，切断外国对这家科技公司最先进人工智能（AI）模型的访问权限。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-19",
+      "time": "22:42",
+      "keywords": []
+    },
+    {
       "title": "油价上涨 美伊核谈遇阻且油轮通行放缓",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-inicywec4253891.shtml",
@@ -753,6 +833,34 @@
       "keywords": []
     },
     {
+      "title": "伊朗副外长：美国必须确保以色列遵守谅解备忘录",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-20/doc-inicyweh2347334.shtml",
+      "content": "△赛义德·哈提卜扎德（资料图）当地时间19日，伊朗外交部副部长赛义德·哈提卜扎德在接受采访时表示，美国必须确保以色列遵守美伊之间达成的谅解备忘录条款。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-19",
+      "time": "20:24",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：美伊须60天内达成长期协议 否则将采取进一步行动",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-20/doc-inicywec4261782.shtml",
+      "content": "当地时间6月19日，美国总统特朗普在安德鲁斯联合基地发表讲话时表示，美国和伊朗已签署谅解备忘录，双方将在60天内就长期安排展开谈判。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-19",
+      "time": "19:56",
+      "keywords": []
+    },
+    {
       "title": "伊朗副外长：美国须约束以色列遵守美伊谅解备忘录",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-inicyrwk2463122.shtml",
@@ -809,6 +917,20 @@
       "keywords": []
     },
     {
+      "title": "泽连斯基称乌俄谈判或将重启 允许俄方敲定具体形式",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-20/doc-inicyrwm9232312.shtml",
+      "content": "△泽连斯基（资料图）当地时间6月19日，乌克兰总统泽连斯基表示，乌克兰和俄罗斯的谈判或将重启，当前有待敲定的是谈判的具体形式。他特别强调...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-19",
+      "time": "18:22",
+      "keywords": []
+    },
+    {
       "title": "美国国务院：黎巴嫩和以色列将于6月23-25日在华盛顿会谈",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-20/doc-inicyrwk2440984.shtml",
@@ -820,6 +942,34 @@
       "period": "noon",
       "date": "2026-06-19",
       "time": "17:57",
+      "keywords": []
+    },
+    {
+      "title": "美国务卿与黎总统通话 讨论黎以谈判安排",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-20/doc-inicyweh2349863.shtml",
+      "content": "△美国国务院大楼（资料图）当地时间6月19日，美国国务院发表声明称，美国国务卿鲁比奥当天与黎巴嫩总统约瑟夫·奥恩通话，重申了美国对黎巴嫩政府的支持...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-19",
+      "time": "17:46",
+      "keywords": []
+    },
+    {
+      "title": "欧洲理事会主席：正建立渠道以直接向俄传递欧盟信息",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-20/doc-inicywei9142697.shtml",
+      "content": "欧洲理事会主席科斯塔19日表示，他正通过其办公室建立一条外交渠道，以便能够直接向俄罗斯传递欧盟信息。科斯塔在欧盟峰会会后记者会上说...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-19",
+      "time": "17:05",
       "keywords": []
     },
     {
@@ -862,6 +1012,20 @@
       "period": "noon",
       "date": "2026-06-19",
       "time": "16:08",
+      "keywords": []
+    },
+    {
+      "title": "伊朗外长：美应对任何违反谅解备忘录条款的行为负责",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-19/doc-inicymqm1208131.shtml",
+      "content": "当地时间6月19日，伊朗外长阿拉格齐与巴基斯坦副总理兼外长达尔通电话。双方就地区局势交换了意见。通话中，阿拉格齐对巴基斯坦在美伊外交谈判进程以及达成谅解备忘录过程...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-19",
+      "time": "15:14",
       "keywords": []
     },
     {
@@ -1002,174 +1166,6 @@
       "keywords": [
         "加拿大"
       ]
-    },
-    {
-      "title": "伊朗宣示对霍尔木兹海峡管控权 相关规定为未来通行收费奠定基础",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-19/doc-inicxyyr1395639.shtml",
-      "content": "伊朗在一份文件中表示，船舶通过霍尔木兹海峡这一重要国际水道时，需要获得伊朗方面的许可。该文件要求船舶购买由德黑兰方面提供的保险...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-19",
-      "time": "12:11",
-      "keywords": []
-    },
-    {
-      "title": "黎巴嫩总统：以色列的升级行动破坏停火努力",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-19/doc-inicxyyp4611756.shtml",
-      "content": "黎巴嫩总统奥恩表示，以色列最新一轮军事升级行动破坏了所有旨在结束战争的停火努力，总统办公室通过X平台发文称。 奥恩表示，以色列的袭击不会阻止黎巴嫩政府继续努力...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-06-19",
-      "time": "11:49",
-      "keywords": []
-    },
-    {
-      "title": "伊朗称船只需要获得伊方许可才能通过霍尔木兹海峡",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-19/doc-inicxyyr1385643.shtml",
-      "content": " 伊朗在一份文件中表示，船舶通过霍尔木兹海峡这一重要国际水道时，需要获得伊朗方面的许可。相关文件为未来可能实施的收费制度奠定了基础。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-06-19",
-      "time": "11:41",
-      "keywords": []
-    },
-    {
-      "title": "伊朗：希望通过霍尔木兹海峡的船只需要通过波斯湾海峡管理局提交申请",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-19/doc-inicxyys2710646.shtml",
-      "content": "伊朗新成立的波斯湾海峡管理局在X平台发文称，希望通过霍尔木兹海峡的船舶，需要先在其官方网站提交申请。 管理局表示，凡按照规定要求通过指定链接提交申请的船舶...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-06-19",
-      "time": "11:17",
-      "keywords": []
-    },
-    {
-      "title": "突然，集体杀跌！近12万人爆仓，加密货币大跳水！",
-      "source": "数据宝",
-      "url": "https://finance.sina.com.cn/wm/2026-06-19/doc-inicxyys2713197.shtml",
-      "content": "市场避险情绪再度升温。 6月19日，被视作反映市场风险偏好的加密货币持续跳水，比特币、以太坊跌幅超过3%，Solana跌5%，XRP跌超4%，XLM大跌9%。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-06-19",
-      "time": "11:17",
-      "keywords": []
-    },
-    {
-      "title": "苏州市委书记范波、市长王维会见刘强东",
-      "source": "长安街知事",
-      "url": "https://finance.sina.com.cn/wm/2026-06-19/doc-inicxyyt9483739.shtml",
-      "content": "转自：长安街知事 据苏州日报消息，6月19日，苏州市委书记范波，市委副书记、市长王维会见了京东集团创始人、董事局主席刘强东一行。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-06-19",
-      "time": "11:06",
-      "keywords": []
-    },
-    {
-      "title": "耐克被曝有意对渠道大动刀：砍掉线上经销权，仅保留官旗",
-      "source": "经济观察报",
-      "url": "https://finance.sina.com.cn/roll/2026-06-19/doc-inicxusu2823173.shtml",
-      "content": "记者 叶心冉 近日，有多位用户在社交媒体发文称，自2027年1月1日开始，耐克将取消线上一级经销商授权，经销商将无权在任何线上平台售卖耐克产品...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-06-19",
-      "time": "10:23",
-      "keywords": []
-    },
-    {
-      "title": "美伊谅解备忘录生效，冲突111天以来海湾各国经济还好吗？",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-19/doc-inicxusr4713008.shtml",
-      "content": "据新华社报道，巴基斯坦总理夏巴兹18日说，伊朗和美国远程签署的谅解备忘录立即生效。作为第一步，伊朗将立即重新开放霍尔木兹海峡，美国将立即解除海上封锁。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-06-19",
-      "time": "10:19",
-      "keywords": []
-    },
-    {
-      "title": "知情人士：Momenta拟在香港IPO筹资10亿美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-19/doc-inicxusv9594921.shtml",
-      "content": "知情人士称，自动驾驶公司Momenta正准备在中国香港上市，其估值已达到约90亿美元。 上述知情人士称，获General Motors支持的Momenta料将通过此次首次公开募股筹集约10亿美...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-06-19",
-      "time": "10:13",
-      "keywords": []
-    },
-    {
-      "title": "军费扩张预期升温 欧洲军工股重拾升势",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-06-19/doc-inicxusu2817589.shtml",
-      "content": "欧洲国防股上涨，市场押注各国政府将进一步增加国防开支。此前，美国暗示可能削减其在欧洲地区的驻军规模，并继续向北约盟友施压...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-06-19",
-      "time": "10:09",
-      "keywords": []
-    },
-    {
-      "title": "贾成东离场，付娟“瘦身”，申万菱信接下来如何才能打出好牌？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/roll/2026-06-19/doc-inicxusv9593177.shtml",
-      "content": " 财联社6月19日讯（记者 封其娟）贾成东完成“清仓式”卸任仅3日，申万菱信权益投资部负责人兼研究部负责人付娟年内再度卸任产品，引发市场关注，但二人卸任逻辑并不相同。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-06-19",
-      "time": "10:03",
-      "keywords": []
-    },
-    {
-      "title": "以色列连夜打击黎巴嫩南部80多个真主党目标",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-06-19/doc-inicxusr4706036.shtml",
-      "content": "以色列国防军表示，其部队在夜间对黎巴嫩南部超过80个真主党目标发动打击，这些目标位于以军部署的安全区内外。 以军称，其在黎巴嫩南部的行动仍在继续...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-06-19",
-      "time": "10:00",
-      "keywords": []
     },
     {
       "title": "供给压力渐显，需求整体疲弱，甲醇价格大幅下挫",
