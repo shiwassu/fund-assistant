@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-21T05:28:41.787813",
+  "updated": "2026-06-21T10:20:35.447544",
   "total": 149,
   "sources": [
     "新浪财经",
@@ -7,164 +7,107 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 30,
-    "medium": 20,
-    "low": 99
+    "high": 26,
+    "medium": 26,
+    "low": 97
   },
   "items": [
     {
-      "title": "四家A股公司，“摘星脱帽”！明日复牌",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-21/doc-iniecryw9919483.shtml",
-      "content": "*ST金比、*ST星光、*ST新研、*ST天山6月17日晚分别公告称，撤销退市风险警示。 四家公司于6月18日停牌一天，6月22日（明日）开市起复牌并“摘星脱帽”。",
+      "title": "高盛大砍黄金目标价",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/roll/2026-06-21/doc-inieehws0986436.shtml",
+      "content": "高盛集团日前将2026年年终黄金价格预测 下调了500美元/盎司，因美联储今年料不会再降息 。 该行分析师Lina Thomas和Daan Struyven在一份报告中表示...",
+      "priority": "high",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "morning",
+      "date": "2026-06-21",
+      "time": "09:12",
+      "keywords": []
+    },
+    {
+      "title": "万亿美元存储巨头美光科技，下周发布财报",
+      "source": "中国证券报-中证网",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-21/doc-inieehws0986061.shtml",
+      "content": " 下周，多家美股公司将陆续披露财报。其中，存储龙头美光科技将于美东时间6月24日美股盘后公布2026财年第三季度业绩，并在美东时间下午4：30召开电话会议。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-06-21",
-      "time": "03:08",
+      "time": "09:09",
       "keywords": []
     },
     {
-      "title": "鹰派美联储“吓坏”市场，芯片股行情将迎关键考验",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/roll/2026-06-21/doc-iniecryv3131318.shtml",
-      "content": "美光科技的财报能否不负众望。 受美伊签署谅解备忘录、有望结束冲突利好提振，本周美股整体收涨，三大股指在科技股带动下创出历史新高，但行情过程充满剧烈波动。",
+      "title": "5家A股公司“摘星脱帽”，下周复牌",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/wm/2026-06-21/doc-inieehwt7751527.shtml",
+      "content": " 近日，*ST星光、*ST新研、*ST金比、*ST天山、*ST新潮相继公告称将撤销退市风险警示，股票下周复牌。此前，5家公司均因触及财务类退市红线，而被实施退市风险警示。",
       "priority": "high",
       "sectors": [
-        "半导体"
+        "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-06-21",
-      "time": "02:54",
+      "time": "08:55",
       "keywords": []
     },
     {
-      "title": "多家有色龙头涨停！板块高估值风险释放，有公司股息率超3%",
-      "source": "证券市场周刊",
-      "url": "https://finance.sina.com.cn/stock/s/2026-06-21/doc-iniecryv3126255.shtml",
-      "content": "文丨惠凯 在年初创历史新高后，有色板块2月以来走出深度回调行情，部分上市公司股价跌幅超30%-40%，由此触发监管要求及公司制度的市值管理机制...",
-      "priority": "high",
-      "sectors": [
-        "有色"
-      ],
-      "period": "night",
-      "date": "2026-06-21",
-      "time": "02:30",
-      "keywords": []
-    },
-    {
-      "title": "国药系终止47亿并购，抽身派林生物",
-      "source": "",
-      "url": "https://finance.sina.com.cn/roll/2026-06-21/doc-iniecryy1212715.shtml",
-      "content": "（来源：投资者网-思维财经） 【医药视界 】直击大健康行业动态与药企财报，一线政策解读，迅速看懂医药前景。 ‘戛然而止。’ 赶在端午节前，国药系终止一笔重磅大交易。",
-      "priority": "high",
-      "sectors": [
-        "医药"
-      ],
-      "period": "night",
-      "date": "2026-06-21",
-      "time": "02:00",
-      "keywords": []
-    },
-    {
-      "title": "一放一严！机构热议科创新政：AI“六小虎”或加速上市回流，题材炒作监管全面收紧",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-06-21/doc-iniecmsx3221446.shtml",
-      "content": "华夏时报记者 王兆寰 北京报道 近日，2026陆家嘴论坛上证监会主席吴清的表态，将A股的“含科量”推向新的高度。 值得注意的是，此次表态形成资本市场全新治理逻辑：一边放开...",
+      "title": "中信证券：今年AI驱动的行情不是互联网泡沫行情，加息很难影响“AI类周期股”的估值",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-21/doc-inieeaqv7861586.shtml",
+      "content": "策略聚焦|“加息”涨科技？ 来源：中信证券研究 文|裘翔 张铭楷 陈峰 高玉森 陈泽平 今年以来AI驱动的行情是由庞大的基础设施投资驱动的“瓶颈交易”...",
       "priority": "high",
       "sectors": [
         "AI"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-06-21",
-      "time": "01:22",
+      "time": "08:05",
       "keywords": []
     },
     {
-      "title": "688802联手09880，在英伟达阵地上“开了一枪”！",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-06-21/doc-iniecmsy9991568.shtml",
-      "content": "中经记者 李玉洋 上海报道 沪上明星GPU企业沐曦股份（688802.SH）近日有两大动作。 6月12日，该公司发布公告称，拟发行境外上市外资股（H股）股票...",
-      "priority": "high",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "night",
-      "date": "2026-06-21",
-      "time": "01:05",
-      "keywords": []
-    },
-    {
-      "title": "洛杉矶进入紧急状态：大型商业仓储设施火灾持续数日，产生大量刺激性烟雾，遮蔽天空",
-      "source": "",
-      "url": "https://finance.sina.com.cn/wm/2026-06-21/doc-iniecmtc8083189.shtml",
-      "content": " 新华社消息，美国洛杉矶市一处大型商业仓储设施火灾持续数日并产生大量刺激性烟雾，洛杉矶市长卡伦·巴斯20日宣布该市进入紧急状态。",
+      "title": "美联储，重磅来袭！高盛突然宣布：下调！",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/wm/2026-06-21/doc-inieeaqs9752296.shtml",
+      "content": "高盛突然发生重大转变。 高盛在最新发布的报告中表示，将2026年年终黄金价格预测下调500美元/盎司。高盛此前一直是黄金市场坚定的多头...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-06-21",
-      "time": "00:39",
+      "time": "07:33",
       "keywords": []
     },
     {
-      "title": "澳大利亚延长燃油消费税减免政策，缓解居民生活成本压力",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-21/doc-iniecmsy9972265.shtml",
-      "content": " 澳大利亚总理周日表示，该国将把燃油消费税减免政策再延长一个月。受伊朗战事影响，澳大利亚国内燃油价格持续高企，民众负担加重。",
-      "priority": "high",
-      "sectors": [
-        "消费"
-      ],
-      "period": "night",
-      "date": "2026-06-21",
-      "time": "00:19",
-      "keywords": []
-    },
-    {
-      "title": "“纸尿裤事件”连续反转，多品牌为自证紧急送检，婴童家长焦虑蔓延",
+      "title": "中金：拥挤不是看空理由，拥挤可能带来风险，但也可能意味着趋势加强",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-06-21/doc-iniecmtc8069036.shtml",
-      "content": "蓝鲸新闻6月21日讯（记者 赵凯）一则关于多品牌纸尿裤甲酰胺含量的检测报道将整个纸尿裤行业推向了舆论的风口浪尖。 报道发出后，从行业协会到媒体记者再到各大纸尿裤品牌...",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-21/doc-inieeaqs9747880.shtml",
+      "content": "本周动态：模糊的沃什与拥挤的科技 来源：Kevin策略研究 1️⃣ 外资：主动外资流出港股3.6亿美元（vs． 上周4.2亿），流出A股1.6亿美元（vs． 上周1.5亿）。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-06-21",
-      "time": "00:07",
+      "time": "07:27",
       "keywords": []
     },
     {
-      "title": "300870，与谷歌GPU电源达成合作，股价创历史新高",
-      "source": "数据宝",
-      "url": "https://finance.sina.com.cn/wm/2026-06-21/doc-iniecmtc8059269.shtml",
-      "content": "近一周，美埃科技、立昂微、欧陆通等个股获机构密集调研。 近一周机构调研个股有170多只 近一周（6月12日至18日）机构调研个股有170多只，美埃科技获调研机构数最多。",
+      "title": "下周影响市场重要资讯前瞻：6月LPR报价将公布，夏季达沃斯论坛将开幕，近550亿元市值限售股解禁",
+      "source": "新浪证券",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-21/doc-inieeaqr2970587.shtml",
+      "content": " 6月LPR报价将公布，央行公开市场将有19358亿元逆回购到期，夏季达沃斯论坛将开幕，英伟达将举行年度股东大会，近550亿元市值限售股解禁，2只新股将发行。",
       "priority": "high",
       "sectors": [
-        "AI"
+        "综合"
       ],
-      "period": "night",
-      "date": "2026-06-20",
-      "time": "23:31",
-      "keywords": []
-    },
-    {
-      "title": "央行黄金大调查出炉！购金意愿创历史新高，45%央行计划增持",
-      "source": "数据宝",
-      "url": "https://finance.sina.com.cn/wm/2026-06-21/doc-iniecmta1283129.shtml",
-      "content": "6月16日，世界黄金协会最新发布的《2026年全球央行黄金储备调研》（CBGR）显示，近九成受访央行认为，未来12个月内全球央行黄金储备将继续增加。",
-      "priority": "high",
-      "sectors": [
-        "黄金",
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-06-20",
-      "time": "23:31",
+      "period": "morning",
+      "date": "2026-06-21",
+      "time": "07:26",
       "keywords": []
     },
     {
@@ -473,145 +416,268 @@
       ]
     },
     {
-      "title": "广发策略刘晨明：讨论一个当下不可调和的分歧",
+      "title": "ETF座次再“洗牌”：华夏重返第一，陆家嘴论坛定调ETF两大方向，科技还能疯多久？",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-06-21/doc-iniecwht3021997.shtml",
-      "content": "来源：晨明的策略深度思考 本文作者：刘晨明/郑恺/李如娟 数据挖掘：李如娟 联系人：毕露露 去年10月份，我们曾经有写过一篇题为《何必论是非》的公众号。",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-21/doc-inieehwq9685289.shtml",
+      "content": "来源：ETF洞察 【导语】陆家嘴论坛力挺“主动ETF”，AI还在“狂飙”，资金却在悄悄撤退 中国基金报记者 闫军 大家好，这里是ETF洞察。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-06-21",
-      "time": "03:15",
+      "time": "10:01",
       "keywords": []
     },
     {
-      "title": "碧芭宝贝纸尿裤最新检测结果：主力款未检出甲酰胺，剩余批次随出随公示",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-06-21/doc-iniecryy1234413.shtml",
-      "content": "6月21日，今日，碧芭宝贝针对“产品检出甲酰胺”一事再度发声： 事发即刻安排权威第三方对全系列尿裤双重检测，主力款全部甲酰胺未检出，剩余批次分批检测、随出随公示...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-21",
-      "time": "03:13",
-      "keywords": []
-    },
-    {
-      "title": "进一步健全投融资相协调的资本市场功能 更好服务新质生产力和经济高质量发展",
+      "title": "4倍光通信牛股002491，控股股东拟向上海交大捐赠350万股，市值超亿元",
       "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-06-21/doc-iniecryw9913180.shtml",
-      "content": "本文转载自：中国证券投资基金业协会 尊敬的吉宁书记、小川行长、龚正市长，各位领导、各位来宾，女士们、先生们： 大家上午好！很高兴又一次参加陆家嘴论坛。",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-21/doc-inieehwq9685034.shtml",
+      "content": "来源：中国基金报 【导读】通鼎互联控股股东计划向上海交大捐赠350万股股份 中国基金报记者 忆山 6月21日，通鼎互联发布公告称，公司控股股东通鼎集团计划向上海交通大学教...",
       "priority": "medium",
       "sectors": [
-        "综合"
+        "光模块"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-06-21",
-      "time": "03:09",
+      "time": "10:01",
       "keywords": []
     },
     {
-      "title": "知名基金经理最新调仓显现，医药分歧扩大，硬科技、电网获增持",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/roll/2026-06-21/doc-iniecryz8008724.shtml",
-      "content": "转自：财联社 财联社6月21日讯（记者 封其娟）借由上市公司回购公告的披露，公募基金二季度以来调仓操作逐步显现，基金经理们在医药、科技制造...",
+      "title": "贵州茅台：每股分红超28元，共计派发现金红利超350亿元，6月25日登记、26日发放",
+      "source": "第一财经",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-21/doc-inieehwt7756470.shtml",
+      "content": "贵州茅台（600519.SH）公告称，公司2025年年度权益分派方案已获股东大会审议通过，以总股本扣除回购专用账户股份后的1，250，081，601股为基数，每股派发现金红利28...",
       "priority": "medium",
       "sectors": [
-        "医药",
+        "消费",
         "金融"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-06-21",
-      "time": "03:05",
+      "time": "09:01",
       "keywords": []
     },
     {
-      "title": "《整治涉企侵权信息　优化营商网络环境自律公约》全文发布",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-06-21/doc-iniecryv3133433.shtml",
-      "content": "本文转载自：中国证券投资基金业协会 近期，在国家网信办指导下，重点网站平台共同制定《整治涉企侵权信息 优化营商网络环境自律公约》（以下简称《公约》）。",
+      "title": "2连板通鼎互联：第一大股东、控股股东拟向上海交通大学教育发展基金会捐赠350万股股份  对应市值1.1亿元",
+      "source": "新浪证券",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-06-21/doc-inieehwp2868511.shtml",
+      "content": "6月21日，通鼎互联（002491.SZ）公告称，公司控股股东通鼎集团计划向上海交通大学教育发展基金会无偿捐赠其所持公司350万股无限售流通股，占公司总股本的0.28%。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-06-21",
-      "time": "03:03",
+      "time": "08:28",
       "keywords": []
     },
     {
-      "title": "尉迟平出任德邦基金董事长 公司治理架构持续完善",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-06-21/doc-iniecryz8003711.shtml",
-      "content": "来源：经济观察报 6月19日，德邦基金管理有限公司（下称“德邦基金”）发布高级管理人员变更公告。经股东方委派提名、公司董事会选举，尉迟平正式出任公司董事长。",
+      "title": "假期影响市场重要资讯回顾：七部门规范“内卷式”竞争，高盛大砍黄金目标价，美伊代表团抵达瑞士谈判会场",
+      "source": "新浪证券",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-21/doc-inieeaqu1086907.shtml",
+      "content": "端午节假期影响市场的重要资讯有：上交所暂不实施完善股票期权组合策略业务；工行、农行、中行、建行、交行集体宣布落地离岸人民币外汇试点交易；美伊谈判代表均已抵达瑞士...",
+      "priority": "medium",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "morning",
+      "date": "2026-06-21",
+      "time": "08:20",
+      "keywords": []
+    },
+    {
+      "title": "十大机构看后市：市场有望重拾动力，科技成长结构性行情延续，中报行情关注3大线索",
+      "source": "股市直击",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-21/doc-inieeaqv7859996.shtml",
+      "content": " 本周三大指数齐涨，上证指数涨1.46%，深证成指涨7.13%，创业板指涨11.02%，科创50涨14.93%。后市将如何发展？看看机构怎么说。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-06-21",
-      "time": "02:55",
+      "time": "08:13",
       "keywords": []
     },
     {
-      "title": "视频|广发基金2老将旗下3只基金逆势下跌 年内最深跌27%",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-06-21/doc-iniecryv3130035.shtml",
-      "content": "",
+      "title": "庄士中国附属Chinaculture.com出售1892.2万股北海股份",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqu1064564.shtml",
+      "content": "庄士中国（00298）与庄士机构国际（00367）联合发布公告，Chinaculture.com（为庄士中国的直接全资附属公司）于2026年4月22日（要约公布日期后的下一日）至2026年6月18日期...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-06-21",
-      "time": "02:54",
-      "keywords": []
+      "time": "07:23",
+      "keywords": [
+        "庄士中国",
+        "出售",
+        "北海股份"
+      ]
     },
     {
-      "title": "德邦基金“换帅” 尉迟平履新董事长",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-06-21/doc-iniecryv3130014.shtml",
-      "content": "来源：上海证券报·中国证券网 作者：陈玥德邦基金公告 6月19日，德邦基金管理有限公司发布高级管理人员变更公告，经股东委派及董事会选举，尉迟平正式担任公司董事长。",
+      "title": "领展房产基金获SAUNDERS John Russell增持2万股 每股作价36.92港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqv7831344.shtml",
+      "content": "香港联交所最新数据显示，6月15日，SAUNDERS John Russell增持领展房产基金（00823）2万股，每股作价36.92港元，总金额为73.84万港元。",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-06-21",
+      "time": "07:01",
+      "keywords": [
+        "领展房产基金",
+        "增持"
+      ]
+    },
+    {
+      "title": "中信里昂：中国海洋石油目标价上调至36港元 重申“跑赢大市”评级",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-21/doc-inieeaqv7830397.shtml",
+      "content": " 中信里昂发布研报称，上调中国海洋石油（00883）H股目标价12.5%，从32港元升至36港元，亦上调A股目标价，重申跑赢大市评级。",
+      "priority": "medium",
+      "sectors": [
+        "能源"
+      ],
+      "period": "morning",
+      "date": "2026-06-21",
+      "time": "06:59",
+      "keywords": [
+        "中信里昂：",
+        "中国海洋石油",
+        "跑赢大市"
+      ]
+    },
+    {
+      "title": "中信里昂：吉利汽车目标价30港元 高度确信的“跑赢大市”评级",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-21/doc-inieeaqr2959443.shtml",
+      "content": "中信里昂发布研报称，维持吉利汽车（00175）目标价30港元以及高度确信的“跑赢大市”评级。 该行表示，吉利5月出口8.5万辆。据管理层称，若非物流瓶颈...",
+      "priority": "medium",
+      "sectors": [
+        "消费"
+      ],
+      "period": "morning",
+      "date": "2026-06-21",
+      "time": "06:58",
+      "keywords": [
+        "中信里昂",
+        "吉利汽车",
+        "跑赢大市"
+      ]
+    },
+    {
+      "title": "高盛：零跑汽车首予“买入”评级 目标价50港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-21/doc-inieeaqu1053396.shtml",
+      "content": "高盛发布研报称，零跑汽车（09863）作为领先的纯新能源车企，有望推出一系列具竞争力的新车型并顺利推进生产，带动未来三个季度在国内市场增长持续加速...",
+      "priority": "medium",
+      "sectors": [
+        "消费"
+      ],
+      "period": "morning",
+      "date": "2026-06-21",
+      "time": "06:57",
+      "keywords": [
+        "高盛",
+        "零跑汽车",
+        "目标价"
+      ]
+    },
+    {
+      "title": "瑞银：比亚迪股份目标价上调至135港元 维持“买入”评级",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-21/doc-inieeaqs9735833.shtml",
+      "content": "瑞银发布研报称，比亚迪股份（01211）5月销量重返同比正增长，为去年9月以来首次，表现令市场意外，国内市场份额及季度盈利预期均有改善迹象...",
+      "priority": "medium",
+      "sectors": [
+        "消费"
+      ],
+      "period": "morning",
+      "date": "2026-06-21",
+      "time": "06:55",
+      "keywords": [
+        "瑞银",
+        "比亚迪股份",
+        "目标价"
+      ]
+    },
+    {
+      "title": "花旗：中国铝业重申“买入”评级 目标价为17.08港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-21/doc-inieeaqs9735389.shtml",
+      "content": "花旗发布研报称，由于投资者担忧能源价格上涨背景下需求走弱，以及投资者资金配置从大宗商品板块转向AI相关科技板块，中国宏桥（01378）和中国铝业（02600）的股价表现均明...",
+      "priority": "medium",
+      "sectors": [
+        "有色"
+      ],
+      "period": "morning",
+      "date": "2026-06-21",
+      "time": "06:54",
+      "keywords": [
+        "花旗",
+        "中国铝业",
+        "目标价"
+      ]
+    },
+    {
+      "title": "花旗：中国宏桥重申“买入”评级 目标价48港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-21/doc-inieeaqr2957942.shtml",
+      "content": "花旗发布研报称，由于投资者担忧能源价格上涨背景下需求走弱，以及投资者资金配置从大宗商品板块转向AI相关科技板块，中国宏桥（01378）和中国铝业（02600）的股价表现均明...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-06-21",
-      "time": "02:54",
-      "keywords": []
+      "time": "06:53",
+      "keywords": [
+        "花旗",
+        "中国宏桥",
+        "买入"
+      ]
     },
     {
-      "title": "近一周机构调研个股有170多只",
-      "source": "证券时报网",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-21/doc-iniecmsy9975212.shtml",
-      "content": "转自：证券时报 人民财讯6月21日电，近一周（6月12日至18日）机构调研个股有170多只，美埃科技获调研机构数最多。美埃科技有182家机构调研，包括57家基金公司...",
+      "title": "美银证券：快手-W维持“买入”评级 目标价63港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-21/doc-inieeaqr2957790.shtml",
+      "content": "美银证券发布研报称，维持快手-W（01024）“买入”评级，目标价63港元，并认为估值。净现金接近股价的一半，吸引因此除2026财年后的现金市盈率大约5倍。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-06-21",
-      "time": "00:26",
-      "keywords": []
+      "time": "06:53",
+      "keywords": [
+        "美银证券",
+        "快手-W",
+        "目标价"
+      ]
     },
     {
-      "title": "初灵信息经营活动现金流下降2809.70%，实控人减持透露哪些信号？",
-      "source": "界面",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-21/doc-iniecmtc8067116.shtml",
-      "content": "在交出一份历经调整“扭亏为盈”的2025年年报后，初灵信息（300250.SZ）今年一季度再次转亏，经营现金流出现恶化。 本月初，公司控股股东洪爱金抛出一纸减持公告...",
+      "title": "高盛：中国人寿给予“中性”评级 目标价28.5港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-06-21/doc-inieeaqs9734850.shtml",
+      "content": "高盛发布研报称，对中国人寿（02628）评级为中性，基于总资产回报率计算的12个月目标价为28.5港元，对应1.0倍的2027年预期市净率。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-06-21",
-      "time": "00:00",
-      "keywords": []
+      "time": "06:53",
+      "keywords": [
+        "高盛",
+        "中国人寿",
+        "中性"
+      ]
     },
     {
       "title": "【本文系数据通用户提前专享】AI带动出口高增，带来部分行业价格和利润回升，但也加剧了就业、地区间的K型分化，如何应对？",
@@ -775,410 +841,443 @@
       ]
     },
     {
-      "title": "世界杯唯一中国主裁今早上场：多个品牌押注金哨，马宁为何成了资本宠儿？",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-06-21/doc-iniecwhw1145194.shtml",
-      "content": "每经记者|王紫薇每经编辑|陈俊杰 北京时间6月21日上午8点，球迷王先生没有在这个假日里睡懒觉，而是守着转播平台等厄瓜多尔对库拉索的比赛。",
+      "title": "伊朗总统：不会制造核武器 不会放弃铀浓缩权利",
+      "source": "新华社",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-21/doc-inieehwt7779657.shtml",
+      "content": " 新华社德黑兰6月21日电（记者沙达提 陈霄）据伊朗伊斯兰共和国通讯社21日报道，伊朗总统佩泽希齐扬重申伊朗不会放弃铀浓缩的权利，并强调伊朗“明确表示不会制造原子弹”。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-06-21",
-      "time": "05:12",
+      "time": "10:09",
       "keywords": []
     },
     {
-      "title": "现场直击｜瑞士比尔根山高度警戒迎接美伊谈判",
-      "source": "新华视点",
-      "url": "https://finance.sina.com.cn/world/2026-06-21/doc-iniecwhu9820242.shtml",
-      "content": "新华社瑞士比尔根山6月21日电 现场直击|瑞士比尔根山高度警戒迎接美伊谈判 新华社记者王露 孟凡宇 经过几番改址、一再延期，依据美国和伊朗停战谅解备忘录进行的美伊技术性...",
+      "title": "英媒称英外交大臣要求首相斯塔默辞职",
+      "source": "新华社",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-21/doc-inieehwq9685428.shtml",
+      "content": " 新华社伦敦6月21日电（记者于艾岑）据英国天空新闻频道21日报道，英国外交大臣库珀已于本周末私下要求首相斯塔默辞职。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-06-21",
-      "time": "04:49",
+      "time": "10:06",
       "keywords": []
     },
     {
-      "title": "300081，多位股东联名发函，拟罢免实控人之子！",
-      "source": "",
-      "url": "https://finance.sina.com.cn/wm/2026-06-21/doc-iniecwhw1131925.shtml",
-      "content": "ST恒信（300081）股东之间的内讧愈演愈烈。 ST恒信控股股东、实际控制人孟宪民于近期向公司提交函件，提请公司2025年度股东会增加8项临时提案。",
+      "title": "伊朗外交部公布伊美谈判安排 称黎以停火是主要议题",
+      "source": "新华社",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-21/doc-inieehwt7755375.shtml",
+      "content": "新华社德黑兰6月21日电 据伊朗塔斯尼姆通讯社21日报道，伊朗外交部发言人巴加埃表示，伊朗和美国的谈判预计为期一天。21日上午，伊朗代表团将与调解方巴基斯坦和卡塔尔代表...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-06-21",
-      "time": "04:31",
+      "time": "09:04",
       "keywords": []
     },
     {
-      "title": "14年经历两度停工，融创重庆江北区一项目约20亿元起拍，曾规划为“重庆第一高楼”",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-21/doc-iniecwhw1131201.shtml",
-      "content": "6月20日，据阿里资产司法拍卖平台显示，重庆市江北区江北城组团A分区A13-1/05号宗地及地上在建工程将于7月9日开拍，由甘肃矿区人民法院主导，起拍价约20.02亿元...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-21",
-      "time": "04:30",
-      "keywords": []
-    },
-    {
-      "title": "603429，重大资产重组",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/wm/2026-06-21/doc-iniecwhw1128039.shtml",
-      "content": "*ST集友（603429）近日发布公告，披露筹划重大资产重组事项，拟以现金方式收购江苏慧聚药业股份有限公司（以下简称“慧聚药业”）超过50%的股权并取得控制权。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-21",
-      "time": "04:14",
-      "keywords": []
-    },
-    {
-      "title": "多家纸尿裤品牌再次回应“甲酰胺”风波：未检出，将持续更新检测进度",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-21/doc-iniecwht3030355.shtml",
-      "content": "母婴品牌Babycare、好奇、碧芭宝贝再发声明。 6月21日，母婴品牌Babycare发布声明，公开自查工作及产品检测进展。声明称，Babycare在售全系列纸尿裤产品按欧盟REACH法规SVH...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-21",
-      "time": "04:14",
-      "keywords": []
-    },
-    {
-      "title": "网友调侃：马宁6，厄瓜多尔0，库拉索0，人机大战第35场阶跃星辰独中0:0",
+      "title": "世界杯千场经典对决落幕，日本4:0大胜出线！11家AI预测一致，唯独百度文心预判失误",
       "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/chanjing/2026-06-21/doc-iniecryz8020118.shtml",
-      "content": "北京时间6月21日上午，联想集团与咪咕视频联合发起的“世界杯预测人机大战”来到第35场，90分钟赛后，厄瓜多尔0：0战平库拉索。终场哨响时，这场没有进球的比赛...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-21",
-      "time": "03:38",
-      "keywords": []
-    },
-    {
-      "title": "马宁主哨世界杯第999场比赛，中国AI全程守护",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/chanjing/2026-06-21/doc-iniecryy1242759.shtml",
-      "content": "北京时间6月21日，2026美加墨世界杯迎来E组第二轮的关键战，厄瓜多尔对阵库拉索。这场较量，恰好是世界杯历史上的第999场比赛。然而在这场对决中...",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-21/doc-inieehwp2881703.shtml",
+      "content": "北京时间6月21日中午，美加墨世界杯F组第二轮迎来里程碑对决，本场是世界杯历史第1000场正赛，突尼斯迎战日本，这场较量直接决定两队小组出线前景。",
       "priority": "low",
       "sectors": [
         "AI"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-06-21",
-      "time": "03:35",
+      "time": "08:58",
       "keywords": []
     },
     {
-      "title": "马宁领衔中国裁判组完成世界杯历史性首秀，联想AI全程守护中国力量",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/chanjing/2026-06-21/doc-iniecryz8018581.shtml",
-      "content": "北京时间6月21日，2026美加墨世界杯迎来E组第二轮的关键战，厄瓜多尔对阵库拉索。这场较量，恰好是世界杯历史上的第999场比赛。然而在这场对决中...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-06-21",
-      "time": "03:35",
-      "keywords": []
-    },
-    {
-      "title": "好奇纸尿裤公布最新检测结果：甲酰胺未检出",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-06-21/doc-iniecryv3136378.shtml",
-      "content": "6月21日，今日，好奇纸尿裤官方针对“产品检出甲酰胺”一事再度发声：自相关报道引发公众对纸尿裤安全问题的讨论以来，我们一直紧密关注着每一条留言与提问。",
+      "title": "雷军回应“早餐摆拍被吐槽”：大家看到这些报道，笑一笑就好",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-21/doc-inieehwp2872397.shtml",
+      "content": " 新浪科技讯 6月21日下午消息，近日，小米集团董事长、CEO雷军参加了一场题为“文心与匠心”的跨界对话，与主持人张蕾和作家刘震云进行对谈。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-06-21",
-      "time": "03:10",
+      "time": "08:40",
       "keywords": []
     },
     {
-      "title": "没患者买单，中国最贵药物降价140万元",
-      "source": "经济观察报",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-06-21/doc-iniecryv3139113.shtml",
-      "content": "波哌达可基注射液主打一次给药、多年功能性治愈，患者不必再每年打针几十、上百次。作为一次性治疗，它也遇到了与CAR-T等天价抗癌药相似的商业化难题。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-21",
-      "time": "03:07",
-      "keywords": []
-    },
-    {
-      "title": "股票投资者正面临气候风险",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-21/doc-iniecryv3130998.shtml",
-      "content": "随着市场对伊朗战事的担忧逐步消退，股票投资者正面临另一重风险：气候风险。该风险促使投资者重新评估农业、保险等各行各业的持仓布局。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-21",
-      "time": "02:56",
-      "keywords": []
-    },
-    {
-      "title": "进账“一个比尔·盖茨”！马斯克行权获7800亿元账面收益",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-21/doc-iniecryz8002011.shtml",
-      "content": "世界首富埃隆·马斯克正式兑现其备受关注的2018年薪酬方案，使其在特斯拉的投票权升至近20%！ 根据特斯拉向美国证券交易委员会（SEC）提交的最新文件...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-21",
-      "time": "02:46",
-      "keywords": []
-    },
-    {
-      "title": "李飞飞，投出了一个独角兽",
+      "title": "周天勇：平均主义 按劳动时间和等级进行分配",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-06-21/doc-iniecryy1210995.shtml",
-      "content": "学术界的女神，押注物理智能 作者 |吕敬之 来源 |#融中财经 李飞飞，出手了。 美国具身智能公司Generalist AI宣布完成新一轮4亿美元（约合人民币27亿元）融资...",
+      "url": "https://finance.sina.com.cn/wm/2026-06-21/doc-inieeaqr2992029.shtml",
+      "content": "来源：天勇谈经济 笔者按：从实践上看，计划经济时期的收入分配体制，并没有带来城乡居民收入的正常增长，人民生活水平提高得也并不理想。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-06-21",
-      "time": "02:03",
+      "time": "08:14",
       "keywords": []
     },
     {
-      "title": "波兰总统撤销授予泽连斯基的“白鹰勋章”，泽连斯基发文：已邮寄退还",
-      "source": "环球网",
-      "url": "https://finance.sina.com.cn/roll/2026-06-21/doc-iniecryy1205437.shtml",
-      "content": "【环球网报道 记者 赵建东】据《基辅邮报》、乌克兰国家新闻社等媒体报道，乌总统泽连斯基6月20日在社交媒体宣布，已通过乌克兰物流公司‌“Nova...",
+      "title": "海峡波澜再起，美伊谈判将受何影响？",
+      "source": "新华社",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-21/doc-inieeaqu1084896.shtml",
+      "content": "新华社北京6月21日电 美国和伊朗将于21日在瑞士举行技术层面谈判，霍尔木兹海峡却在“最后一刻”再起波澜。伊朗军方20日突然宣布关闭这条此前已承诺开放的航道；美国却坚称海...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-06-21",
-      "time": "02:00",
+      "time": "08:05",
       "keywords": []
     },
     {
-      "title": "摩尔线程、长鑫存储、Kimi的共同投资人王捷：AI这艘巨轮，越过山丘后，经济系统会发生什么？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/tech/internet/2026-06-21/doc-iniecryw9886159.shtml",
-      "content": "来源：投中网 AI经济是一艘巨轮，算法是甲板，而甲板还没有定型。 整理丨《每日天使》 王捷，作为中国初代AI投资人，摩尔线程的天使投资人...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-06-21",
-      "time": "02:00",
-      "keywords": []
-    },
-    {
-      "title": "Babycare凌晨再发声明：在售全系列产品未检出“甲酰胺”",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-21/doc-iniecryv3100378.shtml",
-      "content": "亲爱的宝爸宝妈们： 我们深知纸尿裤甲酰胺事件给大家带来的焦虑和担忧。过去的60多个小时，对大家来说一定充满了不安与煎熬。孩子的健康与安全，无论怎样重视都不为过。",
+      "title": "美伊代表团抵达瑞士谈判会场",
+      "source": "新华社",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-21/doc-inieeaqu1077071.shtml",
+      "content": " 新华社瑞士比尔根山6月21日电 据瑞士外交部21日消息，美国和伊朗代表团均已抵达位于瑞士比尔根山的美伊谈判会场。（完）",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-06-21",
-      "time": "01:42",
+      "time": "07:52",
       "keywords": []
     },
     {
-      "title": "亨通光电，半年猛涨2000亿",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-06-21/doc-iniecryy1195826.shtml",
-      "content": "受益于AI算力浪潮，亨通光电股价在不到半年内涨幅超过3倍，实控人崔根良、崔巍父子的身家随之暴涨600亿元。展望未来，其估值高度将取决于AI算力需求的持续超预期程度...",
+      "title": "周六福于6月18日斥资799.57万港元回购49.61万股",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqs9747101.shtml",
+      "content": "周六福（06168）发布公告，于2026年6月18日斥资799.57万港元回购49.61万股。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-06-21",
+      "time": "07:24",
+      "keywords": [
+        "周六福",
+        "回购"
+      ]
+    },
+    {
+      "title": "汉思集团控股：受托人根据股份奖励计划购买合共2975.08万股",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqv7840179.shtml",
+      "content": " 汉思集团控股（00554）发布公告，于2026年6月18日，受托人已就新股份奖励计划于市场上购买合共2975.08万股本公司股份。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-06-21",
-      "time": "01:30",
-      "keywords": []
+      "time": "07:22",
+      "keywords": [
+        "汉思集团控股",
+        "股份",
+        "奖励计划"
+      ]
     },
     {
-      "title": "10倍存储牛股，本周限售股解禁！",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/wm/2026-06-21/doc-iniecmta1323395.shtml",
-      "content": " 据证券时报·数据宝统计，本周（6月22日至26日）A股将有49家公司有限售股份解禁，合计解禁数量27.63亿股，以最新收盘价计算（下同），总解禁市值达549.08亿元。",
+      "title": "康华医疗将于7月31日派发末期股息每股0.16元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqv7839875.shtml",
+      "content": "康华医疗（03689）发布公告，该公司将于2026年7月31日派发末期股息每股0.16元。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-06-21",
-      "time": "01:28",
-      "keywords": []
+      "time": "07:21",
+      "keywords": [
+        "康华医疗",
+        "派发",
+        "末期股息"
+      ]
     },
     {
-      "title": "深圳铜箔大王，套现145亿",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/stock/s/2026-06-21/doc-iniecmtc8095156.shtml",
-      "content": "深圳铜箔大王，高位变现过百亿。 6月中旬，张国荣控制的建滔积层板公告，大股东建滔集团以每股76港元的价格，出售持有的1.55亿股，预计套现117.8亿港元。",
-      "priority": "low",
-      "sectors": [
-        "有色"
-      ],
-      "period": "night",
-      "date": "2026-06-21",
-      "time": "01:21",
-      "keywords": []
-    },
-    {
-      "title": "马斯克，行使特斯拉的薪酬期权3.04亿股，账面浮盈8992亿港元，史上最贵CEO薪酬",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/world/2026-06-21/doc-iniecmsx3215925.shtml",
-      "content": "来源：瑞恩资本RyanbenCapital 根据特斯拉于周三（6月17日）提交给美国证券交易委员会（SEC）的Form 4及Schedule 13G文件，马斯克已正式行使其2018年特斯拉CEO绩效薪酬方案...",
+      "title": "五矿资源完成配售合共7.06亿股新股份",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqu1063525.shtml",
+      "content": "五矿资源（01208）发布公告，根据配售协议的条款及条件，配售事项已于2026年6月18日完成。 合共7.06亿股新股份（占本公司于本公告日期经发行及配发配售股份扩大后已发行股...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-06-21",
-      "time": "01:08",
-      "keywords": []
+      "time": "07:20",
+      "keywords": [
+        "五矿资源",
+        "配售",
+        "新股份"
+      ]
     },
     {
-      "title": "长三角铁路今迎返程客流最高峰：预计发送354万人次，同比增长1.1%",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-21/doc-iniecmta1313512.shtml",
-      "content": "长三角铁路今迎返程最高峰。 6月21日，澎湃新闻记者从中国铁路上海局集团有限公司（以下简称“上铁集团”）获悉，今日是2026年端午假期最后一天...",
+      "title": "均胜电子于6月18日斥资144.22万港元回购10万股",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqu1063300.shtml",
+      "content": "均胜电子（00699）发布公告，于2026年6月18日斥资144.22万港元回购10万股。",
       "priority": "low",
       "sectors": [
-        "综合"
+        "金融"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-06-21",
-      "time": "01:03",
-      "keywords": []
+      "time": "07:20",
+      "keywords": [
+        "均胜电子",
+        "回购"
+      ]
     },
     {
-      "title": "酒价内参6月21日价格发布：精品茅台水晶剑南春领涨 总价创三日新高",
-      "source": "酒业内参",
-      "url": "https://finance.sina.com.cn/chanjing/jync/2026-06-21/doc-iniecmsy9988184.shtml",
-      "content": "新浪财经“酒价内参”过去24小时收集的数据显示，中国白酒市场主要大单品的终端零售均价6月21日整体低位反弹。如果主要单品各取一瓶整体打包售卖，今日总售价为9899元...",
+      "title": "美高梅中国于6月18日斥资约199.14万港元回购19.82万股",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqu1061676.shtml",
+      "content": " 美高梅中国（02282）发布公告，于2026年6月18日该公司斥资约199.14万港元回购19.82万股，回购价格为每股9.94-10.22港元。",
       "priority": "low",
       "sectors": [
-        "消费"
+        "金融"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-06-21",
-      "time": "01:00",
-      "keywords": []
+      "time": "07:15",
+      "keywords": [
+        "美高梅中国",
+        "回购"
+      ]
     },
     {
-      "title": "上海存储芯片“小巨人”完成IPO辅导",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/roll/2026-06-21/doc-iniecmta1311317.shtml",
-      "content": "证监会官网IPO辅导公示系统显示，英韧科技股份有限公司及辅导券商国泰海通向上海证监局提交了《辅导工作完成报告》。 英韧科技于2024年12月19日提交辅导备案...",
+      "title": "知乎-W于6月17日斥资11.93万美元回购11.39万股",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqu1061307.shtml",
+      "content": "知乎-W（02390）发布公告，于2026年6月17日斥资11.93万美元回购11.39万股。",
       "priority": "low",
       "sectors": [
-        "半导体"
+        "金融"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-06-21",
-      "time": "00:49",
-      "keywords": []
+      "time": "07:14",
+      "keywords": [
+        "知乎-W",
+        "回购"
+      ]
     },
     {
-      "title": "伊朗谈判代表团已抵达瑞士，万斯、巴基斯坦总理已启程前往瑞士！伊朗：会议期间将向美追责",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/wm/2026-06-21/doc-iniecmsy9975865.shtml",
-      "content": "据央视新闻，当地时间6月20日，巴基斯坦外交部宣布，根据美伊谅解备忘录的后续安排，技术层级会谈将于2026年6月21日在瑞士举行。",
+      "title": "赤子城科技于6月18日斥资159.07万港元回购19万股",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqr2965965.shtml",
+      "content": "赤子城科技（09911）发布公告，该公司于2026年6月18日斥资159.07万港元回购19万股股份，每股回购价格为8.05-8.4港元。",
       "priority": "low",
       "sectors": [
-        "综合"
+        "金融"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-06-21",
-      "time": "00:24",
-      "keywords": []
+      "time": "07:13",
+      "keywords": [
+        "赤子城科技",
+        "回购"
+      ]
     },
     {
-      "title": "连续多年财务披露不准确！600746，收警示函！",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/s/2026-06-21/doc-iniecmsy9965355.shtml",
-      "content": "江苏索普（600746）6月18日晚间公告，公司于6月17日收到江苏证监局出具的警示函，涉及多个年度财务披露不准确的事项。 警示函显示...",
+      "title": "中港石油完成配售合共8700万股 净筹约1735万港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqv7836787.shtml",
+      "content": "中港石油（00632）发布公告，所有条件均已达成，完成已于2026年6月18日落实。合共8700万股配售股份已由配售代理根据配售协议的条款及条件按配售价每股配售股份0...",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "morning",
+      "date": "2026-06-21",
+      "time": "07:13",
+      "keywords": [
+        "中港石油",
+        "配售",
+        "净筹"
+      ]
+    },
+    {
+      "title": "德康农牧获董事长王德根增持1万股 每股作价42.48港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqv7835583.shtml",
+      "content": "香港联交所最新数据显示，6月18日，董事长王德根增持德康农牧（02419）1万股，每股作价42.48港元，总金额为42.48万港元。增持后最新持股数目约为1344.04万股，持股比例为8...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-06-21",
+      "time": "07:10",
+      "keywords": [
+        "德康农牧",
+        "王德根",
+        "增持"
+      ]
+    },
+    {
+      "title": "中国心连心化肥获执行董事闫蕴华增持10.4万股 每股作价约10.32港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqu1059157.shtml",
+      "content": "香港联交所最新数据显示，6月17日，执行董事闫蕴华增持中国心连心化肥（01866）10.4万股，每股作价10.3231港元，总金额约为107.36万港元。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-06-21",
+      "time": "07:10",
+      "keywords": [
+        "中国心连心化肥",
+        "增持"
+      ]
+    },
+    {
+      "title": "恒安国际获执行董事许大座增持10万股 每股作价约24.14港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqs9740965.shtml",
+      "content": "香港联交所最新数据显示，6月17日，执行董事许大座增持恒安国际（01044）10万股，每股作价24.1358港元，总金额约为241.36万港元。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-06-21",
+      "time": "07:09",
+      "keywords": [
+        "恒安国际",
+        "增持"
+      ]
+    },
+    {
+      "title": "旭日企业获董事长杨振鑫增持1.2万股 每股作价1.35港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqs9740664.shtml",
+      "content": "香港联交所最新数据显示，6月17日，董事长杨振鑫增持旭日企业（00393）1.2万股，每股作价1.35港元，总金额为1.62万港元。增持后最新持股数目约为9.61亿股，持股比例为64...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-06-21",
+      "time": "07:08",
+      "keywords": [
+        "旭日企业",
+        "增持"
+      ]
+    },
+    {
+      "title": "金饰价格，半年跌近450元",
+      "source": "新京报",
+      "url": "https://finance.sina.com.cn/wm/2026-06-21/doc-inieeaqv7840239.shtml",
+      "content": " 据央视财经6月21日报道，近期，国际金价持续走弱，国内终端金饰价格同步大幅下调，主流品牌足金饰品克价全线跌破1300元整数关口。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
-      "date": "2026-06-20",
-      "time": "23:55",
+      "period": "morning",
+      "date": "2026-06-21",
+      "time": "07:08",
       "keywords": []
     },
     {
-      "title": "100万年薪，香港VC开始招人",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-06-21/doc-iniecmta1287636.shtml",
-      "content": "作者 | 阿布 来源 | 融中财经 “现在VC在香港招聘的岗位越来越多了，年薪基本在60-80w上下。”一位猎头直言。 “不过，一些热门领域的薪资可能会更高，比如AI、半导体...",
+      "title": "中国电信遭中国平安保险(集团)减持937.6万股 每股作价约4.78港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqu1058179.shtml",
+      "content": "香港联交所最新数据显示，6月16日，中国平安保险（集团）股份有限公司减持中国电信（00728）937.6万股，每股作价4.7847港元，总金额约为4486.13万港元。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-06-21",
+      "time": "07:07",
+      "keywords": [
+        "中国电信",
+        "中国平安保险(集团)",
+        "减持"
+      ]
+    },
+    {
+      "title": "贝克微获Asian Equity Special Opportunities Portfolio Master Fund Limited增持2.13万股",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqv7833739.shtml",
+      "content": "香港联交所最新数据显示，6月16日，Asian Equity Special Opportunities Portfolio Master Fund Limited增持贝克微（02149）2.13万股，每股作价34.4512港元，总金额约为73...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-06-21",
+      "time": "07:06",
+      "keywords": [
+        "贝克微",
+        "增持"
+      ]
+    },
+    {
+      "title": "建滔集团遭执行董事郑永耀减持5万股 每股作价100.2港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqv7833446.shtml",
+      "content": "香港联交所最新数据显示，6月15日，执行董事郑永耀减持建滔集团（00148）5万股，每股作价100.2港元，总金额为501万港元。减持后最新持股数目约为1415.57万股，持股比例为1...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
-      "date": "2026-06-20",
-      "time": "23:51",
-      "keywords": []
+      "period": "morning",
+      "date": "2026-06-21",
+      "time": "07:05",
+      "keywords": [
+        "建滔集团",
+        "减持"
+      ]
     },
     {
-      "title": "牛弹琴：这个荒唐的世界",
-      "source": "牛弹琴",
-      "url": "https://finance.sina.com.cn/world/2026-06-21/doc-iniecmsx3182270.shtml",
-      "content": "这个世界太荒唐，尤其是最近这几天。 感觉霍尔木兹海峡，现在像装了拉链一样。 一会拉开，一会又拉上，开合的频率，比我们穿衣服感觉都要高些。",
+      "title": "德永佳集团获主席潘彬泽增持170.4万股 每股作价约1.15港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqr2960831.shtml",
+      "content": "香港联交所最新数据显示，6月15日，主席潘彬泽增持德永佳集团（00321）170.4万股，每股作价1.1497港元，总金额约为195.90万港元。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-06-21",
+      "time": "07:02",
+      "keywords": [
+        "德永佳集团",
+        "潘彬泽",
+        "增持"
+      ]
+    },
+    {
+      "title": "中创智领遭BlackRock, Inc.减持72.12万股 每股作价约14.16港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-06-21/doc-inieeaqr2960187.shtml",
+      "content": "香港联交所最新数据显示，6月12日，BlackRock， Inc．减持中创智领（00564）72.12万股，每股作价14.1588港元，总金额约为1021.13万港元。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
-      "date": "2026-06-20",
-      "time": "23:35",
-      "keywords": []
-    },
-    {
-      "title": "全线拉升！以色列总理：停火！美国副总统万斯前往瑞士",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/wm/2026-06-21/doc-iniecmtc8057070.shtml",
-      "content": "据以色列方面20日消息，以色列总理内塔尼亚胡和国防部长卡茨已下达指令，要求以军在黎巴嫩停火。 当地时间6月20日，美国副总统发言人表示，副总统万斯已从华盛顿起飞...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-20",
-      "time": "23:26",
-      "keywords": []
+      "period": "morning",
+      "date": "2026-06-21",
+      "time": "07:01",
+      "keywords": [
+        "中创智领",
+        "减持"
+      ]
     },
     {
       "title": "【本文系数据通用户提前专享】中国正在探索一条独有的多元路径，加速算力与电力在安全、绿色、经济等多重目标下协同共进",
