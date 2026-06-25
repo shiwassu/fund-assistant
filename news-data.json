@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T20:35:17.158157",
+  "updated": "2026-06-25T22:09:22.326971",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,54 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 29,
-    "medium": 21,
-    "low": 100
+    "high": 26,
+    "medium": 25,
+    "low": 99
   },
   "items": [
+    {
+      "title": "大宗商品综述：油价上涨 黄金企稳 铜价反弹",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-inieskuk2174069.shtml",
+      "content": "原油价格周四上涨，在有船只遇袭的消息之后，交易员密切关注霍尔木兹海峡的航运动态。黄金价格在每盎司4000美元附近企稳，得益于美国经济数据发布后加息预期有所减弱。",
+      "priority": "high",
+      "sectors": [
+        "黄金",
+        "有色"
+      ],
+      "period": "night",
+      "date": "2026-06-25",
+      "time": "21:30",
+      "keywords": []
+    },
+    {
+      "title": "纽约联储行长称利率处于良好位置 预计通胀到2028年达标",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-inieskuc7471639.shtml",
+      "content": "纽约联储行长约翰·威廉姆斯表示，利率处于能够让通胀向央行目标回落的良好位置。 “鉴于通胀处于高位，我们必须让它可持续地回到我们2%的长期目标水平...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-25",
+      "time": "21:29",
+      "keywords": []
+    },
+    {
+      "title": "纽约汇市：美元在通胀数据公布后走软 日元继续承压",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-inieskuc7470798.shtml",
+      "content": "纽约汇市周四美元小幅走低，此前美国公布的通胀数据令市场对加息的预期降温。日元仍承压，在周期低点附近。 彭博美元现货指数下跌0.3%至1223.50。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-25",
+      "time": "21:28",
+      "keywords": []
+    },
     {
       "title": "美光业绩大超预期大涨15%，带动多只芯片股走强",
       "source": "环球市场播报",
@@ -94,91 +137,6 @@
       "period": "noon",
       "date": "2026-06-25",
       "time": "15:22",
-      "keywords": []
-    },
-    {
-      "title": "外资调仓！大摩、高盛增持A股名单曝光",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/wm/2026-06-25/doc-inieryei7575250.shtml",
-      "content": "记者丨易妍君 编辑丨张星 自二季度以来，数十家A股上市公司陆续披露回购股份或重大重组事宜，多家QFII（合格境外机构投资者）的局部调仓动向随之曝光。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:49",
-      "keywords": []
-    },
-    {
-      "title": "超预期！台积电最新闭门会传来重磅内容",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-25/doc-iniertws2410561.shtml",
-      "content": " 6月25日，台积电在上海国际会议中心举办“2026年中国技术论坛”（闭门会），向客户和合作伙伴分享其最新技术研发进展与行业洞察，显示全球半导体产业的高增长确定无疑。",
-      "priority": "high",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:38",
-      "keywords": []
-    },
-    {
-      "title": "*ST中基：29日起撤销退市风险警示 股票简称变更为“中基健康”",
-      "source": "证券时报网",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-25/doc-iniertws2401940.shtml",
-      "content": "人民财讯6月25日电，*ST中基（000972）6月25日公告，公司股票将于6月26日停牌一天，6月29日复牌并撤销退市风险警示，股票简称由“*ST中基”变更为“中基健康”...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:21",
-      "keywords": []
-    },
-    {
-      "title": "IBM发布亚1纳米芯片技术 股价盘前应声大涨",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniertwm7682700.shtml",
-      "content": "IBM周四盘前股价一度上涨7.2%，此前这家科技巨头发布了全球首款亚1纳米芯片技术。 IBM在一份声明中表示：“这款全新的亚1纳米芯片...",
-      "priority": "high",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:08",
-      "keywords": []
-    },
-    {
-      "title": "SK海力士和美光本周接连报喜 巩固了存储芯片作为AI明星板块的地位",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniertwk0904112.shtml",
-      "content": "本周SK海力士和美光科技连续宣布的两项重磅消息，巩固了存储芯片市场作为AI产业最炙手可热板块的地位。 SK海力士周三披露了赴美大规模上市筹资的计划。",
-      "priority": "high",
-      "sectors": [
-        "半导体",
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:06",
-      "keywords": []
-    },
-    {
-      "title": "曾毓群财富狂飙千亿，整车厂都在给宁德时代打工？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-06-25/doc-iniertws2394443.shtml",
-      "content": "来源：雷达Finance 雷达财经出品 文|周慧 编|深海 近日，新财富杂志披露2026年500创富榜，宁德时代创始人曾毓群最新财富为3762.9亿元，较前一年飙升千亿...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:05",
       "keywords": []
     },
     {
@@ -455,10 +413,66 @@
       ]
     },
     {
+      "title": "美国股市：标普500指数四连跌 苹果涨价削弱芯片股利好",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-iniesrae5275541.shtml",
+      "content": " 标普500指数在震荡交投中收盘基本持平，苹果上调部分产品售价的举动在一定程度上削弱了围绕芯片制造商强劲业绩展望的乐观情绪。",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-06-25",
+      "time": "21:48",
+      "keywords": []
+    },
+    {
+      "title": "美国债市：国债收盘涨跌互现 PCE数据温和后短端表现出色",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-inieskuc7470107.shtml",
+      "content": "美国国债收益率曲线周四扭转趋陡，以基本持平的10年期收益率为分界，短端收益率下行、长端收益率上行。5月PCE价格指数环比涨0.4%，低于0.5%的预估中值...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-25",
+      "time": "21:26",
+      "keywords": []
+    },
+    {
+      "title": "6月26日收盘：美股三大指数收盘涨跌不一 纳指今年二月以来首次四连跌 非人工智能板块个股走强",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-inieskuh5385316.shtml",
+      "content": "周四纳斯达克综合指数收跌。苹果领跌纳斯达克，受MacBook与iPad涨价消息影响，该股大跌6%。苹果称芯片等零部件成本大幅上涨是调价主因。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-25",
+      "time": "21:06",
+      "keywords": []
+    },
+    {
+      "title": "6月26日美股成交额前20：苹果股价收盘下跌6.1% 创2025年4月以来最大跌幅",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-inieskua0677734.shtml",
+      "content": "周四美股成交额第1名美光科技，收涨15.74%，成交979.86亿美元。 美光科技第三财季的业绩在财务和战略上都跨越了高门槛，向投资者传达信息：在AI时代...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-25",
+      "time": "20:57",
+      "keywords": []
+    },
+    {
       "title": "6月26日热门中概股多数下跌，台积电跌超1%阿里跌超4%",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-inieskuk2148485.shtml",
-      "content": "6月26日热门中概股多数下跌，纳斯达克中国金龙指数收跌2.74%。 上涨个股（按市值从高到低）：日月光半导体涨1.23%，中华电信0.63%，慧荣科技1.12%，WPS控股0.36%，欢聚0...",
+      "content": "6月26日热门中概股多数下跌，纳斯达克中国金龙指数收跌2.70%。 上涨个股（按市值从高到低）：日月光半导体涨1.23%，中华电信0.63%，慧荣科技1.12%，WPS控股0.36%，欢聚0...",
       "priority": "medium",
       "sectors": [
         "半导体"
@@ -466,6 +480,20 @@
       "period": "night",
       "date": "2026-06-25",
       "time": "20:29",
+      "keywords": []
+    },
+    {
+      "title": "联合国发言人：正调动资源援助委应对地震灾情",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-26/doc-iniesenn2253925.shtml",
+      "content": "联合国秘书长发言人迪雅里克25日发表声明说，联合国驻委内瑞拉机构正调动援助资源，并与委政府及合作伙伴协作，支持委内瑞拉应对地震灾情。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-25",
+      "time": "18:38",
       "keywords": []
     },
     {
@@ -550,20 +578,6 @@
       "period": "noon",
       "date": "2026-06-25",
       "time": "14:58",
-      "keywords": []
-    },
-    {
-      "title": "体验式消费与“传承式旅游”成奢侈品消费新驱动力",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieryeq2286017.shtml",
-      "content": "核心要点贝恩咨询与意大利奢侈品行业协会 Altagamma 联合发布报告预测，2026 年全球奢侈品销售额增速将介于 1% 至 4% 之间。美国自 2021...",
-      "priority": "medium",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:55",
       "keywords": []
     },
     {
@@ -776,6 +790,118 @@
       ]
     },
     {
+      "title": "苹果调整Mac芯片战略 下一代高端芯片将直接跃迁至M7系列",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-iniesrah2055173.shtml",
+      "content": "苹果公司正对其Mac芯片战略进行史上最大调整之一，准备让下一代高端处理器直接跃迁至聚焦人工智能的新一代芯片。 知情人士称，目前使用M5系列的苹果计划最早于今年推出基础...",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-06-25",
+      "time": "21:56",
+      "keywords": []
+    },
+    {
+      "title": "报道：美国政府要求OpenAI分阶段发布最新模型GPT5.6",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-iniesqzz7351484.shtml",
+      "content": "媒体援引两名知情人士报道称，在特朗普政府提出要求后，OpenAI将分阶段发布其最新人工智能模型GPT 5.6。 报道称，知情人士援引了OpenAI首席执行官Sam...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-06-25",
+      "time": "21:48",
+      "keywords": []
+    },
+    {
+      "title": "6月26日外盘头条：霍尔木兹海峡再现安全风险 苹果上调多个产品类别价格 纽约联储行长称利率处于良好位置",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-iniesrae5272820.shtml",
+      "content": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、霍尔木兹海峡再现安全风险 一艘货船遇袭 数艘油轮折返 2、美国通胀升至三年高点 消费者支出增长加快 3...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-25",
+      "time": "21:41",
+      "keywords": []
+    },
+    {
+      "title": "投资人Michael Burry平仓半数Palantir空头头寸 卖出阿里巴巴加仓京东",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-inieskuh5398220.shtml",
+      "content": "电影《大空头》原型、知名投资人Michael Burry在Substack上发文称，他已平掉所持Palantir Technologies Inc．股票空头仓位的一半，并增持了其他多头头寸。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-25",
+      "time": "21:31",
+      "keywords": []
+    },
+    {
+      "title": "原油：油价上涨 船只遇袭事件给霍尔木兹海峡航运蒙上阴影",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-inieskuc7471284.shtml",
+      "content": " 油价上涨，交易员正密切监测通过霍尔木兹海峡的航运情况。此前，一艘船只在阿曼海岸附近被发射物击中，引发市场对美伊谈判期间航运安全的担忧。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-06-25",
+      "time": "21:28",
+      "keywords": []
+    },
+    {
+      "title": "报道：OpenAI 倾向推迟至明年上市",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-inieskua0676203.shtml",
+      "content": " 三名参与公司上市筹备讨论的知情人士透露，OpenAI 倾向于将首次公开募股推迟至明年。这一转变凸显出当下快速崛起的 AI 巨头前路充满不确定性。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-06-25",
+      "time": "20:52",
+      "keywords": []
+    },
+    {
+      "title": "苹果罕见上调Mac、iPad等多个产品类别价格 股价创逾一年最大跌幅",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-iniesenn2206059.shtml",
+      "content": " 苹果公司股价下跌，此前宣布上调Mac、iPad、家用设备和Vision Pro的价格，以抵消前所未有的内存芯片和存储器短缺所带来的成本上升。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-25",
+      "time": "20:14",
+      "keywords": []
+    },
+    {
+      "title": "立陶宛总统提名辛克维丘斯出任新总理",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-26/doc-inieskuk2154647.shtml",
+      "content": "立陶宛总统瑙塞达25日晚向议会提名立陶宛社会民主党主席明道加斯·辛克维丘斯为新总理候选人。据悉，议会将于30日投票选举新政府总理。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-25",
+      "time": "19:52",
+      "keywords": []
+    },
+    {
       "title": "霍尔木兹海峡再现安全风险 一艘货船遇袭 数艘油轮折返",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-inieskuh5356374.shtml",
@@ -804,6 +930,20 @@
       "keywords": []
     },
     {
+      "title": "伊朗：驶离指定航线的船舶将不享有安全保障",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-26/doc-inieskuh5386351.shtml",
+      "content": "△霍尔木兹海峡（资料图）伊朗波斯湾海峡管理局26日在社交媒体发布公告称，所有通过霍尔木兹海峡的船舶须按照规定的航线和程序通行...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-25",
+      "time": "18:52",
+      "keywords": []
+    },
+    {
       "title": "鲁比奥安抚对美伊谈判存疑的海湾盟友 重申反对霍尔木兹海峡收费",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-iniesenf7551126.shtml",
@@ -815,6 +955,20 @@
       "period": "night",
       "date": "2026-06-25",
       "time": "18:20",
+      "keywords": []
+    },
+    {
+      "title": "乌克兰首都基辅传出爆炸声",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-26/doc-iniesenn2238032.shtml",
+      "content": "当地时间25日，据总台记者消息，乌克兰首都基辅传出爆炸声，此前基辅拉响防空警报。（总台记者 董薇）©2026中央广播电视总台版权所有。未经许可，请勿转载使用。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-25",
+      "time": "18:06",
       "keywords": []
     },
     {
@@ -832,20 +986,6 @@
       "keywords": []
     },
     {
-      "title": "苹果罕见上调Mac、iPad等多个产品类别价格 股价创逾一年最大跌幅",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-iniesenn2206059.shtml",
-      "content": " 苹果公司股价走低，此前宣布上调Mac、iPad、家用设备和Vision Pro的价格，以抵消前所未有的内存芯片和存储器短缺所带来的成本上升。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "17:14",
-      "keywords": []
-    },
-    {
       "title": "德国默克斥资113亿美元收购Bio-Techne，加码实验室仪器业务",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-inieryeq2330722.shtml",
@@ -857,6 +997,20 @@
       "period": "noon",
       "date": "2026-06-25",
       "time": "17:01",
+      "keywords": []
+    },
+    {
+      "title": "中方代表在人权理事会作共同发言 揭批以人权为借口滥施关税行径",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-26/doc-inieskuh5398768.shtml",
+      "content": "△联合国日内瓦办事处（资料图）中国常驻联合国日内瓦办事处和瑞士其他国际组织代表贾桂德25日在人权理事会第62届会议代表近20国作共同发言...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-25",
+      "time": "16:54",
       "keywords": []
     },
     {
@@ -874,6 +1028,20 @@
       "keywords": []
     },
     {
+      "title": "内塔尼亚胡称以军将继续驻留黎南部“安全区”内",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-26/doc-iniesenn2255946.shtml",
+      "content": "△内塔尼亚胡（资料图）当地时间25日，以色列总理内塔尼亚胡发表讲话，重申其拒绝从黎巴嫩南部撤军，并称将继续采取一切行动“阻止伊朗获得核武器”。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-25",
+      "time": "16:24",
+      "keywords": []
+    },
+    {
       "title": "赖特：伊朗石油出口量将恢复至拜登执政时期水平",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-inieryeh0830708.shtml",
@@ -881,6 +1049,20 @@
       "priority": "low",
       "sectors": [
         "能源"
+      ],
+      "period": "noon",
+      "date": "2026-06-25",
+      "time": "16:15",
+      "keywords": []
+    },
+    {
+      "title": "消息人士：以军撤离黎巴嫩是伊朗重要“红线”",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-26/doc-inieryeh0845753.shtml",
+      "content": "△6月23日，黎巴嫩一处遭袭地区总台记者当地时间6月25日获悉，一名接近谈判团队的消息人士称，以色列从黎巴嫩领土撤军是伊朗与美国最终协议的条件之一...",
+      "priority": "low",
+      "sectors": [
+        "综合"
       ],
       "period": "noon",
       "date": "2026-06-25",
@@ -916,6 +1098,20 @@
       "keywords": []
     },
     {
+      "title": "一货船在阿曼附近水域遭袭",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-25/doc-iniesenk5467214.shtml",
+      "content": "△阿曼附近水域（资料图）英国海上贸易行动办公室25日发布通报说，一艘货船当天在阿曼附近水域遭袭，驾驶台受损，未造成人员伤亡。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-25",
+      "time": "15:58",
+      "keywords": []
+    },
+    {
       "title": "拜耳赢得最高法院诉讼，针对孟山都农达草甘膦的相关诉讼门槛大幅提高",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieryei7597717.shtml",
@@ -944,6 +1140,20 @@
       "keywords": []
     },
     {
+      "title": "伊朗外长和阿曼外交大臣通话讨论霍尔木兹海峡问题",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-25/doc-inieryeq2308095.shtml",
+      "content": "△阿拉格齐（资料图）伊朗外交部长阿拉格齐当地时间25日在社交媒体表示，其与阿曼外交大臣巴德尔进行了通话。双方再次强调，伊朗和阿曼将就“明确霍尔木兹海峡未来的管理事务...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-25",
+      "time": "15:35",
+      "keywords": []
+    },
+    {
       "title": "美国通胀升至三年高点 消费者支出增长加快",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieryen5522024.shtml",
@@ -958,6 +1168,20 @@
       "keywords": []
     },
     {
+      "title": "意大利外长否认美军使用该国军事基地轰炸伊朗",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-06-25/doc-inieryei7595676.shtml",
+      "content": "当地时间25日，意大利外交部长塔亚尼与伊朗外交部长阿拉格齐通电话。△塔亚尼（资料图）通话中，塔亚尼坚决否认北约秘书长近期关于“美国在对伊朗军事行动中使用意大利军事基...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-25",
+      "time": "15:12",
+      "keywords": []
+    },
+    {
       "title": "太空探索技术公司（SpaceX）股价转跌",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-inieryei7579693.shtml",
@@ -969,230 +1193,6 @@
       "period": "noon",
       "date": "2026-06-25",
       "time": "15:02",
-      "keywords": []
-    },
-    {
-      "title": "媒体：伊朗计划借霍尔木兹海峡重新通航收取数十亿美元通行服务费",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-06-25/doc-inieryeh0800178.shtml",
-      "content": "随着伊朗着手掌控这条在战争初期被其切断的全球石油运输要道，该国正谋求通过霍尔木兹海峡赚取数十亿美元收益。 据知情官员透露，伊朗政府估算，通过在海峡内收取安保...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:55",
-      "keywords": []
-    },
-    {
-      "title": "李嘉诚在北京的最后一个项目又开始卖了",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-06-25/doc-inieryeq2285585.shtml",
-      "content": "每经记者|陈梦妤每经编辑|黄胜 李嘉诚在北京的最后一个项目御翠园又开始推盘了。 这几天，长江实业旗下和记黄埔地产（北京朝阳）有限公司悄然释放新一批房源信息：御翠园取...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:53",
-      "keywords": []
-    },
-    {
-      "title": "美国最高法院准许特朗普政府在边境阻拦寻求庇护者",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-06-25/doc-iniertwq5636394.shtml",
-      "content": " 美国最高法院于周四裁定，特朗普政府可以在美墨边境阻止寻求庇护的移民入境，通过物理方式阻拦这些因遭受迫害而寻求保护的人员进入美国境内。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:46",
-      "keywords": []
-    },
-    {
-      "title": "估值最高达5亿元 *ST帅电拟现金收购惠嘉科技100%股权 公司股价出现异常波动",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-06-25/doc-iniertwq5635964.shtml",
-      "content": "记者|赵李南 编辑|许绍航 6月25日，*ST帅电（SH605336，股价15.88元，市值29.13亿元）公告称正在筹划一项重大资产重组，拟通过支付现金对价的方式，作价4.50亿元至5...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:45",
-      "keywords": []
-    },
-    {
-      "title": "深夜，直线跳水！科技巨头，突传利空！",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/wm/2026-06-25/doc-iniertwk0924685.shtml",
-      "content": "美股科技巨头突遭抛售。 今晚，美股开盘后，苹果、英伟达、谷歌、微软、亚马逊、Meta等科技巨头股价集体跳水，苹果大跌超5%，拖累纳指走低，盘初一度跌超1%。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:33",
-      "keywords": []
-    },
-    {
-      "title": "沙特主要石油码头即将重启 波斯湾原油供应加快恢复",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-06-25/doc-iniertws2404467.shtml",
-      "content": " 主要石油出口国沙特阿拉伯即将恢复在波斯湾内拉斯塔努拉码头的原油装载作业，这是伊朗战争后中东石油供应恢复的一个里程碑时刻。",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:30",
-      "keywords": []
-    },
-    {
-      "title": "苹果上调MacBook、iPad售价，股价大跌5%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniertws2404245.shtml",
-      "content": "核心要点苹果于周四宣布上调 MacBook 与 iPad 系列产品售价。苹果首席执行官蒂姆・库克上周曾表示，受内存与闪存芯片价格暴涨影响，产品涨价已在所难免。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:29",
-      "keywords": []
-    },
-    {
-      "title": "视频 | 东北证券计算机首席赵宇阳相关观点，遭到京东方董秘朋友圈隔空反驳",
-      "source": "新浪证券",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-25/doc-iniertwk0916352.shtml",
-      "content": "近日，网传信息显示。东北证券计算机首席赵宇阳相关观点，遭到京东方董秘朋友圈隔空反驳。赵字阳表示，力诺药包已与京东方建立联合研发合作，京东方成专项团队对接...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:26",
-      "keywords": []
-    },
-    {
-      "title": "比特币今年走势艰难，交易员押注行情还将进一步恶化",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniertws2401810.shtml",
-      "content": "周四，比特币期货价格一路下探至 58995 美元，创下 2024 年 10 月以来的最低价位，较去年历史高点累计回撤幅度约 52%。今年以来，比特币始终在 60000...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:22",
-      "keywords": []
-    },
-    {
-      "title": "宝马回应“多名新能源车主收到更换蓄电池提醒”：相关提示信息为误报，正积极推进解决方案确保不再出现",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-06-25/doc-iniertwk0914900.shtml",
-      "content": "每经记者|裴健如每经编辑|余婷婷 日前，有媒体报道称，多名宝马i3、i4车型新车车主发帖表示，在启动车辆时收到“您可以继续驾驶，请更换蓄电池”的相关车机提醒...",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:20",
-      "keywords": []
-    },
-    {
-      "title": "核心研究员接连离职后 谷歌重组AI编程小组追赶Anthropic",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniertwm7691024.shtml",
-      "content": " 据多位了解此次组织调整的知情人士透露，谷歌正对其不久前成立、主攻AI编程工具的专项攻坚小组进行重组，试图在商业价值最高的AI应用赛道追上Anthropic。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:20",
-      "keywords": []
-    },
-    {
-      "title": "美国第一季度GDP环比折年率增速上修至2.1% 第二次估算值为1.6%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-06-25/doc-iniertwm7682985.shtml",
-      "content": "美国经济分析局数据显示，美国第一季度GDP环比折年率增速上修至2.1%，第二次估算值为1.6%。 44位经济学家的预测中值为增长1.6%（预测范围在+1.4%至+2.5%）。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:09",
-      "keywords": []
-    },
-    {
-      "title": "阿联酋退出后，伊拉克因配额争端向欧佩克施压",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniertwm7682134.shtml",
-      "content": "核心要点伊拉克希望欧佩克上调本国石油生产配额，并警告若诉求得不到满足，该国可能退出该组织。作为欧佩克内第二大石油出口国，伊拉克一旦退出...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:07",
-      "keywords": []
-    },
-    {
-      "title": "亚马逊拟于2030年前在印度新增130亿美元投资 用于AI领域",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniertwk0903870.shtml",
-      "content": "据一份公司声明，亚马逊宣布将增加130亿美元投资，用于扩展和支持印度的人工智能（AI）及云基础设施。 这笔新增投资将扩大AWS在孟买和海得拉巴的数据中心容量。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:06",
-      "keywords": []
-    },
-    {
-      "title": "欧盟在特朗普设定的最后期限前最终批准与美国的贸易协议",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-06-25/doc-iniertwq5615134.shtml",
-      "content": " 欧盟与美国的贸易协议在欧盟最终批准后势将生效，在当前经济关系持续紧张的背景下，欧盟寄望于该协议能为双边关系注入一些稳定性。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:06",
-      "keywords": []
-    },
-    {
-      "title": "药捷安康市值年缩水超2000亿，去年零营收两高管合砍千万薪酬",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-06-25/doc-iniertwq5617971.shtml",
-      "content": "来源：雷达Finance 雷达财经出品 文|丁禹 编|孟帅 市值一度逼近2700亿港元的创新药“妖股”，如今市值已缩水至不到40亿港元。 6月23日，上市刚满一年的药捷安康...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:05",
       "keywords": []
     },
     {
