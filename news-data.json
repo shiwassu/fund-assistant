@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-25T16:57:02.706130",
+  "updated": "2026-06-25T20:35:17.158157",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,53 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 27,
-    "medium": 23,
+    "high": 29,
+    "medium": 21,
     "low": 100
   },
   "items": [
+    {
+      "title": "美光业绩大超预期大涨15%，带动多只芯片股走强",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-06-26/doc-inieskua0668699.shtml",
+      "content": "受益人工智能行业爆发带来的存储芯片需求激增，存储大厂美光科技公布超预期三季度财报，周四股价大涨 15%。 该股日内盘中涨幅一度更高，盘中市值一度超越元平台与特斯拉...",
+      "priority": "high",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-06-25",
+      "time": "20:32",
+      "keywords": []
+    },
+    {
+      "title": "国际海事组织将暂停波斯湾船舶疏散计划 此前有船舶遇袭",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-06-26/doc-iniesenk5479840.shtml",
+      "content": "在一艘船只遭袭后，联合国全球航运监管机构国际海事组织（IMO）表示将暂停其在霍尔木兹海峡的疏散行动。 “我获悉，今天阿曼湾一艘已通过霍尔木兹海峡的船只遭到袭击...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-25",
+      "time": "19:22",
+      "keywords": []
+    },
+    {
+      "title": "嵌入式软件业务提速，黑莓大涨23%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-inieryen5556404.shtml",
+      "content": "公司上调 2027 财年总营收预期，同比增速预计达 8% 至 13% 内容速览 受益于一季度亮眼业绩与人工智能领域的发展机遇，黑莓上调 2027 财年营收预期至 5.94 亿 —6...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-25",
+      "time": "17:05",
+      "keywords": []
+    },
     {
       "title": "道琼斯工业平均指数涨幅几乎由五只个股贡献，且无一属于科技行业",
       "source": "环球市场播报",
@@ -137,20 +179,6 @@
       "period": "noon",
       "date": "2026-06-25",
       "time": "14:05",
-      "keywords": []
-    },
-    {
-      "title": "利好来了！美联储，加息突变！",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-25/doc-iniertwq5617820.shtml",
-      "content": "来源：中国基金报 【导读】小小利好 中国基金报记者 泰勒 大家好啊，关注一下美联储最青睐的通胀数据，5月PCE数据出炉，但有惊无险！",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:04",
       "keywords": []
     },
     {
@@ -427,6 +455,34 @@
       ]
     },
     {
+      "title": "6月26日热门中概股多数下跌，台积电跌超1%阿里跌超4%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-inieskuk2148485.shtml",
+      "content": "6月26日热门中概股多数下跌，纳斯达克中国金龙指数收跌2.74%。 上涨个股（按市值从高到低）：日月光半导体涨1.23%，中华电信0.63%，慧荣科技1.12%，WPS控股0.36%，欢聚0...",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-06-25",
+      "time": "20:29",
+      "keywords": []
+    },
+    {
+      "title": "欧洲股市上涨 科技股表现亮眼",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-iniesenn2212195.shtml",
+      "content": " 欧洲股市周四上涨，随着市场对AI主题的信心恢复，科技板块表现突出。拜耳公司在其除草剂获得有利的法院裁决后股价飙升。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-25",
+      "time": "17:30",
+      "keywords": []
+    },
+    {
       "title": "味好美业绩超预期，股价上涨3%",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-inieryen5540044.shtml",
@@ -508,62 +564,6 @@
       "period": "noon",
       "date": "2026-06-25",
       "time": "14:55",
-      "keywords": []
-    },
-    {
-      "title": "游戏驿站首席执行官放弃350亿美元薪酬方案，此举将对其收购亿贝的计划产生哪些影响",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniertws2389728.shtml",
-      "content": "核心要点游戏驿站首席执行官瑞安・科恩宣布撤回薪酬方案：原本若达成特定业绩目标，他最多可拿到 350 亿美元薪酬。科恩表示此举是为了全身心推进对亿贝的收购要约。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:03",
-      "keywords": []
-    },
-    {
-      "title": "中航光电：公司具备MPO光纤跳线、MT-FA类光纤连接器及各类延伸集成器件的批量交付能力",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-06-25/doc-iniertwk0907618.shtml",
-      "content": "证券日报网6月25日讯，中航光电在接受调研者提问时表示，公司具备MPO光纤跳线、MT-FA类光纤连接器及各类延伸集成器件的批量交付能力。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:01",
-      "keywords": []
-    },
-    {
-      "title": "中航光电：公司陶瓷业务具备粉体制备、成型烧结、精密加工能力",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-06-25/doc-iniertwm7684802.shtml",
-      "content": "证券日报网6月25日讯，中航光电在接受调研者提问时表示，公司陶瓷业务具备粉体制备、成型烧结、精密加工能力，在光通讯领域布局面向光模块/光引擎的氮化铝陶瓷基板...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:01",
-      "keywords": []
-    },
-    {
-      "title": "中航光电：公司与光模块领域的国内外头部企业均有合作",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-06-25/doc-iniertws2394950.shtml",
-      "content": "证券日报网6月25日讯，中航光电在接受调研者提问时表示，公司与光模块领域的国内外头部企业均有合作。",
-      "priority": "medium",
-      "sectors": [
-        "光模块"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:01",
       "keywords": []
     },
     {
@@ -774,6 +774,90 @@
       "keywords": [
         "市场洞察"
       ]
+    },
+    {
+      "title": "霍尔木兹海峡再现安全风险 一艘货船遇袭 数艘油轮折返",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-inieskuh5356374.shtml",
+      "content": " 一艘船只在霍尔木兹海峡遭不明发射物击中，而就在此前不久，数艘货船在试图穿越这条关键航道时折返，最新事态发展可能破坏海峡迅速重开的局面。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-25",
+      "time": "19:41",
+      "keywords": []
+    },
+    {
+      "title": "伊朗：非PGSA框架下的霍尔木兹航线失去保险和安全通行保证",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-inieskua0644662.shtml",
+      "content": " 波斯湾海峡管理局（PGSA）在X上发帖表示，任何经由伊朗PGSA指定框架之外路线进行的通行，都不符合获得保险覆盖或“相关责任”保障的条件。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-06-25",
+      "time": "19:22",
+      "keywords": []
+    },
+    {
+      "title": "鲁比奥安抚对美伊谈判存疑的海湾盟友 重申反对霍尔木兹海峡收费",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-iniesenf7551126.shtml",
+      "content": " 美国国务卿马尔科·鲁比奥周四表示，美国希望与伊朗达成协议以结束战争，但不会“不惜一切代价”，并重申霍尔木兹海峡通行费不可接受。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-25",
+      "time": "18:20",
+      "keywords": []
+    },
+    {
+      "title": "美国7年期国债中标收益率4.260% 与发行前交易水平相符",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-iniesene0731259.shtml",
+      "content": "美国财政部发行440亿美元7年期国债中标收益率4.260%，与纽约时间下午1点投标截止时间的发行前交易水平一致，表明市场需求符合预期。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-25",
+      "time": "17:33",
+      "keywords": []
+    },
+    {
+      "title": "苹果罕见上调Mac、iPad等多个产品类别价格 股价创逾一年最大跌幅",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-iniesenn2206059.shtml",
+      "content": " 苹果公司股价走低，此前宣布上调Mac、iPad、家用设备和Vision Pro的价格，以抵消前所未有的内存芯片和存储器短缺所带来的成本上升。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-25",
+      "time": "17:14",
+      "keywords": []
+    },
+    {
+      "title": "德国默克斥资113亿美元收购Bio-Techne，加码实验室仪器业务",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-inieryeq2330722.shtml",
+      "content": "新任首席执行官凯・贝克曼上任仅数周，便敲定这家企业十余年来最大规模并购交易德国默克表示，本次并购资金将通过自有现金叠加新增债务的方式筹集。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-06-25",
+      "time": "17:01",
+      "keywords": []
     },
     {
       "title": "波斯湾原油出口反弹至战前水平的75% 但霍尔木兹海峡并非风平浪静",
@@ -1109,90 +1193,6 @@
       "period": "noon",
       "date": "2026-06-25",
       "time": "14:05",
-      "keywords": []
-    },
-    {
-      "title": "一位官员表示除非提高产量配额 否则伊拉克可能考虑退出OPEC",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-06-25/doc-iniertwm7679862.shtml",
-      "content": "一位不愿透露姓名的高级官员表示，除非OPEC提高伊拉克的石油产量配额，否则伊拉克未来可能会考虑退出OPEC。 这位官员表示，巴格达方面认为需要扩大产量以弥补伊朗战争期间...",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:04",
-      "keywords": []
-    },
-    {
-      "title": "美国当周初请失业金人数降幅超出预期",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniertwq5613475.shtml",
-      "content": "上周，美国申请失业救济金的人数降幅超出预期，这印证了劳动力市场的韧性。 美国劳工部周四表示，截至6月20日当周， 各州首次申请失业救济人数下降1.2万...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:03",
-      "keywords": []
-    },
-    {
-      "title": "美国通胀升至三年高点",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-06-25/doc-iniertws2389330.shtml",
-      "content": "美国5月消费者支出增长加快，尽管通胀升至三年多来最高水平，显示美国消费者正挺过伊朗战争带来的冲击。 美国经济分析局周四公布的数据显示...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:02",
-      "keywords": []
-    },
-    {
-      "title": "美国5月耐用品订单降幅超预期",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniertwq5612830.shtml",
-      "content": "美国商务部周四表示，5月份耐用品订单降幅超过预期，中断了此前连续两个月的环比增势。 5月份电视机、家电和汽车等耐用品的新订单下降4.5%，至3，321亿美元...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:02",
-      "keywords": []
-    },
-    {
-      "title": "天齐锂业：2026年6月29日将召开2026年第二次临时股东会",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-06-25/doc-iniertws2394977.shtml",
-      "content": "证券日报网讯6月25日，天齐锂业发布公告称，公司将于2026年6月29日召开2026年第二次临时股东会。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:01",
-      "keywords": []
-    },
-    {
-      "title": "亚马逊计划到2030年在印度追加投资130亿美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-25/doc-iniertwk0900815.shtml",
-      "content": "亚马逊（Amazon）计划到2030年在印度追加投资130亿美元，以扩展和支持该国的人工智能（AI）和云基础设施。 这家美国科技公司周四表示...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-25",
-      "time": "14:01",
       "keywords": []
     },
     {
