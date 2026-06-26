@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-26T20:21:49.941134",
+  "updated": "2026-06-26T21:50:14.490346",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,67 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 24,
+    "high": 26,
     "medium": 19,
-    "low": 107
+    "low": 105
   },
   "items": [
+    {
+      "title": "甲骨文股价创2001年互联网泡沫破裂以来最差单周表现，AI融资担忧加剧",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieutzh1714111.shtml",
+      "content": " 甲骨文公司刚刚经历了25年来在华尔街表现最糟糕的一周，外界对这家软件公司的债务负担及其对人工智能的“孤注一掷”式投资能否获得回报的担忧持续加剧。",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-06-26",
+      "time": "20:55",
+      "keywords": []
+    },
+    {
+      "title": "美国债市：短期美债领涨 油价下跌提供支撑",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieutyy0250437.shtml",
+      "content": "美国国债上涨，短期国债领涨，收益率曲线趋陡，短期利率产品消化的美联储加息幅度随基准油价进一步下跌；WTI原油期货下跌3.7%至每桶69.23美元...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-26",
+      "time": "20:48",
+      "keywords": []
+    },
+    {
+      "title": "标普确认美国信用评级为AA+ 展望仍为稳定",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-06-27/doc-inieutyz7025670.shtml",
+      "content": "标普确认美国长期外币债务评级为AA+，展望仍为稳定。 评论与背景： “展望维持稳定，是基于我们预计经济将继续稳健增长、货币政策执行可信且有效...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-26",
+      "time": "20:44",
+      "keywords": []
+    },
+    {
+      "title": "纽约汇市：美元指数微跌 交易员下调美联储加息预期",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieutze4908440.shtml",
+      "content": "美元指数微跌，因为船舶继续通过霍尔木兹海峡推动了油价下跌，并且市场对未来几个月因通胀而加息的预期降温。 彭博美元即期指数周五微跌；由于霍尔木兹海峡船舶通行量继续...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-26",
+      "time": "20:43",
+      "keywords": []
+    },
     {
       "title": "美联储官员卡什卡里称通胀压力更趋广泛 央行或需加息",
       "source": "环球市场播报",
@@ -108,34 +164,6 @@
       "period": "noon",
       "date": "2026-06-26",
       "time": "16:11",
-      "keywords": []
-    },
-    {
-      "title": "A股近4700股收跌，原因找到了！下周怎么走？",
-      "source": "",
-      "url": "https://finance.sina.com.cn/wm/2026-06-26/doc-inieuccn5138784.shtml",
-      "content": "来源：国际金融报 6月26日，受日韩股市大跌情绪传导影响，A股近4700只个股收跌，创业板指跌幅更是超过4%。市场量能虽略有萎缩，但仍维持在3.5万亿元上方。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-26",
-      "time": "14:57",
-      "keywords": []
-    },
-    {
-      "title": "Wise业绩超预期 + 推出新一轮回购计划，登顶欧洲斯托克600涨幅榜",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-inieuccq1897373.shtml",
-      "content": "欧股早盘尾盘该股大涨 8%，成为该指数日内涨幅最高个股Wise 集团披露，截至 3 月 31 日的财年税前利润达 6.604 亿美元。 内容速览 跨境支付服务商 Wise 集团公布税前利润...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-06-26",
-      "time": "14:33",
       "keywords": []
     },
     {
@@ -380,6 +408,48 @@
       ]
     },
     {
+      "title": "美国股市：标普500指数收盘微跌 华尔街轮动加速",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-06-27/doc-inieutyy0253195.shtml",
+      "content": "华尔街交易员持续推动板块轮动，撤出高调的芯片制造商，进军致力于改善增长前景的更广泛公司类别。 标普500指数收盘微跌，自4月以来首次收于50日移动均值之下。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-26",
+      "time": "20:53",
+      "keywords": []
+    },
+    {
+      "title": "6月27日热门中概股多数上涨 网易涨超7% 拼多多涨超4%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieutyz7056083.shtml",
+      "content": "6月27日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收涨0.70%。 上涨个股（按市值从高到低）：拼多多涨4.43%，网易涨7.74%，百度涨0.22%，中华电信涨0.33%，京东涨0...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-26",
+      "time": "20:45",
+      "keywords": []
+    },
+    {
+      "title": "6月27日收盘：美股三大指数收跌 芯片股领跌 西部数据大跌13% 美光科技跌超6%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieutze4916958.shtml",
+      "content": "纳指周五录得连续第五个交易日下跌，投资者纷纷抛售关键科技股，转投市场中更具防御性的板块。 道指跌44.51点，跌幅为0.09%，报51876.10点；纳指跌60.98点，跌幅为0.24%...",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-06-26",
+      "time": "20:20",
+      "keywords": []
+    },
+    {
       "title": "密歇根大学调查：消费者信心回升，通胀预期有所好转",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieuimk5061382.shtml",
@@ -419,48 +489,6 @@
       "period": "noon",
       "date": "2026-06-26",
       "time": "16:27",
-      "keywords": []
-    },
-    {
-      "title": "深夜！中国资产，直线拉升！",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/wm/2026-06-26/doc-inieucch0439676.shtml",
-      "content": "中概股指数拉升。 当地时间6月26日，美股三大股指集体低开，纳指一度跌超1%，随后拉升，截至发稿，道指涨0.14%，标普500指数涨0.08%，纳指跌0.11%。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-26",
-      "time": "14:38",
-      "keywords": []
-    },
-    {
-      "title": "美国消费者信心回升 但仍接近纪录低点",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-inieuccq1896459.shtml",
-      "content": "美国消费者信心6月回升，汽油价格下跌缓解了美国民众面临的高通胀压力。 密歇根大学周五公布的调查显示，6月消费者信心指数终值由5月的纪录低点44.8升至49.5。",
-      "priority": "medium",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-06-26",
-      "time": "14:32",
-      "keywords": []
-    },
-    {
-      "title": "女掌门涉嫌犯罪被拘，氨基酸龙头IPO临门折戟",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/newstock/2026-06-26/doc-inieuccn5119613.shtml",
-      "content": "来源：雷达Finance 雷达财经出品 文|丁禹 编|孟帅 距离登陆港股只差临门一脚，一则实际控制人被拘留的消息，却将氨基酸龙头华恒生物推向舆论的风口浪尖。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-26",
-      "time": "14:29",
       "keywords": []
     },
     {
@@ -671,6 +699,105 @@
       "keywords": [
         "市场动态"
       ]
+    },
+    {
+      "title": "ISNA：伊朗伊斯兰革命卫队称德黑兰将回应美国在海峡附近的袭击",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieutyy0291038.shtml",
+      "content": " 据半官方的伊朗学生通讯社（ISNA）援引伊朗伊斯兰革命卫队报道，伊朗“誓言回应”美国在霍尔木兹海峡附近发动的最新袭击。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-26",
+      "time": "21:41",
+      "keywords": []
+    },
+    {
+      "title": "福克斯新闻：美国今晚对伊朗的军事打击行动已经结束",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieutyz7062508.shtml",
+      "content": "据福克斯新闻记者在X援引一位美国高级国防官员报道，美国今晚针对伊朗的军事打击行动已经结束。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-26",
+      "time": "21:34",
+      "keywords": []
+    },
+    {
+      "title": "美国对伊朗发动打击 以回应霍尔木兹海峡货船遭袭",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieutzh1700786.shtml",
+      "content": " 美国军方周五对伊朗发动袭击，此前美国总统特朗普指控该伊朗对霍尔木兹海峡的船只发动无人机攻击，“愚蠢地违反”了停火协议。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-26",
+      "time": "21:13",
+      "keywords": []
+    },
+    {
+      "title": "大宗商品综述：油价下挫 铝价连跌四周 金价走高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieutzh1698885.shtml",
+      "content": "随着船只继续通过霍尔木兹海峡，美国原油期货大跌。铝价周五上涨，但仍录得连续第四周下跌，受制于美元走强和中东地区供应恢复的压力。",
+      "priority": "low",
+      "sectors": [
+        "黄金",
+        "有色"
+      ],
+      "period": "night",
+      "date": "2026-06-26",
+      "time": "21:10",
+      "keywords": []
+    },
+    {
+      "title": "美国称对伊朗目标发动打击 以回应此前船只遇袭",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-27/doc-inieutyy0251841.shtml",
+      "content": " 美国中央司令部在社交平台X发文称，美军于“6月26日对伊朗实施打击，以有力回应前一日一艘途经霍尔木兹海峡的商船遭袭”。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-26",
+      "time": "20:51",
+      "keywords": []
+    },
+    {
+      "title": "以色列据称与黎巴嫩达成旨在结束冲突的框架协议",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-06-27/doc-inieutyz7026618.shtml",
+      "content": " 一位以色列高级官员周五表示，以色列、黎巴嫩和美国达成了一项初步的三方框架协议，旨在为结束以黎两国之间的冲突并最终达成和平解决方案铺平道路。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-26",
+      "time": "20:46",
+      "keywords": []
+    },
+    {
+      "title": "原油：WTI跌破每桶70美元 船只继续通过霍尔木兹海峡",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-06-27/doc-inieutyz7027326.shtml",
+      "content": " 美国原油期货大跌，几乎抹去战争期间的全部涨幅，因为霍尔木兹海峡船舶通行量继续增加，且随着波斯湾出口大幅反弹，投资者对供应过剩的预期升温。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-06-26",
+      "time": "20:00",
+      "keywords": []
     },
     {
       "title": "苹果Vision Pro头显和智能眼镜部门负责人将离职加入OpenAI",
@@ -1040,132 +1167,6 @@
         "折叠屏",
         "AI"
       ]
-    },
-    {
-      "title": "据报道OpenAI推迟 IPO，Kalshi交易所交易员预判其官宣时间",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-inieuccq1918728.shtml",
-      "content": "核心要点 预测交易平台Kalshi的交易员认为，OpenAI 将在 2027 年 3 月 1 日前官宣首次公开募股（IPO）。 《纽约时报》一则报道称 OpenAI 正考虑推迟上市...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-06-26",
-      "time": "15:09",
-      "keywords": []
-    },
-    {
-      "title": "英国将把军费开支再增加至少10亿英镑",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-inieuccq1914405.shtml",
-      "content": "据报道援引知情人士的话称，英国首相基尔·斯塔默势必会将军费开支在原来计划基础上至少增加10亿英镑。 英国定于周二公布国防投资计划。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-26",
-      "time": "15:00",
-      "keywords": []
-    },
-    {
-      "title": "大众汽车深化成本削减重组计划",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-inieucci7225726.shtml",
-      "content": "这家德国车企表示必须大幅提升自身竞争力大众并未披露具体裁员人数。 内容速览  面对来自中国车企的激烈竞争，大众正筹划一轮大刀阔斧的改革以改善财务状况...",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-06-26",
-      "time": "14:53",
-      "keywords": []
-    },
-    {
-      "title": "阿联酋告诉伊朗：确保霍尔木兹海峡航行自由至关重要",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-inieucci7224511.shtml",
-      "content": "据发布在社交媒体平台X的帖子，阿联酋外长Sheikh Abdullah bin Zayed接到伊朗外长阿巴斯·阿拉格齐的电话。 阿联酋外长强调全面遵守美伊谅解备忘录条款的重要性。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-26",
-      "time": "14:51",
-      "keywords": []
-    },
-    {
-      "title": "报道：OpenAI倾向于等到2027年再进行IPO",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-inieucci7216245.shtml",
-      "content": "媒体援引三位知情人士报道称，OpenAI倾向于将IPO时间推迟到明年。 该报道称，为OpenAI的IPO提供建议的银行家警告称，近期科技股以及SpaceX上市后股价均出现剧烈波动...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-06-26",
-      "time": "14:41",
-      "keywords": []
-    },
-    {
-      "title": "视频 | 展示珠宝定制经济活力 2026上海钻石珠宝文化周启幕",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/china/2026-06-26/doc-inieuccn5119959.shtml",
-      "content": "来源：看看新闻Knews综合",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-26",
-      "time": "14:31",
-      "keywords": []
-    },
-    {
-      "title": "燧原科技IPO隐忧：四年多亏59亿元 今年一季度债务飙升",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/newstock/2026-06-26/doc-inieucci7208245.shtml",
-      "content": "来源：雷达Finance 雷达财经出品 文|李亦辉 编|深海 6月15日，上海燧原科技股份有限公司（以下简称“燧原科技”）科创板IPO成功过会。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-26",
-      "time": "14:29",
-      "keywords": []
-    },
-    {
-      "title": "股价过山车，天味食品能靠高溢价并购重回市值巅峰吗？",
-      "source": "",
-      "url": "https://finance.sina.com.cn/wm/2026-06-26/doc-inieucci7208242.shtml",
-      "content": "来源：雷达Finance 雷达财经出品 文|周慧 编|深海 6月25日，A股上市公司四川天味食品集团股份有限公司（下称“天味食品”）股价大跌，最终报收于13.29元，股价跌幅达9.9%...",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-06-26",
-      "time": "14:29",
-      "keywords": []
-    },
-    {
-      "title": "最高法院草甘膦除草剂判决落地，拜耳迎来发展转机",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-26/doc-inieucci7204893.shtml",
-      "content": "最高法院此次胜诉，让这家德国企业在未决案件和解谈判中掌握更多主动权4 月，抗议者在美国华盛顿特区最高法院大楼外举行集会。 内容速览...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-26",
-      "time": "14:24",
-      "keywords": []
     },
     {
       "title": "宏观与交易结构共振，白银价格大幅下挫",
