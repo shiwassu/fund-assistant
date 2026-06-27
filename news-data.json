@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-27T21:41:09.269765",
+  "updated": "2026-06-27T23:38:04.148692",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,25 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 28,
-    "medium": 22,
-    "low": 100
+    "high": 27,
+    "medium": 20,
+    "low": 103
   },
   "items": [
+    {
+      "title": "韩国股市：“外资卖、散户加杠杆接”",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/roll/2026-06-28/doc-iniexcha4184521.shtml",
+      "content": "来源：财联社 据央视财经消息，韩国股市近期屡创新高，韩国综合股价指数今年以来近乎翻倍。然而，就在周五（26日），韩国综合股指盘中一度大跌超8%...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-27",
+      "time": "23:23",
+      "keywords": []
+    },
     {
       "title": "澳大利亚收紧针对儿童的社交媒体禁令，将科技公司可能面临的处罚金额提高一倍",
       "source": "环球市场播报",
@@ -165,34 +179,6 @@
       "period": "night",
       "date": "2026-06-27",
       "time": "05:00",
-      "keywords": []
-    },
-    {
-      "title": "巨力索具，领高额罚单",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/wm/2026-06-27/doc-inievkws0174739.shtml",
-      "content": "6月26日晚间，巨力索具发布公告，2026年6月26日，公司及相关人员收到中国证监会河北监管局（以下简称“河北证监局”）出具的《行政处罚事先告知书》 。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-27",
-      "time": "04:49",
-      "keywords": []
-    },
-    {
-      "title": "政策暖风吹向家电股 这些公司获机构密集推荐",
-      "source": "证券市场周刊",
-      "url": "https://finance.sina.com.cn/stock/hyyj/2026-06-27/doc-inievreq0077624.shtml",
-      "content": "文丨谢长艳 编辑丨张桔 国家加码消费品以旧换新政策，6月底将下达第三批625亿元专项资金，有望托举持续承压的家电消费。与此同时，当前家电板块估值处于历史低位，白电...",
-      "priority": "high",
-      "sectors": [
-        "消费"
-      ],
-      "period": "night",
-      "date": "2026-06-27",
-      "time": "03:09",
       "keywords": []
     },
     {
@@ -438,6 +424,20 @@
       ]
     },
     {
+      "title": "上调！国际评级机构出手！中信、中金首次获评A类",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/stock/quanshang/2026-06-28/doc-iniexcha4184968.shtml",
+      "content": "近日，国际评级机构惠誉评级发布最新报告，对多家国内券商进行了评级。 评级报告显示，中信证券、中金公司被评为“A-”，成为国内首批获得惠誉“A-”国际主体评级的证券公司。...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-27",
+      "time": "23:24",
+      "keywords": []
+    },
+    {
       "title": "亚马逊会员日线上总消费额超Adobe预期",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-28/doc-iniewssk1093458.shtml",
@@ -491,48 +491,6 @@
       "period": "night",
       "date": "2026-06-27",
       "time": "05:04",
-      "keywords": []
-    },
-    {
-      "title": "新能源赛道，重大利好，2030年目标定了！机构扎堆盯上多只高成长潜力股",
-      "source": "数据宝",
-      "url": "https://finance.sina.com.cn/wm/2026-06-27/doc-inievkws0157979.shtml",
-      "content": "新能源赛道有望在“十五五”时期迎来新的发展机遇。 《新型能源体系建设“十五五”规划》正式印发 6月25日，国家发改委、国家能源局印发《新型能源体系建设“十五五”规划》（简...",
-      "priority": "medium",
-      "sectors": [
-        "能源"
-      ],
-      "period": "night",
-      "date": "2026-06-27",
-      "time": "04:03",
-      "keywords": []
-    },
-    {
-      "title": "最新！葛卫东、章建平联手重仓一家公司！未来大规模回购成长期趋势！",
-      "source": "证券市场周刊",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-06-27/doc-inievkwy1566047.shtml",
-      "content": "文 |尚扬 今年以来，A股上市企业回购动作密集落地，一场由龙头企业、央企国资主导的持续性回购浪潮席卷A股市场。 与往年不同，今年的回购不再集中于年末冲刺...",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-06-27",
-      "time": "03:03",
-      "keywords": []
-    },
-    {
-      "title": "前5月工业利润大增18.8%，电子行业贡献超4成",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/roll/2026-06-27/doc-inieveqy4876628.shtml",
-      "content": "营收利润率达2024年以来各月累计最高水平。随着工业品价格回升及新兴产业带动，规上工业利润增速再创新高，工业企业效益持续恢复。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-27",
-      "time": "03:02",
       "keywords": []
     },
     {
@@ -775,6 +733,104 @@
       "keywords": [
         "市场动态"
       ]
+    },
+    {
+      "title": "拟收购光模块公司，马斯克也要站在“光”里？",
+      "source": "一财网",
+      "url": "https://finance.sina.com.cn/roll/2026-06-28/doc-iniexche6645038.shtml",
+      "content": "Mesh公司的光通信技术被认为或能够为SpaceX推进太空算力战略提供助力。 继收购AI初创公司Cursor之后，马斯克拟再次扩大商业版图，试图兑现SpaceX的上市承诺。",
+      "priority": "low",
+      "sectors": [
+        "光模块"
+      ],
+      "period": "night",
+      "date": "2026-06-27",
+      "time": "23:27",
+      "keywords": []
+    },
+    {
+      "title": "全民炒股，急踩刹车！韩国股市突变，发生了什么？",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/stock/roll/2026-06-28/doc-iniexchh3421128.shtml",
+      "content": " 全民狂欢、交易高度拥挤、杠杆资金猛增、新入市投资者表现激进、大型IPO吸金等现象，都与历史上泡沫时期的金融行为高度相似。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-27",
+      "time": "23:24",
+      "keywords": []
+    },
+    {
+      "title": "形势突变！美军称再对伊实施打击",
+      "source": "中国证券报",
+      "url": "https://finance.sina.com.cn/world/2026-06-28/doc-iniexcha4174993.shtml",
+      "content": "伊朗锡里克地区传出爆炸声 美军称再对伊实施打击 央视记者获悉，当地时间6月27日，美国已对伊朗实施军事打击。 美国中央司令部发表声明称，在总统特朗普指示下...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-27",
+      "time": "22:51",
+      "keywords": []
+    },
+    {
+      "title": "美国在第二艘船只遭袭后对伊朗发动新一轮空袭",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-28/doc-iniexche0940769.shtml",
+      "content": "美国军方表示，周六对伊朗多个目标发动了新一轮打击。 由于伊朗袭击了一艘在霍尔木兹海峡航行的商船，美国周五对伊朗目标实施打击。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-27",
+      "time": "22:31",
+      "keywords": []
+    },
+    {
+      "title": "出现逆转！中美技术博弈迎来变局",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/world/2026-06-28/doc-iniexche0959225.shtml",
+      "content": "来源：参考消息 【今日导读】几十年来，美国公司对中国竞争对手保持着巨大的技术领先优势。美国企业来到中国，是为了以更低的成本制造商品。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-27",
+      "time": "22:00",
+      "keywords": []
+    },
+    {
+      "title": "美军在伊朗再度袭击商船后实施新一轮打击",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-06-28/doc-iniexchh3390021.shtml",
+      "content": "美国中央司令部部队表示，应美国总统指示，于6月27日对伊朗境内多处目标发动新一轮打击。昨日美军针对伊朗袭击“长荣美好”号货轮一事实施打击后...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-27",
+      "time": "21:53",
+      "keywords": []
+    },
+    {
+      "title": "特朗普提名俄克拉荷马州执法官员出任移民与海关执法局局长",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-06-28/doc-iniewwyh1020933.shtml",
+      "content": "美国总统特朗普表示，他将提名兰斯·施罗耶担任美国移民与海关执法局（ICE）局长，并敦促参议院“立刻”批准这项任命。 特朗普于周六在社交媒体发文称...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-27",
+      "time": "19:55",
+      "keywords": []
     },
     {
       "title": "iPad、Xbox接连涨价 折射出存储芯片短缺之痛",
@@ -1140,62 +1196,6 @@
       "period": "night",
       "date": "2026-06-27",
       "time": "04:59",
-      "keywords": []
-    },
-    {
-      "title": "美国对伊朗发动打击 以回应在霍尔木兹海峡的无人机袭击",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-06-27/doc-inievkwt6945633.shtml",
-      "content": "美国在霍尔木兹海峡一艘商船遇袭的一天后对伊朗发动打击，这一轮交锋威胁到两国之间脆弱的停火协议。 美国中央司令部表示，美军战机于当地时间周五打击了伊朗的导弹和无人...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-27",
-      "time": "04:39",
-      "keywords": []
-    },
-    {
-      "title": "娃哈哈回应纯净水涨价：全线纯净水终端零售价不变，消费者购买价格无变化",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/wm/2026-06-27/doc-inievkww4782843.shtml",
-      "content": "6月27日午间，据@娃哈哈 微博，娃哈哈发布针对近日网传娃哈哈纯净水涨价相关消息的统一说明：受包材成本波动，我司调整不同包装规格水产品的渠道批发价...",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "night",
-      "date": "2026-06-27",
-      "time": "04:11",
-      "keywords": []
-    },
-    {
-      "title": "内存涨价“百年一遇”：库克诉苦、马斯克力挺、美光反击",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-06-27/doc-inievkwy1556863.shtml",
-      "content": "来源：TechWeb 6月27日消息，这一周全球科技圈最热闹的话题是一场围绕内存芯片涨价的公开口水战。苹果CEO蒂姆·库克、特斯拉与SpaceX创始人埃隆·马斯克...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-27",
-      "time": "04:05",
-      "keywords": []
-    },
-    {
-      "title": "欧洲遭遇史上最严酷热浪，科学家断言若无气候危机不可能发生",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-06-27/doc-inievera1641501.shtml",
-      "content": "科学家们26日发出严厉警告，称当前正在肆虐西欧的极端热浪不仅是该地区有记录以来最严重、范围最广的一次，而且如果不是人类燃烧化石燃料所导致的气候危机...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-27",
-      "time": "02:43",
       "keywords": []
     },
     {
