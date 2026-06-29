@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-29T20:29:52.552488",
+  "updated": "2026-06-29T21:56:35.085616",
   "total": 149,
   "sources": [
     "新浪财经",
@@ -7,11 +7,25 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 25,
+    "high": 22,
     "medium": 26,
-    "low": 98
+    "low": 101
   },
   "items": [
+    {
+      "title": "美国3个月期国库券需求降至2024年以来最弱水平",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifcrna4980653.shtml",
+      "content": " 在美联储货币政策路径存在不确定性、且发行规模增至纪录高位之际，美国财政部周一进行的3个月期国库券拍卖需求趋弱，间接投标人获配比例降至逾一年半以来最低。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-29",
+      "time": "21:29",
+      "keywords": []
+    },
     {
       "title": "6月30日收盘：美股收高科技股领涨，纳指上涨2.07%",
       "source": "环球市场播报",
@@ -122,62 +136,6 @@
       "period": "night",
       "date": "2026-06-29",
       "time": "19:29",
-      "keywords": []
-    },
-    {
-      "title": "城堡证券警示市场格局生变 沃什抗通胀立场或拖累风险资产",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifayqs6990251.shtml",
-      "content": "城堡证券表示，投资者低估了美联储主席凯文·沃什让通胀回到央行2%目标的决心，以及这可能给风险资产带来的拖累。 该公司EMEA固定收益销售主管Nohshad...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-29",
-      "time": "16:28",
-      "keywords": []
-    },
-    {
-      "title": "白宫收紧监管，为何开源模型反而从中受益",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifayqn2045545.shtml",
-      "content": "特朗普政府近期接连出台人工智能监管新政，叠加行业成本持续攀升，开源人工智能迎来发展红利期。不少开发者与企业高管表示，他们此前基于安索普（Anthropic）的 Fable 5...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-29",
-      "time": "16:18",
-      "keywords": []
-    },
-    {
-      "title": "特朗普誓言迅速采取“行动”回应库克案裁决",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifayqn2039618.shtml",
-      "content": " 美国总统特朗普表示，针对美国最高法院就美联储理事丽莎·库克作出的裁决，其政府“将立即采取适当行动”，以防“犯有不当行为的人作出关乎美利坚合众国福祉的重大决定”。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-29",
-      "time": "16:04",
-      "keywords": []
-    },
-    {
-      "title": "沃纳参议员拟推出AI智能体专项法案",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-29/doc-inifayqk5257389.shtml",
-      "content": "这份立法草案预计于周一正式对外发布，将围绕智能体相关的用户隐私及其他领域出台监管规则弗吉尼亚州联邦参议员马克・沃纳 美国国会议员正加紧跟进人工智能监管立法...",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-06-29",
-      "time": "15:50",
       "keywords": []
     },
     {
@@ -391,6 +349,48 @@
       ]
     },
     {
+      "title": "美国股市：逢低买盘推动科技股反弹 纳斯达克100指数上涨逾2%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifcrnn3539014.shtml",
+      "content": "逢低买盘周一涌入近期遭重挫的科技股，推动美国股市从上周的跌势中反弹。 以科技股为主的纳斯达克100指数周一在纽约收涨2.3%，扭转了上周五的跌势。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-29",
+      "time": "21:29",
+      "keywords": []
+    },
+    {
+      "title": "Alphabet 道指首秀中上涨4%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifcmeh1878783.shtml",
+      "content": "Alphabet 股价周一上涨 4%，该公司正式加入道琼斯工业平均指数，取代了Verizon ，并被赋予蓝筹股的象征性称号。 尽管股价周一反弹，但压力依然存在。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-29",
+      "time": "21:10",
+      "keywords": []
+    },
+    {
+      "title": "6月30日热门中概股多数上涨 台积电涨5.24%，百度涨7.64%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifcmeq3642911.shtml",
+      "content": "6月30日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收高1.41%。 上涨个股（按市值从高到低）：台积电涨5.24%，阿里巴巴涨0.73%，日月光半导体涨4.79%，网易涨4.41%...",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-06-29",
+      "time": "20:37",
+      "keywords": []
+    },
+    {
       "title": "ESS被纳入罗素微盘股指",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifcmen6837154.shtml",
@@ -430,48 +430,6 @@
       "period": "night",
       "date": "2026-06-29",
       "time": "19:16",
-      "keywords": []
-    },
-    {
-      "title": "弯勺科技IPO引关注：“数字资产捡漏式收购”模式浮出水面",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifayqn2048301.shtml",
-      "content": "距离美国独立日四天小长假仅剩数日，本周原本大概率会进入新闻淡季。但美国政府与人工智能行业之间的博弈大概率会持续上演，随着中国人工智能模型竞争力不断攀升...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-29",
-      "time": "16:27",
-      "keywords": []
-    },
-    {
-      "title": "欧洲股市持平 电信股因担心SpaceX冲击而下跌",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifayqs6986524.shtml",
-      "content": " 欧洲股市持平，电信板块下跌，市场担心SpaceX可能抢占更多移动通信市场份额，同时投资者权衡美国与伊朗停止互袭的影响。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-29",
-      "time": "16:21",
-      "keywords": []
-    },
-    {
-      "title": "德意志银行：6月底买盘料将使美国国债收益率曲线趋平",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-29/doc-inifayqk5255423.shtml",
-      "content": "德意志银行表示，受月底前“养老金及指数相关买盘”推动，美国国债收益率曲线预计将趋于平缓。 对于6月季末，德意志银行策略师估计...",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-06-29",
-      "time": "15:45",
       "keywords": []
     },
     {
@@ -795,6 +753,118 @@
       "keywords": [
         "周刊提前读"
       ]
+    },
+    {
+      "title": "伊朗称无计划在多哈与美方会面 重申将控制霍尔木兹海峡通行",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifcrna4988718.shtml",
+      "content": " 伊朗一名高级官员重申，德黑兰决心继续控制通过霍尔木兹海峡的海上交通，这加大了美伊新一轮旨在永久结束战争谈判的压力。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-29",
+      "time": "21:56",
+      "keywords": []
+    },
+    {
+      "title": "美伊和平谈判代表前往多哈，但会晤能否举行仍不明朗",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifcrne1764355.shtml",
+      "content": " 伊朗和美国谈判团队原定本周在多哈会面，但伊朗方面表示，由于周末双方导弹交火，考验了旨在结束这场持续四个月战争的临时停火协议，因此并未安排会晤。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-29",
+      "time": "21:49",
+      "keywords": []
+    },
+    {
+      "title": "战火未断、航道未闭：霍尔木兹海峡航运流量仍维持高位",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifcrna4978083.shtml",
+      "content": " 在上周末美伊再度相互发动新袭击之后，关键通道霍尔木兹海峡的航运流量依然保持高位，似乎至少在一定程度上并未受到时断时续的和谈影响。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-29",
+      "time": "21:24",
+      "keywords": []
+    },
+    {
+      "title": "6月30日美股成交额前20：瑞银上调台积电目标价",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifcmen6876783.shtml",
+      "content": "周一美股成交额第1名美光科技收高1.14%，成交659.15亿美元。日前美光与苹果就存储芯片定价问题公开交锋。美光CEO桑杰·梅赫罗特拉称，苹果十多年来以5美元采购芯片...",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-06-29",
+      "time": "21:01",
+      "keywords": []
+    },
+    {
+      "title": "美国战略石油储备库存减少550万桶，降至1983年以来最低水平",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifcmeq3647214.shtml",
+      "content": " 据美国能源部数据，美国战略石油储备（SPR）中的原油库存减少了550万桶，降至3.257亿桶，创下自1983年5月以来的最低水平。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-06-29",
+      "time": "20:47",
+      "keywords": []
+    },
+    {
+      "title": "特斯拉即将发布第二季度交付数据 这一关键数字备受关注",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifcmee5092352.shtml",
+      "content": "特斯拉将在7月初公布第二季度车辆交付数据，这一数字可能比任何自动驾驶出租车或人形机器人的最新进展都更受市场关注。交付量是衡量特斯拉汽车需求是否从艰难的2025年中复...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-29",
+      "time": "20:44",
+      "keywords": []
+    },
+    {
+      "title": "原油：油价上涨 美伊暂停相互攻击但霍尔木兹海峡通行放缓",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifcmeq3644129.shtml",
+      "content": " 油价周一上涨。在霍尔木兹海峡周末爆发的冲突再次凸显中东停火协议的脆弱性后，交易员正在评估即将举行的美伊和平谈判前景。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-06-29",
+      "time": "20:40",
+      "keywords": []
+    },
+    {
+      "title": "Medalist Diversified推出DST赞助平台 首期特斯拉租赁项目向合格1031投资者开放",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifcmen6867040.shtml",
+      "content": "总部位于里士满的上市公司Medalist Diversified， Inc．周一宣布推出其特拉华法定信托赞助平台，由全资子公司MDRR Sponsor TRS运营。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-29",
+      "time": "20:38",
+      "keywords": []
     },
     {
       "title": "美国债市：国债收盘涨跌互现 收益率曲线走平",
@@ -1172,76 +1242,6 @@
       "period": "noon",
       "date": "2026-06-29",
       "time": "16:50",
-      "keywords": []
-    },
-    {
-      "title": "嘀嗒出行迎来触底反弹，顺风车下半场不靠补贴",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/chanjing/gsnews/2026-06-30/doc-inifayqu3756597.shtml",
-      "content": " 曾经共享出行的第一股，遇到了流量增长难题。2025年，嘀嗒出行收入从2024年的7.87亿降到了5.02亿，大幅缩水。其中收入来源主要来自于顺风车业务，收入结构高效却单一。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-29",
-      "time": "16:11",
-      "keywords": []
-    },
-    {
-      "title": "午盘：美股周一午盘上涨 美伊停火提振市场 芯片股抛压限制涨幅",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifayqu3752525.shtml",
-      "content": "北京时间6月30日凌晨，美股周一午盘交易时段走高，投资者评估美国与伊朗之间暂停敌对行动的影响，但芯片制造商的抛售压力限制了市场涨幅...",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-06-29",
-      "time": "16:05",
-      "keywords": []
-    },
-    {
-      "title": "现货金价跌向4000美元一线 交易员密切关注伊朗局势",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-30/doc-inifayqn2039943.shtml",
-      "content": " 美国和伊朗同意停止互相攻击，金价下跌。两国此前的互相攻击对脆弱的和平协议构成考验，为这场加剧了全球通胀的战争何时结束平添变数。",
-      "priority": "low",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "noon",
-      "date": "2026-06-29",
-      "time": "16:04",
-      "keywords": []
-    },
-    {
-      "title": "日元兑美元跌至近40年低点 干预预期升温",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-29/doc-inifayqs6966414.shtml",
-      "content": "日元兑美元跌至1986年以来最低水平，这一关口势必加剧日本方面的不安，并令交易员高度警惕日本当局可能入市干预。 周一纽约交易时段，日元兑美元一度下跌0.1%，触及161...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-29",
-      "time": "15:50",
-      "keywords": []
-    },
-    {
-      "title": "美国最高法院允许各州将选举日后收到的邮寄选票纳入计票",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-06-29/doc-inifayqs6964350.shtml",
-      "content": "美国最高法院周一维持了各州的相关法律，即只要邮寄选票的邮戳日期不晚于选举日，即使在几天后送达，也予以计票。 最高法院以5比4的投票结果作出了不利于共和党的裁决。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-06-29",
-      "time": "15:46",
       "keywords": []
     },
     {
