@@ -1,5 +1,5 @@
 {
-  "updated": "2026-06-30T20:31:59.869396",
+  "updated": "2026-06-30T22:02:20.039177",
   "total": 148,
   "sources": [
     "新浪财经",
@@ -7,9 +7,9 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 25,
-    "medium": 39,
-    "low": 84
+    "high": 22,
+    "medium": 37,
+    "low": 89
   },
   "items": [
     {
@@ -137,48 +137,6 @@
       "period": "night",
       "date": "2026-06-30",
       "time": "19:27",
-      "keywords": []
-    },
-    {
-      "title": "AeroVironment财报亮眼 但Cramer建议谨慎对待",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-iniffqcn6483753.shtml",
-      "content": " 无人机制造商AeroVironment周一发布了一份超预期的第四季度财报，盘后股价一度大涨逾20%。尽管业绩亮眼，知名投资人Jim Cramer仍提醒投资者对这一国防股保持谨慎。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-30",
-      "time": "19:24",
-      "keywords": []
-    },
-    {
-      "title": "美国ETF行业上半年吸金破万亿 资产管理规模首超15万亿美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-iniffqcn6479099.shtml",
-      "content": "2026年上半年，美国ETF行业交出了一份创纪录的成绩单。截至第二季度末，美国上市ETF总资产管理规模突破15万亿美元大关，年初至今净流入资金超过1万亿美元...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-30",
-      "time": "19:16",
-      "keywords": []
-    },
-    {
-      "title": "Open USD挑战USDC主导地位 Circle暴跌逾16%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-iniffqch1285797.shtml",
-      "content": "Circle Internet Group股价周二尾盘重挫16.6%，此前由Visa、Mastercard、Stripe、贝莱德、Coinbase及谷歌等140余家公司联合宣布推出全新稳定币项目Open USD...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-30",
-      "time": "19:15",
       "keywords": []
     },
     {
@@ -392,6 +350,48 @@
       ]
     },
     {
+      "title": "新兴市场股市创2009年以来最佳季度表现 AI热潮提供动力",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-iniffumn3207835.shtml",
+      "content": "新兴市场股市创17年来最佳季度表现，在亚洲人工智能股票上涨的支撑下，市场经受住了伊朗战争和油价上涨带来的冲击。 MSCI新兴市场股票指数在6月最后一个交易日上涨0.9%...",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-06-30",
+      "time": "21:35",
+      "keywords": []
+    },
+    {
+      "title": "耐克盘后下跌 公司高管就需求发表谨慎言论",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-iniffumk6429391.shtml",
+      "content": "耐克公司股价周二盘后下跌，虽然最新季度业绩超出预期，但其提振作用被公司高管谨慎的言论所抵消。 该公司即将离任的首席财务官Matt Friend表示...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-30",
+      "time": "21:32",
+      "keywords": []
+    },
+    {
+      "title": "美国股市：科技股带动大盘走高 标普500指数创六年来最佳季度表现",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-iniffumn3204679.shtml",
+      "content": "美国股市周二上涨，标普500指数录得六年来最佳季度表现，投资者继续消化最新经济数据。 标普500指数在纽约收涨0.8%，以科技股为主的纳斯达克100指数上涨1.7%。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-30",
+      "time": "21:31",
+      "keywords": []
+    },
+    {
       "title": "7月1日热门中概股多数上涨 台积电涨4.86%，富途控股跌3.53%",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-iniffumk6386308.shtml",
@@ -572,76 +572,6 @@
       "period": "night",
       "date": "2026-06-30",
       "time": "19:28",
-      "keywords": []
-    },
-    {
-      "title": "沟通失误酿成大错 韩国券商无缘SpaceX巨额IPO",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-iniffqch1289747.shtml",
-      "content": "由于一个看似普通的沟通失误，韩国最大券商未来资产证券与SpaceX创纪录的860亿美元IPO失之交臂，成为23家承销商中唯一未获任何配售的机构...",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-06-30",
-      "time": "19:26",
-      "keywords": []
-    },
-    {
-      "title": "阿斯彭研究所在美启动“诈骗预防倡议”，获摩根大通与亚马逊支持",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-iniffqcn6483163.shtml",
-      "content": " 阿斯彭研究所金融安全项目近日宣布启动“诈骗预防倡议”，旨在推动跨行业协作，减少诈骗对美国民众造成的损失。摩根大通与亚马逊等行业巨头已加入该倡议的领导组。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-30",
-      "time": "19:23",
-      "keywords": []
-    },
-    {
-      "title": "摩根大通与亚马逊联手支持阿斯彭研究所反诈骗行动",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-iniffqcq3258043.shtml",
-      "content": "面对美国日益严峻的诈骗问题，摩根大通与亚马逊等行业巨头正联手支持阿斯彭研究所金融安全项目发起的“诈骗预防倡议”，该倡议旨在将跨行业共识转化为实际行动...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-30",
-      "time": "19:21",
-      "keywords": []
-    },
-    {
-      "title": "Anthropic推出Claude Sonnet 5 低价策略冲刺IPO",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-iniffqch1286987.shtml",
-      "content": "Anthropic于周二正式发布Claude Sonnet 5，这款中端模型在多项基准测试中性能接近旗舰Opus 4.8，价格却低约60%。此举正值该公司推进IPO进程...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-30",
-      "time": "19:18",
-      "keywords": []
-    },
-    {
-      "title": "康卡斯特拆分NBC环球，意味着媒体并购浪潮或将开启",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-iniffqch1284885.shtml",
-      "content": " 康卡斯特宣布将旗下NBC环球与Sky媒体业务分拆为独立上市公司，华尔街普遍认为，这一举措不仅旨在释放公司价值，更可能点燃媒体行业新一轮大规模并购浪潮。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-30",
-      "time": "19:13",
       "keywords": []
     },
     {
@@ -983,6 +913,120 @@
       ]
     },
     {
+      "title": "特朗普确认共和党将于9月9日至10日在达拉斯举行中期选举大会",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-iniffume1217476.shtml",
+      "content": "美国总统特朗普在社交媒体平台Truth Social上发帖称，共和党将于9月9日至10日在达拉斯举行中期选举大会。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-30",
+      "time": "21:53",
+      "keywords": []
+    },
+    {
+      "title": "特朗普在年度财务披露文件中公布其加密货币收入和股票投资组合",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-iniffume1215451.shtml",
+      "content": "美国总统特朗普的年度财务披露文件显示，其加密货币相关收入至少达到数亿美元。 美国政府道德办公室发布了特朗普的年度财务披露文件。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-30",
+      "time": "21:49",
+      "keywords": []
+    },
+    {
+      "title": "7月1日外盘头条：闪迪上半年涨超850% 谷歌发布全新AI创作工具 Anthropic推出Claude Science AI科研工作台",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-iniffume1213748.shtml",
+      "content": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、亚马逊云科技斥资10亿美元成立全新AI部门，派驻工程师入驻客户企业 2、Anthropic推出Claude Science AI科研工作台 3...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-06-30",
+      "time": "21:46",
+      "keywords": []
+    },
+    {
+      "title": "卡塔尔首相与特朗普特使讨论美伊谅解备忘录",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-iniffumk6433658.shtml",
+      "content": " 卡塔尔外交部在社交平台X发文称，卡塔尔首相兼外交大臣Sheikh Mohammed Bin Abdulrahman Al Thani在多哈会见了贾里德·库什纳和史蒂夫·威特科夫。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-30",
+      "time": "21:38",
+      "keywords": []
+    },
+    {
+      "title": "美国债市：国债维持早盘跌势 JOLTS职位空缺数据超预期",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-iniffumn3208211.shtml",
+      "content": "美国国债延续美国早盘时段由5月JOLTS职位空缺数据高于预期引发的跌势。午后维持跌势，临近月末之际，纽约时间下午3点左右期货卖盘加大。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-30",
+      "time": "21:36",
+      "keywords": []
+    },
+    {
+      "title": "芯片股创历史最佳季度表现 AI需求可持续性受关注",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-iniffumk6431034.shtml",
+      "content": " 芯片股创下历史最佳季度表现，在人工智能设备需求旺盛的推动下延续了今年以来的强劲涨势。但在近期股价波动后，投资者开始思考这轮行情还能持续多久。",
+      "priority": "low",
+      "sectors": [
+        "半导体",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-06-30",
+      "time": "21:34",
+      "keywords": []
+    },
+    {
+      "title": "大宗商品综述：油价下跌 铜价上涨 金价维持在4000美元上方",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-iniffumk6430458.shtml",
+      "content": "原油价格周二下跌，原因是在市场寄望于美国和伊朗达成永久和平协议之际，通过霍尔木兹海峡的航运正在回升，同时又出现了关于近期供应过剩的新警告。",
+      "priority": "low",
+      "sectors": [
+        "黄金",
+        "有色"
+      ],
+      "period": "night",
+      "date": "2026-06-30",
+      "time": "21:33",
+      "keywords": []
+    },
+    {
+      "title": "7月1日美股成交额前20：闪迪上半年上涨逾850%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-iniffume1186884.shtml",
+      "content": "周二美股成交额第1名美光科技收高0.79%，成交464.22亿美元。该股在今年上半年累计上涨超过300%。 据报道，美光科技宣布将投入2.5亿美元参与“特朗普账户”（530A账户）项目...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-06-30",
+      "time": "20:46",
+      "keywords": []
+    },
+    {
       "title": "7月1日收盘：道指创五年来最佳上半年表现，纳指录得2020年以来最大单季涨幅",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-iniffumn3155335.shtml",
@@ -1219,48 +1263,6 @@
       "period": "night",
       "date": "2026-06-30",
       "time": "19:29",
-      "keywords": []
-    },
-    {
-      "title": "亚马逊Alexa推365天价格历史查询 智能购物助手再升级",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-iniffqch1285210.shtml",
-      "content": " 亚马逊近期为其AI购物助手“Alexa for Shopping”新增了一项功能，用户可查看商品最长365天的价格历史记录，帮助消费者更精准地判断购买时机。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-30",
-      "time": "19:14",
-      "keywords": []
-    },
-    {
-      "title": "燃油成本大降叠加出行需求火爆 美国航空股迎来夏日狂欢",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-iniffqch1284364.shtml",
-      "content": "随着国际油价持续回落，叠加暑期出行需求异常强劲，美国航空股近期集体大幅走高。 航空燃油价格在过去一个月下跌约30%，此前因美国与伊朗达成停止战斗并重开霍尔木兹海峡的...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-30",
-      "time": "19:12",
-      "keywords": []
-    },
-    {
-      "title": "Google推出更快更便宜的Nano Banana 2 Lite图像生成器",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-01/doc-iniffqcq3251713.shtml",
-      "content": " 谷歌近日发布Nano Banana 2 Lite，这是一款面向开发者的高速、低成本AI图像生成与编辑模型，官方名称为Gemini 3.1 Flash-Lite Image，即日起全面上线。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-06-30",
-      "time": "19:11",
       "keywords": []
     },
     {
