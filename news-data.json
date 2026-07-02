@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-02T20:05:51.717724",
+  "updated": "2026-07-02T21:47:57.758063",
   "total": 147,
   "sources": [
     "新浪财经",
@@ -7,11 +7,39 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 23,
+    "high": 20,
     "medium": 35,
-    "low": 89
+    "low": 92
   },
   "items": [
+    {
+      "title": "特朗普：美联储理事会“有点敌意”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnhrh5707346.shtml",
+      "content": "美国总统特朗普称，美联储理事会“也许有点敌意”。 特朗普称凯文·沃什是“很棒的人，也是很棒的专业人士”。 特朗普在接受采访时就美联储理事会作出上述评论。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-02",
+      "time": "21:31",
+      "keywords": []
+    },
+    {
+      "title": "美国股市：道琼斯工业平均指数创新高 就业市场降温缓解加息担忧",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnhrn3835153.shtml",
+      "content": " 美国就业市场显著放缓引发市场猜测美联储短期内无需加息，这推动华尔街多数股票上涨。道琼斯工业平均指数上涨1.1%，创历史新高。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-02",
+      "time": "20:46",
+      "keywords": []
+    },
     {
       "title": "7月3日收盘：道指创历史新高，芯片股拖累纳指走低",
       "source": "环球市场播报",
@@ -109,76 +137,6 @@
       "period": "night",
       "date": "2026-07-02",
       "time": "19:00",
-      "keywords": []
-    },
-    {
-      "title": "美国6月份招聘速度大幅放缓 凸显劳动力市场仍面临挑战",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnaiq3931448.shtml",
-      "content": "尽管失业率下降，但美国6月份招聘大幅放缓，抑制了就业增长今年刚刚显现的势头。 美国劳工统计局周四公布的数据显示，上月非农就业人数增加5.7万人...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-02",
-      "time": "18:56",
-      "keywords": []
-    },
-    {
-      "title": "尾盘：美股走势分化 芯片板块连续第二日走低",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnais0707285.shtml",
-      "content": " 北京时间7月3日凌晨，美股周四尾盘走势分化，道指创盘中历史新高，纳指与标普指数走低。美国6月非农就业报告弱于预期，使市场认为美联储将因此暂缓加息。",
-      "priority": "high",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "night",
-      "date": "2026-07-02",
-      "time": "18:52",
-      "keywords": []
-    },
-    {
-      "title": "欧洲央行行长称6月加息是正确决定 供应冲击的影响仍持续扩散",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnaiq3910515.shtml",
-      "content": "欧洲央行行长克里斯蒂娜·拉加德在接受《回声报》采访时表示，欧洲央行上个月决定加息是正确的。 “我们确信自己做出了正确的决定，”拉加德在周四接受这家法国报纸采访时表示...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-02",
-      "time": "17:55",
-      "keywords": []
-    },
-    {
-      "title": "欧洲股市再创新高 资金轮动至科技股以外板块",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifmvzq2574913.shtml",
-      "content": "欧洲股市上涨，因投资者开始转向近几个月来遭市场冷落的板块，以寻找昂贵科技股之外的机会。 截至伦敦时间下午4：50，斯托克欧洲600指数上涨1.4%，再创历史新高。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-02",
-      "time": "16:27",
-      "keywords": []
-    },
-    {
-      "title": "花旗数据显示交易员全力押注纳斯达克100指数 认为涨势还将继续",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifmvzq2574130.shtml",
-      "content": "通常情况下，纳斯达克100指数在三个月内上涨30%会促使投资者获利了结。但眼下，他们却押注这波涨势才刚刚开始。 对追踪纳斯达克100指数的最大ETF的看涨期权需求...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-02",
-      "time": "16:26",
       "keywords": []
     },
     {
@@ -359,6 +317,62 @@
       ]
     },
     {
+      "title": "美国计划加强工作场所移民执法",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnhrh5680896.shtml",
+      "content": "据报道援引五名知情人士称，特朗普政府计划增加针对工作场所的移民执法行动。 报道称，包括司法部和国土安全部在内的多个联邦机构官员参与了有关针对工作场所开展执法的方...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-02",
+      "time": "20:50",
+      "keywords": []
+    },
+    {
+      "title": "7月3日美股成交额前20：特斯拉严控员工AI支出，每周最高200美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnhrk2456201.shtml",
+      "content": "周四美股成交额第1名美光科技收跌5.49%，成交602.54亿美元。美光科技连续两个交易日大幅下跌，昨日下跌逾10%。 近日全球存储芯片板块遭遇剧烈震荡，分析师称...",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-02",
+      "time": "20:48",
+      "keywords": []
+    },
+    {
+      "title": "7月3日热门中概股普跌 台积电跌2.20%，阿里巴巴跌1.88%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnhrh5665466.shtml",
+      "content": "7月3日热门中概股普跌，纳斯达克中国金龙指数（HXC）收跌1.77%。 上涨个股（按市值从高到低）：京东涨1.18%，中通涨1.36%，贝壳涨0.37%，中国新城农村涨2.15%，欢聚涨0...",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-07-02",
+      "time": "20:19",
+      "keywords": []
+    },
+    {
+      "title": "Whale Rock旗舰基金今年盈利近73% 押注科技股带来丰厚回报",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnhrq0602129.shtml",
+      "content": " Whale Rock Capital Management的旗舰对冲基金今年上涨72.5%，使这家专注科技领域、管理资产190亿美元的公司成为业内最佳之一。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-02",
+      "time": "20:11",
+      "keywords": []
+    },
+    {
       "title": "Direxion瞄准HBM龙头，SK Hynix两倍杠杆ETF蓄势待发",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnhrq0594918.shtml",
@@ -484,62 +498,6 @@
       "period": "night",
       "date": "2026-07-02",
       "time": "19:04",
-      "keywords": []
-    },
-    {
-      "title": "李维、北面等户外与牛仔巨头齐转向：女性市场成增长新引擎",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnain2528672.shtml",
-      "content": "随着户外运动从专业领域走向大众生活，以及市场对性别平等议题的关注上升，女性正成为推动服装行业增长的重要力量。Levi‘s、The North...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-02",
-      "time": "18:57",
-      "keywords": []
-    },
-    {
-      "title": "AI债务洪流让美国公司债市场看似更安全 实则风险暗涌",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifmvzn5826966.shtml",
-      "content": " 从表面看，越来越多高评级科技公司发行债券正在提升美国公司债市场的安全度。但许多投资者担心，这种安全性最终只是一种幻觉。",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-02",
-      "time": "17:16",
-      "keywords": []
-    },
-    {
-      "title": "存储ETF即将创下上市以来最差单周表现",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifmvzn5809883.shtml",
-      "content": " 截至周四午盘，朗希尔存储 ETF（交易代码：DRAM）在本周缩短的交易周期内跌幅接近 15%，即将创下成立以来最差单周表现。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-02",
-      "time": "16:48",
-      "keywords": []
-    },
-    {
-      "title": "特斯拉交付数据表现亮眼，股价却大跌7%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifmvzq2584842.shtml",
-      "content": "核心要点 特斯拉公布 2026 年第二季度车辆交付量 480126 辆、总产量 451758 辆，业绩超出华尔街市场预期。 特斯拉汇总的分析师一致预期交付量为 406024 辆...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-02",
-      "time": "16:46",
       "keywords": []
     },
     {
@@ -896,6 +854,118 @@
       ]
     },
     {
+      "title": "7月3日外盘头条：特朗普2025年交易逾2.1万笔 霍尔木兹海峡不复往日 微软计划8月推出Copilot全端整合产品",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnhrq0629775.shtml",
+      "content": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、特朗普财务披露显示2025年交易逾2.1万笔 2、霍尔木兹海峡不复往日 五大因素阻碍自由通行 3...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-02",
+      "time": "21:26",
+      "keywords": []
+    },
+    {
+      "title": "微软计划8月推出Copilot全端整合产品 精简冗余功能对标ChatGPT",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnhrn3843014.shtml",
+      "content": " 当地时间周四上午，微软一名高管向员工透露，公司将整合面向个人消费者与企业端的两款Copilot应用，并砍掉冗余功能，力求在用户心中“赢得生存的资格”。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-02",
+      "time": "21:11",
+      "keywords": []
+    },
+    {
+      "title": "Meta首席执行官扎克伯格称AI智能体开发未达预期",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnhrk2452599.shtml",
+      "content": "据报道，Meta首席执行官马克·扎克伯格表示，过去四个月AI的智能体开发“并未以我们预期的方式加速”。 扎克伯格补充称，包含大规模裁员在内的重组工作本可以更“干净利落”...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-02",
+      "time": "20:41",
+      "keywords": []
+    },
+    {
+      "title": "原油：投资者回补空头仓位 油价企稳",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnhrk2450885.shtml",
+      "content": "由于交易员在美国假日周末前回补部分看空押注，油价在接近战前低点的位置企稳。 美国基准的WTI原油上涨0.2%，收于每桶69美元下方...",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-07-02",
+      "time": "20:37",
+      "keywords": []
+    },
+    {
+      "title": "特斯拉宣布三排六座版Model Y现已面向美国顾客发售",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnhrn3831436.shtml",
+      "content": "特斯拉公司宣布Model Y SUV的三排座版本现已面向美国消费者发售，这是对其最畅销车型的一次市场拓展。特斯拉在社交媒体发文称，美国和波多黎各的顾客现可订购Model...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-02",
+      "time": "20:34",
+      "keywords": []
+    },
+    {
+      "title": "特朗普财务披露显示2025年交易逾2.1万笔",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnhrn3829266.shtml",
+      "content": "美国总统唐纳德·特朗普重返白宫后的第一年进行了逾2.1万笔证券交易，而且交易往往在由他引发的市场事件期间密集出现。 根据其2025年财务披露文件...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-02",
+      "time": "20:26",
+      "keywords": []
+    },
+    {
+      "title": "AI基建遇阻 黑石旗下QTS据悉放弃弗吉尼亚数据中心建设项目",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnhrn3827123.shtml",
+      "content": " 黑石集团旗下的QTS房地产信托公司决定，放弃在弗吉尼亚州建设数据中心园区的计划。对于那些多年来一直抗争并试图阻止该项目的当地居民而言，这无疑是一场胜利。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-02",
+      "time": "20:18",
+      "keywords": []
+    },
+    {
+      "title": "特斯拉将员工每周AI支出上限设为200美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnhrq0602282.shtml",
+      "content": " The Information援引内部备忘录及知情人士报道，特斯拉上月通知员工，将从7月6日起对员工的人工智能支出设定每周200美元的上限。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-02",
+      "time": "20:12",
+      "keywords": []
+    },
+    {
       "title": "严控AI成本 特斯拉将员工每周额度上限定为200美元",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnhrq0596196.shtml",
@@ -1175,76 +1245,6 @@
       "period": "night",
       "date": "2026-07-02",
       "time": "18:58",
-      "keywords": []
-    },
-    {
-      "title": "霍尔木兹海峡不复往日 五大因素阻碍自由通行",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnais0704718.shtml",
-      "content": " 6月17日美国和伊朗达成重开霍尔木兹海峡的协议。这条连接波斯湾和印度洋的水道是全球最重要的石油和天然气运输通道。今年2月两国爆发战争后，海峡航运一度几乎中断。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-02",
-      "time": "18:44",
-      "keywords": []
-    },
-    {
-      "title": "尽管交付量强劲，特斯拉股价仍下跌7%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifnain2501802.shtml",
-      "content": " 特斯拉公布的第二季度汽车交付量和产量数据远超华尔街预期，埃隆·马斯克旗下的这家汽车制造商正试图从连续年度汽车销量下滑中反弹。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-02",
-      "time": "18:11",
-      "keywords": []
-    },
-    {
-      "title": "亚马逊最新一批卫星升空 为今年提供互联网服务并挑战星链铺平道路",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-03/doc-inifnaik5705143.shtml",
-      "content": "联合发射联盟（United Launch Alliance）的一枚火箭将亚马逊公司29颗卫星送入太空，为该公司今年晚些时候启动宽带服务、从而挑战SpaceX占据主导地位的星链（Starlink）网络...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-02",
-      "time": "17:33",
-      "keywords": []
-    },
-    {
-      "title": "强劲季度销量未能提振特斯拉股价 分析师等待AI方面有更多进展",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifmvzs4025459.shtml",
-      "content": " 特斯拉股价周四一度下跌7.3%，创去年11月以来最大盘中跌幅。尽管公司第二季度交付量超出市场预期，但未能令投资者惊艳。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-02",
-      "time": "17:06",
-      "keywords": []
-    },
-    {
-      "title": "报道：美国政府和Anthropic并未讨论政府参股事宜",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-03/doc-inifmvzs4017200.shtml",
-      "content": "路透援引一位知情人士报道，特朗普政府与Anthropic并未讨论由美国政府持有该公司股份一事。 白宫、美国商务部和Anthropic均未立即回应置评请求。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-02",
-      "time": "16:42",
       "keywords": []
     },
     {
