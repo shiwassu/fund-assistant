@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-03T20:01:19.146298",
+  "updated": "2026-07-03T21:42:29.664045",
   "total": 147,
   "sources": [
     "新浪财经",
@@ -7,11 +7,25 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 32,
-    "medium": 33,
-    "low": 82
+    "high": 30,
+    "medium": 32,
+    "low": 85
   },
   "items": [
+    {
+      "title": "美国最大电网PJM升级紧急措施以避免停电",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-04/doc-inifqrwh2268092.shtml",
+      "content": " 美国最大电网运营商PJM周五表示，由于发电机故障、输电线路严重超载，以及持续闷热天气导致空调用电量激增，该电网已处于联邦警报状态下，要求在其服务区域内削减用电。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-03",
+      "time": "20:55",
+      "keywords": []
+    },
     {
       "title": "拉加德将亲自出席下周的欧盟经济和财政事务理事会会议",
       "source": "环球市场播报",
@@ -250,48 +264,6 @@
       "keywords": []
     },
     {
-      "title": "南昌农商银行获批增资至37.59亿元",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-07-03/doc-inifpyyq2322134.shtml",
-      "content": " 7月3日金融一线消息，江西金融监管局发布《关于南昌农商银行变更注册资本的批复》，同意该行增加注册资本1.37亿元人民币，由36.22亿元人民币变更为37.59亿元人民币。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-03",
-      "time": "14:01",
-      "keywords": []
-    },
-    {
-      "title": "江西黎川农村商业银行获批吸收合并黎川抚商村镇银行",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-07-03/doc-inifpyys3518483.shtml",
-      "content": "7月3日金融一线消息，江西金融监管局发布《关于江西黎川农村商业银行股份有限公司吸收合并黎川抚商村镇银行股份有限公司的批复》...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-03",
-      "time": "14:00",
-      "keywords": []
-    },
-    {
-      "title": "7月3日晚间新闻精选",
-      "source": "财联社",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-03/doc-inifpyys3536577.shtml",
-      "content": "1、央行预告将于7月6日开展10000亿元逆回购操作，结束连续3个月的缩量过程。专家认为，此举精准对冲7月资金到期压力，流动性季节性转松，三季度稳增长政策发力。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-03",
-      "time": "13:57",
-      "keywords": []
-    },
-    {
       "title": "彭博对官方数据的分析显示，2026年前五个月，中国2390亿美元的芯片进口总额中，超过一半经由香港完成，占比创下历史新高",
       "source": "财新",
       "url": "https://database.caixin.com/2026-07-03/102460249.html?cxapp_link=true",
@@ -501,6 +473,20 @@
       ]
     },
     {
+      "title": "瑞银上调存储价格预期：DRAM/NAND涨价周期延续至2027年",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-04/doc-inifqrwe5515103.shtml",
+      "content": "瑞银最新行业调研显示，2026年下半年存储芯片价格上行空间进一步扩大。 DDR合约价格预期被上调：2026年第三季度环比上涨32%（此前预期17%），第四季度上涨18%（此前12%）...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-03",
+      "time": "21:25",
+      "keywords": []
+    },
+    {
       "title": "经历跌宕起伏的上半年 小型对冲基金回报领先多策略基金",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-04/doc-inifpyyu0385231.shtml",
@@ -640,34 +626,6 @@
       "period": "noon",
       "date": "2026-07-03",
       "time": "14:02",
-      "keywords": []
-    },
-    {
-      "title": "国泰海通：预计上半年净利润200.03亿元~205.11亿元 同比增27.00%~30.00%",
-      "source": "证券时报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-03/doc-inifpyyn5583213.shtml",
-      "content": "国泰海通(601211)7月3日发布上半年业绩预增公告，预计实现净利润为200.03亿元~205.11亿元，净利润同比增长27.00%~30.00%。 证券时报·数据宝统计显示，国泰海通今日收于19...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-03",
-      "time": "13:58",
-      "keywords": []
-    },
-    {
-      "title": "东岳硅材发布上半年预增公告 净利润同比增长904.88%~952.28%",
-      "source": "证券时报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-03/doc-inifpyyn5561132.shtml",
-      "content": "东岳硅材(300821)7月3日发布上半年业绩预增公告，预计实现净利润为4.24亿元~4.44亿元，净利润同比增长904.88%~952.28%。 证券时报·数据宝统计显示，东岳硅材今日收于19...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-03",
-      "time": "13:57",
       "keywords": []
     },
     {
@@ -1008,6 +966,78 @@
       ]
     },
     {
+      "title": "北约高级指挥官：欧洲已基本填补美国削减军力留下的缺口",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-04/doc-inifqrwn0197353.shtml",
+      "content": " 北约欧洲盟军副最高司令约翰·斯特林格爵士在接受采访时表示，美国削减欧洲战时应急增援计划中的资产后，北约欧洲盟友已基本填补相关缺口。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-03",
+      "time": "21:34",
+      "keywords": []
+    },
+    {
+      "title": "摩根大通警示：芯片股超额收益持续性受制于云厂商资本开支意愿",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-04/doc-inifqrwn0196336.shtml",
+      "content": "半导体领军地位或更难维持 摩根大通认为，人工智能半导体公司相对于超大规模云服务商的强劲领先表现可能无法无限期持续下去，当前两者之间的估值差距从长期来看不太可能维...",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-07-03",
+      "time": "21:32",
+      "keywords": []
+    },
+    {
+      "title": "摩根大通：黄金短期承压 2026下半年或冲4500美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-04/doc-inifqrwn0192949.shtml",
+      "content": "摩根大通表示，短期内黄金价格可能因需求走弱而受限，整体仍将维持区间震荡。 主要原因是关键需求领域购买力减弱，以及黄金对实际利率变化重新变得敏感...",
+      "priority": "low",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-07-03",
+      "time": "21:25",
+      "keywords": []
+    },
+    {
+      "title": "伯纳姆称若接替斯塔默出任首相 不会提前举行英国大选",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-04/doc-inifqmqh5609314.shtml",
+      "content": "安迪·伯纳姆表示，若接替基尔·斯塔默出任英国首相，他不会提前举行英国大选。 周五在社交媒体平台Reddit上被问及是否会举行大选时，伯纳姆回答“不会”。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-03",
+      "time": "20:35",
+      "keywords": []
+    },
+    {
+      "title": "大宗商品综述：油价平 波斯湾原油运输接近战前水平 铜价涨 金价升",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-04/doc-inifqmqn3501978.shtml",
+      "content": "原油价格基本持平，交投清淡，波斯湾石油运输恢复，在全球市场关键区域造成新的供应过剩。伦敦期铜周五上涨，跟随美元小幅波动。",
+      "priority": "low",
+      "sectors": [
+        "能源",
+        "黄金",
+        "有色"
+      ],
+      "period": "night",
+      "date": "2026-07-03",
+      "time": "20:09",
+      "keywords": []
+    },
+    {
       "title": "原油：油价基本持平 波斯湾原油运输接近战前水平",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-04/doc-inifqmqh5567205.shtml",
@@ -1254,34 +1284,6 @@
       "period": "noon",
       "date": "2026-07-03",
       "time": "14:03",
-      "keywords": []
-    },
-    {
-      "title": "沪股通现身19只个股龙虎榜",
-      "source": "证券时报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-03/doc-inifpyys3531732.shtml",
-      "content": "7月3日公开信息显示，沪股通席位共现身19只个股龙虎榜。 证券时报·数据宝统计显示，7月3日共有63只个股上榜龙虎榜，其中，19只个股前五大买卖营业部中出现沪股通专用席位的...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-03",
-      "time": "13:57",
-      "keywords": []
-    },
-    {
-      "title": "11只个股大宗交易超5000万元",
-      "source": "证券时报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-03/doc-inifpyyn5584387.shtml",
-      "content": "证券时报·数据宝统计，7月3日共有60只个股现身大宗交易平台，累计成交量1.05亿股，累计成交额23.16亿元，其中29只个股交易额超千万元。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-03",
-      "time": "13:57",
       "keywords": []
     },
     {
