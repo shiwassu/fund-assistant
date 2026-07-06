@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-06T20:31:20.141697",
+  "updated": "2026-07-06T22:00:20.019385",
   "total": 147,
   "sources": [
     "新浪财经",
@@ -7,11 +7,55 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 22,
-    "medium": 37,
-    "low": 88
+    "high": 24,
+    "medium": 34,
+    "low": 89
   },
   "items": [
+    {
+      "title": "特朗普称沃尔玛将下调部分商品价格 呼吁其他零售商效仿",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxpie1494890.shtml",
+      "content": "美国总统特朗普表示，沃尔玛应政府要求同意下调部分商品价格，并敦促其他零售商效仿，称此举将惠及美国消费者。 特朗普周一在社交媒体发文称：“我刚刚获悉，美国规模最大...",
+      "priority": "high",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-07-06",
+      "time": "21:59",
+      "keywords": []
+    },
+    {
+      "title": "投资者团体：华尔街监管机构应坚持要求提交季度报告",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxpif8268664.shtml",
+      "content": " 根据周一公布的公众意见信件汇总显示，投资业界正敦促华尔街的最高监管机构坚持现行做法，即要求上市公司进行季度报告。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-06",
+      "time": "21:48",
+      "keywords": []
+    },
+    {
+      "title": "大宗商品综述：原油跌至五个月低点 黄金下跌 铝价反弹",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxhzh1611693.shtml",
+      "content": "随着市场显示出更多供应过剩迹象，原油价格周一跌至五个月低点。黄金价格走低，交易员在等待本周美联储政策会议纪要提供利率走向的线索。",
+      "priority": "high",
+      "sectors": [
+        "能源",
+        "黄金",
+        "有色"
+      ],
+      "period": "night",
+      "date": "2026-07-06",
+      "time": "21:17",
+      "keywords": []
+    },
     {
       "title": "加密货币暴跌之际 困境资产投资基金探讨置换Strategy优先股持仓",
       "source": "环球市场播报",
@@ -125,6 +169,20 @@
       "keywords": []
     },
     {
+      "title": "国际足联：不受理比利时足协涉美球员巴洛贡判罚事件的申诉",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-07/doc-inifxatm8452378.shtml",
+      "content": "当地时间6日，国际足联上诉委员会裁定，不受理比利时足协就美国队前锋福拉林·巴洛贡暂不受停赛处罚一事的申诉。 国际足联表示，由于比利时足协并非当事方且无权上诉...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-06",
+      "time": "16:49",
+      "keywords": []
+    },
+    {
       "title": "华尔街看涨预期受挫 资深人士Paulsen预计标普500指数今年跌逾10%",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifwwms8579039.shtml",
@@ -136,34 +194,6 @@
       "period": "noon",
       "date": "2026-07-06",
       "time": "16:37",
-      "keywords": []
-    },
-    {
-      "title": "欧洲债市：德国和英国国债下跌 收益率曲线趋陡",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-07/doc-inifwwmp8553287.shtml",
-      "content": " 德国国债收益率曲线小幅熊陡，因长端盈亏平衡通胀率小幅走高，而短端持稳，市场定价显示，预计欧洲央行到年底将加息21个基点。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-06",
-      "time": "16:20",
-      "keywords": []
-    },
-    {
-      "title": "午盘：美股涨跌不一 科技股推动纳指攀升",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifwwmr1783573.shtml",
-      "content": " 北京时间7月7日晚，美股周一午盘涨跌不一，科技股普涨推动纳指走高。市场关注的焦点仍是近期持续的板块轮动趋势。美联储将在本周公布6月货币政策会议纪要。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-06",
-      "time": "16:05",
       "keywords": []
     },
     {
@@ -344,6 +374,62 @@
       ]
     },
     {
+      "title": "美国股市：科技股反弹推动大盘走高 AI交易重获动能",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxhzh1616756.shtml",
+      "content": "美国股市周一上涨，投资者在上周对人工智能交易出现动摇后再度涌入科技股。 纳斯达克100指数上涨1.3%，标普500指数上涨0.7%，信息技术、通信服务和非必需消费品板块领涨。",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-06",
+      "time": "21:32",
+      "keywords": []
+    },
+    {
+      "title": "对冲基金对日元看跌情绪达到2007年以来最严重程度",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxhzm1694780.shtml",
+      "content": "对冲基金对日元的看空程度升至2007年以来最高，当时日元汇率徘徊在近四十年来最低水平附近。 美国商品期货交易委员会（CFTC）周一公布的数据显示，截至6月30日...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-06",
+      "time": "21:18",
+      "keywords": []
+    },
+    {
+      "title": "7月7日美股成交额前20：SpaceX即将正式纳入纳斯达克100指数",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxhzn8451981.shtml",
+      "content": "周一美股成交额第1名美光科技收高0.96%，成交359.56亿美元。花旗周一将美光科技列入“上行催化剂”观察名单。 花旗分析师在研报中表示：“鉴于2026年下半年DRAM芯片价格有望走...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-06",
+      "time": "20:49",
+      "keywords": []
+    },
+    {
+      "title": "厄瓜多尔山洪致9人死亡 一省长在灾害中失踪",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-07/doc-inifxhzi8380230.shtml",
+      "content": "厄瓜多尔国家风险管理秘书处6日通报，本月3日在该国亚马孙地区萨莫拉-钦奇佩省发生的山洪及次生灾害已造成9人死亡。 该机构称，受持续强降雨影响，萨莫拉河漫堤...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-06",
+      "time": "20:39",
+      "keywords": []
+    },
+    {
       "title": "纽约汇市：美元指数基本持稳 日元连续第二日走弱",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxhzm1659936.shtml",
@@ -439,104 +525,6 @@
       "period": "noon",
       "date": "2026-07-06",
       "time": "16:31",
-      "keywords": []
-    },
-    {
-      "title": "欧洲股市从纪录高位回落 投资者消化并购消息",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifwwms8574067.shtml",
-      "content": "欧洲股市周一从纪录高位小幅回落，投资者消化一系列并购消息。 斯托克欧洲600指数收跌0.4%，公用事业和医疗保健股跌幅居前，金融服务和银行股表现最佳。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-06",
-      "time": "16:29",
-      "keywords": []
-    },
-    {
-      "title": "A股业绩利好来了，又一大波公司预计翻倍增长",
-      "source": "中国证券报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-06/doc-inifwwmn1765617.shtml",
-      "content": "Wind数据显示，截至7月6日21时，A股共有92家上市公司披露2026年半年度业绩预告，其中，83家预增，预增比例约为90.22%。已披露业绩预告的上市公司整体保持了较好的盈利能力...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-06",
-      "time": "15:41",
-      "keywords": []
-    },
-    {
-      "title": "Exelon将于7月30日发布第二季度财报",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-06/doc-inifwwms8545673.shtml",
-      "content": " 能源公司Exelon今日宣布，将于2026年7月30日美股开盘前发布第二季度财务业绩。公司管理层将于当天上午9时召开电话会议，讨论业绩表现及业务进展。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-06",
-      "time": "15:39",
-      "keywords": []
-    },
-    {
-      "title": "美国主力球员免于停赛引争议 特朗普称仅致电国际足联要求复核",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-06/doc-inifwwmn1759766.shtml",
-      "content": "美国总统唐纳德·特朗普表示，他曾致电国际足联主席詹尼·因凡蒂诺，要求复核美国球员福拉林·巴洛贡的红牌判罚。他称，这名前锋并未犯下应收到红牌的犯规行为...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-06",
-      "time": "15:39",
-      "keywords": []
-    },
-    {
-      "title": "AbCellera任命Lynn Seely博士为董事会成员",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-06/doc-inifwwmp8536478.shtml",
-      "content": "生物技术公司AbCellera今日宣布，任命Lynn Seely博士为公司董事会独立董事，即日起生效。Seely博士在生物制药行业拥有超过30年的经验...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-06",
-      "time": "15:38",
-      "keywords": []
-    },
-    {
-      "title": "DoorDash将于8月5日发布2026年第二季度财报",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-06/doc-inifwwmp8536277.shtml",
-      "content": " 食品配送平台DoorDash今日宣布，将于2026年8月5日美股收盘后发布第二季度财务业绩。公司管理层将于当天下午5时召开电话会议，讨论业绩表现及业务进展。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-06",
-      "time": "15:37",
-      "keywords": []
-    },
-    {
-      "title": "Willdan将于7月30日发布2026年第二季度财报",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-06/doc-inifwwmp8535997.shtml",
-      "content": " 能源与工程服务公司Willdan Group今日宣布，将于2026年7月30日美股收盘后发布第二季度财务业绩。公司管理层将于当天下午5时召开电话会议，讨论业绩表现及业务进展。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-06",
-      "time": "15:36",
       "keywords": []
     },
     {
@@ -910,6 +898,91 @@
       ]
     },
     {
+      "title": "Coursera将在与Udemy合并后的重组中裁员",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxpif8269425.shtml",
+      "content": "在线教育平台Coursera周一表示，在收购Udemy后，该公司将裁员，具体涉及员工人数尚未披露。 该公司预计将因此产生800万至1100万美元的费用...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-06",
+      "time": "21:50",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：沃尔玛将下调碎牛肉及其他商品的价格",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxpik8356259.shtml",
+      "content": "美国总统特朗普周一表示，应其政府要求，沃尔玛将下调包括碎牛肉在内的多种商品价格。 这家零售商表示，今年夏天，顾客在沃尔玛和山姆会员店购买肉类...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-06",
+      "time": "21:47",
+      "keywords": []
+    },
+    {
+      "title": "丰田将在得克萨斯州投资36亿美元建设工厂，并将部分卡车生产从墨西哥转移至此",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxpie1490169.shtml",
+      "content": "丰田汽车公司周一宣布，将在得克萨斯州新建一座耗资36亿美元的汽车工厂，并将部分卡车生产从墨西哥转移至美国。 这家日本汽车制造商表示...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-06",
+      "time": "21:45",
+      "keywords": []
+    },
+    {
+      "title": "7月7日外盘头条：微软裁员4800人 SpaceX即将纳入纳指100 英伟达回应AI服务器架构路线图并没有改变",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxhzi8392923.shtml",
+      "content": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、特朗普在白宫为美股敲响开市钟 庆祝儿童储蓄项目“特朗普账户”上线 2、英伟达AI服务器架构据传将延后推出...",
+      "priority": "low",
+      "sectors": [
+        "半导体",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-06",
+      "time": "21:30",
+      "keywords": []
+    },
+    {
+      "title": "特朗普称沃尔玛将把牛绞肉价格下调近15%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxhzn8471508.shtml",
+      "content": "美国总统特朗普表示，沃尔玛将把牛绞肉每磅价格下调近15%，“许多其他产品”也将降价。 特朗普还表示，沃尔玛将大幅降价。 他表示，沃尔玛正以“大胆而有力的方式”采取行动...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-06",
+      "time": "21:19",
+      "keywords": []
+    },
+    {
+      "title": "交易员对美元看涨程度创2015年以来最高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxhzi8389350.shtml",
+      "content": " 由于市场押注美国借贷成本将在更长时间内维持高位，推动美元出现为期一个月的涨势，全球交易员对美元前景的乐观程度达到2015年以来最高。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-06",
+      "time": "21:19",
+      "keywords": []
+    },
+    {
       "title": "美国债市：美债在清淡交投中涨跌互现 短债跑赢",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifxhzi8367136.shtml",
@@ -1177,87 +1250,17 @@
       "keywords": []
     },
     {
-      "title": "德国国防开支到2030年将攀升至联邦预算的三分之一",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifwwmr1795778.shtml",
-      "content": " 随着欧洲第一大经济体德国加强军备，到本十年末，德国将把国防和安全支出提高到超过2000亿欧元（合2280亿美元），占联邦预算的三分之一。",
+      "title": "古巴国家电网瘫痪",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-07/doc-inifwwmn1784339.shtml",
+      "content": "当地时间6日，古巴电力工会通报，古巴国家电网因不明原因瘫痪。（总台记者 马天静）",
       "priority": "low",
       "sectors": [
-        "综合"
+        "消费"
       ],
       "period": "noon",
       "date": "2026-07-06",
-      "time": "16:25",
-      "keywords": []
-    },
-    {
-      "title": "意大利埃尼集团斥资2.25亿美元投资美国初创企业EnergyX旗下智利锂矿项目",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-07/doc-inifwwmp8550165.shtml",
-      "content": "近年来埃尼持续推进业务多元化，摆脱单一油气收入依赖EnergyX “黑色巨人” 锂项目航拍全景 内容速览 意大利能源巨头埃尼集团斥资 2.25 亿美元...",
-      "priority": "low",
-      "sectors": [
-        "有色"
-      ],
-      "period": "noon",
-      "date": "2026-07-06",
-      "time": "16:11",
-      "keywords": []
-    },
-    {
-      "title": "旅行者保险发布2025年可持续发展报告",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-06/doc-inifwwmr1770156.shtml",
-      "content": "财产与意外伤害保险公司旅行者保险今日发布了其2025年可持续发展报告，全面披露公司在环境、社会和治理等方面的进展与承诺。报告重点展示了公司在应对气候变化风险...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-06",
-      "time": "15:40",
-      "keywords": []
-    },
-    {
-      "title": "梅菲尔画廊盛大开幕 五层空间呈现建筑、设计与美食盛宴",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-06/doc-inifwwmr1769792.shtml",
-      "content": "高端家居零售品牌RH（原名Restoration Hardware）近日宣布，其位于伦敦梅菲尔区的全新旗舰展厅“RH London， The Gallery”正式开幕。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-06",
-      "time": "15:40",
-      "keywords": []
-    },
-    {
-      "title": "TD Bank U.S.任命Jill Gateman为商业银行负责人",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-06/doc-inifwwmr1768933.shtml",
-      "content": "TD Bank U.S．今日宣布，任命Jill Gateman为美国商业银行负责人，即日起生效。Gateman将负责领导该行在美国市场的商业银行及专业金融业务，涵盖商业贷款、资产融资...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-06",
-      "time": "15:39",
-      "keywords": []
-    },
-    {
-      "title": "从普罗米修斯到哈德良：硅谷掀起美国再工业化浪潮",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-06/doc-inifwwms8543831.shtml",
-      "content": "6 月中旬，太空探索技术公司（SpaceX）上市让科技投资人安东尼奥・格雷西亚身价暴涨数十亿美元。短短几天后，他回到家乡底特律，面向满场美国铁锈带制造企业主发表演讲。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-06",
-      "time": "15:36",
+      "time": "16:29",
       "keywords": []
     },
     {
