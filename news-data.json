@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T18:10:18.405314",
+  "updated": "2026-07-10T20:03:05.908644",
   "total": 149,
   "sources": [
     "新浪财经",
@@ -7,11 +7,83 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 23,
-    "medium": 31,
-    "low": 95
+    "high": 19,
+    "medium": 28,
+    "low": 102
   },
   "items": [
+    {
+      "title": "大宗商品综述：原油、黄金和铝周五普遍下跌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimr5136924.shtml",
+      "content": "原油价格周五下跌，因为尽管中东战事再起，但美伊之间的谈判似乎仍将继续。黄金周五下跌并录得周跌幅，投资者在评估中东局势以及美联储通过加息抗击通胀的前景。",
+      "priority": "high",
+      "sectors": [
+        "能源",
+        "黄金",
+        "有色"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "20:02",
+      "keywords": []
+    },
+    {
+      "title": "GeneDx因收购Fabric Genomics失利遭集体诉讼，股价单日暴跌49%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimr5125730.shtml",
+      "content": "Robbins Geller Rudman &amp; Dowd LLP宣布对GeneDx Holdings Corp．提起证券集体诉讼，指控该公司及其高管在收购Fabric Genomics一事上作出虚假陈述，误导了投资者。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "19:46",
+      "keywords": []
+    },
+    {
+      "title": "律所对RxSight发起调查，涉及2025年业绩披露引发股价暴跌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimk6856774.shtml",
+      "content": " Glancy Prongay Wolke &amp; Rotter LLP宣布对眼科医疗设备公司RxSight启动调查，关注董事会是否违反了对股东的信托义务。此前已有多家律师事务所分别发起类似调查。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "19:41",
+      "keywords": []
+    },
+    {
+      "title": "美国债市：短期美债领跌 市场加大美联储加息押注",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimp8345979.shtml",
+      "content": "美国国债期货在美国交易时段走低，短债领跌，因为交易员上调对美联储未来几次会议的加息押注。此次走势缺乏明显催化因素，而油价日内走低。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "19:41",
+      "keywords": []
+    },
+    {
+      "title": "金价自美以对伊战争以来跌超20%，汇丰下调2026年展望",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimp8337058.shtml",
+      "content": "汇丰银行周四下调了2026年和2027年的黄金均价预测，理由是美联储货币政策预期转向鹰派以及美元走强持续施压金价。该行将2026年均价预测从此前的每盎司4864美元下调至4560美...",
+      "priority": "high",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "19:28",
+      "keywords": []
+    },
     {
       "title": "欧洲央行的Moulin认为人工智能可能加剧通胀波动",
       "source": "环球市场播报",
@@ -38,132 +110,6 @@
       "period": "noon",
       "date": "2026-07-10",
       "time": "17:04",
-      "keywords": []
-    },
-    {
-      "title": "2026年科技股内部人士自购股票数量创历史新高",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkccn6887983.shtml",
-      "content": "市场整体情绪偏谨慎，但科技企业内部高管正趁夏季股价回调大举增持自家股票。 企业内部人士正在大规模买入科技股：据情绪交易研究机构 SentimenTrader 分析统计...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "16:56",
-      "keywords": []
-    },
-    {
-      "title": "美联储向国会释放信号：我们必将压低通胀",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkccq3663502.shtml",
-      "content": "美联储于周五向国会发布半年期《货币政策报告》。面对居高不下的通胀，央行在报告中向议员表态，将 “实现物价稳定”。 这份半年货币政策报告发布之际...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "16:54",
-      "keywords": []
-    },
-    {
-      "title": "市场对Meta人工智能战略乐观情绪升温，该股创2024年初以来最佳单周表现",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihiwvv5196532.shtml",
-      "content": "核心要点受市场对 Meta 人工智能战略信心提振，该股周五大涨 6%，单周累计涨幅约 15%；Meta 于本周二发布图像生成模型 Muse Image，时隔两天后...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "16:14",
-      "keywords": []
-    },
-    {
-      "title": "午盘：美股小幅上扬 英伟达市值重回五万亿美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihiwvt8417621.shtml",
-      "content": "北京时间7月11日凌晨，美股周五午盘小幅上扬。纳指与标普500指数本周有望录得涨幅。市场继续关注中东局势发展。 道指涨87.93点，涨幅为0.17%，报52575.34点；纳指涨18...",
-      "priority": "high",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "16:11",
-      "keywords": []
-    },
-    {
-      "title": "WisdomTree上半年净流入89亿美元，管理资产连续创新高",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihiwvt8397770.shtml",
-      "content": " 全球资产管理公司WisdomTree周五发布2026年6月月度指标报告，显示上半年净流入资金达89亿美元，折合年化有机增长率约13%。该公司连续第六个季度刷新管理资产规模纪录。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "15:48",
-      "keywords": []
-    },
-    {
-      "title": "美联储政策报告重申对价格稳定的承诺 称一些通胀指标过去一年回落",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-10/doc-inihiwvq6974849.shtml",
-      "content": "美联储周五在华盛顿发布提交国会的7月货币政策报告，其中强调将致力于实现价格稳定。 报告指出，受关税影响，去年下半年“消费者通胀指标稳步上升”；今年以来...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "15:48",
-      "keywords": []
-    },
-    {
-      "title": "Polymarket申请保证金交易许可，拓展杠杆预测市场",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihiwvt8364282.shtml",
-      "content": "预测市场平台Polymarket已正式向美国监管机构提交申请，拟在美国推出保证金交易服务，以吸引专业交易员和机构投资者。 根据相关监管记录...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "15:11",
-      "keywords": []
-    },
-    {
-      "title": "波音737客机舷窗脱落致乘客受伤，航班紧急备降",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihiwvt8348898.shtml",
-      "content": "瑞安航空该航班攀升至 16000 英尺高空后折返落地 内容速览 一架瑞安航空波音 737 客机飞行途中舷窗脱落，造成一名乘客受伤，航班在希腊紧急降落。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "14:54",
-      "keywords": []
-    },
-    {
-      "title": "中欧初创企业苇渡科技深陷经营泥潭：高管离职、薪酬拖欠与合规风波连环爆发",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihiwvs3714139.shtml",
-      "content": "作为曾高调宣称将挑战特斯拉、在全球重型电动卡车市场引发关注的中欧初创企业苇渡科技（Windrose Technology），近期正密集爆发高管劳资纠纷、债务危机与监管合规风波。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "14:51",
       "keywords": []
     },
     {
@@ -359,6 +305,118 @@
       ]
     },
     {
+      "title": "Wedbush：Vera CPU有望拓宽英伟达市场版图",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimr5116836.shtml",
+      "content": "Wedbush Securities发布最新研报称，英伟达即将推出的Vera中央处理器有望凭借高核心数优势，在服务器处理器市场巩固其竞争地位。",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "19:33",
+      "keywords": []
+    },
+    {
+      "title": "达美航空Q2业绩超预期，高端出行需求抵消创纪录燃油成本",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimn3618941.shtml",
+      "content": "达美航空周五公布的第二季度财报显示，营收同比增长14%至176.7亿美元，调整后每股收益为1.56美元，双双超出华尔街预期。公司同时重申2026年全年盈利指引...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "19:08",
+      "keywords": []
+    },
+    {
+      "title": "瑞银建议逢低买入Bloom Energy",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimp8316918.shtml",
+      "content": "尽管Bloom Energy股价近期因市场担忧原材料可能制约公司增长而下滑，瑞银仍重申对该股的买入评级。 “我们认为Bloom Energy股价近期的回调是一个具有吸引力的买入机会...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "19:01",
+      "keywords": []
+    },
+    {
+      "title": "达美航空Q2业绩超预期，顶住燃油成本压力重申全年指引",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimr5092628.shtml",
+      "content": "达美航空周五公布2026年第二季度财报，调整后每股收益为1.56美元，营收达176.66亿美元，均超出华尔街预期。尽管面临史上最高季度燃油支出的压力...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "19:01",
+      "keywords": []
+    },
+    {
+      "title": "NextEra Energy将于7月24日发布第二季度财报",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimp8315412.shtml",
+      "content": "NextEra Energy， Inc．周五宣布，计划于2026年7月24日纽约证券交易所开盘前发布2026年第二季度财务业绩。财报将通过公司官网发布...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "18:59",
+      "keywords": []
+    },
+    {
+      "title": "NW Natural Holdings将于8月5日发布财报并召开电话会议",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimp8313018.shtml",
+      "content": " 美国西北天然气控股公司周五宣布，将于2026年8月5日发布2026年第二季度财报，并于太平洋时间上午8点召开分析师电话会议及网络直播，讨论业绩表现。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "18:57",
+      "keywords": []
+    },
+    {
+      "title": "尾盘：美股尾盘走高，道指上涨180点",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkcct5216332.shtml",
+      "content": "北京时间7月11日凌晨，美股周五尾盘走高。几只大型科技股表现亮眼，纳指与标普500指数本周有望录得周线涨幅。 道指涨181.40点，涨幅为0.35%，报52668.81点；纳指涨63...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "18:53",
+      "keywords": []
+    },
+    {
+      "title": "国际市场服务机构：霍尔木兹海峡通航量继续下降",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-11/doc-inihkimp8313285.shtml",
+      "content": "△霍尔木兹海峡（资料图）国际市场服务机构克普勒公司10日发布数据显示，7月9日，通过霍尔木兹海峡区域的船舶数量从前一天的30艘降至22艘...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "18:11",
+      "keywords": []
+    },
+    {
       "title": "京东旗下平台等组成的财团据悉接近提交REIT在新加坡IPO的文件",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkccr8335125.shtml",
@@ -370,160 +428,6 @@
       "period": "noon",
       "date": "2026-07-10",
       "time": "17:03",
-      "keywords": []
-    },
-    {
-      "title": "PC市场前景堪忧，根源在于存储芯片供应危机",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkcct5106489.shtml",
-      "content": "受全球存储芯片短缺持续冲击整个科技行业影响，二季度个人电脑出货量下滑 4.9%，为两年来首次出现同比下跌。 市场调研机构国际数据公司（IDC）表示...",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "16:58",
-      "keywords": []
-    },
-    {
-      "title": "Matador Resources定于8月5日发布二季度业绩",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihiwvs3762068.shtml",
-      "content": "Matador Resources Company周五宣布，将在2026年8月5日收盘后发布第二季度运营与财务业绩。公司管理层将于次日（8月6日）上午10：00（中部时间）召开电话会议...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "16:06",
-      "keywords": []
-    },
-    {
-      "title": "阿瑞斯管理调整二季度业绩电话会议时间，提前至7月31日",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihiwvq6980380.shtml",
-      "content": "阿瑞斯管理公司周五宣布，已调整其2026年第二季度财报电话会议的时间。会议将于7月31日上午9：00（美国东部时间）举行，早于此前计划。公司将在同一天开盘前发布季度业绩。...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "15:57",
-      "keywords": []
-    },
-    {
-      "title": "Emera将于8月7日召开电话会议讨论二季度业绩",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihiwvv5178874.shtml",
-      "content": " 能源服务提供商Emera Inc．周五宣布，将于8月7日美股开盘前发布2026年第二季度财务业绩，并于当日召开电话会议及网络直播讨论结果。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "15:54",
-      "keywords": []
-    },
-    {
-      "title": "ZoomInfo推出GTM Bench，为AI销售工具设立行业基准",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihiwvt8395713.shtml",
-      "content": " ZoomInfo Technologies Inc．近日宣布推出GTM Bench基准测试系统，专门用于评估大型语言模型和人工智能代理在真实市场推广任务中的表现。",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "15:46",
-      "keywords": []
-    },
-    {
-      "title": "独立研究机构Hedgeye预警苹果股价存在23%下跌空间",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihiwvt8386316.shtml",
-      "content": " 独立研究机构Hedgeye近日将苹果列为新的做空标的，认为其股价存在约23%的下行空间，理由是高估值和过于乐观的增长预期已基本被市场消化。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "15:37",
-      "keywords": []
-    },
-    {
-      "title": "瑞银大幅上调欧洲股市目标，看好未来18个月近两成涨幅",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihiwvt8383400.shtml",
-      "content": "瑞银全球研究团队周五发布报告，大幅上调对欧洲股市的预期，将斯托克600指数2026年底目标从630点上调至690点，并将2027年底目标设定为760点...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "15:33",
-      "keywords": []
-    },
-    {
-      "title": "花旗下调百事可乐评级并调低目标价",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihiwvt8381023.shtml",
-      "content": "花旗表示，受持续通胀影响，百事公司北美市场销售额或将持续低迷，压制股价表现。 该行将这家饮料巨头的股票评级由买入下调至中性...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "15:31",
-      "keywords": []
-    },
-    {
-      "title": "达美航空看好票价维持高位，全年盈利目标触手可及",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihiwvs3731126.shtml",
-      "content": "达美航空周五公布的第二季度业绩显示，尽管承受了公司历史上最高的季度燃油支出，但凭借强劲的出行需求和高端客票销售，公司仍实现超预期盈利，并重申全年业绩指引。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "15:17",
-      "keywords": []
-    },
-    {
-      "title": "Netflix最大优势或成最大风险：用户流失隐忧浮现",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihiwvv5124444.shtml",
-      "content": "近日有分析指出，用户流失可能成为瓦解Netflix庞大订阅用户优势的核心威胁。尽管Netflix以超过3.25亿的全球付费会员规模稳居流媒体龙头...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "14:54",
-      "keywords": []
-    },
-    {
-      "title": "深夜！存储概念股，集体拉升！SK海力士，美股首秀",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-10/doc-inihiwvt8355130.shtml",
-      "content": "K海力士美股首秀。 当地时间7月10日，美股三大指数开盘涨跌不一，截至发稿，道指跌0.05%，纳指涨0.03%，标普500指数涨0.14%。 存储概念股开盘普遍下跌，但盘初直线拉升...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "14:52",
       "keywords": []
     },
     {
@@ -834,6 +738,370 @@
       ]
     },
     {
+      "title": "Beta Tech完成eVTOL试点计划首次跨州飞行，运送人造器官",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimp8356682.shtml",
+      "content": "电动航空企业Beta Technologies宣布，已与美国多州交通部门合作，完成了美国交通部和联邦航空管理局电动垂直起降飞行器整合试点计划下的首次电动飞机飞行任务...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "19:56",
+      "keywords": []
+    },
+    {
+      "title": "并购调查律所对PULM、SLP、OLN、HUN四起交易发起股东权益审查",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimk6862340.shtml",
+      "content": "并购集体诉讼律师事务所Monteverde &amp; Associates PC宣布，正对四起上市公司并购交易发起股东权益调查，涉及Pulmatrix、Simulations Plus...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "19:53",
+      "keywords": []
+    },
+    {
+      "title": "霍尔木兹海峡船舶通行量持续低迷",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-11/doc-inihkimp8353047.shtml",
+      "content": " 航运数据平台 MarineTraffic 统计显示，美伊双方相互发动打击的过去 24 小时内，仅有至少 15 艘商船驶过霍尔木兹海峡。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "19:51",
+      "keywords": []
+    },
+    {
+      "title": "Curaleaf期权将于7月13日在蒙特利尔交易所上市交易",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimp8353030.shtml",
+      "content": " Curaleaf Holdings宣布，公司次级投票股的交易所交易期权预计将于2026年7月13日在加拿大衍生品交易所——蒙特利尔交易所（MX）正式挂牌交易，股票代码为“CURA”。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "19:51",
+      "keywords": []
+    },
+    {
+      "title": "原油：WTI下跌 因美伊冲突再起后继续谈判",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimk6860927.shtml",
+      "content": "原油下跌，因美国和伊朗似乎将继续谈判；此前袭击行动再度升级令停火承压，并阻碍油轮通过霍尔木兹海峡。 WTI下跌0.9%，结算价在每桶71美元附近，但本周仍累计上涨约4%。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "19:50",
+      "keywords": []
+    },
+    {
+      "title": "Hub Group因7700万美元会计差错遭集体诉讼，股价累计重挫31%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimr5126662.shtml",
+      "content": "多家律师事务所宣布对供应链解决方案提供商Hub Group提起证券欺诈集体诉讼，指控该公司在2023年4月28日至2026年5月11日期间发布重大虚假和误导性陈述，误导了投资者。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "19:47",
+      "keywords": []
+    },
+    {
+      "title": "律所对New Era Energy发起调查，涉AI转型许可造假及欺诈计划指控",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimp8348435.shtml",
+      "content": "Glancy Prongay Wolke &amp; Rotter LLP宣布对New Era Energy &amp; Digital启动调查，关注其董事会是否违反了对股东的信托义务。此前已有其他律师事务所发起了类似调查。...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "19:44",
+      "keywords": []
+    },
+    {
+      "title": "Snappy借助ZoomInfo购买信号，有效商机转化率实现翻倍",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimk6857525.shtml",
+      "content": "企业礼品平台Snappy通过利用ZoomInfo的实时购买信号进行销售，将其有效商机的转化率从约30%提升至约60%，近乎翻倍。这一转变使得销售团队能够精准地在目标客户积极研究相关...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "19:43",
+      "keywords": []
+    },
+    {
+      "title": "独家卫星图像曝光：伊朗或在重建多处核设施",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-11/doc-inihkimn3632620.shtml",
+      "content": "美媒从文拓卫星公司获取的独家卫星图像显示，有迹象表明伊朗正着手重建境内核设施。 该媒体影像核查团队发现，6 月末至 7 月初，伊朗全国多处核设施与导弹基地出现新施工活...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "19:39",
+      "keywords": []
+    },
+    {
+      "title": "大众汽车拟削减半数车型并压缩产能，应对全球竞争压力",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimk6855814.shtml",
+      "content": "大众汽车集团宣布了一项重大重组计划，计划将其车型阵容逐步削减至多50%，并大幅压缩全球制造产能至每年900万辆。此举旨在应对高企的生产成本...",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "19:39",
+      "keywords": []
+    },
+    {
+      "title": "Netflix拟引入直播频道与捆绑服务，应对用户活跃度下滑",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimp8344138.shtml",
+      "content": "流媒体巨头Netflix正积极探索推出全天候直播电视频道及流媒体捆绑套餐，以应对近期用户参与度下滑的趋势。这一潜在的战略调整，标志着该公司正偏离其长期坚持的纯点播核心...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "19:38",
+      "keywords": []
+    },
+    {
+      "title": "摩根大通AI投资组合回测跑赢传统配置，实际应用仍存挑战",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimn3631817.shtml",
+      "content": "摩根大通最新发布的研究报告显示，其开发的八个人工智能投资代理在长达二十年的历史回测中，表现超越了经典的60%股票/40%债券基准组合。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "19:37",
+      "keywords": []
+    },
+    {
+      "title": "Netflix拟引入直播频道与捆绑服务，力挽用户活跃度下滑",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimr5111126.shtml",
+      "content": "据知情人士透露，流媒体巨头Netflix正探索在其平台中增设全天候循环播放的直播频道，并考虑将竞争对手的流媒体服务以捆绑包形式纳入自身应用进行销售。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "19:25",
+      "keywords": []
+    },
+    {
+      "title": "AI或重塑东南亚8000万工作岗位，ILO称大规模失业尚未出现",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimk6849074.shtml",
+      "content": " 国际劳工组织发布的最新研究报告指出，生成式人工智能可能触及东盟地区近8000万名劳动者的工作生活，但目前尚无证据表明该技术已导致大规模就业岗位流失。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "19:23",
+      "keywords": []
+    },
+    {
+      "title": "五家AI巨头举债3500亿美元，7250亿资本开支引发市场担忧",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimp8332128.shtml",
+      "content": "Alphabet、亚马逊、Meta、微软和甲骨文等科技巨头正通过大规模举债为AI基础设施投资筹集资金。过去五年间，这五家公司合计新增约3500亿美元债务...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "19:21",
+      "keywords": []
+    },
+    {
+      "title": "伊媒：伊朗外长将赴阿曼讨论霍尔木兹海峡局势",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimk6847662.shtml",
+      "content": " 据伊朗官方的伊斯兰共和国通讯社（IRNA）报道，伊朗外长阿巴斯·阿拉格齐将于周六前往阿曼，就“霍尔木兹海峡局势”及其他地区局势发展举行会谈。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "19:20",
+      "keywords": []
+    },
+    {
+      "title": "Mercor融资谈判凸显AI数据需求热潮",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimk6842890.shtml",
+      "content": "AI数据标注初创公司Mercor正与投资者洽谈新一轮融资，估值约200亿美元，计划筹集5亿美元。若交易完成，这家成立仅三年的公司将实现估值翻倍，去年9月其完成3...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "19:10",
+      "keywords": []
+    },
+    {
+      "title": "美国两党参议员称与特朗普达成协议 将推进对俄制裁法案",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-11/doc-inihkimp8322404.shtml",
+      "content": " 一个由两党参议员组成的团体表示，他们已与特朗普政府达成协议，将推进新的对俄制裁法案，这意味着美国可能进一步加大对克里姆林宫的经济压力，以迫使停止俄乌冲突。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "19:08",
+      "keywords": []
+    },
+    {
+      "title": "e&集团59.5亿美元出清沃达丰持股，法国大亨溢价接盘",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimp8318616.shtml",
+      "content": "阿联酋电信巨头e&amp;集团（etisalat And）周五宣布，已达成协议以59.5亿美元出售其在英国沃达丰集团的全部16.21%股权，就此结束四年多的战略投资。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "19:03",
+      "keywords": []
+    },
+    {
+      "title": "Altius Minerals增持Great Bay Renewables股权至50%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimn3613681.shtml",
+      "content": "Altius Minerals Corporation宣布已签署股份购买协议，将通过一笔三方交易将其在Great Bay Renewables的有效权益从29%提升至50%，与Northampton Capital...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "18:58",
+      "keywords": []
+    },
+    {
+      "title": "Circle获美国货币监理署批准设立全国性信托银行",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimr5088133.shtml",
+      "content": "稳定币发行商Circle Internet Group周五宣布，已获得美国货币监理署的最终批准，成立一家全国性信托银行——First National Digital Currency Bank， N.A．...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "18:56",
+      "keywords": []
+    },
+    {
+      "title": "消息人士：美国、伊朗、巴基斯坦与卡塔尔将举行四方通话",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-11/doc-inihkccq3741563.shtml",
+      "content": "总台记者获悉，沙特方面10日晚有信息显示，消息人士称，美国、伊朗、巴基斯坦和卡塔尔将举行四方通话。截至目前，相关内容暂未有任何相关方证实。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "18:36",
+      "keywords": []
+    },
+    {
+      "title": "SK海力士首席执行官预计存储芯片短缺将持续到下一个十年",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkccr8412592.shtml",
+      "content": " SK海力士首席执行官Kwak Noh-Jung表示，正在扰乱计算机、汽车和设备市场的存储芯片短缺现象，可能会持续到2030年以后。",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "18:24",
+      "keywords": []
+    },
+    {
+      "title": "巴基斯坦总理与伊朗总统讨论地区局势",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkccn6944055.shtml",
+      "content": "巴基斯坦总理夏巴兹·谢里夫和伊朗总统马苏德·佩泽希齐扬今天通话，讨论“不断演变的地区局势”。 谢里夫在X平台发帖作出上述表示。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "18:20",
+      "keywords": []
+    },
+    {
+      "title": "美国发布针对伊朗的新制裁措施",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-11/doc-inihkccr8440034.shtml",
+      "content": "△美国财政部（资料图）当地时间7月10日，美国财政部网站显示，美国发布针对伊朗的新制裁措施。（央视记者 许弢）©2026中央广播电视总台版权所有。未经许可，请勿转载使用。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "18:15",
+      "keywords": []
+    },
+    {
+      "title": "伊朗西部一座炼油厂发生大火",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-11/doc-inihkccq3739565.shtml",
+      "content": "总台记者当地时间10日获悉，当天17时许，位于伊朗西部洛雷斯坦省波勒多赫塔尔（Pol-e Dokhtar）的一座小型炼油厂发生大火，现场升起滚滚浓烟。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "18:04",
+      "keywords": []
+    },
+    {
       "title": "特朗普称停火协议已经结束 但美伊双方将继续进行谈判",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkccr8390299.shtml",
@@ -876,6 +1144,62 @@
       "keywords": []
     },
     {
+      "title": "泽连斯基宣布成立乌军远程打击司令部",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-11/doc-inihkccr8434516.shtml",
+      "content": "△乌克兰总统泽连斯基（资料图）乌克兰总统泽连斯基10日表示，他已签署命令，在乌克兰武装部队内部设立一个新的远程打击司令部，并成立联合快速反应部队。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-10",
+      "time": "17:45",
+      "keywords": []
+    },
+    {
+      "title": "欧盟未就第21轮对俄制裁达成一致",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-11/doc-inihkimp8310666.shtml",
+      "content": "总台记者当地时间10日获悉，欧盟成员国当天未能就对俄罗斯第21轮制裁方案达成一致，讨论将继续进行。据欧盟消息人士透露，各方分歧主要集中在俄罗斯原油价格上限...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-10",
+      "time": "17:43",
+      "keywords": []
+    },
+    {
+      "title": "巴基斯坦总理呼吁落实美伊谅解备忘录 维护地区和平",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-11/doc-inihkccr8438567.shtml",
+      "content": "△巴总理夏巴兹·谢里夫（资料图）巴基斯坦总理府当地时间10日晚通报，巴总理夏巴兹·谢里夫当天分别与伊朗总统佩泽希齐扬和卡塔尔埃米尔谢赫·塔米姆·本·哈马德·阿勒萨尼通电...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-10",
+      "time": "17:36",
+      "keywords": []
+    },
+    {
+      "title": "伊朗议会议长：若美背弃协议 伊将坚决对抗",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-11/doc-inihkimk6836482.shtml",
+      "content": "△卡利巴夫（资料图）总台记者当地时间10日获悉，伊朗议会议长卡利巴夫表示，不论任何时候美国背弃双方达成的协议，伊朗都已做好全面防御准备，将坚决与其对抗...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-10",
+      "time": "17:22",
+      "keywords": []
+    },
+    {
       "title": "美国拟放宽对阿联酋的出口限制 为AI芯片销售扫清障碍",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkccq3672648.shtml",
@@ -888,328 +1212,6 @@
       "period": "noon",
       "date": "2026-07-10",
       "time": "17:07",
-      "keywords": []
-    },
-    {
-      "title": "SK海力士ADR开盘较发行价上涨14% 高管称未来可能增发",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkccn6877365.shtml",
-      "content": " SK海力士美国存托凭证（ADR）上市首日开盘较发行价上涨14%。这家韩国存储芯片制造商此次募股总计融资265亿美元，创下外国企业赴美上市之最。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "16:40",
-      "keywords": []
-    },
-    {
-      "title": "SK海力士考虑“内存即服务”模式 或允许客户租赁而非购买芯片",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkccn6875933.shtml",
-      "content": " SK海力士正在考虑以新的方式销售其内存芯片的使用权，包括所谓的“内存即服务”，这意味着客户可以向这家韩国公司租用存储资源，而无需购买芯片。",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "16:38",
-      "keywords": []
-    },
-    {
-      "title": "特朗普表态：尽管停火协议作废，美国仍将与伊朗持续谈判",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihiwvq6992245.shtml",
-      "content": "核心要点美国总统唐纳德・特朗普称美伊双方同意继续和谈，但强硬表态：停火已经彻底失效！本周美伊双方再度发起军事打击行动。伊朗伊斯兰共和国官员指责美方违反上月签署的...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "16:16",
-      "keywords": []
-    },
-    {
-      "title": "欧洲股市结束四周连涨 易捷航空股价飙升",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-11/doc-inihiwvv5194429.shtml",
-      "content": " 欧洲股市终结四周连涨势头，因中东紧张局势持续发酵打压市场情绪。易捷航空飙升14%，此前Apollo出人意料地提出收购报价，高于Castlelake的报价。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "16:11",
-      "keywords": []
-    },
-    {
-      "title": "Perfect Corp.达成私有化协议，估值溢价约48%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihiwvt8409278.shtml",
-      "content": " 人工智能与增强现实美妆科技解决方案提供商Perfect Corp．（玩美移动）周五宣布，已与创始人控制的实体签署最终合并协议，将以每股2.00美元现金的价格完成私有化。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "16:02",
-      "keywords": []
-    },
-    {
-      "title": "SK海力士纳斯达克挂牌开盘价170美元，涨幅约14%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihiwvs3772864.shtml",
-      "content": "核心要点韩国市值第二大企业 SK 海力士于本周五登陆纳斯达克交易所；该存储芯片企业发行美国存托凭证（ADR），美国投资者可参与交易；SK 海力士主营计算机内存（手机...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "16:00",
-      "keywords": []
-    },
-    {
-      "title": "欧洲债市：德国国债收益率单周涨幅创5月份以来最大",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-10/doc-inihiwvv5178746.shtml",
-      "content": "欧洲债市窄幅震荡，此前美国总统特朗普表示，美国将继续与伊朗举行谈判，但他认为两国之间的停火已经结束。 德国10年期国债收益率周五下跌2个基点，报3...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "15:54",
-      "keywords": []
-    },
-    {
-      "title": "Mainstreet Equity宣布派发季度股息，每股0.08加元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihiwvq6977488.shtml",
-      "content": "Mainstreet Equity Corp． 周五宣布，公司董事会已批准派发截至2026年6月30日季度的现金股息。此次股息为每股普通股0.08加元，将于2026年7月31日支付给7月17日收盘时登记在...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "15:52",
-      "keywords": []
-    },
-    {
-      "title": "SK集团会长崔泰源称计划大幅扩大对美投资",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihiwvq6977057.shtml",
-      "content": "SK集团会长崔泰源在接受彭博采访时表示，集团有一项“大得多得多”的计划在美国扩大投资。 SK集团已在美国投资超过350亿美元，崔泰源周一接受采访时表示。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "15:52",
-      "keywords": []
-    },
-    {
-      "title": "摩根士丹利警告称芯片制造商的定价能力面临更大压力",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-10/doc-inihiwvs3751119.shtml",
-      "content": " 摩根士丹利的Lisa Shalett呼吁投资者对芯片股保持谨慎，她表示，更多迹象表明，芯片制造商的定价能力有限，意味着这些股票可能因为对人工智能支出的乐观情绪而上涨过头。",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "15:47",
-      "keywords": []
-    },
-    {
-      "title": "估值模型显示Old Dominion Freight Line股价存在高估风险",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihiwvt8393285.shtml",
-      "content": "根据最新发布的贴现现金流分析，Old Dominion Freight Line的基于盈利的内在价值约为136美元，基于自由现金流的内在价值约为151美元，而当前股价约为226美元...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "15:44",
-      "keywords": []
-    },
-    {
-      "title": "SK海力士ADR预示开盘价为170美元 较发行价高出14%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihiwvs3727754.shtml",
-      "content": "SK海力士公司的美国存托凭证（ADR）预计开盘价为每份170美元，较149美元的发行价高出14%。 SK海力士此次发行1.779亿份ADR，募资约265亿美元。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "15:40",
-      "keywords": []
-    },
-    {
-      "title": "加密交易所业务边界持续拓宽，Kraken即将上线智能自主交易功能",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihiwvt8378823.shtml",
-      "content": "核心要点 Kraken 独家透露，平台 App 即将上线自主智能交易功能。 Kraken 首席数据官卡莫・阿萨特里安表示：“在全新模式下，普通投资者也能化身高频交易者...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "15:29",
-      "keywords": []
-    },
-    {
-      "title": "空客西班牙工厂三千员工罢工，项目交付面临延期风险",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihiwvs3737857.shtml",
-      "content": "空客公司位于西班牙的主要工厂正面临一场大规模罢工，约3000名员工参与，已导致多个项目出现延期。这场由航空专业人员独立工会发起的罢工自7月1日开始...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "15:28",
-      "keywords": []
-    },
-    {
-      "title": "MDA Space扩大融资推进收购CLS交易",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihiwvv5152327.shtml",
-      "content": " 加拿大航天公司MDA Space周五宣布，将其此前公布的股票发行规模扩大，募集总额提高至8.19亿美元，以资助其对法国地球观测数据分析公司CLS的收购。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "15:26",
-      "keywords": []
-    },
-    {
-      "title": "唱片公司施压流媒体平台：AI 生成歌曲必须标注来源",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihiwvv5150351.shtml",
-      "content": "唱片厂牌与艺人联合联盟表示，乐迷渴望信息透明SUNO 音乐工作室电脑屏幕上展示着多种乐器的彩色音频波形；制作 AI 音乐时屏幕显示各类乐器音频文件波形图。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "15:24",
-      "keywords": []
-    },
-    {
-      "title": "特朗普暂缓对进口飞机额外征收关税，开启180天谈判窗口",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihiwvs3729457.shtml",
-      "content": "美国总统特朗普周四签署公告，决定暂缓对进口商用飞机、喷气发动机及相关零部件额外征收新关税，同时指示政府与贸易伙伴启动为期180天的谈判窗口...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "15:14",
-      "keywords": []
-    },
-    {
-      "title": "《权力浪潮》书评：并购浪潮席卷好莱坞影坛",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihiwvs3726981.shtml",
-      "content": "上世纪 90 年代，各大制片厂把商业大片的工业化玩法打磨得炉火纯青，独立电影人也开辟出触达普通观众的全新路径。1989 年《蝙蝠侠》拍摄片场的迈克尔・基顿 蒂姆・波顿...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "15:10",
-      "keywords": []
-    },
-    {
-      "title": "大众汽车拟削减半数车型阵容，推进深度重组",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihiwvt8362770.shtml",
-      "content": "大众汽车集团近日公布了一项大规模重组计划，拟逐步将旗下车型阵容削减至多50%，并将车辆配置方案的复杂度降低75%，以应对成本高企...",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "15:09",
-      "keywords": []
-    },
-    {
-      "title": "航司与云巨头疯狂争抢燃气轮机，核心零部件仅少数企业能造",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihiwvv5131322.shtml",
-      "content": "专业涡轮零部件厂商成为投资者全新 “卖铲人” 投资标的通用电气温诺瓦（GE Vernova）南卡罗来纳州格林维尔工厂内，一台燃气轮机正在组装。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "15:01",
-      "keywords": []
-    },
-    {
-      "title": "Bloom Energy遭做空报告质疑钪供应链，股价周五大跌9%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihiwvv5131301.shtml",
-      "content": " 燃料电池制造商Bloom Energy（BE）股价在周五早盘交易中下跌约9%，延续了前一日因做空报告引发的跌势。此前该公司股价周三已收跌5.7%，报254.29美元，盘中一度下挫逾12%。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "15:01",
-      "keywords": []
-    },
-    {
-      "title": "摩根士丹利警告：亚马逊物流扩张威胁UPS与联邦快递",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihiwvs3718781.shtml",
-      "content": "摩根士丹利最新研究报告指出，随着亚马逊持续扩张物流业务并面向第三方客户提供价格低廉的配送服务，传统快递巨头联合包裹和联邦快递正面临日益加剧的竞争压力。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "14:58",
-      "keywords": []
-    },
-    {
-      "title": "全球人工智能基建需求井喷 推动航空货运结构转型与费率逆势飙升",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-10/doc-inihiwvq6933721.shtml",
-      "content": "受全球人工智能（AI）数据中心建设提速拉动，大量用于AI设备部署的重型服务器机架与晶圆半导体深度挤占全球航空货运产能。在传统电商低价包裹出货放缓的背景下...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-10",
-      "time": "14:45",
       "keywords": []
     },
     {
