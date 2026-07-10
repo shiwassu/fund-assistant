@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-10T21:38:28.264045",
+  "updated": "2026-07-10T23:34:00.009161",
   "total": 149,
   "sources": [
     "新浪财经",
@@ -8,8 +8,8 @@
   ],
   "priority_dist": {
     "high": 20,
-    "medium": 31,
-    "low": 98
+    "medium": 30,
+    "low": 99
   },
   "items": [
     {
@@ -319,6 +319,20 @@
       ]
     },
     {
+      "title": "7月11日隔夜要闻：科技股推动美股收高 美国发布针对伊朗的新制裁措施 SK海力士纳斯达克挂牌开盘价170美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkptm8361626.shtml",
+      "content": "市场 7月11日收盘：科技股推动美股收高，标普指数本周上涨1.2% 7月11日美股成交额前20：Meta创2024年初以来最佳单周表现 7月11日热门中概股涨跌不一 阿里巴巴涨1.05%...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "22:33",
+      "keywords": []
+    },
+    {
       "title": "纽约汇市：美元指数三连跌 日元跑赢其他G10货币",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkptm8298480.shtml",
@@ -456,34 +470,6 @@
       "period": "night",
       "date": "2026-07-10",
       "time": "18:57",
-      "keywords": []
-    },
-    {
-      "title": "尾盘：美股尾盘走高，道指上涨180点",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkcct5216332.shtml",
-      "content": "北京时间7月11日凌晨，美股周五尾盘走高。几只大型科技股表现亮眼，纳指与标普500指数本周有望录得周线涨幅。 道指涨181.40点，涨幅为0.35%，报52668.81点；纳指涨63...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-10",
-      "time": "18:53",
-      "keywords": []
-    },
-    {
-      "title": "国际市场服务机构：霍尔木兹海峡通航量继续下降",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-11/doc-inihkimp8313285.shtml",
-      "content": "△霍尔木兹海峡（资料图）国际市场服务机构克普勒公司10日发布数据显示，7月9日，通过霍尔木兹海峡区域的船舶数量从前一天的30艘降至22艘...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-10",
-      "time": "18:11",
       "keywords": []
     },
     {
@@ -794,6 +780,63 @@
       ]
     },
     {
+      "title": "遭连日舆论抨击后 Meta暂停AI图像生成功能",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkptk3621077.shtml",
+      "content": " 因该功能的退出授权机制连日饱受批评，好莱坞多家艺人经纪公司也提出质疑，Meta宣布停用一项允许用户调用公开Instagram账号素材生成图像的AI功能。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "23:14",
+      "keywords": []
+    },
+    {
+      "title": "视频丨交火对峙暂缓 口水战却未停 美伊谈判事宜频现“罗生门”",
+      "source": "央视新闻客户端",
+      "url": "https://finance.sina.com.cn/world/2026-07-11/doc-inihktzh3498155.shtml",
+      "content": " 本月7日，美军以伊朗威胁霍尔木兹海峡航行为由，开启新一轮美伊冲突。截至目前，形势已逐渐趋缓，斡旋方卡塔尔的谈判代表也于10日抵达伊朗。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "22:23",
+      "keywords": []
+    },
+    {
+      "title": "美国拟放宽对阿联酋的出口限制 为AI芯片销售敞开大门",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkptk3589188.shtml",
+      "content": " 特朗普政府计划放宽对阿联酋的出口管制，从而为这个海湾国家购买包括发展人工智能所需半导体在内的各类先进技术扫清障碍。",
+      "priority": "low",
+      "sectors": [
+        "半导体",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "22:11",
+      "keywords": []
+    },
+    {
+      "title": "美国要求伊朗宣布霍尔木兹海峡向所有船只开放",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkptm8311310.shtml",
+      "content": "美国政府高级官员表示，美方要求伊朗公开声明霍尔木兹海峡所有航道均向航运开放，并承诺不会袭击过境民用船只。 这些官员周五匿名向记者表示...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "21:39",
+      "keywords": []
+    },
+    {
       "title": "苹果起诉OpenAI窃取商业秘密 案件备受瞩目",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkptp5085817.shtml",
@@ -861,6 +904,20 @@
       "period": "night",
       "date": "2026-07-10",
       "time": "20:26",
+      "keywords": []
+    },
+    {
+      "title": "证监会确定12个课题研究方向 透露出下一步资本市场改革发展重点",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/roll/2026-07-11/doc-inihkimk6873437.shtml",
+      "content": "◎记者 汤立斌 中国证监会7月10日发布消息，证监会前期发布了《2026年中国证监会省部级课题选题方向及申报指南的通知》。经严格评审...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-10",
+      "time": "20:19",
       "keywords": []
     },
     {
@@ -1155,62 +1212,6 @@
       "period": "night",
       "date": "2026-07-10",
       "time": "18:56",
-      "keywords": []
-    },
-    {
-      "title": "消息人士：美国、伊朗、巴基斯坦与卡塔尔将举行四方通话",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-11/doc-inihkccq3741563.shtml",
-      "content": "总台记者获悉，沙特方面10日晚有信息显示，消息人士称，美国、伊朗、巴基斯坦和卡塔尔将举行四方通话。截至目前，相关内容暂未有任何相关方证实。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-10",
-      "time": "18:36",
-      "keywords": []
-    },
-    {
-      "title": "SK海力士首席执行官预计存储芯片短缺将持续到下一个十年",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkccr8412592.shtml",
-      "content": " SK海力士首席执行官Kwak Noh-Jung表示，正在扰乱计算机、汽车和设备市场的存储芯片短缺现象，可能会持续到2030年以后。",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "night",
-      "date": "2026-07-10",
-      "time": "18:24",
-      "keywords": []
-    },
-    {
-      "title": "巴基斯坦总理与伊朗总统讨论地区局势",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkccn6944055.shtml",
-      "content": "巴基斯坦总理夏巴兹·谢里夫和伊朗总统马苏德·佩泽希齐扬今天通话，讨论“不断演变的地区局势”。 谢里夫在X平台发帖作出上述表示。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-10",
-      "time": "18:20",
-      "keywords": []
-    },
-    {
-      "title": "美国发布针对伊朗的新制裁措施",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-11/doc-inihkccr8440034.shtml",
-      "content": "△美国财政部（资料图）当地时间7月10日，美国财政部网站显示，美国发布针对伊朗的新制裁措施。（央视记者 许弢）©2026中央广播电视总台版权所有。未经许可，请勿转载使用。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-10",
-      "time": "18:15",
       "keywords": []
     },
     {
