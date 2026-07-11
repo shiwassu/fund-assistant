@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-11T03:55:33.713230",
+  "updated": "2026-07-11T06:57:00.934944",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -8,10 +8,67 @@
   ],
   "priority_dist": {
     "high": 28,
-    "medium": 29,
-    "low": 93
+    "medium": 32,
+    "low": 90
   },
   "items": [
+    {
+      "title": "SK海力士登陆纳斯达克 押注AI打破芯片兴衰周期",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihmera3446127.shtml",
+      "content": "韩国存储芯片制造商SK海力士刚刚完成了史上最大外国公司赴美上市交易，而且在挂牌首日飙升13%。 这一历史性上市交易的背后逻辑很简单：押注人工智能热潮已从根本上重塑了数...",
+      "priority": "high",
+      "sectors": [
+        "半导体",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-11",
+      "time": "05:37",
+      "keywords": []
+    },
+    {
+      "title": "AI巨头，利空突袭！刚刚，苹果动手！",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/wm/2026-07-11/doc-inihmerc8313334.shtml",
+      "content": "IPO在即，科技巨头OpenAI却官司缠身，上市之路蒙上阴影。 北京时间7月11日消息，苹果公司突然起诉OpenAI，指控OpenAI窃取商业机密。",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-11",
+      "time": "05:03",
+      "keywords": []
+    },
+    {
+      "title": "景顺集团陈嘉妃：中国企业正迎来属于自己的大航海时代",
+      "source": "睿见Economy",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-11/doc-inihmerf5046609.shtml",
+      "content": "2026《中国企业家》未来之星年会于7月10日-11日在广州举行。本届年会以 “跃迁时刻” 为主题，聚焦硬科技与人工智能的深度融合，探讨从技术突破到产业落地的关键跃迁。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-11",
+      "time": "04:16",
+      "keywords": []
+    },
+    {
+      "title": "大摩、瑞银上调中国股票配置价值！下半年外资集体押注中国AI主线！",
+      "source": "证券市场周刊",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-11/doc-inihmera3425417.shtml",
+      "content": "文 |尚扬 7月上旬，A股、港股行情表现反差十足，沪综指在4000点反复拉锯，港股则凭借低估值迎来脉冲式反弹，但两大市场行情底层逻辑仍均锚定在AI赛道。",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-11",
+      "time": "04:09",
+      "keywords": []
+    },
     {
       "title": "正大集团侯孝海：四大核心驱动力正为冷冻食品、预制菜带来星辰大海",
       "source": "睿见Economy",
@@ -150,62 +207,6 @@
       "period": "night",
       "date": "2026-07-11",
       "time": "00:17",
-      "keywords": []
-    },
-    {
-      "title": "今日视点：外资看多中国AI产业链的三重逻辑",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-11/doc-inihkptm8371775.shtml",
-      "content": "■李春莲 近日，多家外资机构表示看好中国AI产业链。例如，高盛发布报告称，中国AI产业链具备被市场低估的独特竞争优势，尤其在基础设施...",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-07-10",
-      "time": "22:45",
-      "keywords": []
-    },
-    {
-      "title": "上半年28家私募机构管理规模首次突破百亿元",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-11/doc-inihkptp5147768.shtml",
-      "content": "本报记者昌校宇 今年以来，百亿元级私募机构数量持续扩容。私募排排网最新统计数据显示，截至2026年6月30日，百亿元级私募机构数量已达142家，较去年底净增29家...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-10",
-      "time": "22:45",
-      "keywords": []
-    },
-    {
-      "title": "观点综述：芯片制造商定价能力承压 存储芯片短缺或持续到2030年后",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkpth6786613.shtml",
-      "content": " 欧洲央行管委Moulin认为人工智能可能加剧通胀波动。摩根士丹利警告称芯片制造商的定价能力面临更大压力。SK海力士首席执行官预计存储芯片短缺将持续到下一个十年。",
-      "priority": "high",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "night",
-      "date": "2026-07-10",
-      "time": "21:35",
-      "keywords": []
-    },
-    {
-      "title": "美国股市：标普500指数连涨两周 SK海力士美国上市首日大涨",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkpth6774456.shtml",
-      "content": "标普500指数连续第二周上涨，SK海力士美国上市首日大涨，交易员在迎接第二季度财报季前消化最新地缘政治局势发展。。 标普500指数上涨0.4%...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-10",
-      "time": "21:19",
       "keywords": []
     },
     {
@@ -434,6 +435,77 @@
       ]
     },
     {
+      "title": "最高预增693.55%，券商业绩爆发",
+      "source": "中国证券报",
+      "url": "https://finance.sina.com.cn/roll/2026-07-11/doc-inihmerf5099579.shtml",
+      "content": "Wind数据显示，截至7月10日晚，已有10家上市券商（含券商母公司）披露2026年上半年业绩预告，均实现不同程度增长。 数据显示，有3家券商预计上半年归母净利润超百亿元。",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-07-11",
+      "time": "05:25",
+      "keywords": []
+    },
+    {
+      "title": "智平方张鹏：具身智能行业需要泡沫来吸引资源加速发展，但企业必须正确看待估值",
+      "source": "睿见Economy",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-11/doc-inihmerc8282084.shtml",
+      "content": "2026《中国企业家》未来之星年会于7月10日-11日在广州举行，主题为跃迁时刻。智平方联合创始人张鹏表示，对于任何新兴开拓性行业而言，适当的泡沫是不可或缺的...",
+      "priority": "medium",
+      "sectors": [
+        "机器人"
+      ],
+      "period": "night",
+      "date": "2026-07-11",
+      "time": "04:36",
+      "keywords": []
+    },
+    {
+      "title": "127家机构，“盯上”1家公司",
+      "source": "中国证券报-中证网",
+      "url": "https://finance.sina.com.cn/roll/2026-07-11/doc-inihmeqy6667040.shtml",
+      "content": "截至7月11日发稿，本周以来，华盛昌获127家机构调研，接受机构调研家数最多。 从调研行业情况来看，硬件设备、化工、机械等行业的受关注度较高。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-11",
+      "time": "04:14",
+      "keywords": []
+    },
+    {
+      "title": "AI“小登股”集体洗牌，是泡沫出清还是黄金坑？",
+      "source": "数据宝",
+      "url": "https://finance.sina.com.cn/wm/2026-07-11/doc-inihmerf5076414.shtml",
+      "content": "科技板块从“无差别抱团”走向分化，业绩能否超预期将成为关键分水岭。 超七成“小登股”回撤20%以上 2026年以来，A股市场结构性分化愈发显著，整体呈现典型的K形运行格局。",
+      "priority": "medium",
+      "sectors": [
+        "黄金",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-11",
+      "time": "04:13",
+      "keywords": []
+    },
+    {
+      "title": "诺安基金换帅：齐斌六年规模翻倍后离任 中化体系“老将”刘翔接棒",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/stock/observe/2026-07-11/doc-inihkyii5158190.shtml",
+      "content": "7月11日，诺安基金发布公告称，齐斌因个人原因离任公司总经理职务，原公司副总经理刘翔升任公司总经理。诺安基金表示，本次变动属正常人事调整...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-11",
+      "time": "03:59",
+      "keywords": []
+    },
+    {
       "title": "涨涨跌跌牵动人心，基金公司建议：不宜过多关注单日指数波动",
       "source": "市场资讯",
       "url": "https://finance.sina.com.cn/wm/2026-07-11/doc-inihkyia6736340.shtml",
@@ -504,6 +576,20 @@
       "keywords": []
     },
     {
+      "title": "【半年报】白糖：糖市延续弱现实强预期，仍需时间换空间",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-07-11/doc-inihmkxc5022364.shtml",
+      "content": "来源：一德菁英汇 作者：李晓威/F0275227、Z0010484/ 一德期货农业品分析师 要点速览版行情展望 市场格局：当前处于熊市收尾、牛熊转换的过渡期，三季度继续消化现实压力...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-11",
+      "time": "00:00",
+      "keywords": []
+    },
+    {
       "title": "有A股公司业绩预增超9倍！六氟磷酸锂需求旺盛，行业盈利能力显著增强",
       "source": "",
       "url": "https://finance.sina.com.cn/wm/2026-07-11/doc-inihktze6731954.shtml",
@@ -518,59 +604,17 @@
       "keywords": []
     },
     {
-      "title": "公募基金经理“去明星化”提速",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-11/doc-inihkptk3605910.shtml",
-      "content": "本报记者彭衍菘 在公募基金行业高质量发展背景下，越来越多的公募机构专注于“造体系”。 过去较长时间内，明星基金经理是公募基金规模增长的重要抓手，而随着市场风格切换...",
+      "title": "市场逻辑切换！化工板块将迎来结构性行情？",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/wm/2026-07-11/doc-inihktzh3517389.shtml",
+      "content": "来源：期货日报 2026年上半年，国内化工板块“先扬后抑”，各品种走势严重分化。下半年伊始，原油地缘风险溢价基本出清，多数化工品已回吐年内大部分涨幅。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "night",
       "date": "2026-07-10",
-      "time": "22:43",
-      "keywords": []
-    },
-    {
-      "title": "7月11日隔夜要闻：科技股推动美股收高 美国发布针对伊朗的新制裁措施 SK海力士纳斯达克挂牌开盘价170美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkptm8361626.shtml",
-      "content": "市场 7月11日收盘：科技股推动美股收高，标普指数本周上涨1.2% 7月11日美股成交额前20：Meta创2024年初以来最佳单周表现 7月11日热门中概股涨跌不一 阿里巴巴涨1.05%...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-10",
-      "time": "22:33",
-      "keywords": []
-    },
-    {
-      "title": "纽约汇市：美元指数三连跌 日元跑赢其他G10货币",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkptm8298480.shtml",
-      "content": " 随着美国与伊朗继续就永久和平协议展开谈判，美元指数连续第三个交易日下跌。日本呼吁国内养老金增持本国资产后，日元上涨，在G10货币中兑美元表现最佳。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-10",
-      "time": "21:26",
-      "keywords": []
-    },
-    {
-      "title": "各大汽车厂商驳回了英国一桩涉案金额数十亿英镑的大规模 “柴油门” 集体诉讼",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimr5182149.shtml",
-      "content": " 全球多家头部汽车制造商化解了笼罩整个行业、涉案金额高达数十亿美元的巨额法律风险——它们在这起大规模集体诉讼中大体胜诉，原告指控车企在柴油车排放检测中数据造假。",
-      "priority": "medium",
-      "sectors": [
-        "消费"
-      ],
-      "period": "night",
-      "date": "2026-07-10",
-      "time": "21:02",
+      "time": "23:42",
       "keywords": []
     },
     {
@@ -881,6 +925,62 @@
       ]
     },
     {
+      "title": "加速进化程昊：当前的人形机器人正处于类似iPhone2的历史时刻",
+      "source": "睿见Economy",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-11/doc-inihmerc8290680.shtml",
+      "content": "2026《中国企业家》未来之星年会于7月10日-11日在广州举行，主题为跃迁时刻。加速进化创始人、CEO程昊表示，具身大模型加人形机器人的发展路径...",
+      "priority": "low",
+      "sectors": [
+        "机器人"
+      ],
+      "period": "night",
+      "date": "2026-07-11",
+      "time": "04:45",
+      "keywords": []
+    },
+    {
+      "title": "灵心巧手郏筱佑：企业绝不能因为估值攀升而放弃对产品本身的追求",
+      "source": "睿见Economy",
+      "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-11/doc-inihmerf5062653.shtml",
+      "content": "2026《中国企业家》未来之星年会于7月10日-11日在广州举行，主题为跃迁时刻。灵心巧手（北京）科技有限公司联合创始人兼设计总监郏筱佑表示，面对估值飙升...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-11",
+      "time": "04:41",
+      "keywords": []
+    },
+    {
+      "title": "国际能源署：欧盟电气化推进迟缓实属失策",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-11/doc-inihmera3411724.shtml",
+      "content": " 国际能源署署长法提赫·比罗尔在与欧盟能源专员丹·约根森共同接受采访时表示，欧洲未能降低对化石燃料的依赖，此举是一大失误。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-07-11",
+      "time": "04:31",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：已下令在伊朗企图行刺的情况下“毁灭”该国",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-11/doc-inihmera3399793.shtml",
+      "content": " 美国总统唐纳德·特朗普在Truth Social发帖称，他已给军方下令：如果威胁要暗杀他的伊朗政府真的采取行动，那就“毁灭”伊朗所有地区。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-11",
+      "time": "04:04",
+      "keywords": []
+    },
+    {
       "title": "世界杯仅剩6队，AI冠军预测还剩几支？5票巴西已出局，算法名单大洗牌",
       "source": "新浪财经",
       "url": "https://finance.sina.com.cn/tech/shenji/2026-07-11/doc-inihkyia6735795.shtml",
@@ -944,6 +1044,20 @@
       "priority": "low",
       "sectors": [
         "半导体"
+      ],
+      "period": "night",
+      "date": "2026-07-11",
+      "time": "02:07",
+      "keywords": []
+    },
+    {
+      "title": "特朗普称已同意与伊朗继续谈判 据传双方通过卡塔尔“积极对话”",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/roll/2026-07-11/doc-inihkyii5078454.shtml",
+      "content": "来源：财联社 财联社7月11日讯（编辑 刘蕊）美东时间周五，美国总统特朗普表示，尽管上个月美伊初步协议所达成的停火协议已被取消，美国和伊朗已同意继续和平谈判。",
+      "priority": "low",
+      "sectors": [
+        "综合"
       ],
       "period": "night",
       "date": "2026-07-11",
@@ -1063,6 +1177,34 @@
       "keywords": []
     },
     {
+      "title": "【市场聚焦】棕榈油：马来局6月报告",
+      "source": "",
+      "url": "https://finance.sina.com.cn/wm/2026-07-11/doc-inihktzm5156950.shtml",
+      "content": "来源：中粮期货研究中心 摘要 本次报告项目偏差是即使国内消费超预期，但是出口需求差且进口增加，国内库存环比再度增加，产地需要解决库存偏高的隐患。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-11",
+      "time": "01:11",
+      "keywords": []
+    },
+    {
+      "title": "【市场聚焦】地缘下半场之化工分化（三）聚酯的春风十里",
+      "source": "",
+      "url": "https://finance.sina.com.cn/wm/2026-07-11/doc-inihktze6790226.shtml",
+      "content": "来源：中粮期货研究中心 一 通航预期下利润流向产业链下游 产业链各环节利润分配由各环节供需格局与库存水平决定。美伊冲突开战阶段原油供给收紧、油价上行...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-11",
+      "time": "01:11",
+      "keywords": []
+    },
+    {
       "title": "酒价内参7月11日价格发布：青花郎领涨 总价创近三日新高",
       "source": "酒业内参",
       "url": "https://finance.sina.com.cn/chanjing/jync/2026-07-11/doc-inihktze6780500.shtml",
@@ -1102,147 +1244,6 @@
       "period": "night",
       "date": "2026-07-10",
       "time": "23:43",
-      "keywords": []
-    },
-    {
-      "title": "遭连日舆论抨击后 Meta暂停AI图像生成功能",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkptk3621077.shtml",
-      "content": " 因该功能的退出授权机制连日饱受批评，好莱坞多家艺人经纪公司也提出质疑，Meta宣布停用一项允许用户调用公开Instagram账号素材生成图像的AI功能。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-07-10",
-      "time": "23:14",
-      "keywords": []
-    },
-    {
-      "title": "创业板深化改革落地满三月 投融资良性循环加速形成",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-11/doc-inihkptk3607621.shtml",
-      "content": "本报记者田鹏 资本市场改革蹄疾步稳，制度红利持续释放。中国证监会4月10日发布《关于深化创业板改革 更好服务新质生产力发展的意见》，落地至今已满3个月。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-10",
-      "time": "22:46",
-      "keywords": []
-    },
-    {
-      "title": "深圳证监局对乔某编造传播涉共进股份虚假信息立案调查",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-11/doc-inihkptm8367325.shtml",
-      "content": "本报记者田鹏 据7月10日中国证监会消息，经深圳证监局调查，7月6日，乔某（男）涉嫌编造传播涉及上市公司共进股份的虚假误导性信息，严重扰乱证券市场秩序，破坏公序良俗...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-10",
-      "time": "22:40",
-      "keywords": []
-    },
-    {
-      "title": "视频丨交火对峙暂缓 口水战却未停 美伊谈判事宜频现“罗生门”",
-      "source": "央视新闻客户端",
-      "url": "https://finance.sina.com.cn/world/2026-07-11/doc-inihktzh3498155.shtml",
-      "content": " 本月7日，美军以伊朗威胁霍尔木兹海峡航行为由，开启新一轮美伊冲突。截至目前，形势已逐渐趋缓，斡旋方卡塔尔的谈判代表也于10日抵达伊朗。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-10",
-      "time": "22:23",
-      "keywords": []
-    },
-    {
-      "title": "美国拟放宽对阿联酋的出口限制 为AI芯片销售敞开大门",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkptk3589188.shtml",
-      "content": " 特朗普政府计划放宽对阿联酋的出口管制，从而为这个海湾国家购买包括发展人工智能所需半导体在内的各类先进技术扫清障碍。",
-      "priority": "low",
-      "sectors": [
-        "半导体",
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-07-10",
-      "time": "22:11",
-      "keywords": []
-    },
-    {
-      "title": "美国要求伊朗宣布霍尔木兹海峡向所有船只开放",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkptm8311310.shtml",
-      "content": "美国政府高级官员表示，美方要求伊朗公开声明霍尔木兹海峡所有航道均向航运开放，并承诺不会袭击过境民用船只。 这些官员周五匿名向记者表示...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-10",
-      "time": "21:39",
-      "keywords": []
-    },
-    {
-      "title": "苹果起诉OpenAI窃取商业秘密 案件备受瞩目",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkptp5085817.shtml",
-      "content": " 苹果公司起诉OpenAI窃取商业秘密，指控这家人工智能初创公司及其硬件负责人参与一项有组织的行动，窃取有关苹果未发布产品的信息。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-07-10",
-      "time": "21:37",
-      "keywords": []
-    },
-    {
-      "title": "苹果起诉 OpenAI 及两名前员工窃取商业机密",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-11/doc-inihkptk3547777.shtml",
-      "content": "苹果公司于周五正式提起诉讼，将 OpenAI 以及两名苹果前员工列为被告，指控后者有预谋、系统性地拉拢苹果在职及离职员工，盗取苹果保密核心资料...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-07-10",
-      "time": "21:15",
-      "keywords": []
-    },
-    {
-      "title": "古巴能源部表示电力系统全面瘫痪",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimp8409174.shtml",
-      "content": "古巴能源部在X平台发文称，正在启动恢复方案。 在此次新一轮停电之前，古巴曾于周一宣布大部分地区陷入断电。",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "night",
-      "date": "2026-07-10",
-      "time": "21:06",
-      "keywords": []
-    },
-    {
-      "title": "7月11日美股成交额前20：Meta创2024年初以来最佳单周表现",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-11/doc-inihkimk6888600.shtml",
-      "content": "周五美股成交额第1名英伟达收高4.03%，成交307.51亿美元。周五有报道称，特朗普政府计划放宽对阿联酋的出口管控，为其采购包括商业卫星和用于人工智能的半导体在内的多种先...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-10",
-      "time": "20:55",
       "keywords": []
     },
     {
