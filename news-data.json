@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T17:44:06.650652",
+  "updated": "2026-07-14T19:53:02.728363",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,123 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 24,
-    "medium": 37,
-    "low": 89
+    "high": 26,
+    "medium": 36,
+    "low": 88
   },
   "items": [
+    {
+      "title": "IBM业绩预警股价重挫，引发软件板块连锁暴跌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivu1176538.shtml",
+      "content": " IBM周二盘前公布的第二季度初步业绩大幅不及预期，引发股价创下近四十年来最大单日跌幅，并拖累整个软件板块集体下挫。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:39",
+      "keywords": []
+    },
+    {
+      "title": "纽约汇市：美元指数走低 美国通胀降温削弱加息预期",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivv7945508.shtml",
+      "content": "美元指数随美国国债收益率下跌，此前美国通胀数据显示，消费者价格指数在6月出现六年来首次下降。 美元即期指数一度下跌0.6%，触及日内低点，随后收窄跌幅。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:28",
+      "keywords": []
+    },
+    {
+      "title": "瑞士监管机构调查Android搜索设置，谷歌股价承压",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivs5004505.shtml",
+      "content": "瑞士竞争监管机构（COMCO）周二宣布，已对谷歌公司展开调查，以审查其Android操作系统上的搜索引擎设置是否违反了该国竞争法。受此消息影响...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:19",
+      "keywords": []
+    },
+    {
+      "title": "CleanSpark签下66亿美元数据中心租约，股价大涨",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivv7928710.shtml",
+      "content": " 比特币矿企CleanSpark周二宣布，已与一家未具名的全球科技公司就其位于佐治亚州桑德斯维尔的数据中心园区签署了一份为期20年的基础设施租赁协议。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:03",
+      "keywords": []
+    },
+    {
+      "title": "尾盘：通胀数据与芯片股反弹推动标普500指数上涨",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivv7921576.shtml",
+      "content": " 北京时间7月15日凌晨，美股周二尾盘涨跌不一。IBM发布盈利预警后股价暴跌。交易员正权衡大量企业财报和油价上涨。美国6月CPI同比增长3.5%低于预期。",
+      "priority": "high",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "18:53",
+      "keywords": []
+    },
+    {
+      "title": "芝加哥联储行长：服务业通胀仍过高 但最新CPI数据意外温和",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvivu1143455.shtml",
+      "content": " 芝加哥联储行长奥斯坦·古尔斯比表示，周二公布的消费者价格指数报告“意外温和”，但决策者需要不止一个月的数据来评估通胀是否朝着央行2%的目标回落。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "18:51",
+      "keywords": []
+    },
+    {
+      "title": "电动汽车制造商Lucid聘请重组顾问后股价创纪录暴跌57%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvivv7919362.shtml",
+      "content": "知情人士称，Lucid Group Inc．正与重组顾问合作，以扭转经营困境，消息导致这家电动汽车制造商股价跌幅创纪录。 知情人士称，咨询公司AlixPartners已受聘审查Lucid运营的...",
+      "priority": "high",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "18:50",
+      "keywords": []
+    },
+    {
+      "title": "沃什称现有基础通胀指标不理想 “超有兴趣”找到新监测工具",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvcpw1259013.shtml",
+      "content": "美联储主席凯文·沃什表示，他“超有兴趣”找到新的指标来更好地监测通胀，从而帮助央行做决策。 沃什在众议院一委员会作证时做此表态。 沃什说，他没有偏好的通胀衡量指标。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "18:26",
+      "keywords": []
+    },
     {
       "title": "美联储主席沃什淡化CPI数据影响 重申抗通胀和对央行改革决心",
       "source": "环球市场播报",
@@ -66,90 +178,6 @@
       "period": "noon",
       "date": "2026-07-14",
       "time": "16:58",
-      "keywords": []
-    },
-    {
-      "title": "美债在美国CPI降温后走强 市场将7月美联储加息押注下调至20%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihuxfz8065986.shtml",
-      "content": "美国消费者价格数据低于预期后，美国国债上涨，交易员削减了对美联储短期内加息的押注。 对美联储近期货币政策前景敏感的两年期美国国债收益率一度下跌14个基点，至4.14%...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "16:08",
-      "keywords": []
-    },
-    {
-      "title": "午盘：美股涨跌不一 IBM重挫逾25%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihuxfz8064527.shtml",
-      "content": " 北京时间7月15日凌晨，美股周二午盘涨跌不一。IBM发布盈利预警后股价暴跌25%。交易员正权衡大量企业财报和油价上涨。美国6月CPI同比增长3.5%低于预期。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "16:06",
-      "keywords": []
-    },
-    {
-      "title": "沃什谈美国最新CPI：“大功告成”并非我的看法",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihuxfu8402504.shtml",
-      "content": "美联储主席凯文·沃什表示，今天发布的CPI数据没有让他觉得“大功告成”或“一切皆好”。 沃什在众议院一个委员会的听证会上讲话。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "16:03",
-      "keywords": []
-    },
-    {
-      "title": "SK海力士在美国上市的第三个交易日大涨",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-14/doc-inihuxfw5175248.shtml",
-      "content": "受半导体相关股票普遍上涨的影响，SK海力士的美国存托凭证在其上市后的第三个交易日一度上涨高达20%。 SK海力士股价在周一下跌9.3%...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "15:55",
-      "keywords": []
-    },
-    {
-      "title": "美国CPI出现2020年以来首次环比下降 核心指标持平",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-14/doc-inihuxfw5170749.shtml",
-      "content": "美国消费者价格指数在6月份出现六年来首次下降，衡量基础通胀的关键指标几无变化，缓解了美联储加息压力。 根据美国劳工统计局周二公布的数据...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "15:43",
-      "keywords": []
-    },
-    {
-      "title": "美联储主席沃什称五个工作组正处于摸底阶段",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-14/doc-inihuxfy1262564.shtml",
-      "content": "美联储主席凯文·沃什在华盛顿对众议院一个委员会表示，他设立的五个工作组目前正处于“摸底阶段”。 他还表示，相关小组将“首先向决策者”分享看法。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "15:27",
       "keywords": []
     },
     {
@@ -379,6 +407,132 @@
       ]
     },
     {
+      "title": "传台积电拟上调成熟制程报价，Wedbush向投资者发出信号",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivu1179860.shtml",
+      "content": " Wedbush Securities周二向台积电投资者发出提示，据媒体报道这家全球晶圆代工龙头可能将于2027年初上调成熟制程芯片价格，这将是三年多来首次针对非先进制程的调价行动。",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:44",
+      "keywords": []
+    },
+    {
+      "title": "Concentrix因业绩不及预期面临证券欺诈调查",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivq8232631.shtml",
+      "content": "知名股东权利律师事务所Levi &amp; Korsinsky周二宣布，已代表Concentrix Corporation（纳斯达克代码：CNXC）投资者启动证券欺诈调查，事涉该公司可能违反联邦证券法。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:33",
+      "keywords": []
+    },
+    {
+      "title": "KeyBanc下调苹果评级 因担忧涨价抑制需求",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivv7939785.shtml",
+      "content": "投资银行KeyBanc Capital Markets周二将苹果公司股票评级从“与大盘同步”下调至“减持”，并设定目标价为250美元，理由是iPhone涨价可能抑制需求，且服务业务增长前景趋弱。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:18",
+      "keywords": []
+    },
+    {
+      "title": "IBM预警引发软件板块连锁下跌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivs5003613.shtml",
+      "content": "IBM周二盘前发布第二季度业绩预警，因营收和利润均低于市场预期，引发市场对企业技术支出前景的广泛担忧，拖累软件板块集体走低。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:17",
+      "keywords": []
+    },
+    {
+      "title": "IBM预警Q2业绩不及预期，CEO坦言应对不力",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivs5002464.shtml",
+      "content": "科技巨头IBM周二盘前公布的第二季度初步业绩显示，营收和利润均低于市场预期，公司首席执行官阿温德·克里希纳承认未能及时适应客户支出模式的急剧变化。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:14",
+      "keywords": []
+    },
+    {
+      "title": "KeyBanc下调苹果评级 担忧其增长前景",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivu1157727.shtml",
+      "content": "投资银行KeyBanc Capital Markets周二将苹果公司股票评级从“与大盘同步”下调至“减持”，并设定目标价为250美元，理由是美国市场硬件需求疲软以及市场对2027财年的增长预期过...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:10",
+      "keywords": []
+    },
+    {
+      "title": "芯片板块波动率飙升至2020年以来最高水平",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivv7923782.shtml",
+      "content": "半导体股票的波动幅度已达到自疫情初期以来的最高水平，这表明市场最青睐的人工智能交易已变得多么动荡。iShares半导体ETF（SOXX）今日上涨逾3%，而周一该基金下跌了4...",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "18:57",
+      "keywords": []
+    },
+    {
+      "title": "瑞穗下调Circle股票评级，称价格压力迫近",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivs4994176.shtml",
+      "content": " 瑞穗将Circle的评级下调至“跑输大盘”，并将其目标股价从85美元下调至50美元，称Open USD（OUSD）的推出可能会颠覆该公司的稳定币商业模式。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "18:56",
+      "keywords": []
+    },
+    {
+      "title": "苹果股票获得罕见的看跌评级 KeyBanc表示需求和估值令人担心",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvivs4993618.shtml",
+      "content": "苹果公司罕见地获得看跌评级，KeyBanc Capital Markets将该股评级下调至低配，理由是担心需求和估值。 Brandon Nispel此前对苹果股票的评级相当于“持有”，他表示...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "18:54",
+      "keywords": []
+    },
+    {
       "title": "更换隐喻不再谈“飓风” 戴蒙改用“地壳板块”解读风险",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvcpu5090908.shtml",
@@ -446,146 +600,6 @@
       "period": "noon",
       "date": "2026-07-14",
       "time": "16:28",
-      "keywords": []
-    },
-    {
-      "title": "巴菲特拟8年内处置全部所持伯克希尔股份 盖茨基金会未获捐赠",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihuxfu8403631.shtml",
-      "content": " 沃伦·巴菲特正加快每年向由三个子女运营的慈善基金会捐赠伯克希尔股票的步伐，这意味着他势将在未来八年内全部处置所持伯克希尔股份。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "16:04",
-      "keywords": []
-    },
-    {
-      "title": "Esquire Financial Holdings将于7月23日发布第二季度财报",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuxfw5176035.shtml",
-      "content": "Esquire Financial Holdings， Inc．（股票代码：ESQ）今日宣布，计划于2026年7月23日（星期四）美国金融市场收盘后，发布其2026年第二季度的财务业绩报告。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "15:57",
-      "keywords": []
-    },
-    {
-      "title": "富国银行第二季度业绩超预期 受财富管理和投行业务提振",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-14/doc-inihuxfw5172288.shtml",
-      "content": "富国银行第二季度业绩超出华尔街预期，得益于财富管理和投资银行业务中间费收入增长。 根据该行周二发布的声明，第二季度非利息收入增长13%至103亿美元...",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "15:47",
-      "keywords": []
-    },
-    {
-      "title": "Madrona在纽约证交所聚焦AI应用私营公司",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuxfy1269139.shtml",
-      "content": "纽约证券交易所今日发布内容更新，披露了知名风险投资机构Madrona在近期活动中重点介绍的一批正在构建人工智能应用的私营公司。此次内容更新正值市场对AI技术商业化落地高...",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "15:39",
-      "keywords": []
-    },
-    {
-      "title": "万豪度假全球公司将于7月30日发布第二季度财报并举行电话会议",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuxfz8041069.shtml",
-      "content": "万豪度假全球公司（NYSE： VAC）今日宣布，将于2026年7月30日（星期四）美国东部时间上午8点30分发布2026年第二季度财务业绩报告，并同时举行面向投资者的电话会议。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "15:32",
-      "keywords": []
-    },
-    {
-      "title": "牛津经济研究院报告：酒吧每年为美国贡献超2500亿美元经济价值",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuxfu8385167.shtml",
-      "content": "牛津经济研究院受百威英博委托发布的最新研究显示，酒吧行业对美国经济具有显著影响。报告指出，酒吧及相关场所每年为美国经济贡献超过2500亿美元...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "15:23",
-      "keywords": []
-    },
-    {
-      "title": "长鑫科技，发行价定了！7月16日申购",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-14/doc-inihuxfz8041720.shtml",
-      "content": "来源：中国基金报 【导读】长鑫科技，发行价定了！7月16日申购 中国基金报记者 张舟 7月14日，长鑫科技公告称，公司首次公开发行股票并在科创板上市，发行价格为8...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "15:23",
-      "keywords": []
-    },
-    {
-      "title": "花旗集团二季度净利润大增45%，营收创十年新高",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuxfy1258351.shtml",
-      "content": "花旗集团周二公布的第二季度财报显示，受益于交易和投行业务全面爆发，公司当季净利润同比增长45%至59亿美元，合每股收益2.88美元，远超市场预期的2.43美元。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "15:21",
-      "keywords": []
-    },
-    {
-      "title": "黑石抵押信托将于7月28日盘后公布Q2财报",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuxfw5159700.shtml",
-      "content": "商业房地产贷款机构黑石抵押信托公司（Blackstone Mortgage Trust， Inc．）近日宣布，将于2026年7月28日（周二）美股收盘后发布第二季度财务业绩。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "15:18",
-      "keywords": []
-    },
-    {
-      "title": "PennyMac Financial将于7月30日盘后公布Q2财报",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuxfw5158926.shtml",
-      "content": "美国抵押贷款银行和服务商PennyMac Financial Services Inc． 近日宣布，将于2026年7月30日（周四）美股收盘后发布第二季度财务业绩。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "15:17",
       "keywords": []
     },
     {
@@ -944,6 +958,272 @@
       ]
     },
     {
+      "title": "富士通推出AI驱动现代化服务，助力遗留系统转型",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivs5016093.shtml",
+      "content": "富士通周二宣布推出一项全新的AI驱动现代化服务，旨在帮助企业加速对其老旧IT系统的改造。该服务将人工智能技术深度整合进系统分析和代码转换等关键环节...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:52",
+      "keywords": []
+    },
+    {
+      "title": "Krispy Kreme庆89岁生日，将在周五推出限时优惠活动",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivs5015647.shtml",
+      "content": " 为庆祝品牌成立89周年，Krispy Kreme将于7月17日（周五）推出限时优惠活动，顾客仅需89美分即可购得一打招牌原味糖霜甜甜圈。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:51",
+      "keywords": []
+    },
+    {
+      "title": "Redwood Logistics借助ZoomInfo，单次点击成本锐减近99%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivu1182822.shtml",
+      "content": " 供应链解决方案提供商Redwood Logistics近日宣布，通过使用ZoomInfo平台，其数字广告的单次点击成本（CPC）锐减近99%，最低降至1.20美元，同时点击率提升了310%。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:50",
+      "keywords": []
+    },
+    {
+      "title": "亚马逊、微软领衔数据中心需求狂潮，运营商寻求数十亿美元融资",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivv7957886.shtml",
+      "content": " 随着人工智能基础设施投资持续飙升，亚马逊、微软、Meta和谷歌等科技巨头正推动全球数据中心需求激增，引发运营商大规模出售股权以筹集扩张资金。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:47",
+      "keywords": []
+    },
+    {
+      "title": "Uber深入洽谈收购Delivery Hero，或重塑全球外卖格局",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivq8237173.shtml",
+      "content": " 网约车巨头Uber正与德国外卖平台Delivery Hero就潜在收购进行深入谈判，双方最快可能于本周达成协议。这笔交易有望显著扩大Uber Eats在美国以外的全球送餐业务版图。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:45",
+      "keywords": []
+    },
+    {
+      "title": "Oracle推出统一AI Agent构建工具，融合无代码与专业开发",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivu1177996.shtml",
+      "content": "甲骨文公司周二宣布为Oracle Fusion Cloud Applications推出全新的AI原生构建体验，将无代码、低代码和专业开发工具整合在同一个平台上...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:41",
+      "keywords": []
+    },
+    {
+      "title": "美国支持伊拉克-叙利亚输油管道项目 以削弱伊朗影响力",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivv7953275.shtml",
+      "content": " 美国正在推进一项有关石油管道的谈判，该管道将把伊拉克的石油输送到叙利亚，由于避开了霍尔木兹海峡，因此将会削弱未来伊朗对全球能源供应的影响力。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:39",
+      "keywords": []
+    },
+    {
+      "title": "NextCure因合并交易面临股东调查",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivs5010829.shtml",
+      "content": "多家股东权利律师事务所已对生物技术公司NextCure启动调查，事涉该公司与Avere Therapeutics的合并交易可能损害股东利益。受调查消息影响，NextCure股价近期持续承压...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:37",
+      "keywords": []
+    },
+    {
+      "title": "Vision Marine完成1630万美元市价股票发行计划",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivq8233402.shtml",
+      "content": "Vision Marine Technologies Inc．周二宣布，其此前公布的市价股票发行计划已顺利完成，共募集约1630万美元总收益。这家总部位于魁北克省布瓦布里昂的船舶电力推进技术公司...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:35",
+      "keywords": []
+    },
+    {
+      "title": "Banner Bank发布2025年企业责任报告",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivq8232187.shtml",
+      "content": "Banner Bank周二发布了其《2025年企业责任报告》，详细阐述了公司在社区服务、公司治理、人才培养和环境保护等方面的实践与成果。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:32",
+      "keywords": []
+    },
+    {
+      "title": "Triller Group因证券欺诈问题遭投资者调查",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivq8231453.shtml",
+      "content": " DJS律师事务所周二宣布，已代表Triller Group Inc．的投资者启动证券欺诈调查。该公司运营社交媒体平台Triller App及香港金融服务业务AGBA集团，股票代码为ILLR。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:30",
+      "keywords": []
+    },
+    {
+      "title": "Mercado Pago巴西负责人谈信贷质量与增长机遇",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivu1170019.shtml",
+      "content": "Mercado Libre旗下金融科技部门Mercado Pago巴西高级副总裁兼国家主管Andre Chaves在最新一期投资者关系播客中表示，对巴西业务前景非常乐观...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:29",
+      "keywords": []
+    },
+    {
+      "title": "Intuit因证券欺诈调查面临投资者索赔",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivs5007037.shtml",
+      "content": "知名股东权利律师事务所Glancy Prongay Wolke &amp; Rotter LLP周二宣布，已代表Intuit公司投资者启动证券欺诈调查，事涉该公司可能违反联邦证券法。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:27",
+      "keywords": []
+    },
+    {
+      "title": "ComEd节能项目助力北伊利诺伊数十万小企业降本增效",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivq8228393.shtml",
+      "content": "面对持续上涨的运营成本，美国伊利诺伊州最大电力公司ComEd周二宣布，其面向小企业的能效项目已取得重要里程碑：超过10万家小企业完成了免费设施评估...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:21",
+      "keywords": []
+    },
+    {
+      "title": "伊朗称战时必须控制整个霍尔木兹海峡",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivq8228075.shtml",
+      "content": " 伊朗副外长Kazem Gharibabadi在接受电视采访时表示：“在战时状态下，我们的控制范围必须延伸至整个霍尔木兹海峡，而不仅仅是我们自己的一侧。”",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:20",
+      "keywords": []
+    },
+    {
+      "title": "美银Q2全线业务增长，利润大增27%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivs4999745.shtml",
+      "content": " 美国银行周二公布的第二季度财报显示，其各项业务均实现增长，推动利润和营收双双超出市场预期。在经济显现韧性的背景下，交易、投行和贷款业务成为主要驱动力。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:08",
+      "keywords": []
+    },
+    {
+      "title": "Strategy募资4.67亿美元，现金储备增至30亿美元但暂停增持比特币",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivv7926572.shtml",
+      "content": " 全球最大企业比特币持有者Strategy通过普通股发行募集约4.67亿美元，将现金储备推高至30亿美元，但连续第三周未买入任何比特币。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:01",
+      "keywords": []
+    },
+    {
+      "title": "德意志银行法兰克福分行遭德国当局突击搜查",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvivs4994639.shtml",
+      "content": "法兰克福检察官办公室在声明中称，德国执法人员周二搜查了德意志银行法兰克福总部的一家零售分行。 检方一名发言人表示，出于调查相关原因，无法披露更多细节。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "18:57",
+      "keywords": []
+    },
+    {
+      "title": "报道：美军正在对伊朗实施空袭",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvivu1144389.shtml",
+      "content": "美国广播公司（ABC）援引一位美国官员报道称，美军正对伊朗实施空袭。 报道称，空袭行动已持续数小时。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "18:52",
+      "keywords": []
+    },
+    {
       "title": "特朗普宣称将与伊拉克达成“庞大”的石油交易",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvcps8309733.shtml",
@@ -1011,286 +1291,6 @@
       "period": "noon",
       "date": "2026-07-14",
       "time": "16:31",
-      "keywords": []
-    },
-    {
-      "title": "帕利哈皮蒂亚：AI 词元调用成本激增，将侵蚀企业盈利",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvcps8281719.shtml",
-      "content": "核心要点 科技投资人查马斯・帕利哈皮蒂亚表示，大规模使用人工智能或将对部分企业的盈利造成负面影响。 帕利哈皮蒂亚在接受美国消费者新闻与商业频道采访时称：“在我看来...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "16:24",
-      "keywords": []
-    },
-    {
-      "title": "花旗由涨转跌 因首席执行官警告称投资支出将增加",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihuxfu8403965.shtml",
-      "content": " 花旗集团首席执行官范洁恩表示，若经济环境继续保持有利，花旗将“加大投资力度并采取其他行动”，公司股价随后回吐早前涨幅。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "16:05",
-      "keywords": []
-    },
-    {
-      "title": "ADP发布2026年6月私营部门就业初步估算",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihuxfz8062238.shtml",
-      "content": "ADP公司今日发布了2026年6月全美私营部门就业报告的初步估算数据。这份备受关注的月度报告通常在劳工统计局官方非农就业数据公布前两天发布...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "16:04",
-      "keywords": []
-    },
-    {
-      "title": "MDA Space完成超额认购的公开增发",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihuxfy1285207.shtml",
-      "content": "MDA Space Ltd．（TSX： MDA）今日宣布，已完成此前公布的增额公开增发普通股交易。此次发行的最终规模超过原定计划，反映出市场对这家加拿大航天科技公司前景的强劲需求。...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "16:03",
-      "keywords": []
-    },
-    {
-      "title": "JBT自动化系统正式更名为FORMOVA",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihuxfw5178898.shtml",
-      "content": "JBT Corporation（股票代码：JBTM）今日宣布，其旗下的自动化系统业务部门已完成品牌重塑，正式更名为“FORMOVA”。这一更名标志着该业务单元在战略定位和市场形象上的重要转...",
-      "priority": "low",
-      "sectors": [
-        "机器人"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "16:02",
-      "keywords": []
-    },
-    {
-      "title": "Runway Growth Capital宣布CFO任命及领导层调整",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihuxfz8059908.shtml",
-      "content": "Runway Growth Capital LLC（股票代码：RWAY）今日宣布两项重要人事任命：Carmela Thomson将出任公司首席财务官，原首席财务官Tom Raterman则将转任副董事长。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "16:01",
-      "keywords": []
-    },
-    {
-      "title": "Caris Life Sciences推出PTEN IHC检测拓展转移性前列腺癌精准肿瘤学",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuxfz8058037.shtml",
-      "content": "Caris Life Sciences（股票代码：CAI）今日宣布，正式推出PTEN蛋白免疫组化检测服务，以进一步拓展其在转移性前列腺癌精准肿瘤学领域的解决方案。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "15:59",
-      "keywords": []
-    },
-    {
-      "title": "PTC推出Onshape Labs将AI融入产品开发流程",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuxfy1280856.shtml",
-      "content": "PTC（股票代码：PTC）今日宣布推出Onshape Labs，这是一项旨在将人工智能功能深度整合进产品开发流程的全新计划。该举措标志着PTC在推动设计工程智能化方面迈出重要一步...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "15:58",
-      "keywords": []
-    },
-    {
-      "title": "HawkEye 360探路者卫星模型入驻史密森尼国家航空航天博物馆新展",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuxfw5175708.shtml",
-      "content": "HawkEye 360 Inc．（股票代码：HAWK）今日宣布，其“探路者”（Pathfinder）卫星的全尺寸模型已被收录至美国史密森尼国家航空航天博物馆的最新展览中。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "15:56",
-      "keywords": []
-    },
-    {
-      "title": "Century Lithium董事会主席变更",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuxfz8054802.shtml",
-      "content": "Century Lithium Corp．（TSXV： LCE， FRA： C1Z， OTCQX： CYDVF）今日宣布，公司董事会领导层发生变更。根据公司发布的公告，原董事会主席已卸任...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "15:55",
-      "keywords": []
-    },
-    {
-      "title": "IceCure扩编美国商业团队应对ProSense冷冻消融需求增长",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuxfy1278281.shtml",
-      "content": "IceCure Medical Ltd．（股票代码：ICCM）今日宣布，为应对其核心产品ProSense®冷冻消融系统在美国市场日益增长的需求，公司已显著扩充其美国商业团队。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "15:55",
-      "keywords": []
-    },
-    {
-      "title": "Anixa Biosciences乳腺癌疫苗技术获澳大利亚专利批准",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuxfu8397020.shtml",
-      "content": "Anixa Biosciences（股票代码：ANIX）今日宣布，其开发的乳腺癌疫苗技术已获得澳大利亚专利局的专利批准。这一进展标志着该公司在全球知识产权布局上取得重要成果...",
-      "priority": "low",
-      "sectors": [
-        "医药"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "15:51",
-      "keywords": []
-    },
-    {
-      "title": "First Bancorp收购First Carolina Bancshares拓展南卡罗来纳业务",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuxfu8396077.shtml",
-      "content": "First Bancorp（股票代码：FBNC）今日宣布，已达成最终协议，收购First Carolina Bancshares Corporation，以此扩大其在美国南卡罗来纳州的市场版图。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "15:48",
-      "keywords": []
-    },
-    {
-      "title": "加拿大公司量子风险评估方案获保险公司采购",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuxfz8050460.shtml",
-      "content": "一家未具名的全球性保险公司近日正式采购了加拿大Quantum Science Engineering Corp．（XCNQ： QSE）开发的量子风险分析工具包，用于强化其承保与资产组合的风险评估能力。...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "15:47",
-      "keywords": []
-    },
-    {
-      "title": "Doubleview公司Hat铜金矿项目2026年钻探获新进展",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuxfz8043924.shtml",
-      "content": "Doubleview Gold Corp． （FRA： 1D4） 今日宣布，其在加拿大不列颠哥伦比亚省西北部的重要矿产项目——“Hat”铜金矿的2026年钻探计划取得积极进展。",
-      "priority": "low",
-      "sectors": [
-        "有色"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "15:36",
-      "keywords": []
-    },
-    {
-      "title": "仅过一日 特朗普放弃对霍尔木兹海峡征收20%的保护费",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-14/doc-inihuxfy1267357.shtml",
-      "content": " 美国总统唐纳德·特朗普对航经霍尔木兹海峡的货运征收20%补偿费的想法被广泛批评为不切实际后，他仅仅过了一天便放弃了该计划。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "15:36",
-      "keywords": []
-    },
-    {
-      "title": "因涉嫌挪用资金，600730董事长被刑事立案",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-14/doc-inihuxfz8047177.shtml",
-      "content": "聚焦一： *ST高科（600730）：因涉嫌挪用资金 实控人曹龙、贺怡帆被刑事立案 公司于近日收到公安局签发的关于公司实际控制人之一暨董事长曹龙及实际控制人之一暨董事贺怡帆...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "15:35",
-      "keywords": []
-    },
-    {
-      "title": "特朗普改主意 宣布将以贸易协议取代20%的霍尔木兹海峡保护费",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-14/doc-inihuxfy1265546.shtml",
-      "content": " 美国总统特朗普在Truth Social上发帖说：“我已决定用海湾各国将同美国达成的贸易和投资协议来取代美国收取的20%补偿费。”",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "15:33",
-      "keywords": []
-    },
-    {
-      "title": "Oso Internet Solutions携手Adtran，为纳瓦霍部落偏远社区铺设光纤宽带",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuxfz8040800.shtml",
-      "content": "互联网服务提供商Oso Internet Solutions近日宣布，已利用Adtran的技术，成功为美国最偏远的纳瓦霍部落社区之一部署了光纤宽带网络。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "15:31",
-      "keywords": []
-    },
-    {
-      "title": "ChargePoint与Onvo扩大美国东北部高速公路快充网络",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-14/doc-inihuxfu8383422.shtml",
-      "content": "美国电动汽车充电网络运营商ChargePoint Holdings宣布，与旅行中心运营商Onvo合作，在美国东北部地区扩大高速公路快速充电网络。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "15:20",
       "keywords": []
     },
     {
