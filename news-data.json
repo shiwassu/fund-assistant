@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-14T19:53:02.728363",
+  "updated": "2026-07-14T21:33:57.460168",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,68 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 26,
-    "medium": 36,
+    "high": 27,
+    "medium": 35,
     "low": 88
   },
   "items": [
+    {
+      "title": "美国债市：通胀降温推动美债上涨 市场削减美联储加息押注",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivv7988008.shtml",
+      "content": "美国国债收益率收盘脱离盘中低点，曲线牛市陡峭走势略有减弱。美国国债期货在早盘时段大涨，短期国债和中期国债领涨，推动短债收益率在尾盘下跌约8个基点。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "20:32",
+      "keywords": []
+    },
+    {
+      "title": "美联储鲍曼：不应在AI等问题上“微观管理”银行",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivq8251722.shtml",
+      "content": " 美联储负责监管的副主席米歇尔·鲍曼表示，银行更了解与创新相关的风险，应由其自行决定何时采用人工智能（AI）等新技术。",
+      "priority": "high",
+      "sectors": [
+        "金融",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "20:24",
+      "keywords": []
+    },
+    {
+      "title": "7月15日收盘：芯片股推动美股收高，温和通胀数据推动市场反弹",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivs5022331.shtml",
+      "content": " 北京时间7月15日凌晨，美股周二收高。IBM发布盈利预警后股价暴跌25%。交易员正权衡大量企业财报和美伊局势。美国6月CPI同比增长3.5%低于预期。",
+      "priority": "high",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "20:07",
+      "keywords": []
+    },
+    {
+      "title": "富兰克林坦伯顿公布旗下封闭式基金7至9月分配方案",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivq8240831.shtml",
+      "content": "富兰克林坦伯顿周二宣布，旗下部分封闭式基金已根据管理分配政策，确定了2026年7月、8月和9月的月度分配方案。 根据公告，Franklin Universal Trust基金维持每月每0...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:56",
+      "keywords": []
+    },
     {
       "title": "IBM业绩预警股价重挫，引发软件板块连锁暴跌",
       "source": "环球市场播报",
@@ -136,48 +193,6 @@
       "period": "noon",
       "date": "2026-07-14",
       "time": "17:24",
-      "keywords": []
-    },
-    {
-      "title": "特朗普：伊朗或被添加到可能通过的对俄制裁法案中",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvcps8306644.shtml",
-      "content": "美国总统特朗普表示，与伊朗相关的处罚措施可能会被添加到国会正在制定、且得到白宫支持的俄罗斯制裁法案中。 特朗普补充说，该法案有可能成为法律。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "17:17",
-      "keywords": []
-    },
-    {
-      "title": "欧洲股市上涨 美国通胀数据缓解加息担忧",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvcpw1195750.shtml",
-      "content": "欧洲股市上涨，此前数据显示美国消费者价格指数在6月出现六年来首次下降。 斯托克欧洲600指数收涨0.2%，此前盘中一度下跌0.9%。基础资源和能源板块领涨...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "17:02",
-      "keywords": []
-    },
-    {
-      "title": "欧洲债市：德国国债价格因加息预期减弱而反弹",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvcpx7968973.shtml",
-      "content": "在数据显示美国通胀意外下降，促使交易员减少对大西洋两岸加息的押注之后，德国政府债券跌幅收窄。 市场预期欧洲央行到12月将累计加息42个基点...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "16:58",
       "keywords": []
     },
     {
@@ -407,6 +422,48 @@
       ]
     },
     {
+      "title": "7月15日美股成交额前20：IBM业绩预警股价重挫逾25%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivv7995999.shtml",
+      "content": "周二美股成交额第1名美光科技收高4.92%，成交297.18亿美元。华尔街机构预测，美光及整个芯片行业在2027年将创造约7000亿美元利润。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "20:44",
+      "keywords": []
+    },
+    {
+      "title": "7月15日热门中概股涨跌不一 小鹏汽车涨3.28%，百度跌3.23%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivu1204142.shtml",
+      "content": "7月15日热门中概股涨跌不一，纳斯达克中国金龙指数（HXC）收跌0.11%。 上涨个股（按市值从高到低）：联电涨1.75%，携程涨0.12%，贝壳涨0.12%，富途控股涨1.85%...",
+      "priority": "medium",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "20:19",
+      "keywords": []
+    },
+    {
+      "title": "迪士尼将于8月5日盘后发布2026财年第三季度财报",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivq8241313.shtml",
+      "content": "华特迪士尼公司周二宣布，将于2026年8月5日周三美股开盘前，正式发布其2026财年第三季度截至6月27日的财务业绩。财报结果及相关材料将于当天股市开盘前通过迪士尼官网投资...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:57",
+      "keywords": []
+    },
+    {
       "title": "传台积电拟上调成熟制程报价，Wedbush向投资者发出信号",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivu1179860.shtml",
@@ -544,62 +601,6 @@
       "period": "noon",
       "date": "2026-07-14",
       "time": "17:36",
-      "keywords": []
-    },
-    {
-      "title": "摩根大通敦促员工慎用高价AI处理简单任务 企业高管开始忧心成本",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvcpx7979023.shtml",
-      "content": "随着可供金融业使用的人工智能工具不断增多，摩根大通正在尝试更有策略地决定何时使用更为成熟、也更为昂贵的模型。 “总结一份分析师报告，真的不需要最新...",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "17:10",
-      "keywords": []
-    },
-    {
-      "title": "高盛公布亮眼业绩后启动高评级债券发行 拟筹资至少80亿美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvcps8301460.shtml",
-      "content": "高盛在公布创纪录的股票交易收入后，计划通过发行高评级债券融资至少80亿美元，适逢美国通胀弱于预期提振了信贷市场。 据知情人士透露，发行规模可能根据投资者需求扩大...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "17:07",
-      "keywords": []
-    },
-    {
-      "title": "华尔街多家大行披露成本增加 交易业务光环下暗藏隐忧",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvcpw1196367.shtml",
-      "content": "华尔街各大银行交易部门第二季度业绩纷纷刷新纪录，但对部分银行而言，唯一可能冲淡这场庆祝气氛的是成本上升。 交易活动火爆往往会推高银行成本...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "17:03",
-      "keywords": []
-    },
-    {
-      "title": "巴菲特加速慈善捐赠，计划 2034 年前捐出全部伯克希尔资产",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvcpu5060436.shtml",
-      "content": "作者：亚历克斯・克里彭 核心要点 巴菲特加快捐赠节奏 定下八年清空全部持股目标 本次向四家家族基金会捐赠近 60 亿美元 永久停止向盖茨基金会捐款...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "16:28",
       "keywords": []
     },
     {
@@ -958,6 +959,62 @@
       ]
     },
     {
+      "title": "原油：中东冲突升级 油价升至一个月来最高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivs5033508.shtml",
+      "content": "油价周二升至一个月来的最高水平，交易员消化了美国总统特朗普在霍尔木兹海峡货运收费问题上的立场大逆转，与此同时该海峡又有更多船只遭到伊朗袭击...",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "20:40",
+      "keywords": []
+    },
+    {
+      "title": "伊朗革命卫队：袭击了在巴林和科威特的美国资产",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivv7981176.shtml",
+      "content": " 伊朗革命卫队的一份声明称，伊斯兰革命卫队打击了巴林伊萨空军基地的多个美军设施和飞机，以及科威特阿里·萨利姆空军基地的一个无人机部署坡道。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "20:20",
+      "keywords": []
+    },
+    {
+      "title": "美军称于美东时间周二下午3时开始对伊朗发动更多袭击",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivs5026799.shtml",
+      "content": " 美国中央司令部发文称，美军于美国东部时间周二下午3时“开始对伊朗发动新一轮打击，以继续削弱伊朗袭击霍尔木兹海峡商业航运的能力”。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "20:19",
+      "keywords": []
+    },
+    {
+      "title": "BDO Canada借助ZoomInfo，市场情报更新从8小时缩短至1小时",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivv7962294.shtml",
+      "content": " 加拿大领先的会计及商业咨询公司BDO Canada近日宣布，通过部署ZoomInfo平台，其市场情报更新工作已从此前每两周耗时8小时缩短至每周仅需约1小时。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-14",
+      "time": "19:54",
+      "keywords": []
+    },
+    {
       "title": "富士通推出AI驱动现代化服务，助力遗留系统转型",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvivs5016093.shtml",
@@ -1235,62 +1292,6 @@
       "period": "noon",
       "date": "2026-07-14",
       "time": "17:25",
-      "keywords": []
-    },
-    {
-      "title": "特朗普重申任何人都不应该收取霍尔木兹海峡通行费用",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvcpx7971517.shtml",
-      "content": "美国总统特朗普重申，任何人都不应对通过霍尔木兹海峡收取费用。 特朗普在白宫与伊拉克总理阿里·扎伊迪会晤时表示，与其向过境船只收费，不如让各国把资金投资于美国。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "17:02",
-      "keywords": []
-    },
-    {
-      "title": "SK海力士ADR期权在美国开始交易 初期逾三分之二成交量来自短期合约",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvcpw1194054.shtml",
-      "content": " SK海力士美国存托凭证（ADR）的期权周二开始在美国期权交易所交易，使全球最大衍生品市场的交易员能够更便利地交易这家波动较大的韩国存储芯片制造商。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "17:00",
-      "keywords": []
-    },
-    {
-      "title": "IBM营收不及预期 股价创至少1968年以来最大跌幅 CEO承认“执行不到位”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-15/doc-inihvcpu5067180.shtml",
-      "content": " IBM股价创至少58年来最大跌幅，此前该公司公布的第二财季初步营收低于市场预期，并将原因归咎于人工智能热潮引发的芯片和服务器供应紧张，促使客户将支出转向相关硬件。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "16:44",
-      "keywords": []
-    },
-    {
-      "title": "虽遭诉讼阻拦，派拉蒙仍计划9月底完成对华纳兄弟探索的并购",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihvcpu5061706.shtml",
-      "content": "核心要点 周二，派拉蒙首席诉讼律师杰弗里・凯斯勒做客《街头快讯》，为公司收购华纳兄弟探索的交易辩护，称此次并购利于市场竞争。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-14",
-      "time": "16:31",
       "keywords": []
     },
     {
