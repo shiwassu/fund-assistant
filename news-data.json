@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-15T17:50:39.002061",
+  "updated": "2026-07-15T19:48:16.945417",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,53 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 30,
-    "medium": 33,
-    "low": 87
+    "high": 20,
+    "medium": 38,
+    "low": 92
   },
   "items": [
+    {
+      "title": "摩根士丹利Q2业绩创纪录 股价逆势承压",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnus4624478.shtml",
+      "content": "摩根士丹利周三盘前公布2026年第二季度财报，营收与利润均创下历史新高，大幅超出市场预期。财报显示，该行当季营收达213.5亿美元，同比增长27%；净利润55.8亿美元...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "19:06",
+      "keywords": []
+    },
+    {
+      "title": "美联储褐皮书称美国经济以轻微至温和的步伐增长",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnus4606358.shtml",
+      "content": "美联储表示，近几周美国经济活动以轻微至温和的步伐增长，大多数地区就业水平几乎没有变化。 美联储周三发布了根据对地区企业联系人所做调查编制的褐皮书报道...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "18:31",
+      "keywords": []
+    },
+    {
+      "title": "欧洲债市：德国国债收窄跌幅 受美国国债涨势提振",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnuq7812123.shtml",
+      "content": "美国通胀数据提振美债、削弱全球加息押注后，德国政府债券收窄跌幅。 短端引领回升，2年期收益率一度下跌3个基点，至2.73%，逆转日内早些时候2个基点的升幅。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-15",
+      "time": "17:58",
+      "keywords": []
+    },
     {
       "title": "美联储理事库克关切通胀问题 称如不降温将支持央行采取行动",
       "source": "环球市场播报",
@@ -66,188 +108,6 @@
       "period": "noon",
       "date": "2026-07-15",
       "time": "16:33",
-      "keywords": []
-    },
-    {
-      "title": "通义千问将接入苹果智能系统，阿里美股大涨5.6%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxhnw1201599.shtml",
-      "content": "核心要点 有消息称阿里自研大模型通义千问将在中国区苹果设备落地，阿里巴巴美股周三走高。 阿里巴巴发言人证实：“面向中国用户，通义千问将集成至 iOS、iPadOS、macOS...",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "16:31",
-      "keywords": []
-    },
-    {
-      "title": "美国最大电网容量拍卖连续三年未达供电目标",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihxhnu4641772.shtml",
-      "content": "美国最大区域电网运营商PJM Interconnection周二公布2028/2029交付年度的容量拍卖结果，总成交额达164亿美元。拍卖以每兆瓦日325美元触及联邦能源监管委员会批准的价格上限...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "15:53",
-      "keywords": []
-    },
-    {
-      "title": "美国国债上涨 PPI报告增强了通胀见顶信心",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihxhnu4640853.shtml",
-      "content": "美国国债上涨，此前公布的生产者价格报告强化了市场的乐观情绪，即美国通胀已经见顶，可能会降低美联储加息的必要性。 国债价格上涨使对美联储利率调整更为敏感的短期国债...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "15:52",
-      "keywords": []
-    },
-    {
-      "title": "美国参议员沃伦要求美联储主席沃什说明经济政策计划",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihxhnw1153983.shtml",
-      "content": "美国参议员伊丽莎白·沃伦向美联储主席凯文·沃什询问有关他的经济政策计划的信息，“以确保公众充分理解”他的决定。 沃伦询问沃什有关改善沟通的努力...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "15:42",
-      "keywords": []
-    },
-    {
-      "title": "美对伊战事真实花费被曝高达千亿美元",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-15/doc-inihxhns7868558.shtml",
-      "content": "美国方面有消息称，美国对伊朗军事行动实际支出可能高达1000亿美元，远超美国政府公布的310亿美元。△美军打击伊朗目标（资料图） 消息称，美国防部内部评估显示...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "15:38",
-      "keywords": []
-    },
-    {
-      "title": "美银Q2业绩获消费韧性支撑 消费部门盈利近33亿美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihxhnu4630702.shtml",
-      "content": " 美国银行周二公布的第二季度财报显示，尽管面临通胀压力和货币政策收紧风险，消费者支出依然保持韧性，推动消费银行部门实现净利润近33亿美元。",
-      "priority": "high",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "15:38",
-      "keywords": []
-    },
-    {
-      "title": "贝宝联合创始人、Affirm首席执行官详解并购严苛标准",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihxhnx7921740.shtml",
-      "content": "有消息称，支付服务商思创联合私募安宏国际提出超 530 亿美元收购贝宝，受此消息刺激贝宝股价大涨。 尽管多年增长放缓、行业竞争加剧，但这笔收购意向足以证明...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "15:33",
-      "keywords": []
-    },
-    {
-      "title": "编剧工会加入诉讼战团 派拉蒙华纳千亿合并案再添变数",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihxhns7842951.shtml",
-      "content": "美国编剧工会周二对派拉蒙影业收购华纳兄弟探索的1100亿美元交易提起诉讼，称该合并将违反反垄断法，并对全美影视编剧造成“具体伤害”。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "15:20",
-      "keywords": []
-    },
-    {
-      "title": "聘请重组顾问引发恐慌 Lucid股价一度暴跌57%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihxhnu4619155.shtml",
-      "content": " 美国电动汽车制造商Lucid Group股价周二盘中一度暴跌57%，创下上市以来最大单日跌幅，盘中多次触发熔断。最终股价收跌16.15%，报4.62美元。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "15:19",
-      "keywords": []
-    },
-    {
-      "title": "两大存储牛股，业绩大涨、股价大跌！谁在买，谁在卖？",
-      "source": "中国证券报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-15/doc-inihxhns7828718.shtml",
-      "content": " 7月15日，存储双雄佰维存储、德明利股价大跌，分别下跌15.06%、10%。盘后龙虎榜显示，股价大跌之下，两只股票仍买盘不断。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "14:58",
-      "keywords": []
-    },
-    {
-      "title": "泡泡玛特“套住”了段永平？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-07-15/doc-inihxhns7829403.shtml",
-      "content": "来源：资事堂 作者 |十安 编辑 | 袁畅 国内声名最显赫的价值投资者之一，千亿大佬段永平正陷入一场濒临“套牢”的尴尬之中。 据港交所7月10日披露...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "14:57",
-      "keywords": []
-    },
-    {
-      "title": "双杰电气被国家电网“拉黑”，3月获悉，7月公告，投资者咨询索赔事项",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-15/doc-inihxhnx7890887.shtml",
-      "content": "“已有投资者向我们律所询问索赔事项。”广东邦仪律师事务所律师王虎15日向上海证券报记者表示，双杰电气（300444）收到国网处罚通知未及时进行公告...",
-      "priority": "high",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "14:55",
-      "keywords": []
-    },
-    {
-      "title": "安索帕、黑石押注：下一个万亿级AI赛道是落地实施，而非单纯大模型",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihxaez8017404.shtml",
-      "content": "AI 大模型的能力持续迭代升级，但企业究竟该如何落地应用 AI，至今仍是一大难题。为抢占这一未来市场，安索帕（Anthropic）、OpenAI 等 AI 实验室纷纷成立独立业务板块...",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "14:54",
       "keywords": []
     },
     {
@@ -461,6 +321,161 @@
       ]
     },
     {
+      "title": "LTC Properties将于8月5日发布第二季度财报",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxtan7732354.shtml",
+      "content": "医疗保健房地产投资信托公司LTC Properties今日宣布，将于8月5日美股收盘后发布2026年第二季度财务业绩。公司将于8月6日上午8：00（太平洋时间）举行电话会议及网络直播...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "19:36",
+      "keywords": []
+    },
+    {
+      "title": "Chegg将于8月6日发布第二季度财报",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnus4636620.shtml",
+      "content": "在线教育与职业技能培训公司Chegg今日宣布，将于2026年8月6日股市开盘前发布截至6月30日的第二季度财务业绩。公司将于当天太平洋时间上午5：30举行电话会议...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "19:30",
+      "keywords": []
+    },
+    {
+      "title": "Tyler Technologies宣布第二季度财报电话会议时间",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnuq7858513.shtml",
+      "content": "Tyler Technologies今日宣布，将于2026年7月29日美股收盘后发布2026年第二季度财务业绩。公司将于次日（7月30日）上午8：30（美国东部时间）举行电话会议及网络直播...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "19:27",
+      "keywords": []
+    },
+    {
+      "title": "美国线上房产交易平台Offerpad将于8月3日发布第二季度财报",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnuu1218536.shtml",
+      "content": "在线房地产平台Offerpad Solutions周二宣布，将于8月3日美股收盘后发布2026年第二季度财务业绩。公司将于当天美国东部时间下午4：30举行电话会议...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "19:24",
+      "keywords": []
+    },
+    {
+      "title": "Powerlaw基金新增Prometheus与Shield AI为最新持仓",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnus4632026.shtml",
+      "content": "Powerlaw Corp．近日披露了其截至2026年6月30日的最新投资组合清单，宣布新增两项重要持仓——物理AI初创公司Prometheus和自主防御系统公司Shield AI。",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "19:21",
+      "keywords": []
+    },
+    {
+      "title": "Amplitude宣布将于8月5日发布第二季度财报",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnuq7854517.shtml",
+      "content": "Amplitude今日宣布，将在2026年8月5日美股收盘后公布其2026年第二季度财务业绩。公司将于当天太平洋时间下午2：00举行视频网络直播...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "19:19",
+      "keywords": []
+    },
+    {
+      "title": "纽约时报公司宣布第二季度财报发布日期",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnuu1212739.shtml",
+      "content": "纽约时报公司周三宣布，将于8月5日股市开盘前发布2026年第二季度财务业绩。财报将于当天上午7点左右发布在公司投资者关系网站，并同步通过新闻通讯社发布公告。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "19:16",
+      "keywords": []
+    },
+    {
+      "title": "高通宣布2026财年第三季度财报发布日期",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnuu1211030.shtml",
+      "content": " 高通公司周三宣布，将于7月29日股市收盘后发布2026财年第三季度财务业绩。财报将在公司投资者关系网站公布，并同时以8-K表格提交至美国证券交易委员会。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "19:14",
+      "keywords": []
+    },
+    {
+      "title": "Grove与Galaxy Digital达成5亿美元仓储信贷协议",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnuv7985698.shtml",
+      "content": " 机构级信贷基础设施协议Grove与Galaxy Digital近日宣布，双方已达成一项5亿美元的仓储贷款安排，旨在为以数字资产为抵押的机构贷款提供资金支持。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "19:12",
+      "keywords": []
+    },
+    {
+      "title": "AI芯片需求激增 ASML大幅上调2026年业绩预期",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnuv7983541.shtml",
+      "content": " 全球光刻机龙头阿斯麦（ASML）周三发布2026年第二季度财报，受益于人工智能芯片需求持续爆发，公司营收与净利润均超出市场预期，并大幅上调全年业绩展望。",
+      "priority": "medium",
+      "sectors": [
+        "半导体",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "19:09",
+      "keywords": []
+    },
+    {
+      "title": "纽约汇市：美元在PPI数据公布后走软 英镑升至两个月高位",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnus4598376.shtml",
+      "content": "纽约汇市周三彭博美元指数下跌，之前公布的数据显示6月份美国核心生产者通胀低于预期。英镑升至两个月高位，兑美元在G10货币中领涨，因为有报道称...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "18:15",
+      "keywords": []
+    },
+    {
       "title": "欧洲股市企稳 历峰集团业绩提振奢侈品板块",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnuq7793697.shtml",
@@ -528,91 +543,6 @@
       "period": "noon",
       "date": "2026-07-15",
       "time": "16:42",
-      "keywords": []
-    },
-    {
-      "title": "汇丰策略师：油价跃升不影响其看涨观点",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxhnu4660541.shtml",
-      "content": " 汇丰策略师表示，伊朗战争再度升级并未促使他们改变对风险资产的看涨观点；他们认为，第二季度财报季才是更重要的驱动因素。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "16:20",
-      "keywords": []
-    },
-    {
-      "title": "美国6月生产者价格指数表现温和 上游通胀压力缓解",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxhnx7947767.shtml",
-      "content": "美国6月核心生产者价格指数（PPI）升幅低于预期，表明在伊朗战争近期再度升级之前，上游通胀压力已开始缓解。 美国劳工统计局周三公布的数据显示...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "16:01",
-      "keywords": []
-    },
-    {
-      "title": "摩根大通和摩根士丹利双双发债融资 此前财报表现亮眼",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihxhnw1156256.shtml",
-      "content": "摩根大通和摩根士丹利在公布业绩报告后寻求在美国高评级债券市场发债融资。 此次发债延续了华尔街大行本季度的融资热潮。这轮融资始于高盛在周二启动100亿美元债券发行...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "15:44",
-      "keywords": []
-    },
-    {
-      "title": "加码半导体！300567周四复牌",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/wm/2026-07-15/doc-inihxhnx7920152.shtml",
-      "content": "显示面板检测龙头精测电子（300567）重大资产重组事项迎最新进展。 7月15日晚，精测电子公告称，公司董事会当天审议通过发行股份...",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "15:30",
-      "keywords": []
-    },
-    {
-      "title": "迈克尔・伯里反对贝宝收购报价：“60.50美元实在太低”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihxhnx7892203.shtml",
-      "content": " 据消息，支付公司思创（Stripe）联合大型私募安宏国际，向贝宝控股（纳斯达克：PYPL）抛出总价 530 亿美元的巨额收购要约。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "15:00",
-      "keywords": []
-    },
-    {
-      "title": "AI芯片内存紧缺重创行业，二季度智能手机出货量创13年新低",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihxaez8020324.shtml",
-      "content": "AI 内存短缺持续冲击智能手机市场，出货量跌至 13 年来谷底 受内存、存储芯片紧缺持续拖累消费电子行业影响，全球智能手机二季度出货量同比下滑。",
-      "priority": "medium",
-      "sectors": [
-        "半导体",
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "14:57",
       "keywords": []
     },
     {
@@ -970,6 +900,315 @@
       ]
     },
     {
+      "title": "通用磨坊、ADM与沃尔玛联手推动中西部4万英亩小麦田再生农业转型",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxtat7884220.shtml",
+      "content": "通用磨坊、ADM与沃尔玛本周宣布建立战略合作关系，共同推动美国中西部约4万英亩小麦田的再生农业实践。该项目聚焦于通用磨坊从ADM采购小麦...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "19:47",
+      "keywords": []
+    },
+    {
+      "title": "JetBlue携手ClarityPay推出\"先买后付\"服务，可累积里程积分",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxtat7882559.shtml",
+      "content": "JetBlue Airways近日宣布与ClarityPay建立合作，为通过官网及移动应用直接订票的旅客提供一种新的“先买后付”灵活支付方案。此举旨在降低出行门槛...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "19:46",
+      "keywords": []
+    },
+    {
+      "title": "美军在美东时间周三下午3点对伊朗发动打击",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-16/doc-inihxtan7737348.shtml",
+      "content": "美国中央司令部在X平台发文称，美国于美东时间周三下午3点针对伊朗发起了第二波打击行动。 美军表示：“此次打击针对的是伊朗用于威胁自由通过霍尔木兹海峡船只的军事能力...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "19:44",
+      "keywords": []
+    },
+    {
+      "title": "BigBear.ai推出扩展生成式AI平台，专注国防任务",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxtan7736622.shtml",
+      "content": "美国国防与安全技术公司BigBear.ai近日宣布对其生成式人工智能平台进行重大扩展，为国防部任务团队提供更强的灵活性和控制力。此次扩展引入了新型隔离硬件...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "19:43",
+      "keywords": []
+    },
+    {
+      "title": "Voyager携手宾州州立大学推动宾夕法尼亚州太空经济发展",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxtas1101275.shtml",
+      "content": "太空科技公司Voyager Technologies与宾夕法尼亚州立大学近日签署谅解备忘录，后者正式加入Voyager太空、技术与进步研究所（VISTA）生态系统。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "19:40",
+      "keywords": []
+    },
+    {
+      "title": "美国公共部门加速采用AI就绪混合云基础设施",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxtat7872940.shtml",
+      "content": " 信息服务业集团（ISG）最新研究报告显示，美国公共部门正通过分阶段的混合云战略实现关键基础设施现代化升级，在增强运营韧性的同时为安全采用人工智能奠定基础。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "19:35",
+      "keywords": []
+    },
+    {
+      "title": "The Trade Desk任命Kristi Argyilan为新任首席商务官",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxtan7730678.shtml",
+      "content": " 广告科技公司The Trade Desk本周三宣布，任命Kristi Argyilan为首席商务官兼执行副总裁，负责领导数据合作团队，涵盖身份识别、效果测量、零售媒体及治理等业务领域。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "19:33",
+      "keywords": []
+    },
+    {
+      "title": "GPGI因收购Husky涉嫌证券欺诈遭集体诉讼",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnuv7998456.shtml",
+      "content": "多家律师事务所近日对GPGI公司提起证券欺诈集体诉讼，指控其在收购Husky Technologies过程中夸大标的公司价值并误导投资者。GPGI前身为CompoSecure...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "19:29",
+      "keywords": []
+    },
+    {
+      "title": "American Beacon与Mercer联合推出创新模型投资组合服务",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnuu1217132.shtml",
+      "content": "美国资产管理公司American Beacon Advisors本周三宣布，与美世投资合作推出全新的“Mercer &amp; American Beacon模型投资组合”系列，旨在为金融顾问...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "19:22",
+      "keywords": []
+    },
+    {
+      "title": "第一太阳资本遭投资者集体诉讼 涉嫌证券欺诈",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnuu1213951.shtml",
+      "content": "律师事务所Howard G． Smith宣布对第一太阳资本（FirstSun Capital Bancorp）发起证券欺诈调查，并呼吁蒙受损失的投资者与其联系，以探讨发起索赔的可能性。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "19:18",
+      "keywords": []
+    },
+    {
+      "title": "CI&T与Mistral达成战略合作，推动企业AI部署",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnuu1211857.shtml",
+      "content": "全球AI部署合作伙伴CI&amp;T本周宣布与法国开源AI模型公司Mistral建立多年期战略合作关系。根据协议，CI&amp;T将作为Mistral在拉丁美洲的首选合作伙伴...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "19:15",
+      "keywords": []
+    },
+    {
+      "title": "Redfin携手天气公司为每套房产引入气候数据",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnus4627525.shtml",
+      "content": "美国房地产经纪平台Redfin本周宣布与天气公司建立合作，将本地气象数据整合至其平台上的所有在售房源信息中。即日起，购房者可在房源页面直接查看基于邮政编码的天气指标...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "19:11",
+      "keywords": []
+    },
+    {
+      "title": "阿波罗主导350亿美元AI信贷交易，挑战华尔街银行",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnuv7982395.shtml",
+      "content": "阿波罗全球管理公司近期为博通和人工智能公司Anthropic安排了一笔创纪录的350亿美元私人信贷融资，向传统华尔街银行的核心业务领域发起挑战。",
+      "priority": "low",
+      "sectors": [
+        "金融",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "19:08",
+      "keywords": []
+    },
+    {
+      "title": "OpenAI拟推无屏AI音箱，苹果诉讼或影响发布计划",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnus4623084.shtml",
+      "content": "OpenAI正筹备推出其首款消费级硬件产品——一款可移动、无屏幕的智能音箱，旨在成为家庭中的AI伴侣。该设备将依托ChatGPT及更先进的GPT-Live语音模式，实现智能家居控制...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "19:04",
+      "keywords": []
+    },
+    {
+      "title": "高盛百亿美元债券发行获320亿认购",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnus4622235.shtml",
+      "content": "高盛集团本周完成了一笔100亿美元的三部分投资级债券发行，峰值时吸引了约320亿美元的投资者订单，认购需求达到最终发行规模的三倍。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "19:02",
+      "keywords": []
+    },
+    {
+      "title": "美国曾探讨对古巴发动空中突击的可能性",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnuv7973824.shtml",
+      "content": " 美国官员表示，美国曾探讨可能对古巴采取何种军事行动，其中包括由数千名陆军士兵实施空中突击的可能性。如果实施空中突击，将由美国陆军第101空降师执行。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "18:59",
+      "keywords": []
+    },
+    {
+      "title": "美国称周二晚间协助船只通过霍尔木兹海峡",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnuv7972954.shtml",
+      "content": "美国中央司令部发言人Tim Hawkins上尉表示，昨晚在美国协助下通过霍尔木兹海峡的油轮数量达到两位数。 Hawkins称，过去一周约有300艘船只通过霍尔木兹海峡...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "18:58",
+      "keywords": []
+    },
+    {
+      "title": "CoreWeave拟用看跌期权对冲存储芯片价格风险",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnuv7970857.shtml",
+      "content": " 人工智能云计算公司CoreWeave正在探索使用金融衍生品，以对冲未来存储芯片价格下跌的风险。据知情人士透露，相关讨论尚处初期阶段，公司尚未执行任何对冲操作。",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "18:55",
+      "keywords": []
+    },
+    {
+      "title": "尾盘：大型科技股与通胀数据推动美股走高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnuq7840868.shtml",
+      "content": "北京时间7月16日凌晨，美股周三尾盘走高。大型科技股表现亮眼。美国6月PPI意外下跌0.3%，显示通胀正在降温。 道指涨114.10点，涨幅为0.22%，报52622.37点；纳指涨107...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "18:53",
+      "keywords": []
+    },
+    {
+      "title": "阿斯麦计划上调部分光刻机价格 或与台积电产生矛盾",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnuv7959015.shtml",
+      "content": "阿斯麦计划上调芯片制造设备价格，此举可能导致其与最大客户台积电产生矛盾。 台积电已开始抵制这家荷兰设备制造商的涨价计划。 阿斯麦生产制造先进半导体所必需的尖端极紫...",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "18:40",
+      "keywords": []
+    },
+    {
+      "title": "万斯：美国不会向伊朗派遣地面部队",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnus4597908.shtml",
+      "content": "美国副总统JD·万斯在Joe Rogan的播客节目中表示：“如果伊朗人民想要起义并改变他们的政府，这取决于他们自己。但除非当地民众自己希望实现这一结果...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "18:14",
+      "keywords": []
+    },
+    {
+      "title": "伊朗议会议长卡利巴夫：国家安全取决于伊朗对霍尔木兹海峡的安排",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxnuu1152616.shtml",
+      "content": " 伊朗议会议长兼首席谈判代表卡利巴夫称，伊朗的国家安全关键在于维护对霍尔木兹海峡的“伊朗安排”，并确保商船最大限度安全通过这一水道。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-15",
+      "time": "18:03",
+      "keywords": []
+    },
+    {
       "title": "英伟达CEO黄仁勋否认产品延期论 称Vera Rubin将按计划向客户交付",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxhns7915107.shtml",
@@ -1037,248 +1276,6 @@
       "period": "noon",
       "date": "2026-07-15",
       "time": "16:36",
-      "keywords": []
-    },
-    {
-      "title": "马哈茂德有望出任英国财政大臣 英镑、英债获提振",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxhnw1200377.shtml",
-      "content": "即将出任英国首相的安迪·伯纳姆将任命谢巴娜·马哈茂德为财政大臣。 伯纳姆已选择现任内政大臣马哈茂德，而非能源大臣埃德·米利班德，来执掌英国财政部。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "16:29",
-      "keywords": []
-    },
-    {
-      "title": "人形机器人争端引发汽车工厂首次停工",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxhns7886769.shtml",
-      "content": "韩国现代汽车工人发起局部罢工，担忧自身就业前景韩国蔚山，现代工人在局部罢工期间提前两小时下班。 今年 1 月，现代汽车（股票代码 005380，涨幅 2...",
-      "priority": "low",
-      "sectors": [
-        "机器人",
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "16:25",
-      "keywords": []
-    },
-    {
-      "title": "上市脚步临近 Anthropic据悉计划几周内召开IPO投资者会议",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxhnu4660235.shtml",
-      "content": "据知情人士透露，Anthropic正安排与投资者举行会面，为潜在的大规模IPO做准备。 消息人士称，负责此次IPO的承销银行将在未来几周安排投资者与这家Claude聊天机器人开发商会...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "16:19",
-      "keywords": []
-    },
-    {
-      "title": "载有伊朗石油的两艘油轮在显示驶往巴基斯坦后掉头",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxhns7882616.shtml",
-      "content": "随着美国恢复对伊朗的海上封锁，两艘载有伊朗原油、此前似乎正驶往巴基斯坦的油轮已经掉头。 船舶追踪数据显示，共载有100万桶原油的Rani号和Amil号油轮曾短暂示意卡拉奇为...",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "16:18",
-      "keywords": []
-    },
-    {
-      "title": "午盘：美股小幅上扬 市场关注PPI数据与美伊局势",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihxhns7872858.shtml",
-      "content": " 北京时间7月16日凌晨，美股周三午盘小幅上扬。美国6月PPI意外下跌0.3%。美伊紧张局势持续升温令主要股指涨幅受到抑制。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "16:06",
-      "keywords": []
-    },
-    {
-      "title": "伊朗表示无计划与美国会谈",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihxhnu4644655.shtml",
-      "content": "伊朗外交部发言人巴加埃称：“我们目前没有谈判计划，我们专注于防御。” 巴加埃说：“如果对方违约，我们也同样不会履行我们的承诺”。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "15:58",
-      "keywords": []
-    },
-    {
-      "title": "微软培训销售团队如何迎战AI巨头 重点突出后者产品的不足",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihxhnw1166234.shtml",
-      "content": "微软正在指导其销售团队如何与Anthropic和OpenAI展开有力竞争，并突出这些人工智能公司产品的不足。 软件巨头微软的高管在本周一次内部会议上阐述该公司本月开始的新财年销...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "15:54",
-      "keywords": []
-    },
-    {
-      "title": "阿斯麦计划提高芯片制造设备价格",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihxhnu4640727.shtml",
-      "content": "知情人士表示，阿斯麦计划上调产品价格。 阿斯麦近期与台积电讨论提高极紫外光（EUV）光刻系统价格。 阿斯麦最近几周还通知部分客户...",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "15:51",
-      "keywords": []
-    },
-    {
-      "title": "6月70城房价数据显示房地产市场继续保持稳的态势",
-      "source": "新华社",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-15/doc-inihxhnu4642348.shtml",
-      "content": "新华社北京7月15日电 题：6月70城房价数据显示房地产市场继续保持稳的态势 新华社记者王优玲 国家统计局15日公布的数据显示，6月份，70个大中城市中...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "15:49",
-      "keywords": []
-    },
-    {
-      "title": "伯纳姆预计将任命Shabana Mahmood为英国财政大臣",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihxhnw1159226.shtml",
-      "content": "熟悉英国准首相安迪·伯纳姆想法的人士称，现任英国内政大臣Shabana Mahmood料将被任命为财政大臣。 据悉，Mahmood尚未被告知这项任命。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "15:47",
-      "keywords": []
-    },
-    {
-      "title": "以色列总理内塔尼亚胡计划周六访美 拟与特朗普会面",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihxhnw1155320.shtml",
-      "content": "一位知情人士称，以色列总理内塔尼亚胡计划于周六前往美国，拟与美国总统特朗普会晤。 美国和以色列官员一直在联系协调一次会晤。双方尚未最终敲定面谈安排。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "15:43",
-      "keywords": []
-    },
-    {
-      "title": "OpenAI正式回应苹果诉讼：其指控“缺乏证据”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihxhnw1153340.shtml",
-      "content": " 人工智能公司OpenAI周二首次就苹果提起的商业秘密诉讼作出正式回应，直言“未发现任何证据”支持苹果的指控，并强调自己坚持公平竞争、尊重人才自由流动的立场。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "15:41",
-      "keywords": []
-    },
-    {
-      "title": "一张图表揭示：投资者为何担忧微软、亚马逊等云巨头盈利前景",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihxhnu4625325.shtml",
-      "content": "本月下旬各大科技企业将陆续披露财报，人工智能云厂商投资者即将迎来又一个资本开支高企的季度数据。 悬而未决的核心问题：科技高管持续大手笔投入 AI...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "15:29",
-      "keywords": []
-    },
-    {
-      "title": "诺基亚与英伟达推出AI原生无线接入网平台 频谱效率有望倍增",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihxhnw1129247.shtml",
-      "content": "诺基亚周三宣布，携手英伟达推出业界首个商用AI原生无线接入网平台，标志着无线网络架构向软件定义、AI驱动方向迈出重要一步。该平台基于诺基亚的anyRAN软件与英伟达的Aeri...",
-      "priority": "low",
-      "sectors": [
-        "半导体",
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "15:13",
-      "keywords": []
-    },
-    {
-      "title": "巴菲特证实：伯克希尔增持Alphabet股票由其本人拍板",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihxhnx7894321.shtml",
-      "content": " 沃伦・巴菲特透露，伯克希尔・哈撒韦买入谷歌母公司 Alphabet 的仓位是由他主导布局，释放出这位亿万投资人看好该科技巨头加码人工智能投入的信号。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "15:02",
-      "keywords": []
-    },
-    {
-      "title": "全美环孢子虫疫情令Taco Bell与百胜餐饮股价承压",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-15/doc-inihxhnu4606289.shtml",
-      "content": "受环孢子虫病疫情影响，百胜餐饮集团旗下塔可钟成为调查焦点，公司股价周二下跌2.16%。 此次疫情来势凶猛。疾控中心数据显示，截至7月14日，全美34个州已报告1...",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "15:01",
-      "keywords": [
-        "新冠肺炎"
-      ]
-    },
-    {
-      "title": "默茨称不希望美国干涉德国选举",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-15/doc-inihxhnw1153922.shtml",
-      "content": "德国总理默茨15日表示，不希望美国干涉德国选举。△默茨（资料图） 默茨当天在出席政府夏季新闻发布会时说，德国不会干涉美国大选。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-15",
-      "time": "15:00",
       "keywords": []
     },
     {
