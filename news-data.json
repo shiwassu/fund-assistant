@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T14:35:55.170106",
+  "updated": "2026-07-16T16:02:14.904956",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,25 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 20,
-    "medium": 50,
-    "low": 80
+    "high": 15,
+    "medium": 45,
+    "low": 90
   },
   "items": [
+    {
+      "title": "逆势涨停！知名游资席位，现身龙虎榜",
+      "source": "中国证券报-中证网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-16/doc-inihzmms7656979.shtml",
+      "content": "7月16日，A股脑机接口及AI医疗概念股盘中拉升，塞力医疗、润达医疗、创新医疗等多股涨停。 盘后龙虎榜数据显示，知名游资“炒股养家”常用席位华鑫证券上海宛平南路营业部...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "14:55",
+      "keywords": []
+    },
     {
       "title": "美国合众银行季度营收创下历史新高",
       "source": "环球市场播报",
@@ -24,91 +38,6 @@
       "period": "noon",
       "date": "2026-07-16",
       "time": "14:27",
-      "keywords": []
-    },
-    {
-      "title": "IMF敦促英国候任首相伯纳姆避免财政冒进 称特拉斯危机后英债伤痕未愈",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmx8125324.shtml",
-      "content": " 国际货币基金组织（IMF）警告英国候任首相安迪·伯纳姆称，2022年莉兹·特拉斯预算危机造成了永久性伤痕，使英国国债市场对英国财政政策更加敏感。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "14:12",
-      "keywords": []
-    },
-    {
-      "title": "铜业巨头“A拆H”，最新进展曝光",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/s/2026-07-16/doc-inihzmmu4384071.shtml",
-      "content": "7月16日晚，千亿级铜业巨头江西铜业发布公告，披露了公司“A拆H”的最新进展。 公告显示，公司于7月15日审议通过了分拆所属子公司江西省江铜铜箔科技股份有限公司（下称“江铜...",
-      "priority": "high",
-      "sectors": [
-        "有色"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "14:05",
-      "keywords": []
-    },
-    {
-      "title": "002185连吃两跌停，资金态度却一日逆转",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/s/2026-07-16/doc-inihzmmx8121702.shtml",
-      "content": "7月16日，A股缩量调整。华天科技（002185）连续两个交易日跌停。对比连续两日席位数据，资金态度一日逆转：7月15日机构、北向同步大额抛售，仅隔一个交易日...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "14:05",
-      "keywords": []
-    },
-    {
-      "title": "韩国叫停新发单一股票杠杆型交易所交易基金（ETF）",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmms7601357.shtml",
-      "content": "韩国监管机构政策出现转向。今年 5 月，监管层刚批准挂钩三星电子、SK 海力士的单一股票杠杆 ETF 上市，而这类产品饱受诟病，被认为加剧了市场波动...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "14:01",
-      "keywords": []
-    },
-    {
-      "title": "华尔街银行利润暴涨，欧洲大刀阔斧修订银行业监管规则",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmx8112323.shtml",
-      "content": "核心要点 欧盟委员会正酝酿一轮大规模放松金融监管的改革，有望提振欧洲本土银行业经营状况。 布鲁塞尔方面急于提升欧洲银行竞争力 ——...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:58",
-      "keywords": []
-    },
-    {
-      "title": "英伟达投资企业Fireworks估值达1750亿美元，企业竞相选用低成本开源AI模型",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmu4373680.shtml",
-      "content": "核心要点 Fireworks 是一家为软件开发者提供开源大模型云部署服务的初创公司，本轮完成 15 亿美元融资，投后估值 1750 亿美元。 这家获英伟达注资的企业年化营收突破 10...",
-      "priority": "high",
-      "sectors": [
-        "半导体",
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:54",
       "keywords": []
     },
     {
@@ -322,6 +251,245 @@
       ]
     },
     {
+      "title": "午盘：美股涨跌不一 半导体板块拖累纳指下跌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmms7675920.shtml",
+      "content": "北京时间7月17日凌晨，美股周四午盘涨跌不一。半导体板块表现疲软，拖累纳指走低。交易员正在评估企业盈利是否足以支撑人工智能交易进一步上涨...",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "15:59",
+      "keywords": []
+    },
+    {
+      "title": "Truist下调Lululemon评级",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-16/doc-inihzmmu4446682.shtml",
+      "content": "Truist将Lululemon的评级从“持有”下调至“卖出”，并将目标价从115美元下调至94美元，这意味着约有20%的下行空间。 Truist分析师约瑟夫·奇韦洛（Joseph Civello）表示...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "15:48",
+      "keywords": []
+    },
+    {
+      "title": "RBC Bearings将于7月31日召开2027财年第一季度财报电话会",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmx8202763.shtml",
+      "content": "RBC Bearings Incorporated（纽约证券交易所代码：RBC）宣布，将于7月31日（周五）股市开盘前公布2027财年第一季度财务业绩。公司管理层将于当日美国东部时间上午11：00举...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "15:40",
+      "keywords": []
+    },
+    {
+      "title": "Kaplan与CAIA协会合作，提升金融从业者另类投资教育",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmms7662035.shtml",
+      "content": " 全球教育机构Kaplan与另类投资教育与认证领域领先机构CAIA协会宣布建立合作伙伴关系，旨在帮助更多金融从业者获得CAIA.nxt证书和微证书。",
+      "priority": "medium",
+      "sectors": [
+        "金融",
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "15:34",
+      "keywords": []
+    },
+    {
+      "title": "Wipro公布2026财年第一季度业绩，净利润同比微增0.6%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmms7651071.shtml",
+      "content": "印度IT服务巨头Wipro于7月16日公布了截至2026年6月30日的第一季度财报。公司当季实现合并净利润335.2亿卢比，较去年同期的333.0亿卢比增长0.6%，但环比下降4.3%。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "15:16",
+      "keywords": []
+    },
+    {
+      "title": "Cinemark将于7月30日召开第二季度财报电话会议",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmx8181798.shtml",
+      "content": "影院放映公司Cinemark Holdings， Inc．（纽约证券交易所代码：CNK）宣布，将于7月30日（周四）股市开盘前公布2026年第二季度运营业绩...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "15:13",
+      "keywords": []
+    },
+    {
+      "title": "Belden将于7月30日发布第二季度财报",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmu4423925.shtml",
+      "content": "全球领先的专业网络解决方案供应商Belden Inc．（纽约证券交易所代码：BDC）宣布，将于7月30日（周四）美股开盘前公布截至2026年6月28日的第二季度财务业绩。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "15:10",
+      "keywords": []
+    },
+    {
+      "title": "AI算力大单！688521，又新签订单超64亿元",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/wm/2026-07-16/doc-inihzmmw1392450.shtml",
+      "content": "AI ASIC（AI专用芯片）龙头，再传新利好。 7月16日晚间，芯原股份（688521）披露，公司今年新签订单进一步增长，4月30日至7月16日合计新签订单达到64.13亿元。",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "14:54",
+      "keywords": []
+    },
+    {
+      "title": "SBA Communications定于8月3日发布第二季度财报",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmms7632629.shtml",
+      "content": "SBA Communications Corporation（纳斯达克代码：SBAC）宣布，将于8月3日（周一）美股收盘后公布2026年第二季度财务业绩。公司将于当日美国东部时间下午5：00举行电话会议...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "14:48",
+      "keywords": []
+    },
+    {
+      "title": "Energy Vault任命贝莱德资深专家Nitin Dahiya为首席财务官",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmms7631816.shtml",
+      "content": " Energy Vault Holdings， Inc．宣布任命Nitin Dahiya为首席财务官。Dahiya来自全球最大资产管理公司贝莱德，拥有超过二十年的机构投资、企业融资和资本市场经验。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "14:47",
+      "keywords": []
+    },
+    {
+      "title": "第一太阳能公司将于7月30日发布第二季度财报",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmu4407130.shtml",
+      "content": " 美国光伏太阳能技术制造商第一太阳能公司（First Solar， 纳斯达克代码：FSLR）宣布，将于7月30日（周四）美股收盘后公布截至2026年6月30日的第二季度财务业绩。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "14:45",
+      "keywords": []
+    },
+    {
+      "title": "Gartner 2026年企业风险、审计与合规大会将在格雷普韦恩举行",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmu4405962.shtml",
+      "content": " 全球研究与咨询机构Gartner宣布，将于2026年9月15日至16日在美国德克萨斯州格雷普韦恩的Gaylord Texan酒店及会议中心举办2026年企业风险、审计与合规大会。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "14:43",
+      "keywords": []
+    },
+    {
+      "title": "美国6月二手房签约量环比下降5.4% 逊于所有经济学家预估",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmms7628831.shtml",
+      "content": "美国全国房地产经纪人协会（NAR）公布的二手房签约量指数6月环比下降5.4%，预估中值为下降0.5%。 接受调查的26位经济学家预测区间介于下降3%至增长1%之间。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "14:42",
+      "keywords": []
+    },
+    {
+      "title": "Amrize将于8月6日发布第二季度财报",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmms7628689.shtml",
+      "content": "Amrize（纽约证券交易所代码：AMRZ）宣布，将于8月6日（周四）美国股市收盘后公布2026年第二季度财务业绩。公司将于次日（8月7日...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "14:41",
+      "keywords": []
+    },
+    {
+      "title": "深夜，猛烈抛售！存储芯片，全线大跌！巴菲特，罕见发声",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/wm/2026-07-16/doc-inihzmmw1379058.shtml",
+      "content": "美股存储芯片再遭抛售潮。 今晚，美股开盘后，半导体、存储、光通信概念股集体重挫，费城半导体指数一度大跌超3%，闪迪一度大跌超9%，SK海力士ADR一度大跌超8%。",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "14:41",
+      "keywords": []
+    },
+    {
+      "title": "花旗影响力基金承诺2500万美元投资住房创新企业",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmx8151762.shtml",
+      "content": "花旗集团旗下花旗影响力基金7月16日宣布，将向致力于住房获取、供应和可负担性创新的公司投资2500万美元。该承诺是花旗“住房机会蓝图”计划的一部分，后者是一项为期五年...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "14:38",
+      "keywords": []
+    },
+    {
+      "title": "Onto Innovation将于8月6日发布第二季度财报",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmu4403004.shtml",
+      "content": " 半导体工艺控制设备供应商Onto Innovation Inc．（纽约证券交易所代码：ONTO）宣布，将于8月6日（周四）股市收盘后公布2026年第二季度财务业绩。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "14:37",
+      "keywords": []
+    },
+    {
       "title": "联合健康集团业绩大幅超出华尔街预期",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmw1371751.shtml",
@@ -378,6 +546,20 @@
       "keywords": []
     },
     {
+      "title": "20万股东彻底懵了！光纤“四大龙头”之一，17天“腰斩”！",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/s/2026-07-16/doc-inihzmmu4402468.shtml",
+      "content": "来源：上市之家 光纤“四大龙头”之一，烽火通信，仅仅17个交易日，就“腰斩”了。 7月16日，烽火通信（600498）股价遭遇大幅下挫。截至收盘，该股报收于44.00元，下跌7...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "14:30",
+      "keywords": []
+    },
+    {
       "title": "A股中报预喜榜，这些行业占“C位”",
       "source": "中证网",
       "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-16/doc-inihzmmu4398056.shtml",
@@ -392,341 +574,17 @@
       "keywords": []
     },
     {
-      "title": "深夜！美存储芯片股，全线跳水！",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/wm/2026-07-16/doc-inihzmmw1351289.shtml",
-      "content": "存储板块个股集体大跌。 当地时间7月16日（周四），美国三大股指开盘涨跌互现，截至发稿，纳斯达克指数跌近1%。 存储芯片股集体下挫，截至发稿，SK海力士跌超7%...",
+      "title": "时隔三年，知名券商研究所所长葛军回归券业！",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-16/doc-inihzmmu4398197.shtml",
+      "content": "来源：中国基金报 【导读】原五矿证券研究所所长葛军履新财达证券 中国基金报记者 孙越 时隔三年，原五矿证券研究所所长葛军重返券业，加盟财达证券，担任研究院院长。",
       "priority": "medium",
       "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "14:10",
-      "keywords": []
-    },
-    {
-      "title": "美国7月住宅建筑商信心指数降至34 低于预期中值",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmw1342192.shtml",
-      "content": "美国全国住宅建筑商协会（NAHB）/富国银行数据显示，7月建筑商信心指数降至34，前月为36。 接受调查的24位经济学家预测区间为34-37；预估中值为35。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "14:04",
-      "keywords": []
-    },
-    {
-      "title": "早盘：美股早盘走低 半导体板块普遍下跌",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmw1341405.shtml",
-      "content": "北京时间7月16日晚，美股周四早盘走低，纳指下跌近0.9%。半导体板块表现疲软。交易员正在评估企业盈利是否足以支撑人工智能交易进一步上涨...",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "14:04",
-      "keywords": []
-    },
-    {
-      "title": "零售销售额回升、初请失业金人数下降、制造业景气指数大幅飙升",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmw1340813.shtml",
-      "content": "零售销售额涨幅符合市场预期，首次申领失业救济金人数走低，费城地区制造业景气指标创下近五年新高： 零售销售数据 美国商务部公布经季节性调整...",
-      "priority": "medium",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "14:03",
-      "keywords": []
-    },
-    {
-      "title": "超290亿到账！五粮液等多家A股公司今日分红",
-      "source": "界面",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-16/doc-inihzmmx8104423.shtml",
-      "content": "7月16日，A股市场迎来一轮规模可观的集中分红潮，五粮液（000858.SZ）、宁波银行（002142.SZ）、浦发银行（600000.SH）等公司同步完成现金红利发放...",
-      "priority": "medium",
-      "sectors": [
-        "消费",
         "金融"
       ],
       "period": "noon",
       "date": "2026-07-16",
-      "time": "13:47",
-      "keywords": []
-    },
-    {
-      "title": "股市调整波及理财！近两成产品净值下跌，破净率回升至1%",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/roll/2026-07-16/doc-inihzmmw1323664.shtml",
-      "content": "21世纪经济报道 唐曜华 6月下旬以来，A股市场出现一轮显著的结构性调整，近期上证指数频频失守4000点，7月16日更是跌破3900点。 行情呈现分化格局，医药生物逆势走强...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:40",
-      "keywords": []
-    },
-    {
-      "title": "沪市主板超300份“报喜”预告多元向好",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-16/doc-inihzmmx8107153.shtml",
-      "content": "截至2026年7月15日，沪市主板业绩预告收官，756家主板公司发布2026年半年度业绩预告，306家交出增长或扭亏的“报喜”成绩单。基础化工、有色金属、煤炭等多个基础行业上扬...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:40",
-      "keywords": []
-    },
-    {
-      "title": "云南锗业：公司磷化铟晶片产品经过多年研发投入、经验积累及客户严格验证后，已实现量产及销售",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-16/doc-inihzfcz8229113.shtml",
-      "content": "证券日报网7月16日讯 ，云南锗业在接受调研时表示，磷化铟晶片生产具有较高的技术壁垒，公司磷化铟晶片产品经过多年研发投入、经验积累及客户严格验证后...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:33",
-      "keywords": []
-    },
-    {
-      "title": "云南锗业：目前公司高纯红磷、高纯铟的供应商均以国内厂商为主",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-16/doc-inihzfcy1452880.shtml",
-      "content": "证券日报网7月16日讯，云南锗业在接受调研时表示，公司子公司云南鑫耀半导体材料有限公司生产磷化铟晶片所需的高纯红磷、高纯铟均系从外部采购。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:31",
-      "keywords": []
-    },
-    {
-      "title": "玲珑轮胎：公司2026年上半年业绩同比降幅较大的原因主要系受汇兑波动影响",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-16/doc-inihzmms7591770.shtml",
-      "content": "证券日报网讯7月16日，玲珑轮胎在互动平台回答投资者提问时表示，公司2026年上半年业绩同比降幅较大的原因主要系受汇兑波动影响，其中由塞尔维亚欧元借款带来的汇兑损益影...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:31",
-      "keywords": []
-    },
-    {
-      "title": "云南锗业：今年上半年，受下游高速光模块需求增加影响，公司化合物半导体材料产品销量同比增加",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-16/doc-inihzfcw4496247.shtml",
-      "content": "证券日报网7月16日讯，云南锗业在接受调研时表示，今年上半年，受下游高速光模块需求增加影响，公司化合物半导体材料产品销量同比增加，销售均价同比上涨。",
-      "priority": "medium",
-      "sectors": [
-        "半导体",
-        "光模块"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:31",
-      "keywords": []
-    },
-    {
-      "title": "云南锗业：公司将积极寻求与上游供应商加强合作，保障磷化铟产品原料的持续稳定供应",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-16/doc-inihzfcw4496243.shtml",
-      "content": "证券日报网7月16日讯，云南锗业在接受调研时表示，公司高度重视磷化铟晶片原料的供应保障：一方面公司一直与上游供应商保持着良好关系，并合理统筹原料采购计划...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:31",
-      "keywords": []
-    },
-    {
-      "title": "云南锗业：目前公司磷化铟晶片产品下游客户需求以3英寸—4英寸为主",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-16/doc-inihzfcz8229117.shtml",
-      "content": "证券日报网7月16日讯，云南锗业在接受调研时表示，目前公司磷化铟晶片产品下游客户需求以3英寸—4英寸为主。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:31",
-      "keywords": []
-    },
-    {
-      "title": "深南电路：7月16日接受机构调研，开源证券、长城基金等多家机构参与",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-16/doc-inihzfcu7720182.shtml",
-      "content": "证券之星消息，2026年7月16日深南电路(002916)发布公告称公司于2026年7月16日接受机构调研，开源证券、长城基金、银华基金、融通基金、摩根士丹利基金参与。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:31",
-      "keywords": []
-    },
-    {
-      "title": "海光信息2026年上半年营收预增超55% “CPU+DCU”双轮驱动AI算力市场",
-      "source": "证券时报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-16/doc-inihzmmw1325557.shtml",
-      "content": "2026年上半年，海光信息（688041.SH）延续高增长态势。根据公司7月16日发布的业绩预告，预计2026年上半年营业收入同比增加30.36亿元至38.36亿元，同比增长55.56%至70...",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:31",
-      "keywords": []
-    },
-    {
-      "title": "开盘：美股周四开盘涨跌不一 半导体板块表现疲软",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzfcu7713027.shtml",
-      "content": " 北京时间7月16日晚，美股周四开盘涨跌不一。半导体板块表现疲软。美国零售销售符合预期，失业救济申请下降，费城地区工厂活动指标创下近五年新高。",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:30",
-      "keywords": []
-    },
-    {
-      "title": "中钢洛耐：加快推进公司“1＋X”战略规划落地",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-16/doc-inihzmms7595081.shtml",
-      "content": "证券日报网7月16日讯 ，中钢洛耐在接受调研时表示，钢铁工业是我国最大的耐火材料消耗产业，虽然目前整体呈缩量下行趋势，但在特种钢等高端领域是呈增长趋势。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:29",
-      "keywords": []
-    },
-    {
-      "title": "中科江南：公司密切关注行业发展动态和市场机会",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-16/doc-inihzfcw4495051.shtml",
-      "content": "证券日报网讯 7月16日，中科江南在互动平台回答投资者提问时表示，公司密切关注行业发展动态和市场机会，若有符合公司发展战略的优质标的，公司将基于行业情况...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:29",
-      "keywords": []
-    },
-    {
-      "title": "中钢洛耐：公司持续加强科技创新，推进关键核心技术攻关",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-16/doc-inihzmms7595219.shtml",
-      "content": "证券日报网7月16日讯 ，中钢洛耐在接受调研时表示，公司持续加强科技创新，推进关键核心技术攻关。重型燃气轮机用隔热瓦产品已在国内机组实现整机应用验证...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:29",
-      "keywords": []
-    },
-    {
-      "title": "中钢洛耐：公司主营产品可应用于电解铝、铜冶炼等有色金属行业",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-16/doc-inihzmms7595091.shtml",
-      "content": "证券日报网7月16日讯 ，中钢洛耐在接受调研时表示，公司主营产品可应用于电解铝、铜冶炼等有色金属行业。公司生产的氮化硅结合碳化硅产品，主要应用于铝电解槽...",
-      "priority": "medium",
-      "sectors": [
-        "有色"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:29",
-      "keywords": []
-    },
-    {
-      "title": "中钢洛耐：公司投资建设了高端连铸三大件功能材料生产线",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-16/doc-inihzmms7595188.shtml",
-      "content": "证券日报网7月16日讯 ，中钢洛耐在接受调研时表示，根据公司发展战略，结合市场需求，投资建设了高端连铸三大件功能材料生产线，产品小批量上线试用效果良好并受到客户好评...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:29",
-      "keywords": []
-    },
-    {
-      "title": "奇精机械：公司外销收入约占1/3",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-16/doc-inihzmms7594213.shtml",
-      "content": "证券日报网7月16日讯 ，奇精机械在接受调研时表示，公司外销收入约占1/3，外销订单主要以美元定价和结算，人民币对美元汇率波动对公司业绩形成重要影响。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:28",
-      "keywords": []
-    },
-    {
-      "title": "拓邦股份：公司在国内已与十余家人形机器人企业建立合作关系",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-16/doc-inihzmmx8103380.shtml",
-      "content": "证券日报网7月16日讯 ，拓邦股份在接受调研时表示，公司在国内已与十余家人形机器人企业建立合作关系，向人形机器人、灵巧手厂商供应空心杯电机或执行器模组。",
-      "priority": "medium",
-      "sectors": [
-        "机器人"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:28",
-      "keywords": []
-    },
-    {
-      "title": "赛力斯：持续改善经营质量、增强经营韧性",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-16/doc-inihzfcw4495623.shtml",
-      "content": "证券日报网讯 7月16日，赛力斯在互动平台回答投资者提问时表示，今年上半年，行业普遍面临存储芯片、工业金属、碳酸锂等重要原材料价格上涨的挑战。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:28",
+      "time": "14:27",
       "keywords": []
     },
     {
@@ -1068,6 +926,314 @@
       ]
     },
     {
+      "title": "苹果拟对iPad mini进行五年来最大规模升级 今年秋季发布新品",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-17/doc-inihzrtv8087829.shtml",
+      "content": "苹果公司准备对iPad mini进行五年来最大规模升级，为这款深受旅行人士和科技爱好者欢迎的产品注入新活力。 据知情人士透露，代号为J510的新款iPad...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "16:01",
+      "keywords": []
+    },
+    {
+      "title": "洛克希德·马丁获105亿美元合同，为美军特种作战司令部提供后勤保障",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmw1438287.shtml",
+      "content": "美国国防部与洛克希德·马丁公司7月16日宣布，洛马公司已获得美国特种作战司令部一份为期12年、最高价值105亿美元的合同，负责为美军特种作战部队提供下一代全球后勤与维护...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "15:54",
+      "keywords": []
+    },
+    {
+      "title": "Tetra Tech获美国环保署2500万美元水质监测合同",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmms7670778.shtml",
+      "content": "Tetra Tech（纳斯达克代码：TTEK）近日宣布，美国环境保护署下属的水资源办公室标准与健康保护部已向其授予一份为期五年、价值2500万美元的合同，用于提供高端技术服务...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "15:49",
+      "keywords": []
+    },
+    {
+      "title": "Roblox推出\"Build\"工具，降低游戏创作门槛",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmms7667540.shtml",
+      "content": "Roblox公司近日宣布推出名为“Build”的全新移动端创作工具，允许用户通过简单的文字描述，在Roblox应用程序内直接生成可玩的游戏雏形。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "15:44",
+      "keywords": []
+    },
+    {
+      "title": "Genesis Energy宣布季度现金分配，同比增长逾两成",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmms7666656.shtml",
+      "content": "Genesis Energy， L.P．（纽约证券交易所代码：GEL）宣布，其普通合伙人的董事会已批准2026年第二季度的季度现金分配。普通单位持有人将获得每单位0.20美元的季度分配...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "15:42",
+      "keywords": []
+    },
+    {
+      "title": "研究报告显示GitLab Duo Agent Platform可带来400%投资回报率",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmx8197113.shtml",
+      "content": "GitLab Inc．日前发布由Forrester Consulting独立完成的Total Economic Impact研究报告，结果显示，使用GitLab Duo Agent Platform的组织可在三年内实现400%的投资回报率...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "15:32",
+      "keywords": []
+    },
+    {
+      "title": "通用磨坊旗下Totino's推出全新口味，将粉丝创意\"零食改造\"带入现实",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmw1418015.shtml",
+      "content": " 通用磨坊旗下品牌Totino‘s宣布推出全新Pizza Rolls和Ultimate Pizza系列产品，将粉丝们喜爱的创意搭配和零食改造灵感变为现实，进一步丰富冷冻食品区的选择。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "15:28",
+      "keywords": []
+    },
+    {
+      "title": "Newegg北美独家发售AMD锐龙7 7700X3D",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmx8183653.shtml",
+      "content": "Newegg宣布，即日起在北美独家推出AMD锐龙7 7700X3D处理器。该产品于7月16日正式开售，建议零售价329美元。 新品发布正值内存价格因AI计算需求激增而普遍上涨的时期...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "15:16",
+      "keywords": []
+    },
+    {
+      "title": "美国6月成屋签约销量小幅下滑，高房贷利率与房价令楼市行情疲软",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmx8183626.shtml",
+      "content": "2026 年已过半，美国房地产市场表现如何？ 房屋签约成交量 6 月出现下滑，创纪录的房价与居高不下的抵押贷款利率，正在抑制房产买卖交易活跃度。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "15:16",
+      "keywords": []
+    },
+    {
+      "title": "上周美国首次申领失业救济金人数降至20.8万人，裁员规模处于历史低位",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmw1404818.shtml",
+      "content": "美国当周初请失业金人数下降，劳动力市场保持稳定 上周美国首次申领失业救济金人数出现下降，反映劳动力市场持续保持平稳。 美国劳工部周四公布，截至 7 月 11 日的一周...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "15:13",
+      "keywords": []
+    },
+    {
+      "title": "Belden连续第四年荣获“最佳职场”认证",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmms7647835.shtml",
+      "content": "全球领先的专业网络解决方案供应商Belden Inc．宣布，公司已连续第四年获得Great Place To Work认证。这项权威荣誉完全基于在职员工对在Belden工作体验的真实评价...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "15:11",
+      "keywords": []
+    },
+    {
+      "title": "ISG报告：AI推动敏捷供应链平台崛起",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmx8176142.shtml",
+      "content": "全球AI技术研究与咨询公司Information Services Group发布的最新研究指出，企业正加速采用人工智能驱动的供应链规划平台，以应对日益频繁的中断风险和快速变化的市场环境。...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "15:08",
+      "keywords": []
+    },
+    {
+      "title": "海飞丝借2026年美国体操经典赛正式启动与美国体操协会合作",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmms7641818.shtml",
+      "content": "宝洁旗下品牌海飞丝作为美国体操协会（USAG）官方洗发水，将于7月17日至18日在康涅狄格州哈特福德举行的2026年美国体操经典赛上正式启动双方合作。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "15:03",
+      "keywords": []
+    },
+    {
+      "title": "GeneDx因收购Fabric Genomics披露问题面临证券集体诉讼",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmx8169546.shtml",
+      "content": "股东权利律师事务所Robbins LLP提醒GeneDx Holdings Corp．（纳斯达克代码：WGS）的投资者，一项代表在2025年4月16日至2026年5月4日期间购买该公司普通股的投资者提起的证...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "15:00",
+      "keywords": []
+    },
+    {
+      "title": "美方不认可加拿大妥协 美加贸易谈判难破局",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmms7639754.shtml",
+      "content": " 加拿大总理马克·卡尼因美加贸易谈判陷入停滞而在国内面临日益增大的批评压力，而特朗普政府的最新表态表明，加方做出的让步并未对华盛顿产生多大推动作用。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "15:00",
+      "keywords": []
+    },
+    {
+      "title": "Halper Sadeh律所对AtaiBeckley收购案发起股东公平性调查",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmx8167766.shtml",
+      "content": "投资者权利律师事务所Halper Sadeh LLC宣布，正在对AtaiBeckley Inc．（纳斯达克代码：ATAI）与礼来公司的合并交易展开调查，以评估AtaiBeckley董事会是否在交易中履行了对...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "14:58",
+      "keywords": []
+    },
+    {
+      "title": "Voyager Technologies携手Geisinger拓展微重力医疗研究",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmms7637379.shtml",
+      "content": "Voyager Technologies（纽约证券交易所代码：VOYG）宣布与美国大型医疗系统Geisinger达成合作，后者成为其Voyager空间技术与进步研究所的首个主要临床与生命科学合作伙伴。...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "14:56",
+      "keywords": []
+    },
+    {
+      "title": "美股早盘受芯片股拖累走低 台积电利好失灵引发不安",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-16/doc-inihzmms7634701.shtml",
+      "content": " 芯片制造商遭遇抛售，拖累美国股市早盘下跌。市场担心，巨额人工智能投资能否支撑高企估值；与此同时，油价上涨推高债券收益率，也令市场承压。",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "14:51",
+      "keywords": []
+    },
+    {
+      "title": "长江存储，31人券商“辅导天团”曝光！",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/wm/2026-07-16/doc-inihzmmx8155372.shtml",
+      "content": "国产存储巨头长江存储IPO提速。 近日，证监会官网显示，中信证券与中信建投联合提交了长江存储控股股份有限公司IPO辅导工作进展情况报告（第一期），首轮辅导正式完成。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "14:41",
+      "keywords": []
+    },
+    {
+      "title": "The Trade Desk任命Vinny Rinaldi为客户战略与增长副总裁",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmx8153121.shtml",
+      "content": "广告科技公司The Trade Desk宣布，Vinny Rinaldi已加入公司担任客户战略与增长副总裁。在这一岗位上，Rinaldi将负责与广告主紧密合作...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "14:40",
+      "keywords": []
+    },
+    {
+      "title": "梁文锋打新长鑫科技",
+      "source": "一财网",
+      "url": "https://finance.sina.com.cn/wm/2026-07-16/doc-inihzmmw1375458.shtml",
+      "content": "2026.07．16 作者 |第一财经郑栩彤 DeepSeek和幻方量化创始人梁文锋旗下的公司，出现在了长鑫科技的“打新名单”里。 据长鑫科技的科创板上市发行公告...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "14:35",
+      "keywords": []
+    },
+    {
+      "title": "A股再现“天价”离婚！银信科技实控人遭起诉，9亿股权面临分割",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/s/2026-07-16/doc-inihzmms7626030.shtml",
+      "content": "来源：上市之家 7月16日，北京银信长远科技股份有限公司（300231.SZ，简称“银信科技”）发布公告称，公司控股股东、实际控制人詹立雄的配偶郑丹作为原告...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-16",
+      "time": "14:30",
+      "keywords": []
+    },
+    {
       "title": "雅培实验室诊断业务热销带动整体营收增长",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmw1367100.shtml",
@@ -1093,175 +1259,6 @@
       "period": "noon",
       "date": "2026-07-16",
       "time": "14:29",
-      "keywords": []
-    },
-    {
-      "title": "沃伦参议员：特朗普政府整改消费者金融保护局，已让美国民众多支出265亿美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmx8135877.shtml",
-      "content": "核心要点 沃伦参议员一份独家提供的报告测算，特朗普政府废除信用卡滞纳金、银行账户透支费限价规则，致使消费者多承担 225 亿美元成本...",
-      "priority": "low",
-      "sectors": [
-        "消费",
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "14:23",
-      "keywords": []
-    },
-    {
-      "title": "美国住宅建筑商信心再度下滑 跌至年内低点",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmx8133653.shtml",
-      "content": "美国住宅建筑商信心连续第二个月下滑，降至今年以来最低水平，受借贷成本高企以及材料和土地价格上涨拖累。 美国全国住宅建筑商协会（NAHB）和富国周四联合发布的数据显示...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "14:20",
-      "keywords": []
-    },
-    {
-      "title": "视频 | 世界杯踢到最后，成瑞幸“踢”库迪，西班牙、阿根廷将争夺世界杯冠军，瑞幸、库迪分别为两队赞助商",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-16/doc-inihzmmu4386008.shtml",
-      "content": "",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "14:13",
-      "keywords": []
-    },
-    {
-      "title": "7月16日增减持汇总：雪龙集团等3股披露增持情况，首华燃气拟减持（表）",
-      "source": "新浪证券",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-16/doc-inihzmmx8107946.shtml",
-      "content": "据不完全统计，7月16日盘后，雪龙集团、欧菲光、大地熊3家A股公司披露增持情况，首华燃气披露拟减持情况。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:52",
-      "keywords": []
-    },
-    {
-      "title": "美国国税局局长：“我们要让所有家庭都开立特朗普儿童储蓄账户”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-16/doc-inihzmmw1327546.shtml",
-      "content": "核心要点 美国财政部 7 月 10 日统计数据显示，已有家庭为 650 万名儿童完成该账户开户登记。 受指派牵头推进特朗普儿童储蓄账户扩容工作的美国国税局首席执行官弗兰克・比...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:48",
-      "keywords": []
-    },
-    {
-      "title": "2026版国家基药目录发布！云顶新耀三大重症急救核心用药在列，思他宁全新纳入",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-07-16/doc-inihzmmu4372064.shtml",
-      "content": "近日，为更好满足群众疾病防治基本用药需求，由国家卫生健康委、国家中医药局、国家疾控局三部门联合发布的《国家基本药物目录（2026年版）》正式公布...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:39",
-      "keywords": []
-    },
-    {
-      "title": "秦港股份：公司将持续做好生产经营",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-16/doc-inihzfcu7719484.shtml",
-      "content": "证券日报网讯7月16日，秦港股份在互动平台回答投资者提问时表示，公司股价波动受多重因素影响，公司将持续做好生产经营，努力推动经营水平和发展质量提升。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:31",
-      "keywords": []
-    },
-    {
-      "title": "地瓜机器人更新量产进度条，CEO谈具身智能产业化门槛",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-16/doc-inihzmmx8101799.shtml",
-      "content": "来源：@华夏时报微博华夏时报记者 石飞月 上海报道2026年，具身智能产业进入落地验证与量产预研的关键阶段，但大规模量产仍然面临着不小的挑战。",
-      "priority": "low",
-      "sectors": [
-        "机器人"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:30",
-      "keywords": []
-    },
-    {
-      "title": "浙江美大：控制权拟变更 股票复牌",
-      "source": "财联社",
-      "url": "https://finance.sina.com.cn/roll/2026-07-16/doc-inihzfcy1448170.shtml",
-      "content": "浙江美大(002677.SZ)公告称，公司控股股东、实际控制人夏志生、夏鼎与深圳星蓝图产业投资合伙企业签署《股份转让协议》，拟以协议转让方式分别向深圳星蓝图转让14.20%和15...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:30",
-      "keywords": []
-    },
-    {
-      "title": "中泰股份：公司自行制取的稀有气体已达电子级别",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-16/doc-inihzmmx8107277.shtml",
-      "content": "证券日报网讯 7月16日，中泰股份在互动平台回答投资者提问时表示，公司自行制取的稀有气体已达电子级别，可向下游航天、半导体等领域提供相应气体。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:29",
-      "keywords": []
-    },
-    {
-      "title": "中泰股份：公司的提氦装置目前已投产运行",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-16/doc-inihzmmx8107266.shtml",
-      "content": "证券日报网讯 7月16日，中泰股份在互动平台回答投资者提问时表示，公司的提氦装置目前已投产运行，可满足客户多种下游需求。（文章来源：证券日报）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:29",
-      "keywords": []
-    },
-    {
-      "title": "拓荆科技：已在北京、上海、武汉、合肥、天津等多个集成电路产业聚集区域设立技术服务中心",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-16/doc-inihzfcu7719011.shtml",
-      "content": "证券日报网讯 7月16日，拓荆科技在互动平台回答投资者提问时表示，公司高度重视客户端技术服务能力建设，已在北京、上海、武汉、合肥...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "13:28",
       "keywords": []
     },
     {
