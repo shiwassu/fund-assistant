@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-16T19:44:00.267211",
+  "updated": "2026-07-16T21:40:34.424541",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,68 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 22,
+    "high": 24,
     "medium": 31,
-    "low": 97
+    "low": 95
   },
   "items": [
+    {
+      "title": "大宗商品综述：油价下跌 镍价上涨 金价走低",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaaiq1283401.shtml",
+      "content": "由于交易员在获利回吐和对中东石油供应的担忧之间寻求平衡，原油价格周四下跌，不过本周累计仍上涨。镍价升至三周高点，因为主要生产国印尼的采矿政策前景存在不确定性。",
+      "priority": "high",
+      "sectors": [
+        "黄金",
+        "有色"
+      ],
+      "period": "night",
+      "date": "2026-07-16",
+      "time": "20:56",
+      "keywords": []
+    },
+    {
+      "title": "7月17日美股成交额前20：谷歌推迟发布Gemini旗舰模型",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaaik7424382.shtml",
+      "content": "周四美股成交额第1名美光科技收跌5.65%，成交391.2亿美元。周四美股存储股下挫，美光市值跌破1万亿美元。 第2名英伟达收跌2.4%，成交250.58亿美元。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-16",
+      "time": "20:50",
+      "keywords": []
+    },
+    {
+      "title": "7月17日外盘头条：美国对伊朗发动新一轮打击 苹果拟对iPad mini进行升级 堪萨斯城联储行长称美国通胀过热",
+      "source": "",
+      "url": "https://finance.sina.com.cn/world/2026-07-17/doc-iniiaaiq1279026.shtml",
+      "content": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、美国对伊朗发动新一轮打击 霍尔木兹海峡航运量骤降 2、达拉斯联储行长洛根支持“适度”加息 3...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-16",
+      "time": "20:34",
+      "keywords": []
+    },
+    {
+      "title": "达拉斯联储行长洛根支持“适度”加息",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzvzs1362293.shtml",
+      "content": " 达拉斯联邦储备银行行长洛里·洛根周四表示，本周公布的利好通胀数据还不够好，她呼吁适度提高利率，以打赢这场美联储已持续输掉五年的抗通胀之战。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-16",
+      "time": "19:52",
+      "keywords": []
+    },
     {
       "title": "Embecta面临证券欺诈集体诉讼 财报暴雷曾导致股价单日暴跌57.8%",
       "source": "环球市场播报",
@@ -108,34 +165,6 @@
       "period": "noon",
       "date": "2026-07-16",
       "time": "17:28",
-      "keywords": []
-    },
-    {
-      "title": "AST太空移动股价为何暴跌",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzrtq7561505.shtml",
-      "content": " AST 太空移动（纳斯达克代码：ASTS）怀揣宏大愿景：为全球任意地点的智能手机直连卫星宽带网络。但搭建并发射这套卫星阵列技术体系，需要巨额资金投入。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "16:32",
-      "keywords": []
-    },
-    {
-      "title": "欧洲债市：德债下滑 市场关注加息可能",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-17/doc-inihzrts4332172.shtml",
-      "content": " 欧洲国家国债下跌，因美国对伊朗的空袭不断升级，凸显出在油价居高不下之际，全球央行未来数月仍有可能继续关注于加息。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "16:20",
       "keywords": []
     },
     {
@@ -349,6 +378,36 @@
       ]
     },
     {
+      "title": "美国股市：科技股拖累大盘走低 台积电业绩重燃AI支出担忧",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaaik7448017.shtml",
+      "content": "科技股拖累美国主要股指走低，此前台积电公布的业绩重新引发市场对人工智能支出的担忧。 纳斯达克100指数在纽约收跌1.6%，标普500指数下跌0.5%。",
+      "priority": "medium",
+      "sectors": [
+        "半导体",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-16",
+      "time": "21:27",
+      "keywords": []
+    },
+    {
+      "title": "7月17日热门中概股涨跌不一 小鹏汽车涨2%，台积电跌2.25%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzvzn7540541.shtml",
+      "content": "7月17日热门中概股涨跌不一，纳斯达克中国金龙指数（HXC）收高1.79%。 上涨个股（按市值从高到低）：拼多多涨1.10%，网易涨0.44%，京东涨1.37%，百度涨1.20%，中华电信涨1...",
+      "priority": "medium",
+      "sectors": [
+        "半导体",
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-07-16",
+      "time": "20:17",
+      "keywords": []
+    },
+    {
       "title": "Galaxy Digital推出机构级金库管理服务Galaxy Curator",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzvzq4292823.shtml",
@@ -458,34 +517,6 @@
       "period": "noon",
       "date": "2026-07-16",
       "time": "17:07",
-      "keywords": []
-    },
-    {
-      "title": "甲骨文股价走低，派珀桑德勒券商维持买入评级",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzrtq7567909.shtml",
-      "content": "科技企业财报盈利预期调整对投资者意味着什么 受高额资本开支担忧拖累，甲骨文（纽交所：ORCL）近一个月累计跌幅超 28%。但华尔街机构依旧看多该股...",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "16:48",
-      "keywords": []
-    },
-    {
-      "title": "闪迪股价持续下跌的背后原因",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzrts4342401.shtml",
-      "content": "芯片板块集体遭抛售，但行业利润预计 2027 年翻三倍 周四闪迪（纳斯达克代码：SNDK）股价连续第二日大跌，背后缘由是什么？ 台积电（纽交所代码：TSM）二季度财报业绩超分...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "16:43",
       "keywords": []
     },
     {
@@ -827,6 +858,132 @@
       ]
     },
     {
+      "title": "关闭信号的船只和阿曼海域转运显示霍尔木兹海峡通行仍在继续",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaain4225886.shtml",
+      "content": " 几艘油轮被发现正在阿曼海岸附近进行船对船转运，显示在伊朗近期发动袭击后，船只仍在继续通过霍尔木兹海峡，再将货物转装至其他船只。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-16",
+      "time": "21:29",
+      "keywords": []
+    },
+    {
+      "title": "特朗普将在讲话中谈及委内瑞拉选举",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaain4223794.shtml",
+      "content": "两名知情人士称，美国总统特朗普准备在周四晚间讲话中谈及委内瑞拉前总统尼古拉斯·马杜罗涉嫌操纵本国选举的阴谋。 政府官员认为...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-16",
+      "time": "21:26",
+      "keywords": []
+    },
+    {
+      "title": "美国债市：美债维持小幅跌势 油价走势震荡",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniiaaik7425615.shtml",
+      "content": "美国国债走势全天受到油价先涨后跌的影响，最终各期限收益率日内小幅上升。国债在早盘受油价上涨影响承压下跌，但随着交易员在获利回吐和对中东石油供应的担忧之间寻求平衡...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-16",
+      "time": "20:54",
+      "keywords": []
+    },
+    {
+      "title": "7月17日收盘：美股收跌科技股领跌，芯片股再遭抛售",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzvzt8152115.shtml",
+      "content": "北京时间7月17日凌晨，美股周四收跌，纳指下跌超过380点。芯片股的大规模抛售盖过了一连串稳健的财报利好。 道指跌105.67点，跌幅为0.20%，报52552.97点；纳指跌387.28点...",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-07-16",
+      "time": "20:08",
+      "keywords": []
+    },
+    {
+      "title": "原油：油价下跌 投资者获利回吐遏制了涨势",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzvzt8151347.shtml",
+      "content": "由于交易员在获利回吐和对中东石油供应的担忧之间寻求平衡，原油价格周四下跌，不过本周累计仍上涨。 全球基准的布伦特原油结算价高于每桶84美元...",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-07-16",
+      "time": "20:07",
+      "keywords": []
+    },
+    {
+      "title": "苹果拟对iPad mini进行五年来最大规模升级 今年秋季发布新品",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-17/doc-inihzrtv8087829.shtml",
+      "content": "苹果公司准备对iPad mini进行五年来最大规模升级，为这款深受旅行人士和科技爱好者欢迎的产品注入新活力。 据知情人士透露，代号为J510的新款iPad...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-16",
+      "time": "20:00",
+      "keywords": []
+    },
+    {
+      "title": "据传Gemini 3.5 Pro AI模型延迟 Alphabet股价下跌4.7%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzvzs1360539.shtml",
+      "content": "Alphabet股价因一则报道称公司推迟发布其旗舰人工智能模型Gemini 3.5 Pro而下跌。 该股最新下跌4.7%。Alphabet的下跌拖累了主要股指，使其在周四下午跌至日内低点。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-16",
+      "time": "19:49",
+      "keywords": []
+    },
+    {
+      "title": "Roblox因年龄验证冲击遭集体诉讼，首席原告申请截止8月7日",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzvzq4302983.shtml",
+      "content": " 在线游戏平台Roblox Corporation（纽约证券交易所代码：RBLX）正面临证券欺诈集体诉讼。投资者申请担任首席原告的截止日期为2026年8月7日。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-16",
+      "time": "19:47",
+      "keywords": []
+    },
+    {
+      "title": "美国对伊朗发动新一轮打击 霍尔木兹海峡航运量骤降",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzvzs1356879.shtml",
+      "content": " 美国周四对伊朗发动新一轮打击，此前已连续数日空袭伊朗，眼下中东地区的敌对行动持续升级，霍尔木兹海峡航运量急剧下滑。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-16",
+      "time": "19:45",
+      "keywords": []
+    },
+    {
       "title": "临床数据披露引发专利与安全双重危机，Erasca遭投资者集体诉讼",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzvzt8130537.shtml",
@@ -1104,161 +1261,6 @@
       "period": "noon",
       "date": "2026-07-16",
       "time": "17:04",
-      "keywords": []
-    },
-    {
-      "title": "电动车渗透率回暖提速，但购车负担能力问题愈发突出",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzrtq7569301.shtml",
-      "content": "特斯拉二季度交付量大幅超出预期，股价却走低 过去，续航焦虑是美国消费者选购电动车的主要顾虑，如今，购车成本负担成为普及电动车更大的阻碍。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "16:51",
-      "keywords": []
-    },
-    {
-      "title": "AST太空移动对比火箭实验室：一个核心数据拉开两只航天股差距",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzrts4343712.shtml",
-      "content": "当下热度最高的两只航天概念股，吸引着两种截然不同的投资逻辑。AST 太空移动（纳斯达克：ASTS）怀揣宏大愿景：依靠卫星直接向普通手机传输宽带信号；火箭实验室（纳斯达克...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "16:45",
-      "keywords": []
-    },
-    {
-      "title": "欧洲股市盘中震荡 收盘小幅上涨",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-17/doc-inihzrtu1339517.shtml",
-      "content": " 欧洲股市收复盘中跌幅，小幅收高，投资者继续关注地缘政治风险升温。ABB Ltd．股价下跌5.9%，此前宣布收购英国工业零部件制造商Rotork Plc。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "16:43",
-      "keywords": []
-    },
-    {
-      "title": "美国将F和J类签证限制在4年 阻止所谓“永久学生”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-17/doc-inihzrtq7565698.shtml",
-      "content": "美国国土安全部宣布最终规则，将F类和J类学生签证的停留期限限定为持有人课程的时长，最长不超过四年。 国土安全部在电子邮件中表示...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "16:43",
-      "keywords": []
-    },
-    {
-      "title": "美国抵押贷款利率升至6.55% 创2025年8月以来最高",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-17/doc-inihzrtv8115068.shtml",
-      "content": "美国抵押贷款利率升至近一年来最高水平，因中东紧张局势再度升温，再度引发对通胀的担忧。 房地美周四在声明中表示，30年期固定利率抵押贷款平均利率为6.55%...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "16:42",
-      "keywords": []
-    },
-    {
-      "title": "三年前各投5000美元买入亚马逊和好市多，如今分别能赚多少钱？收益差距超乎你的想象",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzrtq7564858.shtml",
-      "content": "亚马逊（纳斯达克：AMZN）与仓储式商超好市多（纳斯达克：COST）均是知名消费品零售企业，但从盈利本质来看，亚马逊的科技属性远强于零售属性。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "16:40",
-      "keywords": []
-    },
-    {
-      "title": "鸡肉快餐巨头悄然关闭207家美国门店",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzrtq7563086.shtml",
-      "content": "运营大型快餐品牌看似简单，但老牌连锁中，能历经长久市场考验的寥寥无几，仅有 1940 年创立的麦当劳、1952 年创立的肯德基等少数品牌。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "16:35",
-      "keywords": []
-    },
-    {
-      "title": "百事公司股价跌至一年来低点",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-inihzrtq7558344.shtml",
-      "content": "百事公司股价如今失去上涨动力。 核心速览 雅虎财经 AlphaSpace 数据显示，百事股价徘徊在近一年低点。公司远期市盈率约 15.4 倍...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "16:26",
-      "keywords": []
-    },
-    {
-      "title": "特朗普与共和党坐拥11亿美元资金备战中期选举 规模达民主党阵营3倍多",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-17/doc-inihzrtq7557702.shtml",
-      "content": " 联邦选举委员会最新披露显示，在中期选举前，美国总统唐纳德·特朗普及其共和党盟友已筹得11亿美元竞选资金，达到民主党阵营所持资金的三倍多。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "16:24",
-      "keywords": []
-    },
-    {
-      "title": "美国银行CEO加入华尔街高管之列 警示Mythos等AI模型风险",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-17/doc-inihzrts4331745.shtml",
-      "content": "美国银行首席执行官Brian Moynihan加入华尔街高管行列，指出Anthropic PBC的Mythos等人工智能模型正引发严重关切。 “需要投入的工作量发生巨大变化...",
-      "priority": "low",
-      "sectors": [
-        "金融",
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "16:19",
-      "keywords": []
-    },
-    {
-      "title": "苹果拟对iPad mini进行五年来最大规模升级 今年秋季发布新品",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-17/doc-inihzrtv8087829.shtml",
-      "content": "苹果公司准备对iPad mini进行五年来最大规模升级，为这款深受旅行人士和科技爱好者欢迎的产品注入新活力。 据知情人士透露，代号为J510的新款iPad...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-16",
-      "time": "16:01",
       "keywords": []
     },
     {
