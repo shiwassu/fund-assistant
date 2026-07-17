@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-17T16:00:51.282695",
+  "updated": "2026-07-17T17:42:38.769522",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,25 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 19,
-    "medium": 28,
+    "high": 20,
+    "medium": 27,
     "low": 103
   },
   "items": [
+    {
+      "title": "星舰试飞紧急中止，SpaceX 股价大跌，或将迎来六连阴行情",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicusv8306575.shtml",
+      "content": "核心要点 前一日星舰试飞宣告失败，SpaceX 周五股价大幅下挫。 发动机点火故障导致 SpaceX 紧急叫停本次试射。 公司 6 月完成轰动市场的 IPO 上市后...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-17",
+      "time": "16:44",
+      "keywords": []
+    },
     {
       "title": "SpaceX星舰V3第二次试射点火后紧急中止",
       "source": "环球市场播报",
@@ -311,6 +325,34 @@
       ]
     },
     {
+      "title": "欧洲股市下跌 受科技股抛售与中东局势升级拖累",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicuss4141745.shtml",
+      "content": "欧洲股市周五下挫，地缘政治紧张局势升级以及科技股遭抛售拖累市场表现。 斯托克欧洲600指数收盘下跌0.3%，几乎抹去本周全部涨幅。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-17",
+      "time": "16:43",
+      "keywords": []
+    },
+    {
+      "title": "周五芯片板块抛售行情进一步加剧",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicyyn7249443.shtml",
+      "content": "VanEck半导体 ETF（SMH）跌幅超 4%，芯片股承压延续跌势。投资者开始质疑，此轮由人工智能概念带动的上涨行情，是否已让板块估值脱离基本面支撑。",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "noon",
+      "date": "2026-07-17",
+      "time": "16:30",
+      "keywords": []
+    },
+    {
       "title": "阿斯麦拟向员工发放2万欧元一次性奖励 AI需求旺盛推动业绩增长",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicuss4109416.shtml",
@@ -406,49 +448,6 @@
       "period": "noon",
       "date": "2026-07-17",
       "time": "14:50",
-      "keywords": []
-    },
-    {
-      "title": "消费者信心指数超预期回升 现货黄金逼近4000美元关口",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicqkx8309904.shtml",
-      "content": " 周五，受美国消费者信心数据超预期改善以及通胀预期有所缓和的双重提振，现货黄金价格攀升至日内高点，一度逼近每盎司4000美元。",
-      "priority": "medium",
-      "sectors": [
-        "黄金",
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "14:42",
-      "keywords": []
-    },
-    {
-      "title": "深夜，美存储芯片股集体反弹！",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/wm/2026-07-17/doc-iniicqku4186282.shtml",
-      "content": "存储芯片股反弹。 当地时间7月17日（周五），美股开盘延续此前下跌态势，纳指探底后跌幅收窄，道指转涨。截至发稿，纳指跌超1%，标普500指数跌0.57%，道指微涨0.04%。",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "14:34",
-      "keywords": []
-    },
-    {
-      "title": "股市大跌，十几家基金公司火速解读",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-17/doc-iniicqks7384876.shtml",
-      "content": "来源：中国基金报 【导读】A股失守3800点，基金公司连夜解读：到底发生了什么？ 中国基金报记者 闫军 上证指数失守3800点。本周（7月13日至17日）成为A股年内最惨烈交易周...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "14:05",
       "keywords": []
     },
     {
@@ -739,6 +738,118 @@
       "keywords": [
         "权益周观察"
       ]
+    },
+    {
+      "title": "据报Meta洽谈向Anthropic租赁算力 价值最高可达100亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicyys1426421.shtml",
+      "content": " 据报道，Meta Platforms Inc．正与Anthropic PBC展开初步磋商，拟向后者出租其数据中心的算力。这项合作将为时两年，价值最高可达100亿美元。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-07-17",
+      "time": "17:12",
+      "keywords": []
+    },
+    {
+      "title": "当选工党领袖后首度演讲 伯纳姆承诺打造支持企业发展的政府",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicyyn7253385.shtml",
+      "content": " 安迪·伯纳姆在无人竞争的情况下正式当选执政党工党领袖，他在当选后的首次讲话中表示，将成为一位支持企业发展的首相。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-17",
+      "time": "17:10",
+      "keywords": []
+    },
+    {
+      "title": "Anthropic正与Meta开展初期洽谈，计划租赁后者算力资源",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicusq7369033.shtml",
+      "content": "核心要点 Anthropic 已进入非常初步的磋商阶段，拟向 Meta 租赁算力。 本次谈判数周前，Anthropic 刚与埃隆・马斯克旗下 SpaceX 达成同类合作...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-07-17",
+      "time": "16:49",
+      "keywords": []
+    },
+    {
+      "title": "美国国债期货下跌 据报美国向以色列增派数十架空中加油机",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicuss4132165.shtml",
+      "content": "美国国债期货下跌，收益率曲线延续平坦化势头。据报美国在可能升级军事行动前夕向以色列增派数十架空中加油机。 当天跌势主要集中在收益率曲线前端...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-17",
+      "time": "16:29",
+      "keywords": []
+    },
+    {
+      "title": "欧洲债市：受避险情绪推动 欧洲长期政府债券上涨",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicusq7353819.shtml",
+      "content": "在全球市场避险情绪高涨的背景下，欧洲长期政府债券上涨。 德国30年期国债收益率下跌3个基点至3.62%，而两年期国债收益率上涨1个基点至2.78%。",
+      "priority": "low",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "noon",
+      "date": "2026-07-17",
+      "time": "16:26",
+      "keywords": []
+    },
+    {
+      "title": "加州亿万富翁税提案：美国第一大州经济将面临何种风险",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicusu1500197.shtml",
+      "content": "核心要点 加州拟议的亿万富翁税能够为州政府带来关键财政收入，但如果富豪集体迁出，将对经济造成长期损害；这也是民主党州长、有意角逐 2028...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-17",
+      "time": "16:15",
+      "keywords": []
+    },
+    {
+      "title": "苹果、英伟达角逐全球市值最高企业宝座",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicusu1494247.shtml",
+      "content": "核心要点 苹果总市值反超英伟达，重新夺回全球市值第一企业的头衔。 2026 年苹果股价表现优于这家 AI 芯片巨头，投资者看好苹果人工智能投入规划，给予估值溢价。",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "noon",
+      "date": "2026-07-17",
+      "time": "16:09",
+      "keywords": []
+    },
+    {
+      "title": "午盘：美股维持下跌局面，三大股指本周均有可能录得跌幅",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicuss4116807.shtml",
+      "content": "北京时间7月18日凌晨，美股周五午盘维持下跌局面，三大股指本周均有可能录得跌幅。市场对人工智能支出的担忧不断升温，打压了市场情绪，拖累科技股走低。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-17",
+      "time": "16:06",
+      "keywords": []
     },
     {
       "title": "可口可乐旗下Fairlife乳业遭勒索软件攻击 生产暂停",
@@ -1108,119 +1219,6 @@
       "period": "noon",
       "date": "2026-07-17",
       "time": "14:46",
-      "keywords": []
-    },
-    {
-      "title": "沃尔玛美国首席运营官本周将离职",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicqks7411187.shtml",
-      "content": "沃尔玛正在调整其美国核心业务的最高管理层，这家零售巨头的新任首席执行官仍在搭建自己的管理团队。 内部备忘录显示，沃尔玛美国区首席运营官Kieran...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "14:43",
-      "keywords": []
-    },
-    {
-      "title": "苹果凭低资本开支优势超越英伟达登顶全球市值榜",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicqks7399677.shtml",
-      "content": "苹果市值反超英伟达，时隔一年多重登全球市值最高企业宝座。投资者愈发看好这家iPhone厂商能在人工智能赛道实现逆袭，同时无需像其他大型科技巨头那样...",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "14:28",
-      "keywords": []
-    },
-    {
-      "title": "直击WAIC丨网易灵动三大原创技术亮相，遥控千里外的电厂与船舱",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/it/2026-07-17/doc-iniicqkx8293755.shtml",
-      "content": "新浪科技讯 7月17日晚间消息，7月17日至20日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海举行。 网易旗下专注工程机械领域的具身智能品牌网易灵动...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "14:27",
-      "keywords": []
-    },
-    {
-      "title": "飞天茅台再调价：压缩炒作空间，促进公平购酒",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/wm/2026-07-17/doc-iniicqks7401156.shtml",
-      "content": "7月17日晚，贵州茅台分别在上交所和i茅台平台发布公告称：按照“随行就市、相对平稳，供需适配、量价平衡”的原则，为有效维护市场秩序，自2026年7月18日零时起...",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "14:26",
-      "keywords": []
-    },
-    {
-      "title": "沃尔玛再度高层大换血",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicqkx8287123.shtml",
-      "content": "沃尔玛正调整其庞大美国本土业务的高层管理团队，这家零售巨头新任首席执行官持续搭建属于自己的核心管理层。 一份内部备忘录显示...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "14:22",
-      "keywords": []
-    },
-    {
-      "title": "伯纳姆拟扩充英国商业部门 雷诺兹有望重回商务大臣一职",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicqku4167044.shtml",
-      "content": "据知情人士透露，安迪・伯纳姆正拟定方案，计划扩充商业部编制，并让乔纳森・雷诺兹重新出任商务大臣。 周五，伯纳姆在宣告自己正式就任工党新领袖的演讲中表态...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "14:16",
-      "keywords": []
-    },
-    {
-      "title": "苹果重夺全球市值最高企业宝座，超越英伟达",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicqks7388657.shtml",
-      "content": "苹果市值一举超越英伟达，时隔一年多再度登顶全球市值最高企业。投资者如今看好这家 iPhone 厂商能在人工智能赛道实现翻盘，同时它无需像其他大型科技巨头那样...",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "14:14",
-      "keywords": []
-    },
-    {
-      "title": "锂电池，要和成品油一样交消费税了",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/roll/2026-07-17/doc-iniicqkx8273971.shtml",
-      "content": "油电同权是大势所趋。 7月16日，财政部、海关总署、税务总局联合发布公告称，自2026年9月1日起，对锂原电池、锂离子蓄电池等此前免征消费税的电池产品分步恢复征收消费税。...",
-      "priority": "low",
-      "sectors": [
-        "能源",
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "14:08",
       "keywords": []
     },
     {
