@@ -1,17 +1,59 @@
 {
-  "updated": "2026-07-17T21:27:03.443589",
-  "total": 150,
+  "updated": "2026-07-17T23:30:30.588872",
+  "total": 149,
   "sources": [
     "新浪财经",
     "akshare-财新",
     "Tushare"
   ],
   "priority_dist": {
-    "high": 18,
-    "medium": 29,
-    "low": 103
+    "high": 17,
+    "medium": 27,
+    "low": 105
   },
   "items": [
+    {
+      "title": "专家：政策拖累汇率 日元对美元汇率或将创新低",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiemqk3993484.shtml",
+      "content": "转自：央视新闻 据英国方面17日消息，RSM咨询公司专家乔·布鲁苏埃拉斯表示，在日本政府刺激经济计划开始显现成效、推动日元汇率企稳反转之前，日元大概率会继续走弱...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-17",
+      "time": "22:31",
+      "keywords": []
+    },
+    {
+      "title": "SpaceX股价持续下挫 市值从峰值蒸发1万亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqn1481392.shtml",
+      "content": "SpaceX股价周五大幅下跌，这家火箭和人工智能巨头的市值较历史高点蒸发逾1万亿美元。 SpaceX下跌5.4%，收于每股123.99美元，公司市值降至1.63万亿美元。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-17",
+      "time": "22:16",
+      "keywords": []
+    },
+    {
+      "title": "美国考虑设立类似金融业监管局的部门 负责审查顶尖人工智能模型",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniiemqn1476162.shtml",
+      "content": " 在硅谷领导人抱怨美国近期遏制前沿人工智能系统发布的举措后，特朗普政府正考虑一项计划，以便在行业参与下由独立监管机构审查人工智能模型的安全性。",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-07-17",
+      "time": "22:11",
+      "keywords": []
+    },
     {
       "title": "美国联邦航空管理局恢复波音为737 MAX和787签发适航证的权限",
       "source": "环球市场播报",
@@ -24,62 +66,6 @@
       "period": "night",
       "date": "2026-07-17",
       "time": "18:11",
-      "keywords": []
-    },
-    {
-      "title": "星舰试飞紧急中止，SpaceX 股价大跌，或将迎来六连阴行情",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicusv8306575.shtml",
-      "content": "核心要点 前一日星舰试飞宣告失败，SpaceX 周五股价大幅下挫。 发动机点火故障导致 SpaceX 紧急叫停本次试射。 公司 6 月完成轰动市场的 IPO 上市后...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "16:44",
-      "keywords": []
-    },
-    {
-      "title": "SpaceX星舰V3第二次试射点火后紧急中止",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicuss4107330.shtml",
-      "content": "SpaceX周四在得克萨斯州南部基地对升级版星舰火箭系统进行第二次试射，助推器点火后不久即突然中止。首席执行官埃隆·马斯克在X平台上表示，“部分发动机未能启动...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "15:52",
-      "keywords": []
-    },
-    {
-      "title": "旧金山市长敦促加强自动驾驶监管 此前Waymo引发交通瘫痪",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusu1474704.shtml",
-      "content": "旧金山市长丹尼尔·卢里曾表示该市应成为新兴技术的试验场，但这一立场在Waymo自动驾驶出租车引发长达数小时的交通堵塞后发生了转变。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "15:48",
-      "keywords": []
-    },
-    {
-      "title": "达能报告关于投票权及股份总数的信息",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicuss4094734.shtml",
-      "content": "达能（OTCQX：DANOY）根据法国监管要求，报告了截至2026年6月30日的资本及投票权情况。公司已发行股份总数为683，337，177股，对应理论投票权723，091，363票...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "15:34",
       "keywords": []
     },
     {
@@ -293,6 +279,34 @@
       ]
     },
     {
+      "title": "中东地区军事冲突持续 国际油价17日上涨超4%",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiemqh7229245.shtml",
+      "content": "由于中东地区军事冲突持续，国际原油期货价格17日盘中震荡走高，收盘时涨幅超4%，纽约原油期货主力合约价格在过去一个月来首次站上每桶80美元。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-17",
+      "time": "22:35",
+      "keywords": []
+    },
+    {
+      "title": "美国股市：标普500指数结束两周连涨 半导体指数跌入熊市",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiefhn4073954.shtml",
+      "content": "标普500指数走低，此前一家中国人工智能初创公司发布的新模型引发美国半导体股下挫。 以科技股为主的纳斯达克100指数收跌1.5%，创近一个月来最差单周表现。",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-07-17",
+      "time": "21:29",
+      "keywords": []
+    },
+    {
       "title": "Apollo称高风险私募信贷占比小 仅相当于纸杯蛋糕上的一颗“糖粒”",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiefhr8307923.shtml",
@@ -318,6 +332,20 @@
       "period": "night",
       "date": "2026-07-17",
       "time": "21:03",
+      "keywords": []
+    },
+    {
+      "title": "监测机构：加拿大野火烟雾或波及世界杯决赛举办地",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiemqn1443835.shtml",
+      "content": "欧盟哥白尼大气监测局17日表示，加拿大持续蔓延的野火产生大量烟雾，正导致加拿大和美国东北部多地空气质量恶化。国际足联世界杯决赛将于19日在美国新泽西州举行...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-17",
+      "time": "20:38",
       "keywords": []
     },
     {
@@ -374,76 +402,6 @@
       "period": "night",
       "date": "2026-07-17",
       "time": "18:04",
-      "keywords": []
-    },
-    {
-      "title": "欧洲股市下跌 受科技股抛售与中东局势升级拖累",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicuss4141745.shtml",
-      "content": "欧洲股市周五下挫，地缘政治紧张局势升级以及科技股遭抛售拖累市场表现。 斯托克欧洲600指数收盘下跌0.3%，几乎抹去本周全部涨幅。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "16:43",
-      "keywords": []
-    },
-    {
-      "title": "周五芯片板块抛售行情进一步加剧",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicyyn7249443.shtml",
-      "content": "VanEck半导体 ETF（SMH）跌幅超 4%，芯片股承压延续跌势。投资者开始质疑，此轮由人工智能概念带动的上涨行情，是否已让板块估值脱离基本面支撑。",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "16:30",
-      "keywords": []
-    },
-    {
-      "title": "阿斯麦拟向员工发放2万欧元一次性奖励 AI需求旺盛推动业绩增长",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicuss4109416.shtml",
-      "content": " 阿斯麦控股将向全球员工发放一次性2万欧元（约合22，862美元）奖励。随着人工智能需求推动销售额创下新高，该公司加入了越来越多芯片企业与员工分享业绩红利的行列。",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "15:55",
-      "keywords": []
-    },
-    {
-      "title": "Catherine Wood晋升为First Horizon银行商业银行策略主管",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicuss4095454.shtml",
-      "content": "First Horizon 银行（纽交所代码：FHN）宣布晋升 Catherine Wood 为高级副总裁兼商业银行策略主管，任命自2026年7月17日起生效。",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "15:35",
-      "keywords": []
-    },
-    {
-      "title": "美股早盘走低 芯片巨头恐遭遇去年以来最惨一周",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusv8219976.shtml",
-      "content": " 芯片制造商股票抛售潮在周五积聚势头，推动这个引领今年股市上涨的板块迈向熊市。市场担心，人工智能支出热潮正越来越难以证明其合理性。",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "15:20",
       "keywords": []
     },
     {
@@ -736,6 +694,205 @@
       ]
     },
     {
+      "title": "efferies纽约办公室人员疏散 因Papillon餐厅起火",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqh7245814.shtml",
+      "content": "Jefferies Financial Group Inc．曼哈顿办公室周五疏散人员，原因是Papillon餐厅发生火灾。 纽约市消防局发言人表示，周五清晨接到报警，称该餐厅发生火灾...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-17",
+      "time": "23:12",
+      "keywords": []
+    },
+    {
+      "title": "7月18日隔夜要闻：美股道指跌逾400点 美国再度打击伊朗 油价单周涨幅创4月份以来最大 SpaceX股价持续下挫",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqk4005353.shtml",
+      "content": "市场 7月18日收盘：美股道指跌逾400点 三大股指本周均录得跌幅 7月18日美股成交额前20：传Meta向Anthropic租赁算力 价值最高可达100亿美元 7月18日热门中概股普跌...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-17",
+      "time": "22:49",
+      "keywords": []
+    },
+    {
+      "title": "美国再度打击伊朗 油价单周涨幅创4月份以来最大",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqh7203060.shtml",
+      "content": "美国和伊朗周五再度互袭，推升油价，也让双方更加难以迅速重返上个月签署的脆弱停火安排。 美国中央司令部表示，新一轮空袭于美东时间周五下午3点开始...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-17",
+      "time": "22:18",
+      "keywords": []
+    },
+    {
+      "title": "直击WAIC丨“接发球”全能行！人类与机器人“激烈”对打乒乓球",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/2026-07-18/doc-iniiemqn1480080.shtml",
+      "content": "新浪科技讯 7月17日晚间消息，7月17日至20日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海举行。 现场，远征A3 AGIBOT...",
+      "priority": "low",
+      "sectors": [
+        "机器人",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-17",
+      "time": "22:15",
+      "keywords": []
+    },
+    {
+      "title": "申通快递发布快递智能体平台“SClaw”",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/2026-07-18/doc-iniiemqk3969172.shtml",
+      "content": "新浪科技讯 7月17日晚间消息，申通快递在2026年客户开放日上发布快递智能体平台“SClaw”，并首次明确物理AI战略应用方向。面向美妆、服装...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-17",
+      "time": "22:05",
+      "keywords": []
+    },
+    {
+      "title": "SpaceX据报洽谈向五角大楼出售算力 金额或达数十亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqk3967577.shtml",
+      "content": "美媒周五报道称，SpaceX正就向美国国防部出售算力进行谈判。 报道称，这项的交易价值可能达到数十亿美元，类似于SpaceX此前与谷歌以及Anthropic PBC达成的协议。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-17",
+      "time": "22:03",
+      "keywords": []
+    },
+    {
+      "title": "大宗商品综述：原油飙升 铜价走低 金价反弹",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqn1467048.shtml",
+      "content": "原油飙升，市场愈发担心美国和伊朗可能重返全面战争、威胁霍尔木兹海峡通行。铜价走低，中东紧张局势升级威胁全球经济增长及工业金属需求前景。",
+      "priority": "low",
+      "sectors": [
+        "能源",
+        "黄金",
+        "有色"
+      ],
+      "period": "night",
+      "date": "2026-07-17",
+      "time": "22:02",
+      "keywords": []
+    },
+    {
+      "title": "7月18日外盘头条：美伊互袭基础设施 英国研判特朗普对伊威胁并非空话 Meta据悉洽谈出租算力给Anthropic",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqp8240550.shtml",
+      "content": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、美国与伊朗攻击基础设施，重陷全面战争风险加剧 2、美伊战争恐在伯纳姆上任首周升级 英国研判特朗普对伊威胁并非空话...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-17",
+      "time": "21:59",
+      "keywords": []
+    },
+    {
+      "title": "美国与伊朗攻击基础设施，重陷全面战争风险加剧",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqn1462325.shtml",
+      "content": " 美国周五打击了伊朗境内的桥梁，德黑兰则以攻击科威特的一处电力和海水淡化厂作为回应，双方将目标扩大至基础设施，面临进一步升级的风险。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-17",
+      "time": "21:57",
+      "keywords": []
+    },
+    {
+      "title": "伊朗称击落一架美军MQ-9无人机",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiemqh7189082.shtml",
+      "content": "据伊朗方面当地时间18日凌晨消息，伊朗伊斯兰革命卫队海军的防空系统击落一架美军MQ-9无人机。（总台记者 魏然）©2026中央广播电视总台版权所有。未经许可，请勿转载使用。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-17",
+      "time": "21:42",
+      "keywords": []
+    },
+    {
+      "title": "特朗普怒批加拿大山火，称美国将把污染成本加入关税",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqk3949830.shtml",
+      "content": " 美国总统唐纳德·特朗普周五就加拿大山火导致美国大片地区笼罩在烟雾阴霾中一事猛烈抨击加拿大，并表示将把污染造成的成本添加到现有关税中。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-17",
+      "time": "21:38",
+      "keywords": []
+    },
+    {
+      "title": "伊拉克与叙利亚签署协议重建石油管道，为霍尔木兹海峡提供替代方案",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiemqk3947641.shtml",
+      "content": "伊拉克和叙利亚周五签署协议，重建一条石油管道，为霍尔木兹海峡提供替代方案。 巴格达和大马士革在华盛顿举行的一场关于美国对伊拉克投资的商会峰会上签署了该协议。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-07-17",
+      "time": "21:35",
+      "keywords": []
+    },
+    {
+      "title": "原油：WTI上涨 市场越发担心美伊冲突进一步升级",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiefhk7296510.shtml",
+      "content": "原油飙升，市场愈发担心美国和伊朗可能重返全面战争、威胁霍尔木兹海峡通行。 全球基准布伦特原油上涨约4.6%，结算价在88美元附近，单周涨幅创4月份以来最大。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-07-17",
+      "time": "21:28",
+      "keywords": []
+    },
+    {
+      "title": "伊朗谴责美袭击民用基础设施犯下战争罪",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiemqh7173862.shtml",
+      "content": "△伊朗外交部发言人巴加埃（资料图）伊朗外交部发言人巴加埃当地时间18日在其个人社交媒体发文称，美国试图展示其所谓“实力”的方式...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-17",
+      "time": "21:06",
+      "keywords": []
+    },
+    {
       "title": "特朗普将致电加拿大总理卡尼讨论山火烟雾问题 并威胁加关税",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniiefhn4055313.shtml",
@@ -775,6 +932,34 @@
       "period": "night",
       "date": "2026-07-17",
       "time": "21:02",
+      "keywords": []
+    },
+    {
+      "title": "伊朗革命卫队称打击美军在巴林的无人艇",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiefhr8318557.shtml",
+      "content": "伊朗伊斯兰革命卫队当地时间18日凌晨发布声明称，革命卫队打击并摧毁了美军驻巴林的无人艇存放基地，大量无人艇被大火焚毁。此外...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-17",
+      "time": "20:53",
+      "keywords": []
+    },
+    {
+      "title": "伊朗最高领袖军事顾问：美伊谅解备忘录已名存实亡",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiefhr8295420.shtml",
+      "content": " 当地时间17日，伊朗最高领袖军事顾问穆赫辛·雷扎伊表示，美国违反了美伊谅解备忘录的条款，如今这份备忘录已名存实亡。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-17",
+      "time": "20:51",
       "keywords": []
     },
     {
@@ -820,6 +1005,48 @@
       "keywords": []
     },
     {
+      "title": "Meta据悉洽谈出租算力给Anthropic 价值最高可达100亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniicyyq4113606.shtml",
+      "content": "据知情人士透露，Meta 正与Anthropic PBC展开初步磋商，拟向后者出租其数据中心算力。 知情人士表示，双方谈判仍处于初期阶段，计划最终仍可能发生变化。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-17",
+      "time": "20:00",
+      "keywords": []
+    },
+    {
+      "title": "美军称对伊朗发动新一轮打击",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiefhk7240223.shtml",
+      "content": "△美国中央司令部（资料图）当地时间7月17日，美国中央司令部表示，美军于美东时间当天下午3时对伊朗启动新一轮打击，这是美军连续第七晚发动空袭。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-17",
+      "time": "19:54",
+      "keywords": []
+    },
+    {
+      "title": "美军称重启对伊朗海上封锁三天内拦截6艘船只",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiefhk7256977.shtml",
+      "content": "当地时间7月17日，美国中央司令部表示，美军正在严格执行针对伊朗的海上封锁，并保持高度警戒。美国中央司令部称，自14日恢复对伊朗实施海上封锁的三天内...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-17",
+      "time": "19:53",
+      "keywords": []
+    },
+    {
       "title": "波音与空客角力，竞逐SMBC百架窄体机大单",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/mzjj/2026-07-18/doc-iniiefhq1441039.shtml",
@@ -831,6 +1058,20 @@
       "period": "night",
       "date": "2026-07-17",
       "time": "19:33",
+      "keywords": []
+    },
+    {
+      "title": "加拿大野火殃及美国空气 特朗普称将以关税追偿损失",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiemqp8223214.shtml",
+      "content": "△美国总统特朗普（资料图）美国总统特朗普当地时间17日在社交媒体发文指责加拿大维护森林不善，称加森林野火殃及美国空气质量，类似情况每年发生...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-17",
+      "time": "19:27",
       "keywords": []
     },
     {
@@ -876,6 +1117,48 @@
       "keywords": []
     },
     {
+      "title": "美国防部：美军在对伊作战中新增13人受伤",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiefhq1427401.shtml",
+      "content": "央视记者当地时间17日获悉，美国国防部最新公布的数据显示，自本周一以来，又有13名美军人员在对伊朗作战中受伤，包括10名陆军士兵和3名海军水兵。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-17",
+      "time": "18:39",
+      "keywords": []
+    },
+    {
+      "title": "伊朗外长谴责美军打击伊朗桥梁",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniicyys1528504.shtml",
+      "content": "伊朗外交部长阿拉格齐当地时间17日在其个人社交媒体表示，3名村民在穿越伊朗哈米尔港大桥时遇难，他们完全是无辜的。阿拉格齐表示，伊朗是我们的家园...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-17",
+      "time": "18:32",
+      "keywords": []
+    },
+    {
+      "title": "美国被曝将向以色列增派数十架加油机",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniiefhk7276088.shtml",
+      "content": "总台记者当地时间17日获悉，数名来自美国和以色列的消息人士称，美国政府已“通知”以色列，将向以色列增派数十架空中加油机，后续可能扩大对伊朗的军事行动。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-17",
+      "time": "18:26",
+      "keywords": []
+    },
+    {
       "title": "苹果正与美国司法部就反垄断案展开初步和解谈判",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicyyt8255956.shtml",
@@ -904,312 +1187,17 @@
       "keywords": []
     },
     {
-      "title": "Meta据悉洽谈出租算力给Anthropic 价值最高可达100亿美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-18/doc-iniicyyq4113606.shtml",
-      "content": "据知情人士透露，Meta Platforms Inc．正与Anthropic PBC展开初步磋商，拟向后者出租其数据中心算力。 知情人士表示，双方谈判仍处于初期阶段，计划最终仍可能发生变化。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "17:40",
-      "keywords": []
-    },
-    {
-      "title": "据报Meta洽谈向Anthropic租赁算力 价值最高可达100亿美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicyys1426421.shtml",
-      "content": " 据报道，Meta Platforms Inc．正与Anthropic PBC展开初步磋商，拟向后者出租其数据中心的算力。这项合作将为时两年，价值最高可达100亿美元。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "17:12",
-      "keywords": []
-    },
-    {
-      "title": "当选工党领袖后首度演讲 伯纳姆承诺打造支持企业发展的政府",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicyyn7253385.shtml",
-      "content": " 安迪·伯纳姆在无人竞争的情况下正式当选执政党工党领袖，他在当选后的首次讲话中表示，将成为一位支持企业发展的首相。",
+      "title": "一艘船只在霍尔木兹海峡遭袭",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-18/doc-iniicyyn7286448.shtml",
+      "content": "总台记者当地时间17日自伊朗方面获悉，一名消息人士称，一艘船只当天在霍尔木兹海峡遭到伊朗方面的打击。据悉，该船悬挂泰国国旗，无视相关警告...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-07-17",
-      "time": "17:10",
-      "keywords": []
-    },
-    {
-      "title": "Anthropic正与Meta开展初期洽谈，计划租赁后者算力资源",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicusq7369033.shtml",
-      "content": "核心要点 Anthropic 已进入非常初步的磋商阶段，拟向 Meta 租赁算力。 本次谈判数周前，Anthropic 刚与埃隆・马斯克旗下 SpaceX 达成同类合作...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "16:49",
-      "keywords": []
-    },
-    {
-      "title": "美国国债期货下跌 据报美国向以色列增派数十架空中加油机",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicuss4132165.shtml",
-      "content": "美国国债期货下跌，收益率曲线延续平坦化势头。据报美国在可能升级军事行动前夕向以色列增派数十架空中加油机。 当天跌势主要集中在收益率曲线前端...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "16:29",
-      "keywords": []
-    },
-    {
-      "title": "欧洲债市：受避险情绪推动 欧洲长期政府债券上涨",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicusq7353819.shtml",
-      "content": "在全球市场避险情绪高涨的背景下，欧洲长期政府债券上涨。 德国30年期国债收益率下跌3个基点至3.62%，而两年期国债收益率上涨1个基点至2.78%。",
-      "priority": "low",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "16:26",
-      "keywords": []
-    },
-    {
-      "title": "加州亿万富翁税提案：美国第一大州经济将面临何种风险",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicusu1500197.shtml",
-      "content": "核心要点 加州拟议的亿万富翁税能够为州政府带来关键财政收入，但如果富豪集体迁出，将对经济造成长期损害；这也是民主党州长、有意角逐 2028...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "16:15",
-      "keywords": []
-    },
-    {
-      "title": "苹果、英伟达角逐全球市值最高企业宝座",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicusu1494247.shtml",
-      "content": "核心要点 苹果总市值反超英伟达，重新夺回全球市值第一企业的头衔。 2026 年苹果股价表现优于这家 AI 芯片巨头，投资者看好苹果人工智能投入规划，给予估值溢价。",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "16:09",
-      "keywords": []
-    },
-    {
-      "title": "午盘：美股维持下跌局面，三大股指本周均有可能录得跌幅",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-18/doc-iniicuss4116807.shtml",
-      "content": "北京时间7月18日凌晨，美股周五午盘维持下跌局面，三大股指本周均有可能录得跌幅。市场对人工智能支出的担忧不断升温，打压了市场情绪，拖累科技股走低。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "16:06",
-      "keywords": []
-    },
-    {
-      "title": "可口可乐旗下Fairlife乳业遭勒索软件攻击 生产暂停",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusq7331189.shtml",
-      "content": "美国饮料制造商可口可乐公司表示，其一家乳制品子公司遭黑客攻击，将在可预见的未来暂停运营。这家跨国巨头在向美国证券交易委员会提交的披露文件中称...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "15:53",
-      "keywords": []
-    },
-    {
-      "title": "首笔以推理芯片为抵押的融资落地 4亿美元交易揭示AI投资新动向",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusv8253949.shtml",
-      "content": "AI推理云初创公司General Compute已从科技投资公司Upper90获得4亿美元贷款。这可能是首笔以推理专用芯片作为抵押品的交易——这类芯片用于快速高效地运行已训练好的AI模型...",
-      "priority": "low",
-      "sectors": [
-        "半导体",
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "15:52",
-      "keywords": []
-    },
-    {
-      "title": "Zoox因烟雾识别缺陷推送软件更新",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusv8245955.shtml",
-      "content": "Zoox公司周五宣布，已向其105辆自动驾驶车队推送软件更新，以解决6月发生的一起自动驾驶出租车在烟雾弥漫的火灾现场导航困难的问题。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "15:44",
-      "keywords": []
-    },
-    {
-      "title": "亚马逊修复AWS账单系统故障 部分客户被误计数十亿美元费用",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusu1468061.shtml",
-      "content": "部分亚马逊云服务客户本周五发现，他们的账单估算显示欠费数十亿美元，而实际并未使用相关服务。 亚马逊周五确认，正在努力解决其AWS账单门户中的一个故障。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "15:42",
-      "keywords": []
-    },
-    {
-      "title": "高露洁-棕榄将于2026年7月31日直播第二季度财报电话会议",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusu1467038.shtml",
-      "content": "高露洁-棕榄公司（纽交所代码：CL）将于美国东部时间2026年7月31日（周五）上午8：30，通过音频网络直播其2026年第二季度财报电话会议。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "15:41",
-      "keywords": []
-    },
-    {
-      "title": "美国企业加速扩展AI原生微软运营模式",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusv8241453.shtml",
-      "content": "ISG Provider Lens®报告指出，美国企业日益关注AI的可衡量价值，推动组织将数据、生产力及云能力统一整合。 全球以AI为核心的技术研究与咨询公司信息服务集团（ISG）今日发...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "15:40",
-      "keywords": []
-    },
-    {
-      "title": "“肌肉价值千金”：Life Time专家分享女性力量训练顶级建议",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusu1462740.shtml",
-      "content": "Life Time（纽交所代码：LTH）指出，力量训练在女性中日益流行，并概述了其女性教练团队所认可的多项益处，包括改善骨骼与肌肉健康、调节激素平衡、增强自信...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "15:38",
-      "keywords": []
-    },
-    {
-      "title": "CAE与萨博签署谅解备忘录 就“鹰狮”战斗机综合培训及任务保障解决方案展开合作",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusv8237725.shtml",
-      "content": "CAE（纽交所代码：CAE，多伦多证交所代码：CAE）与萨博签署谅解备忘录，双方将就“鹰狮”战斗机的先进培训、模拟及任务保障解决方案展开合作...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "15:37",
-      "keywords": []
-    },
-    {
-      "title": "美伊互袭升级 重陷全面战争风险加剧",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusq7317451.shtml",
-      "content": " 美伊连续第六天爆发冲突，双方袭击范围扩大至军事目标以外。由于围绕霍尔木兹海峡问题仍未达成协议，外界对冲突重回全面战争的担忧升温。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "15:34",
-      "keywords": []
-    },
-    {
-      "title": "Smart Eye再获全球大型OEM厂商车内传感新订单",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicuss4093911.shtml",
-      "content": "Smart Eye（OTC：SMTEF）已从一家全球大型原始设备制造商（OEM）获得额外的车内传感订单，扩大了此前已获的车辆项目。该订单为三款已搭载Smart...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "15:33",
-      "keywords": []
-    },
-    {
-      "title": "Madoro Metals就拟议反向收购交易签署最终协议",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusv8230875.shtml",
-      "content": "Madoro Metals Corp．（下称“Madoro”或“公司”）（多伦多证券交易所创业板代码：MDM；OTC代码：MSTXF；法兰克福证券交易所代码：A2QQ1X）公司7月17日宣布...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "15:30",
-      "keywords": []
-    },
-    {
-      "title": "美国6月进口价格意外上涨 中国商品进口成本创2008年以来新高",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicuss4087965.shtml",
-      "content": " 美国劳工统计局周五发布的数据显示，6月美国进口商品价格意外上涨，其中来自中国的商品价格录得逾18年来最大单月涨幅。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "15:25",
-      "keywords": []
-    },
-    {
-      "title": "《干脏活的人》主持人大爆Z世代电工在AI数据中心的高薪——数字令人咋舌",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-17/doc-iniicusu1442646.shtml",
-      "content": "美国探索频道制作的真人实境秀节目《干脏活的人》（Dirty Jobs）创始人兼电视主持人迈克·罗近日表示，在众多企业裁员白领员工的当下...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-17",
-      "time": "15:19",
+      "time": "17:42",
       "keywords": []
     },
     {
