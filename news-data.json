@@ -1,17 +1,101 @@
 {
-  "updated": "2026-07-19T11:39:08.281179",
-  "total": 149,
+  "updated": "2026-07-19T14:07:49.490436",
+  "total": 150,
   "sources": [
     "新浪财经",
     "akshare-财新",
     "Tushare"
   ],
   "priority_dist": {
-    "high": 25,
-    "medium": 37,
-    "low": 87
+    "high": 24,
+    "medium": 35,
+    "low": 91
   },
   "items": [
+    {
+      "title": "葛大爷救不了三元：一年代言换30亿市值缩水，券商唱多机构狂卖……",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/2026-07-19/doc-iniikaqz0139224.shtml",
+      "content": "来源：道口财经 道口财经|消费深度锐评 2025年9月，三元股份重磅官宣国民演员葛优回归代言，打出“老牌国货、国民情怀”营销牌，搭配新生代艺人组成双代言矩阵...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-07-19",
+      "time": "14:05",
+      "keywords": []
+    },
+    {
+      "title": "中国电信激辩Token经营：Token经济会不会成为下一个流量经济？",
+      "source": "每日经济新闻",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-19/doc-iniikara8212631.shtml",
+      "content": "从“卖流量”到“卖Token(词元)”，2026年，中国三大运营商集体转变。随着AI(人工智能)算力需求爆发式增长，我国日均Token调用量从2024年初的千亿级别大涨至180万亿。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-19",
+      "time": "13:08",
+      "keywords": []
+    },
+    {
+      "title": "“大资金”加仓！下周，A股三件大事",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/roll/2026-07-19/doc-iniikare4983047.shtml",
+      "content": "本周，A股股指大幅回调，但资金蜂拥进场“抄底”，释放出积极信号。展望下周，有三件大事值得投资者密切关注。 Wind数据显示，本周沪深两市股票型ETF和跨境型ETF合计净流入21...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-19",
+      "time": "13:00",
+      "keywords": []
+    },
+    {
+      "title": "港股通创新药突遭重挫，520880放量溢价！A股制药板块韧性凸显，场内唯一药ETF周线逆市收红",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/etf/2026-07-19/doc-iniikare4940014.shtml",
+      "content": " 7月17日，A股港股深度调整，沪指跌3%失守3800点，创指暴跌7.15%，恒指跌1.78%。普跌之际，近期显著回暖的创新药资产亦未能幸免。",
+      "priority": "high",
+      "sectors": [
+        "医药"
+      ],
+      "period": "noon",
+      "date": "2026-07-19",
+      "time": "12:19",
+      "keywords": []
+    },
+    {
+      "title": "紧急终止减持计划！周末加班、豁免会议通知时限！多家上市公司加急审议回购方案",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/wm/2026-07-19/doc-iniiiwic0196972.shtml",
+      "content": "来源：中国基金报 【导读】周末加班、豁免会议通知时限！多家上市公司加急审议回购方案 见习记者 刘墨 “为维护公司价值和股东权益...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-07-19",
+      "time": "11:33",
+      "keywords": []
+    },
+    {
+      "title": "刚刚！16倍大牛股，最新公告！多家上市公司宣布，增持、回购",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/wm/2026-07-19/doc-iniiiwie8258629.shtml",
+      "content": "又有一大批A股公司集中披露业绩预增、股份回购及股东增持等公告，释放积极信号。 今日（7月19日）晚间，光通信大牛股新易盛（300502）发布业绩预告...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-07-19",
+      "time": "11:30",
+      "keywords": []
+    },
     {
       "title": "越跌越买！刚刚，又有头部量化私募出手了",
       "source": "中国证券报",
@@ -24,6 +108,20 @@
       "period": "morning",
       "date": "2026-07-19",
       "time": "11:14",
+      "keywords": []
+    },
+    {
+      "title": "架构革命！搭载蓝芯智通融合CPU，联想推出全球首款开源架构AI服务器",
+      "source": "爱集微",
+      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-07-19/doc-iniiiwhz3428603.shtml",
+      "content": "随着生成式AI迈入万亿参数大模型时代，数据中心算力架构正面临着前所未有的挑战。传统的“通用CPU+独立AI加速卡”方案不仅受限于带宽瓶颈...",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "morning",
+      "date": "2026-07-19",
+      "time": "11:12",
       "keywords": []
     },
     {
@@ -52,119 +150,6 @@
       "period": "morning",
       "date": "2026-07-19",
       "time": "10:07",
-      "keywords": []
-    },
-    {
-      "title": "多家A股半年报预喜，最高净利预增超544%，千亿算力大牛股预计暴赚近80亿",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/roll/2026-07-19/doc-iniiiwic0146356.shtml",
-      "content": "周末，多只A股公司集体发布业绩利好公告。 7月19日晚，铜冠铜箔（301217.SZ）公告称，预计2026年半年度归属于上市公司股东的净利润为2.05亿元-2.25亿元，同比增长486...",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "09:50",
-      "keywords": []
-    },
-    {
-      "title": "千亿算力大牛股，净利预增超330%！新易盛预计暴赚近80亿",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/wm/2026-07-19/doc-iniiirzf0261357.shtml",
-      "content": "周末，多只A股公司集体发布业绩利好公告。协创数据上半年净利同比预增247.18%—339.76% 7月19日晚，A股算力大牛股协创数据（300857.SZ）公告...",
-      "priority": "high",
-      "sectors": [
-        "光模块",
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "09:27",
-      "keywords": []
-    },
-    {
-      "title": "汇禾医疗冲刺IPO，手握国内首款获批产品，三年亏损超6亿",
-      "source": "",
-      "url": "https://finance.sina.com.cn/wm/2026-07-19/doc-iniiirzf0251458.shtml",
-      "content": "来源：尺度商业 文 | 董武英 编辑 | 刘振涛 近年来，国内医药及医疗器械领域迎来了加速发展，多家企业在国内市场乃至国际市场上实现了领先突破。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "09:02",
-      "keywords": []
-    },
-    {
-      "title": "猛烈抛售！科技股全线大跌，高盛重磅发声！美股重大考验来了",
-      "source": "证券时报网",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-07-19/doc-iniiirzh8223251.shtml",
-      "content": "美股“AI交易”即将面临重大考验。 本周美股AI科技股遭遇猛烈抛售，纳指周跌幅为2.9%，费城半导体指数周跌幅接近10%，最新点位已较纪录高位累计回撤20%。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "08:00",
-      "keywords": []
-    },
-    {
-      "title": "韩国股市现“熔断潮”，杠杆陷阱还要持续多久？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/wm/2026-07-19/doc-iniiirzf0209830.shtml",
-      "content": "来源：翠鸟资本 文|翠鸟资本 韩国资本市场正在经历一场前所未有的“压力测试”。 短短十多个交易日内，韩国综合指数（KOSPI）先是突破9300点大关，创下历史新高后...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "07:47",
-      "keywords": []
-    },
-    {
-      "title": "周末影响市场重要资讯回顾：茅台提价，三部门将分类分步对部分电池恢复征收消费税",
-      "source": "新浪证券",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-19/doc-iniiimtf3549612.shtml",
-      "content": "本周末影响市场的重要资讯有：美国不再延续涉港国家紧急状态，商务部回应；三部门将分类分步对部分电池恢复征收消费税；工信部组织召开重点汽车生产企业座谈会...",
-      "priority": "high",
-      "sectors": [
-        "消费"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "07:24",
-      "keywords": []
-    },
-    {
-      "title": "下周影响市场重要资讯前瞻：7月LPR将公布，下周512.78亿元市值限售股解禁，4只新股即将发行",
-      "source": "新浪证券",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-19/doc-iniiimti0317878.shtml",
-      "content": " 7月LPR将公布，长鑫科技中签结果7月20日公布，下周央行公开市场将有19635亿元逆回购到期，下周512.78亿元市值限售股解禁，4只新股即将发行。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "07:21",
-      "keywords": []
-    },
-    {
-      "title": "2000亿资金逆势抄底创新高！情绪释放后A股有望分化筑底",
-      "source": "第一财经",
-      "url": "https://finance.sina.com.cn/roll/2026-07-19/doc-iniiimtc7973208.shtml",
-      "content": "科技股挤泡沫，价值股托底。股票型ETF单周净流入2037亿元，创历史新高，17日净流入760亿元，为历史第三高。 A股市场本周遭遇剧烈调整。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "07:11",
       "keywords": []
     },
     {
@@ -394,6 +379,119 @@
       ]
     },
     {
+      "title": "新易盛上半年归母净利润同比最高预增超100%，二季度环比预增超50%，股价为何较高点回撤近22%？",
+      "source": "每日经济新闻",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniikaqz0124601.shtml",
+      "content": "记者|蔡鼎 编辑|廖丹 7月19日下午，A股光模块巨头新易盛（SZ300502，股价482.88元，市值6733亿元）披露2026年上半年业绩预告。公司预计2026年上半年实现归属于上市公司股东...",
+      "priority": "medium",
+      "sectors": [
+        "光模块"
+      ],
+      "period": "noon",
+      "date": "2026-07-19",
+      "time": "13:35",
+      "keywords": []
+    },
+    {
+      "title": "三维共振拐点确立！创新药黄金布局窗口全面开启",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-19/doc-iniikaqx3341552.shtml",
+      "content": "国金医药最新行业深度报告显示，当前 A 股创新药板块正迎来产业趋势上行、业绩兑现加速、资金结构重塑的三维共振格局，2026 年下半年至 2027...",
+      "priority": "medium",
+      "sectors": [
+        "黄金",
+        "医药"
+      ],
+      "period": "noon",
+      "date": "2026-07-19",
+      "time": "13:15",
+      "keywords": []
+    },
+    {
+      "title": "包钢股份产品成功进入国内户用光伏领域龙头企业采购名单",
+      "source": "证券时报网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-19/doc-iniikaqx3337859.shtml",
+      "content": "转自：证券时报人民财讯7月19日电，日前，记者从包钢股份营销中心获悉，包钢股份锌铝镁镀层产品成功进入国内户用光伏领域龙头企业采购名单，并获得3480吨供货订单。",
+      "priority": "medium",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-07-19",
+      "time": "13:14",
+      "keywords": []
+    },
+    {
+      "title": "电价下降、消纳受限，晶科科技上半年预亏1.77~2.46亿",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-19/doc-iniikaqx3348756.shtml",
+      "content": "7月14日，晶科电力科技股份有限公司发布2026年上半年业绩预告，归母净利亏损1.77~2.46亿元。根据公告，预计2026年半年度实现归属于母公司所有者的净利润为-17...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-19",
+      "time": "13:05",
+      "keywords": []
+    },
+    {
+      "title": "上市7个月实控人婚变！强一股份现60亿元股权分割案",
+      "source": "科创板日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-19/doc-iniikaqz0106525.shtml",
+      "content": "仅上市半年多的半导体探针卡龙头强一股份曝出A股今年以来规模最大的实控人离婚股权分割案。作者 | 陈俊清仅上市半年多的半导体探针卡龙头强一股份...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-19",
+      "time": "12:41",
+      "keywords": []
+    },
+    {
+      "title": "等待关键信号！大跌后，八大机构研判A股后市",
+      "source": "中国证券报-中证网",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniikare4941284.shtml",
+      "content": "本周五，A股市场急跌引发市场风险偏好降温，行情经历高位颠簸后何时重拾涨势，备受各方关注。在业内机构看来，短期市场将以震荡整理...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-19",
+      "time": "12:14",
+      "keywords": []
+    },
+    {
+      "title": "紫金矿业：上半年预计矿产金47吨！公布111亿中期分红方案！",
+      "source": "矿业汇",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-19/doc-iniikaqz0090193.shtml",
+      "content": "7月9日，紫金矿业发布2026年半年度业绩预告，预计上半年实现归母净利润391亿元，同比增长68%。今年以来，公司坚持金铜锂为主、多矿种协同的发展定位...",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-07-19",
+      "time": "12:02",
+      "keywords": []
+    },
+    {
+      "title": "金租行业增资潮涌！年内多家公司补位10亿“及格线”",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/wm/2026-07-19/doc-iniiiwih5034794.shtml",
+      "content": "金融租赁行业掀起增资小高潮！ 7月16日晚间，上市公司明阳智能公告称，公司拟出资1.5亿元参与粤财金租增资。粤财金租系广东省唯一省属金融租赁公司...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-19",
+      "time": "11:30",
+      "keywords": []
+    },
+    {
       "title": "单日成交额超1500亿，谁在借道宽基ETF大举扫货？",
       "source": "一财网",
       "url": "https://finance.sina.com.cn/roll/2026-07-19/doc-iniiiwic0182526.shtml",
@@ -506,6 +604,20 @@
       "keywords": []
     },
     {
+      "title": "灵均投资：两周内使用2亿元自购旗下私募基金产品",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/wm/2026-07-19/doc-iniiiwhz3402158.shtml",
+      "content": "来源：灵均投资 浪说量化 尊敬的各位投资者： 基于对中国资本市场长期稳健发展及公司主动管理能力的坚定信心，为践行长期投资理念...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-19",
+      "time": "10:52",
+      "keywords": []
+    },
+    {
       "title": "最高超540%！新易盛、协创数据、铜冠铜箔等，多家A股公司业绩大幅预增",
       "source": "滚动播报",
       "url": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniiiwhz3393244.shtml",
@@ -546,161 +658,6 @@
       "period": "morning",
       "date": "2026-07-19",
       "time": "09:58",
-      "keywords": []
-    },
-    {
-      "title": "最高增长超622倍！深市已有900家公司预告上半年业绩",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniiirzf0268255.shtml",
-      "content": "来源：中国基金报 【导读】深市244家公司净利润翻倍，占比为27.11% 中国基金报记者 夏天 在AI算力掀起的科技浪潮与资源品价格重估共同主导下，2026年上半年...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "09:39",
-      "keywords": []
-    },
-    {
-      "title": "业绩利好！6700亿光模块龙头，热榜第一名",
-      "source": "中国证券报",
-      "url": "https://finance.sina.com.cn/stock/2026-07-19/doc-iniiirzh8292925.shtml",
-      "content": "7月19日晚，光模块龙头新易盛发布2026年半年度业绩预告，预计公司上半年归属于上市公司股东的净利润为70亿元—80亿元，同比增长77.56%—102.93%；扣非净利润为69.81亿元—79...",
-      "priority": "medium",
-      "sectors": [
-        "光模块"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "09:27",
-      "keywords": []
-    },
-    {
-      "title": "创业板折戟闯港股，芯天下三年两亏，分红后再募资“补流”",
-      "source": "",
-      "url": "https://finance.sina.com.cn/wm/2026-07-19/doc-iniiirzk5052443.shtml",
-      "content": "来源：尺度商业 文 | 张佳儒 编辑 | 刘振涛 赚钱分红不稀奇，你听过亏损分红的吗？ 2024年，这家公司营收从6.63亿元降至4.42亿元，年内亏损由1402.6万元扩大至3713.6万元...",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "09:02",
-      "keywords": []
-    },
-    {
-      "title": "天孚通信中报预告现两极解读！业绩增速成核心争议点",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-07-19/doc-iniiirzh8267542.shtml",
-      "content": "每经记者|王海慜每经编辑|肖芮冬 7月18日晚间，在并非强制业绩预告的情形下，天孚通信发布公告，预计2026年上半年实现归母净利润为11.24亿~13.04亿元...",
-      "priority": "medium",
-      "sectors": [
-        "光模块"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "08:59",
-      "keywords": []
-    },
-    {
-      "title": "半导体行情，为何突然“断电”？",
-      "source": "中国证券报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-19/doc-iniiirzf0247104.shtml",
-      "content": "2个多月翻倍，1个月跌20%。 被视为全球半导体行情风向标的费城半导体指数（SOX），遭遇剧变。 7月17日，SOX盘中一度重挫超5%。尽管随后反弹，但最终仍收跌1.63%...",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "08:57",
-      "keywords": []
-    },
-    {
-      "title": "中泰证券：从算力通胀到股权财政 下半年资产主线如何演绎？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/roll/2026-07-19/doc-iniiirzh8232361.shtml",
-      "content": "来源：中泰证券 报告摘要 展望26年下半年，7月市场的关键变量为重要ipo周期，重要ipo周期前，市场或高波动震荡蓄势，之后则将带动科技/市场冲高；私募...",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "08:20",
-      "keywords": []
-    },
-    {
-      "title": "科技板块未来走势如何？最新研判",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/wm/2026-07-19/doc-iniiirzk5015832.shtml",
-      "content": "进入7月，A股科技板块迎来阶段性调整，短期市场波动加剧，不少投资者产生情绪扰动、对科创赛道长期走势产生疑虑。但不少业内人士认为，透过短期行情震荡的表象，资金动向...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "08:19",
-      "keywords": []
-    },
-    {
-      "title": "长鑫科技中签号出炉，共约770.22万个（附号码）",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniiirzf0217077.shtml",
-      "content": "来源：中国基金报 7月19日，长鑫科技公布网上中签结果，中签号码共有7702207个，每个中签号码只能认购500股长鑫科技A股股票。 7月16日晚间，长鑫科技披露...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "08:09",
-      "keywords": []
-    },
-    {
-      "title": "十大机构看后市：抛压已集中释放，反弹就在不远处，越恐慌时越应理性地看数据，有哪些超跌行业值得关注？",
-      "source": "股市直击",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-19/doc-iniiirzh8234699.shtml",
-      "content": "本周三大指数调整，上证指数跌5.81%，深证成指跌8.90%，创业板指跌10.78%。后市将如何发展？看看机构怎么说。 中信证券：新一轮行情酝酿中 静待叙事扭转打开中期行情空间...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "07:56",
-      "keywords": []
-    },
-    {
-      "title": "直击WAIC丨安顿发布七诊合参AI机器人，5-10分钟即出中医健康评估报告",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tob/2026-07-19/doc-iniiirzf0206279.shtml",
-      "content": "新浪科技讯 7月19日下午消息，2026世界人工智能大会（WAIC 2026）期间，“AI+预防医学”企业安顿发布了行业首个七诊合参AI机器人——安顿中医机器人，宣告“数智中医2...",
-      "priority": "medium",
-      "sectors": [
-        "机器人",
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "07:54",
-      "keywords": []
-    },
-    {
-      "title": "东吴证券：市场调整后应该关注哪些景气线索？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/roll/2026-07-19/doc-iniiimti0315775.shtml",
-      "content": "来源：东吴证券 当前市场已经处于底部区间 本周市场出现剧烈波动，双创板块回调幅度较大。短期A 股风格再平衡，本质上是内生交易拥挤与外围市场联动共同驱动的资金面修正...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "07:14",
       "keywords": []
     },
     {
@@ -944,6 +901,258 @@
       ]
     },
     {
+      "title": "Deepseek完成首轮融资：估值3500亿 梁文锋个人持股31%",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/wm/2026-07-19/doc-iniikaqx3349587.shtml",
+      "content": "来源：雷递 雷递网 乐天 7月19日 A股公司安徽开润股份有限公司（证券代码：300577 证券简称：开润股份）日前发布公告，宣布2026年7月15日...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-19",
+      "time": "13:35",
+      "keywords": []
+    },
+    {
+      "title": "晶科科技与商汤科技达成算电协同战略合作",
+      "source": "证券时报网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-19/doc-iniikaqz0113430.shtml",
+      "content": "转自：证券时报人民财讯7月19日电，7月19日，晶科科技同商汤科技旗下商汤大装置正式签署战略协议，共建面向源网荷储一体化的算电协同生态...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-19",
+      "time": "13:11",
+      "keywords": []
+    },
+    {
+      "title": "无资质、无质检、无备案 网红护肤品竟是“三无”产品",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniikara8196432.shtml",
+      "content": "一批号称“传承千年宫廷秘方”的护肤产品在网络上走红，产品宣称古方调配、无化学添加，天然草本、强效美白淡斑，引得众多爱美消费者争相下单。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-19",
+      "time": "12:59",
+      "keywords": []
+    },
+    {
+      "title": "科杰技术IPO状态变更为已问询",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-07-19/doc-iniikaqz0111451.shtml",
+      "content": "根据深交所最新披露的信息，2026年7月19日，广东科杰技术股份有限公司IPO的状态从已受理变更为已问询。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-19",
+      "time": "12:56",
+      "keywords": []
+    },
+    {
+      "title": "世界杯季军战上演10球大战！英格兰力克法国，联想AI持续护航世界杯关键战",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tob/2026-07-19/doc-iniikaqz0105333.shtml",
+      "content": " 北京时间7月19日清晨，2026 FIFA世界杯季军争夺战在迈阿密体育场结束。英格兰队以6比4战胜法国队，夺得本届世界杯季军，也为本届世界杯奉献了一场堪称经典的进球大战。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-07-19",
+      "time": "12:55",
+      "keywords": []
+    },
+    {
+      "title": "广汽埃安、中创新航接连回应电芯问题，故障出在“特定工况”，闭口不谈制造缺陷",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-07-19/doc-iniikaqz0105290.shtml",
+      "content": "来源：预见能源 中创新航涉批次电池缺陷，广汽埃安延保应对。 预见能源了解到，7月18日深夜，中创新航一纸公告，宣布为搭载其177Ah磷酸铁锂电池的广汽埃安AION...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-19",
+      "time": "12:48",
+      "keywords": []
+    },
+    {
+      "title": "多家A股公司公告！大批回购资金正在赶来！",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/roll/2026-07-19/doc-iniikara8182105.shtml",
+      "content": "来源：证券日报之声 7月19日，多家上市公司发布与股份回购相关的公告。其中，世运电路拟以2亿元至3亿元回购公司股份；荣昌生物拟以2500万元至5000万元回购公司股份；华安证...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-07-19",
+      "time": "12:40",
+      "keywords": []
+    },
+    {
+      "title": "12大AI给出世界杯冠军终极预测：7家看好阿根廷、4家押西班牙，Kimi给出1：1",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tob/2026-07-19/doc-iniikaqx3316612.shtml",
+      "content": "从单场赛果到“冠军之路”，世界杯预测人机大战迎来最后一题 世界杯冠军只剩最后一道题。西班牙与阿根廷会师决赛，绿茵场上的终极对决即将打响；与此同时...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-07-19",
+      "time": "12:32",
+      "keywords": []
+    },
+    {
+      "title": "双重利好？603920，抛回购方案+股东提前终止减持计划",
+      "source": "大众证券报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-19/doc-iniikare4968864.shtml",
+      "content": "7月19日，世运电路(603920)披露公告称，公司拟以自有资金或自筹资金2亿元(含)至3亿元(含)回购股份，回购价格不超过55元/股，用于实施员工持股计划或股权激励。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-07-19",
+      "time": "12:21",
+      "keywords": []
+    },
+    {
+      "title": "一天涨1500元！“工业维生素”行情火热，存储芯片也需要",
+      "source": "每日经济新闻",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-19/doc-iniikara8166950.shtml",
+      "content": "据央视财经，钼被称为“工业维生素”，广泛应用于钢铁冶金、高端装备、新能源等领域，我国钼矿储量全球第一。 今年上半年，国内钼市场行情持续走强。",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "noon",
+      "date": "2026-07-19",
+      "time": "12:17",
+      "keywords": []
+    },
+    {
+      "title": "连续五年亏损后实控人再遭刑拘 慧辰股份财务造假旧案引关注",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/roll/2026-07-19/doc-iniiiwic0205622.shtml",
+      "content": "来源：经济参考报 7月17日，科创板数据分析咨询服务商慧辰股份（688500.SH）发布公告，公司实控人、董事长兼总经理赵龙因涉嫌违规披露...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-19",
+      "time": "11:52",
+      "keywords": []
+    },
+    {
+      "title": "特朗普过去24小时都忙了什么？（2026-07-19）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-19/doc-iniiiwih5048502.shtml",
+      "content": "来源：金十数据 1． 称“完全不在乎”伊朗暂停履行临时协议——据NewsNation：特朗普再次强调，伊朗“不能、也不应该拥有核武器”。在伊朗宣布暂停履行其在临时协议下的承诺后...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-19",
+      "time": "11:48",
+      "keywords": []
+    },
+    {
+      "title": "八大AI推演世界杯决赛：五款模型力挺西班牙，仅DeepSeek、Grok押注阿根廷2:1取胜",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-19/doc-iniiiwie8268091.shtml",
+      "content": " 北京时间7月20日，本届世界杯迎来终极冠军战，西班牙与阿根廷展开巅峰对决，两套风格迥异的战术体系正面交锋，也是本届赛事最具分量的一场较量。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "morning",
+      "date": "2026-07-19",
+      "time": "11:43",
+      "keywords": []
+    },
+    {
+      "title": "中信建投 | 国内新能源车跟踪：6月市场持续修复，出口渗透率57%创新高",
+      "source": "中信建投证券研究",
+      "url": "https://finance.sina.com.cn/wm/2026-07-19/doc-iniiiwic0195012.shtml",
+      "content": "文｜许琳6月中汽协口径国内新能源车销量164.3万辆，同/环比+23.6%/+9.8%；其中出口52.3万辆，同/环比+155.1%/+17.2%，维持高增趋势，海外需求持续旺盛。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "morning",
+      "date": "2026-07-19",
+      "time": "11:30",
+      "keywords": []
+    },
+    {
+      "title": "上海多地遇暴雨天气，部分路段积水至居民小腿，局部或现冰雹",
+      "source": "新京报",
+      "url": "https://finance.sina.com.cn/wm/2026-07-19/doc-iniiiwih5033454.shtml",
+      "content": "新京报记者 张勇 制作 葛佳丹 7月19日，上海多地遭遇较强降水，杨浦区降下暴雨，道路出现积水。气象部门预报，杨浦五角场、新江湾城等地或将出现1小时100毫米以上短时强降...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-19",
+      "time": "11:27",
+      "keywords": []
+    },
+    {
+      "title": "WAIC 2026：联想以混合式AI加速智能生产力落地",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-07-19/doc-iniiiwic0205286.shtml",
+      "content": "中国日报7月19日电7月17日至20日，2026世界人工智能大会(WAIC2026)在上海举行。在联想展区，具身智能机器人、世界杯AI技术体验区等热门展项吸引众多观众驻足互动。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "morning",
+      "date": "2026-07-19",
+      "time": "11:15",
+      "keywords": []
+    },
+    {
+      "title": "泰诺麦博将于7月21日在科创板上市",
+      "source": "北京商报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-19/doc-iniiiwie8250129.shtml",
+      "content": "北京商报讯(记者董亮王悦彤)7月19日晚间，泰诺麦博(688806)披露公告称，公司将于7月21日在上交所科创板上市，首次公开发行新股约6908.19万股，首次公开发行后总股本约为4...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-19",
+      "time": "11:14",
+      "keywords": []
+    },
+    {
+      "title": "任泽平声明更新：实际情况、杠杆警示和几句心里话，对恶意造谣者 律师函已在路上",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-19/doc-iniiiwic0199926.shtml",
+      "content": "来源：泽平宏观 这几天，一张关于个别加杠杆投资亏损的截图在网络上流传，引发了关注和讨论。看到截图，我们内心很复杂，跟大家说说实际情况和几句心里话。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-19",
+      "time": "11:03",
+      "keywords": []
+    },
+    {
       "title": "“H回A”，越疆科技下周IPO上会！谁还在排队",
       "source": "市场资讯",
       "url": "https://finance.sina.com.cn/stock/newstock/2026-07-19/doc-iniiiwie8232005.shtml",
@@ -969,204 +1178,6 @@
       "period": "morning",
       "date": "2026-07-19",
       "time": "10:25",
-      "keywords": []
-    },
-    {
-      "title": "直击WAIC|智联招聘高级副总裁白岩：未来十年求职者端会出现AI代理人，组织形态从科层制走向人机单元",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-19/doc-iniiirzf0275480.shtml",
-      "content": "新浪科技讯 7月19日下午消息，7月17日至20日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海举行。展会期间，智联招聘集团高级副总裁白岩与新浪科技等媒体对话...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "09:57",
-      "keywords": []
-    },
-    {
-      "title": "论坛直击｜向内探索量子、向外寻求太空：一场“新算力文明”的起点对话",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/roll/2026-07-19/doc-iniiiwhz3396402.shtml",
-      "content": "来源：世界人工智能大会 上海，2026 年 7 月 18 日电——当算力的物理边界日益逼近，人类的计算文明将走向何方？7 月 18 日下午，作为 2026...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "09:57",
-      "keywords": []
-    },
-    {
-      "title": "直击WAIC丨梅卡曼德机器人现身，展示多个工业落地场景",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-19/doc-iniiirzc3493904.shtml",
-      "content": "新浪科技讯 7月19日下午消息，7月17日至20日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海举行。 展会现场，梅卡曼德机器人展台展示了包括料框搬运...",
-      "priority": "low",
-      "sectors": [
-        "机器人",
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "09:47",
-      "keywords": []
-    },
-    {
-      "title": "月之暗面，最快6个月内上市",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/wm/2026-07-19/doc-iniiirzf0254602.shtml",
-      "content": "7月19日，记者从相关人士处获悉，头部大模型企业月之暗面已向投资人发送上市议案，预计最快6个月内有望完成港股上市。 对此公司方面暂无回应。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "09:14",
-      "keywords": []
-    },
-    {
-      "title": "“虾王”卖房续命？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-07-19/doc-iniiirzf0240478.shtml",
-      "content": "来源 | 野马财经 一代“虾王”，别只一代 作者 |方璐 卖掉美国的房产，来贴补主业？没错，这正是眼下国联水产（300094.SZ）采取的做法。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "08:48",
-      "keywords": []
-    },
-    {
-      "title": "阿里新一代大模型千问3.8将至，正式版预计近期开源",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/2026-07-19/doc-iniiirzc3460125.shtml",
-      "content": "新浪科技讯 7月19日下午消息，新浪科技获悉，阿里最新一代大模型千问3.8即将发布并开源。目前，Qwen3.8-Max预览版已率先上线阿里云Token Plan、Qoder及QoderWork...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "08:46",
-      "keywords": []
-    },
-    {
-      "title": "直击WAIC | 摩尔线程披露“AI工厂”新进展：完成多项“国芯训国模”实践，Token性价比大幅提升",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-19/doc-iniiirzf0232689.shtml",
-      "content": "新浪科技讯 7月19日下午消息，2026世界人工智能大会（WAIC）期间，摩尔线程集中展示了三大“AI工厂”———模型训练工厂、词元生产工厂...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "08:40",
-      "keywords": []
-    },
-    {
-      "title": "“能不能对员工好点！” 盒马被曝三伏天员工集体在店外“扒盒饭”：体感40℃，官方称调整优化",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tob/2026-07-19/doc-iniiirzf0213399.shtml",
-      "content": "文|《BUG》栏目 张俊 “体感40度的高温，盒马你能不能对员工好点？！” 近日，江西南昌一盒马店开业，盒马官方账号发文“美食陆续出锅中”，而与之形成反差的是...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "08:07",
-      "keywords": []
-    },
-    {
-      "title": "国信证券：牛未完 新风景",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/roll/2026-07-19/doc-iniiirzk4982668.shtml",
-      "content": "来源：国信证券股份有限公司 核心结论：①牛市尚未结束：历史上牛转熊的背景是宏观面恶化、市场面过热，本轮924 牛市宏观环境没变，情绪也未过热。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "07:52",
-      "keywords": []
-    },
-    {
-      "title": "热搜！任泽平解散VIP群",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-19/doc-iniiimti0326977.shtml",
-      "content": "近日，一张引爆投资圈的聊天截图，让网红经济学家任泽平再次成为话题焦点。 网传截图显示，一位加入“泽平宏观VIP群30”的付费会员声称...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "07:33",
-      "keywords": []
-    },
-    {
-      "title": "直击WAIC丨机器人做家务不是“梦”?擎朗机器人现场模拟叠洗衣服",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-19/doc-iniiimta1204351.shtml",
-      "content": "新浪科技讯 7月19日下午消息，7月17日至20日，2026世界人工智能大会暨人工智能全球治理高级别会议在上海举行。展会现场，在擎朗智能机器人展台...",
-      "priority": "low",
-      "sectors": [
-        "机器人",
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "07:24",
-      "keywords": []
-    },
-    {
-      "title": "直击WAIC｜对话滴普科技创始人赵杰辉：Agent竞争不在办公，而在复杂产业中的“智能复利”",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-07-19/doc-iniiimti0317361.shtml",
-      "content": "新浪科技讯 7月19日下午消息，2026世界人工智能大会期间，滴普科技在上海举办2026年用户大会，正式开放DeepWorks企业智能体平台首批公开测试...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "07:20",
-      "keywords": []
-    },
-    {
-      "title": "申万宏源：抛压已集中释放 反弹就在不远处",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/roll/2026-07-19/doc-iniiimti0316535.shtml",
-      "content": "来源：上海申银万国证券研究所有限公司 一、抛压已集中释放：绝对收益资金基于守卫盈亏平衡线和控制回撤减仓；中小投资者盈亏平衡附近集中赎回权益产品；风险偏好回落...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "07:17",
-      "keywords": []
-    },
-    {
-      "title": "领益智造：港股破发、收入增长“刹车”，豪掷40亿跨界光纤求突围",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-07-19/doc-iniiirzk5021054.shtml",
-      "content": "来源：证券之星 继收购液冷供应商立敏达后，领益智造（002600.SZ‌）再度出手，拟斥资40亿元参与富通嘉善的重整投资，以此切入光纤通信材料应用领域。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "07:00",
       "keywords": []
     },
     {
