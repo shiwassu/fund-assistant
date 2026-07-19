@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-19T15:34:34.300044",
+  "updated": "2026-07-19T17:37:28.342856",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,25 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 24,
-    "medium": 29,
+    "high": 25,
+    "medium": 28,
     "low": 97
   },
   "items": [
+    {
+      "title": "证监会明天将召开座谈会促进资本市场稳定健康发展",
+      "source": "证券时报",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-19/doc-iniikhxa4968478.shtml",
+      "content": " 证券时报记者了解到，多家上市公司、市场机构已收到监管部门通知，将于周一（20日）参加证监会座谈会。本次座谈，证监会旨在就促进市场稳定健康发展听取各方意见建议。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-19",
+      "time": "15:52",
+      "keywords": []
+    },
     {
       "title": "突发事故！霍尔木兹海峡，再生变局！中东股市，集体下挫！科威特、约旦、巴林拉响警报",
       "source": "券商中国",
@@ -379,6 +393,20 @@
       ]
     },
     {
+      "title": "A股稳了？这个周末全是利好：私募自购，国家队增持，证监会座谈会",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-20/doc-iniikhxa4982918.shtml",
+      "content": "来源：金石杂谈 7月20日消息，作为A股股民，相信这个周末每个人都不太好受。7月以来，A股科技小登连带老登们跌的实在太惨太惨了。",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-07-19",
+      "time": "16:03",
+      "keywords": []
+    },
+    {
       "title": "今晚，多家A股公司，发业绩利好！",
       "source": "证券时报",
       "url": "https://finance.sina.com.cn/wm/2026-07-19/doc-iniikhwx0025005.shtml",
@@ -545,34 +573,6 @@
       "period": "noon",
       "date": "2026-07-19",
       "time": "12:02",
-      "keywords": []
-    },
-    {
-      "title": "金租行业增资潮涌！年内多家公司补位10亿“及格线”",
-      "source": "证券时报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-19/doc-iniikhwx0035790.shtml",
-      "content": "金融租赁行业掀起增资小高潮！ 7月16日晚间，上市公司明阳智能公告称，公司拟出资1.5亿元参与粤财金租增资。粤财金租系广东省唯一省属金融租赁公司...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "11:47",
-      "keywords": []
-    },
-    {
-      "title": "力源信息：预计2026年半年度归属于上市公司股东的净利润同比增长206.87%至217.28%",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-19/doc-iniikhwv3259003.shtml",
-      "content": "证券日报网讯 7月19日，力源信息发布2026年半年度业绩预告称，公司预计2026年半年度实现归属于上市公司股东的净利润29，500万元至30，500万元，同比增长206.87%至217...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "11:43",
       "keywords": []
     },
     {
@@ -814,6 +814,62 @@
       "keywords": [
         "市场动态"
       ]
+    },
+    {
+      "title": "波音加速生产关键拦截弹导引头",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-07-20/doc-iniikhwy8235651.shtml",
+      "content": "为充实核心防空拦截弹储备，美国加速补库，波音公司去年PAC-3导弹导引头产能提升30%，今年计划再度实现同等幅度增产。 波音防务部门首席执行官史蒂夫·帕克表示...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-19",
+      "time": "16:45",
+      "keywords": []
+    },
+    {
+      "title": "伊朗外长：伊朗打击美军基地一举重塑地区安全格局",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-07-20/doc-iniikhwy8219820.shtml",
+      "content": "伊朗外长阿拉格齐表示，伊朗针对地区内美军基地发起的报复性军事打击，从根本上重塑了区域安全格局。 阿拉格齐于周日一档电视访谈中，详述了伊美谈判...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-19",
+      "time": "16:29",
+      "keywords": []
+    },
+    {
+      "title": "航空租赁公司AerCap将在英国航展洽谈采购波音787梦想客机",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-07-20/doc-iniikhxa4984962.shtml",
+      "content": " 知情人士透露，全球飞机租赁巨头AerCap控股公司正洽谈采购波音787梦想客机，这笔交易有望成为即将开幕的范堡罗国际航展上租赁企业大单中的一笔。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-19",
+      "time": "16:17",
+      "keywords": []
+    },
+    {
+      "title": "爆仓！韩国30多万个账户被券商全额强制平仓，从“白赚五年薪水”到“亏光五年存款”，有人连房租都凑不出来",
+      "source": "每日经济新闻",
+      "url": "https://finance.sina.com.cn/wm/2026-07-19/doc-iniikhxa4950447.shtml",
+      "content": " 自7月1日至7月13日，韩国的存储双雄大幅下挫，SK海力士高点回撤近40%，三星电子自高点回撤近30%，强制平仓潮席卷韩国股市。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-07-19",
+      "time": "15:29",
+      "keywords": []
     },
     {
       "title": "同日出手！两家券商，抛出回购计划！",
@@ -1122,63 +1178,6 @@
       "period": "noon",
       "date": "2026-07-19",
       "time": "12:17",
-      "keywords": []
-    },
-    {
-      "title": "连续五年亏损后实控人再遭刑拘 慧辰股份财务造假旧案引关注",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/roll/2026-07-19/doc-iniiiwic0205622.shtml",
-      "content": "来源：经济参考报 7月17日，科创板数据分析咨询服务商慧辰股份（688500.SH）发布公告，公司实控人、董事长兼总经理赵龙因涉嫌违规披露...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "11:52",
-      "keywords": []
-    },
-    {
-      "title": "特朗普过去24小时都忙了什么？（2026-07-19）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-19/doc-iniiiwih5048502.shtml",
-      "content": "来源：金十数据 1． 称“完全不在乎”伊朗暂停履行临时协议——据NewsNation：特朗普再次强调，伊朗“不能、也不应该拥有核武器”。在伊朗宣布暂停履行其在临时协议下的承诺后...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "11:48",
-      "keywords": []
-    },
-    {
-      "title": "八大AI推演世界杯决赛：五款模型力挺西班牙，仅DeepSeek、Grok押注阿根廷2:1取胜",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-19/doc-iniiiwie8268091.shtml",
-      "content": " 北京时间7月20日，本届世界杯迎来终极冠军战，西班牙与阿根廷展开巅峰对决，两套风格迥异的战术体系正面交锋，也是本届赛事最具分量的一场较量。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "11:43",
-      "keywords": []
-    },
-    {
-      "title": "江淮汽车：累计回购公司股份1546700股",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-19/doc-iniikhwx0035789.shtml",
-      "content": "证券日报网讯 7月19日，江淮汽车发布公告称，截至2026年7月17日，公司通过集中竞价交易方式已累计回购股份1，546，700股，占公司总股本的比例为0.0686%，成交最高价为23...",
-      "priority": "low",
-      "sectors": [
-        "消费",
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-07-19",
-      "time": "11:43",
       "keywords": []
     },
     {
