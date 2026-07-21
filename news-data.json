@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T20:04:12.245270",
+  "updated": "2026-07-21T21:43:04.587515",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,67 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 21,
+    "high": 24,
     "medium": 28,
-    "low": 101
+    "low": 98
   },
   "items": [
+    {
+      "title": "超微电脑大幅上调毛利率指引 美股盘后大涨",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-22/doc-iniirmyq7967020.shtml",
+      "content": " 服务器制造商Super Micro Computer周二表示，其6月当季的利润率高于此前预期，且新订单激增，公司股价在盘后交易中跳涨15%。",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "21:40",
+      "keywords": []
+    },
+    {
+      "title": "英特尔确认将进一步裁员 股价大涨近9%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-22/doc-iniirmym2134711.shtml",
+      "content": "英特尔股价周二大涨，此前该公司确认将进一步裁员，以削减成本并调整其关键的数据中心部门。 英特尔股价上涨8.6%，这家科技公司表示将在数据中心部门（DCG）裁员...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "21:29",
+      "keywords": []
+    },
+    {
+      "title": "7月22日美股成交额前20：美光市值重返万亿美元之上",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniirfsu4822795.shtml",
+      "content": "周二美股成交额第1名美光科技收高2.17%，成交458.51亿美元。该股市值重新回到1万亿美元之上。美光CEO在财报电话会上指出，受全产业链AI算力、智能体及自动驾驶需求拉动...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "20:35",
+      "keywords": []
+    },
+    {
+      "title": "英国新任首相伯纳姆批准英国基地用于部分美军对伊打击 延续前任政策",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-22/doc-iniirfsp2227144.shtml",
+      "content": "英国新任首相安迪·伯纳姆已批准美国使用英国军事基地，对伊朗进行英国所称的防御性打击；尽管美国总统唐纳德·特朗普正加大对伊军事行动力度...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "20:09",
+      "keywords": []
+    },
     {
       "title": "SpaceX的宏大解禁即将来临 逾千亿美元股票将可上市交易",
       "source": "环球市场播报",
@@ -94,20 +150,6 @@
       "period": "noon",
       "date": "2026-07-21",
       "time": "17:13",
-      "keywords": []
-    },
-    {
-      "title": "Kalshi向监管申请推出黄金、白银、铂金永续期货",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniiqvat2394117.shtml",
-      "content": "周二，Kalshi 向美国商品期货交易委员会（CFTC）提交申请，谋求上线贵金属永续合约。 申请文件写道：“永续期货现已成为主流衍生品品类...",
-      "priority": "high",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "16:20",
       "keywords": []
     },
     {
@@ -337,6 +379,48 @@
       ]
     },
     {
+      "title": "美国股市：芯片股反弹提振 纳斯达克100指数创三周来最佳表现",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-22/doc-iniirfsu4833807.shtml",
+      "content": " 纳斯达克100指数创下三周来最佳单日表现，以人工智能交易为核心的芯片股反弹，盖过了美国与伊朗冲突再度升级带来的影响。",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "20:50",
+      "keywords": []
+    },
+    {
+      "title": "7月22日热门中概股涨跌不一 台积电涨5.50%，阿里巴巴跌1.98%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniirfss8031742.shtml",
+      "content": "7月22日热门中概股涨跌不一，纳斯达克中国金龙指数（HXC）收跌0.68%。 上涨个股（按市值从高到低）：台积电涨5.50%，日月光半导体涨8.40%，联电涨4.24%，中华电信涨0.94%...",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "20:13",
+      "keywords": []
+    },
+    {
+      "title": "7月22日收盘：美股收高芯片股领涨 标普指数三连跌后反弹",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniirfsu4801342.shtml",
+      "content": " 北京时间7月22日凌晨，美股周二收高，芯片股普涨。道指上涨近400点，标普500指数连续三日下跌之后反弹。投资者正在权衡美伊战争升级的影响，并关注最新企业财报。",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "20:06",
+      "keywords": []
+    },
+    {
       "title": "标普全球评级机构确认Assured Guaranty AA财务实力评级 展望稳定",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniirfsp2220778.shtml",
@@ -474,48 +558,6 @@
       "period": "noon",
       "date": "2026-07-21",
       "time": "17:49",
-      "keywords": []
-    },
-    {
-      "title": "陆川：AI在电影行业最大的价值，是将试错成本降到前所未有的水平",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/chanjing/cyxw/2026-07-22/doc-iniiqvau9175598.shtml",
-      "content": "美国当地时间7月20日，由新浪财经联合美国中国总商会举办的“超越赛场——中美商业、人工智能与全球协作”私享会在纽约举行。导演、编剧...",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "16:34",
-      "keywords": []
-    },
-    {
-      "title": "SpaceX 股价结束七日连跌，大幅反弹",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniiqvat2394818.shtml",
-      "content": " 周二早盘，SpaceX 股价上涨近 6%，终结连续七个交易日的下跌行情。此前麦格理分析师维持 “跑赢大盘” 评级，建议投资者逢下跌布局。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "16:22",
-      "keywords": []
-    },
-    {
-      "title": "欧洲股市止步两连跌 科技股和强劲财报提供支撑",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniiqvay4908167.shtml",
-      "content": "欧洲股市在连续两个交易日下跌后反弹，科技板块上涨以及一系列强劲的企业业绩，抵消了美伊冲突持续带来的影响。 斯托克欧洲600指数收盘上涨0.6%。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "16:07",
       "keywords": []
     },
     {
@@ -758,6 +800,106 @@
       "keywords": [
         "光伏观察"
       ]
+    },
+    {
+      "title": "OpenAI与Anthropic加大游说投入，传统科技与国防开支则有所下滑",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-22/doc-iniirmys4739227.shtml",
+      "content": "根据联邦游说披露文件，两大人工智能领军企业第二季度合计游说支出达317万美元，较第一季度增长23%。 其中，Anthropic在4月至6月期间支出197万美元...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "21:35",
+      "keywords": []
+    },
+    {
+      "title": "投资回报飙升至数十年最高 套利交易在华尔街大行其道",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-22/doc-iniirfsp2248305.shtml",
+      "content": " 面对各类资产低到令人难以置信的波动率，投资者纷纷涌入套利交易，让这种最经久不衰的外汇押注之一迎来了几十年来最耀眼的行情。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "21:00",
+      "keywords": []
+    },
+    {
+      "title": "大宗商品综述：原油、黄金和铜普遍上涨",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-22/doc-iniirfsu4839590.shtml",
+      "content": " 由于中东冲突以及俄乌战争都加剧石油市场的供应风险，布伦特原油周二升至6月初以来最高水平。黄金和白银受到逢低买盘推动上涨。供应紧张迹象推动铜价升至一个多月高点。",
+      "priority": "low",
+      "sectors": [
+        "能源",
+        "黄金",
+        "有色"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "20:59",
+      "keywords": []
+    },
+    {
+      "title": "原油：油价上涨 霍尔木兹到红海乃至俄罗斯都面临供应中断风险",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-22/doc-iniirfsp2237933.shtml",
+      "content": " 布伦特原油周二升至6月初以来最高水平，交易员们正在权衡从霍尔木兹海峡和红海到俄罗斯海岸一个重要哈萨克斯坦石油出口码头的海上运输所面临的威胁。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "20:35",
+      "keywords": []
+    },
+    {
+      "title": "美国拟不迟于周五征收新关税 衔接即将到期的临时性10%全球关税",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-22/doc-iniirfsq9011035.shtml",
+      "content": " 知情人士称，美国总统唐纳德·特朗普准备不迟于周五对数十个经济体商品征收新关税。此举旨在确保即使临时性的10%全球关税到期，其关税体系仍可维持。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "20:25",
+      "keywords": []
+    },
+    {
+      "title": "赫格塞思称伊朗战争已耗费美国375亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-22/doc-iniirfss8035691.shtml",
+      "content": "美国国防部长皮特·赫格塞思周二对议员说，对伊朗的战争已耗费该国375亿美元。 五角大楼官员曾在5月中对国会表示，伊朗战争耗资约290亿美元...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "20:18",
+      "keywords": []
+    },
+    {
+      "title": "泽连斯基解除西尔斯基的乌军总司令之职",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-22/doc-iniirfsp2230284.shtml",
+      "content": "乌克兰总统沃洛迪米尔·泽连斯基宣布，解除亚历山大·西尔斯基武装部队总司令的职务。 泽连斯基任命Mykhailo Drapatyi少将为新任军队总司令。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "20:16",
+      "keywords": []
     },
     {
       "title": "特朗普称将允许美国航空公司直飞黎巴嫩",
@@ -1037,147 +1179,6 @@
       "period": "noon",
       "date": "2026-07-21",
       "time": "17:15",
-      "keywords": []
-    },
-    {
-      "title": "微软投入数十亿美元，与欧洲Mistral共建GPU算力共享池",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniiqzks9049502.shtml",
-      "content": " 两家企业周二联合宣布，微软将斥资数十亿美元采购英伟达 GPU，并计划与欧洲人工智能初创企业 Mistral 共享这批算力资源。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "16:49",
-      "keywords": []
-    },
-    {
-      "title": "谷歌扩充Gemini模型矩阵：推出多款平价新品，正面对标Mythos模型",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniiqvau9170144.shtml",
-      "content": "核心要点 Gemini 3.5 Flash Cyber 主打软件漏洞挖掘与修复功能，初期仅向各国政府及可信合作方开放。 Gemini 3.6 Flash 令牌消耗量最高可降低 17%...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "16:18",
-      "keywords": []
-    },
-    {
-      "title": "英伟达详解新一代AI专用Vera CPU，正式向AMD、英特尔发起挑战",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniiqvat2392243.shtml",
-      "content": "核心要点 旺盛的 AI 算力需求推动英伟达登顶全球市值最高企业，GPU 是当前人工智能训练与部署的核心芯片。 如今这家芯片巨头正式推出自研 AI 中央处理器 Vera...",
-      "priority": "low",
-      "sectors": [
-        "半导体",
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "16:15",
-      "keywords": []
-    },
-    {
-      "title": "苹果将推出设备租赁计划以刺激销售 多数iPhone和Mac等产品将参加",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniiqvay4908745.shtml",
-      "content": "苹果公司正准备推出名为Apple Upgrade的设备租赁计划，这将成为该公司有史以来对销售方式进行的最重大调整之一。 知情人士称，这项新服务计划于7月28日上线...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "16:08",
-      "keywords": []
-    },
-    {
-      "title": "午盘：美股继续上扬 纳指上涨1.3%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniiqvaw8131393.shtml",
-      "content": " 北京时间7月22日凌晨，美股周二午盘继续上扬，芯片股领涨，纳指上涨1.3%。投资者正在权衡美伊战争升级的影响，并关注最新企业财报。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "16:06",
-      "keywords": []
-    },
-    {
-      "title": "特朗普：美国不会离开伊朗 德黑兰还没见识过真正的厉害",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniiqvau9161368.shtml",
-      "content": "美国总统特朗普表示，美国不会离开伊朗，就算伊朗只是在考虑发展核能力，美国也会相关地区实施打击。 特朗普在与黎巴嫩总统约瑟夫·奥恩举行双边会晤时作出上述表态。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:54",
-      "keywords": []
-    },
-    {
-      "title": "谷歌扩展Gemini产品线，推出更廉价模型及Mythos竞品",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniiqvaw8123644.shtml",
-      "content": " Alphabet于周二发布三款新的Gemini模型，其中包括其对Anthropic在网络安全领域领先地位的最明确回应。该公司正寻求在面临产品线延迟和竞争加剧的背景下，展示其进展。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:52",
-      "keywords": []
-    },
-    {
-      "title": "AmeriServ Financial二季度扭亏为盈，宣布派发季度股息",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniiqvau9160447.shtml",
-      "content": "AmeriServ Financial（纳斯达克代码：ASRV）公布2026年第二季度财报，实现净利润273.8万美元，合稀释后每股收益0.16美元，较去年同期净亏损28.2万美元（每股亏损0...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:50",
-      "keywords": []
-    },
-    {
-      "title": "Ribbon光传输解决方案助力印尼JLM释放亚星海底与城域网络容量",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniiqvaw8121958.shtml",
-      "content": "Ribbon Communications（纳斯达克代码：RBBN）近日宣布，其光传输和数据中心互连（DCI）解决方案被印尼互联网服务提供商PT Jala Lintas Media（JLM）选中...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:48",
-      "keywords": []
-    },
-    {
-      "title": "雷神公司获18亿美元合同，为美国海军生产SPY-6雷达",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniiqvau9159792.shtml",
-      "content": "RTX公司（纽约证券交易所代码：RTX）旗下雷神公司(Raytheon)获得美国海军一份价值18亿美元的合同修订，用于AN/SPY-6系列雷达的硬件生产与持续保障。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:47",
       "keywords": []
     },
     {
