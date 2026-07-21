@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-21T17:55:49.260463",
+  "updated": "2026-07-21T20:04:12.245270",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,67 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 18,
-    "medium": 27,
-    "low": 105
+    "high": 21,
+    "medium": 28,
+    "low": 101
   },
   "items": [
+    {
+      "title": "SpaceX的宏大解禁即将来临 逾千亿美元股票将可上市交易",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-22/doc-iniirfsq8998532.shtml",
+      "content": "SpaceX已为资本市场历史上规模最大的股票解禁之一拉开序幕，下个月将有价值高达1160亿美元的股票首次具备出售资格。 禁止部分内部人士出售多达9...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "20:00",
+      "keywords": []
+    },
+    {
+      "title": "OpenAI智能体用户突破千万 ChatGPT Work推动采用率翻倍",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniirfsp2219333.shtml",
+      "content": "OpenAI于7月21日宣布，旗下AI智能体产品——编程工具Codex和通用任务工具ChatGPT Work——的合并周活跃用户数已突破1000万，较本月早些时候几乎翻倍。",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "19:54",
+      "keywords": []
+    },
+    {
+      "title": "Bloom Energy斩获17亿美元AI数据中心供电大单 股价飙升15%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniirfsp2209692.shtml",
+      "content": " 美国燃料电池公司Bloom Energy股价周二大涨15%，此前该公司宣布获得一笔17亿美元的项目投资，用于为AI云算力公司Nebius提供专属电力解决方案。",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "19:30",
+      "keywords": []
+    },
+    {
+      "title": "巴西数字银行Nubank收购Porto Real以获取银行牌照",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniirfss7998928.shtml",
+      "content": " 拉美领先的数字金融机构Nubank已达成协议，收购巴西Banco Porto Real de Investimentos S/A，以获取银行牌照，满足巴西央行新规要求。",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "19:24",
+      "keywords": []
+    },
     {
       "title": "胡塞武装发出封锁威胁前 沙特从红海码头的原油出口创新高",
       "source": "环球市场播报",
@@ -52,20 +108,6 @@
       "period": "noon",
       "date": "2026-07-21",
       "time": "16:20",
-      "keywords": []
-    },
-    {
-      "title": "ETF日报：AI是一场规模宏大的产业革命，其影响力甚至可能超过PC的普及",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-07-21/doc-iniiqvat2367866.shtml",
-      "content": "今日A股探底回升，沪指上涨1.79%，重新站上3800点，深证成指上涨4.81%，创业板指上涨7.05%。沪深两市成交额约1.40万亿元，较上日有所放量。",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:04",
       "keywords": []
     },
     {
@@ -295,6 +337,132 @@
       ]
     },
     {
+      "title": "标普全球评级机构确认Assured Guaranty AA财务实力评级 展望稳定",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniirfsp2220778.shtml",
+      "content": "Assured Guaranty于7月21日宣布，标普全球评级已确认其保险子公司的AA财务实力评级、财务增强评级及发行人信用评级，同时确认母公司AGL的A发行人信用评级...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "19:57",
+      "keywords": []
+    },
+    {
+      "title": "标普道琼斯指数携手Pantera Capital推出数字资产新指数",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniirfsq8994582.shtml",
+      "content": " 标普道琼斯指数公司与数字资产投资机构Pantera Capital于7月21日联合推出标普Pantera数字资产指数，旨在为机构投资者提供更具纪律性和结构化的数字资产配置基准。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "19:48",
+      "keywords": []
+    },
+    {
+      "title": "Source Capital宣布2026年9至11月普通股月度分红",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniirfss8012820.shtml",
+      "content": " 封闭式投资公司Source Capital董事会日前批准，维持2026年9月、10月和11月的常规月度分红方案，每股派息金额为0.2083美元。",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "19:44",
+      "keywords": []
+    },
+    {
+      "title": "纽约汇市：美元小幅走强 日元重返四十年低点",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-22/doc-iniirfsq8992047.shtml",
+      "content": "由于美伊冲突推高油价，美元随美国国债收益率上涨，日元回落至1986年以来最低水平。 彭博美元即期指数上涨约0.2%，徘徊在日内高点附近，该指数在美国交易时段走高。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "19:41",
+      "keywords": []
+    },
+    {
+      "title": "丹纳赫二季度业绩超预期 生命科学业务表现强劲",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniirfsp2213442.shtml",
+      "content": " 丹纳赫于7月21日公布2026年第二季度财报，营收和利润均超出市场预期，并上调全年每股收益指引，但受生物制药业务客户订单时间推迟影响，股价在周二尾盘交易中下跌11.5%。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "19:38",
+      "keywords": []
+    },
+    {
+      "title": "Synchrony Financial二季度业绩：购买量创纪录，费用上升成隐忧",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniirfss8005483.shtml",
+      "content": " Synchrony Financial于7月21日发布的2026年第二季度财报显示，公司核心业务增长强劲，创下历史最高购买量纪录，但净利润受费用上升及信贷拨备增加影响，同比有所下滑。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "19:35",
+      "keywords": []
+    },
+    {
+      "title": "Garmin推出无屏健康手环Cirqa 挑战估值百亿的Whoop",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniirfss8003237.shtml",
+      "content": " Garmin于7月21日正式发布其首款无屏智能手环Cirqa Smart Band，以199.99美元的价格切入快速增长的无屏可穿戴设备市场，直接向估值达101亿美元的行业领军者Whoop发起挑战。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "19:31",
+      "keywords": []
+    },
+    {
+      "title": "OKO与Shinsegae启动5亿美元奢华地产基金",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniirfsp2204144.shtml",
+      "content": " 韩国零售巨头新世界集团与全球房地产开发商OKO集团宣布，将共同设立一只规模5亿美元的合资基金，专项用于开发奢华酒店及品牌住宅项目。",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "19:19",
+      "keywords": []
+    },
+    {
+      "title": "谷歌发布三款Gemini新模型 应对AI领域激烈竞争",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniirfsq8979399.shtml",
+      "content": "面对日益激烈的人工智能市场竞争，谷歌于7月21日发布三款新的Gemini系列AI模型。 此次推出的三款模型各具特色。Gemini 3.6 Flash作为主力模型，在编程...",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "19:16",
+      "keywords": []
+    },
+    {
       "title": "美国银行对英镑态度转为中性 预计新首相将带来密集消息",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniiqzkr2295084.shtml",
@@ -349,135 +517,6 @@
       "date": "2026-07-21",
       "time": "16:07",
       "keywords": []
-    },
-    {
-      "title": "Precigen将于8月4日发布二季度财报及业务更新",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniiqvau9158087.shtml",
-      "content": "商业阶段生物制药公司Precigen（纳斯达克代码：PGEN）宣布，将于2026年8月4日（周二）美股盘后发布第二季度财务业绩，并于当天下午4：30（美国东部时间）召开电话会议讨论...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:42",
-      "keywords": []
-    },
-    {
-      "title": "宏利金融将于8月5日发布2026年第二季度财报",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniiqvau9154425.shtml",
-      "content": "宏利金融（Manulife Financial Corporation，多伦多证券交易所代码：MFC）宣布，将于2026年8月5日（周三）美股收盘后公布第二季度财务业绩。",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:31",
-      "keywords": []
-    },
-    {
-      "title": "20倍光芯片大牛股源杰科技，上半年净利预增超10倍",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-21/doc-iniiqvat2375496.shtml",
-      "content": "来源：中国基金报 【导读】源杰科技预计上半年净利润为6亿元至6.5亿元，同比增长1196.91%至1304.98% 中国基金报记者 卢鸰 源杰科技7月21日盘后公告称...",
-      "priority": "medium",
-      "sectors": [
-        "半导体",
-        "光模块"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:18",
-      "keywords": []
-    },
-    {
-      "title": "美元普涨之际日元扩大跌幅 跌破1美元兑163关口",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniiqvaw8103803.shtml",
-      "content": "日元扩大日内跌幅，跌破1美元兑163日元，美元随美国国债收益率和油价上涨。 美元/日元上涨0.3%，至163.04的高点；美元现货指数上涨0.2%，创一周盘中新高．",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:12",
-      "keywords": []
-    },
-    {
-      "title": "高盛：特步国际维持“买入”评级 目标价降至5.6港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-07-21/doc-iniiqvay4875295.shtml",
-      "content": "高盛发布研报称，将特步国际（01368）目标价由5.7港元下调至5.6港元，维持“买入”评级，认为其估值极具吸引力（相当于2026年预测市盈率约8倍，或扣除现金后市盈率约3倍）...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:05",
-      "keywords": [
-        "高盛：",
-        "特步国际",
-        "目标价"
-      ]
-    },
-    {
-      "title": "小摩：特步国际维持“增持”评级 目标价降至6港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-07-21/doc-iniiqvat2367663.shtml",
-      "content": "摩根大通发布研报称，因应疲弱的零售环境，将特步国际（01368）2026至2028年盈利预测下调3%至5%，目标价由6.3港元下调至6港元，维持“增持”评级...",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:04",
-      "keywords": [
-        "小摩",
-        "特步国际",
-        "目标价"
-      ]
-    },
-    {
-      "title": "瑞银：哈尔滨电气给予“买入”评级 目标价45港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-07-21/doc-iniiqvau9144085.shtml",
-      "content": "瑞银发布研报称，哈尔滨电气（01133）盈喜大胜市场预期。上半年净利润17亿元人民币，同比增长62%，单半年已达全年预测约50%，预期将带动市场上调对其2026年全年盈利预测...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:03",
-      "keywords": [
-        "瑞银",
-        "哈尔滨电气",
-        "目标价"
-      ]
-    },
-    {
-      "title": "小摩：胜宏科技重申“增持”评级 目标价降至500港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-07-21/doc-iniiqvat2366996.shtml",
-      "content": "摩根大通发布研报称，决定胜宏科技（02476）未来两至三年市场份额的关键在于高质量的产能，认为投资者近日过度关注不确定因素，对短期逆风过度反应。",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:02",
-      "keywords": [
-        "小摩",
-        "胜宏科技",
-        "目标价"
-      ]
     },
     {
       "title": "成长赛道估值集体深度调整，石油、煤炭等防御板块逆势走强，市场风险偏好快速从乐观转向谨慎避险。资金面呈现杠杆资金恐慌出逃、中长线资金逆势布局的反差",
@@ -721,6 +760,272 @@
       ]
     },
     {
+      "title": "特朗普称将允许美国航空公司直飞黎巴嫩",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-22/doc-iniirfsq8996484.shtml",
+      "content": "美国总统特朗普表示，他正指示其政府允许所有美国航空公司开通直飞黎巴嫩的航线。 特朗普与黎巴嫩总统Joseph Aoun会晤后，在Truth Social上发帖宣布这一决定。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "19:54",
+      "keywords": []
+    },
+    {
+      "title": "ONERugged推出搭载英特尔Lunar Lake平台的AI加固平板电脑",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniirfsu4791402.shtml",
+      "content": "ONERugged于7月21日宣布推出四款基于英特尔Lunar Lake平台的AI加固型Windows平板电脑，分别为EM-I10L、EM-I20L、M10L和M20L。该系列产品面向智能制造、仓储物流...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "19:49",
+      "keywords": []
+    },
+    {
+      "title": "报道：伊朗袭击科威特阿里·萨利姆基地和布比延岛",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-22/doc-iniirfsu4791241.shtml",
+      "content": "伊朗国有媒体IRIB报道，伊斯兰革命卫队周二晚些时候打击了科威特阿里·萨利姆空军基地附近以及布比延岛上的雷达系统。 报道称，此次空袭是正在进行的“清除该地区雷达”行动的...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "19:49",
+      "keywords": []
+    },
+    {
+      "title": "海湾国家对战争走向分歧加深 部分美国盟友希望华府加码打击伊朗",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-22/doc-iniirfsq8994839.shtml",
+      "content": "美国与伊朗之间的敌对行动加剧令华盛顿的海湾盟友愈发不满，因为冲突正危及这些国家的安全与经济。 而且这些国家对美国下一步应采取何种行动意见也不统一。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "19:49",
+      "keywords": []
+    },
+    {
+      "title": "股东权益律所对Personalis收购案启动调查",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniirfsq8992740.shtml",
+      "content": " 多家股东权益律师事务所近日宣布，已对癌症检测公司Personalis拟被Tempus AI收购的交易展开调查，关注点集中在交易价格是否公允以及董事会是否履行了信义义务。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "19:43",
+      "keywords": []
+    },
+    {
+      "title": "拉斯维加斯地标度假酒店凯撒宫推出1966主题限定餐饮 庆祝开业60周年",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniirfsp2215834.shtml",
+      "content": " 拉斯维加斯地标度假酒店凯撒宫于7月21日宣布，为庆祝1966年开业至今的60周年，将在旗下多家知名餐厅推出限时主题菜单和纪念鸡尾酒，活动将持续至2026年12月31日。",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "19:42",
+      "keywords": []
+    },
+    {
+      "title": "Fluor获巴林石化设施前端工程设计合同",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniirfsq8991635.shtml",
+      "content": "美国福陆公司(Fluor)宣布，已获得海湾石油化工工业公司授予的合同，将为巴林王国一座新建芳烃设施提供前端工程与设计服务。该项目将对GPIC位于锡特拉的综合体进行扩建...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "19:40",
+      "keywords": []
+    },
+    {
+      "title": "HelloFresh新债遭大量做空 融券比例超10%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniirfsq8987701.shtml",
+      "content": " 德国餐包配送公司HelloFresh于7月1日发行的新债券在二级市场表现疲软，目前已有超过10%的债券可供借出，且几乎所有可供借出的债券均已被借出，显示投资者做空意愿强烈。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "19:33",
+      "keywords": []
+    },
+    {
+      "title": "特斯拉将Robotaxi服务扩展至奥兰多和坦帕",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniirfsq8985346.shtml",
+      "content": " 特斯拉于7月21日宣布，将其无人驾驶出租车服务扩展至佛罗里达州的奥兰多和坦帕两市，此举正值该公司即将公布第二季度财报前夕。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "19:28",
+      "keywords": []
+    },
+    {
+      "title": "NEXTDC合同利用容量跃升11%至740兆瓦 股价应声上涨",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniirfss7999802.shtml",
+      "content": "澳大利亚数据中心运营商NEXTDC于7月21日宣布，在截至6月份的三个月内，公司新签客户合同推动合同利用容量增加73兆瓦，达到740兆瓦，环比增长11%...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "19:25",
+      "keywords": []
+    },
+    {
+      "title": "铠侠股价腰斩 分析师仍看好逾一倍上涨空间",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniirfsu4771068.shtml",
+      "content": " 日本半导体巨头铠侠控股近期股价大幅下挫，自6月创下的历史高点已跌去逾一半，但多数分析师仍维持看涨观点，平均目标价较当前股价高出约130%。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "19:18",
+      "keywords": []
+    },
+    {
+      "title": "特朗普50%关税威胁预示美墨加协定谈判艰难",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniirfsp2201127.shtml",
+      "content": "加拿大帝国商业银行指出，美国总统特朗普对加拿大发出的50%关税新威胁，或将成为北美贸易协定艰难谈判的起点。 白宫于7月20日宣布，将对加拿大乳制品、酒精...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "19:13",
+      "keywords": []
+    },
+    {
+      "title": "特朗普似乎将推出一系列新关税，分析师称可能不会对市场造成太大冲击",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniirfsu4762012.shtml",
+      "content": "预计美国总统特朗普本周将征收新的进口税，因为2月份开征的关税仅能维持150天。 特朗普政府官员正在利用其他法律授权，以接近总统唐纳德·特朗普一年多前推出的“解放日”关税...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "19:06",
+      "keywords": []
+    },
+    {
+      "title": "内华达锂业宣布聘请Arrowhead为其提供企业接入和投资者推介服务",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniirfsp2193342.shtml",
+      "content": "内华达锂业公司（Nevada Lithium Resources Inc．，多伦多证券交易所创业板代码：NVLH）宣布，已聘请Arrowhead Business and Investment Decisions...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "18:59",
+      "keywords": []
+    },
+    {
+      "title": "Jason Canning出任CAMSO Construction与CEAT OHT副总裁兼国际销售负责人",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniirfsp2191631.shtml",
+      "content": "建筑设备轮胎和履带高端品牌CAMSO Construction与CEAT Specialty今日宣布，任命Jason Canning为CAMSO Construction和CEAT OHT业务副总裁兼国际销售负责人。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "18:55",
+      "keywords": []
+    },
+    {
+      "title": "尾盘：美股维持涨势 道指上涨360点",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniiqzku8105054.shtml",
+      "content": " 北京时间7月22日凌晨，美股周二尾盘维持涨势，道指上涨360点。投资者正在权衡美伊战争升级的影响，并关注最新企业财报。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "18:51",
+      "keywords": []
+    },
+    {
+      "title": "特朗普会见黎巴嫩总统 讨论协助落实以黎停火协议",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniiqzkr2320195.shtml",
+      "content": " 美国总统特朗普表示，他会与黎巴嫩总统奥恩讨论如何协助落实由美国斡旋的以黎停火协议。目前，贝鲁特寻求获得援助，以遏制伊朗支持的真主党武装。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "18:49",
+      "keywords": []
+    },
+    {
+      "title": "伊朗称已部署新防空装备",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniiqzkw4867429.shtml",
+      "content": " 伊朗军方发言人Mohammad Akraminia报道，伊朗军队已部署新的防空装备，并修复了此前在美国和以色列的空袭中受损的作战系统。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "18:33",
+      "keywords": []
+    },
+    {
+      "title": "特朗普淡化与伊朗谈判可能性 并称将在红海航运受威胁时出手",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-22/doc-iniirfsq8999758.shtml",
+      "content": " 美国总统唐纳德·特朗普淡化近期与伊朗举行谈判的可能性。美伊双方继续相互发动打击，也门胡塞武装威胁封锁沙特红海航线。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-21",
+      "time": "18:00",
+      "keywords": []
+    },
+    {
       "title": "加拿大总理卡尼与特朗普同意在美国50%关税生效前加紧谈判",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniiqzkw4818596.shtml",
@@ -873,365 +1178,6 @@
       "period": "noon",
       "date": "2026-07-21",
       "time": "15:47",
-      "keywords": []
-    },
-    {
-      "title": "科技保险公司Lemonade内布拉斯加州上线租客保险",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniiqvat2382662.shtml",
-      "content": "利用人工智能技术提供数字化保险服务的科技保险公司Lemonade公司（纽约证券交易所代码：LMND）宣布，即日起在内布拉斯加州推出租客保险产品...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:46",
-      "keywords": []
-    },
-    {
-      "title": "Magnolia Oil & Gas以40.6亿美元收购WildFire Energy",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniiqvay4896223.shtml",
-      "content": "Magnolia Oil &amp; Gas（纽约证券交易所代码：MGY）于7月20日宣布，已达成最终协议，以约40.6亿美元（包含债务）的价格收购WildFire Energy。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:43",
-      "keywords": []
-    },
-    {
-      "title": "Kate Spade New York与Movado集团签署全球腕表授权协议",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniiqvay4895363.shtml",
-      "content": " Kate Spade New York与腕表制造商Movado集团（纽约证券交易所代码：MOV）于7月21日共同宣布，双方已签署一项全球腕表授权协议。该协议于2026年7月1日正式生效。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:41",
-      "keywords": []
-    },
-    {
-      "title": "Bluepeak采用Harmonic解决方案加速光纤部署并拓展多住户单元市场",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniiqvaw8117349.shtml",
-      "content": " 美国互联网服务提供商Bluepeak今日宣布，将采用Harmonic的cOS虚拟化宽带平台、Pearl远程OLT及SeaStar光节点，以推动其光纤网络扩张并有效进入多住户单元（MDU）市场。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:38",
-      "keywords": []
-    },
-    {
-      "title": "特朗普：如果胡塞武装封锁红海 美国将采取行动",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniiqvay4893340.shtml",
-      "content": " 在被问及是否担心也门胡塞武装在红海对沙特阿拉伯实施封锁时，美国总统特朗普表示，如果封锁真的付诸实施，美国将“不得不采取行动”。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:37",
-      "keywords": []
-    },
-    {
-      "title": "Zillow：超30万块空置地块出售，有望填补美国6%住房缺口",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniiqvay4892676.shtml",
-      "content": "房地产信息平台Zillow的最新研究显示，若在目前挂牌出售的空置地块上各建一套住房，美国的住房短缺问题将得到缓解。当前美国住房缺口约为470万套...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:36",
-      "keywords": []
-    },
-    {
-      "title": "Rocket One战略投资Placeve，加速布局AI基础设施平台",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniiqvaw8114742.shtml",
-      "content": "专注于国防、太空与智能边缘计算的人工智能基础设施公司Rocket One Inc．（纳斯达克代码：RKTO）宣布，与高能效AI处理器硬件平台创新企业Placeve Inc．达成战略合作...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:32",
-      "keywords": []
-    },
-    {
-      "title": "Genpact获ISG报告评为Databricks生态系统合作伙伴“新星”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniiqvaw8113755.shtml",
-      "content": "技术咨询公司Genpact（纽约证券交易所代码：G）在ISG发布的《2026年ISG Provider Lens™全球Databricks生态系统合作伙伴报告》中获评“新星”。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:31",
-      "keywords": []
-    },
-    {
-      "title": "加拿大总理卡尼称已与特朗普通电话 同意加强贸易谈判",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniiqvat2377225.shtml",
-      "content": " 加拿大总理卡尼表示，他周二早些时候与美国总统特朗普通话。此前，特朗普威胁将在约一个月后对一系列加拿大商品加征50%关税。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:30",
-      "keywords": []
-    },
-    {
-      "title": "美的集团于7月21日斥资2440.17万元回购29.05万股A股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-21/doc-iniiqvaw8105459.shtml",
-      "content": "美的集团（00300）发布公告，于2026年7月21日斥资2440.17万元回购29.05万股A股。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:15",
-      "keywords": [
-        "美的集团",
-        "回购",
-        "A股"
-      ]
-    },
-    {
-      "title": "美国多州将在中期选举掀起房产税公投大战",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniiqvat2371921.shtml",
-      "content": "核心要点 13 个州将在中期选举推出共计 26 项税收相关公投提案。 加州 “亿万富豪税” 关注度最高，但大量公投议题聚焦房产税 —— 这是大多数美国人最重要资产对应的税种。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:14",
-      "keywords": []
-    },
-    {
-      "title": "昊海生物科技于7月21日耗资约122.54万港元回购7.3万股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-21/doc-iniiqvaw8104919.shtml",
-      "content": "昊海生物科技（06826）公布，2026年7月21日耗资约122.54万港元回购7.3万股股份。",
-      "priority": "low",
-      "sectors": [
-        "医药",
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:14",
-      "keywords": [
-        "昊海生物科技",
-        "回购"
-      ]
-    },
-    {
-      "title": "首程控股于7月21日斥资249.15万港元回购150万股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-21/doc-iniiqvau9148156.shtml",
-      "content": "首程控股（00697）发布公告，该公司于2026年7月21日斥资249.15万港元回购150万股股份，每股回购价格为1.61-1.67港元。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:13",
-      "keywords": [
-        "首程控股",
-        "回购"
-      ]
-    },
-    {
-      "title": "百宏实业发盈喜 预期上半年股东应占溢利大幅上升不少于160%",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-21/doc-iniiqvat2371155.shtml",
-      "content": "百宏实业（02299）发布公告，本公司预期与截至2025年6月30日止6个月相比，本公司截至2026年6月30日止6个月可能取得本公司拥有人应占溢利大幅上升不少于160%。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:12",
-      "keywords": [
-        "百宏实业",
-        "溢利",
-        "上升"
-      ]
-    },
-    {
-      "title": "华润燃气于7月21日斥资1835.87万港元回购116.49万股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-21/doc-iniiqvaw8103627.shtml",
-      "content": " 华润燃气（01193）发布公告，该公司于2026年7月21日斥资1835.87万港元回购116.49万股股份，每股回购价格为15.69-15.8港元。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:12",
-      "keywords": [
-        "华润燃气",
-        "回购"
-      ]
-    },
-    {
-      "title": "富通科技因购股期权获行使而合共发行3.8万股普通股股份",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-21/doc-iniiqvat2370776.shtml",
-      "content": " 富通科技（00465）发布公告，于2026年7月21日，该公司根据2019年5月16日采纳之购股期权计划行使购股期权而发行3万股普通股股份。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:11",
-      "keywords": [
-        "富通科技",
-        "发行",
-        "股份"
-      ]
-    },
-    {
-      "title": "美兰空港获控股股东质押股份",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-21/doc-iniiqvay4878965.shtml",
-      "content": "美兰空港（00357）发布公告，本公司于2026年7月21日获悉，本公司控股股东海南机场设施股份有限公司（控股股东）已将其持有的本公司118，750...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:10",
-      "keywords": [
-        "美兰空港",
-        "控股股东",
-        "质押股份"
-      ]
-    },
-    {
-      "title": "SpaceX敲定财报发布日期，数百万股限售股迎来首批解禁窗口",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniiqvat2370263.shtml",
-      "content": "核心要点 SpaceX 股价周二上涨，有望终结连续七个交易日下跌行情 公司确定 8 月 4 日发布上市后首份财报，这份财报将触发大规模限售股首批解禁...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:10",
-      "keywords": []
-    },
-    {
-      "title": "金石控股集团完成发行合共1.43亿股配售股份",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-21/doc-iniiqvaw8102273.shtml",
-      "content": "金石控股集团（01943）发布公告，配售协议的所有条件均已达成，配售事项已于2026年7月21日完成。合共1.43亿股配售股份已根据配售协议的条款及条件，以每股配售股份0...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:09",
-      "keywords": [
-        "金石控股集团",
-        "发行",
-        "配售股份"
-      ]
-    },
-    {
-      "title": "福禄控股将于8月18日派发特别股息每股0.342港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-21/doc-iniiqvaw8101595.shtml",
-      "content": "福禄控股（02101）发布公告，该公司将于2026年8月18日派发特别股息每股0.342港元。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:08",
-      "keywords": [
-        "福禄控股",
-        "派发",
-        "特别股息"
-      ]
-    },
-    {
-      "title": "凌雄科技于7月21日斥资239.12万港元回购12万股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-21/doc-iniiqvau9146061.shtml",
-      "content": "凌雄科技（02436）发布公告，于2026年7月21日斥资239.12万港元回购12万股。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:08",
-      "keywords": [
-        "凌雄科技",
-        "回购"
-      ]
-    },
-    {
-      "title": "通用汽车收缩电动车布局，宣布推出多款凯迪拉克燃油新车",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniiqvau9145759.shtml",
-      "content": "核心要点 通用汽车首席执行官玛丽・博拉表示，新一代凯迪拉克车型将推出燃油版 CT5 轿车、XT5 中型 SUV，以及此前停产的三排座 XT6 SUV。",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:07",
-      "keywords": []
-    },
-    {
-      "title": "美债收益率小幅上行，投资者评估地缘政治风险",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-21/doc-iniiqvay4874330.shtml",
-      "content": "周二整条美债收益率曲线全线走高。投资者一边研判持续升级的中东紧张局势，一边留意有关各方展开斡旋、谋求停火的消息。 作为美国融资关键基准的10 年期美债收益率上行超...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-21",
-      "time": "15:03",
       "keywords": []
     },
     {
