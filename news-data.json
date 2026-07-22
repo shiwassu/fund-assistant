@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T17:50:56.950494",
+  "updated": "2026-07-22T19:54:53.506664",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,53 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 25,
-    "medium": 26,
-    "low": 99
+    "high": 24,
+    "medium": 25,
+    "low": 101
   },
   "items": [
+    {
+      "title": "纽约汇市：美元持稳 日元回吐早前涨幅后持平",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitkru4647121.shtml",
+      "content": " 美元指数周三基本持平，美元兑G-10其他货币涨跌互现。由于市场预期日本央行可能以快于经济学家普遍预期的节奏加息，日元早些时候一度走强，但随后回吐涨幅。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "19:46",
+      "keywords": []
+    },
+    {
+      "title": "沃什时代美联储动向更难预测 交易员对下周是否加息分歧明显",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-23/doc-iniitkrp1723223.shtml",
+      "content": " 凯文·沃什执掌下的美联储已开始在金融市场留下鲜明印记。在距离下次利率会议仅剩几天之际，交易员对于央行是否会加息仍存在明显分歧。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "18:58",
+      "keywords": []
+    },
+    {
+      "title": "汇丰：市场高估欧洲央行加息预期 看好德国2年期国债",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-23/doc-iniitkru4600350.shtml",
+      "content": "汇丰表示，由于市场对欧洲央行的加息预期过高，德国短端国债收益率过高，德国2年期国债相对公允价值显得偏便宜。 “在大多数情况下，短端品种看起来明显偏便宜...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "18:20",
+      "keywords": []
+    },
     {
       "title": "小麦价格大涨 投资者担忧黑海地区的运输面临风险",
       "source": "环球市场播报",
@@ -122,63 +164,6 @@
       "period": "noon",
       "date": "2026-07-22",
       "time": "14:40",
-      "keywords": []
-    },
-    {
-      "title": "美股存储股多股下跌，超微电脑狂飙23%，中概龙头下挫，黄金白银大涨",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/wm/2026-07-22/doc-iniisxzw7938376.shtml",
-      "content": "北京时间7月22日晚，美股三大指数涨跌不一，截至21点55分，纳指跌0.29%，道指翻红涨0.35%，标普500指数跌0.03%。 科技巨头多数下跌，微软、亚马逊、SpaceX跌约1%。",
-      "priority": "high",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:26",
-      "keywords": []
-    },
-    {
-      "title": "资金持续“扫货”创业板ETF！机构：长线配置良机已现",
-      "source": "中证网",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-22/doc-iniisxzu8638816.shtml",
-      "content": "近期市场出现波动，但创业板相关ETF却持续获得资金“扫货”。截至7月21日，易方达创业板ETF净流入额超220亿元，华安创业板50ETF亦获近20亿元资金净流入...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:15",
-      "keywords": []
-    },
-    {
-      "title": "5连板大牛股，紧急提示",
-      "source": "中证网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-22/doc-iniisxzw7943024.shtml",
-      "content": "7月22日晚，立新能源发布股票交易异常波动公告称，目前，公司无算力产业相关业务布局，亦未开展面向算力中心的专属供电配套服务，也未与相关企业落地算力领域合作。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:10",
-      "keywords": []
-    },
-    {
-      "title": "ETF日报：黄金的长期定价锚在于实际利率下行+全球央行持续增持+信用体系再平衡",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-07-22/doc-iniisxzw7921667.shtml",
-      "content": "今日A股主要股指走势分化，上证指数微涨0.07%报3867.03点，深证成指跌1.42%、创业板指跌3.23%、科创综指跌2.25%。A股全天成交2.67万亿元...",
-      "priority": "high",
-      "sectors": [
-        "黄金",
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:08",
       "keywords": []
     },
     {
@@ -392,6 +377,20 @@
       ]
     },
     {
+      "title": "美银客户数据：散户上周买入美股规模创逾一年来最高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-23/doc-iniitkru4612810.shtml",
+      "content": "根据美银客户数据，上周，散户投资者单周买入力度创2025年5月以来最高，推升美股整体买入规模。 策略师Jill Carey Hall在报告中写道，该行客户连续第三周净买入...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "18:39",
+      "keywords": []
+    },
+    {
       "title": "午盘：美股涨跌不一 标普指数基本持平",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniiteiw4637245.shtml",
@@ -501,34 +500,6 @@
       "period": "noon",
       "date": "2026-07-22",
       "time": "14:30",
-      "keywords": []
-    },
-    {
-      "title": "“股王”预增超8倍！今夜，密集利好",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/wm/2026-07-22/doc-iniisxzy4714375.shtml",
-      "content": "7月22日晚间，多家上市公司发布2026年上半年业绩预增公告。其中，联讯仪器、中微半导、中润光学等半导体领域公司，华强科技、奥浦迈等医药生物公司业绩均大幅预增...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:27",
-      "keywords": []
-    },
-    {
-      "title": "国资委大考！三大运营商集体得A",
-      "source": "C114通信网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-22/doc-iniisxzu8643957.shtml",
-      "content": "国务院国资委今日发布2025年度中央企业负责人经营业绩考核A级企业名单，中国移动、中国电信、中国联通三大基础电信运营商全部上榜。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:15",
       "keywords": []
     },
     {
@@ -787,6 +758,118 @@
       "keywords": [
         "光伏观察"
       ]
+    },
+    {
+      "title": "伊朗称若基础设施遭袭 将封锁石油出口",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitkrp1728804.shtml",
+      "content": "伊朗联合军事指挥部表示，如果美国袭击伊朗基础设施，“伊朗将不会允许哪怕一滴石油”通过霍尔木兹海峡出口。 声明称，作为报复，“该地区的石油、天然气...",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "19:23",
+      "keywords": []
+    },
+    {
+      "title": "伊朗警告美军支持者：若参与袭击将面临打击",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-23/doc-iniitkrp1723052.shtml",
+      "content": "伊朗外长阿巴斯·阿拉格齐在X平台发文表示，“任何针对伊朗的侵略，包括我们的基础设施，都将招致强有力且果断的回应。” 阿拉格齐表示，“任何为此类侵略提供支持者...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "18:57",
+      "keywords": []
+    },
+    {
+      "title": "尾盘：美股涨跌不一 市场关注油价与财报",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitkrq8498834.shtml",
+      "content": "北京时间7月23日凌晨，美股周三尾盘涨跌不一。交易员关注油价上涨并为更多财报做准备。 道指涨47.63点，涨幅为0.09%，报52272.27点；纳指跌92.55点，跌幅为0.36%，报25744...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "18:53",
+      "keywords": []
+    },
+    {
+      "title": "伊朗警告勿使用霍尔木兹海峡替代航线",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-23/doc-iniitkrq8496141.shtml",
+      "content": "伊斯兰革命卫队海军在X发帖称，使用未经伊朗指定的替代航线通过霍尔木兹海峡“将带来严重且不可逆转的后果”。 帖子写道：“替代航线不安全且危险”。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "18:42",
+      "keywords": []
+    },
+    {
+      "title": "美国财政部续发20年期国债 中标收益率创2020年以来第二高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-23/doc-iniitkrq8487935.shtml",
+      "content": "美国财政部续发行的130亿美元20年期国债中标收益率为5.163%，是该期限债券自2020年恢复发行以来第二高的水平。中标收益率高于纽约时间下午1点投标截止时5...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "18:17",
+      "keywords": []
+    },
+    {
+      "title": "伊朗议会议长：如果伊朗不能卖石油 其他国家也别想卖",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-23/doc-iniitkrq8487735.shtml",
+      "content": " 伊朗议会议长穆罕默德·巴盖尔·卡利巴夫在X平台发文称：“这场战争的逻辑很清楚，要么大家都能卖油，要么谁都不能卖。如果我们无法在本地区出售石油，其他国家也别想出售。”",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "18:17",
+      "keywords": []
+    },
+    {
+      "title": "欧盟委员会有条件批准派拉蒙天舞收购华纳兄弟的交易",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-23/doc-iniitkru4595719.shtml",
+      "content": "欧盟委员会有条件批准派拉蒙天舞收购华纳兄弟的交易。 批准的条件是派拉蒙天舞全面履行其提出的承诺。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "18:13",
+      "keywords": []
+    },
+    {
+      "title": "美官员：特朗普政府正评估马里军事行动选项",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-23/doc-iniitkrs7818088.shtml",
+      "content": "据熟悉相关讨论的现任及前任美国官员透露，特朗普政府正评估在西非国家马里采取军事行动，以打击与基地组织有关联的武装团体“伊斯兰和穆斯林支持组织”（Jama‘at Nusrat...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "18:10",
+      "keywords": []
     },
     {
       "title": "GE Vernova公布最新季度财报后股价走低",
@@ -1094,90 +1177,6 @@
       "period": "noon",
       "date": "2026-07-22",
       "time": "14:35",
-      "keywords": []
-    },
-    {
-      "title": "分析测算：欧洲热浪造成谷物产值损失超20亿欧元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-22/doc-iniisxzu8641624.shtml",
-      "content": "最新分析显示，6月席卷欧洲的热浪令谷物产值蒸发逾20亿欧元，法国与匈牙利遭受冲击最为严重。 欧洲谷物贸易商协会Coceral的数据显示，热浪过后四周内...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:20",
-      "keywords": []
-    },
-    {
-      "title": "美伊双方淡化谈判前景之际 美军扩大对伊朗打击范围",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-22/doc-iniisxzy4703488.shtml",
-      "content": "在美国总统唐纳德·特朗普和伊朗方面的官员释放短期内不太可能重启和谈的信号之际，美军隔夜扩大了对伊朗的空袭范围。 据伊朗媒体报道...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:13",
-      "keywords": []
-    },
-    {
-      "title": "AMD最高将向Anthropic投资500亿美元 同步达成算力供货合作",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniisxzw7927071.shtml",
-      "content": "AMD于周三宣布与Anthropic达成战略合作，并表示未来将向这家人工智能企业最高投资500亿美元。 根据协议，Anthropic将采用AMD Helios机架级解决方案...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:13",
-      "keywords": []
-    },
-    {
-      "title": "艾罗能源股东、董事及原监事减持结果出炉",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-22/doc-iniisxzy4714216.shtml",
-      "content": "7月22日，艾罗能源（688717）发布股东、部分董事及原监事减持股份结果公告。股东、董事及原监事持有股份的基本情况本次减持计划实施前...",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:11",
-      "keywords": []
-    },
-    {
-      "title": "中国电建签署总额89.25亿元大单",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-22/doc-iniisxzw7936809.shtml",
-      "content": "7月22日，中国电建（601669）发布关于签署重大合同的公告。近日，中国电建下属子公司中国水利水电第五工程局有限公司和伊拉克瑞达公司签订了伊拉克巴士拉海水淡化项目输水...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:11",
-      "keywords": []
-    },
-    {
-      "title": "污蔑中国遭驳斥后，特朗普自曝：干预过中国事务",
-      "source": "",
-      "url": "https://finance.sina.com.cn/wm/2026-07-22/doc-iniisxzt1858075.shtml",
-      "content": "上周造谣中国试图“干预美国选举”遭中方驳斥后，美国总统特朗普自曝，美国干预过中国事务。 当地时间7月21日，特朗普在白宫对记者说...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:10",
       "keywords": []
     },
     {
