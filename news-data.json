@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T19:54:53.506664",
+  "updated": "2026-07-22T21:40:28.075714",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,39 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 24,
-    "medium": 25,
-    "low": 101
+    "high": 21,
+    "medium": 27,
+    "low": 102
   },
   "items": [
+    {
+      "title": "美国债市：国债在清淡交投中走低 美联储加息押注升温",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxn8397571.shtml",
+      "content": "美债周三延续跌势，但没有明显诱因，显示出市场对美联储加息预期升温的影响。美国2至5年期国债收益率升至年内最高水平，10年期美债收益率距离5月中旬创下的2026年高点仅差...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "20:36",
+      "keywords": []
+    },
+    {
+      "title": "俄总统新闻秘书：俄燃料市场形势出现好转",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-23/doc-iniitqxq7775812.shtml",
+      "content": "据俄罗斯方面当地时间22日消息，俄罗斯总统新闻秘书佩斯科夫表示，俄燃料市场形势出现好转。 俄总统普京当天在莫斯科克里姆林宫同俄联邦政府、俄央行高层举行经济会议。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "20:02",
+      "keywords": []
+    },
     {
       "title": "纽约汇市：美元持稳 日元回吐早前涨幅后持平",
       "source": "环球市场播报",
@@ -94,76 +122,6 @@
       "period": "noon",
       "date": "2026-07-22",
       "time": "15:59",
-      "keywords": []
-    },
-    {
-      "title": "Spectra总裁Donnelly：美元在美联储决策日之前有上涨空间",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-22/doc-iniiteir1766433.shtml",
-      "content": " Spectra Markets总裁Brent Donnelly表示，在7月29日美联储利率决议公布前的几天里，美元可能会走强，因为交易员们将消化美联储主席凯文·沃什或许会加息的一定概率。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "15:32",
-      "keywords": []
-    },
-    {
-      "title": "罚没超3500万！天域生物实控人罗卫国，借私募基金“马甲”隐蔽减持，公司已连亏六年半",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-07-22/doc-iniisxzt1881177.shtml",
-      "content": "来源：上市之家 近日，天域生物科技股份有限公司（603717.SH，以下简称“天域生物”）发布公告称，公司实际控制人罗卫国已收到中国证券监督管理委员会重庆监管局下发的《行政...",
-      "priority": "high",
-      "sectors": [
-        "医药"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:50",
-      "keywords": []
-    },
-    {
-      "title": "专访微亿智造董事长张志琦：在“人形狂欢”中保持冷静",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-22/doc-iniisxzu8653245.shtml",
-      "content": "来源：@华夏时报微博华夏时报记者 石飞月 上海报道在刚刚过去的2026世界人工智能大会（下称“2026WAIC”）上，一家工业物理AI厂商的展位吸引了不少观众的目光：一台具身质检...",
-      "priority": "high",
-      "sectors": [
-        "机器人"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:45",
-      "keywords": []
-    },
-    {
-      "title": "利好不断，千亿存储龙头，董事长提议回购",
-      "source": "中国证券报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-22/doc-iniisxzu8653502.shtml",
-      "content": "今晚，又一批公司加入增持、回购“大军”。 其中，A股存储龙头佰维存储发布公告称，公司控股股东、实际控制人、董事长孙成思提议，公司以集中竞价方式回购股份...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:45",
-      "keywords": []
-    },
-    {
-      "title": "鸡蛋价格跌至历史低位，卡尔梅因食品营收大幅下滑",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniisxzu8650404.shtml",
-      "content": "这家鸡蛋生产经销商公布第四财季营收暴跌 50%，至 5.526 亿美元受营收大幅下滑影响，卡尔梅因食品第四财季由盈转亏 内容速览 卡尔梅因食品第四财季转为亏损...",
-      "priority": "high",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:40",
       "keywords": []
     },
     {
@@ -377,6 +335,90 @@
       ]
     },
     {
+      "title": "美国股市：标普500指数收低 科技股回落抵消能源股涨势",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxq7796579.shtml",
+      "content": " 标普500指数周三回落，此前刚录得数周来最佳单日表现。尽管美伊局势升级推动油价飙升并提振能源板块，但部分大型科技股下跌拖累了大盘。",
+      "priority": "medium",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "21:15",
+      "keywords": []
+    },
+    {
+      "title": "特斯拉Q2利润远逊华尔街预期 成本上升拖累业绩",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxs4543662.shtml",
+      "content": "特斯拉第二季度业绩不及华尔街预期，打击了这家正致力于围绕机器人、自动驾驶和人工智能打造新业务的电动汽车制造商。 特斯拉周三在声明中表示...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "20:35",
+      "keywords": []
+    },
+    {
+      "title": "7月23日美股成交额前20：AMD宣布与Anthropic建立战略合作",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxq7766541.shtml",
+      "content": " 周三美股成交额第1名美光科技收跌1.17%，成交288.58亿美元。美银称2030年HBM市场规模将达2460亿美元，增长7倍，驱动半导体行业升级，美光目标价上调至1550美元。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "20:34",
+      "keywords": []
+    },
+    {
+      "title": "7月23日热门中概股多数下跌 台积电跌0.82%，阿里巴巴跌1.21%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxn8392024.shtml",
+      "content": "7月23日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）收跌1.80%。 上涨个股（按市值从高到低）：日月光半导体涨1.20%，联电涨0.42%，中通涨0.37%，富途控股涨2.34%...",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "20:18",
+      "keywords": []
+    },
+    {
+      "title": "Alphabet第二季度营收1198亿美元 同比增长24%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxq7751253.shtml",
+      "content": "2026年7月22日，Alphabet公布截至2026年6月30日的季度财务业绩。 Alphabet合并营收同比增长24%，按固定汇率计算增幅为23%，达到1198亿美元。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "20:10",
+      "keywords": []
+    },
+    {
+      "title": "7月23日收盘：标普500指数小幅收低，油价上涨令股市承压",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxs4526433.shtml",
+      "content": " 北京时间7月23日凌晨，美股周三收跌，标准普尔500指数小幅收跌。油价上涨令美股承压。投资者正关注又一个繁忙的企业财报日。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "20:07",
+      "keywords": []
+    },
+    {
       "title": "美银客户数据：散户上周买入美股规模创逾一年来最高",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-07-23/doc-iniitkru4612810.shtml",
@@ -388,6 +430,20 @@
       "period": "night",
       "date": "2026-07-22",
       "time": "18:39",
+      "keywords": []
+    },
+    {
+      "title": "欧盟未就第21轮对俄制裁达成一致",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-23/doc-iniitqxm1612431.shtml",
+      "content": "当地时间22日，欧盟各成员国外交官员举行会议，最终再次未能就针对俄罗斯的第21轮制裁方案达成一致。 据悉，新制裁旨在打击俄罗斯银行业。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-22",
+      "time": "17:48",
       "keywords": []
     },
     {
@@ -430,76 +486,6 @@
       "period": "noon",
       "date": "2026-07-22",
       "time": "15:52",
-      "keywords": []
-    },
-    {
-      "title": "深夜，全线拉升！暴涨23%！AI“新贵”，利好突袭",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-07-22/doc-iniisxzw7951635.shtml",
-      "content": "芯片股探底回升！ 北京时间22日晚间，美股三大指数走势分化。存储板块探底回升，希捷科技涨近3%，西部数据涨近2%。其他芯片股也大幅拉升，费城半导体指数翻红...",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:49",
-      "keywords": []
-    },
-    {
-      "title": "国际业务增长提振菲利普莫里斯营收",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniisxzw7945455.shtml",
-      "content": "公司无烟产品板块销售额同比增长 11.7%在美国市场，Zyn 尼古丁口袋拉动销售，一定程度抵消雪茄业务下滑带来的压力 内容速览 菲利普莫里斯国际公布二季度营收同比增长 10%...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:42",
-      "keywords": []
-    },
-    {
-      "title": "2026光伏行业供应链发展研讨会在浙江省宁波市成功举办",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-07-22/doc-iniisxzy4720562.shtml",
-      "content": "2026年7月22日，由中国光伏行业协会主办、锦浪科技股份有限公司承办的“2026光伏行业供应链发展（宁波）研讨会在浙江省宁波市新芝宾馆成功举办。",
-      "priority": "medium",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:38",
-      "keywords": []
-    },
-    {
-      "title": "中东，最新消息！特朗普发声，黄金、白银直线拉升！纳指走低",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-22/doc-iniisxzy4720135.shtml",
-      "content": " 周三（7月22日）美股开盘，三大指数涨跌互现。截至记者发稿，道琼斯工业平均价格指数上涨0.43%，标普500指数微涨，纳斯达克指数下跌0.29%。",
-      "priority": "medium",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:36",
-      "keywords": []
-    },
-    {
-      "title": "21家光伏上市公司半年预亏160亿",
-      "source": "界面",
-      "url": "https://finance.sina.com.cn/wm/2026-07-22/doc-iniisxzt1869609.shtml",
-      "content": "界面新闻记者 |席菁华 今年上半年，光伏上市公司延续大面积亏损态势。 据界面新闻不完全统计，截至7月21日，已有21家光伏上市公司披露半年度业绩预告，覆盖硅料、硅片...",
-      "priority": "medium",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:30",
       "keywords": []
     },
     {
@@ -760,6 +746,119 @@
       ]
     },
     {
+      "title": "7月23日外盘头条：特斯拉Q2利润腰斩 苹果拟全面升级Mac产品线 谷歌Q2营收1198亿美元 亚马逊裁撤AGI岗位",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxn8429646.shtml",
+      "content": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、苹果据悉拟全面升级Mac产品线 押注AI带动高性能电脑需求 2、三星推出新款折叠屏手机，赶在苹果预期登场前上调价格 3...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "21:30",
+      "keywords": []
+    },
+    {
+      "title": "美国与沙特阿拉伯签署核合作协议",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxs4568796.shtml",
+      "content": "美国能源部在一份声明中表示，美国和沙特阿拉伯已达成核合作协议。 声明称，“该协议为美国公司参与沙特核能项目提供了极大的便利”。 根据声明，该协议将提交国会审议。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "21:10",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：伊朗尚未准备好达成协议 但“很快”就会",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxm1638422.shtml",
+      "content": "特朗普在佐治亚州一次活动上发表讲话，他表示，伊朗还没有准备好达成协议，但“很快”会。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "21:08",
+      "keywords": []
+    },
+    {
+      "title": "大型机销量下滑 IBM下调全年财测",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxn8414313.shtml",
+      "content": "国际商业机器公司（IBM）报告大型机业务需求下降后下调了全年营收展望，其中包括对备受关注的软件部门的预期。 该公司周三在公告中表示，今年营收有望增长4%至5%...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "21:07",
+      "keywords": []
+    },
+    {
+      "title": "大宗商品综述：油价升至六周高位 黄金延续涨势 铜走低",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxs4564066.shtml",
+      "content": " 随着美国和伊朗淡化和平谈判的前景，原油价格连续第四个交易日上涨，布伦特原油创一个多月新高。黄金价格在逢低买盘的推动下延续涨势。伦敦市场铜价下跌。",
+      "priority": "low",
+      "sectors": [
+        "黄金",
+        "有色"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "21:04",
+      "keywords": []
+    },
+    {
+      "title": "原油：油价攀升至六周高位 美伊都淡化和平谈判前景",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxn8402210.shtml",
+      "content": "原油价格周三上涨，本月涨幅达到接近30%，因为美国和伊朗都淡化了和平谈判的前景，并且全球供应中断的情况持续加剧。 布伦特原油期货价格飙升至6月初...",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "20:50",
+      "keywords": []
+    },
+    {
+      "title": "Alphabet云业务营收超预期 搜索广告收入略逊预估",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxs4543170.shtml",
+      "content": " Alphabet Inc．公布第二财季云业务收入超出华尔街预期，但与搜索引擎业务相关的销售略低于预期，这可能加剧市场对其大举投入人工智能的担忧。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "20:35",
+      "keywords": []
+    },
+    {
+      "title": "特斯拉Q2营收同比增长26% 利润腰斩 资本支出大幅增加",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxn8391939.shtml",
+      "content": "特斯拉第二季度总营收282.36亿美元，同比增长26%，受车辆交付增长、服务及其他业务增长及外汇正面影响推动。 季度运营利润仅3.98亿美元，同比下降57%，运营利润率1.4%...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "20:18",
+      "keywords": []
+    },
+    {
       "title": "伊朗称若基础设施遭袭 将封锁石油出口",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitkrp1728804.shtml",
@@ -771,6 +870,20 @@
       "period": "night",
       "date": "2026-07-22",
       "time": "19:23",
+      "keywords": []
+    },
+    {
+      "title": "美威胁袭伊基础设施 伊朗军方：将不允许本地区出口一滴石油",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-23/doc-iniitqxq7752133.shtml",
+      "content": "伊朗武装部队哈塔姆安比亚中央总部当地时间22日发布声明称，美方再次威胁要打击伊朗的国家基础设施。继昨晚发出警告后，现再次宣布，霍尔木兹海峡仍处于关闭状态。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "19:00",
       "keywords": []
     },
     {
@@ -813,6 +926,34 @@
       "period": "night",
       "date": "2026-07-22",
       "time": "18:42",
+      "keywords": []
+    },
+    {
+      "title": "伊朗外长：任何针对伊基础设施的攻击都将招致强有力回应",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-23/doc-iniitkru4648586.shtml",
+      "content": "伊朗外交部长阿拉格齐当地时间22日在其个人社交媒体上表示，伊朗的防御原则非常明确：以牙还牙。 阿拉格齐说，任何针对伊朗的侵略行为，包括对伊朗基础设施的攻击...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "18:41",
+      "keywords": []
+    },
+    {
+      "title": "伊朗革命卫队：船只不要使用替代航线进出霍尔木兹海峡",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-23/doc-iniitqxs4528618.shtml",
+      "content": "伊朗伊斯兰革命卫队海军司令部当地时间22日表示，霍尔木兹海峡的进出路线明确，且完全处于伊朗的控制之下。任何替代航线都是不安全且极其危险的。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "18:18",
       "keywords": []
     },
     {
@@ -872,6 +1013,48 @@
       "keywords": []
     },
     {
+      "title": "欧盟有条件批准派拉蒙收购华纳兄弟",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-23/doc-iniitqxm1613146.shtml",
+      "content": "当地时间22日，欧盟发布声明称有条件批准派拉蒙收购华纳兄弟。 欧盟委员会称，已根据《欧盟并购条例》批准派拉蒙天空之舞公司拟收购华纳兄弟探索公司。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-22",
+      "time": "18:01",
+      "keywords": []
+    },
+    {
+      "title": "伊朗议长重申霍尔木兹海峡不会恢复至战前状态",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-23/doc-iniitqxm1610790.shtml",
+      "content": "伊朗伊斯兰议会议长卡利巴夫22日表示，霍尔木兹海峡局势不会恢复至战前状态。 卡利巴夫在社交媒体平台发文说，这场战争的逻辑十分明确，即“要么所有人都有...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-22",
+      "time": "17:49",
+      "keywords": []
+    },
+    {
+      "title": "联合国：今年上半年全球贸易在价格压力上升情况下持续扩张",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-23/doc-iniitkrp1697430.shtml",
+      "content": "联合国贸发会议22日发布的《全球贸易更新》报告显示，2026年上半年全球贸易继续保持增长势头，但价格压力持续上升，贸易扩张呈现出更加不均衡的特点。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-22",
+      "time": "17:20",
+      "keywords": []
+    },
+    {
       "title": "GE Vernova公布最新季度财报后股价走低",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniiteiw4675400.shtml",
@@ -897,6 +1080,20 @@
       "period": "noon",
       "date": "2026-07-22",
       "time": "17:01",
+      "keywords": []
+    },
+    {
+      "title": "美军称对伊朗海上封锁已迫使9艘商船改道",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-23/doc-iniitqxq7745665.shtml",
+      "content": "当地时间22日，美军中央司令部表示，在美军执行针对伊朗的海上封锁期间，美军导弹驱逐舰在阿拉伯海航行并监控相关行动。截至22日，美军已迫使9艘商船改道...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-22",
+      "time": "16:51",
       "keywords": []
     },
     {
@@ -981,202 +1178,6 @@
       "period": "noon",
       "date": "2026-07-22",
       "time": "15:52",
-      "keywords": []
-    },
-    {
-      "title": "报道：亚马逊在旗下AGI部门裁员",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-22/doc-iniiteiu7844955.shtml",
-      "content": "路透援引亚马逊一位发言人报道称，该公司周三在其通用人工智能（AGI）部门进行了裁员。 发言人对路透说：“我们正进一步聚焦于对客户最重要的举措...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "15:32",
-      "keywords": []
-    },
-    {
-      "title": "美国2至5年期国债收益率升至2026年高点 市场情绪恶化",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-22/doc-iniisxzw7968068.shtml",
-      "content": " 美国2年期和5年期国债收益率周三均上升逾4个基点，升至一年多来的最高水平，且并无明显诱因，显示市场情绪恶化可能是背后推手。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "15:19",
-      "keywords": []
-    },
-    {
-      "title": "美国贸易代表格里尔：寻求与加拿大和墨西哥达成强有力的原产地规则",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-22/doc-iniisxzy4742264.shtml",
-      "content": " 美国贸易代表贾米森·格里尔表示，希望到2026年底之前，《美墨加协定》能够取得阶段性进展，特朗普政府正在寻求与墨西哥和加拿大达成“非常强有力的”原产地规则条款。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "15:15",
-      "keywords": []
-    },
-    {
-      "title": "宜家甩卖8处物业，回应：不代表退出中国市场",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/chanjing/gsnews/2026-07-22/doc-iniisxzw7954364.shtml",
-      "content": "日前，仲量联行官微透露，宜家母公司英格卡集团委托其独家代理销售8处国内自持商业资产，涉产权面积49.8万平方米。 公开信息显示，本次待售资产包涵盖了位于贵阳...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:58",
-      "keywords": []
-    },
-    {
-      "title": "300093，新签算力服务大单，涨价54%",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/wm/2026-07-22/doc-iniisxzw7955199.shtml",
-      "content": "又一家上市公司算力服务涨价。 7月22日晚，金刚光伏（300093）公告称，全资孙公司北京金刚数海智算科技有限公司（下称“金刚数海”）解除与江苏某大数据有限公司约3...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:57",
-      "keywords": []
-    },
-    {
-      "title": "三星推出新款折叠屏手机，赶在苹果预期登场前上调价格",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniisxzt1880336.shtml",
-      "content": "三星周三发布了其最新的折叠屏智能手机，旨在苹果可能进入市场之前，保持其在自身开创的这一产品类别中的领先地位。 这家韩国科技巨头在伦敦的一场活动中发布了其Galaxy...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:55",
-      "keywords": []
-    },
-    {
-      "title": "AMD将向Anthropic投资50亿美元，作为算力交易的一部分",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniisxzt1878868.shtml",
-      "content": "超微半导体（AMD）周三宣布与Anthropic建立战略合作伙伴关系，并表示将在“未来”向这家人工智能公司投资高达50亿美元。 这家芯片制造商表示，作为交易的一部分...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:52",
-      "keywords": []
-    },
-    {
-      "title": "确认了！4000亿“东山王”，海外仓库光模块被盗了",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-07-22/doc-iniisxzy4729960.shtml",
-      "content": "来源：上市之家 近日，一则关于东山精密（002384）海外仓库光模块被盗、损失高达数千万美元的消息在市场上迅速发酵，引发投资者广泛关注。",
-      "priority": "low",
-      "sectors": [
-        "光模块"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:50",
-      "keywords": []
-    },
-    {
-      "title": "大众加深与地平线合作，推进中国自动驾驶技术落地",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniisxzu8654612.shtml",
-      "content": "L3 级自动驾驶功能预计自明年下半年开启装车交付地平线与大众自动驾驶合资公司 Carizon 携手研发自动驾驶技术 内容速览 大众汽车在华自动驾驶合资公司 Carizon 将深化与地...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:50",
-      "keywords": []
-    },
-    {
-      "title": "纳斯达克小幅下行，市场静待特斯拉、谷歌财报出炉",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniisxzy4724574.shtml",
-      "content": "受中东冲突与乌克兰战事从多个层面冲击能源市场、能源缓冲库存持续走低影响，国际油价今日大幅上涨。 国际基准布伦特原油期货价格，较 7 月初低点上涨逾 20 美元。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:48",
-      "keywords": []
-    },
-    {
-      "title": "AMD与Anthropic签署重大芯片供应及投资协议",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-22/doc-iniisxzu8653089.shtml",
-      "content": "这项总规模 2 吉瓦算力合作涉及价值数百亿美元芯片；AMD 计划最高向 Anthropic 投资 50 亿美元AMD 首席执行官苏姿丰 内容速览 AMD 与 Anthropic 达成协议...",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:46",
-      "keywords": []
-    },
-    {
-      "title": "EIA：美国原油库存上周增加201万桶 预估中值为减少195万桶",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-22/doc-iniisxzw7944437.shtml",
-      "content": "美国能源信息管理局（EIA）库存报告还显示上周有如下变动： 汽油库存增加76.5万桶，预估为减少190.5万桶； 馏分油库存增加139.5万桶，预估为增长82...",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:40",
-      "keywords": []
-    },
-    {
-      "title": "王毅会见菲律宾外长拉扎罗",
-      "source": "新华社",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-22/doc-iniisxzw7943062.shtml",
-      "content": "新华社马尼拉7月22日电（记者李萌 赵晨捷）中共中央政治局委员、外交部长王毅22日在马尼拉出席东亚合作系列外长会期间应约会见菲律宾外长拉扎罗，向菲方阐明中方严正立场...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:36",
-      "keywords": []
-    },
-    {
-      "title": "山东重工全球合作伙伴大会暨绿色智能产品展示会在越南河内开幕",
-      "source": "中证网",
-      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-07-22/doc-iniisxzt1881662.shtml",
-      "content": "中证报中证网讯(记者张鹏飞)7月22日，以“科技赋能装备美好”为主题的山东重工集团全球合作伙伴大会暨绿色智能产品展示会在越南河内开幕。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "14:35",
       "keywords": []
     },
     {
