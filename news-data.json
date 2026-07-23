@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-22T23:34:57.415558",
+  "updated": "2026-07-23T03:57:34.972714",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -8,163 +8,165 @@
   ],
   "priority_dist": {
     "high": 24,
-    "medium": 27,
-    "low": 99
+    "medium": 35,
+    "low": 91
   },
   "items": [
     {
-      "title": "美股存储芯片、科技股普跌，美债收益率创新高，国际油价飙升，美联储加息预期大涨",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/roll/2026-07-23/doc-iniitvfn7762329.shtml",
-      "content": "美东时间周三（7月22日），美股三大指数均小幅收跌，纳指跌0.57%，标普500指数跌0.14%，道指跌0.01%。美联储加息预期大涨，压制了科技股的提振势头...",
+      "title": "台积电因设备涨价大幅上调资本开支，科创半导体设备ETF华泰柏瑞（588710）基金份额再创历史新高！",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-07-23/doc-iniiufvc1495648.shtml",
+      "content": "近期，半导体板块波动有所加大，市场关注点逐步回归产业基本面。AI需求增长、存储周期改善以及国产替代趋势仍未改变，设备材料作为半导体资本开支核心受益环节...",
       "priority": "high",
       "sectors": [
         "半导体"
       ],
       "period": "night",
-      "date": "2026-07-22",
-      "time": "23:14",
+      "date": "2026-07-23",
+      "time": "03:15",
       "keywords": []
     },
     {
-      "title": "德州仪器发布乐观业绩展望 抱有极高预期的投资者不为所动",
+      "title": "油价连续走高提振加元，美元兑加元跌破1.4100",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-07-23/doc-iniiufvh7755845.shtml",
+      "content": "汇通财经APP讯——美元兑加元周四亚洲早盘继续走低，汇价徘徊于1.4100下方附近，市场正在评估油价上涨、美元走势以及北美货币政策预期之间的影响。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:15",
+      "keywords": []
+    },
+    {
+      "title": "国资央企上半年实现利润1.4万亿元！央企红利ETF华泰柏瑞（561580）助力把握国资国企改革发展机遇",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-07-23/doc-iniiufvk4527608.shtml",
+      "content": "7月21日至22日，国务院国资委举办中央企业负责人研讨班，总结上半年工作，研究部署下半年任务。会议强调，要以制定实施国资央企“十五五”规划和进一步深化国资国企改革为总...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:13",
+      "keywords": []
+    },
+    {
+      "title": "锂电池产量大涨！化工板块猛攻，华宝基金化工ETF（516020）盘中涨超2%！超50亿主力资金加码",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/2026-07-23/doc-iniiufvh7740696.shtml",
+      "content": " 化工板块今日（7月23日）猛攻，反映化工板块整体走势的化工ETF华宝（516020）开盘短暂于水面附近震荡后迅速拉升，盘中场内价格一度涨超2%，截至发稿，涨1.94%。",
+      "priority": "high",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:06",
+      "keywords": []
+    },
+    {
+      "title": "清算量超越港元与美元！香港离岸人民币市场跃升为全球融资枢纽",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/money/forex/forexroll/2026-07-23/doc-iniiufvh7729428.shtml",
+      "content": "华尔街见闻 香港离岸人民币市场正迎来历史性跃升：6月人民币清算量攀至53.2万亿元，首次在港超越港元与美元；离岸存款触及1.13万亿元历史高位，债券发行年内激增33%。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "02:53",
+      "keywords": []
+    },
+    {
+      "title": "微盘股退市风险增大 纳斯达克新规将横扫“拉高出货”欺诈的重灾区",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxs4594682.shtml",
-      "content": " 模拟和嵌入式处理芯片制造商德州仪器给出的销售展望高于分析师预期，但未能令今年以来已经推动该股大涨的投资者感到振奋。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniiufvk4500684.shtml",
+      "content": "随着监管机构聚焦于困扰着微盘股的市场异动和操纵问题，纳斯达克将修改规则，以便能够更容易淘汰经营不善的企业。 根据美国证券交易委员会（SEC）周三批准的计划...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "night",
-      "date": "2026-07-22",
-      "time": "21:41",
+      "date": "2026-07-23",
+      "time": "02:52",
       "keywords": []
     },
     {
-      "title": "中国证监会：持续提升外资参与资本市场的便利度",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-23/doc-iniitqxn8433969.shtml",
-      "content": "本报讯（记者田鹏）中国证监会官网7月22日消息，2026年7月21日，中国证监会主席吴清在京会见了加拿大养老基金投资公司总裁兼首席执行官格雷厄姆（JohnGraham）。",
+      "title": "战略收购中科超容，火炬电子涨停封板！军工ETF华宝（512810）逆市上探1%冲击三连阳",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/etf/2026-07-23/doc-iniiufvc1475754.shtml",
+      "content": "7月23日，军工板块逆市活跃，MLCC、商业航天等局部躁动，火炬电子涨停封板，应流股份涨超5%，长城军工涨超4%，航天环宇、航天发展涨超3%。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "night",
-      "date": "2026-07-22",
-      "time": "21:38",
+      "date": "2026-07-23",
+      "time": "02:52",
       "keywords": []
     },
     {
-      "title": "上半年全国一般公共预算收入同比增长4.7% 财政部：合理加快资金使用进度 持续支持扩大有效投资",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/china/2026-07-23/doc-iniitqxn8408373.shtml",
-      "content": "新华社图◎记者 李苑财政部7月22日发布的最新数据显示，上半年，全国一般公共预算收入12.1万亿元，同比增长4.7%，累计增幅逐月提高。",
+      "title": "美债收益率连续三日上行 7月加息概率回升",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/roll/2026-07-23/doc-iniiufvh7737241.shtml",
+      "content": " 新华财经北京7月23日电 美国国债收益率周三（7月22日）继续上涨，在美伊局势再趋紧张以来已连续三日走高。10年期美债收益率当天上涨3.45个基点，至4.66%的两个月高位。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "night",
-      "date": "2026-07-22",
-      "time": "21:00",
+      "date": "2026-07-23",
+      "time": "02:49",
       "keywords": []
     },
     {
-      "title": "证监会：坚决维护资本市场平稳健康运行 持续提升外资参与资本市场便利度  欢迎国际机构投资者扩大对华投资",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/roll/2026-07-23/doc-iniitqxm1631559.shtml",
-      "content": "◎记者 梁银妍 7月21日，中国证监会主席吴清在北京会见加拿大养老基金投资公司总裁兼首席执行官格雷厄姆（John Graham）时强调，中国证监会将坚决维护资本市场平稳健康运行...",
+      "title": "MLCC概念龙头风华高科，涨停后炸板",
+      "source": "第一财经",
+      "url": "https://finance.sina.com.cn/stock/relnews/2026-07-23/doc-iniitzpn4616087.shtml",
+      "content": "7月23日，MLCC概念龙头风华高科股价高开后快速封涨停，封单逾40万手，盘中突然炸板，截至发稿，涨8.16%，报44.67元。 MLCC概念今日盘中冲高回落，Wind数据显示，截至发稿...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "night",
-      "date": "2026-07-22",
-      "time": "21:00",
+      "date": "2026-07-23",
+      "time": "02:35",
       "keywords": []
     },
     {
-      "title": "美国债市：国债在清淡交投中走低 美联储加息押注升温",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxn8397571.shtml",
-      "content": "美债周三延续跌势，但没有明显诱因，显示出市场对美联储加息预期升温的影响。美国2至5年期国债收益率升至年内最高水平，10年期美债收益率距离5月中旬创下的2026年高点仅差...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "20:36",
-      "keywords": []
-    },
-    {
-      "title": "中国宏观经济韧性足 AI等创新领域吸引力增强 多家外资机构发声看好A股市场看多中国股票",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/roll/2026-07-23/doc-iniitqxq7755128.shtml",
-      "content": "◎记者 汪友若 近日，在全球股票市场显著回调、A股市场波动加剧的背景下，外资机构密集发布观点，明确看好中国股市下半年表现。花旗将中国股票评级上调至“超配”...",
+      "title": "重金押注AI，谷歌Capex超预期！规模最大港股通信息技术ETF华宝（159131）开盘涨1.87%，近2日“吸金”近5亿",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/etf/2026-07-23/doc-iniitzph8362140.shtml",
+      "content": "今日（7月23日），港股硬科技走势回暖，联想集团、联想控股、建滔积层板携手大涨超6%，同类规模最大、流动性最强*的港股通信息技术ETF华宝（159131）场内价格现涨1.87%...",
       "priority": "high",
       "sectors": [
         "AI"
       ],
       "period": "night",
-      "date": "2026-07-22",
-      "time": "20:16",
+      "date": "2026-07-23",
+      "time": "02:31",
       "keywords": []
     },
     {
-      "title": "多家外资机构发声 看好A股市场看多中国股票",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/roll/2026-07-23/doc-iniitqxn8390754.shtml",
-      "content": "◎记者 汪友若 近日，在全球股票市场显著回调、A股市场波动加剧的背景下，外资机构密集发布观点，明确看好中国股市下半年表现。花旗将中国股票评级上调至“超配”...",
+      "title": "从腾讯初创员工到执掌近千亿市值券商，李华用互联网思维改造传统证券业，如今正经历创业以来最严峻的考验",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-07-23/102467216.html?cxapp_link=true",
+      "content": "从腾讯初创员工到执掌近千亿市值券商，李华用互联网思维改造传统证券业，如今正经历创业以来最严峻的考验",
       "priority": "high",
       "sectors": [
-        "综合"
+        "金融"
       ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "20:16",
-      "keywords": []
-    },
-    {
-      "title": "个人养老金基金规模突破280亿元",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/roll/2026-07-23/doc-iniitqxn8390741.shtml",
-      "content": "◎记者 赵明超 根据中国证监会近日公布的《个人养老金基金名录》，个人养老金基金数量从一季度末的308只增至二季度末的321只。从新增的养老金产品看，产品类型较为多元...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "20:16",
-      "keywords": []
-    },
-    {
-      "title": "俄总统新闻秘书：俄燃料市场形势出现好转",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-23/doc-iniitqxq7775812.shtml",
-      "content": "据俄罗斯方面当地时间22日消息，俄罗斯总统新闻秘书佩斯科夫表示，俄燃料市场形势出现好转。 俄总统普京当天在莫斯科克里姆林宫同俄联邦政府、俄央行高层举行经济会议。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "20:02",
-      "keywords": []
-    },
-    {
-      "title": "纽约汇市：美元持稳 日元回吐早前涨幅后持平",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitkru4647121.shtml",
-      "content": " 美元指数周三基本持平，美元兑G-10其他货币涨跌互现。由于市场预期日本央行可能以快于经济学家普遍预期的节奏加息，日元早些时候一度走强，但随后回吐涨幅。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "19:46",
-      "keywords": []
+      "period": "noon",
+      "date": "2026-07-23",
+      "time": "--:--",
+      "keywords": [
+        "商圈"
+      ]
     },
     {
       "title": "一手打造万亿美元HBM帝国的崔泰源，却多年蝉联“韩国负面影响最大财阀会长”，司法污点、天价离婚两大负面事件，常年占据韩国媒体头条",
@@ -176,7 +178,7 @@
         "半导体"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -192,7 +194,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -208,7 +210,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -224,7 +226,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -240,7 +242,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -256,7 +258,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -272,7 +274,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -288,7 +290,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -305,7 +307,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "数据图解"
@@ -321,7 +323,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -337,7 +339,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -354,7 +356,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -370,165 +372,334 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
       ]
     },
     {
-      "title": "A股市场，再传利好",
-      "source": "中国证券报-中证网",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-23/doc-iniitvfn7737166.shtml",
-      "content": "重要新闻提示证监会：坚决维护资本市场平稳健康运行7月22日晚，多家A股上市公司披露业绩预喜公告和回购增持公告，进一步提振市场信心7月22日...",
+      "title": "佳鑫国际资源盘中涨超6% 瑞银首次给予“买入”评级",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-23/doc-iniiufvk4565373.shtml",
+      "content": "佳鑫国际资源（03858）盘中涨超6%，截至发稿，股价上涨3.35%，现报57.05港元，成交额7976.44万港元。 瑞银发表研报，首次给予佳鑫国际资源“买入”评级，目标价88.7港元...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "night",
-      "date": "2026-07-22",
-      "time": "22:32",
+      "date": "2026-07-23",
+      "time": "03:44",
+      "keywords": [
+        "佳鑫国际资源",
+        "涨超"
+      ]
+    },
+    {
+      "title": "中国重汽午前涨逾10% 花旗指公司管理层上调全年出口销量指引",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-23/doc-iniiufvh7786333.shtml",
+      "content": "中国重汽（03808）盘中涨超11%，截至发稿，股价上涨9.99%，现报42.50港元，成交额4.50亿港元。 根据第一商用车网数据，2026年1-6月，我国重卡行业累计销售66.09万辆...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:41",
+      "keywords": [
+        "中国重汽",
+        "涨逾"
+      ]
+    },
+    {
+      "title": "梁文锋摊牌：DeepSeek最大的野心，是不赚最多的钱",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/companyt/2026-07-23/doc-iniiufvk4569866.shtml",
+      "content": "来源：百亿基金经理内参 过去两年的AI战争，本质上是一场资本竞赛。 谁拥有更多GPU，谁能训练更大的模型，谁能烧掉更多资金，谁距离AGI更近。",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:34",
       "keywords": []
     },
     {
-      "title": "7月23日隔夜要闻：美股收低 油价升至六周高位 特斯拉Q2利润腰斩 联合国称上半年全球贸易持续扩张",
+      "title": "视频丨有投资机构听到追觅立马不看！复盘追觅收缩的两个月，风波后一级市场避险情绪强烈",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/companyt/2026-07-23/doc-iniiufvh7772900.shtml",
+      "content": "",
+      "priority": "medium",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:32",
+      "keywords": []
+    },
+    {
+      "title": "胜宏科技盘中涨超6% 机构看好公司未来持续受益AI发展浪潮",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-23/doc-iniiufvc1509517.shtml",
+      "content": "胜宏科技（02476）早盘一度涨超6%，截至发稿，股价上涨2.21%，现报231.80港元，成交额4.19亿港元。 英伟达日前宣布，面向“千兆级AI工厂”的Vera...",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:32",
+      "keywords": [
+        "胜宏科技",
+        "涨超"
+      ]
+    },
+    {
+      "title": "黑猫投诉2026上半年旅游演出投诉数据报告：旅游出行住宿投诉量超26万件",
+      "source": "黑猫投诉",
+      "url": "https://finance.sina.com.cn/heimao/2026-07-23/doc-iniiufvc1513471.shtml",
+      "content": "黑猫大数据中心联合黑猫投诉平台发布《黑猫投诉2026上半年旅游演出投诉数据报告》，通过投诉数据盘点2026上半年行业趋势、行业热点问题等...",
+      "priority": "medium",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:30",
+      "keywords": [
+        "黑猫",
+        "旅游",
+        "演唱会"
+      ]
+    },
+    {
+      "title": "三环集团盘中涨超7% 公司上半年净利润同比预增45%至65%",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-23/doc-iniiufve8284401.shtml",
+      "content": "三环集团（06951）盘中涨超7%，截至发稿，股价上涨3.78%，报101.70港元，成交额5464.98万港元。 据证券时报调研反馈显示，当前MLCC供需格局偏紧，主力企业产线满载...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:30",
+      "keywords": [
+        "三环集团",
+        "涨超",
+        "净利润"
+      ]
+    },
+    {
+      "title": "全文|谷歌Q2业绩会实录：最重要的任务是扎实推进Gemini 4",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/2026-07-23/doc-iniiufve8279119.shtml",
+      "content": " Alphabet公布第二财季云业务收入超出华尔街预期，但与搜索引擎业务相关的销售略低于预期，这可能加剧市场对其大举投入人工智能的担忧。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:22",
+      "keywords": []
+    },
+    {
+      "title": "全文|特斯拉Q2业绩会实录：Robotaxi安全性极高",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/2026-07-23/doc-iniiufvc1496554.shtml",
+      "content": "特斯拉第二季度总营收282.36亿美元，同比增长26%，受车辆交付增长、服务及其他业务增长及外汇正面影响推动。 详见：特斯拉Q2营收同比增长26% 利润腰斩 资本支出大幅增加...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:16",
+      "keywords": []
+    },
+    {
+      "title": "超5.3万“大虾”集结应战，全国首届ETF AI交易巅峰赛圆满收官",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-07-23/doc-iniiufvh7750320.shtml",
+      "content": "2026年盛夏，一场别开生面的“人机”智能交易对决圆满落下帷幕。由华泰证券与华泰柏瑞基金联合打造的“华泰柏瑞杯·全国首届ETF AI交易巅峰赛”于7月20日正式收官...",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:13",
+      "keywords": []
+    },
+    {
+      "title": "一语道“粕”：外部扰动加码 市场节奏被 “双向打乱”",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/2026-07-23/doc-iniiufvh7743413.shtml",
+      "content": "卓创资讯蛋白饲料市场高级分析师王汝文 【导语】进入7月，国内豆粕行情受国际市场主导，走出较为顺畅的上涨行情。进入下旬，根据卓创资讯对重点区域生产企业调研了解...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:08",
+      "keywords": []
+    },
+    {
+      "title": "三、四季度理论生猪供应减量，但两轮二育补/出栏或成关键变量",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/2026-07-23/doc-iniiufvh7741572.shtml",
+      "content": "卓创资讯生猪行业资深分析师李晶 【导语】从不同口径推算7-12月生猪理论出栏量或逐步减少。而大猪养殖群体——中小散户减产比例较大...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:07",
+      "keywords": []
+    },
+    {
+      "title": "裂解价差高企：机构警示油价上行或引发非线性连锁冲击",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-23/doc-iniiufvh7743501.shtml",
+      "content": "来源：财联社 财联社7月23日讯（编辑 李莹）油价大幅上涨、裂解价差高企、石油储备消耗等多重因素，正加剧市场对能源市场前景的担忧。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:07",
+      "keywords": []
+    },
+    {
+      "title": "印尼股市自6月低点上涨20%，有望进入技术性牛市",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitvfk8320206.shtml",
-      "content": "市场 7月23日收盘：标普500指数小幅收低，油价上涨令股市承压 7月23日美股成交额前20：AMD宣布与Anthropic建立战略合作 7月23日热门中概股多数下跌 台积电跌0.82%...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniiufvk4510009.shtml",
+      "content": " 印尼股市上涨，基准指数有望进入技术性牛市，主权评级的确认提振了市场情绪，而持续的科技乐观情绪则推动了区域市场的反弹。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "night",
-      "date": "2026-07-22",
-      "time": "22:30",
+      "date": "2026-07-23",
+      "time": "03:00",
       "keywords": []
     },
     {
-      "title": "创业板指ETF月内“吸金”超285亿元",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-23/doc-iniitqxm1657211.shtml",
-      "content": "本报记者田鹏郭之宸 7月份以来，创业板相关ETF（交易型开放式指数基金）持续受到市场资金青睐。以创业板指数（以下简称“创业板指”）赛道产品为例，Wind数据显示...",
+      "title": "乐舒适早盘涨超3% 机构看好拉美市场有望实现翻倍以上增长",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-23/doc-iniiufvk4489958.shtml",
+      "content": "乐舒适（02698）早盘涨超3%，截至发稿，股价上涨3.54%，现报32.72港元，成交额6440.88万港元。 近日，乐舒适发布2026年上半年业绩盈喜预告，中金指出...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "night",
-      "date": "2026-07-22",
-      "time": "21:38",
-      "keywords": []
+      "date": "2026-07-23",
+      "time": "02:44",
+      "keywords": [
+        "乐舒适",
+        "涨超"
+      ]
     },
     {
-      "title": "美国股市：标普500指数收低 科技股回落抵消能源股涨势",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxq7796579.shtml",
-      "content": " 标普500指数周三回落，此前刚录得数周来最佳单日表现。尽管美伊局势升级推动油价飙升并提振能源板块，但部分大型科技股下跌拖累了大盘。",
-      "priority": "medium",
-      "sectors": [
-        "能源"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "21:15",
-      "keywords": []
-    },
-    {
-      "title": "多路增量资金入市 逆向布局构筑承接防线",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/roll/2026-07-23/doc-iniitqxm1631561.shtml",
-      "content": "◎记者 朱妍 A股市场波动之际，多路增量资金入场布局。7月以来，资金大幅流入ETF，部分次新基金火速建仓，公私募基金密集自购，绩优基金也放开限购吸纳“新子弹”。",
+      "title": "国泰航空早盘涨超3% 上半年公司业绩预增客货运量均同比增长9%",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-23/doc-iniitzpk7837016.shtml",
+      "content": "国泰航空（00293）早盘涨超3%，截至发稿，股价上涨3.39%，现报14.05港元，成交额1.74亿港元。 7月22日，国泰航空发布公告，集团预计截至2026年6月30日止六个月（2026年上半...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "night",
-      "date": "2026-07-22",
-      "time": "21:00",
-      "keywords": []
+      "date": "2026-07-23",
+      "time": "02:39",
+      "keywords": [
+        "国泰航空",
+        "涨超"
+      ]
     },
     {
-      "title": "特斯拉Q2利润远逊华尔街预期 成本上升拖累业绩",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxs4543662.shtml",
-      "content": "特斯拉第二季度业绩不及华尔街预期，打击了这家正致力于围绕机器人、自动驾驶和人工智能打造新业务的电动汽车制造商。 特斯拉周三在声明中表示...",
+      "title": "天利控股集团早盘一度涨超20% MLCC主力企业产线满载",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-23/doc-iniitzpn4610293.shtml",
+      "content": "天利控股集团（00117）早盘一度涨超20%，截至发稿，股价上涨9.26%，现报2.95港元，成交额2811.65万港元。 AI正在大量消耗MLCC。调研反馈显示，当前MLCC供需格局偏紧...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "night",
-      "date": "2026-07-22",
-      "time": "20:35",
-      "keywords": []
+      "date": "2026-07-23",
+      "time": "02:37",
+      "keywords": [
+        "天利控股集团",
+        "涨超"
+      ]
     },
     {
-      "title": "7月23日美股成交额前20：AMD宣布与Anthropic建立战略合作",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxq7766541.shtml",
-      "content": " 周三美股成交额第1名美光科技收跌1.17%，成交288.58亿美元。美银称2030年HBM市场规模将达2460亿美元，增长7倍，驱动半导体行业升级，美光目标价上调至1550美元。",
+      "title": "港股涨幅扩大 恒生指数涨超1%",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/2026-07-23/doc-iniitzph8365876.shtml",
+      "content": " 7月23日消息，港股涨幅扩大，恒生指数涨超1%。恒指成分股中。联想、中国铝业涨超5%，美团、中国宏桥涨超3%，紫金矿业、理想汽车、泡泡玛特、舜宇光学科技涨超2%。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "night",
-      "date": "2026-07-22",
-      "time": "20:34",
+      "date": "2026-07-23",
+      "time": "02:36",
       "keywords": []
     },
     {
-      "title": "7月23日热门中概股多数下跌 台积电跌0.82%，阿里巴巴跌1.21%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxn8392024.shtml",
-      "content": "7月23日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）收跌1.80%。 上涨个股（按市值从高到低）：日月光半导体涨1.20%，联电涨0.42%，中通涨0.37%，富途控股涨2.34%...",
+      "title": "谷歌资本开支超预期，AI军备竞赛再升级！光模块仍存分歧，高“光”159363冲高回落，机构：回调即布局窗口",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/etf/2026-07-23/doc-iniitzph8362882.shtml",
+      "content": "7月23日早盘，光模块CPO局部回暖，联特科技涨超5%，中际旭创拉升超3%。重仓光模块龙头的创业板人工智能ETF华宝（159363）场内一度冲高近2%，现冲高回落...",
       "priority": "medium",
       "sectors": [
-        "半导体"
+        "光模块",
+        "AI"
       ],
       "period": "night",
-      "date": "2026-07-22",
-      "time": "20:18",
+      "date": "2026-07-23",
+      "time": "02:32",
       "keywords": []
     },
     {
-      "title": "短期震荡创造“击球区”  头部私募逢低加仓“静待花开”",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/roll/2026-07-23/doc-iniitqxq7755010.shtml",
-      "content": "◎林铭溱 记者 马嘉悦 市场波动下，头部私募并未采取单一防守策略。上海证券报记者近日采访获悉，在7月以来科技板块快速调整的过程中，部分机构逢低布局优质成长资产...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "20:16",
-      "keywords": []
-    },
-    {
-      "title": "Alphabet第二季度营收1198亿美元 同比增长24%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxq7751253.shtml",
-      "content": "2026年7月22日，Alphabet公布截至2026年6月30日的季度财务业绩。 Alphabet合并营收同比增长24%，按固定汇率计算增幅为23%，达到1198亿美元。",
+      "title": "突然杀跌7%，腾讯控股翻红企稳，原因找到！资金逢低抢筹港股互联网",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/etf/2026-07-23/doc-iniitzph8360995.shtml",
+      "content": "7月23日，港股企稳，主要指数小幅高开，互联网龙头多数回暖。截至发稿，腾讯控股翻红涨超2%，美团-W、快手-W、阿里巴巴-W、小米集团-W跟涨。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "night",
-      "date": "2026-07-22",
-      "time": "20:10",
+      "date": "2026-07-23",
+      "time": "02:30",
       "keywords": []
     },
     {
-      "title": "7月23日收盘：标普500指数小幅收低，油价上涨令股市承压",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxs4526433.shtml",
-      "content": " 北京时间7月23日凌晨，美股周三收跌，标准普尔500指数小幅收跌。油价上涨令美股承压。投资者正关注又一个繁忙的企业财报日。",
+      "title": "多家大型金融机构表示，离岸市场上人民币资产的供给和需求均不断增加",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-07-23/102467175.html?cxapp_link=true",
+      "content": "多家大型金融机构表示，离岸市场上人民币资产的供给和需求均不断增加",
       "priority": "medium",
       "sectors": [
-        "综合"
+        "金融"
       ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "20:07",
-      "keywords": []
+      "period": "noon",
+      "date": "2026-07-23",
+      "time": "--:--",
+      "keywords": [
+        "市场动态"
+      ]
     },
     {
       "title": "套利俨然是今年以来外汇交易员最强劲的策略，轻松超越了动量或价值等其它广受关注的手法",
@@ -540,7 +711,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -557,7 +728,7 @@
         "黄金"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "权益周观察"
@@ -573,7 +744,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -589,7 +760,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场洞察"
@@ -605,7 +776,7 @@
         "医药"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场洞察"
@@ -621,7 +792,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "行业速递"
@@ -637,7 +808,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -653,7 +824,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "行业深度"
@@ -669,7 +840,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -685,7 +856,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "权益周观察"
@@ -701,7 +872,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -717,7 +888,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -733,7 +904,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -749,436 +920,379 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "地产观察"
       ]
     },
     {
-      "title": "美国经济分析局定于9月公布的个人消费支出(PCE)价格指数年度更新所作出的初步判断 ",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-07-10/102462575.html?cxapp_link=true",
-      "content": "美国经济分析局定于9月公布的个人消费支出(PCE)价格指数年度更新所作出的初步判断 ",
-      "priority": "medium",
+      "title": "TCL电子午前涨超5% 公司有望进一步迈向全球多品类智能家居平台",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-23/doc-iniiufvc1528949.shtml",
+      "content": "TCL电子午前涨超5%，截至发稿，股价上涨5.65%，现报16.07港元，成交额1.10亿港元。 TCL电子拟收购TCL空调业务51%股权。华源证券指出，TCL电子拟收购TCL空调业务51%股权...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:56",
+      "keywords": [
+        "TCL电子",
+        "涨超"
+      ]
+    },
+    {
+      "title": "日本当局入市干预难改跌势 日元一度刷新40年低点",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniiufvc1527865.shtml",
+      "content": "鉴于日元贬值在推升进口价格和家庭开支中所扮演的角色，这已成为该国决策者日益关注的问题。 市场担忧曾于4月下旬加剧，当时日元跌至2024年7月以来的低点。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:54",
+      "keywords": []
+    },
+    {
+      "title": "电力设备股表现活跃 东方电气涨超5%哈尔滨电气涨超4%",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-23/doc-iniiufvc1526190.shtml",
+      "content": "电力设备股早盘表现活跃，截至发稿，东方电气（01072）上涨5.27%，报23.16港元；哈尔滨电气（01133）上涨4.29%，报17.27港元；上海电气（02727）上涨2.77%，报3...",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:52",
+      "keywords": [
+        "东方电气",
+        "涨超"
+      ]
+    },
+    {
+      "title": "SpaceXAI 探索在德克萨斯州扩建大型数据中心",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniiufve8302195.shtml",
+      "content": "据三位了解该项目的人士称，埃隆·马斯克的AI公司SpaceXAI正在为德克萨斯州至少新建一座大型数据中心打下基础。此举可能显著扩大SpaceX在田纳西州孟菲斯现有数据中心枢纽之...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:51",
+      "keywords": []
+    },
+    {
+      "title": "黄金股延续近期反弹 灵宝黄金涨逾6%紫金黄金国际涨逾4%",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-23/doc-iniiufvk4570659.shtml",
+      "content": "黄金股早盘延续近期反弹，截至发稿，灵宝黄金（03330）上涨6.26%，报20.38港元；紫金黄金国际（02259）上涨3.81%，报122.70港元；紫金矿业（02899）上涨3.36%，报34...",
+      "priority": "low",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:49",
+      "keywords": [
+        "灵宝黄金",
+        "涨逾"
+      ]
+    },
+    {
+      "title": "上海：推动科创板持续深化改革 持续扩大科创板第五套上市标准的适用范围",
+      "source": "证券时报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-23/doc-iniiufvh7783308.shtml",
+      "content": "人民财讯7月23日电，中共上海市委金融委员会办公室、上海市发展和改革委员会等部门印发《上海市充分发挥直接融资功能 进一步加强科技金融服务的若干措施》，其中提出...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:39",
+      "keywords": []
+    },
+    {
+      "title": "周生生午前涨超5% 二季度零售销售值同比增长16%",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-23/doc-iniiufvc1514092.shtml",
+      "content": "周生生（00116）午前涨超5%，截至发稿，股价上涨5.28%，现报12.16港元，成交额1112.08万港元。 近日，周生生发布公告，本集团零售销售值于截至2026年6月30日止三个月（第二...",
+      "priority": "low",
       "sectors": [
         "消费"
       ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:37",
+      "keywords": [
+        "周生生",
+        "涨超"
+      ]
+    },
+    {
+      "title": "HASHKEY HLDGS午前涨超6% 附属获迪拜批准推交易平台交易衍生品服务",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-23/doc-iniiufvk4552906.shtml",
+      "content": "HASHKEY HLDGS（03887）盘中涨超12%，截至发稿，股价上涨6.32%，现报1.85港元，成交额260.47万港元。 据报道，HashKey旗下HashKey...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:35",
+      "keywords": [
+        "HASHKEY HLDGS",
+        "涨超"
+      ]
+    },
+    {
+      "title": "精锋医疗-B盘中涨超17% 公司正式进入澳大利亚市场",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-23/doc-iniiufvc1505409.shtml",
+      "content": "精锋医疗-B（02675）早盘一度涨超17%，截至发稿，股价上涨9.59%，现报40港元，成交额4785.65万港元。 据精锋医疗官微消息，近日，精锋医疗®自主研发的精锋®多孔腔镜手术机...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:26",
+      "keywords": [
+        "精锋医疗-B",
+        "涨超"
+      ]
+    },
+    {
+      "title": "滨化股份午前涨超18% 滨化集团电子级6N高纯氟化氢气体项目投产",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-23/doc-iniiufvc1504057.shtml",
+      "content": " 滨化股份（06745）盘中涨超20%，高见3.63港元，创上市新高。截至发稿，股价上涨18.27%，现报3.56港元，成交额1.44亿港元。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:24",
+      "keywords": [
+        "滨化股份",
+        "涨超"
+      ]
+    },
+    {
+      "title": "上海出台直接融资“20条” 持续加强科技企业全生命周期金融服务",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-07-23/doc-iniiufvk4540475.shtml",
+      "content": "来源：上海金融官微 7月23日上午，市委金融办会同上海证监局、市科委、市国资委召开新闻通气会，对近日出台的《上海市充分发挥直接融资功能...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:16",
+      "keywords": []
+    },
+    {
+      "title": "优步裁减10%客服岗位以“拥抱”人工智能",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniiufvk4524552.shtml",
+      "content": " 优步科技公司周三表示，作为简化人员编制和“拥抱人工智能”的更广泛努力的一部分，其客户服务部门已裁减了 10% 的职位。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:11",
+      "keywords": []
+    },
+    {
+      "title": "日本财政担忧压制日元，美元兑日元围绕163附近盘整",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-07-23/doc-iniiufvh7750802.shtml",
+      "content": "汇通财经APP讯——美元兑日元周四亚洲早盘小幅走低，盘中交投于163.10附近，但日元整体表现依然疲弱，仍接近多年低位水平。当前外汇市场正在同时交易日本国内财政风险...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:11",
+      "keywords": []
+    },
+    {
+      "title": "PTA：后期供应增加预期 利空现货基差",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/2026-07-23/doc-iniiufve8265409.shtml",
+      "content": "卓创资讯分析师 安光 【导语】7月中旬开始PTA现货基差明显下跌，7月21日PTA现货基差较7月10日下跌62元/吨，跌幅26%。PTA去库存的强现实不敌后期供应增加的弱预期...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:07",
+      "keywords": []
+    },
+    {
+      "title": "【季度展望·苯乙烯】二季度高位回落，三季度或先涨后跌",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/2026-07-23/doc-iniiufvc1487670.shtml",
+      "content": "卓创资讯分析师 齐杰 【导语】2026年二季度，国内苯乙烯市场经历高位回落行情，江苏季度均价9333.3元/吨，环比涨10.83%，同比涨21.75%。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:06",
+      "keywords": []
+    },
+    {
+      "title": "全面失守！日元有效汇率再创历史新低，贬值潮从美元蔓延至全球货币篮子",
+      "source": "智通财经APP",
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-07-23/doc-iniiufve8272269.shtml",
+      "content": " 整体财经APP注意到，尽管日元兑美元汇率跌至 40 年来的低点占据了头条新闻，但一项更广泛的日元强度衡量指标正向日本发出同样令人担忧的信号。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "03:05",
+      "keywords": []
+    },
+    {
+      "title": "金融危机以来从未出现，美债有大麻烦了？",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/roll/2026-07-23/doc-iniiufvh7719158.shtml",
+      "content": "如果世上有为“荒谬预测”颁发的奖项，那么25年前的一份美国政府报告绝对能“荣登领奖台”。 2001年1月，美国国会预算办公室预测未来美国政府将出现巨额预算盈余...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "02:45",
+      "keywords": []
+    },
+    {
+      "title": "PCB概念股普遍上涨 胜宏科技及中国建材均涨近4%",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-23/doc-iniitzpf1596320.shtml",
+      "content": " PCB概念股普遍上涨，截至发稿，胜宏科技（02476）上涨3.97%，报235.80港元；中国建材（03323）上涨3.55%，报3.79港元；建滔积层板（01888）上涨3.43%，报41.64港元。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "02:43",
+      "keywords": [
+        "胜宏科技",
+        "均涨"
+      ]
+    },
+    {
+      "title": "Alphabet首席执行官反驳谷歌在AI竞赛中失势的说法",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitzpf1595205.shtml",
+      "content": "Alphabet首席执行官皮查伊（Sundar Pichai）周三在财报电话会议上强力捍卫谷歌的人工智能（AI）战略，反驳外界有关该公司因推迟旗舰模型发布以及在AI编程领域被竞争对手赶...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "02:42",
+      "keywords": []
+    },
+    {
+      "title": "美伊紧张局势推动避险买盘回流，黄金延续反弹",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-07-23/doc-iniitzpn4608215.shtml",
+      "content": "汇通财经APP讯——现货黄金价格周四亚洲早盘继续走高，XAU/USD交投于4120美元附近，延续近期反弹走势。随着全球避险情绪重新升温，投资者重新增加黄金配置...",
+      "priority": "low",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "02:35",
+      "keywords": []
+    },
+    {
+      "title": "今年迄今，30年期美债收益率已有27个交易日高于5%，约占全部交易日的19%，为2007年以来最多",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-07-23/102467187.html?cxapp_link=true",
+      "content": "今年迄今，30年期美债收益率已有27个交易日高于5%，约占全部交易日的19%，为2007年以来最多",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
       ]
     },
     {
-      "title": "光伏产业链价格保持平稳，市场活跃度较前期下降。公开市场融资额大幅下降。头部企业加速布局储能业务，光储一体化成为行业新趋势",
+      "title": "这一交易是Anthropic潜在部署数吉瓦芯片计划的一部分，将深化两家公司的关系",
       "source": "财新",
-      "url": "https://database.caixin.com/2026-07-09/102462402.html?cxapp_link=true",
-      "content": "光伏产业链价格保持平稳，市场活跃度较前期下降。公开市场融资额大幅下降。头部企业加速布局储能业务，光储一体化成为行业新趋势",
-      "priority": "medium",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "--:--",
-      "keywords": [
-        "光伏观察"
-      ]
-    },
-    {
-      "title": "黄仁勋称赞中国开源AI模型：“优秀的开源模型应该被使用”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitvfn7772816.shtml",
-      "content": " 英伟达CEO黄仁勋近日敦促美国方面停止对中国的开源人工智能的过度担忧，这些模型正日益能够与OpenAI和Anthropic最先进的产品竞争。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "23:33",
-      "keywords": []
-    },
-    {
-      "title": "年内A股百家公司控制权变更 产业协同成核心驱动力",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/stock/companyt/2026-07-23/doc-iniitvfk8359822.shtml",
-      "content": "本报记者张芗逸 7月20日，宁波杉杉股份有限公司发布关于控股股东、实际控制人变更完成的公告，明确该公司控股股东变更为皖维集团...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "23:33",
-      "keywords": []
-    },
-    {
-      "title": "胡塞武装称袭击红海的两艘油轮 美伊战火有外溢迹象",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitvfn7771344.shtml",
-      "content": "曾扬言要在伊朗战争中开辟另一条战线的也门胡塞武装宣称，已锁定红海的两艘油轮发动攻击。 就在胡塞武装周三发表声明前几分钟，英国海事贸易行动办公室（UKMTO）表示...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "23:31",
-      "keywords": []
-    },
-    {
-      "title": "乌克兰对俄罗斯电商巨头Wildberries仓库发动另一波无人机攻击",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitvfk8355989.shtml",
-      "content": "俄罗斯电商巨头Wildberries负责人周三表示，乌克兰袭击该公司的另外两处仓库；使得这家俄罗斯消费经济核心企业遭受的无人机攻击进一步扩大。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "23:23",
-      "keywords": []
-    },
-    {
-      "title": "韩国经济增速放缓，但芯片出口仍是主要增长引擎",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitvfk8354569.shtml",
-      "content": " 韩国经济在第一季度实现强劲增长后，第二季度增速有所放缓。不过，得益于芯片出口的强劲表现抵消了民间消费和建筑投资的疲软，该国经济仍保持韧性。",
+      "url": "https://database.caixin.com/2026-07-23/102467185.html?cxapp_link=true",
+      "content": "这一交易是Anthropic潜在部署数吉瓦芯片计划的一部分，将深化两家公司的关系",
       "priority": "low",
       "sectors": [
         "半导体"
       ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "23:18",
-      "keywords": []
+      "period": "noon",
+      "date": "2026-07-23",
+      "time": "--:--",
+      "keywords": [
+        "市场动态"
+      ]
     },
     {
-      "title": "特斯拉警告称扩大Optimus产量将面临挑战",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitvfn7760415.shtml",
-      "content": "特斯拉首席执行官埃隆·马斯克在与分析师的电话会议上表示，在扩大生产规模方面，特斯拉的Optimus机器人可能会被证明是该公司产品中最困难的。",
-      "priority": "low",
-      "sectors": [
-        "机器人"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "23:14",
-      "keywords": []
-    },
-    {
-      "title": "勘设股份，股价半年翻倍，跌回来只用15天，6位原始股东减持才算真赚到了！",
-      "source": "",
-      "url": "https://finance.sina.com.cn/wm/2026-07-23/doc-iniitvfk8346270.shtml",
-      "content": "来源：基本面力场 最近关注到一只股票，真是要多惨有多惨！勘设股份（603458.SH），这一轮行情大体可以看作是2025年12月中旬启动的，从K线来看...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "22:54",
-      "keywords": []
-    },
-    {
-      "title": "Alphabet再度上调资本支出指引 加速布局AI数据中心",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-23/doc-iniitvfq4520583.shtml",
-      "content": " Alphabet Inc．再次上调已处于高位的2026年资本支出预期，并向投资者表示，随着公司加紧建设支撑其人工智能雄心的必要算力，支出可能超过2000亿美元。",
+      "title": "AI进入组织的真正意义不在于能否完美替代人类的工作，而在于它能否系统性降低知识在组织内部流动、沉淀和组合时遭遇的阻力",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-07-23/102467163.html?cxapp_link=true",
+      "content": "AI进入组织的真正意义不在于能否完美替代人类的工作，而在于它能否系统性降低知识在组织内部流动、沉淀和组合时遭遇的阻力",
       "priority": "low",
       "sectors": [
         "AI"
       ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "22:49",
-      "keywords": []
+      "period": "noon",
+      "date": "2026-07-23",
+      "time": "--:--",
+      "keywords": [
+        "商学院"
+      ]
     },
     {
-      "title": "美军自美东时间下午5:30开始对伊朗发动打击",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitvfk8341218.shtml",
-      "content": "美军中央司令部在X上称，所属部队自美东时间今天下午5：30起对伊朗军事目标发动更多打击。",
+      "title": "“宫斗吃瓜”之外，应检讨宗庆后离岸信托的程序、契约和意图不匹配的瑕疵，总结宗氏离岸信托“意向设立、未完成交割”的典型失败样本",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-07-23/102467155.html?cxapp_link=true",
+      "content": "“宫斗吃瓜”之外，应检讨宗庆后离岸信托的程序、契约和意图不匹配的瑕疵，总结宗氏离岸信托“意向设立、未完成交割”的典型失败样本",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "22:47",
-      "keywords": []
-    },
-    {
-      "title": "油轮红海遇袭 布伦特油价在盘后交易中飙升",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitvfk8322548.shtml",
-      "content": "伊朗支持的也门胡塞武装称袭击了两艘沙特阿拉伯油轮后，原油在周三结算后交易中飙升，布伦特合约甚至逼近每桶95美元。 英国海事贸易行动办公室称...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "22:17",
-      "keywords": []
-    },
-    {
-      "title": "麦格理首席执行官Wikramanayake准备退休 Greg Ward将接班",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitvfi1545522.shtml",
-      "content": "麦格理集团周四发表声明称，首席执行官Shemara Wikramanayake即将退休。 该公司已决定，现银行和金融服务负责人Greg Ward在获得必要的批准后接班。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "22:17",
-      "keywords": []
-    },
-    {
-      "title": "今日视点：稳市机制长效化 为A股市场注入持久定力",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-23/doc-iniitqxm1657231.shtml",
-      "content": "■吴晓璐 近日，A股市场出现较大波动，多方力量迅速集结。其中，证监会召开系列座谈会，稳定市场预期；两大国有资本运营公司、上市公司...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "21:38",
-      "keywords": []
-    },
-    {
-      "title": "坚定看好中国资本市场发展前景",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-23/doc-iniitqxn8433941.shtml",
-      "content": "本报讯（记者杜雨萌）7月22日，北京国有资本运营管理有限公司（以下简称“北京国管”）发布消息称，北京国管坚定看好中国资本市场发展前景...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "21:38",
-      "keywords": []
-    },
-    {
-      "title": "7月23日外盘头条：特斯拉Q2利润腰斩 苹果拟全面升级Mac产品线 谷歌Q2营收1198亿美元 亚马逊裁撤AGI岗位",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxn8429646.shtml",
-      "content": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、苹果据悉拟全面升级Mac产品线 押注AI带动高性能电脑需求 2、三星推出新款折叠屏手机，赶在苹果预期登场前上调价格 3...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "21:30",
-      "keywords": []
-    },
-    {
-      "title": "美国威胁轰炸伊朗民用设施 国际油价22日显著走高",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-23/doc-iniitqxm1648297.shtml",
-      "content": " 美国总统特朗普22日威胁轰炸伊朗桥梁或发电厂等民用设施，国际原油期货价格当天早间显著走高，随后强势盘整，收盘时国际油价上涨约3%。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "21:15",
-      "keywords": []
-    },
-    {
-      "title": "美国与沙特阿拉伯签署核合作协议",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxs4568796.shtml",
-      "content": "美国能源部在一份声明中表示，美国和沙特阿拉伯已达成核合作协议。 声明称，“该协议为美国公司参与沙特核能项目提供了极大的便利”。 根据声明，该协议将提交国会审议。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "21:10",
-      "keywords": []
-    },
-    {
-      "title": "特朗普：伊朗尚未准备好达成协议 但“很快”就会",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxm1638422.shtml",
-      "content": "特朗普在佐治亚州一次活动上发表讲话，他表示，伊朗还没有准备好达成协议，但“很快”会。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "21:08",
-      "keywords": []
-    },
-    {
-      "title": "大型机销量下滑 IBM下调全年财测",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxn8414313.shtml",
-      "content": "国际商业机器公司（IBM）报告大型机业务需求下降后下调了全年营收展望，其中包括对备受关注的软件部门的预期。 该公司周三在公告中表示，今年营收有望增长4%至5%...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "21:07",
-      "keywords": []
-    },
-    {
-      "title": "大宗商品综述：油价升至六周高位 黄金延续涨势 铜走低",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxs4564066.shtml",
-      "content": " 随着美国和伊朗淡化和平谈判的前景，原油价格连续第四个交易日上涨，布伦特原油创一个多月新高。黄金价格在逢低买盘的推动下延续涨势。伦敦市场铜价下跌。",
-      "priority": "low",
-      "sectors": [
-        "黄金",
-        "有色"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "21:04",
-      "keywords": []
-    },
-    {
-      "title": "委内瑞拉民众举行示威 要求美国释放马杜罗夫妇",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-23/doc-iniitqxn8420377.shtml",
-      "content": "数百名委内瑞拉民众22日聚集在委首都加拉加斯市中心的一处广场，要求美国释放其关押的委总统马杜罗及其妻子。 此次活动由加拉加斯市长卡门·梅伦德斯和马杜罗之子尼古拉斯·...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "21:01",
-      "keywords": []
-    },
-    {
-      "title": "又一批沪市公司推出回购增持计划",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-07-23/doc-iniitkrs7874396.shtml",
-      "content": "◎记者 何昕怡 7月21日至22日，沪市公司回购、增持热度不减，以真金白银传递对公司长期投资价值的信心。 据统计，近两日共新增17家公司披露回购计划...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "21:00",
-      "keywords": []
-    },
-    {
-      "title": "特朗普：预计美联邦政府在9月将出现“停摆”",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-23/doc-iniitqxm1636094.shtml",
-      "content": " 当地时间7月22日，美国总统特朗普在佐治亚州发表演讲时提及，由于共和党和民主党在支出优先事项上存在分歧，9月份将出现联邦政府“停摆”。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "20:54",
-      "keywords": []
-    },
-    {
-      "title": "原油：油价攀升至六周高位 美伊都淡化和平谈判前景",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxn8402210.shtml",
-      "content": "原油价格周三上涨，本月涨幅达到接近30%，因为美国和伊朗都淡化了和平谈判的前景，并且全球供应中断的情况持续加剧。 布伦特原油期货价格飙升至6月初...",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "20:50",
-      "keywords": []
-    },
-    {
-      "title": "Alphabet云业务营收超预期 搜索广告收入略逊预估",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxs4543170.shtml",
-      "content": " Alphabet Inc．公布第二财季云业务收入超出华尔街预期，但与搜索引擎业务相关的销售略低于预期，这可能加剧市场对其大举投入人工智能的担忧。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "20:35",
-      "keywords": []
-    },
-    {
-      "title": "特斯拉Q2营收同比增长26% 利润腰斩 资本支出大幅增加",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitqxn8391939.shtml",
-      "content": "特斯拉第二季度总营收282.36亿美元，同比增长26%，受车辆交付增长、服务及其他业务增长及外汇正面影响推动。 季度运营利润仅3.98亿美元，同比下降57%，运营利润率1.4%...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "20:18",
-      "keywords": []
-    },
-    {
-      "title": "日元汇率跌至近40年谷底 干预预期升温",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/roll/2026-07-23/doc-iniitqxq7755019.shtml",
-      "content": "◎记者 陈佳怡 当铸造一枚硬币的金属价值超过币面价值时，意味着什么？ 这并非荒谬的假设，而是当下日本面临的现实情况。7月21日的纽约外汇市场上...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "20:16",
-      "keywords": []
-    },
-    {
-      "title": "伊朗称若基础设施遭袭 将封锁石油出口",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniitkrp1728804.shtml",
-      "content": "伊朗联合军事指挥部表示，如果美国袭击伊朗基础设施，“伊朗将不会允许哪怕一滴石油”通过霍尔木兹海峡出口。 声明称，作为报复，“该地区的石油、天然气...",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "19:23",
-      "keywords": []
-    },
-    {
-      "title": "美威胁袭伊基础设施 伊朗军方：将不允许本地区出口一滴石油",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-23/doc-iniitqxq7752133.shtml",
-      "content": "伊朗武装部队哈塔姆安比亚中央总部当地时间22日发布声明称，美方再次威胁要打击伊朗的国家基础设施。继昨晚发出警告后，现再次宣布，霍尔木兹海峡仍处于关闭状态。",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "night",
-      "date": "2026-07-22",
-      "time": "19:00",
-      "keywords": []
+      "period": "noon",
+      "date": "2026-07-23",
+      "time": "--:--",
+      "keywords": [
+        "家庭财富"
+      ]
     },
     {
       "title": "禁止部分内部人士出售多达9.115亿股股票的限制将于8月6日解除，这只是解禁潮的开始",
@@ -1190,7 +1304,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1206,7 +1320,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1222,7 +1336,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1238,7 +1352,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1254,7 +1368,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1270,7 +1384,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "霍尔木兹周报"
@@ -1286,7 +1400,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1302,7 +1416,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1318,7 +1432,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1334,7 +1448,7 @@
         "消费"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "数据图解"
@@ -1350,7 +1464,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "交易簿"
@@ -1366,7 +1480,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1382,7 +1496,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1398,7 +1512,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1414,7 +1528,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1430,7 +1544,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1447,7 +1561,7 @@
         "消费"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1463,7 +1577,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "CCI快报"
@@ -1479,7 +1593,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "数据图解"
@@ -1495,7 +1609,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1511,7 +1625,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1527,7 +1641,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1543,7 +1657,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "量化观察"
@@ -1559,7 +1673,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1575,7 +1689,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1591,7 +1705,7 @@
         "半导体"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1607,7 +1721,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1623,7 +1737,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1639,7 +1753,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1655,7 +1769,7 @@
         "半导体"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1672,7 +1786,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1688,7 +1802,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1704,7 +1818,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1720,7 +1834,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1736,7 +1850,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1752,7 +1866,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1768,7 +1882,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1784,7 +1898,7 @@
         "半导体"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1800,7 +1914,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1816,7 +1930,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1832,7 +1946,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1848,7 +1962,7 @@
         "消费"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "行业深度"
@@ -1864,7 +1978,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1880,7 +1994,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1896,7 +2010,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1912,7 +2026,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1929,7 +2043,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1945,7 +2059,7 @@
         "黄金"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1961,7 +2075,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "霍尔木兹周报"
@@ -1977,7 +2091,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1993,7 +2107,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2009,7 +2123,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "交易簿"
@@ -2025,7 +2139,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -2041,7 +2155,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -2057,7 +2171,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -2073,7 +2187,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -2089,7 +2203,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -2105,7 +2219,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -2121,7 +2235,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "家庭财富"
@@ -2137,7 +2251,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "CCI快报"
@@ -2153,7 +2267,7 @@
         "半导体"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2170,7 +2284,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2186,7 +2300,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2202,7 +2316,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2218,7 +2332,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2234,7 +2348,7 @@
         "半导体"
       ],
       "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2250,71 +2364,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-07-22",
-      "time": "--:--",
-      "keywords": [
-        "市场动态"
-      ]
-    },
-    {
-      "title": "两国之前连续两天爆发冲突，使本就脆弱的停火协议面临破裂风险",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-07-10/102462573.html?cxapp_link=true",
-      "content": "两国之前连续两天爆发冲突，使本就脆弱的停火协议面临破裂风险",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "--:--",
-      "keywords": [
-        "市场动态"
-      ]
-    },
-    {
-      "title": "30年期美国国债收益率重回5%上方，正促使投资者重新思考何种水平才算具有吸引力",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-07-10/102462571.html?cxapp_link=true",
-      "content": "30年期美国国债收益率重回5%上方，正促使投资者重新思考何种水平才算具有吸引力",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "--:--",
-      "keywords": [
-        "市场动态"
-      ]
-    },
-    {
-      "title": "近期的巴洛贡事件，几乎成为了令本届世界杯整体蒙阴、甚至重新定义因凡蒂诺毁誉的一起争议",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-07-10/102462361.html?cxapp_link=true",
-      "content": "近期的巴洛贡事件，几乎成为了令本届世界杯整体蒙阴、甚至重新定义因凡蒂诺毁誉的一起争议",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
-      "time": "--:--",
-      "keywords": [
-        "商圈"
-      ]
-    },
-    {
-      "title": "位于阿尔伯塔省Sturgeon县的这座数据中心将拥有1吉瓦的电力容量，相当于约75万户家庭的用电量，并将主要依靠天然气发电",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-07-09/102462366.html?cxapp_link=true",
-      "content": "位于阿尔伯塔省Sturgeon县的这座数据中心将拥有1吉瓦的电力容量，相当于约75万户家庭的用电量，并将主要依靠天然气发电",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-07-22",
+      "date": "2026-07-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
