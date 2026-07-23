@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-23T17:57:55.377782",
+  "updated": "2026-07-23T19:57:57.516239",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,81 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 34,
-    "medium": 24,
-    "low": 92
+    "high": 35,
+    "medium": 25,
+    "low": 90
   },
   "items": [
+    {
+      "title": "美国抨击欧盟重罚谷歌并向空客提供贷款 称有损跨大西洋贸易稳定",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-24/doc-iniivtwv5082196.shtml",
+      "content": " 特朗普政府再次表达对欧盟贸易政策的不满，称欧盟针对美国科技公司的罚单以及近期向空中客车的贷款，可能破坏富有建设性的谈判。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "19:10",
+      "keywords": []
+    },
+    {
+      "title": "尾盘：美股维持下跌局面，纳指下挫600点",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-24/doc-iniivtws4422885.shtml",
+      "content": "北京时间7月24日凌晨，美股周四尾盘维持下跌局面，纳指下跌600点。中东冲突升级导致油价飙升，WTI原油突破90美元，布伦特原油价格突破每桶100美元关口。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "18:52",
+      "keywords": []
+    },
+    {
+      "title": "拉加德承诺2027年前不会卸任 欧洲央行新行长遴选或很快启动",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-24/doc-iniivpqu4541581.shtml",
+      "content": " 欧洲央行行长克里斯蒂娜·拉加德承诺至少2027年前不会卸任，这是她迄今对于去留发出的最明确信号，表明各国政府可能很快需要物色继任者。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "18:32",
+      "keywords": []
+    },
+    {
+      "title": "AMD发布数据中心新品挑战英伟达 瞄准2万亿美元市场蛋糕",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-24/doc-iniivpqu9367364.shtml",
+      "content": " AMD力争在蓬勃发展的人工智能计算市场扩大份额，该公司发布了一系列面向数据中心的新产品，称性能将超过竞争对手英伟达。",
+      "priority": "high",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "18:31",
+      "keywords": []
+    },
+    {
+      "title": "特朗普称美沙核协议取决于沙特与以色列实现关系正常化",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-24/doc-iniivpqx5184586.shtml",
+      "content": " 美国总统唐纳德·特朗普表示，与沙特阿拉伯达成的一项新民用核协议取决于沙特与以色列实现关系正常化。这一条件可能会让特朗普政府前一天刚刚敲定的一项里程碑式协议受挫。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "18:05",
+      "keywords": []
+    },
     {
       "title": "欧洲债市：欧债下跌 油价上涨推动加息预期升温",
       "source": "环球市场播报",
@@ -234,62 +304,6 @@
       "period": "noon",
       "date": "2026-07-23",
       "time": "14:45",
-      "keywords": []
-    },
-    {
-      "title": "首个3000亿巨头诞生，公募“固收+”座次重排",
-      "source": "中国证券报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-23/doc-iniiviic2003304.shtml",
-      "content": "公募“固收+”规模迎来高速扩容。 Wind数据显示，上半年多家基金公司“固收+”规模较去年底增长超600亿元，头部基金公司“固收+”规模突破3000亿元...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-23",
-      "time": "14:39",
-      "keywords": []
-    },
-    {
-      "title": "康卡斯特公布第二季度财报 流媒体业务首次实现盈利",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniivihz5221300.shtml",
-      "content": "美国跨国电信与媒体巨头康卡斯特公司（Comcast）23日发布2026年第二季度财报。受益于国际足联世界杯、美国职业篮球联赛（NBA）季后赛等重磅体育赛事以及影视业务的强劲拉动...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-23",
-      "time": "14:33",
-      "keywords": []
-    },
-    {
-      "title": "地缘冲突加剧引发供应忧虑 国际原油价格突破100美元大关",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniivihw4523012.shtml",
-      "content": "受中东局势持续紧张及关键海上运输通道受阻影响，国际原油价格大幅走高。23日盘中，美国WTI原油期货价格突破每桶90美元，伦敦布伦特原油期货价格则站上每桶100美元大关。",
-      "priority": "high",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-07-23",
-      "time": "14:30",
-      "keywords": []
-    },
-    {
-      "title": "纳指跌超500点，美股半导体拉升翻红，SK海力士大涨6%，美光涨超2.7%，希捷涨超2%，特斯拉重挫13%",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/wm/2026-07-23/doc-iniivihz5221113.shtml",
-      "content": "北京时间7月23日晚，美股三大指数低开。截至22：20左右，道指跌近1%，纳指跌超500点跌近2%，标普500跌超1%。 “科技七巨头”集体下跌，其中特斯拉股价重挫超13%，谷歌跌超6...",
-      "priority": "high",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-07-23",
-      "time": "14:30",
       "keywords": []
     },
     {
@@ -519,6 +533,48 @@
       ]
     },
     {
+      "title": "特斯拉二季度业绩不及预期引发股价下挫 做空者单日获利或超40亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-24/doc-iniivtwx1868673.shtml",
+      "content": "美国电动汽车制造商特斯拉公司23日股价大幅下挫，盘中跌幅一度达15%，创下一年多来的最大单盘跌幅。受二季度利润不及预期及资本支出扩张影响...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "19:37",
+      "keywords": []
+    },
+    {
+      "title": "避险资金涌入推动美元走强 主要非美货币普遍承压",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-24/doc-iniivtws9277936.shtml",
+      "content": "受地缘冲突升级引发的避险资金涌入推动，国际外汇市场美元指数持续走高，主要非美货币对美元普遍承压走弱。最新交易数据显示，欧元、英镑、日元...",
+      "priority": "medium",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "19:37",
+      "keywords": []
+    },
+    {
+      "title": "摩根士丹利：10年期日本国债在“令人瞠目”的3%水平值得买入",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-24/doc-iniivpqu4541115.shtml",
+      "content": "摩根士丹利表示，日本国债收益率已升至“令人瞠目”的水平，10年期国债收益率接近3%提供了良好的买入机会。 全球宏观策略主管Matthew...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "18:31",
+      "keywords": []
+    },
+    {
       "title": "英特尔Q2财报前瞻：强劲业绩难掩估值隐忧，市场情绪成股价关键变量",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-24/doc-iniivpqx5171412.shtml",
@@ -614,34 +670,6 @@
       "period": "noon",
       "date": "2026-07-23",
       "time": "15:12",
-      "keywords": []
-    },
-    {
-      "title": "因人工智能误导诊疗致用户险些丧命 人工智能公司OpenAI遭遇非法行医起诉",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniiviic1999496.shtml",
-      "content": "美国佛罗里达州一名男子22日向加利福尼亚州旧金山高等法院提起诉讼，指控人工智能研究机构OpenAI及其首席执行官萨姆·奥特曼涉嫌严重过失及“非法行医”。",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-23",
-      "time": "14:36",
-      "keywords": []
-    },
-    {
-      "title": "黑石集团第二季度净利润大增26% 人工智能基础设施投资成核心引擎",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniivihw9350870.shtml",
-      "content": " 黑石集团（Blackstone）23日发布的财报显示，受益于人工智能（AI）基础设施建设领域的持续布局及私募股权业务资金流入改善，公司2026年第二季度业绩大幅超出市场预期。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-23",
-      "time": "14:31",
       "keywords": []
     },
     {
@@ -884,6 +912,20 @@
       "keywords": [
         "地产观察"
       ]
+    },
+    {
+      "title": "美国10年期TIPS中标收益率创2008年以来新高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-24/doc-iniivtwv5082305.shtml",
+      "content": " 美国财政部发行210亿美元10年期通胀保值债券（TIPS）中标收益率2.438%，创2008年以来新高，比纽约时间下午1点投标截止时市场预期高出约2个基点，表明需求低于预期。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-23",
+      "time": "19:11",
+      "keywords": []
     },
     {
       "title": "克莱默坦言：当前市场很难找到买入理由",
@@ -1135,48 +1177,6 @@
       "period": "noon",
       "date": "2026-07-23",
       "time": "14:43",
-      "keywords": []
-    },
-    {
-      "title": "加拿大皇家银行：中东危险升级或推动油价飙升至每桶128美元以上",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniiviic2000006.shtml",
-      "content": " 加拿大皇家银行资本市场表示，随着红海油轮遭袭、德黑兰将海湾地区关键基础设施作为打击目标，美国与伊朗之间的战争已进入更危险阶段。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-23",
-      "time": "14:38",
-      "keywords": []
-    },
-    {
-      "title": "特斯拉二季度净利润逊于预期 全年资本开支超250亿美元引发股价重挫",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniivihz5221733.shtml",
-      "content": "美国电动汽车制造商特斯拉公司（Tesla）于23日公布2026年第二季度财报。由于当季盈利表现不及市场预期，加之公司确认全年资本支出将超过250亿美元...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-23",
-      "time": "14:34",
-      "keywords": []
-    },
-    {
-      "title": "马斯克暗示特斯拉与SpaceX合作日益加深，但拒绝讨论合并事宜",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-23/doc-iniivihw4525077.shtml",
-      "content": "根据FactSet提供的通话记录，马斯克在周三晚间的特斯拉财报电话会议上表示：“从我们与SpaceX在这么多领域的大量合作可以看出，双方的交叉越来越多...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-23",
-      "time": "14:33",
       "keywords": []
     },
     {
