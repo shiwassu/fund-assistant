@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-24T21:41:39.216133",
+  "updated": "2026-07-24T23:38:03.081326",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,111 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 25,
-    "medium": 29,
-    "low": 96
+    "high": 28,
+    "medium": 21,
+    "low": 101
   },
   "items": [
+    {
+      "title": "凌晨，全线大跌！特朗普，重磅发声！美股半导体、存储、光通信，集体重挫",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-07-25/doc-iniiyimr4578130.shtml",
+      "content": "纳指领跌，芯片、光通信遭砸盘！闪迪SK海力士大跌超8%，SpaceX再创新低 7月25日隔夜要闻：纳指跌逾0.6%芯片股普跌 中东局势持续紧张 特斯拉创2022年以来最大单周跌幅...",
+      "priority": "high",
+      "sectors": [
+        "半导体",
+        "光模块"
+      ],
+      "period": "night",
+      "date": "2026-07-24",
+      "time": "23:26",
+      "keywords": []
+    },
+    {
+      "title": "上半年扫货超千亿港元，内地买家涌入香港楼市",
+      "source": "界面",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-25/doc-iniiyimv1413386.shtml",
+      "content": "界面新闻记者 | 王妤涵 2026年，香港楼市在“撤辣”政策（指撤销香港住宅物业的需求管理措施）落地两周年之际迎来全面复苏，此前长期被压抑的置业需求集中释放...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-24",
+      "time": "23:19",
+      "keywords": []
+    },
+    {
+      "title": "美股存储芯片股重挫，闪迪跌近11%，马斯克财富一周蒸发8800亿元，黄金突破4050美元，国际油价大跌3%",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/wm/2026-07-25/doc-iniiyimv1406866.shtml",
+      "content": "纳指领跌，芯片、光通信遭砸盘！闪迪SK海力士大跌超8%，SpaceX再创新低 7月25日隔夜要闻：纳指跌逾0.6%芯片股普跌 中东局势持续紧张 特斯拉创2022年以来最大单周跌幅...",
+      "priority": "high",
+      "sectors": [
+        "黄金",
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-07-24",
+      "time": "23:03",
+      "keywords": []
+    },
+    {
+      "title": "超2万亿元！央行即将开展隔夜逆回购操作",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/roll/2026-07-25/doc-iniiyimr4553887.shtml",
+      "content": " 中国人民银行将在7月29日至7月31日、8月3日开展隔夜逆回购操作，采用固定利率、数量招标。7月29日至7月31日每日开展6000亿元，8月3日开展3000亿元。",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-07-24",
+      "time": "22:30",
+      "keywords": []
+    },
+    {
+      "title": "7月25日外盘头条：特朗普称美伊仍在保持沟通 高通宣布产品价格上调 马斯克身家一周缩水1300亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-25/doc-iniiyimv1355635.shtml",
+      "content": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、美军导弹袭击伊朗，特朗普仍为外交协议留有余地 2、特朗普威胁对欧盟产品征收新关税 以报复欧盟对谷歌罚款 3...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-24",
+      "time": "22:00",
+      "keywords": []
+    },
+    {
+      "title": "美军称在阿曼湾对一艘商船开火",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-25/doc-iniiyimr4539494.shtml",
+      "content": "央视记者当地时间24日获悉，美军中央司令部称，当天在阿曼湾向一艘商船开火，使其失去航行能力，该船至少4次试图突破美方针对伊朗港口的封锁。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-24",
+      "time": "21:50",
+      "keywords": []
+    },
+    {
+      "title": "纽约汇市：美元指数持稳 势创一个月来最佳单周表现",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-25/doc-iniiyccv1434240.shtml",
+      "content": "彭博美元即期指数周五基本持平，本周有望创下美联储6月释放鹰派信号以来的最佳单周表现。 彭博美元即期指数日内变化不大，本周上周0.4%，因为在地缘政治紧张局势加剧后...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-24",
+      "time": "21:45",
+      "keywords": []
+    },
     {
       "title": "“前”万亿富翁马斯克：特斯拉暴跌18%、星舰试飞推迟，身家一周缩水1300亿美元",
       "source": "环球市场播报",
@@ -56,6 +156,20 @@
       "keywords": []
     },
     {
+      "title": "穆迪警告AI投资潮冲击信用质量 科技巨头迈入“重资产时代”",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/roll/2026-07-25/doc-iniiyimr4548913.shtml",
+      "content": " 国际信用评级巨头穆迪发出警告称，每年耗资近万亿美元的人工智能基础设施建设竞赛正在侵蚀“超大规模云服务商”（Hyperscalers）的自由现金流，增加他们的资产负债表风险。",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-24",
+      "time": "21:06",
+      "keywords": []
+    },
+    {
       "title": "马斯克的糟糕一周：特斯拉遭遇2022年以来最严重暴跌，SpaceX在星际飞船试飞前下跌",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniiyccx1413457.shtml",
@@ -84,87 +198,17 @@
       "keywords": []
     },
     {
-      "title": "欧洲央行首席经济学家Lane将9月视为利率走向的下一个关键时刻",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-25/doc-iniixwvx1501661.shtml",
-      "content": "欧洲央行首席经济学家Philip Lane表示，欧洲央行将在9月份评估其政策立场，并可能作出调整。 Lane在爱尔兰多尼戈尔参加一个小组讨论时表示，在校准利率时...",
+      "title": "脑机接口迎重大突破：视网膜芯片获准在欧上市 可帮助患者恢复视力",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/t/2026-07-25/doc-iniiycct4606033.shtml",
+      "content": "（来源：财联社） 财联社7月25日讯（编辑 赵昊）美国初创公司Science Corp．已获批在欧盟地区销售一款可帮助“地图样萎缩”（GA）患者恢复部分视力的视网膜芯片。",
       "priority": "high",
       "sectors": [
-        "金融"
+        "半导体"
       ],
       "period": "night",
       "date": "2026-07-24",
-      "time": "19:28",
-      "keywords": []
-    },
-    {
-      "title": "预测市场显示：霍尔木兹海峡航运或需12个月以上才能恢复正常",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixwvs9213833.shtml",
-      "content": "截至周五下午，Kalshi预测市场上关于霍尔木兹海峡海上交通何时恢复正常的概率低于50%。 霍尔木兹海峡在2027年7月前恢复正常通行的概率在最近两天内从接近70%暴跌至47%。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-24",
-      "time": "19:13",
-      "keywords": []
-    },
-    {
-      "title": "特朗普威胁称，将对“掠夺”美国科技巨头的欧盟征收“高额关税”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixwvs9201448.shtml",
-      "content": " 美国总统唐纳德·特朗普周五表示，其政府将对欧盟发起贸易调查，此举将取消对美国科技巨头征收的高额罚款，并很可能导致对这个27国集团征收“高额”关税。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-24",
-      "time": "18:51",
-      "keywords": []
-    },
-    {
-      "title": "因发动机舱存在起火隐患 福特在美国紧急召回超56万辆烈马系列SUV",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixwvs9157725.shtml",
-      "content": " 因发动机舱内线束存在短路并引发火灾的安全隐患，美国福特汽车公司日前宣布在美国本土紧急召回565691辆烈马（Bronco）及烈马猛禽（Bronco Raptor）多用途越野车。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-24",
-      "time": "17:46",
-      "keywords": []
-    },
-    {
-      "title": "反垄断再重弹 欧盟对谷歌开出近10亿美元罚单 美称将实施关税反制",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixwvs9149718.shtml",
-      "content": "欧盟委员会宣布对美国科技巨头谷歌公司处以总计约10亿美元的反垄断罚款，并要求其整改搜索业务与应用商店运营模式。美方随即对欧方处罚行为表示强烈不满...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-24",
-      "time": "17:37",
-      "keywords": []
-    },
-    {
-      "title": "机构分析称美联储可能提前加息 市场关注即将召开的政策会议",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixspx4801104.shtml",
-      "content": "随着美联储新一轮货币政策会议临近，市场对其利率路径的研判出现新动向。华尔街知名宏观研究机构盘古智库宏观经济公司（Pantheon...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-24",
-      "time": "17:19",
+      "time": "19:41",
       "keywords": []
     },
     {
@@ -394,6 +438,21 @@
       ]
     },
     {
+      "title": "纳指领跌，芯片、光通信遭砸盘！闪迪SK海力士大跌超8%，SpaceX再创新低",
+      "source": "一财网",
+      "url": "https://finance.sina.com.cn/roll/2026-07-25/doc-iniiyimn9129687.shtml",
+      "content": "黄金、白银小幅反弹。 *三大股指涨跌互现，纳指跌逾0.6%； *中长期美债收益率回落，10年期美债报4.68%； *业绩超预期，英特尔仍跌近8%。",
+      "priority": "medium",
+      "sectors": [
+        "半导体",
+        "光模块"
+      ],
+      "period": "night",
+      "date": "2026-07-24",
+      "time": "23:16",
+      "keywords": []
+    },
+    {
       "title": "美国股市：纳斯达克100指数连跌两周 受制于油价飙升和AI担忧",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-07-25/doc-iniiycct4640217.shtml",
@@ -422,6 +481,20 @@
       "keywords": []
     },
     {
+      "title": "霍尔木兹海峡通航量下降 曼德海峡回升",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-25/doc-iniiyimt1325306.shtml",
+      "content": "国际市场服务机构克普勒24日在社交媒体发布消息说，中东两大关键海上通道23日船舶通航情况出现分化，霍尔木兹海峡通航量明显下降...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-24",
+      "time": "20:04",
+      "keywords": []
+    },
+    {
       "title": "威瑞森二季度业绩超预期 AI协议有望带来数十亿美元收入",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniiyccq9114878.shtml",
@@ -447,146 +520,6 @@
       "period": "night",
       "date": "2026-07-24",
       "time": "19:36",
-      "keywords": []
-    },
-    {
-      "title": "凤凰城儿童基金会借助ZoomInfo将潜在客户开发时间缩短一半",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixwvv4724858.shtml",
-      "content": " 在采用ZoomInfo平台后的两个季度内，凤凰城儿童基金会（Phoenix Children‘s Foundation）将平均潜在客户开发时间缩短了一半，并成功从全新的合作伙伴处获得了新增捐款。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-24",
-      "time": "19:27",
-      "keywords": []
-    },
-    {
-      "title": "德意志银行亏损退出做多日元兑欧元交易建议",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-25/doc-iniixwvv4724191.shtml",
-      "content": " 德意志银行策略师表示，日元兑美元跌向165关口并未在日本投资者或决策者中引发明显担忧。该行策略师已放弃看涨日元兑欧元的交易建议。",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-07-24",
-      "time": "19:26",
-      "keywords": []
-    },
-    {
-      "title": "“大空头”迈克尔·伯里称尚未平仓特斯拉空头头寸",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixwvx1494387.shtml",
-      "content": "著名投资人迈克尔·伯里（Michael Burry）表示，他正在加大对几项科技股看跌押注的力度，增加了对英伟达和VanEck半导体ETF的空头头寸...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-24",
-      "time": "19:11",
-      "keywords": []
-    },
-    {
-      "title": "德意志银行：预计Meta营收将超出华尔街预期",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixwvv4716207.shtml",
-      "content": " 德意志银行预计Meta将在下周三公布强劲的财报业绩，指出该平台由人工智能驱动的广告工具正在提升广告表现，帮助广告客户从其广告支出中获得更好的回报。",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-07-24",
-      "time": "19:07",
-      "keywords": []
-    },
-    {
-      "title": "美股尾盘时段走势活跃的股票：康宁、特斯拉、博思艾伦咨询公司",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixwvs9207862.shtml",
-      "content": "以下是美股交易中受到关注的部分公司： 数据中心基础设施 —— 投资者纷纷撤出数据中心基础设施行业相关公司的股票，因市场对超大规模企业在人工智能方面的支出持续担忧。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-24",
-      "time": "19:03",
-      "keywords": []
-    },
-    {
-      "title": "本周大型科技股领跌美股各板块",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixwvv4714052.shtml",
-      "content": " 通信服务和非必需消费品板块本周跌幅居前，两者均下跌约6%，因Alphabet和特斯拉的财报业绩拖累了这两个以大型科技股为主的板块。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-24",
-      "time": "19:01",
-      "keywords": []
-    },
-    {
-      "title": "美股周五尾盘涨跌不一，标普500指数转跌，芯片股持续下跌",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixwvx1489621.shtml",
-      "content": " 北京时间7月25日凌晨，美股周五尾盘涨跌不一。标普500指数转跌，芯片股构成拖累，投资者同时正在评估中东冲突的最新进展。",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "night",
-      "date": "2026-07-24",
-      "time": "18:57",
-      "keywords": []
-    },
-    {
-      "title": "应对企业成本管控与行业竞争 人工智能厂商Anthropic发布高性价比新模型",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixwvv4710205.shtml",
-      "content": "美国人工智能初创企业Anthropic于当地时间周五发布名为“Claude Opus 5”的全新人工智能模型。在当前企业客户日益注重AI部署成本、行业市场竞争不断加剧的背景下...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-24",
-      "time": "18:48",
-      "keywords": []
-    },
-    {
-      "title": "马斯克称社交平台“X”将开源全部底层代码并接受第三方审计",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixwvz1475839.shtml",
-      "content": "埃隆·马斯克日前在社交媒体平台发文宣布，在完成网络安全漏洞审查后，“X”平台将把包含底层系统在内的全部代码向社会开源，并邀请第三方独立机构对运行系统进行审计...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-24",
-      "time": "18:39",
-      "keywords": []
-    },
-    {
-      "title": "居民消费意愿趋弱挤压业绩 美国连锁超市艾伯森下调全财年盈利预期并重组业务",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixwvz1431060.shtml",
-      "content": "由于市场需求疲软及消费者开支趋于谨慎，美国知名连锁超市运营商艾伯森公司（Albertsons Companies）日前发布财报，宣布下调2026财年全年的业绩指引...",
-      "priority": "medium",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-07-24",
-      "time": "17:37",
       "keywords": []
     },
     {
@@ -831,6 +764,188 @@
       ]
     },
     {
+      "title": "111轮竞价、溢价近40%，海口土拍迎久违升温",
+      "source": "界面",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-25/doc-iniiyimn9129966.shtml",
+      "content": "界面新闻记者 | 王婷婷 海口土拍市场迎来久违的热闹局面。 7月23日，海口长秀片区一宗地块被摆上拍卖桌，地块吸引来4家房企激烈竞争，现场经历111轮竞价后...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-24",
+      "time": "23:17",
+      "keywords": []
+    },
+    {
+      "title": "中央纪委国家监委通报：2026年上半年全国纪检监察机关共接收信访举报218.8万件次",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-25/doc-iniiyimr4565484.shtml",
+      "content": "原标题：中央纪委国家监委通报2026年上半年全国纪检监察机关监督检查审查调查情况 2026年上半年，全国纪检监察机关共接收信访举报218.8万件次，其中检举控告类信访举报56...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-24",
+      "time": "23:00",
+      "keywords": []
+    },
+    {
+      "title": "7月25日隔夜要闻：纳指跌逾0.6%芯片股普跌 中东局势持续紧张 特斯拉创2022年以来最大单周跌幅",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-25/doc-iniiyimn9112824.shtml",
+      "content": "市场 7月25日收盘：纳指跌逾0.6%芯片股普跌，道指录得连续第三周下跌 7月25日美股成交额前20：特斯拉遭遇2022年以来最大单周跌幅 7月25日热门中概股多数下跌 台积电跌2...",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-07-24",
+      "time": "22:55",
+      "keywords": []
+    },
+    {
+      "title": "美“星舰”实施第13次试飞",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-25/doc-iniiyimt1339137.shtml",
+      "content": "美国太空探索技术公司重型运载火箭“星舰”于美国中部时间24日下午从得克萨斯州南部的发射基地升空，实施第13次试飞。据该公司介绍...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-24",
+      "time": "22:51",
+      "keywords": []
+    },
+    {
+      "title": "台风“红霞”或将正面袭击汕尾！全市6679艘涉渔船舶入港避风",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/roll/2026-07-25/doc-iniiyimv1384202.shtml",
+      "content": "7月24日凌晨，热带低压已加强为今年第12号台风“红霞”（热带风暴级）。据中央气象台消息，24日17时，其中心位于广东汕尾东偏南方向约760公里的巴士海峡洋面上。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-24",
+      "time": "22:33",
+      "keywords": []
+    },
+    {
+      "title": "台风“红霞”会带来哪些影响",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/roll/2026-07-25/doc-iniiyimn9102155.shtml",
+      "content": "中央气象台24日18时发布台风橙色预警，今年第12号台风“红霞”预计将于25日晚上至26日早晨在广东珠海到饶平一带沿海登陆。登陆之后，“红霞”是否会造成远距离极端强降水？",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-24",
+      "time": "22:33",
+      "keywords": []
+    },
+    {
+      "title": "中国模型加速AI明星“内卷”，Anthropic上新Opus 5，性能逼近Fable 5价格打对折，刷新ARC-AGI-3纪录",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/world/2026-07-25/doc-iniiyimr4545772.shtml",
+      "content": "来源：华尔街见闻 AI模型的竞争，正在同时向两个方向加速：一边是价格不断下探，另一边则是模型能力继续冲击通用人工智能（AGI）的边界。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-24",
+      "time": "22:27",
+      "keywords": []
+    },
+    {
+      "title": "台风+暴雨+高温+强对流 中央气象台四预警齐发",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-25/doc-iniiyimt1336665.shtml",
+      "content": "中央气象台7月25日早6时发布台风、暴雨、高温、强对流天气四个预警。 台风橙色预警 今年第12号台风“红霞”已于今天（25日）早晨由强热带风暴级加强为台风级...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-24",
+      "time": "22:27",
+      "keywords": []
+    },
+    {
+      "title": "大宗商品综述：布伦特回落 基本金属涨跌不一 金价微升",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-25/doc-iniiyimn9078237.shtml",
+      "content": "布伦特原油已从每桶100美元回落。尽管近期美伊敌对行动激化且白宫不断发出武力威胁，但石油仍能通过中东贸易航线运输。基本金属价格周五涨跌不一...",
+      "priority": "low",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-07-24",
+      "time": "22:10",
+      "keywords": []
+    },
+    {
+      "title": "“粤车南下”25日起扩展至大湾区内地9市",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-25/doc-iniiyccv1439600.shtml",
+      "content": "转自：新华网 新华社香港7月24日电（奚天麒）根据香港特区政府日前公布的“粤车南下”扩展安排，“粤车南下”入境香港市区措施25日起将进一步扩容...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-24",
+      "time": "21:54",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：委内瑞拉“尚未准备好”举行选举",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-25/doc-iniiyccq9191806.shtml",
+      "content": "美国总统特朗普在被问及美国是否已准备好推动委内瑞拉选举排期时表示，“就委内瑞拉而言，他们其实还没有为此准备好。” 特朗普在白宫发表讲话。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-24",
+      "time": "21:44",
+      "keywords": []
+    },
+    {
+      "title": "特朗普称美伊仍在保持沟通 尚未就对伊打击行动做出决定",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-25/doc-iniiycct4656394.shtml",
+      "content": "美国总统特朗普表示，伊朗仍在与美国对话，副总统詹姆斯·万斯、国务卿鲁比奥以及其他官员都参与了沟通。 特朗普是在椭圆形办公室举行的一场核能活动上作出上述表态的。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-24",
+      "time": "21:44",
+      "keywords": []
+    },
+    {
+      "title": "报道：一艘沙特船只周五在红海航行时遭袭击",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-25/doc-iniiyccv1433049.shtml",
+      "content": "沙通社援引沙特交通总局一名官方消息人士报道，沙特船只NCC MASA周日在红海航行时遭到袭击。 报道称，袭击造成船体轻微受损。 在确认船员和船只安全后...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-24",
+      "time": "21:43",
+      "keywords": []
+    },
+    {
       "title": "巴克莱：霍尔木兹海峡僵局或使2026年布伦特油价面临上行风险",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-07-25/doc-iniiyccx1457702.shtml",
@@ -898,6 +1013,20 @@
       "period": "night",
       "date": "2026-07-24",
       "time": "20:25",
+      "keywords": []
+    },
+    {
+      "title": "沙特空袭也门荷台达",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-25/doc-iniiyimv1357873.shtml",
+      "content": "当地时间24日晚，也门胡塞武装控制下的也门荷台达地区遭空袭。沙特主导的多国联军随后宣布，对荷台达的胡塞武装军事据点实施打击，但未将荷台达港口列为攻击目标...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-24",
+      "time": "20:09",
       "keywords": []
     },
     {
@@ -985,6 +1114,20 @@
       "keywords": []
     },
     {
+      "title": "特朗普称美方正与伊朗谈判 不排除加大军事打击",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-25/doc-iniiyccq9107216.shtml",
+      "content": "当地时间7月24日，美国总统特朗普在白宫谈及对伊朗战争的“退出战略”时表示，美国有两种选择：一是继续当前军事行动，并可能加大打击力度...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-24",
+      "time": "19:36",
+      "keywords": []
+    },
+    {
       "title": "美国商业银行First Horizon Bank携手黄蜂队向青少年分发万颗篮球",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixwvs9229651.shtml",
@@ -1013,171 +1156,31 @@
       "keywords": []
     },
     {
-      "title": "建筑设备租赁平台EquipmentShare因关联交易被诉证券欺诈",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixwvv4725602.shtml",
-      "content": "建筑设备租赁平台EquipmentShare.com Inc．及其部分高管正面临一桩证券欺诈集体诉讼。该公司被指控在2026年1月首次公开募股（IPO）过程中...",
+      "title": "海南商业航天发射场二期发射区土建工作完成",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/roll/2026-07-25/doc-iniixwvz1508504.shtml",
+      "content": "从空中俯瞰海南商业航天发射场二期发射区。7月24日，海南商业航天发射场二期发射区土建工作完成，全面转入设备调试合练的关键阶段。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "night",
       "date": "2026-07-24",
-      "time": "19:30",
+      "time": "19:31",
       "keywords": []
     },
     {
-      "title": "美光科技股价周五为何大跌：获利了结与竞争压力",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixwvz1500752.shtml",
-      "content": "美光科技股价周五尾盘重挫8.4%，投资者在本周上涨后获利了结，同时来自中国内存芯片制造商的竞争加剧给该股带来压力。 美光本周早些时候曾大幅上涨...",
+      "title": "沪深交易所修订发布资产支持证券相关指引 持续夯实市场发展制度基础",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/roll/2026-07-25/doc-iniixwvv4726226.shtml",
+      "content": "◎记者 何昕怡 时娜 7月24日，沪深交易所分别修订并发布《上海证券交易所资产支持证券挂牌条件确认规则适用指引第2号——大类基础资产（2026年修订）》和《深圳证券交易所资产...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "night",
       "date": "2026-07-24",
-      "time": "19:19",
-      "keywords": []
-    },
-    {
-      "title": "有报道称特朗普“正考虑升级”与伊朗的冲突",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixwvv4713706.shtml",
-      "content": "周五尾盘交易时段，美国股市涨跌不一，此前有报道称总统唐纳德·特朗普正在考虑升级与伊朗的冲突。 据报道，特朗普定于周五与顾问及高级内阁成员会面...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-24",
-      "time": "19:00",
-      "keywords": []
-    },
-    {
-      "title": "受通胀与地缘冲突推高债基影响 美国房贷利率升至近一年来高位",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixwvz1448269.shtml",
-      "content": "受地缘局势升级与通胀风险上升推动，作为美国住房抵押贷款基准的30期固定利率本周进一步走高，创下近11个月来的新高。市场分析认为...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-07-24",
-      "time": "18:00",
-      "keywords": []
-    },
-    {
-      "title": "特朗普敦促美国参议院于8月休会前通过预算决议",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixwvs9158361.shtml",
-      "content": " 美国总统特朗普在社交媒体发文，要求美国参议院在8月休会前通过一项预算决议。特朗普强调，该决议只需简单多数票即可获批，并将成为“美国历史上最具影响力的法案之一”。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-24",
-      "time": "17:47",
-      "keywords": []
-    },
-    {
-      "title": "亚马逊25亿美元和解案赔偿申请即将在即 涉事消费者最高可获51美元退款",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixwvv4681716.shtml",
-      "content": "根据美国联邦贸易委员会（FTC）此前与亚马逊公司达成的和解协议，针对部分符合条件但尚未收到自动退款的亚马逊Prime会员，索赔申请窗口将于2026年7月27日正式关闭。",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-07-24",
-      "time": "17:41",
-      "keywords": []
-    },
-    {
-      "title": "美国政府拟拨巨资重构科研体系 科学界担忧政治介入与资本化挤压基础研究",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixwvs9146429.shtml",
-      "content": "美国政府近日宣布启动名为“创世纪计划”（Genesis Mission）的重塑科研体系项目，计划拨付50亿美金资助数百项以人工智能（AI）为核心驱动力的科学研究。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-24",
-      "time": "17:34",
-      "keywords": []
-    },
-    {
-      "title": "涉沙门氏菌污染风险 美国六州召回逾150万打鸡蛋",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixwvz1423510.shtml",
-      "content": "因存在沙门氏菌污染隐患，美国食品药品监督管理局（FDA）通报，中西禽业公司（Midwest Poultry Services）已对涉事批次的158.9万余打鸡蛋实施主动召回。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-24",
-      "time": "17:27",
-      "keywords": []
-    },
-    {
-      "title": "美基准利率指标攀升至特朗普第二任期新高 经济施政目标面临严峻挑战",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixspz1580435.shtml",
-      "content": "受中东地缘局势升级、政府财政赤字扩张风险以及人工智能领域高强度投入等综合因素叠加影响，作为美国借贷成本关键基准的10年期美国国债收益率近日剧烈波动，攀升至4.7%...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-24",
-      "time": "17:24",
-      "keywords": []
-    },
-    {
-      "title": "火箭实验室收购铱星公司 加速布局低轨卫星通信市场",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixspu9267311.shtml",
-      "content": "新西兰航天企业火箭实验室（Rocket Lab）创始人彼得·贝克（Peter Beck）日前宣布，公司已签署最终协议，将以80亿美金收购美国上市卫星通信服务商铱星公司（Iridium）。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-24",
-      "time": "17:21",
-      "keywords": []
-    },
-    {
-      "title": "持卡人消费需求强劲 美国运通二季度营收净利双增",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixspx4800135.shtml",
-      "content": " 美国金融服务巨头美国运通公司（American Express）日前发布的财报显示，受益于高端持卡人消费增长，公司今年第二季度营业收入与净利润均实现同比提升。",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-07-24",
-      "time": "17:17",
-      "keywords": []
-    },
-    {
-      "title": "美国以规避制裁为由加码制裁伊朗商人相关网络",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniixsqc1545525.shtml",
-      "content": "美国财政部当地时间周五发布声明，宣布对涉嫌协助伊朗规避制裁的4名个人及9个实体实施制裁。美方声称，相关制裁对象均与伊朗商人巴巴克·扎نج尼（Babak...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-24",
-      "time": "17:16",
+      "time": "19:31",
       "keywords": []
     },
     {
