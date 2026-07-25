@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-25T21:30:16.227789",
+  "updated": "2026-07-25T23:36:52.377290",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,53 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 25,
-    "medium": 18,
-    "low": 107
+    "high": 27,
+    "medium": 19,
+    "low": 104
   },
   "items": [
+    {
+      "title": "全行业都在收缩金融，为什么快手敢逆势翻倍增资？",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/companyt/2026-07-26/doc-inikassk8731405.shtml",
+      "content": "监管新规落地倒计时，也是快手主动增厚资本、转型自营的关键推手。 出品|中访网 审核|李晓燕 行业收缩周期里，互联网金融赛道正上演两极分化。",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-07-25",
+      "time": "23:07",
+      "keywords": []
+    },
+    {
+      "title": "存储龙头德明利紧急维稳，董事长锁仓一年，AI存储赛道韧性仍在？",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/companyt/2026-07-26/doc-inikassr0617095.shtml",
+      "content": "来源：AI心智生产力 原标题：《存储龙头紧急维稳，董事长锁仓一年，AI存储赛道韧性仍在？》 AI存储赛道的估值回调，正在倒逼龙头企业出手稳信心。",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-25",
+      "time": "23:00",
+      "keywords": []
+    },
+    {
+      "title": "特斯拉一周跌没18%，存储芯片股崩盘，闪迪重挫10%",
+      "source": "中国证券网",
+      "url": "https://finance.sina.com.cn/wm/2026-07-25/doc-iniizvpc1239269.shtml",
+      "content": "当地时间7月24日， 美国三大股指收盘涨跌不一，道指涨0.46%，标普500指数涨0.05%，纳指跌0.64%。费城半导体指数跌4.25%。存储芯片、光通信跌幅居前，闪迪跌超10%...",
+      "priority": "high",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "noon",
+      "date": "2026-07-25",
+      "time": "15:17",
+      "keywords": []
+    },
     {
       "title": "马斯克，身价暴跌1300亿美元！",
       "source": "市场资讯",
@@ -137,20 +179,6 @@
       "period": "morning",
       "date": "2026-07-25",
       "time": "06:35",
-      "keywords": []
-    },
-    {
-      "title": "欧洲央行管委齐格曼：中东战事对通胀的影响需要一段时间才会显现",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-25/doc-iniiyyie9108206.shtml",
-      "content": "欧洲央行管理委员会委员安特・齐格曼表示，中东战事再起带来的冲击，要经过一段时间才会体现在经济数据中。 他在接受采访时称：“不确定性依旧存在...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-25",
-      "time": "06:12",
       "keywords": []
     },
     {
@@ -395,6 +423,20 @@
       "keywords": [
         "周刊提前读"
       ]
+    },
+    {
+      "title": "Kimi K3再引关注，瑞银：中国模型的结构性成本优势有望长期保持",
+      "source": "澎湃新闻",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-26/doc-inikassp3854163.shtml",
+      "content": "Kimi K3发布后，中国大模型再次成为市场关注焦点。 7月24日，在瑞银AI行业展望媒体分享会上，瑞银证券中国互联网行业分析师熊玮在与澎湃新闻等媒体交流时表示...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-25",
+      "time": "23:33",
+      "keywords": []
     },
     {
       "title": "光伏“三巨头”合计预亏超百亿",
@@ -676,6 +718,21 @@
       "keywords": [
         "市场动态"
       ]
+    },
+    {
+      "title": "英伟达全面上调GPU套装价格：GDDR7、GDDR6同时涨，A股存储产业链谁最受益？",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-07-26/doc-inikassk8725747.shtml",
+      "content": "来源：时来才来 一张发布于2021年的RTX 3060，最近以2022年的原始建议零售价重新回到市场。 很多玩家以为，老显卡复产意味着价格终于要往下走。",
+      "priority": "low",
+      "sectors": [
+        "半导体",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-25",
+      "time": "23:00",
+      "keywords": []
     },
     {
       "title": "马斯克旗下Boring Company洽谈新一轮融资 估值200亿美元",
@@ -1123,63 +1180,6 @@
       "period": "morning",
       "date": "2026-07-25",
       "time": "06:16",
-      "keywords": []
-    },
-    {
-      "title": "大连首推二套房公积金贷款贴息 年内近90城发“房补”",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-25/doc-iniiyyii4442187.shtml",
-      "content": "近日，大连市推出阶段性公积金贷款贴息新政，对2026年7月24日至2027年12月31日之间审批通过的二套房公积金贷款给予最长3年、实际利息15%的补贴...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-25",
-      "time": "06:05",
-      "keywords": []
-    },
-    {
-      "title": "三星与博通签署2000亿美元协议 深化内存和晶圆代工技术等领域合作",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-25/doc-iniiyyim1218017.shtml",
-      "content": "三星电子在一份声明中称，与博通签署了一份谅解备忘录，双方将扩大在内存和晶圆代工技术领域的战略合作。 两家公司预计： 至2030年的未来五年间...",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "morning",
-      "date": "2026-07-25",
-      "time": "06:05",
-      "keywords": []
-    },
-    {
-      "title": "韩国绑定美国AI产业链！三星、SK海力士与英伟达、博通等签9500亿美元芯片大单",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/t/2026-07-25/doc-iniiyyim1225032.shtml",
-      "content": "三星与博通签署2000亿美元协议 深化内存和晶圆代工技术等领域合作 英伟达与韩国SK集团达成5000亿美元合作 来源： 华尔街见闻官方 韩国正通过与美国科技巨头达成空前规模的...",
-      "priority": "low",
-      "sectors": [
-        "半导体",
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-07-25",
-      "time": "05:59",
-      "keywords": []
-    },
-    {
-      "title": "英伟达与韩国SK集团达成5000亿美元合作",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-25/doc-iniiyyip1380787.shtml",
-      "content": "北京时间7月25日，英伟达（NVDA.O）发布博客，宣布与韩国SK集团达成价值5000亿美元的合作，合作内容涵盖AI工厂建设和下一代存储器供应。",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "night",
-      "date": "2026-07-25",
-      "time": "05:58",
       "keywords": []
     },
     {
