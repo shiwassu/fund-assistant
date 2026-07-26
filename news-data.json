@@ -1,17 +1,31 @@
 {
-  "updated": "2026-07-26T14:12:02.773105",
-  "total": 144,
+  "updated": "2026-07-26T15:43:42.246445",
+  "total": 148,
   "sources": [
     "新浪财经",
     "akshare-财新",
     "Tushare"
   ],
   "priority_dist": {
-    "high": 24,
-    "medium": 26,
-    "low": 94
+    "high": 23,
+    "medium": 33,
+    "low": 92
   },
   "items": [
+    {
+      "title": "跌破市值“红线”！301139拉响退市预警",
+      "source": "上海证券报·中国证券网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcymz0309833.shtml",
+      "content": "7月26日晚，*ST元道（301139）公告称，7月24日，公司股票收盘价为2.39元/股，收盘市值为2.91亿元，首次出现股票收盘市值低于3亿元。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-26",
+      "time": "14:23",
+      "keywords": []
+    },
     {
       "title": "不惧震荡！超550亿元资金入市抄底",
       "source": "上海证券报",
@@ -24,6 +38,20 @@
       "period": "noon",
       "date": "2026-07-26",
       "time": "13:36",
+      "keywords": []
+    },
+    {
+      "title": "001258，8天涨幅翻倍！多家公司，紧急提示风险！",
+      "source": "证券时报网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcymx3502742.shtml",
+      "content": "7月23日、7月24日，顺钠股份(000533)、立新能源(001258)、中电鑫龙(002298)等多只股票连续两个交易日收盘价格涨幅偏离值累计超过20%...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-26",
+      "time": "13:12",
       "keywords": []
     },
     {
@@ -110,48 +138,6 @@
       "period": "morning",
       "date": "2026-07-26",
       "time": "10:13",
-      "keywords": []
-    },
-    {
-      "title": "7天6板！刚刚，百亿牛股提示风险！",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-07-26/doc-inikcpwi0991579.shtml",
-      "content": "来源：资本秘闻 立新能源称股价存在快速回调、大幅震荡风险。 7月26日晚间，股价大涨的立新能源发布公告称，近期公司股价波动主要受市场资金炒作...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-26",
-      "time": "09:53",
-      "keywords": []
-    },
-    {
-      "title": "下周一，A股将会不一样？",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/wbstock/2026-07-26/doc-inikcpvy8701643.shtml",
-      "content": "来源：@证券市场红周刊微博牛犇‍周五（7月24日），A股又让所有人体验了一把“无力感”。三大指数全线收跌，个股涨跌比接近1:9，成交量跌破2万亿元。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-26",
-      "time": "09:37",
-      "keywords": []
-    },
-    {
-      "title": "携程垄断被重罚51.79亿，梁建章还要忙着做人口学家吗？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-07-26/doc-inikcpwi0956773.shtml",
-      "content": "来源：野马财经 携程又双叒叕被罚了！ 7月25日，市场监管总局依法对携程集团（9961.HK）滥用市场支配地位实施垄断行为作出行政处罚，罚没款合计51.79亿元。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-26",
-      "time": "09:00",
       "keywords": []
     },
     {
@@ -382,6 +368,104 @@
       ]
     },
     {
+      "title": "张坤颠覆“张坤”",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/fund/jjyj/2026-07-26/doc-inikcync0909607.shtml",
+      "content": "来源：资本深潜号 作者|佳译 编辑 |袁畅 在坚持了十年后，张坤管理的四只基金在最新一季展现出“新”的“面貌”。 其中的重要变化之一是加速体现“科技成色”...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-26",
+      "time": "14:28",
+      "keywords": []
+    },
+    {
+      "title": "突然，加倍做空！华尔街“大空头”，再出手！AI“狼来了”，这次是真的吗？",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-07-26/doc-inikcymz0298198.shtml",
+      "content": "“大空头”大举做空。 以电影《大空头》原型闻名的投资者迈克尔·伯里再度加码做空英伟达、美光科技和费城半导体指数ETF，并维持特斯拉...",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-07-26",
+      "time": "14:12",
+      "keywords": []
+    },
+    {
+      "title": "中汽股份：宁波试验场项目由宁波前湾新区下属宁波海创汽车科技有限公司出资投建",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcymx3520036.shtml",
+      "content": "证券日报网7月26日讯 ，中汽股份在接受调研时表示，宁波试验场项目由宁波前湾新区下属宁波海创汽车科技有限公司出资投建，公司通过增资扩股参股宁波前湾新区欣湾智能技术服...",
+      "priority": "medium",
+      "sectors": [
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-07-26",
+      "time": "13:57",
+      "keywords": []
+    },
+    {
+      "title": "中汽股份：公司毛利率与营收规模高度正相关",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcync0897831.shtml",
+      "content": "证券日报网7月26日讯 ，中汽股份在接受调研时表示，公司毛利率与营收规模高度正相关。随着二期试验场产能持续释放、营收稳步增长，公司整体毛利率有望呈上行趋势...",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-07-26",
+      "time": "13:57",
+      "keywords": []
+    },
+    {
+      "title": "中汽股份：盐城二期试验场是目前世界领先的智能网联大型综合封闭测试场地",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcymz0296787.shtml",
+      "content": "证券日报网7月26日讯 ，中汽股份在接受调研时表示，盐城二期试验场是目前世界领先的智能网联大型综合封闭测试场地，能够涵盖智能网联汽车及自动驾驶能力测试的全部场景要求...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-26",
+      "time": "13:57",
+      "keywords": []
+    },
+    {
+      "title": "中汽股份：公司业务模式主要是与客户签订框架合同 客户根据测试需求下达试验订单",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcymu8615835.shtml",
+      "content": "证券日报网7月26日讯 ，中汽股份在接受调研时表示，公司业务模式主要是与客户签订框架合同，客户根据测试需求下达试验订单。基于以上模式，公司收费模式分两种情况...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-26",
+      "time": "13:57",
+      "keywords": []
+    },
+    {
+      "title": "中汽股份：公司二季度经营数据尚未披露，已预约8月22日披露",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcymu8615881.shtml",
+      "content": "证券日报网7月26日讯 ，中汽股份在接受调研时表示，公司二季度经营数据尚未披露，已预约8月22日披露，具体数据详见后期披露的定期报告。（文章来源：证券日报）",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-26",
+      "time": "13:57",
+      "keywords": []
+    },
+    {
       "title": "10派65.6元！A股又现大手笔分红",
       "source": "中国证券报",
       "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-26/doc-inikcymu8580353.shtml",
@@ -396,6 +480,20 @@
       "keywords": []
     },
     {
+      "title": "4000万！光伏龙头联手国资，成立新能源公司",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcymx3504074.shtml",
+      "content": "企查查股权穿透显示，该公司由正泰电器旗下浙江正泰新能源开发有限公司、龙泉市国资控股有限公司共同持股。",
+      "priority": "medium",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-07-26",
+      "time": "13:03",
+      "keywords": []
+    },
+    {
       "title": "合同负债从131亿跌至46亿，股东套现10亿！  捷佳伟创频频陷入业绩失守的困境",
       "source": "",
       "url": "https://finance.sina.com.cn/roll/2026-07-26/doc-inikcync0842423.shtml",
@@ -407,6 +505,62 @@
       "period": "noon",
       "date": "2026-07-26",
       "time": "12:34",
+      "keywords": []
+    },
+    {
+      "title": "“肥胖专病－医疗机构标准化体重综合管理服务体系建设项目”启动",
+      "source": "证券日报网",
+      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-07-26/doc-inikcymz0284073.shtml",
+      "content": "本报讯(记者张敏)7月26日，由内分泌代谢科肥胖诊疗联盟牵头的“肥胖专病-医疗机构标准化体重综合管理服务体系建设项目”在南京正式启动。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-26",
+      "time": "12:32",
+      "keywords": []
+    },
+    {
+      "title": "湖北能源：截至2026年6月末公司水电累计完成发电量85.51亿千瓦时",
+      "source": "证券日报网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcymx3516398.shtml",
+      "content": "证券日报网7月26日讯，湖北能源在接受调研时表示，2026年上半年清江流域来水较同期显著偏丰，带动公司水电发电量大幅增长。截至2026年6月末，公司水电累计完成发电量85...",
+      "priority": "medium",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-07-26",
+      "time": "12:32",
+      "keywords": []
+    },
+    {
+      "title": "湖北能源：公司上半年燃煤采购均价同比略有增长",
+      "source": "证券日报网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcymz0293194.shtml",
+      "content": "证券日报网7月26日讯，湖北能源在接受调研时表示，受国际局势和国内近期煤矿事故影响，2026年上半年国内燃煤价格呈震荡上行态势。",
+      "priority": "medium",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-07-26",
+      "time": "12:32",
+      "keywords": []
+    },
+    {
+      "title": "长鑫科技明日上市，打新收益引关注",
+      "source": "北京商报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcuef0965030.shtml",
+      "content": "科创板史上最大IPO即将“登场”！根据安排，7月27日，国产DRAM龙头企业长鑫科技(688825)将鸣锣上市，公司上市首日的打新收益情况也成为投资者关注的焦点。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-26",
+      "time": "12:23",
       "keywords": []
     },
     {
@@ -465,77 +619,6 @@
       "period": "morning",
       "date": "2026-07-26",
       "time": "10:50",
-      "keywords": []
-    },
-    {
-      "title": "中信证券：原油二次冲击降风偏近尾声 看好8月三个维度收敛修复",
-      "source": "观点地产网",
-      "url": "https://finance.sina.com.cn/stock/estate/integration/2026-07-26/doc-inikcpwi0999296.shtml",
-      "content": "观点网讯：近日，中信证券发布研报指出，此轮中东原油冲击不再是第一轮的小号重演，而是缓冲耗尽后的二次冲击。两轮油价冲击过程中，市场最拥挤的交易结构完全不同...",
-      "priority": "medium",
-      "sectors": [
-        "能源"
-      ],
-      "period": "morning",
-      "date": "2026-07-26",
-      "time": "10:02",
-      "keywords": []
-    },
-    {
-      "title": "长鑫科技，明日上市！还有两大龙头同步开启申购！",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-26/doc-inikcpwi0976423.shtml",
-      "content": "本周，3只新股的上市首日平均涨幅为146.5%。其中，泰诺麦博首日上涨211.89%，单签收益约1.53万元。Choice数据显示，截至7月26日，年内81只新股的上市首日平均涨幅为278...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-26",
-      "time": "09:33",
-      "keywords": []
-    },
-    {
-      "title": "沪市公司增持回购浪潮涌动 产业龙头领衔提振信心",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/roll/2026-07-26/doc-inikcpwf0437913.shtml",
-      "content": "上证报中国证券网讯(记者何昕怡)近日，沪市上市公司增持回购浪潮持续涌动，产业龙头领衔为市场注入信心。据统计，过去一周，沪市新增回购计划42家次，金额上限83...",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-07-26",
-      "time": "09:30",
-      "keywords": []
-    },
-    {
-      "title": "五粮液：公司2025年度分红派息已实施完毕",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcpwf0434701.shtml",
-      "content": "证券日报网讯7月26日，五粮液在互动平台回答投资者提问时表示，公司2025年度分红派息已实施完毕。对于特殊分红，公司会结合市场及自身实际情况研究。",
-      "priority": "medium",
-      "sectors": [
-        "消费",
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-07-26",
-      "time": "09:09",
-      "keywords": []
-    },
-    {
-      "title": "官方通报“LV因楼盘雕花起诉开发商” ：网传案情不属实",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-26/doc-inikcpvy8670883.shtml",
-      "content": "来源：中国基金报 湖里法院、北京日报 7月26日，福建厦门市湖里区人民法院通报： 针对近日网络流传的（2026）闽0206民初8217号案件相关信息...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-26",
-      "time": "08:55",
       "keywords": []
     },
     {
@@ -780,6 +863,91 @@
       ]
     },
     {
+      "title": "通过港交所上市聆讯，希音离IPO又近了",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-26/doc-inikeetx0197631.shtml",
+      "content": " 7月26日，希音（SHEIN）更新聆讯后资料集，意味着希音港股IPO已通过港交所聆讯，赴港上市进程提速。若顺利挂牌，或将成为2026年港股最大的跨境电商IPO。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-26",
+      "time": "15:21",
+      "keywords": []
+    },
+    {
+      "title": "三家公司筹划易主，周一停牌",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-26/doc-inikeetz0813766.shtml",
+      "content": "聚焦一： 三家公司筹划控制权变更事项 27日起停牌 普联软件：公司于2026年7月24日收到控股股东、实际控制人蔺国强、王虎的通知，获悉其正在筹划公司控制权变更相关事宜...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-26",
+      "time": "15:21",
+      "keywords": []
+    },
+    {
+      "title": "英伟达锁定SK海力士内存供应，作为5000亿美元AI交易的一部分",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-26/doc-inikcymu8633935.shtml",
+      "content": "英伟达表示，它已锁定韩国SK海力士的AI内存供应，这家芯片制造商正试图为其先进处理器和系统锁定关键组件。 英伟达表示，这项于周五晚在旧金山宣布的协议在数年内可能价值5...",
+      "priority": "low",
+      "sectors": [
+        "半导体",
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-07-26",
+      "time": "14:39",
+      "keywords": []
+    },
+    {
+      "title": "从硅谷到华盛顿，科技界突然痴迷于AI中的一个概念：蒸馏",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-26/doc-inikcymu8632289.shtml",
+      "content": "今年早些时候，谷歌AI负责人杰夫·迪恩在一个播客中讨论了一个在当时科技圈以外几乎无人谈论的概念：蒸馏。 在谈论谷歌AI模型的开发时，迪恩表示...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-07-26",
+      "time": "14:37",
+      "keywords": []
+    },
+    {
+      "title": "英国新任首相伯纳姆：准备在必要时直言批评特朗普",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-26/doc-inikcymx3520886.shtml",
+      "content": " 英国新任首相伯纳姆表示，他愿意在必要时直言批评美国总统特朗普，以捍卫英国的国家利益，这为他任内关键的跨大西洋关系定下了基调。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-26",
+      "time": "14:13",
+      "keywords": []
+    },
+    {
+      "title": "中汽股份：截至2026年7月20日公司股东人数为25089户",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcymz0296782.shtml",
+      "content": "证券日报网讯 7月26日，中汽股份在互动平台回答投资者提问时表示，截至2026年7月20日公司股东人数为25089户。（文章来源：证券日报）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-26",
+      "time": "13:57",
+      "keywords": []
+    },
+    {
       "title": "Shein获得港交所批准在香港上市",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-26/doc-inikcymz0282105.shtml",
@@ -822,6 +990,105 @@
       "keywords": []
     },
     {
+      "title": "山西汾酒：2025年度每股派发现金红利6.56元",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcymx3512864.shtml",
+      "content": "新京报贝壳财经讯 7月26日，山西汾酒公告称，公司2025年年度权益分派方案已获股东会审议通过，以总股本1219964222股为基数，每股派发现金红利6.56元(含税)...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-26",
+      "time": "13:29",
+      "keywords": []
+    },
+    {
+      "title": "2连板顺钠股份：股票交易异常波动",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcymx3503995.shtml",
+      "content": "新京报贝壳财经讯 7月26日，顺钠股份公告称，公司股票连续两个交易日收盘价格涨幅偏离值累计达22.71%，属于股票交易异常波动。公司依托在变压器及配电设备领域的长期技术积...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-26",
+      "time": "13:09",
+      "keywords": []
+    },
+    {
+      "title": "47股融资净偿还额超过5亿元！胜宏科技、德明利、佰维存储排名前三",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcymu8557072.shtml",
+      "content": "据数据宝，近一周(7月17日至23日)，A股融资余额持续下降，最新为26888.61亿元。A股融资资金持续呈现净偿还态势，金额合计1447.8亿元。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-26",
+      "time": "12:38",
+      "keywords": []
+    },
+    {
+      "title": "储能“一芯难求”，阳光电源投资欣旺达",
+      "source": "经济观察报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcymx3478327.shtml",
+      "content": "记者 潘俊田7月24日晚，欣旺达（300207.SZ）发布《关于子公司欣旺达动力科技股份有限公司增资扩股的公告》（下称《公告》）。阳光电源股份有限公司...",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-07-26",
+      "time": "12:28",
+      "keywords": []
+    },
+    {
+      "title": "共同实控人分道扬镳，奥精医疗变为“无主”状态",
+      "source": "北京商报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcync0848313.shtml",
+      "content": "在崔菡、胡刚夫妇联手罢免母亲黄晚兰董事职务议案被否决后，奥精医疗（688613）的共同实控人最终分道扬镳。公司7月24日晚间披露的公告显示，奥精医疗变更为无实控人状态...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-26",
+      "time": "12:23",
+      "keywords": []
+    },
+    {
+      "title": "上纬新材子公司启元新创落户上海 计划每年推不少于2款消费级机器人",
+      "source": "界面",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcuef0956472.shtml",
+      "content": "近日，上纬新材全资子公司启元新创作为上海市人工智能重点项目，正式签约落户浦东张江机器人谷，计划打造最大消费级机器人企业的研发创新...",
+      "priority": "low",
+      "sectors": [
+        "机器人",
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-07-26",
+      "time": "12:07",
+      "keywords": []
+    },
+    {
+      "title": "猴子价格涨疯了，20万一只还抢不到？可是峨眉山上不是超级多吗？",
+      "source": "",
+      "url": "https://finance.sina.com.cn/roll/2026-07-26/doc-inikcucw8667493.shtml",
+      "content": "作者： 闰然编辑：江江新媒体编辑：张婉莹视觉：诺言眼下，医药圈最抢手的，不是什么新药，也不是任何高端设备，而是一只猴子。猴子有多紧俏呢？",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-07-26",
+      "time": "12:00",
+      "keywords": []
+    },
+    {
       "title": "伊朗称就霍尔木兹海峡航运管理与阿曼会谈有进展",
       "source": "新华社",
       "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-26/doc-inikcucw8660548.shtml",
@@ -850,6 +1117,20 @@
       "keywords": []
     },
     {
+      "title": "斥资不超20亿元！小市值算力租赁概念股子公司拟采购服务器及配套设备为客户提供算力服务|盘后公告集锦",
+      "source": "财联社",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcuec0355938.shtml",
+      "content": "今日聚焦【亿田智能：子公司拟不超20亿元采购服务器及配套设备为客户提供算力服务】亿田智能(300911.SZ)公告称，公司全资子公司甘肃亿算拟向多家供应商采购服务器及配套设...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "morning",
+      "date": "2026-07-26",
+      "time": "11:22",
+      "keywords": []
+    },
+    {
       "title": "特朗普过去24小时都忙了什么？（2026-07-26）",
       "source": "市场资讯",
       "url": "https://finance.sina.com.cn/stock/marketresearch/2026-07-26/doc-inikcuef0893438.shtml",
@@ -875,230 +1156,6 @@
       "period": "morning",
       "date": "2026-07-26",
       "time": "10:36",
-      "keywords": []
-    },
-    {
-      "title": "信用卡纠纷案不止，浦发银行甩卖72亿信用卡不良坏账",
-      "source": "经理人",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcpvy8719365.shtml",
-      "content": "在股份制银行中，浦发银行的信用卡业务曾是一张重要名片，但现在这张名片的含金量，正在被重新审视。 2026年7月，浦发银行信用卡中心在银登中心挂出两期合计72亿元的不良贷...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-07-26",
-      "time": "10:07",
-      "keywords": []
-    },
-    {
-      "title": "科创板最大IPO，长鑫科技明日上市！记者实探：夜间厂区灯火通明，周边酒店一房难求",
-      "source": "证券时报e公司",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcpwf0448726.shtml",
-      "content": "长鑫科技明日上市。 “你知道这家公司一天赚多少钱吗？三个亿！”长鑫科技厂区外一位年过六旬的工地保安比划着手势，神采飞扬地向证券时报记者介绍长鑫科技的“战绩”。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-26",
-      "time": "09:57",
-      "keywords": []
-    },
-    {
-      "title": "沈南鹏捐资3亿元！上海交大红杉书院正式揭牌成立",
-      "source": "快科技",
-      "url": "https://finance.sina.com.cn/tech/roll/2026-07-26/doc-inikcpwc3669045.shtml",
-      "content": "快科技7月26日消息，今日，上海交通大学宣布，上海交大红杉书院正式揭牌成立，面向国家战略需求，深化基础学科，拔尖创新人才培养改革。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-26",
-      "time": "09:54",
-      "keywords": []
-    },
-    {
-      "title": "总市值低于3亿！*ST元道提示终止上市风险！",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-07-26/doc-inikcpwi0992333.shtml",
-      "content": "来源：资本秘闻 7月26日晚间，*ST元道披露公告称，公司股票可能存在因市值低于3亿元被终止上市的风险。 公告显示，7月24日，公司股票收盘价为2.39元/股，收盘市值为2...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-26",
-      "time": "09:53",
-      "keywords": []
-    },
-    {
-      "title": "总市值低于3亿元，*ST元道提示终止上市风险",
-      "source": "北京商报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcpvy8718616.shtml",
-      "content": "7月26日晚间，*ST元道（301139）披露公告称，公司股票可能存在因市值低于3亿元被终止上市的风险。 公告显示，7月24日，公司股票收盘价为2.39元/股，收盘市值为2.91亿元...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-26",
-      "time": "09:53",
-      "keywords": []
-    },
-    {
-      "title": "云豹智能冲刺IPO，三年亏损近25亿，9成以上收入依赖腾讯",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-07-26/doc-inikcpvy8685542.shtml",
-      "content": "来源：尺度商业 文 | 董武英 编辑 | 刘振涛 近年来，随着AI的迅速发展，市场对AI硬件的关注逐渐从算力芯片转向存储再到内外部传输速度...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-26",
-      "time": "09:21",
-      "keywords": []
-    },
-    {
-      "title": "火速出手！多家A股公司，宣布实施回购",
-      "source": "证券时报e公司",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcpwf0437024.shtml",
-      "content": "回购股份成为近期市场中的热点。7月26日晚，又有包括惠威科技(002888)等在内的多家上市公司发布首次回购公司股份的公告。此前，惠威科技于7月23日召开第五届董事会第六次会...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-07-26",
-      "time": "09:16",
-      "keywords": []
-    },
-    {
-      "title": "市值首次跌破3亿元！301139提示可能“被终止上市”风险",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/s/2026-07-26/doc-inikcpwi0964053.shtml",
-      "content": " 7月24日，*ST元道（301139）继续走弱。截至当天收盘，*ST元道报2.39元/股，下跌0.17元，跌幅6.64%。伴随股价进一步下跌，*ST元道的总市值也跌破3亿元，至2.91亿元。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-26",
-      "time": "09:13",
-      "keywords": []
-    },
-    {
-      "title": "晨丰科技：公司将于2026年8月12日召开2026年第六次临时股东会",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcuef0901850.shtml",
-      "content": "证券日报网讯7月26日，晨丰科技发布公告称，公司将于2026年8月12日召开2026年第六次临时股东会。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-26",
-      "time": "09:09",
-      "keywords": []
-    },
-    {
-      "title": "银轮股份：公司业务经营有序开展，趋势向好",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcpwi0977455.shtml",
-      "content": "证券日报网讯7月26日，银轮股份在互动平台回答投资者提问时表示，公司业务经营有序开展，趋势向好。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-26",
-      "time": "09:09",
-      "keywords": []
-    },
-    {
-      "title": "银轮股份：目前不锈钢板式换热器等产品已经为多家模组客户送样并开展验证",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcpvy8695457.shtml",
-      "content": "证券日报网讯7月26日，银轮股份在互动平台回答投资者提问时表示，公司目前在数据中心领域，明确了数据中心液冷模组零部件供应商的定位，制定了中期发展规划...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-26",
-      "time": "09:09",
-      "keywords": []
-    },
-    {
-      "title": "五粮液：公司将持续探索优质文化IP、潮流IP合作机会",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcpwc3657927.shtml",
-      "content": "证券日报网讯7月26日，五粮液在互动平台回答投资者提问时表示，IP跨界联动是公司推进品牌年轻化、拓宽消费圈层、触达年轻消费群体的创新尝试。",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "morning",
-      "date": "2026-07-26",
-      "time": "09:09",
-      "keywords": []
-    },
-    {
-      "title": "银轮股份：公司在发电机组领域有丰富的配套品类",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcpwf0434704.shtml",
-      "content": "证券日报网讯7月26日，银轮股份在互动平台回答投资者提问时表示，公司在发电机组领域有丰富的配套品类，包括用于大缸径发动机的不锈钢板式机油冷却器...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-26",
-      "time": "09:09",
-      "keywords": []
-    },
-    {
-      "title": "美国连续第二晚暂停袭击伊朗 红海紧张局势升级",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-26/doc-inikcpvy8676049.shtml",
-      "content": " 美国已连续第二晚暂停针对伊朗的打击行动。与此同时，也门胡塞武装与沙特阿拉伯之间的小规模冲突升级，令全球能源运输要道红海南部附近的紧张局势进一步加剧。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-26",
-      "time": "09:08",
-      "keywords": []
-    },
-    {
-      "title": "10亿易主！小巨人接盘小巨人",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-07-26/doc-inikcpvy8675982.shtml",
-      "content": "来源： 野马财经 作者：贾紫聪 编辑：高岩 一年两度转让控制权。 一家刚做完股份制改革、2025年净利润仅1.48亿元的新材料企业，竟然拿出10...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-26",
-      "time": "09:00",
-      "keywords": []
-    },
-    {
-      "title": "惠城环保：控股子公司20万吨/年混合废塑料深度裂解工业试验装置完成满负荷现场考核",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-26/doc-inikcpwc3635496.shtml",
-      "content": "每经AI快讯，7月26日，惠城环保(300779.SZ)公告称，公司控股子公司广东东粤化学科技有限公司承建的20万吨/年混合废塑料深度裂解工业试验装置...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-07-26",
-      "time": "08:44",
       "keywords": []
     },
     {
