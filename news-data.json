@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T20:07:38.802194",
+  "updated": "2026-07-27T21:44:00.199452",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,67 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 17,
-    "medium": 29,
-    "low": 104
+    "high": 19,
+    "medium": 30,
+    "low": 101
   },
   "items": [
+    {
+      "title": "特朗普赴密歇根通用工厂面向汽车工人宣讲，大力鼓吹关税政策",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-07-28/doc-inikhyqt0424111.shtml",
+      "content": "美国总统特朗普到访通用汽车密歇根厂区，大力宣扬其经济政策，核心包括关税政策与放宽环保法规。 特朗普称自己为通用汽车感到“十分自豪”...",
+      "priority": "high",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "20:37",
+      "keywords": []
+    },
+    {
+      "title": "美国债市：油价大跌推动美债收涨 债券供给压力限制涨幅",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-28/doc-inikhyqk8140064.shtml",
+      "content": "美国国债周一收高，受油价下跌带动，但涨幅受到2年期和5年期国债拍卖以及大量公司债发行的限制。在周三美联储利率决议公布前，市场缺乏基本面催化剂...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "20:34",
+      "keywords": []
+    },
+    {
+      "title": "纽约汇市：美元因战争暂停而小幅走低 瑞郎因利率预期下跌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-28/doc-inikhyqq9454364.shtml",
+      "content": "彭博美元指数周一收复早盘大部分失地。美国暂停对伊朗实施打击以及油价下跌对美元构成压力，但市场仍认为美联储本周晚些时候存在一定加息可能，抵消了上述压力。",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "20:34",
+      "keywords": []
+    },
+    {
+      "title": "特朗普政府AI自愿监管框架即将落地",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-07-28/doc-inikhuhv0548680.shtml",
+      "content": " 知情人士透露，特朗普政府即将敲定一套自愿性AI监管框架，要求人工智能企业在向公众发布顶尖前沿模型前，先将模型提交政府审核。",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "20:22",
+      "keywords": []
+    },
     {
       "title": "量子计算企业D-Wave Quantum与AT&T扩大合作 股价大涨逾18%",
       "source": "环球市场播报",
@@ -38,34 +94,6 @@
       "period": "night",
       "date": "2026-07-27",
       "time": "19:07",
-      "keywords": []
-    },
-    {
-      "title": "美银：成功干预日元需日本央行发出鹰派信号",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyx0580961.shtml",
-      "content": "美国银行策略师Shusuke Yamada认为，日本央行想要成功捍卫日元就得发出鹰派信号。 他认为165是干预美元/日元汇率对的下一个潜在门槛。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-27",
-      "time": "16:44",
-      "keywords": []
-    },
-    {
-      "title": "特朗普：美国利率应该更低 但利率决定非沃什一人能左右",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyx0580462.shtml",
-      "content": "美国总统特朗普表示，美国利率应该更低。 特朗普在乘坐“空军一号”期间，回应随行记者有关本周美联储会议的提问时作出上述表态。 特朗普称...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-27",
-      "time": "16:43",
       "keywords": []
     },
     {
@@ -280,6 +308,77 @@
       ]
     },
     {
+      "title": "英伟达新一轮逾7500亿美元的AI交易令循环融资忧虑重燃",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-28/doc-inikhyqq9465454.shtml",
+      "content": " 英伟达正在推进新一轮人工智能相关交易，潜在规模超过7500亿美元。这进一步加快了其投资步伐，但质疑者警告，这类交易可能正在人为推高整个行业的需求和估值。",
+      "priority": "medium",
+      "sectors": [
+        "半导体",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "21:11",
+      "keywords": []
+    },
+    {
+      "title": "7月28日美股成交额前20：芯片股普跌，SK海力士破发",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhyqt0431105.shtml",
+      "content": "周一美股成交额第1名美光科技收跌2.25%，成交417.73亿美元。因电影《大空头》而闻名的传奇投资者迈克尔·伯里再度出手，进一步扩大了对半导体板块的看空押注...",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "20:50",
+      "keywords": []
+    },
+    {
+      "title": "7月28日热门中概股普涨 阿里巴巴涨2.56%，拼多多涨2.65%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhn8266638.shtml",
+      "content": "7月28日热门中概股普涨，纳斯达克中国金龙指数（HXC）收高2.51%。 上涨个股（按市值从高到低）：阿里巴巴涨2.56%，拼多多涨2.65%，网易涨3.53%，京东涨2.52%，中华电信涨0...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "20:23",
+      "keywords": []
+    },
+    {
+      "title": "芯片股集体遭抛售，SK海力士跌破IPO发行价",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-07-28/doc-inikhuhv0546341.shtml",
+      "content": "SK海力士美国存托凭证（ADR）首次跌破IPO发行价，芯片板块遭遇集体抛售，该股上市以来亏损进一步扩大。 虽然市场普遍看好AI发展前景...",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "20:15",
+      "keywords": []
+    },
+    {
+      "title": "7月28日收盘：美股涨跌不一道指收高260点 油价大幅回落",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhn8262425.shtml",
+      "content": " 北京时间7月28日凌晨，美股周一收盘涨跌不一，道指上涨逾260点，标普500指数基本持平。半导体板块普跌。油价大幅走低。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "20:11",
+      "keywords": []
+    },
+    {
       "title": "Datavault AI任命资深许可专家Ron Goldstein领导职业体育授权业务",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhv0539759.shtml",
@@ -417,62 +516,6 @@
       "period": "night",
       "date": "2026-07-27",
       "time": "19:03",
-      "keywords": []
-    },
-    {
-      "title": "微软财报即将揭晓：Azure增速与资本支出指引成关键",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhn8228909.shtml",
-      "content": "科技巨头微软将于本周三盘后发布2026财年第四季度财报。这份成绩单正值公司股价自历史高点回撤近三成之际，市场焦点已从单纯的业绩表现...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "18:59",
-      "keywords": []
-    },
-    {
-      "title": "尾盘：纳指下跌0.4%，半导体股普遍下滑",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhr2780625.shtml",
-      "content": "北京时间7月28日凌晨，美股周一尾盘涨跌不一。半导体股普跌，拖累纳指与标普500指数下跌。 道指涨123.84点，涨幅为0.24%，报52071.09点；纳指跌101.10点，跌幅为0.40%...",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "18:54",
-      "keywords": []
-    },
-    {
-      "title": "路易威登母公司LVMH营收增速加快，奢侈品行业复苏显现曙光",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyq8307259.shtml",
-      "content": "这家法国奢侈品集团二季度销售额达 222 亿美元LVMH 财报被视作奢侈品行业景气风向标，其业绩为欧洲奢侈品板块带来回暖信号。 核心概要 LVMH 披露二季度营收增速提速...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-27",
-      "time": "17:05",
-      "keywords": []
-    },
-    {
-      "title": "欧洲股市基本持平 阿斯麦重挫抵消零售和媒体股涨幅",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyt2870290.shtml",
-      "content": "欧洲股市表现平淡，阿斯麦大跌拖累科技股，抵消了零售和媒体板块的涨幅。 斯托克欧洲600指数收盘基本持平，盘中一度上涨0.9%。阿斯麦重挫8.5%。",
-      "priority": "medium",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-07-27",
-      "time": "16:27",
       "keywords": []
     },
     {
@@ -716,6 +759,149 @@
       "keywords": [
         "市场动态"
       ]
+    },
+    {
+      "title": "苹果超越英伟达，时隔一年多重回全球市值第一宝座",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-28/doc-inikhyqp2699891.shtml",
+      "content": " 周一，苹果在收盘时超越英伟达，成为全球市值最高的公司。这是这家iPhone制造商自2025年4月以来首次在市值上领先于AI芯片巨头。",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "21:36",
+      "keywords": []
+    },
+    {
+      "title": "大宗商品综述：油价大跌 铜价上涨 金价走高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-28/doc-inikhyqt0453706.shtml",
+      "content": "油价创下逾三个月来最大跌幅，因为对中东和黑海的供应担忧缓解。铜价上涨，美伊冲突暂缓减轻市场对全球经济进一步受扰的担忧。金价走高...",
+      "priority": "low",
+      "sectors": [
+        "黄金",
+        "有色"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "21:29",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：美国已从委内瑞拉石油销售中获利超130亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-28/doc-inikhyqk8165291.shtml",
+      "content": "美国总统特朗普周一表示，自推翻前总统尼古拉斯·马杜罗以来，美国已从委内瑞拉原油销售中收取超过130亿美元。 美国在1月3日的一次军事突袭中抓获马杜罗后...",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "21:20",
+      "keywords": []
+    },
+    {
+      "title": "报道：特朗普政府接近敲定自愿性AI框架",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-28/doc-inikhyqt0428333.shtml",
+      "content": " The Information援引三位未具名知情人士报道，美国接近敲定自愿性框架，供人工智能公司在向公众发布最先进模型之前先向政府提交。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "20:45",
+      "keywords": []
+    },
+    {
+      "title": "美伊双方暂停相互打击 伊朗国内分歧愈发严重",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-07-28/doc-inikhyqt0426080.shtml",
+      "content": "美伊双方暂停相互打击，让外界重燃外交斡旋的希望。 但在伊朗国内，军事冲突暂时平息的现状，反而凸显出国内分歧愈发严重：一派主张伊朗与美国展开谈判...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "20:41",
+      "keywords": []
+    },
+    {
+      "title": "纽约地区航班延误 因空管人员不足叠加恶劣天气",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-28/doc-inikhyqt0423941.shtml",
+      "content": "美国联邦航空管理局（FAA）发布的通告显示，周一，空管人员短缺导致纽约都会区三大机场航班运行受阻。 FAA在通告中表示，预计纽约地区的出行问题将持续至晚间。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "20:37",
+      "keywords": []
+    },
+    {
+      "title": "英伟达承诺向OpenAI前首席科学家参与创办的企业投资50亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-28/doc-inikhyqt0423255.shtml",
+      "content": " 知情人士透露，英伟达承诺向OpenAI前首席科学家Ilya Sutskever创办的人工智能企业Safe Superintelligence Inc．投资50亿美元。",
+      "priority": "low",
+      "sectors": [
+        "半导体",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "20:36",
+      "keywords": []
+    },
+    {
+      "title": "原油：油价下挫 中东及黑海供应威胁缓解",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-28/doc-inikhyqq9454048.shtml",
+      "content": "油价创逾三个月来最大跌幅，因为美国暂停每日对伊朗发动空袭，同时油轮恢复前往近期一度中断运营的哈萨克斯坦原油出口终端装货，缓解了此前多重因素挤压下的供应紧张局面。...",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "20:32",
+      "keywords": []
+    },
+    {
+      "title": "英伟达CEO黄仁勋赴国会山磋商AI相关议题",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-07-28/doc-inikhyqk8138263.shtml",
+      "content": "英伟达方面周一对外透露，公司首席执行官黄仁勋将在华盛顿会见国会议员，商讨美国如何维持人工智能领域全球领先地位。 这家芯片厂商的发言人表示...",
+      "priority": "low",
+      "sectors": [
+        "半导体",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "20:31",
+      "keywords": []
+    },
+    {
+      "title": "BuzzFeed启动重组，裁员约35%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-07-28/doc-inikhuhr2806609.shtml",
+      "content": " 美国知名数字新媒体平台BuzzFeed董事会已于7月22日批准裁员重组方案，计划在全球各地区、各业务线裁减约35%全职员工及专属外包人员，以此压缩运营成本。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "20:24",
+      "keywords": []
     },
     {
       "title": "夏普全资收购越南太阳能EPC与运维公司，拓展储能业务",
@@ -983,188 +1169,6 @@
       "period": "night",
       "date": "2026-07-27",
       "time": "19:06",
-      "keywords": []
-    },
-    {
-      "title": "苹果智能眼镜主打隐私牌，拟2027年发布",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhv0512136.shtml",
-      "content": "科技巨头苹果正将隐私保护作为其进军智能眼镜市场的核心战略，以与竞争对手形成差异化。这款内部代号为N50的智能眼镜计划于2027年6月在全球开发者大会上首次亮相...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:00",
-      "keywords": []
-    },
-    {
-      "title": "Pimco拥抱曾经警告的AI热潮 前提是巨额融资条款由它主导",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhr2783564.shtml",
-      "content": "Dan Ivascyn希望参与为甲骨文规模达160亿美元的大型数据中心园区提供融资的交易，但前提是交易必须按照他的方式设计。 知情人士称，去年年底...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "18:59",
-      "keywords": []
-    },
-    {
-      "title": "LVMH时装皮具业务勉强恢复增长 中东冲突抑制需求",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyx0616381.shtml",
-      "content": " 拥有路易威登和迪奥品牌的LVMH时装及皮具部门上季度销售额仅勉强实现增长，原因是中东冲突抑制了富裕消费者的购物意愿。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "18:09",
-      "keywords": []
-    },
-    {
-      "title": "伊朗与阿曼谈判重启霍尔木兹海峡航运 后者对取得进展持乐观态度",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyt2887908.shtml",
-      "content": "知情人士称，伊朗与阿曼谈判人员正努力达成协议，以恢复霍尔木兹海峡航运。 伊朗和阿曼的领土均濒临海峡。消息人士称，两国官员上周末在德黑兰会晤后正继续进行磋商。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-27",
-      "time": "17:26",
-      "keywords": []
-    },
-    {
-      "title": "卫星图像显示沙特石油设施现浓烟 交易员神经紧绷",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-28/doc-inikhpyu9664600.shtml",
-      "content": "石油交易员仔细分析了卫星图像。图像显示，过去48小时内，沙特多处石油设施上空出现浓烟，但通过这些数据几乎无法判断，伊朗支持的武装组织近期发动的袭击是否已经影响沙特...",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-07-27",
-      "time": "17:25",
-      "keywords": []
-    },
-    {
-      "title": "欧洲债市：欧债上涨 因油价回落",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyx0594349.shtml",
-      "content": "随着中东地区袭击暂停的局面延续，全球油价下跌，推动欧洲政府债券上涨。 德国2年期国债收益率下跌4个基点，报2.79%，自上周触及的高点2...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-27",
-      "time": "17:19",
-      "keywords": []
-    },
-    {
-      "title": "英国首相伯纳姆排除在预算案中调整印花税的可能性",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyq8311702.shtml",
-      "content": " 英国首相安迪·伯纳姆表示，今年秋季政府首份财政预算案不会调整英国购房印花税，从而否认了此前媒体关于政府正考虑调整该税种的报道。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-27",
-      "time": "17:18",
-      "keywords": []
-    },
-    {
-      "title": "福特入局美军新一代军用卡车竞标",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyq8309587.shtml",
-      "content": "美国国防部官员号召本土车企助力提升武器装备产能生产线上的福特 F-150 皮卡；拍摄于密歇根州迪尔伯恩福特工厂 核心要点 福特汽车角逐冷战以来规模最大的军方订单...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-27",
-      "time": "17:11",
-      "keywords": []
-    },
-    {
-      "title": "饼干桶餐厅CEO因logo风波与激进股东施压宣布卸任",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyx0591217.shtml",
-      "content": "朱莉・马西诺将于 8 月离职；澳拜客牛排母公司布鲁明品牌前高管戴维・迪诺接任饼干桶乡村老店总裁兼首席执行官朱莉・费尔斯・马西诺 核心概要 饼干桶（Cracker Barrel...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-27",
-      "time": "17:09",
-      "keywords": []
-    },
-    {
-      "title": "菲利普莫里斯斥资12亿美元新建生产园区，加码Zyn品牌产能",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyu9660265.shtml",
-      "content": "企业表示，奥罗拉工厂将提升其美国本土制造能力Zyn 尼古丁口含袋成品外包装示意图，包装附有尼古丁健康警示标签。 核心要点 菲利普莫里斯国际在科罗拉多州奥罗拉建成总投资...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-27",
-      "time": "17:03",
-      "keywords": []
-    },
-    {
-      "title": "特朗普被问及对伊朗还有多少耐心时称“时间充裕”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyx0580909.shtml",
-      "content": "当被问及对伊朗还有多少耐心时，美国总统特朗普称他“时间充裕”，并表示美国和伊朗目前正在对话。 特朗普表示，与伊朗的“良好会谈”很有可能会带来一些成果。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-27",
-      "time": "16:44",
-      "keywords": []
-    },
-    {
-      "title": "特朗普：将问普京俄罗斯是否向伊朗提供了卫星图",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyt2877984.shtml",
-      "content": "美国总统特朗普表示，他将询问俄罗斯总统普京是否在向伊朗提供卫星图像。 “我们很快就会知道结果，” 他在“空军一号”对记者说。 特朗普还说，如果俄罗斯真的在帮助伊朗...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-27",
-      "time": "16:44",
-      "keywords": []
-    },
-    {
-      "title": "摩根大通前员工提起联邦诉讼，指控遭遇种族歧视与性侵",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhpyt2871491.shtml",
-      "content": "奇拉尤・拉纳指控前同事洛娜・哈伊迪尼侵犯公民权利，另有三名杠杆融资部银行从业者一同被列为被告 作者：本・格利克曼摩根大通全球总部大楼 核心概要...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-27",
-      "time": "16:30",
       "keywords": []
     },
     {
