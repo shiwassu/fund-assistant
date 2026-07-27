@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-27T21:44:00.199452",
+  "updated": "2026-07-27T23:40:27.670070",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,141 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 19,
-    "medium": 30,
-    "low": 101
+    "high": 24,
+    "medium": 23,
+    "low": 103
   },
   "items": [
+    {
+      "title": "马斯克回应诺奖得主捐出全部财富提议：我确实打算做点类似的事",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikiewh8108595.shtml",
+      "content": "作为全球首位也是唯一一位万亿美元富翁，埃隆·马斯克最终会把他的财富全部捐献出去吗？ 长期以来，公众一直质疑马斯克：坐拥上万亿美元财富，他究竟打算做些什么。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "23:26",
+      "keywords": []
+    },
+    {
+      "title": "财经早报：美国对华加征12.5%关税，商务部回应，特朗普称若谈判破裂将强力打击伊朗丨2026年7月28日",
+      "source": "新浪证券",
+      "url": "https://finance.sina.com.cn/stock/y/2026-07-28/doc-inikiewr0393315.shtml",
+      "content": "【重磅】股市利好消息频出！别错过反弹行情，立即开户跟进&gt;&gt; 【市场动态】  特朗普称若谈判破裂将强力打击伊朗 当地时间27日，总台记者获悉...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "23:13",
+      "keywords": [
+        "早报",
+        "央行",
+        "股市"
+      ]
+    },
+    {
+      "title": "韩国7月消费者信心连续三个月上升",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikiewh8097944.shtml",
+      "content": "韩国央行周二表示，韩国7月份消费者信心连续第三个月上升，得益于出口强劲和大规模投资计划。 根据韩国央行的一项调查，韩国7月份综合消费者信心指数（CCSI）为106.8...",
+      "priority": "high",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "23:05",
+      "keywords": []
+    },
+    {
+      "title": "美联储本周加息？城堡证券：沃什本周加息将强化抗通胀信誉，并终结前瞻指引时代",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/money/forex/forexroll/2026-07-28/doc-inikhyqt0500062.shtml",
+      "content": "华尔街见闻 城堡证券宏观策略主管预计美联储本周加息，其指出“市场可能再次低估了美联储鹰派转向的程度。本周加息‘将明确终结前瞻指引时代’，同时凸显美联储的独立性。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "22:46",
+      "keywords": []
+    },
+    {
+      "title": "SK海力士ADR跌破发行价 半导体板块遭遇抛售潮",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-28/doc-inikhyqp2722611.shtml",
+      "content": " SK海力士的美国存托凭证（ADR）跌至新低。随着投资者抛售此前大涨的半导体股票，这家韩国存储芯片制造商本月初创纪录的265亿美元上市交易热潮迅速降温。",
+      "priority": "high",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "22:39",
+      "keywords": []
+    },
+    {
+      "title": "【沥燃油戏】船燃发电需求支撑燃料油，沥青供销数据回升可控",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-07-28/doc-inikiewr0387703.shtml",
+      "content": "来源：能源研发中心 燃料油：截止国内下午收盘，燃料油市场受美伊军事暂停出现地缘回吐，开盘跳空暴跌。FU09录得3604，环比下跌8.13%；LU09录得4670，环比下跌6.11%。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "22:36",
+      "keywords": []
+    },
+    {
+      "title": "油价暴跌，特朗普称停火给伊朗谈判机会，伊朗嘲讽每当油价上涨美国就喊停",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-07-28/doc-inikiewh8104556.shtml",
+      "content": "来源：能源研发中心 后市观点 周一油价大跌，短短2个交易日从高位回撤15美元，原油迅速回撤此前一周的绝大部分地缘风险溢价，节奏切换太快，让人难以应对。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "22:36",
+      "keywords": []
+    },
+    {
+      "title": "马斯克财富过山车：SpaceX自高点腰斩，特斯拉同步创年内新低",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-28/doc-inikhyqq9496543.shtml",
+      "content": "SpaceX自6月触及225.64美元的高点以来，市值已蒸发超过1.2万亿美元——这几乎正好相当于马斯克另一家公司特斯拉的全部市值，而特斯拉的股价刚刚跌至近一年来的低点。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "22:32",
+      "keywords": []
+    },
+    {
+      "title": "长鑫科技登顶A股市值榜首 存储芯片板块大幅反弹",
+      "source": "中国证券报-中证网",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-28/doc-inikhyqp2718379.shtml",
+      "content": "7月27日，国产DRAM（动态随机存取存储器）龙头长鑫科技正式登陆科创板，上市首日涨逾465%，总市值突破3.3万亿元，登顶A股市值榜首。",
+      "priority": "high",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "21:49",
+      "keywords": []
+    },
     {
       "title": "特朗普赴密歇根通用工厂面向汽车工人宣讲，大力鼓吹关税政策",
       "source": "环球市场播报",
@@ -38,62 +168,6 @@
       "period": "night",
       "date": "2026-07-27",
       "time": "20:34",
-      "keywords": []
-    },
-    {
-      "title": "纽约汇市：美元因战争暂停而小幅走低 瑞郎因利率预期下跌",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-28/doc-inikhyqq9454364.shtml",
-      "content": "彭博美元指数周一收复早盘大部分失地。美国暂停对伊朗实施打击以及油价下跌对美元构成压力，但市场仍认为美联储本周晚些时候存在一定加息可能，抵消了上述压力。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "20:34",
-      "keywords": []
-    },
-    {
-      "title": "特朗普政府AI自愿监管框架即将落地",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/7x24/2026-07-28/doc-inikhuhv0548680.shtml",
-      "content": " 知情人士透露，特朗普政府即将敲定一套自愿性AI监管框架，要求人工智能企业在向公众发布顶尖前沿模型前，先将模型提交政府审核。",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "20:22",
-      "keywords": []
-    },
-    {
-      "title": "量子计算企业D-Wave Quantum与AT&T扩大合作 股价大涨逾18%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhv0531285.shtml",
-      "content": "量子计算概念股D-Wave Quantum周一宣布，与电信巨头AT&amp;T签署了一项扩大协议，将利用其量子退火计算技术应对网络运营中的复杂优化挑战。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:41",
-      "keywords": []
-    },
-    {
-      "title": "Waymo在奥斯汀因违规停车被罚近万美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhr2786935.shtml",
-      "content": " Alphabet旗下自动驾驶公司Waymo在得克萨斯州奥斯汀市遭遇运营挑战。自2024年进入该市场以来，其无人驾驶出租车已累计收到83张停车罚单，罚款总额达9325美元。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:07",
       "keywords": []
     },
     {
@@ -308,6 +382,90 @@
       ]
     },
     {
+      "title": "桥水联席CIO：政府加强干预或增加AI投资不确定性",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikiewr0396326.shtml",
+      "content": " 桥水基金的联席首席投资官周一在致客户的报告中表示，政府对人工智能（AI）领域的介入可能会减缓这项技术的普及和发展，并给投资者带来更多不确定性。",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "23:36",
+      "keywords": []
+    },
+    {
+      "title": "金价回调，“一口价”遇冷，计价金饰又火了",
+      "source": "第一财经",
+      "url": "https://finance.sina.com.cn/money/nmetal/gjshz/2026-07-28/doc-inikiewm2606722.shtml",
+      "content": "7月27日，老铺黄金（06181.HK）发布正面盈利预告，截至2026年6月30日的上半年，公司实现销售业绩约227亿元~233.5亿元，同比增长约60%~65%；净利润约43.1亿元~43.6亿元...",
+      "priority": "medium",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "23:17",
+      "keywords": []
+    },
+    {
+      "title": "券商解读A股阶段性调整 估值回归合理，基本面支撑市场运行",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/roll/2026-07-28/doc-inikiewn9378584.shtml",
+      "content": "7月27日，A股市场迎来企稳反弹行情，盘面呈现明显的指数修复、结构分化特征。截至当日收盘，上证指数、沪深300指数同步上涨1.15%，深证成指上涨2.72%...",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "23:00",
+      "keywords": []
+    },
+    {
+      "title": "三大私募巨头入局科威特油管道，160亿美元项目落地",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-07-28/doc-inikhyqk8195797.shtml",
+      "content": " 黑石、布鲁克菲尔德与KKR将向科威特输油管道网络投资160亿美元。投资方将与科威特石油公司成立合资企业，并取得该合资公司49%的股权。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "22:04",
+      "keywords": []
+    },
+    {
+      "title": "AI短剧行业“马太效应”持续强化",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-28/doc-inikhyqk8187881.shtml",
+      "content": "本报记者李豪悦 7月27日，行业研究机构DataEye发布《2026上半年AI剧漫剧数据报告》（以下简称《报告》）。多维度数据印证，AI驱动的短剧赛道迎来高速增长，市场规模...",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "21:49",
+      "keywords": []
+    },
+    {
+      "title": "光伏行业发展逻辑从“规模扩张”迈向“可靠替代”",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-28/doc-inikhyqq9483949.shtml",
+      "content": "本报记者殷高峰 光伏行业发展逻辑正在加速转变。 近日，国家发展和改革委员会、国家能源局联合印发的《可再生能源发展“十五五”规划》（以下简称《规划》）提出...",
+      "priority": "medium",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "21:49",
+      "keywords": []
+    },
+    {
       "title": "英伟达新一轮逾7500亿美元的AI交易令循环融资忧虑重燃",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-07-28/doc-inikhyqq9465454.shtml",
@@ -334,188 +492,6 @@
       "period": "night",
       "date": "2026-07-27",
       "time": "20:50",
-      "keywords": []
-    },
-    {
-      "title": "7月28日热门中概股普涨 阿里巴巴涨2.56%，拼多多涨2.65%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhn8266638.shtml",
-      "content": "7月28日热门中概股普涨，纳斯达克中国金龙指数（HXC）收高2.51%。 上涨个股（按市值从高到低）：阿里巴巴涨2.56%，拼多多涨2.65%，网易涨3.53%，京东涨2.52%，中华电信涨0...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "20:23",
-      "keywords": []
-    },
-    {
-      "title": "芯片股集体遭抛售，SK海力士跌破IPO发行价",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/7x24/2026-07-28/doc-inikhuhv0546341.shtml",
-      "content": "SK海力士美国存托凭证（ADR）首次跌破IPO发行价，芯片板块遭遇集体抛售，该股上市以来亏损进一步扩大。 虽然市场普遍看好AI发展前景...",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "20:15",
-      "keywords": []
-    },
-    {
-      "title": "7月28日收盘：美股涨跌不一道指收高260点 油价大幅回落",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhn8262425.shtml",
-      "content": " 北京时间7月28日凌晨，美股周一收盘涨跌不一，道指上涨逾260点，标普500指数基本持平。半导体板块普跌。油价大幅走低。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "20:11",
-      "keywords": []
-    },
-    {
-      "title": "Datavault AI任命资深许可专家Ron Goldstein领导职业体育授权业务",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhv0539759.shtml",
-      "content": "数据货币化与数字资产技术提供商Datavault AI Inc．周一宣布，已任命拥有超过35年行业经验的Ronald M． Goldstein领导其职业体育授权业务。",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:57",
-      "keywords": []
-    },
-    {
-      "title": "贝克休斯Q2业绩超预期，LNG大单与强劲订单驱动增长",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhr2800743.shtml",
-      "content": "能源技术公司贝克休斯周一公布的第二季度财报显示，营收与利润均超出华尔街预期，并上调了全年业绩指引。尽管中东地区存在扰动，公司凭借强劲的订单增长和良好的项目执行...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:56",
-      "keywords": []
-    },
-    {
-      "title": "特种化学品平台Ascent Industries将于8月4日盘后召开第二季度业绩电话会议",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhs9574928.shtml",
-      "content": "特种化学品平台Ascent Industries Co． 宣布，将于8月4日（周二）下午5：00（美国东部时间）举行电话会议，讨论截至2026年6月30日的第二季度财务业绩。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:48",
-      "keywords": []
-    },
-    {
-      "title": "Waste Connections宣布发行加元优先票据",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhv0534530.shtml",
-      "content": " 北美固废管理巨头Waste Connections周一宣布，计划在美国进行承销公开发行，并在加拿大各省以私募方式，发行两个系列以加元计价的优先票据，分别为2033年和2036年到期。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:47",
-      "keywords": []
-    },
-    {
-      "title": "医疗健康基金Eaton Vance二季度大幅减持Zoetis，持仓占比下降45.48%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhv0533857.shtml",
-      "content": "Eaton Vance全球医疗健康科学基金在2026年第二季度对其投资组合进行了重大调整，最引人注目的是将Zoetis Inc的持仓削减了45.48%。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:46",
-      "keywords": []
-    },
-    {
-      "title": "投行Jefferies上调福特和通用汽车评级，看好盈利前景",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhr2794179.shtml",
-      "content": "美国投行Jefferies周一发布研报，将福特汽车和通用汽车的评级同时从“持有”上调至“买入”，理由是美国汽车市场环境改善、资本配置优化以及传统成本压力减轻...",
-      "priority": "medium",
-      "sectors": [
-        "消费"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:37",
-      "keywords": []
-    },
-    {
-      "title": "波托马克银行扩大住宅贷款业务，聘请资深房贷专家盖尔·莫克斯利",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhr2792643.shtml",
-      "content": "波托马克银行（PTBS）周一宣布，其住宅贷款部门迎来一位资深行业专家，聘请盖尔·莫克斯利担任高级副总裁兼高级住房贷款专员。此举标志着该行持续加强其在弗吉尼亚州及周边...",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:31",
-      "keywords": []
-    },
-    {
-      "title": "Wedbush看好AMD数据中心增长，上调目标价",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhr2791516.shtml",
-      "content": "Wedbush证券周一发布研报，维持对AMD的“跑赢大盘”评级，并大幅上调其目标价，理由是看好其数据中心业务在CPU和GPU领域的强劲增长动能...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:25",
-      "keywords": []
-    },
-    {
-      "title": "高盛及小摩等机构看好共享单车公司Lime的母公司Neutron Holdings",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhn8231768.shtml",
-      "content": "共享单车公司Lime于本月早些时候公开上市后，华尔街多家机构对其母公司Neutron Holdings表示看好。 高盛分析师埃里克·谢里丹在周日给客户的一份报告中给出了买入评级。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:04",
-      "keywords": []
-    },
-    {
-      "title": "加密货币股票因资金从AI基础设施轮动而上涨，比特币矿商落后",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhr2785403.shtml",
-      "content": "周一，在资金从芯片和AI基础设施类股票流出的背景下，加密货币股票成为涨幅最大的板块之一。 以太坊积累者Bitmine Immersion飙升11%，比特币财库先驱Strategy跳涨7%...",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:03",
       "keywords": []
     },
     {
@@ -761,6 +737,346 @@
       ]
     },
     {
+      "title": "中国铝业获小摩增持约566.89万股 每股作价约7.9港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-28/doc-inikiewr0397602.shtml",
+      "content": "香港联交所最新数据显示，7月21日，小摩增持中国铝业（02600）566.8893万股，每股作价7.9031港元，总金额约为4480.18万港元。增持后最新持股数目约为2.42亿股...",
+      "priority": "low",
+      "sectors": [
+        "有色",
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "23:37",
+      "keywords": [
+        "中国铝业",
+        "小摩",
+        "增持"
+      ]
+    },
+    {
+      "title": "美伊冲突持续暂停之际油价下跌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikiewr0397191.shtml",
+      "content": "在美伊冲突持续暂停之际，亚洲早盘油价下跌。澳洲联邦银行的John Oh在一份研究报告中表示：“美国连续第三个夜晚暂停对伊朗的日常打击...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "23:37",
+      "keywords": []
+    },
+    {
+      "title": "德琪医药-B发盈喜 预计上半年利润约1.95亿至2.38亿元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-28/doc-inikiewm2613436.shtml",
+      "content": "德琪医药-B（06996）发布公告，集团预期将于截至2026年6月30日止六个月取得收入介于人民币4.90亿元至5.36亿元，而于截至2025年6月30日止六个月则取得收入约人民币5320万元...",
+      "priority": "low",
+      "sectors": [
+        "医药"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "23:36",
+      "keywords": [
+        "德琪医药-B",
+        "利润"
+      ]
+    },
+    {
+      "title": "康龙化成遭Norges Bank减持5.52万股 每股作价约23.63港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-28/doc-inikiewr0395571.shtml",
+      "content": "香港联交所最新数据显示，7月23日，Norges Bank减持康龙化成（03759）5.52万股，每股作价23.6254港元，总金额约为130.41万港元。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "23:34",
+      "keywords": [
+        "康龙化成",
+        "减持"
+      ]
+    },
+    {
+      "title": "大唐新能源遭BlackRock,Inc.减持3190.8万股 每股作价约1.28港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-28/doc-inikiewm2612221.shtml",
+      "content": "香港联交所最新数据显示，7月21日，BlackRock，Inc．减持大唐新能源（01798）3190.8万股，每股作价1.281港元，总金额约为4087.41万港元。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "23:34",
+      "keywords": [
+        "大唐新能源",
+        "减持"
+      ]
+    },
+    {
+      "title": "安东油田服务获Pro Development Holdings Corp.增持190万股 每股作价约0.83港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-28/doc-inikiewr0394445.shtml",
+      "content": "香港联交所最新数据显示，7月22日，Pro Development Holdings Corp．增持安东油田服务集团（03337）190万股，每股作价0.8320港元，总金额约为158.08万港元。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "23:33",
+      "keywords": [
+        "安东油田服务集团",
+        "增持"
+      ]
+    },
+    {
+      "title": "泽连斯基将会晤美参议院全体议员 对俄制裁案可望表决",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikiewn9388071.shtml",
+      "content": "两名参议院助手表示，乌克兰总统泽连斯基周二晚间将在华盛顿会晤美国参议院全体100名议员。泽连斯基此次访问华府是为了出席已故共和党参议员林赛·格雷厄姆（Lindsey...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "23:31",
+      "keywords": []
+    },
+    {
+      "title": "中际旭创H股定价980港元 534亿募资成年内港股最大IPO",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/2026-07-28/doc-inikiewm2611121.shtml",
+      "content": "中际旭创（3308.HK）今日（7月28日）公告，确定H股发售价为每股980.00港元。公司预计7月29日公布国际发售及香港公开发售的分配结果；若全球发售于7月30日上午八时前成为无...",
+      "priority": "low",
+      "sectors": [
+        "光模块"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "23:30",
+      "keywords": []
+    },
+    {
+      "title": "豆价上下两难，产业企业锚定基差布局远期",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-07-28/doc-inikiewr0394189.shtml",
+      "content": "来源：期货日报 7月下旬，黑龙江大豆步入开花、结荚、鼓粒的关键生长期。近期，豆一期货2609合约价格在4760元/吨附近徘徊。当前价位令不少现货贸易商直呼“低估”...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "23:22",
+      "keywords": []
+    },
+    {
+      "title": "日本首相最快周四将下令下调消费税",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikiewm2603712.shtml",
+      "content": "据媒体援引不愿具名官员消息，日本首相高市早苗最快将于周四下达相关政令，启动食品饮料类商品消费税降至 1%、并维持两年的落地流程。",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "23:07",
+      "keywords": []
+    },
+    {
+      "title": "7月28日隔夜要闻：美股涨跌不一 油价大幅回落 特朗普称美伊正进行谈判 SK海力士美股破发",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-28/doc-inikiewr0378627.shtml",
+      "content": "市场 7月28日收盘：美股涨跌不一道指收高260点 油价大幅回落 7月28日美股成交额前20：芯片股普跌，SK海力士破发 7月28日热门中概股普涨 阿里巴巴涨2.56%，拼多多涨2...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "23:02",
+      "keywords": []
+    },
+    {
+      "title": "对话世界黄金协会全球研究负责人安凯：金价大回调后，历史会重演吗？",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/roll/2026-07-28/doc-inikiewh8096561.shtml",
+      "content": "当金价从历史性的巅峰骤然跌落，全球投资者发现自己正站在一个迷雾重重的十字路口。 世界黄金协会美洲区CEO兼全球研究负责人安凯（Juan Carlos...",
+      "priority": "low",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "23:00",
+      "keywords": []
+    },
+    {
+      "title": "美国政府要求最高法院恢复特朗普邮寄投票行政令效力",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-28/doc-inikiewr0376358.shtml",
+      "content": " 特朗普政府已要求美国最高法院允许联邦官员在11月中期选举前推进总统对邮寄选票制度的改革。此前，下级法院阻止该计划在全美近半数地区实施。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "22:59",
+      "keywords": []
+    },
+    {
+      "title": "CME推出个股期货：支持美股热门股票近24小时交易，瞄准散户市场",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-07-28/doc-inikiewm2597030.shtml",
+      "content": "来源：华尔街见闻 芝商所正式推出55只美股单股期货及22只微型合约，标的涵盖英伟达、特斯拉、SpaceX等明星股票，支持23小时近乎全天候交易。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "22:50",
+      "keywords": []
+    },
+    {
+      "title": "7月28日财经早餐：美伊和谈希望重燃打压避险买需，黄金冲高回落失守4115，原油遭遇“黑色星期一”狂泻超9%",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-07-28/doc-inikiewh8089306.shtml",
+      "content": "汇通财经APP讯——周二（北京时间7月28日）亚市早盘，现货黄金交投于4075美元/盎司附近，金价周一一度触及4115美元/盎司上方，受美伊冲突暂缓导致油价大跌至一周低点提振...",
+      "priority": "low",
+      "sectors": [
+        "能源",
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "22:49",
+      "keywords": []
+    },
+    {
+      "title": "AI安全风波持续发酵，奥特曼和黄仁勋将赴国会山与民主党参议员会面",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-28/doc-inikhyqp2721889.shtml",
+      "content": "OpenAI首席执行官山姆·奥特曼和英伟达首席执行官黄仁勋本周将在华盛顿与美国参议员马克·华纳（Mark Warner）会面，这位民主党参议员的发言人周一表示。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "22:38",
+      "keywords": []
+    },
+    {
+      "title": "WTI扩大跌幅 特朗普称美伊正进行谈判",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-28/doc-inikhyqp2716079.shtml",
+      "content": "油价扩大跌幅，此前美国总统唐纳德·特朗普表示，美国与伊朗正进行谈判，以结束中东冲突。 WTI跌破每桶82美元，周一跌幅超过7%。布伦特周一收于每桶88美元附近...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "22:18",
+      "keywords": []
+    },
+    {
+      "title": "CME全天候黄金期货上线首周末需求强劲，成交近1.5万份合约，散户积极入场",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/nmetal/gjshz/2026-07-28/doc-inikhyqq9492554.shtml",
+      "content": "来源：华尔街见闻 CME集团金属业务全球主管表示：“黄金是一种全球性的避险资产，而全球事件并不会在周末停止。此次上线表明，散户交易者已经准备好并且正在等待一种全天候...",
+      "priority": "low",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "22:16",
+      "keywords": []
+    },
+    {
+      "title": "600名以色列前高官联名致信特朗普 警告约旦河西岸局势或升级",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-28/doc-inikhyqt0485170.shtml",
+      "content": "转自：央视新闻 据以色列方面27日消息，约600名以色列军方、警方、国家安全总局以及情报和特勤局前高级官员联合致信美国总统特朗普...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "22:11",
+      "keywords": []
+    },
+    {
+      "title": "Anthropic：从未倡导过禁止公开权重模型",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-07-28/doc-inikhyqk8196306.shtml",
+      "content": "Anthropic回应近期相关说法，称其从未主张全面封禁开放权重人工智能模型。 公司首席执行官达里奥·阿莫代伊表示，该企业并不认同“开放权重模型本身更便于搭建AI安全防护机制...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "22:05",
+      "keywords": []
+    },
+    {
+      "title": "7月28日外盘头条：特朗普称若谈判破裂将强力打击伊朗 苹果重夺全球市值第一宝座 英伟达循环融资再引忧虑",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-28/doc-inikhyqk8195688.shtml",
+      "content": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、特朗普称美伊“积极谈判” 警告若未果将恢复打击 2、卫星图像显示沙特石油设施现浓烟 交易员神经紧绷 3...",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "22:00",
+      "keywords": []
+    },
+    {
+      "title": "特朗普称美伊“积极谈判” 警告若未果将恢复打击",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-28/doc-inikhyqp2709687.shtml",
+      "content": " 美国总统特朗普周一表示，美国正在与伊朗进行“积极的谈判”，双方有可能就冲突达成协议，但他警告称，若谈判未能取得成果，美国将恢复军事打击。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "21:56",
+      "keywords": []
+    },
+    {
+      "title": "国内动力煤价格企稳回升 后续或保持高位震荡格局",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-28/doc-inikhyqk8187608.shtml",
+      "content": "本报记者韩昱 中国煤炭市场网数据显示，截至7月24日，“CCTD环渤海动力煤现货参考价”5500K、5000K、4500K三个规格品分别收于826元/吨、736元/吨、643元/吨...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "21:48",
+      "keywords": []
+    },
+    {
       "title": "苹果超越英伟达，时隔一年多重回全球市值第一宝座",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-07-28/doc-inikhyqp2699891.shtml",
@@ -793,7 +1109,7 @@
       "title": "特朗普：美国已从委内瑞拉石油销售中获利超130亿美元",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-07-28/doc-inikhyqk8165291.shtml",
-      "content": "美国总统特朗普周一表示，自推翻前总统尼古拉斯·马杜罗以来，美国已从委内瑞拉原油销售中收取超过130亿美元。 美国在1月3日的一次军事突袭中抓获马杜罗后...",
+      "content": "美国总统特朗普周一表示，美国已从委内瑞拉原油销售中收取超过130亿美元。 美国在1月3日的一次军事突袭中抓获马杜罗后，接管了委内瑞拉石油出口的控制权。",
       "priority": "low",
       "sectors": [
         "能源"
@@ -815,6 +1131,20 @@
       "period": "night",
       "date": "2026-07-27",
       "time": "20:45",
+      "keywords": []
+    },
+    {
+      "title": "多家公司同日停牌谋易主 A股“卖壳”潮涌动",
+      "source": "中国证券报-中证网",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-28/doc-inikhyqt0431240.shtml",
+      "content": "● 本报记者杨梓岩 7月27日，A股市场出现一幕扎堆景象——普联软件、欣天科技、佳云科技、贝肯能源、联创电子等上市公司同时处于停牌状态，且均因筹划控制权变更事宜。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-27",
+      "time": "20:43",
       "keywords": []
     },
     {
@@ -858,317 +1188,6 @@
       "period": "night",
       "date": "2026-07-27",
       "time": "20:36",
-      "keywords": []
-    },
-    {
-      "title": "原油：油价下挫 中东及黑海供应威胁缓解",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-28/doc-inikhyqq9454048.shtml",
-      "content": "油价创逾三个月来最大跌幅，因为美国暂停每日对伊朗发动空袭，同时油轮恢复前往近期一度中断运营的哈萨克斯坦原油出口终端装货，缓解了此前多重因素挤压下的供应紧张局面。...",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "20:32",
-      "keywords": []
-    },
-    {
-      "title": "英伟达CEO黄仁勋赴国会山磋商AI相关议题",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/7x24/2026-07-28/doc-inikhyqk8138263.shtml",
-      "content": "英伟达方面周一对外透露，公司首席执行官黄仁勋将在华盛顿会见国会议员，商讨美国如何维持人工智能领域全球领先地位。 这家芯片厂商的发言人表示...",
-      "priority": "low",
-      "sectors": [
-        "半导体",
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "20:31",
-      "keywords": []
-    },
-    {
-      "title": "BuzzFeed启动重组，裁员约35%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/7x24/2026-07-28/doc-inikhuhr2806609.shtml",
-      "content": " 美国知名数字新媒体平台BuzzFeed董事会已于7月22日批准裁员重组方案，计划在全球各地区、各业务线裁减约35%全职员工及专属外包人员，以此压缩运营成本。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "20:24",
-      "keywords": []
-    },
-    {
-      "title": "夏普全资收购越南太阳能EPC与运维公司，拓展储能业务",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhr2801384.shtml",
-      "content": "夏普公司周一宣布，其子公司Sharp Energy Solutions Corporation已于6月30日完成对越南合资企业Sharp NSN Energy Solution JSC的全面收购...",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:59",
-      "keywords": []
-    },
-    {
-      "title": "SK海力士265亿美元上市推动韩元反弹，韩国政府敦促企业汇回美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhv0539408.shtml",
-      "content": "韩国芯片制造商SK海力士通过其创纪录的美国存托凭证上市筹集了265亿美元，并将部分收益转换为韩元，推动韩元汇率强势反弹。这一大规模美元抛售行为展现了大型出口商外汇活...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:56",
-      "keywords": []
-    },
-    {
-      "title": "建筑设备租赁商EquipmentShare因IPO披露问题面临证券欺诈集体诉讼",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhr2800481.shtml",
-      "content": "律师事务所Frank R． Cruz宣布对EquipmentShare.com Inc．展开调查，并鼓励在2026年1月23日至6月23日期间购买该公司股票的投资者联系律所...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:55",
-      "keywords": []
-    },
-    {
-      "title": "Datavault AI签约美国职业棒球大联盟传奇投手古登为NILX品牌大使",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhs9576810.shtml",
-      "content": "数据货币化与数字资产技术提供商Datavault AI Inc．周一宣布，已与美国职业棒球大联盟（Major League Baseball）传奇投手德怀特·古登签署协议...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:53",
-      "keywords": []
-    },
-    {
-      "title": "航空航天技术供应商Astronics在英国上诉案中取得有利裁决",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhr2799359.shtml",
-      "content": "航空航天技术供应商Astronics Corporation周一宣布，在与汉莎技术公司的长期专利侵权纠纷中，英国上诉法院作出了有利判决。此次上诉审理于7月初进行...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:51",
-      "keywords": []
-    },
-    {
-      "title": "捷蓝航空简化机票选购流程，为首推头等舱铺路",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhv0535838.shtml",
-      "content": "捷蓝航空周一宣布，将推出一套更简洁、直观的机票选购流程，旨在方便顾客比较不同的机上体验，并根据自身偏好选择票价选项。此举是为公司计划于今年晚些时候推出的全新国内...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:49",
-      "keywords": []
-    },
-    {
-      "title": "Rocket Lab获2.66亿美元太空军合同，股价上涨3.4%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhv0532524.shtml",
-      "content": " Rocket Lab周一宣布，已与美国太空军签署一份价值2.66亿美元的多发射合同，这是该公司迄今为止获得的最大单笔发射合同。受此消息提振，公司股价周一尾盘上涨3.4%。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:43",
-      "keywords": []
-    },
-    {
-      "title": "亚马逊Leo拟部署5105颗卫星，进军手机直连通信市场",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhs9571377.shtml",
-      "content": "亚马逊旗下卫星网络计划Amazon Leo已向美国联邦通信委员会提交申请，计划部署最多5105颗低轨卫星，用于提供直接面向移动设备的语音、数据和应急通信服务。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:37",
-      "keywords": []
-    },
-    {
-      "title": "财险互助集团Andover Companies携手Cognizant，开启五年技术现代化与AI创新合作",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhv0527319.shtml",
-      "content": "拥有近200年历史的财险互助集团Andover Companies周一宣布，与Cognizant建立一项为期五年的企业级战略合作伙伴关系，旨在对其核心系统与门户进行现代化升级...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:35",
-      "keywords": []
-    },
-    {
-      "title": "俄亥俄河谷银行Q2净利润下滑30.5%，贷款增长强劲但拨备大幅增加",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhr2792297.shtml",
-      "content": "俄亥俄河谷银行周一公布2026年第二季度财报，净利润为293万美元，合每股收益0.62美元，较去年同期的421万美元下降30.5%。上半年净利润为722万美元，合每股收益1.53美元...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:30",
-      "keywords": []
-    },
-    {
-      "title": "日本多家企业联手启动“瓦特-比特”分布式AI验证实验",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhn8241672.shtml",
-      "content": "为应对AI算力激增带来的电力挑战，Nautilus Technologies、富士通、IIJ及东京电力电网等六家日本企业于今日宣布，正式启动一项旨在实现“瓦特-比特融合愿景”的下一代分布式A...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:28",
-      "keywords": []
-    },
-    {
-      "title": "阿斯利康Q2核心每股收益超预期，重申2030年800亿美元营收目标",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhv0523711.shtml",
-      "content": " 制药巨头阿斯利康周一发布的第二季度财报显示，得益于肿瘤和罕见病业务的强劲增长，公司核心每股收益超出市场预期，并重申了2030年实现800亿美元年收入的目标。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:27",
-      "keywords": []
-    },
-    {
-      "title": "特斯拉英国5G专利案获胜诉，有望推动联网汽车上市",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhs9567827.shtml",
-      "content": "英国最高法院周一推翻了此前两项不利裁决，裁定特斯拉可以继续向InterDigital及专利许可平台Avanci寻求5G标准必要专利的公平许可条款。",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:22",
-      "keywords": []
-    },
-    {
-      "title": "华纳兄弟探索起诉亚马逊“盗取”高管",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhr2790900.shtml",
-      "content": "华纳兄弟探索公司已正式对亚马逊提起诉讼，指控这家科技巨头策划了一场“目无法纪的员工采购狂欢”，系统性地挖角其合同期内的高管。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:21",
-      "keywords": []
-    },
-    {
-      "title": "英伟达牵头成立开放安全AI联盟，应对Hugging Face入侵事件",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhv0521560.shtml",
-      "content": "芯片巨头英伟达联合微软、IBM、Palantir、CrowdStrike、Hugging Face等数十家科技企业，共同发起成立“开放安全AI联盟”，旨在开发并共享开放模型、数据及安全工具...",
-      "priority": "low",
-      "sectors": [
-        "半导体",
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:20",
-      "keywords": []
-    },
-    {
-      "title": "美国稀土供应缺口至少4.77万吨，2027年国防禁令面临挑战",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhs9566968.shtml",
-      "content": "距离美国国防供应链全面禁止采购某些外国产关键矿物的最后期限仅剩五个月，本土产能与需求间的巨大鸿沟正变得难以逾越。数据显示，2025年美国对最常用稀土磁材的需求约为4...",
-      "priority": "low",
-      "sectors": [
-        "有色"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:17",
-      "keywords": []
-    },
-    {
-      "title": "芝商所推出个股期货，允许投资者全天23小时交易SpaceX、美光等股票",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhr2789433.shtml",
-      "content": "芝加哥商品交易所集团周一推出了基于55只美国股票的现金结算个股期货，以及基于22只股票的微型合约，标志着该交易所进军一个旨在让投资者全天候进行杠杆式多空交易的市场。...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:13",
-      "keywords": []
-    },
-    {
-      "title": "美伊暂停交火，特朗普淡化军火库存消耗担忧",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhr2789015.shtml",
-      "content": "周一，美国与伊朗之间的敌对行动暂时休战似乎得以维持，尽管德黑兰否认了媒体关于其已同意停火十天的报道。 然而，受此进展影响，油价大幅下跌...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:12",
-      "keywords": []
-    },
-    {
-      "title": "英伟达拟为OpenAI提供2500亿美元担保，撬动5000亿算力基建",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikhuhr2786308.shtml",
-      "content": "芯片巨头英伟达正与OpenAI进行一项规模空前的融资谈判，计划提供约2500亿美元的融资担保，以支持后者租用位于美国俄亥俄州南部的一个巨型数据中心园区。",
-      "priority": "low",
-      "sectors": [
-        "半导体",
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-07-27",
-      "time": "19:06",
       "keywords": []
     },
     {
