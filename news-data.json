@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T18:00:57.643406",
+  "updated": "2026-07-28T20:04:07.587358",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,53 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 20,
-    "medium": 24,
-    "low": 106
+    "high": 17,
+    "medium": 28,
+    "low": 105
   },
   "items": [
+    {
+      "title": "苹果市值首次触及5万亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpt0109436.shtml",
+      "content": "苹果周二盘中市值首次触及5万亿美元，此前一天刚刚超越英伟达成为市值最高的上市公司。 这家iPhone制造商将于周四公布季度业绩，其股价今年已上涨25%...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:18",
+      "keywords": []
+    },
+    {
+      "title": "马斯克旗下股票市值蒸发1.5万亿美元 SpaceX锁定期解除在即迎来新考验",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpz2804195.shtml",
+      "content": "对埃隆·马斯克来说，这是艰难的一个月——如果这个世界首富也会有“艰难”这回事的话。 自六月中旬以来，SpaceX和特斯拉的市值已累计蒸发1.5万亿美元...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:16",
+      "keywords": []
+    },
+    {
+      "title": "艾马克技术公司二季度业绩创纪录但仍暴跌逾24%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikkxfz6145253.shtml",
+      "content": "半导体封装与测试服务提供商艾马克技术公司（Amkor Technology）周一盘后公布了创纪录的第二季度财报，营收与盈利均大幅超出市场预期...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:03",
+      "keywords": []
+    },
     {
       "title": "油价下跌叠加美联储利率决议在即，美债收益率小幅走低",
       "source": "环球市场播报",
@@ -38,91 +80,6 @@
       "period": "noon",
       "date": "2026-07-28",
       "time": "17:03",
-      "keywords": []
-    },
-    {
-      "title": "美股医疗、金融板块盘中创下历史新高",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikksyc6224184.shtml",
-      "content": "周二，科技板块行情疲软，资金持续转向传统行业，医疗、金融板块个股盘中双双刷新历史最高点位。 道富医疗行业 ETF（代码 XLV）最新涨幅 2...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "16:50",
-      "keywords": []
-    },
-    {
-      "title": "皇家加勒比财报业绩、全年业绩指引双双上调，股价大涨",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikksyf3005074.shtml",
-      "content": "邮轮运营商皇家加勒比发布二季度财报，营收、利润均超出市场预期，公司股价上涨 4%。 经调整后每股收益达 4.21 美元，高于 FactSet 汇总分析师给出的预期值 3...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "16:48",
-      "keywords": []
-    },
-    {
-      "title": "Kalshi预判：Meta财报电话会主推智能眼镜，回避社交媒体监管政策话题",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikksyf2991039.shtml",
-      "content": "核心要点 Meta 将于美股周三收盘后发布财报。预测交易平台卡尔希（Kalshi）的交易者判断，公司会在财报电话会议重点推介雷朋联合 Meta 智能眼镜。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "16:16",
-      "keywords": []
-    },
-    {
-      "title": "美股周二午盘走高，道指因强劲财报飙升600点，软件股反弹助力纳指转涨",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikksxz1872507.shtml",
-      "content": " 北京时间7月29日凌晨，美股周二午盘走高，道指上涨逾600点。软件股反弹推动纳指转涨。市场继续关注美股财报与中东局势。美联储将在周三公布货币政策会议决议。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "16:08",
-      "keywords": []
-    },
-    {
-      "title": "能源价格走高叠加AI资本开支热潮，美联储与沃什陷入政策两难",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksyf2969064.shtml",
-      "content": "数周以来，投资者始终惴惴不安：AI 领域大举烧钱，但技术承诺的经济红利尚未兑现。 上周谷歌母公司 Alphabet 首席执行官桑达尔・皮查伊解释公司再度大幅上调资本开支预期时...",
-      "priority": "high",
-      "sectors": [
-        "能源",
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "15:23",
-      "keywords": []
-    },
-    {
-      "title": "生物科技公司Capricor Therapeutics面临FDA质疑与证券欺诈调查 股价连续暴跌",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksxz1845469.shtml",
-      "content": " 生物科技公司Capricor Therapeutics正面临严峻挑战，其股价近期大幅下挫——周一该股收盘重挫64.49%，周二早盘再跌逾15%。",
-      "priority": "high",
-      "sectors": [
-        "医药"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "15:15",
       "keywords": []
     },
     {
@@ -320,129 +277,185 @@
       ]
     },
     {
-      "title": "欧洲股市受企业财报提振走强 联合利华跃升8%",
+      "title": "金融服务公司Principal Financial Group获评全球残障包容领先企业",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-29/doc-inikksxx0297610.shtml",
-      "content": "欧洲股市上涨，联合利华和赛峰股份等公司的业绩表现乐观，同时市场对中东实现和平的希望重燃，也提振了投资者情绪。 斯托克欧洲600指数收盘上涨0.3%...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "16:57",
-      "keywords": []
-    },
-    {
-      "title": "7月美国消费者信心指数小幅回落",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikksyc6220734.shtml",
-      "content": "美国经济咨商局周二发布数据，7 月消费者情绪略有走弱。民众依旧担忧通胀压力，对就业市场前景的悲观情绪有所加重。 咨商局月度消费者信心指数小幅降至 90.8 点。",
-      "priority": "medium",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "16:45",
-      "keywords": []
-    },
-    {
-      "title": "Truist任命John Stucker为美国中部市场销售负责人",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksyf2982952.shtml",
-      "content": "Truist Financial Corporation宣布，John Stucker已加入公司，担任新设立的中部市场销售负责人一职，旨在推动增长并提升中部市场银行业务的销售执行力。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "15:55",
-      "keywords": []
-    },
-    {
-      "title": "能源技术公司Laredo Oil公布国际业务拓展进展 聚焦UGD技术商业化",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksyf2979504.shtml",
-      "content": "Laredo Oil公司近日向股东提供了国际业务发展的最新情况。过去一年来，公司积极与多国政府官员、国家石油公司和行业领袖接洽，致力于将其专有的地下重力泄油（UGD）技术推...",
-      "priority": "medium",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "15:45",
-      "keywords": []
-    },
-    {
-      "title": "康宁财报出炉大跌18%，带崩光通信板块集体重挫",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksxz1860699.shtml",
-      "content": "核心要点 康宁发布二季度财报后股价大跌，拖累人工智能产业链一众光通信元器件股票集体走弱。 本次下跌创下该股自 2002 年 7 月 30 日以来单日最大跌幅。",
-      "priority": "medium",
-      "sectors": [
-        "光模块"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "15:43",
-      "keywords": []
-    },
-    {
-      "title": "美国7月消费者信心下降 民众对营商环境和就业市场看法恶化",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-28/doc-inikksxx0240336.shtml",
-      "content": "美国7月消费者信心下降，民众对当前商业环境和劳动力市场的看法恶化。 世界大型企业联合会周二公布的数据显示，消费者信心指数下降1.4点至90.8...",
-      "priority": "medium",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "15:11",
-      "keywords": []
-    },
-    {
-      "title": "宠物与园艺消费品公司Central Garden & Pet将于8月5日发布2026财年第三季度财报",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksxx0237141.shtml",
-      "content": "宠物与园艺消费品公司Central Garden &amp; Pet Company宣布，将于2026年8月5日美股收盘后发布截至2026年6月27日的第三财季财务业绩。",
-      "priority": "medium",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "15:05",
-      "keywords": []
-    },
-    {
-      "title": "Visa公司将裁员7% 以提升效率应对支付行业竞争",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-28/doc-inikksyf2959086.shtml",
-      "content": "Visa公司将裁减约2，600个岗位，首席执行官Ryan McInerney正寻求提升公司运营效率，以应对支付行业日益激烈的竞争。 根据员工备忘录，McInerney周二表示...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "14:58",
-      "keywords": []
-    },
-    {
-      "title": "金融控股公司Pathward Financial因贷款欺诈与业绩披露遭证券欺诈调查",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksyc6176660.shtml",
-      "content": " Pathward Financial近日宣布，因其第三财季财报中披露的大额贷款损失拨备及可疑欺诈事件，公司正面临多家律师事务所的证券欺诈调查，导致股价大幅下跌。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpx6031878.shtml",
+      "content": " 金融服务公司Principal Financial Group近日宣布，凭借其在残障包容领域的卓越表现，被全球权威基准评测工具“残障指数”评为“世界顶级残障包容企业”。",
       "priority": "medium",
       "sectors": [
         "金融"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-07-28",
-      "time": "14:57",
+      "time": "19:45",
+      "keywords": []
+    },
+    {
+      "title": "数据隐私非营利组织借助ZoomInfo实现捐赠翻倍",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpx6030343.shtml",
+      "content": "数据隐私非营利组织The Plunk Foundation在采用ZoomInfo平台约一年后，成功将捐款额翻倍。该基金会成立于2022年，致力于保护儿童和弱势群体的数据隐私...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:41",
+      "keywords": []
+    },
+    {
+      "title": "UPS完成亚马逊业务缩减并上调业绩指引，股价仍跌6.4%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpz2810875.shtml",
+      "content": "联合包裹服务公司周二公布的第二季度财报显示，公司通过战略性缩减低利润的亚马逊业务，实现了营收与利润的双增长，并上调了全年业绩指引。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:38",
+      "keywords": []
+    },
+    {
+      "title": "开利全球公司数据中心订单激增超300% 上调全年业绩指引",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpv1720663.shtml",
+      "content": "智能气候与能源解决方案提供商开利全球公司（Carrier, CARR）周二公布的第二季度财报显示，受益于数据中心需求带来的订单大幅增长，公司营收和利润均超出市场预期...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:36",
+      "keywords": []
+    },
+    {
+      "title": "独立顾问机构Egan-Jones建议XFLT股东否决更换副投资顾问提案",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpv1718920.shtml",
+      "content": "独立代理顾问机构Egan-Jones Ratings Company建议XAI浮动利率与另类收益信托的股东，在7月30日召开的股东特别大会上，投票否决将现任副投资顾问Octagon Credit...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:33",
+      "keywords": []
+    },
+    {
+      "title": "教育科技公司Liaison携手ZoomInfo，以ABM策略重构高等教育招生模式",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpt0112651.shtml",
+      "content": " 教育科技公司Liaison宣布与上市企业情报平台ZoomInfo达成合作，将其招生与营销工作全面转向基于客户的营销模式，以更精准、高效地触达潜在生源。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:28",
+      "keywords": []
+    },
+    {
+      "title": "PayPal二季度业绩超预期并上调全年展望 转型计划初显成效",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpv1713609.shtml",
+      "content": " 支付巨头PayPal周二公布的第二季度财报显示，公司营收和利润均超出市场预期，并上调了全年盈利指引，表明新任CEO领导下推进的转型计划正取得初步进展。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:20",
+      "keywords": []
+    },
+    {
+      "title": "保险经纪公司Brown & Brown Q2业绩喜忧参半 营收猛增三成但有机增长疲软",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpx6022610.shtml",
+      "content": "保险经纪公司Brown &amp; Brown周二公布的第二季度财报显示，受收购Accession驱动，总营收同比大增30.4%至约17亿美元，但剔除收购和或有佣金影响后...",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:17",
+      "keywords": []
+    },
+    {
+      "title": "公用事业公司CenterPoint Energy Q2业绩稳健增长，上调资本计划至460亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikkxfz6153053.shtml",
+      "content": " 公用事业公司CenterPoint Energy周二公布的第二季度财报显示，公司营收和利润均实现增长，同时宣布上调多年期资本投资计划，并重申了长期每股收益增长目标。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:16",
+      "keywords": []
+    },
+    {
+      "title": "订单激增与数据中心需求强劲，开利上调全年业绩指引",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikkxhc2933914.shtml",
+      "content": "智能气候与能源解决方案提供商开利全球公司周二公布的第二季度财报显示，公司营收和利润均超出市场预期，受益于数据中心需求带来的订单大幅增长...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:13",
+      "keywords": []
+    },
+    {
+      "title": "美国电塔公司上调年度业绩指引，CoreSite租赁创新高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikkxhc2931002.shtml",
+      "content": "美国电塔公司（American Tower）周二公布的财报显示，第二季度营收和利润均超出市场预期，同时受益于数据中心的强劲表现和有利的汇率变动...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:08",
+      "keywords": []
+    },
+    {
+      "title": "AMD签下2.5吉瓦AI数据中心大单，股价仍跌7.1%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikkxfv0231265.shtml",
+      "content": " 尽管AMD周一宣布与Core Scientific签署了高达2.5吉瓦的AI数据中心合作协议，但受整个芯片板块疲软拖累，AMD股价在周二尾盘下跌约7.1%。",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:04",
+      "keywords": []
+    },
+    {
+      "title": "尾盘：道指上涨约600点 纳指小幅下跌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikkxfv0224772.shtml",
+      "content": "北京时间7月29日凌晨，美股周二尾盘，主要股指走势分化。交易员正在消化最新一批企业财报，而半导体板块继续承压。 道指涨596.86点，涨幅为1.14%，报52806.94点；纳指跌24...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "18:53",
       "keywords": []
     },
     {
@@ -688,6 +701,398 @@
       ]
     },
     {
+      "title": "伊朗：过去16-17天从未请求与美国谈判",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpv1734251.shtml",
+      "content": "伊朗副外长Kazem Gharibabadi表示：“我们从未请求与美国谈判，也没有向美方提出过停火请求。” 他称，是美国方面通过阿曼传话并提出了结束冲突的方案。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "20:03",
+      "keywords": []
+    },
+    {
+      "title": "超过1100名顶尖AI企业员工联名呼吁华府放慢前沿人工智能发展步伐",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpx6037710.shtml",
+      "content": "在OpenAI披露其AI工具意外入侵另一家公司的内部系统后，超过1100名来自领先人工智能企业的员工签署了一份倡议书，呼吁美国政府支持建立一种机制...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "20:02",
+      "keywords": []
+    },
+    {
+      "title": "Visa计划裁员2600人 周二尾盘股价上涨1.6%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpz2815733.shtml",
+      "content": "全球支付处理公司Visa股价在周二尾盘交易中上涨约1.6%，此前有报道称该公司计划裁减约7%的员工，涉及约2600个职位。这一消息来自彭博新闻社报道的一份员工备忘录。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:50",
+      "keywords": []
+    },
+    {
+      "title": "Radoff-JEC集团再提优化收购要约，每股现金2.55美元加CVR",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpz2815031.shtml",
+      "content": "投资集团Radoff-JEC于7月28日向生物技术公司Seer， Inc．提交了第四份优化的非约束性收购要约，提议以每股2.55美元现金加一项或有价值权收购公司全部股权。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:48",
+      "keywords": []
+    },
+    {
+      "title": "美国数字金融服务平台SoFi与圣母大学达成多年期里程碑式合作协议",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpz2814549.shtml",
+      "content": "美国数字金融服务平台SoFi与圣母大学体育部宣布达成一项多年期合作协议。SoFi正式成为圣母大学体育部的官方金融服务合作伙伴，同时也是首个以球衣广告形式出现在该校所有运...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:47",
+      "keywords": []
+    },
+    {
+      "title": "银行控股公司Third Coast Bancshares将敲响纽交所收盘钟",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpx6032222.shtml",
+      "content": "总部位于德克萨斯州的银行控股公司Third Coast Bancshares， Inc．宣布，公司创始人、董事长、总裁兼首席执行官将率董事会成员、高管团队及优秀员工代表...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:46",
+      "keywords": []
+    },
+    {
+      "title": "林德宣布2026年第三季度股息",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpz2813400.shtml",
+      "content": " 全球领先的工业气体和工程公司林德（Linde plc）周二宣布，其董事会已批准派发每股1.60美元的季度股息。该股息将于2026年9月17日支付给9月3日登记在册的股东。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:44",
+      "keywords": []
+    },
+    {
+      "title": "医疗机器人公司PROCEPT BioRobotics因秘密折扣计划面临证券欺诈集体诉讼",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpz2812947.shtml",
+      "content": "医疗机器人公司PROCEPT BioRobotics正面临证券欺诈集体诉讼。该诉讼代表在2024年2月28日至2026年2月25日期间购买该公司股票的投资者提起...",
+      "priority": "low",
+      "sectors": [
+        "机器人"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:43",
+      "keywords": []
+    },
+    {
+      "title": "富国银行宣布提高普通股季度股息",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpv1723921.shtml",
+      "content": "富国银行公司周二宣布，其董事会已批准将普通股季度股息提高至每股0.50美元，较此前的0.45美元增加0.05美元，涨幅为11%。该股息将于2026年9月1日支付给8月7日登记在册的股...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:41",
+      "keywords": []
+    },
+    {
+      "title": "Pathward Financial因财务披露问题面临证券欺诈调查",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpx6029967.shtml",
+      "content": "Pathward Financial正面临证券欺诈调查，该公司股价此前因大额贷款损失拨备及可疑欺诈事件而大幅下挫。领先的证券欺诈诉讼律所Glancy Prongay Wolke &amp; Rotter...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:40",
+      "keywords": []
+    },
+    {
+      "title": "Impartner借助ZoomInfo实现季度销售线索增长",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpv1722674.shtml",
+      "content": "渠道管理软件提供商Impartner近日宣布，通过与ZoomInfo的合作，其季度销售线索生成量实现增长。该公司此前重建了基于账户的营销项目，将分散的...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:39",
+      "keywords": []
+    },
+    {
+      "title": "F1商业峰会将于11月19日重返拉斯维加斯大奖赛周末",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpt0116079.shtml",
+      "content": "F1官方宣布，第二届F1商业峰会将于2026年11月19日（周四）在拉斯维加斯凯撒宫斗兽场举行，注册报名现已开放。在首届峰会成功举办的基础上，本届峰会将聚焦领导力...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:35",
+      "keywords": []
+    },
+    {
+      "title": "Starfighters Space推进“空中风洞”Mach 2+飞行测试平台研发",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpt0115547.shtml",
+      "content": "唯一运营商业超音速飞机机队的太空公司Starfighters Space宣布，其“空中风洞”可重复使用机载测试平台进入新开发阶段。该平台旨在为商业...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:34",
+      "keywords": []
+    },
+    {
+      "title": "信达思宣布季度现金股息",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpx6026155.shtml",
+      "content": " 信达思公司（Cintas Corporation）董事会宣布，将派发每股普通股1.77美元的季度现金股息。此次季度股息与上一季度持平，体现了公司通过稳定派息持续回报股东的长期承诺。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:31",
+      "keywords": []
+    },
+    {
+      "title": "能源基础设施有限合伙企业MPLX LP宣布季度现金分配",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpt0113577.shtml",
+      "content": "中游能源基础设施有限合伙企业MPLX LP董事会宣布，2026年第二季度每普通单位现金分配为1.0765美元，年化分配额为4.31美元。该分配将于2026年8月14日支付给8月7日登记在册的...",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:30",
+      "keywords": []
+    },
+    {
+      "title": "PSQ Holdings以550万美元现金出售EveryLife，聚焦金融科技核心业务",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpx6025022.shtml",
+      "content": "PSQ Holdings， Inc．宣布已达成一项最终协议，将其直营婴儿用品品牌EveryLife以550万美元现金出售给FreeHold Brands， LLC。该交易预计将于2026年9月30日前完成...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:26",
+      "keywords": []
+    },
+    {
+      "title": "医疗机器人公司PROCEPT BioRobotics因折扣披露问题遭证券欺诈诉讼",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpz2806791.shtml",
+      "content": " 医疗机器人公司PROCEPT BioRobotics正面临证券欺诈集体诉讼。诉讼指控公司在披露一项未公开的折扣计划方面存在问题，导致其股价大幅下跌。",
+      "priority": "low",
+      "sectors": [
+        "机器人"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:26",
+      "keywords": []
+    },
+    {
+      "title": "凯悦天地成Premier Lacrosse League官方酒店合作伙伴",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpx6024580.shtml",
+      "content": "凯悦旗下忠诚度计划“凯悦天地(World of Hyatt)”与Premier Lacrosse League及Women‘s Lacrosse League宣布达成一项多年合作协议，凯悦天地正式成为这两大职业长曲棍球联赛的...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:24",
+      "keywords": []
+    },
+    {
+      "title": "Safety Insurance集团拟售交易引投资者调查，律所质疑价格与程序公正性",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpv1714230.shtml",
+      "content": "路易斯安那州知名律师事务所Kahn Swick &amp; Foti， LLC宣布，正在对安全保险集团公司（Safety Insurance Group ）拟议中的出售交易进行调查...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:22",
+      "keywords": []
+    },
+    {
+      "title": "多元化工业集团德事隆公司二季度营收增长3% 供应链挑战与员工短缺持续",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpv1713316.shtml",
+      "content": "多元化工业集团德事隆公司（Textron Inc ，TXT）周二公布的第二季度财报显示，受益于航空和防务业务的稳定需求，公司营收实现温和增长...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:19",
+      "keywords": []
+    },
+    {
+      "title": "药企因塞特展现强劲商业化势头 营收猛增38%并上调全年预期",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikkxfz6152612.shtml",
+      "content": "生物制药公司因塞特（Incyte Corp （INCY））周二公布的第二季度财报显示，得益于核心产品的全面增长以及与政府就Opzelura返款纠纷达成和解带来的一次性收益...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:15",
+      "keywords": []
+    },
+    {
+      "title": "波音二季度营收与现金流均显著增长",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikkxhc2932009.shtml",
+      "content": " 波音公司周二发布的2026年第二季度财报显示，得益于商用飞机交付量增加，公司营收和现金流均实现显著增长，但受“空军一号”项目新增成本拖累，盈利端远不及市场预期。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:10",
+      "keywords": []
+    },
+    {
+      "title": "传英伟达签署500亿美元德州数据中心租约",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikkxfv0233449.shtml",
+      "content": "据多方报道，芯片巨头英伟达已与数据中心运营商Hut 8签署了一项长期租赁协议，租用其位于得克萨斯州Beacon Point的1吉瓦AI数据中心园区。",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:07",
+      "keywords": []
+    },
+    {
+      "title": "Meta携手贝莱德共建140亿美元AI数据中心园区",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikkxfv0232979.shtml",
+      "content": "Meta Platforms与全球最大资产管理公司贝莱德周二宣布成立合资企业，共同开发位于得克萨斯州埃尔帕索的数据中心园区，项目总开发成本约为140亿美元。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "19:06",
+      "keywords": []
+    },
+    {
+      "title": "小野药品与Phylo合作，为每位发现科学家配备智能体AI",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikkxhc2924439.shtml",
+      "content": " 小野药品工业株式会社（TYO： 4528，“小野”）与Phylo公司今日宣布达成合作，将Phylo面向生物医学研究的智能体AI平台Biomni Lab引入小野的药物发现科学家团队。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "18:57",
+      "keywords": []
+    },
+    {
+      "title": "特朗普在白宫会晤内塔尼亚胡 美国缓和对伊朗动武威胁",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-29/doc-inikmcpv1731332.shtml",
+      "content": " 美国总统唐纳德·特朗普周二在白宫会见以色列总理内塔尼亚胡。在美伊暂停互袭后，特朗普试图避免再次轰炸伊朗，并为进一步开展外交谈判铺路。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "18:50",
+      "keywords": []
+    },
+    {
+      "title": "美伊战争耗尽战略石油储备？库存降至1983年来最低",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-29/doc-inikkxhc2909144.shtml",
+      "content": " 美国战略石油储备（SPR）正承受巨大压力——为应对中东和欧洲战争而进行的大规模释油行动，使本就急需维修的老旧基础设施不堪重负。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "18:14",
+      "keywords": []
+    },
+    {
+      "title": "美国7年期国债拍卖中标收益率创2024年12月以来最高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-07-29/doc-inikkxfz6124349.shtml",
+      "content": " 美国财政部440亿美元7年期国债拍卖的中标收益率为4.473%，创2024年12月以来最高，超过纽约时间下午1点投标截止时4.471%的发行前收益率，显示需求略低于预期。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "18:04",
+      "keywords": []
+    },
+    {
       "title": "OpenAI与Anthropic员工传阅请愿书 拟呼吁华府放慢前沿AI发展步伐",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-07-29/doc-inikkxhc2890024.shtml",
@@ -741,414 +1146,6 @@
       "period": "noon",
       "date": "2026-07-28",
       "time": "17:00",
-      "keywords": []
-    },
-    {
-      "title": "欧洲债市：油价连跌提振欧洲债券 短债领涨",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-29/doc-inikksxx0298329.shtml",
-      "content": "随着油价连续第三个交易日走低，欧洲债券延续涨势。短债领涨，能源价格回落缓解了对通胀风险的担忧。 德国两年期国债收益率下跌4个基点至2.75%...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "16:58",
-      "keywords": []
-    },
-    {
-      "title": "闪迪股价较高位腰斩，较历史最高点下跌五成",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikksyf3004075.shtml",
-      "content": "闪存存储企业闪迪的股价，较 6 月高点已经下跌五成。 闪迪在 6 月 25 日收盘价报 2335 美元。受人工智能催生存储芯片紧缺行情拉动，该股 2026 年年内一路暴涨...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "16:47",
-      "keywords": []
-    },
-    {
-      "title": "波音Q2亏损大于预期，空军一号项目再计提2.8亿美元费用",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-29/doc-inikksxx0282713.shtml",
-      "content": " 波音周二公布季度亏损超出预期，其陷入困境的空军一号替换项目计入了2.8亿美元费用，不过随着公司扭亏为盈计划势头增强，其自由现金流转为正数。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "16:39",
-      "keywords": []
-    },
-    {
-      "title": "Kalshi交易员押注Meta财报：必提\"云\"，大概率提\"雷朋\"",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-29/doc-inikksyf2992909.shtml",
-      "content": "Meta将于周三收盘后公布财报。预测市场平台Kalshi的交易员认为，这家Instagram的母公司将在电话会议上重点推介其Ray-Ban Meta智能眼镜并发力云市场...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "16:23",
-      "keywords": []
-    },
-    {
-      "title": "亿贝及其前高管就博主骚扰跟踪案赔付5600万美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikksyc6208144.shtml",
-      "content": "核心要点 亿贝（eBay）宣布与马萨诸塞州一对夫妇达成和解，这对夫妻在 2019 年遭到针对性跟踪与恶意骚扰。 亿贝公司、前首席执行官及多名高管合计赔付近 5600 万美元。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "16:12",
-      "keywords": []
-    },
-    {
-      "title": "专业美发零售巨头Sally Beauty今秋重启COLORfest，新品发布与校园巡回体验齐登场",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikksxz1868948.shtml",
-      "content": " 专业美发零售巨头Sally Beauty宣布，将于今年秋季重启其大型品牌活动COLORfest。在春季成功试水后，此次将带来一场融合数百款新品发布与深入大学校园的沉浸式巡回体验。",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "16:03",
-      "keywords": []
-    },
-    {
-      "title": "现代汽车与迈阿密国际足球俱乐部续签多年赞助协议",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksyc6200045.shtml",
-      "content": "韩国现代汽车公司与美国职业足球大联盟迈阿密国际俱乐部共同宣布，双方已续签一项为期多年的全球赞助合作协议。此举旨在深化现代汽车在美国这一关键市场的品牌影响力...",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "15:52",
-      "keywords": []
-    },
-    {
-      "title": "美国2026年保险成本最低的十大SUV榜单",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksxx0259901.shtml",
-      "content": " 美国保险公司Mercury Insurance发布了2026年度保险成本最低的十大SUV榜单，为消费者在购车时提供了一个新的成本考量维度。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "15:49",
-      "keywords": []
-    },
-    {
-      "title": "初创企业与券商打造全天候AI智能交易代理，华尔街迎来全新业态",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksxz1863153.shtml",
-      "content": "核心要点 各大券商、创业公司乃至普通个人投资者都在搭建 AI 智能代理程序，用于资产监控，自动化完成以往需要人工操作的各类投资交易。",
-      "priority": "low",
-      "sectors": [
-        "金融",
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "15:48",
-      "keywords": []
-    },
-    {
-      "title": "电池制造商劲量控股宣布派发普通股季度股息",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksxx0256946.shtml",
-      "content": " 电池与便携照明产品制造商劲量控股公司宣布，其董事会已批准派发普通股季度股息，每股金额为0.30美元。该股息将于2026年9月9日支付，股权登记日为2026年8月19日收盘时。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "15:42",
-      "keywords": []
-    },
-    {
-      "title": "水表与流量仪器制造商Badger Meter证券欺诈集体诉讼原告截止日期临近",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksyc6195281.shtml",
-      "content": "水表与流量仪器制造商Badger Meter正面临证券欺诈集体诉讼，投资者申请担任首席原告的截止日期为2026年8月3日。该诉讼代表在2024年4月18日至2026年4月16日期间购买该公司普...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "15:40",
-      "keywords": []
-    },
-    {
-      "title": "量子技术公司Infleqtion任命Joseph Buck博士为量子计算系统高级副总裁",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksxz1854074.shtml",
-      "content": " 量子技术公司Infleqtion公司宣布，任命Joseph Buck博士为量子计算系统高级副总裁，自2026年7月27日起生效。Buck将负责领导公司可扩展中性原子量子计算机Sqale的开发工作。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "15:33",
-      "keywords": []
-    },
-    {
-      "title": "美国韩裔社区银行Hope银行推出K-pop主题营销活动 借势BTS提升品牌影响力",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksxz1851947.shtml",
-      "content": "美国韩裔社区银行Hope银行近日宣布，启动一项以K-pop文化为核心的品牌营销活动，通过赞助防弹少年团（BTS）在纽约举办的“BTS THE CITY ARIRANG”活动...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "15:29",
-      "keywords": []
-    },
-    {
-      "title": "在线招聘平台ZipRecruiter任命Carmen Chan为首席财务官",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksyf2971045.shtml",
-      "content": "在线招聘平台ZipRecruiter周二宣布，任命Carmen Chan为首席财务官，自2026年8月17日起生效。Chan将负责公司的会计和财务部门，协助推动长期财务战略...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "15:28",
-      "keywords": []
-    },
-    {
-      "title": "边缘AI芯片提供商BrainChip推出AKD1500 M.2模块 助力工业与商业无风扇边缘AI应用",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksyf2968107.shtml",
-      "content": " 边缘AI芯片提供商BrainChip近日宣布，其基于Akida神经形态处理器的AKD1500芯片现已推出紧凑型M.2模块，为工业与商业设计提供无风扇、即插即用的边缘AI解决方案。",
-      "priority": "low",
-      "sectors": [
-        "半导体",
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "15:20",
-      "keywords": []
-    },
-    {
-      "title": "为提升运营效率，维萨卡因人工智能重塑业务裁减7%员工",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksxx0243798.shtml",
-      "content": "核心要点 维萨计划裁撤约 2600 个岗位，裁员主要集中在技术与产品运营部门，裁员比例约占总员工数的 7%。 首席执行官瑞安・麦金纳尼表示...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "15:20",
-      "keywords": []
-    },
-    {
-      "title": "汽车后市场零售商AUTOBACS SEVEN与Rimini Street携手十年，实现系统稳定与自主创新",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksyf2964838.shtml",
-      "content": "日本领先的汽车后市场零售商AUTOBACS SEVEN近日庆祝了与Rimini Street公司长达十年的合作伙伴关系。自2016年将其核心SAP ECC 6系统切换至Rimini Support以来...",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "15:11",
-      "keywords": []
-    },
-    {
-      "title": "软件即服务提供商Upland Software发布CEO公开信 明确AI驱动型增长战略",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksxx0238946.shtml",
-      "content": "软件即服务 (SaaS) 提供商Upland Software近日发布致股东公开信，首席执行官阐述了公司在新领导层下的战略优先事项，明确将聚焦AI驱动的知识管理与内容自动化解决方案...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "15:08",
-      "keywords": []
-    },
-    {
-      "title": "电动汽车生产商Lucid Group证券欺诈集体诉讼原告截止日期为7月28日",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksyf2961701.shtml",
-      "content": "多家律师事务所提醒投资者，针对电动汽车制造商Lucid Group的证券欺诈集体诉讼，投资者申请担任首席原告的截止日期为2026年7月28日。",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "15:04",
-      "keywords": []
-    },
-    {
-      "title": "Corpay推出Agent Card功能，为安全智能体商业交易提供支付支持",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksxz1839223.shtml",
-      "content": "全球领先的企业支付解决方案提供商Corpay近日宣布推出Agent Card功能，这是一项为AI驱动的商业工作流提供安全虚拟卡创建的新服务。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "15:03",
-      "keywords": []
-    },
-    {
-      "title": "贝尔登获颁艾默生2025-2026年度供应商可持续发展奖",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksyf2960388.shtml",
-      "content": "完整连接解决方案提供商贝尔登公司（Belden）周二宣布，荣获艾默生公司颁发的2025-2026年度供应商可持续发展奖。该奖项旨在表彰在其全球供应体系中展现出卓越...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "15:02",
-      "keywords": []
-    },
-    {
-      "title": "Snowflake推出Cortex AI Gateway，为可信企业智能体时代奠定基础",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksyc6177796.shtml",
-      "content": "Snowflake公司近日宣布推出Cortex AI Gateway及多项AI安全创新功能，旨在帮助企业安全地扩展其智能体生态系统。这些新举措通过提供统一的监控和成本管理...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "15:00",
-      "keywords": []
-    },
-    {
-      "title": "旅行者保险向加州生命科学公司扩展产品责任险",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksxz1837098.shtml",
-      "content": " 旅行者保险公司宣布，其面向生命科学公司的产品责任险产品Travelers Synergy现已正式在加州上线。这标志着该产品在全美50个州的全面部署完成。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "14:58",
-      "keywords": []
-    },
-    {
-      "title": "资产型运输与物流公司Charger Logistics将部署第二代无人驾驶卡车",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksxx0232436.shtml",
-      "content": " Aurora Innovation与Charger Logistics达成新协议，后者将在其繁忙的美国货运线路上部署Aurora第二代无人驾驶卡车，以提升运力和资产利用率。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "14:56",
-      "keywords": []
-    },
-    {
-      "title": "苹果携手克拉纳推出iPhone租赁服务，月租低至17.99美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksxz1835268.shtml",
-      "content": "核心要点 美国苹果用户很快可租赁 iPhone，租期最长两年，月租起步价 17.99 美元。 该租赁项目名为 Apple Upgrade，苹果与先买后付服务商克拉纳（Klarna）合作落地...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "14:55",
-      "keywords": []
-    },
-    {
-      "title": "Enovation Controls连续五年获评英国最佳女性职场",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksyc6175757.shtml",
-      "content": " Helios Technologies旗下运营公司Enovation Controls近日被卓越职场评选为“2026年英国最佳女性职场”，这已是该公司连续第五年获此殊荣。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "14:54",
-      "keywords": []
-    },
-    {
-      "title": "光纤连接解决方案提供商Clearfield推出光纤传感新品 助力关键基础设施持续监测",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksyf2957167.shtml",
-      "content": "光纤连接解决方案提供商Clearfield公司周二宣布，扩展其光纤产品组合，新增温度、声波和应变传感电缆解决方案。该分布式光纤传感产品组合旨在帮助运营商持续监测外部光纤路...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "14:53",
-      "keywords": []
-    },
-    {
-      "title": "花旗推出贸易数字化解决方案 整合供应链金融服务",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksyf2956815.shtml",
-      "content": " 花旗集团近日宣布上线Citi Consolidate™解决方案，通过整合发票处理与供应链融资，为企业客户及其供应商打造端到端的贸易数字化服务。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "14:52",
-      "keywords": []
-    },
-    {
-      "title": "Xfinity高速互联网即将覆盖新罕布什尔州诺斯伍德",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-28/doc-inikksxz1833701.shtml",
-      "content": " 康卡斯特旗下Xfinity品牌近日宣布，已开始在诺斯伍德镇启动网络建设，将为当地超过3200户家庭和企业首次接入多千兆对称互联网服务。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "14:52",
       "keywords": []
     },
     {
