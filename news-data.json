@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-28T20:04:07.587358",
+  "updated": "2026-07-28T21:43:53.704254",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,82 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 17,
-    "medium": 28,
-    "low": 105
+    "high": 20,
+    "medium": 31,
+    "low": 99
   },
   "items": [
+    {
+      "title": "美国股市：标普500等权重指数创新高 广泛涨势盖过芯片股抛售",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmivv5935940.shtml",
+      "content": "随着油价持续下跌，标普500指数周二上涨。尽管芯片股遭到抛售，广泛涨势仍推动标普500等权重指数创下历史新高。 标普500指数收涨0...",
+      "priority": "high",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "21:34",
+      "keywords": []
+    },
+    {
+      "title": "7月29日外盘头条：苹果盘中市值突破5万亿美元 马斯克旗下股票蒸发1.5万亿美元 油价创2020年来最大三日跌幅",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpx6062627.shtml",
+      "content": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、7月美国消费者信心指数小幅回落 2、原油：油价创2020年以来最大三日跌幅 中东紧张局势缓和 3...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "21:27",
+      "keywords": []
+    },
+    {
+      "title": "大宗商品综述：油价延续跌势 铜价走低 金价下挫",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpz2839355.shtml",
+      "content": " 受中东局势缓和迹象增多影响，油价创下逾六年来最差三日表现。铜价与多数其他金属下跌，芯片股跌势加剧打压了市场情绪。金价下跌，投资者在美联储利率决议前保持谨慎。",
+      "priority": "high",
+      "sectors": [
+        "黄金",
+        "有色"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "21:17",
+      "keywords": []
+    },
+    {
+      "title": "7月29日美股成交额前20：苹果市值首次触及5万亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpv1749315.shtml",
+      "content": " 周二美股成交额第1名美光科技收跌8.85%，成交475.47亿美元。美光等美股半导体股周二普遍下跌，跟随亚洲和欧洲的疲弱走势。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "20:53",
+      "keywords": []
+    },
+    {
+      "title": "伊朗外长与欧盟外交负责人通话讨论地区局势",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpz2830743.shtml",
+      "content": "伊朗外交部长阿拉格齐与欧盟外交政策负责人卡拉斯通电话，讨论最新的地区和国际局势。 双方还重点讨论了如何帮助缓和紧张局势并维护地区稳定与安全。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "20:50",
+      "keywords": []
+    },
     {
       "title": "苹果市值首次触及5万亿美元",
       "source": "环球市场播报",
@@ -52,34 +123,6 @@
       "period": "night",
       "date": "2026-07-28",
       "time": "19:03",
-      "keywords": []
-    },
-    {
-      "title": "油价下跌叠加美联储利率决议在即，美债收益率小幅走低",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-29/doc-inikkxfz6117287.shtml",
-      "content": " 周二，美国国债收益率继续回落，交易员正等待本周美联储的利率决议。与此同时，美伊敌对行动的持续暂停推动油价走低，提升了市场对更持久停火安排的期待。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "17:43",
-      "keywords": []
-    },
-    {
-      "title": "宏观看客：万言万当不如一默 沃什时代的美联储更难捉摸",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-29/doc-inikkxfx1774826.shtml",
-      "content": "我不知道凯文·沃什是不是赶时髦乐队（Depeche Mode）的忠实歌迷，但至少，他似乎很认同这支乐队1990年经典歌曲《享受宁静》（Enjoy the...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "17:03",
       "keywords": []
     },
     {
@@ -277,6 +320,62 @@
       ]
     },
     {
+      "title": "福特Q2盈利超预期，上调全年业绩指引，盘后上涨近7%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmivx2723506.shtml",
+      "content": "福特汽车周二上调了2026年盈利预测，此前其第二季度盈利超出了华尔街预期，尽管营收有所下降且略低于预期。 福特股价周二盘后交易上涨近7%。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "21:41",
+      "keywords": []
+    },
+    {
+      "title": "美国债市：油价和科技股下跌推动国债上涨 国债标售暂告一段落",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpv1749050.shtml",
+      "content": "美国国债周二收涨，主要受油价继续回落推动。美国交易时段，科技股走弱以及世界大型企业联合会消费者信心指数意外下降，也为债市提供支撑。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "20:51",
+      "keywords": []
+    },
+    {
+      "title": "7月29日热门中概股多数上涨 汽车之家涨7.72%，慧荣科技跌9.42%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpt0137406.shtml",
+      "content": "7月29日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收高1.08%。 上涨个股（按市值从高到低）：阿里巴巴涨0.17%，拼多多涨1.01%，网易涨2.92%，京东涨2.71%...",
+      "priority": "medium",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "20:24",
+      "keywords": []
+    },
+    {
+      "title": "7月29日收盘：美股收盘涨跌不一，道指收高逾500点，板块轮动令芯片股承压",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpz2821725.shtml",
+      "content": "北京时间7月29日凌晨，美股周二收盘涨跌不一。受强劲财报、油价下跌以及资金从半导体板块轮动至市场其他板块的推动，道指收高逾500点。纳指小幅收跌。",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "20:09",
+      "keywords": []
+    },
+    {
       "title": "金融服务公司Principal Financial Group获评全球残障包容领先企业",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpx6031878.shtml",
@@ -442,20 +541,6 @@
       "period": "night",
       "date": "2026-07-28",
       "time": "19:04",
-      "keywords": []
-    },
-    {
-      "title": "尾盘：道指上涨约600点 纳指小幅下跌",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikkxfv0224772.shtml",
-      "content": "北京时间7月29日凌晨，美股周二尾盘，主要股指走势分化。交易员正在消化最新一批企业财报，而半导体板块继续承压。 道指涨596.86点，涨幅为1.14%，报52806.94点；纳指跌24...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-28",
-      "time": "18:53",
       "keywords": []
     },
     {
@@ -699,6 +784,34 @@
       "keywords": [
         "权益周观察"
       ]
+    },
+    {
+      "title": "原油：油价创2020年以来最大三日跌幅 中东紧张局势缓和",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpt0145770.shtml",
+      "content": "油价创下逾六年来最差三日表现，受中东局势缓和迹象增多影响，美国和伊朗均继续避免发动袭击。 布伦特在过去三个交易日下跌约16%，周二收于每桶84美元附近。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "20:53",
+      "keywords": []
+    },
+    {
+      "title": "伊朗：德黑兰和基辅在船只遇袭事件后均不寻求局势升级",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikmcpz2830858.shtml",
+      "content": "伊朗外交部长阿拉格齐表示，乌克兰外长Andrii Sybiha向他保证，“对一艘伊朗船只的袭击并非蓄意”。 阿拉格齐周二早些时候与Sybiha通电话后，在社交平台发文作出上述表态。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-28",
+      "time": "20:51",
+      "keywords": []
     },
     {
       "title": "伊朗：过去16-17天从未请求与美国谈判",
@@ -1034,118 +1147,6 @@
       "period": "night",
       "date": "2026-07-28",
       "time": "19:06",
-      "keywords": []
-    },
-    {
-      "title": "小野药品与Phylo合作，为每位发现科学家配备智能体AI",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikkxhc2924439.shtml",
-      "content": " 小野药品工业株式会社（TYO： 4528，“小野”）与Phylo公司今日宣布达成合作，将Phylo面向生物医学研究的智能体AI平台Biomni Lab引入小野的药物发现科学家团队。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-07-28",
-      "time": "18:57",
-      "keywords": []
-    },
-    {
-      "title": "特朗普在白宫会晤内塔尼亚胡 美国缓和对伊朗动武威胁",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-29/doc-inikmcpv1731332.shtml",
-      "content": " 美国总统唐纳德·特朗普周二在白宫会见以色列总理内塔尼亚胡。在美伊暂停互袭后，特朗普试图避免再次轰炸伊朗，并为进一步开展外交谈判铺路。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-28",
-      "time": "18:50",
-      "keywords": []
-    },
-    {
-      "title": "美伊战争耗尽战略石油储备？库存降至1983年来最低",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-29/doc-inikkxhc2909144.shtml",
-      "content": " 美国战略石油储备（SPR）正承受巨大压力——为应对中东和欧洲战争而进行的大规模释油行动，使本就急需维修的老旧基础设施不堪重负。",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "night",
-      "date": "2026-07-28",
-      "time": "18:14",
-      "keywords": []
-    },
-    {
-      "title": "美国7年期国债拍卖中标收益率创2024年12月以来最高",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-29/doc-inikkxfz6124349.shtml",
-      "content": " 美国财政部440亿美元7年期国债拍卖的中标收益率为4.473%，创2024年12月以来最高，超过纽约时间下午1点投标截止时4.471%的发行前收益率，显示需求略低于预期。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-28",
-      "time": "18:04",
-      "keywords": []
-    },
-    {
-      "title": "OpenAI与Anthropic员工传阅请愿书 拟呼吁华府放慢前沿AI发展步伐",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-29/doc-inikkxhc2890024.shtml",
-      "content": " OpenAI和Anthropic PBC员工正在传阅一份请愿书，拟呼吁美国政府支持建立一种机制，在必要时有意控制人工智能的发展节奏，防止技术进步过快。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "17:19",
-      "keywords": []
-    },
-    {
-      "title": "伊朗国家电视台：德黑兰称过去16-17天从未请求与美国谈判",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-29/doc-inikkxfz6106971.shtml",
-      "content": "伊朗副外长Kazem Gharibabadi 对伊朗国家电视台表示：“我们从未请求与美国谈判，也没有向美方提出过停火请求。” 他称，是美国方面通过阿曼传话并提出了结束冲突的方案。",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "17:14",
-      "keywords": []
-    },
-    {
-      "title": "莱维特：特朗普与内塔尼亚胡和泽连斯基的会谈“积极”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-07-29/doc-inikkxfx1782084.shtml",
-      "content": " 白宫新闻秘书莱维特在X平台发文称，特朗普周二分别与乌克兰总统泽连斯基和以色列总理内塔尼亚胡举行了“积极且富有成效”的会晤。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "17:14",
-      "keywords": []
-    },
-    {
-      "title": "加拿大皇家银行认为特斯拉与SpaceX存在合并可能性",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-29/doc-inikkxhc2881076.shtml",
-      "content": "2026 年 7 月 2 日，加利福尼亚州阿罕布拉市，一家特斯拉门店展示特斯拉品牌标识。这家电动车企业虽然交出亮眼的季度交付数据，但当日特斯拉股价收盘大跌 7.5%。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-28",
-      "time": "17:00",
       "keywords": []
     },
     {
