@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-30T03:44:00.743341",
+  "updated": "2026-07-30T07:17:12.113022",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,283 +7,373 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 31,
-    "medium": 21,
-    "low": 98
+    "high": 38,
+    "medium": 22,
+    "low": 90
   },
   "items": [
     {
-      "title": "腾讯WorkBuddy引爆！“AI应用”显现三大高潜力赛道！南天信息涨停，软件开发ETF华宝（159036）逆市拉升2%",
+      "title": "受益于人工智能芯片需求激增 三星电子二季度营业利润创纪录",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikqiym5195139.shtml",
+      "content": "韩国三星电子公司日前发布第二季度财务报告。数据显示，受全球人工智能（AI）芯片需求持续强劲的提振，该公司第二季度营业利润达89.5万亿韩元，同比激增1814%...",
+      "priority": "high",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "07:15",
+      "keywords": []
+    },
+    {
+      "title": "日经225指数收涨0.7% 爱德万大涨11% 强劲盈利预测提振芯片股",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikqiyi1301063.shtml",
+      "content": "日本日经指数周四收高，因爱德万测试强劲的利润预测提振了芯片相关股票，而银行股拖累东证指数整体走低。 日经225指数上涨0.71%，收于61867.43点，而东证指数下跌0.54%...",
+      "priority": "high",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "07:12",
+      "keywords": []
+    },
+    {
+      "title": "人保寿险吉林省分公司被罚：换领许可证超期",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/fd/2026-07-30/doc-inikqiyp1972271.shtml",
+      "content": " 7月30日金融一线消息，国家金融监督管理总局吉林监管局行政处罚信息公示列表显示，人保寿险吉林省分公司因换领许可证超期，被吉林金融监管局警告并罚款1万元。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "07:11",
+      "keywords": []
+    },
+    {
+      "title": "美联储维持利率不变 沃什重申将通胀降至2%目标",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikqiyi1299550.shtml",
+      "content": "当地时间7月29日，美国联邦储备委员会宣布将基准利率维持在当前水平不变。受中东局势动荡及能源价格大幅波动影响，美国通胀压力持续回升...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "07:11",
+      "keywords": []
+    },
+    {
+      "title": "两倍做多海力士ETF暴涨暴跌投资者巨亏，南方东英稳收3.5亿港元管理费",
       "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-07-30/doc-inikqcsr1959267.shtml",
-      "content": " 今日（7月30日）市场盘整，A股主要指数悉数飘绿，直击AI应用前沿的软件开发ETF华宝（159036）逆市活跃，场内涨幅盘中上探2.1%，现涨1.44%，低位冲击日线4连阳！",
+      "url": "https://finance.sina.com.cn/money/fund/etf/2026-07-30/doc-inikqiyp1966989.shtml",
+      "content": "7月30日消息，近期南方东英两倍做多海力士ETF（07709.HK）走出极致冰火行情引发热议，二季度3个月暴涨8倍、6月末至今一个多月暴跌超八成，千亿规模快速蒸发...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "07:07",
+      "keywords": []
+    },
+    {
+      "title": "美联储宣布维持基准利率不变 内部对货币政策走向现重大分歧",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikqiyi1292195.shtml",
+      "content": "当地时间7月29日，美国联邦储备委员会宣布，将联邦基金利率目标区间维持在3.5%至3.75%之间。在此次货币政策会议上，美国联邦公开市场委员会（FOMC）内部出现显著分歧...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "07:06",
+      "keywords": []
+    },
+    {
+      "title": "广东金融“反内卷”周年记：净息差回升，佣金支出降89%",
+      "source": "一财网",
+      "url": "https://finance.sina.com.cn/roll/2026-07-30/doc-inikqiyi1293554.shtml",
+      "content": "自去年率先打响金融业“反内卷”第一枪以来，广东金融业正加速告别“拼价格、拼规模”的粗放老路。7月30日，广东金融监管局对外发布整治银行业...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "07:04",
+      "keywords": []
+    },
+    {
+      "title": "五大行H股齐创新高 恒生金融指数7月大涨助力港股",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/roll/2026-07-30/doc-inikqiyp1965857.shtml",
+      "content": " 财联社7月30日讯（编辑 冯轶）7月以来，港股“科技调整、蓝筹接力”的风格切换持续，今日内银股再度集体飘红，五大国有银行H股均创新高。",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "07:02",
+      "keywords": []
+    },
+    {
+      "title": "微软第四财季业绩超预期 Azure云业务年营收首破千亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikqiym5173182.shtml",
+      "content": "美国当地时间7月29日，微软公司发布2026财年第四财季业绩报告。数据显示，得益于云服务等业务的强劲增长，微软当季营业收入与每股收益均超越市场预期...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "06:55",
+      "keywords": []
+    },
+    {
+      "title": "强劲云业务与AI需求拉动营收 微软第四财季净利润大增 盘后股价大涨8%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikqiye9673685.shtml",
+      "content": "7月29日，美国微软公司发布2026财年第四财季及全年业绩报告。报告显示，受云服务及人工智能相关需求强劲拉动，微软第四财季实现营业收入900.1亿美元...",
       "priority": "high",
       "sectors": [
         "AI"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-07-30",
-      "time": "03:26",
+      "time": "06:53",
       "keywords": []
     },
     {
-      "title": "韩股创纪录的重挫 全球投资者却未进场抄底",
+      "title": "创纪录季度利润难掩市场焦虑 SK海力士股价大幅波动",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikqcsh9609414.shtml",
-      "content": "7月创纪录的暴跌33%，让Kospi指数的估值降至史上最低，韩国股市彷彿呈现明显的逢低承接信号。 但百达资产管理、Robeco和瀚亚投资等全球投资者却未重新进场。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikqiyp1953767.shtml",
+      "content": "尽管韩国存储芯片巨头SK海力士本周三交出了一份创纪录的季度成绩单，其股价却在业绩发布后一度暴跌近20%，最终收盘跌幅收窄至9.6%。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-07-30",
-      "time": "03:16",
+      "time": "06:53",
       "keywords": []
     },
     {
-      "title": "美联储鹰派暂停推升美元，USD/JPY延续高位震荡",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-07-30/doc-inikqcsm1205919.shtml",
-      "content": "汇通财经APP讯——美元兑日元（USD/JPY）周四亚洲交易时段小幅上涨，目前交投于163.50附近。美元受到美联储政策信号影响重新获得买盘...",
+      "title": "微软发布2026财年业绩 季度净利润同比大增31% Azure云营收首破千亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikqiyi1275635.shtml",
+      "content": "微软公司29日发布的2026财年第四财季财报显示，受益于云业务强劲增长及人工智能应用加速落地，公司当季实现营业收入900亿美元，同比增长18%；净利润达358亿美元...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-07-30",
-      "time": "03:07",
+      "time": "06:51",
       "keywords": []
     },
     {
-      "title": "A股银行板块上扬 建设银行再创新高",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-07-30/doc-inikpxkk9727131.shtml",
-      "content": " 7月30日金融一线消息，A股银行板块上扬，瑞丰银行、渝农商行涨超2%；建设银行盘中一度攀升至10.80元，再度刷新历史新高。",
+      "title": "美联储发布沃什任内第二份政策声明 彻底重构货币政策沟通模式",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikqiye9669803.shtml",
+      "content": "当地时间7月29日，美国联邦储备委员会发布最新一期联邦公开市场委员会（FOMC）货币政策声明。这是凯文·沃什就任美联储主席以来发布的第二份声明。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "06:50",
+      "keywords": []
+    },
+    {
+      "title": "美联储放弃前瞻指引引发政策分化预期 美元汇率短期承压",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikqiym5168848.shtml",
+      "content": "7月29日美联储货币政策会议后，主席凯文·沃什宣布维持利率不变并放弃前瞻性指引，此举引发市场对主要央行政策路径分化的预期。分析人士指出...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "06:49",
+      "keywords": []
+    },
+    {
+      "title": "政治局会议定调下半年经济工作，明确加快推动新旧动能转换",
+      "source": "一财网",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikqiyi1275305.shtml",
+      "content": " 今年上半年中国经济总量接近70万亿元，4.7%的经济增速符合全年经济增长预期目标。下半年，宏观政策如何持续发力，备受市场关注。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "06:49",
+      "keywords": []
+    },
+    {
+      "title": "美联储维持利率不变与沃什表态引发通胀担忧 美股三大股指大幅收跌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikqiyi1270717.shtml",
+      "content": "美联储29日宣布维持现行利率水平不变。由于美联储主席凯文·沃什在会后暗示短期内或无须加息，引发金融市场对通胀失控的强烈担忧。",
       "priority": "high",
       "sectors": [
         "金融"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-07-30",
-      "time": "03:02",
+      "time": "06:47",
       "keywords": []
     },
     {
-      "title": "预约量超20万 荣耀Robot Phone定档8月12日",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/mobile/n/n/2026-07-30/doc-inikpxkk9662263.shtml",
-      "content": "Robot Phone在全渠道的预约量已突破20万台，成为近期移动影像领域最受关注的新品。Robot Phone爆火的背后，不止是因为它是首款搭载云台的手机...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "03:00",
-      "keywords": [
-        "荣耀",
-        "Robot Phone",
-        "首款电影掌机"
-      ]
-    },
-    {
-      "title": "近半个世纪来最镇不住场的美联储主席？沃什第二次开会就爆3票反对！",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikpxkt2073598.shtml",
-      "content": "财联社7月30日讯（编辑 潇湘）凯文·沃什接任美联储主席一职时，曾多次表示渴望在美联储内部展开一场“良好的家庭辩论”，而本周为期两天的美联储货币政策会议——这也是他任内...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "02:57",
-      "keywords": []
-    },
-    {
-      "title": "美联储按兵不动，日本央行能否用“鹰派按兵不动”扳回一局？",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-07-30/doc-inikpxkk9723256.shtml",
-      "content": "汇通财经APP讯——周四（7月30日）亚洲时段，美元兑日元小幅走高至163.50附近。美联储周三以9：3的投票结果维持利率在3.50%-3.75%不变，但三名鹰派委员投下反对票...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "02:56",
-      "keywords": []
-    },
-    {
-      "title": "沃什发布会解读：市场自主定价新时代开启，9月政策保留全部可能性",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-07-30/doc-inikpxkp1321507.shtml",
-      "content": "汇通财经APP讯——美联储如期维持利率不变，主席凯文·沃什迎来上任后的第二场议息新闻发布会。 本次会议出现三张加息异议票，内部政策分歧公开化。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "02:52",
-      "keywords": []
-    },
-    {
-      "title": "债市大跌向美联储主席沃什发出警告：要抑制通胀光说狠话还不够",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikpxkr5280993.shtml",
-      "content": " 债券市场传递的讯息再清楚不过：尽管美联储主席凯文·沃什频频强硬表态将抑制通胀，但他不急于动用该央行的利率工具来达成这项目标。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "02:45",
-      "keywords": []
-    },
-    {
-      "title": "央行等九部门联合印发！事关科技金融领域数据开发利用！",
+      "title": "宽基ETF月度“吸金力”创年内新高！A500ETF华泰柏瑞（563360）均衡属性受关注",
       "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-07-30/doc-inikpxkp1309000.shtml",
-      "content": "2026年数据要素价值释放元年：九部门联合发文，AI大模型引爆数据治理与算力需求 央行等九部门联合印发了关于科技金融领域数据开发利用的政策文件，华创证券据此预测...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "02:41",
-      "keywords": []
-    },
-    {
-      "title": "数据鸽派、市场鹰派：英国央行周四面临政策信号考验",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/money/forex/forexroll/2026-07-30/doc-inikpxkr5281907.shtml",
-      "content": "华尔街见闻 英国6月CPI降至15个月低点，私营部门工资增速跌至2020年来最低，新政府取消家庭电费增值税则进一步压低通胀预期，多数经济学家预计本周四英国央行将维持利率3...",
+      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-07-30/doc-inikqiyp1948790.shtml",
+      "content": "近日A股市场整体维持震荡整理格局，叠加美联储最新利率决议释放的鹰派信号，市场情绪愈发趋于谨慎；与此同时，A股当前正值财报密集披露窗口...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-07-30",
-      "time": "02:40",
+      "time": "06:46",
       "keywords": []
     },
     {
-      "title": "澳洲联储加息预期降温vs美联储鹰派信号，澳元等待8月会议定方向",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-07-30/doc-inikpxkp1306143.shtml",
-      "content": "汇通财经APP讯——周四（7月30日）亚洲时段，澳元兑美元在连续三日下跌后窄幅震荡，交投于0.6960附近。 国内方面，澳洲6月通胀意外放缓至3.8%（前值4.0%，预期4.0%）...",
+      "title": "中共中央政治局会议：加快推动新旧动能转换，实施好更加积极的财政政策和适度宽松的货币政策",
+      "source": "界面",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikqiyi1266936.shtml",
+      "content": "中共中央政治局7月30日召开会议。会议强调，做好下半年经济工作，要坚持以习近平新时代中国特色社会主义思想为指导，坚持稳中求进工作总基调...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-07-30",
-      "time": "02:38",
+      "time": "06:43",
       "keywords": []
     },
     {
-      "title": "美联储如期按兵不动！有色ETF华宝（159876）再涨1.76%，单日吸金1.18亿元！机构：有色扩产存在四大刚性壁垒",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-07-30/doc-inikpxkp1307971.shtml",
-      "content": " 今日（7月30日）有色金属板块继续上涨，同标的指数规模最大、流动性最佳*的有色ETF华宝（159876）场内价格盘中拉升1.76%，现涨1.32%，冲击日线2连阳！",
-      "priority": "high",
-      "sectors": [
-        "有色"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "02:37",
-      "keywords": []
-    },
-    {
-      "title": "张尧浠:加息预期无视鹰言减弱 金价维持震荡筑底格局",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/forex/forexfxyc/2026-07-30/doc-inikpxkr5265294.shtml",
-      "content": "7月30日：上交易日周三（7月29日）：国际黄金过山车式震荡收涨，先是延续周二回落压力和技术阻力表现走低，之后因低位买盘，以及在美联储决议公布之前...",
-      "priority": "high",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "02:28",
-      "keywords": [
-        "美元",
-        "金价"
-      ]
-    },
-    {
-      "title": "香港金管局回应美联储议息决定：会继续密切监察市场变化",
-      "source": "中国金融信息网",
-      "url": "https://finance.sina.com.cn/money/bond/2026-07-30/doc-inikpxkr5266808.shtml",
-      "content": "转自：新华财经 新华财经北京7月30日电 香港金管局发文表示，美联储维持息率不变的决定符合市场预期。会后发表的声明表示经济继续维持增长，就业市场保持平稳...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "02:28",
-      "keywords": []
-    },
-    {
-      "title": "中际旭创港交所上市，首日破发",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-07-30/doc-inikpxkr5259487.shtml",
-      "content": " 7月30日，港股中际旭创上市首日开盘破发，截至9：43，跌幅扩大至2.86%，现报952港元，目前市值约1.2万亿港元。中际旭创A股同步下跌，目前跌超6%。",
-      "priority": "high",
-      "sectors": [
-        "光模块"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "02:15",
-      "keywords": []
-    },
-    {
-      "title": "美联储维持利率不变，金价站上4100美元",
-      "source": "界面新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikpxkp1277901.shtml",
-      "content": "2026年7月30日，北京时间凌晨，美联储将联邦基金利率目标区间维持在3.5%至3.75%之间不变，沃什发言偏鹰，金价冲高回落，此外，美伊冲突未果，避险情绪持续...",
-      "priority": "high",
-      "sectors": [
-        "黄金",
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "02:13",
-      "keywords": []
-    },
-    {
-      "title": "美联储隔夜维持利率不变 比特币在亚洲交易时段上涨",
+      "title": "澳大利亚第二季度CPI同比上涨3.8% 澳储行加息预期降温",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikpxkr5242460.shtml",
-      "content": "美联储隔夜维持利率不变后，比特币在亚洲交易时段上涨。加密货币平台Bitfinex的分析师表示，央行的这一决定被视为对风险资产有利，可能会决定比特币的近期走向。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikqiym5162413.shtml",
+      "content": "澳大利亚统计局29日发布的数据显示，截至今年6月的第二季度，澳大利亚消费者价格指数（CPI）同比上涨3.8%，低于市场预期的4.0%。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "06:40",
+      "keywords": []
+    },
+    {
+      "title": "美联储鹰派按兵不动提供中期支撑，但欧央行加息预期正在积聚动能",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-07-30/doc-inikqiym5163212.shtml",
+      "content": "汇通财经APP讯——周四（7月30日）亚洲时段，欧元兑美元在连续两个交易日强劲反弹后小幅回落，交投于1.1440附近。市场在美联储决议落地后暂作喘息...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "06:39",
+      "keywords": []
+    },
+    {
+      "title": "投资者警示：日本央行抗击通胀的公信力面临考验",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikqiym5160921.shtml",
+      "content": "日元汇率跌至四十年来低位，投资者警示：若日本央行不加快加息步伐以抑制通胀压力，或将丧失金融市场公信力。 市场普遍预期，备受关注的日本央行周五议息会议将维持利率不...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "06:38",
+      "keywords": []
+    },
+    {
+      "title": "英国央行或连续第五次按兵不动，通胀阴影下加息警报难解除",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/roll/2026-07-30/doc-inikqiyi1274537.shtml",
+      "content": "金十数据 英国央行正处于经济放缓与通胀反弹的夹缝中，维持利率不变或许只是暂时选择，真正考验将在未来几个月展开。 英国央行将北京时间周四19：00公布利率决议...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "06:31",
+      "keywords": []
+    },
+    {
+      "title": "美联储无视通胀隐忧，美国借贷成本攀升至19年新高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikqiyp1936231.shtml",
+      "content": "美联储维持利率不变，美国借贷成本升至2007年以来新高，市场担忧央行难以遏制特朗普对伊朗战事引发的通胀冲击。 美联储周三公布利率决议、维持基准利率不变后...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "06:28",
+      "keywords": []
+    },
+    {
+      "title": "安本投资：美联储维持利率不变符合预期 倾向配置短期债券",
+      "source": "智通财经APP",
+      "url": "https://finance.sina.com.cn/money/forex/forexroll/2026-07-30/doc-inikqiyi1258701.shtml",
+      "content": "安本投资新兴市场经济师Michael Langham表示，美联储维持联邦基金目标利率不变，与市场预期年底前联邦基金利率将保持不变相符。尽管议息会议出现3张反对票...",
       "priority": "high",
       "sectors": [
         "金融"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-07-30",
-      "time": "02:04",
+      "time": "06:23",
       "keywords": []
     },
     {
-      "title": "市场害怕的一幕没有发生！金价大涨触及4100美元 分析师称这一水平成关键拐点",
+      "title": "涨停炸板再涨停！德明利，吹响存储反攻号角？",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-07-30/doc-inikpxkk9684341.shtml",
-      "content": "文章来源：24K99 周四（7月30日）亚市盘中，现货黄金延续升势。美国彭博社称，尽管中东战争带来的通胀风险正在上升，但由于美联储维持利率不变，黄金价格仍然走高。",
+      "url": "https://finance.sina.com.cn/stock/relnews/2026-07-30/doc-inikqiyi1244522.shtml",
+      "content": "大河财立方记者 徐姣 7月30日午后，存储芯片概念震荡回升，存储大牛德明利（001309.SZ）涨停、炸板、再涨停，报390.04元，市值885亿元。",
       "priority": "high",
       "sectors": [
-        "黄金"
+        "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-07-30",
-      "time": "02:02",
+      "time": "06:16",
+      "keywords": []
+    },
+    {
+      "title": "小摩：将美联储加息预测提前至今年12月",
+      "source": "智通财经APP",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-30/doc-inikqiyp1932281.shtml",
+      "content": "美联储宣布将联邦基金利率区间维持于3.5至3.75%，符合市场预期。不过，美联储主席沃什的极简沟通风格让投资者怀疑其遏制通胀的决心...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "06:14",
       "keywords": []
     },
     {
@@ -481,146 +571,157 @@
       ]
     },
     {
-      "title": "午评：国内期货主力合约涨跌互现 中证500跌超3%",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-07-30/doc-inikqcsm1226944.shtml",
-      "content": "7月30日早盘收盘，国内期货主力合约涨跌互现。乙二醇、原油涨超3%，低硫燃油、瓶片、短纤、燃油、对二甲苯、沪铝涨超1%；下跌方面，中证500跌超3%，中证1000、集运偶先...",
+      "title": "业绩全面超预期 星巴克上调2026财年盈利预期",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikqiye9698242.shtml",
+      "content": "美国当地时间7月29日，星巴克公司发布2026财年第三财季业绩报告。得益于全球同店销售额强劲增长及业务变革持续见效，星巴克当季营业收入与净利润均超越市场预期...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-07-30",
-      "time": "03:32",
+      "time": "07:12",
       "keywords": []
     },
     {
-      "title": "中天期货:豆粕短线修复 碳酸锂短线震荡反复",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-07-30/doc-inikqcsm1220354.shtml",
-      "content": "热点品种分析 一、商品指数 二、股指 中国上证综指 7 月 29 日（周三）收盘上涨 15.16 点，涨幅 0.40%，报 3828.47 点； 中国深证成指 7 月 29 日（周三）收盘上涨 148...",
-      "priority": "medium",
-      "sectors": [
-        "有色"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "03:24",
-      "keywords": []
-    },
-    {
-      "title": "银发浪潮下挖掘家居新蓝海！美凯龙携手行业探索“悦龄适老”新路径",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/enterprise/2026-07-30/doc-inikpxkk9712163.shtml",
-      "content": "7月23日，红星美凯龙与奥维云网在郑州联合举办‘适老·悦龄郑茂’“MEGA-E智电绿洲·创见茶叙”适老专场活动。添康、TOCLAS、茗居宜养、百得胜、箭牌、九牧、惠达、瑞尔特...",
+      "title": "韩国综合股价指数Kospi收跌1.2% 报5593.56点",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikqiye9692358.shtml",
+      "content": "韩国综合股价指数（KOSPI）收于 5593.56 点，较前一交易日下跌 69.68 点，跌幅为 1.23%。 韩国副财长今日表示，将密切关注外部因素及其对国内经济和金融市场的影响。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-07-30",
-      "time": "02:48",
+      "time": "07:08",
       "keywords": []
     },
     {
-      "title": "光模块龙头赴港上市，什么指数重仓了中际旭创",
+      "title": "受伊朗战事推升油气价格提振，壳牌创下四年最佳季度利润",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikqiyp1966293.shtml",
+      "content": "英国能源巨头壳牌周四公布第二季度业绩，受益于中东大范围冲突推高油气价格，利润表现超出市场预期。 分析师一致预期，这家石油巨头4–6月经调整后利润达到98.4亿美元...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "07:07",
+      "keywords": []
+    },
+    {
+      "title": "收评：国内期货主力合约涨跌互现 SC原油涨超6%",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/enterprise/sale/2026-07-30/doc-inikpxkt2064265.shtml",
-      "content": "7月30日，光模块龙头中际旭创在香港挂牌上市。单看募资规模，这可能是近年来香港市场最受关注的IPO之一。但放在整个AI硬件产业的视角下...",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-07-30/doc-inikqiyi1287298.shtml",
+      "content": "7月30日收盘，国内期货主力合约涨跌互现。能化品种全线走高，原油涨超6%，乙二醇、燃油涨超4%，对二甲苯、瓶片、低硫燃油涨超3%，PTA、短纤、丙烯...",
       "priority": "medium",
       "sectors": [
-        "光模块"
+        "能源"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-07-30",
-      "time": "02:47",
+      "time": "07:02",
       "keywords": []
     },
     {
-      "title": "中际旭创、新易盛、东山精密，下挫",
-      "source": "中国证券报",
-      "url": "https://finance.sina.com.cn/stock/relnews/2026-07-30/doc-inikpxkt2056411.shtml",
-      "content": "今天上午，AI硬件板块大跌，中际旭创、新易盛、天孚通信、源杰科技、东山精密等龙头股大跌。 中际旭创最近一系列动作引人关注。 首先是中际旭创H股今日上市...",
-      "priority": "medium",
-      "sectors": [
-        "光模块"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "02:34",
-      "keywords": []
-    },
-    {
-      "title": "但斌接连唱多！韩国杠杆ETF资管规模已下降，“黄金坑”机会即将到来？",
-      "source": "",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikpxkt2062739.shtml",
-      "content": "来源：财闻 海外这波去杠杆交易结束后，又是“黄金坑”的机会。” 7月30日，知名私募大佬但斌但斌在社交平台发帖称，“专注于韩国的杠杆ETF资产管理规模已降至150亿至160亿美元...",
-      "priority": "medium",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "02:32",
-      "keywords": []
-    },
-    {
-      "title": "粉笔盘中涨超13% 预计上半年收入不少于12.2亿元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-30/doc-inikpxkk9690967.shtml",
-      "content": "粉笔（02469）盘中涨超13%，截至发稿，股价上涨4.62%，现报0.34港元，成交额75.70万港元。 近日，综合性就业服务平台粉笔发布2026年上半年业绩预告。",
+      "title": "营收净利双超预期 微软第四财季业绩证实人工智能投入转化成效",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikqiye9676042.shtml",
+      "content": "美国当地时间7月29日，微软公司发布2026财年第四财季及全年业绩报告。受云服务需求强劲及人工智能商业化加速拉动，微软当季实现营业收入900亿美元...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-07-30",
-      "time": "02:31",
-      "keywords": [
-        "粉笔",
-        "涨超"
-      ]
-    },
-    {
-      "title": "“AI+软件”获力挺！传智教育，4连板，AI应用端持续活跃",
-      "source": "e公司",
-      "url": "https://finance.sina.com.cn/stock/relnews/2026-07-30/doc-inikpxkp1297783.shtml",
-      "content": "7月30日，A股四大指数集体低开。 盘面上，黄金、油气、煤炭、化肥等板块走强，光刻机、存储芯片、CPO概念等板块持续调整。 AI应用端持续活跃 盘初，AI应用端活跃...",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "02:31",
+      "time": "06:56",
       "keywords": []
     },
     {
-      "title": "跨界收购存储测试企业！爱丽家居狂收8连板，频发风险提示",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/stock/relnews/2026-07-30/doc-inikpxkk9689125.shtml",
-      "content": "7月30日，A股四大指数集体低开。 盘面上，白酒、黄金、油气、煤炭等板块走强，光刻机、存储芯片、CPO概念等板块持续调整。 AI应用端持续活跃 盘初，AI应用端活跃...",
+      "title": "中共中央政治局：深化资本市场投融资综合改革，提升资本市场韧性和信心",
+      "source": "界面",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikqiyp1943994.shtml",
+      "content": "中共中央政治局7月30日召开会议，会议强调，要切实筑牢安全屏障。稳定房地产市场，实施好一揽子化债方案，扎实推进地方中小金融机构改革化险、减量提质。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-07-30",
-      "time": "02:28",
+      "time": "06:39",
       "keywords": []
     },
     {
-      "title": "两大红线！机构提示美伊局势关键观察信号，警惕地缘冲突尾部风险",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/roll/2026-07-30/doc-inikpxkp1287088.shtml",
-      "content": "来源：财联社 财联社7月30日讯（编辑 李莹）研究机构近日建议投资者密切留意中东局势的两条 “红线”，以此判断何时降低股票投资组合风险，即削减股票持仓、降低风险暴露。",
+      "title": "海能达公专融合产品海内外批量交付，逐步成为业务第二增长曲线",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/relnews/2026-07-30/doc-inikqiye9651442.shtml",
+      "content": "海能达通信股份有限公司在投资者活动交流中表示，公专融合为公司核心战略赛道，产品在海内外多行业实现规模化落地，客户认可度持续提升，2026 年上半年增长加快。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-07-30",
-      "time": "02:18",
+      "time": "06:31",
+      "keywords": []
+    },
+    {
+      "title": "美国参议员拟将更严格道德条款纳入加密法案 直指特朗普商业利益",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikqiyp1937669.shtml",
+      "content": "美国国会参议员正就《数字资产市场清晰法案》中限制政府官员直接涉足加密资产行业的道德条款进行最后磋商，两党谈判代表已初步达成新共识。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "06:30",
+      "keywords": []
+    },
+    {
+      "title": "加密市场整体持稳 芯片股受三星业绩提振企稳",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikqiym5153816.shtml",
+      "content": "周四，全球加密货币市场主要代币价格基本持平，而此前连续两周主导市场走势的半导体板块出现首个明确企稳信号。比特币报64100美元，以太坊报约1905美元，瑞波币（XRP）报1...",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "06:27",
+      "keywords": []
+    },
+    {
+      "title": "年报“漏报”触发经营异常？久期量和回应：已完成整改并升级内控",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/stock/observe/2026-07-30/doc-inikqiyp1948999.shtml",
+      "content": "7月以来，多家私募机构因未按期公示年度报告被市场监督管理部门列入经营异常名录，引发市场关注。成立逾十年、管理规模超20亿元的量化私募——上海久期量和投资有限公司（下...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "06:19",
+      "keywords": []
+    },
+    {
+      "title": "上海宇义私募年报“逾期”引关注，信披合规再敲警钟",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/stock/observe/2026-07-30/doc-inikqiye9636793.shtml",
+      "content": "7月以来，多家私募机构因未按期公示年度报告被市场监督管理部门列入经营异常名录，引发市场关注。其中，成立逾十年、管理规模超20亿元的上海宇义私募基金管理有限公司（以...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "06:14",
       "keywords": []
     },
     {
@@ -802,329 +903,186 @@
       ]
     },
     {
-      "title": "日本首相高市早苗计划明年4月起将食品消费税降至1%",
+      "title": "英国移动网络质量排名持续下滑 规划法规与投资不足拖累基础设施升级",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikqcsm1237605.shtml",
-      "content": " 据日本自民党高层透露，日本首相高市早苗已决定从2027年4月起，暂时将食品和不含酒精饮料的消费税率降至1%，为期两年。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikqiyi1305507.shtml",
+      "content": "最新数据显示，英国移动网络下载速度全球排名从2018年的第33位降至目前的第35位，落后于意大利、罗马尼亚等国，在移动网络质量方面位列欧洲末位、全球第57位。",
       "priority": "low",
       "sectors": [
-        "消费"
+        "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-07-30",
-      "time": "03:42",
+      "time": "07:15",
       "keywords": []
     },
     {
-      "title": "美高梅中国早盘涨近3% 上半年总收益同比增长4.40%",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-30/doc-inikqcsr1961653.shtml",
-      "content": "美高梅中国（02282）盘中涨超3%，截至发稿，股价上涨2.54%，现报11.36港元，成交额4378.74万港元。 7月30日，美高梅中国发布公告，2026年上半年，总收益为173.92亿港元...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "03:31",
-      "keywords": [
-        "美高梅中国",
-        "涨近"
-      ]
-    },
-    {
-      "title": "赛力斯早盘涨超7%问界M6纯电Max+开启交付 公司前瞻布局机器人业务",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-30/doc-inikqcsr1960118.shtml",
-      "content": "赛力斯（09927）盘中涨超8%，截至发稿，股价上涨7.33%，现报48.04港元，成交额1.55亿港元。 7月29日，问界M6用户在工厂验收交付仪式于重庆赛力斯超级工厂（龙兴）隆重举行...",
-      "priority": "low",
-      "sectors": [
-        "机器人"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "03:28",
-      "keywords": [
-        "赛力斯",
-        "涨超"
-      ]
-    },
-    {
-      "title": "青岛啤酒股份盘中涨近3% 近日控股股东及其一致行动人拟合计增持不低于1.5亿元公司股份",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-30/doc-inikqcsh9611299.shtml",
-      "content": "青岛啤酒股份（00168）盘中涨近3%，截至发稿，股价上涨1.70%，现报47.88港元，成交额1.25亿港元。 近日，青岛啤酒股份发布公告，公司的控股股东青啤集团及其一致行动人基于...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "03:19",
-      "keywords": [
-        "青岛啤酒股份",
-        "涨近"
-      ]
-    },
-    {
-      "title": "IPO不成功撕破脸，康佳被投资方起诉要求履行股权回购义务，事关28亿元股权",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/newstock/2026-07-30/doc-inikqcsh9613508.shtml",
-      "content": "来源 国际投行研究报告 康佳公告了易平方系列诉讼案的情况，又是一个 IPO 不成功撕破脸的故事。 1 、2021年，康佳集团以28亿元的价格转让旗下重庆市易平方科技有限公司70%...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "03:15",
-      "keywords": []
-    },
-    {
-      "title": "五年所长空缺、佣金缩水九成，万联证券研究所谋破局",
-      "source": "界面",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikqcsh9605017.shtml",
-      "content": "界面新闻记者 | 邹文榕 一份短暂上线后下架的招聘公告，将万联证券研究所长达五年“带头人”缺位的现状推至台前。 近期，万联证券官网贴出对外招聘公告...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "03:11",
-      "keywords": []
-    },
-    {
-      "title": "李大霄劝诫韩国年轻人：全职炒股是不归路，一定要上班，一定要有现金流，劳动才是正道",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-07-30/doc-inikqcsm1207717.shtml",
-      "content": "转自：金融界视点 7月29日晚间，针对当日出现剧烈波动的韩国股市，前券商首席经济学家李大霄在社交媒体发声，直指韩国全民炒股风气暗藏巨大隐患...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "03:10",
-      "keywords": []
-    },
-    {
-      "title": "朱一明减持套现44亿元，兆易创新跌超5%创5月15日以来新低，较年内高位回撤59%",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-07-30/doc-inikpxkt2078399.shtml",
-      "content": "来源 格隆汇 兆易创新（603986.SH）盘中跌超5%，报344.98元，创5月15日以来新低，且较6月29日的最高价846.66元回撤59%。 消息面上，公司昨晚公告...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "03:05",
-      "keywords": []
-    },
-    {
-      "title": "美元回落带动美元兑加元重回收敛下沿，等待企稳",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-07-30/doc-inikpxkp1334305.shtml",
-      "content": "汇通财经APP讯——美元兑加元（USD/CAD）周四亚洲交易时段维持整理走势，汇价运行于1.4050上方附近，虽然距离此前触及的一周低点不远，但市场并未出现明显方向选择。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "03:04",
-      "keywords": []
-    },
-    {
-      "title": "中软国际盘中涨超8% 据报月之暗面Kimi完成35亿美元F轮融资",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-30/doc-inikpxkp1328092.shtml",
-      "content": "中软国际（00354）盘中涨超8%，截至发稿，股价上涨5.09%，现报3.72港元，成交额1.83亿港元。 消息面上，据每日经济新闻报道，国产大模型企业月之暗面旗下产品Kimi已完成F轮...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "03:00",
-      "keywords": [
-        "中软国际",
-        "涨超"
-      ]
-    },
-    {
-      "title": "美团回应平台用户遭遇异常消费：大概率为新型电信诈骗，已采取多种措施保证账户安全",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-07-30/doc-inikpxkr5290351.shtml",
-      "content": "每经记者|赵雯琪每经编辑|陈俊杰 近日，有媒体报道多位用户反映美团账户遭遇异常消费，引发广泛关注。7月30日，美团公开回应称，经逐一核查...",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "02:57",
-      "keywords": []
-    },
-    {
-      "title": "鼎石资本早盘涨超14% 拟折让配股净筹约6040万港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-30/doc-inikpxkr5289088.shtml",
-      "content": " 鼎石资本（00804）盘中涨超35%，高见8.86港元，创新高。近三个交易日股价累涨逾1.5倍。截至发稿，涨14.26%，现报7.45港元，成交额724.99万港元。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "02:57",
-      "keywords": [
-        "鼎石资本",
-        "涨超"
-      ]
-    },
-    {
-      "title": "兆易创新朱一明套现44亿元后，左手增持右手回购",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/roll/2026-07-30/doc-inikpxkk9723320.shtml",
-      "content": "21世纪经济报道记者 孙燕 7月29日晚间，兆易创新（603986.SH）连发五份公告，其中一份为股票交易异常波动公告，其余四份公告均与控股股东、实际控制人...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "02:54",
-      "keywords": []
-    },
-    {
-      "title": "卓越教育集团早盘涨逾5% 预期中期净利润同比增长约5.6%至18.8%",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-30/doc-inikpxkr5287388.shtml",
-      "content": "卓越教育集团（03978）盘中涨超5%，截至发稿，股价上涨4.76%，现报3.30港元，成交额298.46万港元。 近日，卓越教育集团发布公告，预期本集团于截至2026年6月30日止6个月（...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "02:54",
-      "keywords": [
-        "卓越教育集团",
-        "涨逾"
-      ]
-    },
-    {
-      "title": "荣耀IPO，有新消息",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/newstock/2026-07-30/doc-inikqcsh9603525.shtml",
-      "content": "来源：财联社 证监会官网IPO辅导公示系统显示，中信证券股份有限公司（简称“中信证券”）提交了《关于荣耀首次公开发行股票并上市辅导工作进展情况报告（第四期）》。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "02:52",
-      "keywords": []
-    },
-    {
-      "title": "内房股早盘继续上涨 融创中国涨近4%新城发展涨近3%",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-30/doc-inikpxkp1289202.shtml",
-      "content": " 内房股早盘继续上涨，截至发稿，融创中国（01918）上涨3.64%，报0.57港元；新城发展（01030）上涨2.76%，报1.49港元；旭辉控股（00884）上涨2.70%，报0.038港元。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "02:27",
-      "keywords": [
-        "融创中国",
-        "涨近"
-      ]
-    },
-    {
-      "title": "美国中央司令部：完成对伊朗大规模打击行动",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikpxkr5263033.shtml",
-      "content": "美国中央司令部： 美国东部时间 7 月 29 日晚 10 点，美国中央司令部部队成功完成对伊朗的大规模打击，以回应昨日针对美军的导弹袭击企图。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "02:25",
-      "keywords": []
-    },
-    {
-      "title": "泓基集团于7月30日上午起短暂停牌 待刊发内幕消息",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-07-30/doc-inikpxkk9683147.shtml",
-      "content": " 泓基集团（02535）发布公告，公司的股份于2026年7月30日上午九时起在香港联合交易所有限公司短暂停止买卖，以待公司根据公司收购及合并守则刊发载有公司内幕消息的公告。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "02:24",
-      "keywords": [
-        "泓基集团",
-        "停牌"
-      ]
-    },
-    {
-      "title": "入主一年半再度变更实控人，佳云科技控股股东5.84亿元转让18.31%股份",
+      "title": "商务部：中欧双方初步商定今年秋季举行磋商机制第二次会议",
       "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikpxkt2036439.shtml",
-      "content": "7月29日，广东佳云科技股份有限公司（佳云科技，300242.SZ）发布关于筹划公司控制权变更事项进展暨复牌的公告。 公告披露，佳云科技控股股东海南昕宇航投资有限公司（下称“...",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikqiyp1965500.shtml",
+      "content": "商务部介绍近期中欧密集磋商进展 针对近期中欧双方保持密集磋商的进展情况，商务部新闻发言人何亚东在30日举行的例行新闻发布会上说，中欧贸易投资磋商机制首次会议上...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-07-30",
-      "time": "02:13",
+      "time": "07:06",
       "keywords": []
     },
     {
-      "title": "黄金股早盘普遍走高 中国黄金国际及紫金黄金国际均涨超4%",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-30/doc-inikpxkr5247128.shtml",
-      "content": "黄金股早盘普遍走高 ，截至发稿，中国黄金国际（02099）上涨4.38%，报183.70港元；紫金黄金国际（02259）上涨4.16%，报122.60港元；赤峰黄金（06693）上涨3.94%，报34...",
-      "priority": "low",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "night",
-      "date": "2026-07-30",
-      "time": "02:08",
-      "keywords": [
-        "中国黄金国际",
-        "紫金黄金国际",
-        "涨超"
-      ]
-    },
-    {
-      "title": "烟草概念股早盘全线上扬 华宝国际涨超7%思摩尔国际涨超4%",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-07-30/doc-inikpxkp1259335.shtml",
-      "content": " 烟草概念股早盘全线上扬，截至发稿，华宝国际（00336）上涨7.12%，报3.31港元；思摩尔国际（06969）上涨4.29%，报9.24港元；中烟香港（06055）上涨2.87%，报24.38港元。",
+      "title": "商务部介绍近期中欧密集磋商进展",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikqiyi1294107.shtml",
+      "content": "针对近期中欧双方保持密集磋商的进展情况，商务部新闻发言人何亚东在30日举行的例行新闻发布会上说，中欧贸易投资磋商机制首次会议上，双方就“稳定...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-07-30",
-      "time": "02:04",
-      "keywords": [
-        "华宝国际",
-        "涨超"
-      ]
+      "time": "07:02",
+      "keywords": []
+    },
+    {
+      "title": "高通营收与利润双双下滑，芯片成本重压智能手机市场",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikqiyp1958620.shtml",
+      "content": "美国芯片设计企业高通于周三公布财报，营收与利润双双下滑。内存价格上涨导致全球智能手机销量走低，重创其核心业务。 高通披露，截至6月底季度营收为99亿美元...",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "07:00",
+      "keywords": []
+    },
+    {
+      "title": "尽管中东冲突走向及后果存在不确定性 法国经济在第二季度仍实现回升",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikqiye9665866.shtml",
+      "content": "法国国家统计与经济研究所周四公布，欧元区第二大经济体在截至6月的三个月内，国内生产总值环比增长0.2%。而第一季度为萎缩0.1%，同时高于经济学家普遍预期的0...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "06:46",
+      "keywords": []
+    },
+    {
+      "title": "中共中央政治局：深入实施“人工智能+”行动，发展智能经济新形态",
+      "source": "界面",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikqiyi1266944.shtml",
+      "content": "中共中央政治局7月30日召开会议，会议强调，要有效扩大国内需求，适应不同群体消费需求扩大优质供给，挖掘服务消费潜力。扎实推进“六张网”规划建设。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "06:43",
+      "keywords": []
+    },
+    {
+      "title": "中共中央政治局：继续综合整治“内卷式”竞争",
+      "source": "界面",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikqiye9663327.shtml",
+      "content": "中共中央政治局7月30日召开会议，会议强调，要营造公平有序的市场竞争环境，制定实施全国统一大市场建设条例，继续综合整治“内卷式”竞争，常态化解决企业账款拖欠问题。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "06:43",
+      "keywords": []
+    },
+    {
+      "title": "中共中央政治局召开会议：要有效扩大国内需求",
+      "source": "界面",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikqiyp1943968.shtml",
+      "content": "中共中央政治局7月30日召开会议。会议强调，要有效扩大国内需求，适应不同群体消费需求扩大优质供给，挖掘服务消费潜力。扎实推进“六张网”规划建设。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "06:39",
+      "keywords": []
+    },
+    {
+      "title": "中共中央政治局召开会议 分析研究当前经济形势和经济工作 中共中央总书记习近平主持会议",
+      "source": "新华社",
+      "url": "https://finance.sina.com.cn/china/2026-07-30/doc-inikqiym5160106.shtml",
+      "content": "中共中央政治局召开会议 决定召开二十届五中全会 分析研究当前经济形势和经济工作 中共中央总书记习近平主持会议 新华社北京7月30日电 中共中央政治局7月30日召开会议...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "06:35",
+      "keywords": []
+    },
+    {
+      "title": "月之暗面变更为股份有限公司，杨植麟成公司董事长兼经理",
+      "source": "中证网",
+      "url": "https://finance.sina.com.cn/chanjing/gsnews/2026-07-30/doc-inikqiym5156163.shtml",
+      "content": "7月30日，天眼查显示，月之暗面已于7月29日完成工商变更登记，市场主体类型变更为股份有限公司。杨植麟身份从董事成为公司董事长兼经理...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "06:31",
+      "keywords": []
+    },
+    {
+      "title": "AI模型60小时破解后量子密码候选算法 量子迁移计划面临新挑战",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikqiyi1249667.shtml",
+      "content": "人工智能公司Anthropic本周宣布，其Claude Mythos Preview模型在约60小时内发现一种攻击方法，可将拟用于替代现行数字签名的HAWK算法有效密钥强度削减一半。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "06:24",
+      "keywords": []
+    },
+    {
+      "title": "还未等到国标承认，智驾“小蓝灯”上车四年后走向退场",
+      "source": "界面",
+      "url": "https://finance.sina.com.cn/jjxw/2026-07-30/doc-inikqiye9639382.shtml",
+      "content": "界面新闻记者 | 武凯界面新闻编辑 | 周姝祺 被多家新能源汽车公司用作智能驾驶标签，安装在车辆后视镜和尾部的“小蓝灯”，可能要面临退场。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "06:16",
+      "keywords": []
+    },
+    {
+      "title": "LG电子二季度营业利润同比增长近一倍半",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-30/doc-inikqiye9637470.shtml",
+      "content": " 韩国LG电子公司周四表示，第二季度净利润同比增长28.1%，达到7813亿韩元（约合5.424亿美元），得益于高端家用电器销售强劲。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-07-30",
+      "time": "06:15",
+      "keywords": []
     },
     {
       "title": "本届世界人工智能大会现场虽展示具身智能产品数量激增，但在终端市场中，技术展出的数量不能直接量化为商业化进程",
