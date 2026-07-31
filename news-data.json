@@ -1,5 +1,5 @@
 {
-  "updated": "2026-07-31T21:42:59.162589",
+  "updated": "2026-07-31T23:37:00.811702",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,125 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 27,
-    "medium": 17,
-    "low": 106
+    "high": 34,
+    "medium": 16,
+    "low": 100
   },
   "items": [
+    {
+      "title": "8月1日隔夜要闻：美股收高 亚马逊大涨逾15% 美官员称特朗普已下令对伊朗发动新一轮袭击",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-01/doc-inikufhp0654960.shtml",
+      "content": "市场 8月1日收盘：美股收高，亚马逊大涨逾15%，三大股指本周均录得涨幅 8月1日美股成交额前20：亚马逊财报强劲股价大涨逾15% 8月1日热门中概股多数上涨，阿里巴巴涨5.09%...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-31",
+      "time": "22:55",
+      "keywords": []
+    },
+    {
+      "title": "报道：日本连续第二日干预汇市买入日元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-01/doc-inikufht0847679.shtml",
+      "content": "日经报道称，日本政府和日本央行周五连续第二日干预汇市买入日元。 报道称，日本当局周五通过一系列操作进行了干预。 日经援引多位市场参与者报道称...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-31",
+      "time": "22:45",
+      "keywords": []
+    },
+    {
+      "title": "美国四大科技巨头竞逐AI 支出承诺总计超2万亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-01/doc-inikufht0844119.shtml",
+      "content": "数据中心竞赛中的四大巨头已承诺在未来几年内投入近2.4万亿美元，表明对人工智能基础设施的投资将继续大幅增加。 由于竞相建设数据中心，Alphabet Inc．...",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-31",
+      "time": "22:36",
+      "keywords": []
+    },
+    {
+      "title": "报道：OpenAI发现其他AI智能体突破隔离的证据",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-01/doc-iniktyyt4183714.shtml",
+      "content": " 援引两名知情人士报道，OpenAI在扩大对Hugging Face遭入侵事件的调查过程中，发现了其他自主智能体突破隔离环境的案例。",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-07-31",
+      "time": "22:13",
+      "keywords": [
+        "新冠肺炎"
+      ]
+    },
+    {
+      "title": "CFTC：美联储决议前 交易员美元看涨押注升至2014年以来最高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-01/doc-iniktyyv0965076.shtml",
+      "content": "美国商品期货交易委员会（CFTC）周五公布的数据显示，截至7月28日当周，非商业交易员的美元看涨押注增至492.3亿美元，为2014年以来最高水平。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-31",
+      "time": "22:12",
+      "keywords": []
+    },
+    {
+      "title": "监管部门全链条严打财务造假 一个月9家公司被罚",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-01/doc-iniktyyn9161601.shtml",
+      "content": "本报记者郭之宸 近日，江西证监局对渔翁信息技术股份有限公司（以下简称“渔翁信息”）及相关责任人出具行政处罚决定书。经查，因渔翁信息2020年至2023年上半年连续财务造假...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-31",
+      "time": "22:08",
+      "keywords": []
+    },
+    {
+      "title": "新兴市场股市创2008年以来最大涨幅 结束动荡一周",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-01/doc-iniktyyr0762617.shtml",
+      "content": "新兴市场股市周五创近二十年来最大涨幅，结束了动荡的一周，收窄月度跌幅。韩国基准股指创纪录飙升。 MSCI新兴市场指数周五上涨6.6%，创2008年以来最佳单日表现...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-31",
+      "time": "22:03",
+      "keywords": []
+    },
+    {
+      "title": "8月1日外盘头条：特朗普称正对伊朗谈判代表失去信心 沃什考虑减少美联储会议次数 美石油巨头Q2利润激增",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-01/doc-iniktyyt4178485.shtml",
+      "content": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、特朗普称正对伊朗谈判代表失去信心 中东战事恐持续 2、沃什考虑减少美联储会议次数 3、Alphabet...",
+      "priority": "high",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-07-31",
+      "time": "22:00",
+      "keywords": []
+    },
     {
       "title": "美国股市：亚马逊大涨提振AI概念股 三大股指集体上扬",
       "source": "环球市场播报",
@@ -139,6 +253,34 @@
       "keywords": []
     },
     {
+      "title": "市值最高突破4万亿元 长鑫科技引发跨领域卖方研究热潮",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-01/doc-iniktusx1011533.shtml",
+      "content": "◎记者 徐蔚 上市第5个交易日，国产存储龙头长鑫科技盘中涨幅一度超过14%，股价最高触及60.60元/股，总市值首次突破4万亿元，稳坐A股总市值头把交椅。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-31",
+      "time": "19:00",
+      "keywords": []
+    },
+    {
+      "title": "四部门联合发布22条措施，健全金融机构治理 严禁金融机构向股东及其关联方输送利益",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/roll/2026-08-01/doc-iniktusv4229524.shtml",
+      "content": "◎记者 韩宋辉 金融监管总局、中国人民银行、中国证监会、财政部近日联合发布《关于健全金融机构治理的实施意见》（下称“意见”），从改进股东治理...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-07-31",
+      "time": "19:00",
+      "keywords": []
+    },
+    {
       "title": "美股尾盘走高，道指涨逾300点，纳指上涨0.9%",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktusq9178327.shtml",
@@ -164,48 +306,6 @@
       "period": "noon",
       "date": "2026-07-31",
       "time": "17:04",
-      "keywords": []
-    },
-    {
-      "title": "市场大盘走势平稳，态势洞察对冲基金为何轰然崩盘",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktqks9231815.shtml",
-      "content": "美股大盘走势异常平稳，但华尔街一只高速成长、重仓人工智能赛道的对冲基金暗流涌动，濒临瓦解。 短短数周内，利奥波德・阿申布伦纳执掌的态势洞察（Situational...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-31",
-      "time": "16:54",
-      "keywords": []
-    },
-    {
-      "title": "美股周五午盘小幅上扬，三大股指本周均有望录得涨幅",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktqkx4285110.shtml",
-      "content": " 北京时间8月1日凌晨，美股周五午盘小幅上扬，三大股指本周均有望录得涨幅。亚马逊公布乐观财报后股价大涨。苹果重挫近10%。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-31",
-      "time": "16:09",
-      "keywords": []
-    },
-    {
-      "title": "反对按兵不动 达拉斯联储行长警告称不行动难达2%通胀目标",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-iniktqkx4279897.shtml",
-      "content": " 达拉斯联储行长洛丽·洛根表示，她对美联储维持利率不变的决定持异议是因为她认为，如果央行不采取行动，通胀将无法回落至官员设定的2%目标。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-31",
-      "time": "15:58",
       "keywords": []
     },
     {
@@ -447,59 +547,45 @@
       "keywords": []
     },
     {
-      "title": "欧洲股市收窄月度涨幅 诺和诺德与环球音乐重挫",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktqkz1083373.shtml",
-      "content": "受诺和诺德一款试验性药物研究结果不尽人意，以及环球音乐集团业绩令人失望拖累，欧股回吐周五早前涨幅。 斯托克欧洲600指数在伦敦收盘时基本持平。",
+      "title": "2026年中期分红方案密集落地 45家公司拟派现逾370亿元",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-01/doc-iniktust0785800.shtml",
+      "content": "◎记者 高志刚 实习生 王子凌 2026年半年报披露渐次展开，A股中期分红密集落地，回馈股东力度持续加码。 Wind数据显示，7月以来已有45家上市公司披露2026年度中期分红方案（...",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-07-31",
+      "time": "19:00",
+      "keywords": []
+    },
+    {
+      "title": "7月收官8月在望 A股市场风格或走向再平衡",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-01/doc-iniktusq9182140.shtml",
+      "content": "◎张玮华 记者 李雨琪 A股7月行情正式收官。7月31日，科技股集体上涨带动A股市场震荡反弹。截至收盘，上证指数报3832.26点，涨0.72%；深证成指报13578.93点，涨2...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-07-31",
-      "time": "16:45",
+      "time": "19:00",
       "keywords": []
     },
     {
-      "title": "亚马逊财报重塑AI支出辩论：强劲回报支撑巨额投资",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-iniktqks9181908.shtml",
-      "content": "亚马逊第二季度财报以强劲的业绩表现为围绕AI基础设施巨额投资的争论提供了新的论据。财报显示，其云计算部门AWS收入同比增长36.7%至422亿美元...",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-07-31",
-      "time": "15:37",
-      "keywords": []
-    },
-    {
-      "title": "密歇根大学7月消费者信心回升至55.2",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-iniktkcc1177060.shtml",
-      "content": "根据密歇根大学月度调查的最终结果，随着汽油价格回落，7月份消费者信心有所改善。 调查的信心指数从6月份的49.5升至7月份的55.2。本月早些时候的初读值为54.4。",
-      "priority": "medium",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-07-31",
-      "time": "15:16",
-      "keywords": []
-    },
-    {
-      "title": "苹果拖累科技板块，单日市值将蒸发逾3000亿美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-iniktkcc1170570.shtml",
-      "content": "美股周五早盘，美国科技股与苹果公司同步下滑，这家iPhone制造商因最新业绩展望令投资者失望而遭遇抛售。苹果市值近期已蒸发约3727亿美元...",
+      "title": "37只配置型基金待发 满足求稳资金需求",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/roll/2026-08-01/doc-iniktust0785767.shtml",
+      "content": "◎记者 朱妍 随着市场波动加剧，追求稳健收益的资金不断涌向配置型产品。数据显示，今年7月成立的FOF、二级债基数量达近百只，在新成立基金中占比近七成...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-07-31",
-      "time": "15:01",
+      "time": "19:00",
       "keywords": []
     },
     {
@@ -681,6 +767,49 @@
       ]
     },
     {
+      "title": "历史性干预 金融时报称美国政府周五抛欧元来买日元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-01/doc-inikufht0861829.shtml",
+      "content": " 英国《金融时报》援引不具名知情人士报道称，美国财政部周五对日元汇兑市场实施了干预，也是近30年来东京和华盛顿首次通过直接买入日元的方式联手撑日本货币。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-07-31",
+      "time": "23:23",
+      "keywords": []
+    },
+    {
+      "title": "伊朗警告打击美以能源基础设施",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-01/doc-inikufhk9052729.shtml",
+      "content": " 总台记者当地时间8月1日获悉，针对美国方面有关美国和以色列可能对伊朗基础设施发动袭击的消息，一名伊朗高级安全官员称，类似消息属“无稽之谈”。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-07-31",
+      "time": "22:17",
+      "keywords": []
+    },
+    {
+      "title": "大宗商品综述：油价上涨 铜价微跌 金价下挫",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-01/doc-iniktyyr0765341.shtml",
+      "content": "交易员权衡持续发酵的全球冲突，以及从波斯湾到黑海地区的供应威胁之际，原油录得3月份以来最大单月涨幅。铜价录得月度上涨，因为冶炼厂原材料短缺加剧了全球供应前景担忧...",
+      "priority": "low",
+      "sectors": [
+        "黄金",
+        "有色"
+      ],
+      "period": "night",
+      "date": "2026-07-31",
+      "time": "22:09",
+      "keywords": []
+    },
+    {
       "title": "哥伦比亚广播公司：美国和以色列准备周末轰炸伊朗的能源基础设施",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-08-01/doc-iniktyyv0952636.shtml",
@@ -712,7 +841,7 @@
       "title": "报道：特朗普下令最早本周末对伊朗发动打击",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-08-01/doc-iniktyyt4166510.shtml",
-      "content": "据报道，美国总统唐纳德·特朗普已下令美军最早于本周末对伊朗发动新一轮袭击。 该报援引未具名美国官员的话称，这些打击旨在迫使德黑兰投降。",
+      "content": "周五报道称，美国总统唐纳德·特朗普已下令美军最早于本周末对伊朗发动新一轮袭击。 该报援引未具名美国官员的话称，这些打击旨在迫使德黑兰投降。",
       "priority": "low",
       "sectors": [
         "综合"
@@ -734,6 +863,34 @@
       "period": "night",
       "date": "2026-07-31",
       "time": "21:33",
+      "keywords": []
+    },
+    {
+      "title": "美官员称特朗普已下令对伊朗发动新一轮袭击",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-01/doc-iniktyyn9144639.shtml",
+      "content": " 央视记者当地时间7月31日获悉，美国官员表示，美国总统特朗普已下令对伊朗发动新一轮袭击，目的是迫使德黑兰方面投降。相关行动最早可能于本周末开始，并持续数天。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-31",
+      "time": "21:28",
+      "keywords": []
+    },
+    {
+      "title": "美中央司令部：已改变30艘商船航行路线",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-01/doc-iniktyyv0934017.shtml",
+      "content": "△霍尔木兹海峡（资料图）当地时间7月31日，美国中央司令部表示，截至当天，中央司令部已改变30艘商船的航行路线，使2艘船只失去行动能力，并登船检查2艘...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-31",
+      "time": "20:43",
       "keywords": []
     },
     {
@@ -762,6 +919,20 @@
       "period": "night",
       "date": "2026-07-31",
       "time": "20:37",
+      "keywords": []
+    },
+    {
+      "title": "胡塞武装宣布继续封锁沙特船只 已使8艘油轮改道",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-01/doc-iniktyyn9128641.shtml",
+      "content": "△也门胡塞武装发言人叶海亚（资料图）当地时间7月31日，也门胡塞武装发言人叶海亚在社交媒体发文称，在巩固“以封锁回应封锁”方针、并落实对沙特实施海上禁运措施的框架下...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-31",
+      "time": "20:32",
       "keywords": []
     },
     {
@@ -905,199 +1076,31 @@
       "keywords": []
     },
     {
-      "title": "SpaceX火箭残骸即将撞月 可为月球撞击研究提供样本",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktqkx4308501.shtml",
-      "content": "一枚约5吨重的SpaceX火箭残骸即将撞上月球。这枚火箭曾将两台月球着陆器送往月球，而本次撞击并非计划内操作。 追踪天体轨道的“冥王星计划”负责人Bill...",
+      "title": "美军一架F-35隐形战机发生事故并起火 飞行员弹射",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-01/doc-iniktusq9188924.shtml",
+      "content": "央视记者当地时间7月31日获悉，美国加州圣迭戈米拉玛海军陆战队航空站基地一架美军F-35隐形战斗机当日发生事故并起火，现场升起大量黑烟。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-07-31",
+      "time": "18:12",
+      "keywords": []
+    },
+    {
+      "title": "意法德多国采取措施 应对西班牙飞地移民危机",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-01/doc-iniktusq9197313.shtml",
+      "content": "当地时间7月31日，西班牙内政部表示，自本轮移民危机开始以来，共有5万名非法移民进入该国飞地休达，其中4.83万人已自愿返回摩洛哥，目前仍有不足2000人滞留当地。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-07-31",
-      "time": "17:02",
-      "keywords": []
-    },
-    {
-      "title": "明尼苏达遭遇网络攻击 特朗普将其归咎于州长而非伊朗",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktqkx4302292.shtml",
-      "content": " 美国总统唐纳德·特朗普将明尼苏达州多个供水系统遭受网络攻击归咎于与他长期不和的州政府官员，尽管此前有报道称，官员怀疑伊朗参与了这些破坏活动。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-31",
-      "time": "16:47",
-      "keywords": []
-    },
-    {
-      "title": "美国纽约州起诉Kalshi 指控其“非法赌博”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktqks9224993.shtml",
-      "content": " 美国纽约州于周五对Kalshi提起诉讼，指控其运营的预测市场本质上属于未经牌照许可的非法赌博，核心理由是该平台交易结果更多依赖运气而非个人研判能力。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-31",
-      "time": "16:43",
-      "keywords": []
-    },
-    {
-      "title": "特朗普称正对伊朗失去信心 指责德黑兰撒谎",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktqkx4298853.shtml",
-      "content": "美国总统特朗普表示，随着美伊谈判持续进行，他正对伊朗失去信心，因为“他们确实会撒谎”。 特朗普在戴维营举行的内阁会议上发表讲话。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-31",
-      "time": "16:39",
-      "keywords": []
-    },
-    {
-      "title": "特朗普之子支持的反无人机技术企业计划美股上市",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktqks9217482.shtml",
-      "content": "由特朗普总统之子埃里克・特朗普投资支持的反无人机技术企业太空之眼公司（Space-Eyes），计划通过与特殊目的收购公司麦金利收购公司（McKinley...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-31",
-      "time": "16:31",
-      "keywords": []
-    },
-    {
-      "title": "中东战争推高油价 美石油巨头埃克森美孚与雪佛龙Q2盈利达265亿美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktqkv0819040.shtml",
-      "content": "受特朗普政府对伊朗开战推高原油与汽油价格影响，埃克森美孚与雪佛龙二季度合计盈利达到265亿美元。 美国两大石油巨头于周五公布这笔巨额暴利，投资者对此一片欢欣...",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-07-31",
-      "time": "16:28",
-      "keywords": []
-    },
-    {
-      "title": "特朗普谈伊朗：我们将“狠狠打击”他们",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktqks9210941.shtml",
-      "content": "美国总统特朗普表示，美国将在未来数周“狠狠打击”伊朗，并重申伊朗不能拥有核武器。 特朗普在戴维营举行的内阁会议上作出上述表态。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-31",
-      "time": "16:21",
-      "keywords": []
-    },
-    {
-      "title": "纽约州指控卡尔希运营非法赌博业务",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktqkx4284329.shtml",
-      "content": "纽约州总检察长莉蒂夏・詹姆斯提起诉讼，称这家预测交易平台无视本州博彩法规曼哈顿街头的卡尔希广告。 核心摘要 纽约州对预测交易平台卡尔希发起诉讼...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-31",
-      "time": "16:07",
-      "keywords": []
-    },
-    {
-      "title": "财报前夕，SpaceX股价经历震荡一周",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktqkx4282946.shtml",
-      "content": "SpaceX 股价创下历史新低。IPO 上市后的上涨势头为何戛然而止？ 作者：普拉斯・苏布拉马尼亚姆 随着投资者静待这家新晋上市公司发布首份财报，同时迎来大规模股票解禁...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-31",
-      "time": "16:04",
-      "keywords": []
-    },
-    {
-      "title": "特朗普：伊朗处境糟糕 在谈判中不诚实",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-01/doc-iniktqkv0803167.shtml",
-      "content": "美国总统特朗普表示，伊朗在谈判中“非常不诚实”。 特朗普在戴维营举行的内阁会议上表示，伊朗的情况“非常糟糕”并且在战争中“处境艰难”。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-31",
-      "time": "16:03",
-      "keywords": []
-    },
-    {
-      "title": "斯特兰蒂斯将在美召回约127万辆公羊1500皮卡",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-iniktqks9192517.shtml",
-      "content": " 克莱斯勒母公司斯特兰蒂斯(Stellantis)周五表示，将在美国主动召回约127万辆公羊(Ram) 1500皮卡，以解决安全带固定装置问题。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-31",
-      "time": "15:53",
-      "keywords": []
-    },
-    {
-      "title": "埃森哲与IBM携手裕信银行，共建长期技术合作伙伴关系",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-iniktqks9182920.shtml",
-      "content": " 埃森哲与IBM周五宣布，已与意大利裕信银行达成一项长期战略合作协议，旨在对该银行的技术基础设施进行现代化改造，并支持其在整个欧洲的人工智能发展计划。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-31",
-      "time": "15:38",
-      "keywords": []
-    },
-    {
-      "title": "假票据疑云笼罩Radiant World 贸易巨头中止往来 债权银行评估敞口",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-iniktkaz4399407.shtml",
-      "content": "据知情人士透露，维多集团和嘉吉公司已停止与私营企业Radiant World开展交易，嘉能可也不再与该公司开展新业务。Radiant World近年来迅速崛起...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-07-31",
-      "time": "15:27",
-      "keywords": []
-    },
-    {
-      "title": "西屋电气秘密递交IPO上市申请",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-07-31/doc-iniktkau9293188.shtml",
-      "content": "布鲁克菲尔德资产管理持有西屋电气 51% 股份，卡梅科持有剩余 49% 股份中国国际进口博览会上的西屋电气标识 核心速览 西屋电气已向美国证券交易委员会秘密提交 IPO...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-07-31",
-      "time": "15:06",
+      "time": "17:58",
       "keywords": []
     },
     {
