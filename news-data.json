@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-01T17:37:30.128112",
+  "updated": "2026-08-01T19:48:35.776233",
   "total": 149,
   "sources": [
     "新浪财经",
@@ -7,9 +7,9 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 25,
+    "high": 24,
     "medium": 14,
-    "low": 110
+    "low": 111
   },
   "items": [
     {
@@ -164,20 +164,6 @@
       "period": "morning",
       "date": "2026-08-01",
       "time": "06:09",
-      "keywords": []
-    },
-    {
-      "title": "便宜90%！美国企业偷偷换上中国大模型",
-      "source": "",
-      "url": "https://finance.sina.com.cn/china/gncj/2026-08-01/doc-inikuwea8892783.shtml",
-      "content": "（来源：陈俊明 中新经纬） 7月，美股芯片股跳水式暴跌迅速蔓延至韩国、日本等资本市场。韩国三星电子、SK集团与英伟达等美企签下近万亿美元的大单未能提振市场...",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-08-01",
-      "time": "06:00",
       "keywords": []
     },
     {
@@ -609,6 +595,20 @@
       "keywords": [
         "市场洞察"
       ]
+    },
+    {
+      "title": "Codex与开源模型关注度攀升，Anthropic旗下Claude Code依旧占据主导",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-08-02/doc-inikvxrx5656216.shtml",
+      "content": " Anthropic正面临日趋激烈的市场竞争，客户也对其AI工具高昂的价格心存疑虑。但爆款产品Claude Code的领先地位依旧难以撼动。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-01",
+      "time": "17:32",
+      "keywords": []
     },
     {
       "title": "土耳其与伊拉克签署原油运输协议",
