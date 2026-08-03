@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T18:22:07.572873",
+  "updated": "2026-08-03T20:16:27.584887",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,67 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 26,
-    "medium": 23,
-    "low": 101
+    "high": 24,
+    "medium": 21,
+    "low": 105
   },
   "items": [
+    {
+      "title": "《蜘蛛侠：崭新之日》全球首映创CJ 4DPLEX票房纪录",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimascz5651763.shtml",
+      "content": "CJ 4DPLEX公司宣布，索尼影业出品的《蜘蛛侠：崭新之日》在其SCREENX和4DX高端格式银幕上，全球首映周末票房合计突破3100万美元，创下该公司历史最高首映纪录。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-03",
+      "time": "19:56",
+      "keywords": []
+    },
+    {
+      "title": "美国多州起诉特朗普政府，指控福利监管变更涉嫌侵犯隐私",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimascv5904205.shtml",
+      "content": " 由24个州及华盛顿特区组成的团体正在起诉特朗普政府，理由是一项福利政策变更将使政府能够获取美国家庭的私人信息，该团体指控称。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-03",
+      "time": "19:26",
+      "keywords": []
+    },
+    {
+      "title": "美银称若美联储说不清如何抗通胀方案美国国债就会重拾跌势",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-04/doc-inimasct4284359.shtml",
+      "content": "美国银行的Mark Cabana认为，如果美联储不能更好地告诉大众它将如何实现2%的通胀目标，美国国债的跌势就会重新出现。 这位全球研究部的美国利率策略主管表示...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-03",
+      "time": "18:45",
+      "keywords": []
+    },
+    {
+      "title": "摩根大通因通胀前景而上调美国国债收益率预期 华尔街利率观点一览",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-04/doc-inimamvx6010617.shtml",
+      "content": "摩根大通利率策略师上调今年年底美国10年期和30年期国债收益率预测，原因是预计通胀预期将上升，且期限溢价可能扩大。 这一调整在上周美联储决定不加息以及主席凯文·沃什随...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-08-03",
+      "time": "18:27",
+      "keywords": []
+    },
     {
       "title": "特朗普批评雪佛龙CEO未称颂政府的能源政策 并催促石油企业立即降价",
       "source": "环球市场播报",
@@ -80,90 +136,6 @@
       "period": "noon",
       "date": "2026-08-03",
       "time": "15:10",
-      "keywords": []
-    },
-    {
-      "title": "非洲科技节公布2026年首批演讲嘉宾阵容",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inimafqf5815261.shtml",
-      "content": "大量资本正涌入非洲大陆的AI基础设施、云平台、海底光缆、光纤网络和数据中心，各国政府正在制定AI政策，企业正从战略走向实施。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:59",
-      "keywords": []
-    },
-    {
-      "title": "美国6月建筑支出小幅下降",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inimafpz6052615.shtml",
-      "content": "根据美国人口普查局周一发布的最新报告，美国6月建筑支出有所下降。 6月建筑项目支出下降0.1%，经季节性调整后的年化支出为2.167万亿美元，低于5月修正后的2...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:54",
-      "keywords": []
-    },
-    {
-      "title": "瑞银因反洗钱违规被美国联邦机构罚款1.58亿美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inimafpz6052378.shtml",
-      "content": "美国联邦监管机构对瑞银金融服务处以总计1.53亿美元罚款，指控该公司未能遵守反洗钱要求及其他合规计划。 美国财政部金融犯罪执法网络（FinCEN）周一针对瑞银处以1...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:53",
-      "keywords": []
-    },
-    {
-      "title": "韩国散户情绪低迷 占比较年初下降超16个百分点",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inimafqi2580127.shtml",
-      "content": "散户投资情绪低迷，韩国股市中个人投资者影响力快速下降。 今年年初，个人投资者还曾承接外资抛售压力，贡献了接近一半的交易金额。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:34",
-      "keywords": []
-    },
-    {
-      "title": "九连板“妖股”停牌核查，地板巨头想靠存储翻身？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-08-03/doc-inimafpz6051712.shtml",
-      "content": "来源：雷达Finance 雷达财经出品文|丁禹 编|孟帅 近日，连续9个交易日涨停的“妖股”——爱丽家居宣布停牌核查。 而助推爱丽家居近期股价一路狂飙的原因...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:29",
-      "keywords": []
-    },
-    {
-      "title": "白宫将于周二召集人工智能企业 审议AI监管框架",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inimafpx4436169.shtml",
-      "content": "据五位知情人士透露，特朗普政府已邀请OpenAI、谷歌、Anthropic等大型科技企业工作人员于周二前往白宫，审议人工智能监管框架最终版本。",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:29",
       "keywords": []
     },
     {
@@ -409,6 +381,77 @@
       ]
     },
     {
+      "title": "aze将出席Ai4 2026，探讨大规模多模态AI工作负载的存储策略",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimasct4311812.shtml",
+      "content": "云存储平台Backblaze（纳斯达克代码：BLZE）宣布，将以白金赞助商身份出席北美最大的人工智能盛会Ai4 2026。会议将于8月4日至6日在拉斯维加斯威尼斯人酒店举行...",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-03",
+      "time": "19:54",
+      "keywords": []
+    },
+    {
+      "title": "AI需求提振，法巴银行大幅上调希捷科技目标价",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimasec2419017.shtml",
+      "content": "希捷科技（NASDAQ： STX）周一获得华尔街机构力挺。法国巴黎银行维持其“跑赢大盘”评级，并将目标价从此前的1050美元大幅上调至1275美元。",
+      "priority": "medium",
+      "sectors": [
+        "金融",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-03",
+      "time": "19:40",
+      "keywords": []
+    },
+    {
+      "title": "Visa斥资24亿美元收购BioCatch，强化AI反欺诈能力",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimasct4305701.shtml",
+      "content": "支付巨头Visa（NYSE： V）周一宣布，已达成最终协议，将以24亿美元现金从私募股权公司Permira及其他股东手中收购行为欺诈情报解决方案提供商BioCatch。",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-03",
+      "time": "19:39",
+      "keywords": []
+    },
+    {
+      "title": "网络安全公司Gen推出\"无畏星球指数\"实时追踪全球数字威胁",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimascv5908898.shtml",
+      "content": "网络安全公司Gen（纳斯达克代码：GEN）近日宣布推出“无畏星球指数”。该指数是一个持续更新的网络安全情报中心，旨在帮助公众实时了解全球范围内的诈骗...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-03",
+      "time": "19:37",
+      "keywords": []
+    },
+    {
+      "title": "纽约汇市：日元延续涨势 美日持续释放支撑信号",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimasec2409511.shtml",
+      "content": "日元兑美元有望连续第四日上涨，此前在美日联合干预帮助日元从40年低点反弹后，两国官员表示有决心继续捍卫日元。 彭博美元即期指数日内基本持平。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-03",
+      "time": "19:07",
+      "keywords": []
+    },
+    {
       "title": "AI热潮持续 新兴市场ETF单周吸金创2月以来新高",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-08-04/doc-inimamwf2515123.shtml",
@@ -462,108 +505,6 @@
       "period": "noon",
       "date": "2026-08-03",
       "time": "15:30",
-      "keywords": []
-    },
-    {
-      "title": "扎克・戴尔募资布局家用储能：把储能电池搬进你的后院",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inimafqi2589924.shtml",
-      "content": "迈克尔・戴尔之子联合创立的 Base Power 完成融资，估值达 130 亿美元；电力需求与储能行业迎来爆发期 内容速览 初创企业 Base Power 完成一轮 10 亿美元融资...",
-      "priority": "medium",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "15:06",
-      "keywords": []
-    },
-    {
-      "title": "马自达公布7月北美销售业绩：总销售同比下降13%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inimafpx4449614.shtml",
-      "content": "马自达北美运营部今日公布，7月总销量为39，180辆，较2025年7月下降13%。年初至今总销量为241，014辆，较上年同期下降5.6%。7月销售天数为26天，与去年同期的26天相同...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:55",
-      "keywords": []
-    },
-    {
-      "title": "GTC泽汇资本:金价短期分歧等待方向确认",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-08-03/doc-inimafpz6051028.shtml",
-      "content": "8月3日，黄金经历月度修复后，专业机构对短期走势呈现明显分歧，谨慎与观望观点占据较大比重。GTC泽汇资本表示，最新变化提供了观察基本面与资金面的新线索...",
-      "priority": "medium",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:50",
-      "keywords": [
-        "金价"
-      ]
-    },
-    {
-      "title": "美国医疗设备公司Imricor推出新业务板块，开拓无辐射心脏导管检查新市场",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inimafqi2584536.shtml",
-      "content": " 医疗设备公司Imricor Medical Systems（ASX：IMR）宣布推出全新业务板块Imricor Cardiovascular，旨在向美国医院推广其无辐射心脏导管检查技术。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:47",
-      "keywords": []
-    },
-    {
-      "title": "ZFX山海证券:山寨币轮动或呈现更少赢家",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-08-03/doc-inimafqf5808041.shtml",
-      "content": "8月3日，做市机构预计下一轮山寨币行情可能更加集中，资金未必像以往周期那样广泛扩散至多数代币。ZFX山海证券表示，最新变化提供了观察基本面与资金面的新线索...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:35",
-      "keywords": [
-        "证券"
-      ]
-    },
-    {
-      "title": "KKR拟43亿美元收购Integer Holdings",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inimafqi2578772.shtml",
-      "content": "内容速览 投资机构 KKR 达成协议，以约 43 亿美元现金收购医疗器械代工企业 Integer Holdings。 投资公司 KKR 宣布达成交易，以现金收购医疗器械外包制造商 Integer...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:30",
-      "keywords": []
-    },
-    {
-      "title": "Visa斥资24亿美元收购网络安全公司BioCatch，应对AI驱动的诈骗激增",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inimafqi2578654.shtml",
-      "content": "Visa公司周一宣布，将以24亿美元现金收购欺诈检测初创公司BioCatch。此举旨在扩大这家支付巨头在网络安全领域的布局，因为银行业正面临由人工智能驱动的诈骗和账户接管事件...",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:30",
       "keywords": []
     },
     {
@@ -759,6 +700,230 @@
       "keywords": [
         "市场动态"
       ]
+    },
+    {
+      "title": "8月4日收盘：美股收高科技股领涨，道指创收盘纪录新高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimascv5920521.shtml",
+      "content": " 北京时间8月4日凌晨，美股周一收高，大型科技股领涨，道指创历史最高收盘纪录。在美国总统特朗普取消对伊朗的既定打击计划后，油价下跌。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-03",
+      "time": "20:06",
+      "keywords": []
+    },
+    {
+      "title": "原油：油价下挫 美伊谈判信号缓解供应担忧",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimasec2425936.shtml",
+      "content": "油价下跌，因为美国和伊朗均示意在进行有关恢复霍尔木兹海峡航运的磋商，这提振了市场对中东原油供应增加的期望。 WTI下跌约5%，收于每桶80美元左右。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-08-03",
+      "time": "20:02",
+      "keywords": []
+    },
+    {
+      "title": "美国西南航空推出新商务旅行产品与预订选项",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimasec2424503.shtml",
+      "content": " 美国西南航空公司（NYSE： LUV）宣布推出新的商务旅行服务“Business Priority”产品，并引入新分销能力（NDC）技术，旨在为企业客户提供更灵活的旅行选择和预订方式。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-03",
+      "time": "19:57",
+      "keywords": []
+    },
+    {
+      "title": "美国财政部将季度借款预估上调至7390亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimasct4308949.shtml",
+      "content": "美国财政部上调对本季度联邦借款规模的预估，主要原因是净现金流预期调低。 财政部周一在声明中表示，目前预计7月至9月净借款规模为7390亿美元...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-03",
+      "time": "19:47",
+      "keywords": []
+    },
+    {
+      "title": "Air Power USA与Cyber Enviro-Tech就控制权变更展开独家谈判",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimascv5912287.shtml",
+      "content": "美东时间周一（2026年8月3日），美国环境技术公司Cyber Enviro-Tech， Inc．（OTCQB）宣布，已与Air Power USA进入独家谈判阶段，探讨一项可能导致Air Power USA收购Cyber...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-03",
+      "time": "19:46",
+      "keywords": []
+    },
+    {
+      "title": "美国债市：美债维持涨势 特朗普暂缓对伊朗动武推动油价下跌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimascv5911274.shtml",
+      "content": "美国国债周一高开，并在交投清淡的美国交易时段基本维持涨势。大部分涨幅出现在亚洲交易时段，此前美国总统特朗普表示取消原定对伊朗发动的袭击计划，导致油价大幅下跌。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-03",
+      "time": "19:43",
+      "keywords": []
+    },
+    {
+      "title": "近月纽约商品交易所原油下跌5.11%，收于每桶80.34美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimascz5647619.shtml",
+      "content": "近月纽约商品交易所原油9月合约今日下跌每桶4.33美元，跌幅5.11%，收于80.34美元。——创自2026年7月27日（周一）以来最大单日美元跌幅和百分比跌幅。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-08-03",
+      "time": "19:43",
+      "keywords": []
+    },
+    {
+      "title": "伊朗：美国必须先迈出第一步 改变其行为",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimascv5911156.shtml",
+      "content": "“美国必须先迈出第一步，改变其行为。这可能是一个积极的开端，”伊朗最高领袖的顾问Mohsen Rezaee表示。 “如果美国遵守备忘录的条款，这可能表明其行为出现了变化...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-03",
+      "time": "19:43",
+      "keywords": []
+    },
+    {
+      "title": "近月ICE布伦特原油下跌4.73%，收于每桶83.77美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimasct4307196.shtml",
+      "content": "近月ICE布伦特原油10月合约（新近月合约）今日下跌每桶4.16美元，跌幅4.73%，收于83.77美元。——创自2026年7月28日（周二）以来最大单日美元跌幅和百分比跌幅。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-08-03",
+      "time": "19:42",
+      "keywords": []
+    },
+    {
+      "title": "伊朗称不会允许霍尔木兹海峡除伊朗航道以外的任何航道通行",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimascz5645411.shtml",
+      "content": "“在任何情况下，我们都不会允许霍尔木兹海峡除伊朗航道之外的任何航道开放，”伊朗最高领袖的军事顾问雷扎伊表示。 “即使美国派军舰进入霍尔木兹海峡一条非法航道...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-03",
+      "time": "19:36",
+      "keywords": []
+    },
+    {
+      "title": "U-Haul为斯波坎山火受灾居民提供免费仓储援助",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimasct4304282.shtml",
+      "content": " 美国华盛顿州的斯波坎复合火灾仍在肆虐，提供搬家与自助仓储服务的租赁公司U-Haul公司宣布启动灾害救助计划，为受灾居民提供30天免费自助仓储和U-Box便携式集装箱使用权。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-03",
+      "time": "19:35",
+      "keywords": []
+    },
+    {
+      "title": "Hims & Hers Health面临投资者诉讼调查",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimascz5644442.shtml",
+      "content": " 律师事务所Kessler Topaz Meltzer &amp; Check， LLP宣布对Hims &amp; Hers Health， Inc．（NYSE： HIMS）发起调查，代表投资者调查该公司是否存在联邦证券法违规行为。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-03",
+      "time": "19:33",
+      "keywords": []
+    },
+    {
+      "title": "特朗普抨击埃克森美孚和雪佛龙在伊朗战争期间利润飙升",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-04/doc-inimasec2415958.shtml",
+      "content": "美国总统唐纳德·特朗普批评埃克森美孚和雪佛龙利润飙升，因为油价在2月由他与以色列一道发动的伊朗战争期间大幅上涨。 特朗普周一表示，美国最大的石油公司“赚得太多了”...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-03",
+      "time": "19:30",
+      "keywords": []
+    },
+    {
+      "title": "AMD携两大强劲引擎驶入财报季",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimascz5643429.shtml",
+      "content": "AMD一直受到强劲的服务器需求提振。如今，分析师正展望其全新机架级解决方案的上量前景。 Advanced Micro Devices近期在服务器芯片领域的势头意味着...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-03",
+      "time": "19:30",
+      "keywords": []
+    },
+    {
+      "title": "美股周一尾盘继续上扬，大型科技股领涨",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimasec2405574.shtml",
+      "content": "北京时间8月4日凌晨，美股周一尾盘继续上扬，大型科技股领涨，道指接近历史最高水平。主要股指在8月份首个交易日大幅上涨。在美国总统特朗普取消对伊朗的既定打击计划后...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-03",
+      "time": "18:55",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：当前谈判是伊朗达成协议的最后机会",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-04/doc-inimasct4284462.shtml",
+      "content": "美国总统特朗普表示，当前的谈判是伊朗签署协议的“最后机会”。 特朗普在白宫椭圆形办公室的活动上表示：“很快就会见分晓”。 特朗普说：“我们在讨论海峡，开放海峡...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-03",
+      "time": "18:46",
+      "keywords": []
     },
     {
       "title": "伊朗否认与美国谈判后招致特朗普不满 斥责德黑兰“极其虚伪”",
@@ -982,187 +1147,6 @@
       "period": "noon",
       "date": "2026-08-03",
       "time": "15:10",
-      "keywords": []
-    },
-    {
-      "title": "共和党参议员不再阻挠特朗普提名的司法部长人选",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-08-03/doc-inimafqi2590692.shtml",
-      "content": "美国共和党参议员John Cornyn和Thom Tillis的办公室在新闻稿中宣布，两人将投票确认托德·布兰奇出任美国司法部长。 “我们期待尽快举行投票...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "15:08",
-      "keywords": []
-    },
-    {
-      "title": "CPT Markets:单一代币上涨带动市场回暖",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-08-03/doc-inimafpz6053132.shtml",
-      "content": "8月3日，某主流数字资产单日涨幅达到两位数，交易量与风险偏好回升带动市场关注度提高。CPT Markets表示，最新变化提供了观察基本面与资金面的新线索...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:55",
-      "keywords": [
-        "外汇"
-      ]
-    },
-    {
-      "title": "M4Markets:新兴油田扩产等待经济传导",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-08-03/doc-inimafqi2584809.shtml",
-      "content": "8月3日，新兴产油地区的大型海上项目逐步进入兑现阶段，资源开发有望带来新的产量与出口现金流。平台表示，最新变化提供了观察基本面与资金面的新线索...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:48",
-      "keywords": [
-        "传导"
-      ]
-    },
-    {
-      "title": "Mega安汇:煤炭配置退出反映转型成本",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-08-03/doc-inimafpz6049031.shtml",
-      "content": "8月3日，大型资产管理安排进一步减少煤炭相关敞口，能源转型对资本配置方向的影响继续显现。Mega安汇表示，最新变化提供了观察基本面与资金面的新线索...",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:46",
-      "keywords": [
-        "转型",
-        "煤炭"
-      ]
-    },
-    {
-      "title": "MHMarkets迈汇:四千关口仍具长期配置价值",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-08-03/doc-inimafqi2583643.shtml",
-      "content": "8月3日，黄金围绕每盎司四千美元整理，部分长期资金开始把注意力从短期利率措辞转向配置价值。MHMarkets迈汇表示，最新变化提供了观察基本面与资金面的新线索...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:44",
-      "keywords": [
-        "外汇"
-      ]
-    },
-    {
-      "title": "阿斯利康下跌近8%，有望创2025年4月以来最大单日百分比跌幅",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inimafpx4442919.shtml",
-      "content": "阿斯利康（AZN）周一早盘报156.43美元，下跌13.21美元，跌幅7.79%。 该股有望创下自2025年9月30日（收于149.50美元）以来最低收盘价。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:41",
-      "keywords": []
-    },
-    {
-      "title": "RYOEX:币市新一轮上涨仍有三重门槛",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-08-03/doc-inimafpz6045306.shtml",
-      "content": "8月3日，市场分析认为，数字资产若要形成新一轮持续上涨，仍需跨越流动性、资金信心与结构性供给等门槛。RYOEX表示，最新变化提供了观察基本面与资金面的新线索...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:39",
-      "keywords": [
-        "现货"
-      ]
-    },
-    {
-      "title": "Vatee万腾:太阳能增效方案拓展供给想象",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-08-03/doc-inimafpx4440483.shtml",
-      "content": "8月3日，一项利用轨道反射装置延长太阳能发电时段的设想受到关注，目标是改善清晨与傍晚的光照条件。Vatee万腾表示，最新变化提供了观察基本面与资金面的新线索...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:37",
-      "keywords": [
-        "太阳能"
-      ]
-    },
-    {
-      "title": "ServiceNow首席执行官如何考量长期战略布局",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inimafpx4439739.shtml",
-      "content": "八年前，沃伦・巴菲特与杰米・戴蒙在《华尔街曰报》发表专栏文章警示：短期主义思维正在威胁美国企业。二人写道：“根据我们的经验，发布季度盈利指引...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:36",
-      "keywords": []
-    },
-    {
-      "title": "AI安全公司SentinelOne推出受治理闭环响应，为自主安全运营增添可信度",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inimafpx4436556.shtml",
-      "content": "AI安全公司SentinelOne（NYSE： S）周一宣布，在其Singularity平台中新增受治理的闭环响应能力，为安全运营提供了可信赖的自动化方案。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:30",
-      "keywords": []
-    },
-    {
-      "title": "002348，再签超30亿元算力大单！",
-      "source": "e公司",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-08-03/doc-inimafqi2579391.shtml",
-      "content": "高乐股份（002348）再获算力业务大单。 8月3日晚间该公司公告，全资子公司哈尔滨智辰科技有限公司（下称“智辰科技”）与客户（下称“B公司”）签署《算力服务合同》...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:30",
-      "keywords": []
-    },
-    {
-      "title": "PPG任命Justin Epler为工业涂料美洲区副总裁",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inimafqf5804520.shtml",
-      "content": "PPG工业公司（NYSE： PPG）日前宣布，Justin Epler已被任命为工业涂料美洲区副总裁，任命于2026年8月1日起生效。Epler将直接向工业涂料和特种产品高级副总裁Juliane...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:25",
       "keywords": []
     },
     {
