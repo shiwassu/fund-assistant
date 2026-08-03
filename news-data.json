@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-03T15:28:17.875379",
+  "updated": "2026-08-03T18:22:07.572873",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,67 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 27,
-    "medium": 24,
-    "low": 99
+    "high": 26,
+    "medium": 23,
+    "low": 101
   },
   "items": [
+    {
+      "title": "特朗普批评雪佛龙CEO未称颂政府的能源政策 并催促石油企业立即降价",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-04/doc-inimafpx4485876.shtml",
+      "content": " 美国总统唐纳德·特朗普批评雪佛龙首席执行官Mike Wirth在接受采访时，没有提及特朗普政府支持化石燃料的政策，并要求石油公司让加油站油价“立刻降下来！”",
+      "priority": "high",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-08-03",
+      "time": "16:14",
+      "keywords": []
+    },
+    {
+      "title": "报道：白宫周二将召集AI巨头评估监管框架",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-03/doc-inimafqf5832600.shtml",
+      "content": " The Information援引知情人士报道，白宫已邀请包括OpenAI、谷歌和Anthropic在内的大型科技公司周二派员评估已完成的人工智能监管框架。",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-08-03",
+      "time": "15:47",
+      "keywords": []
+    },
+    {
+      "title": "亚马逊跻身3万亿美元市值精英俱乐部",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inimafqf5832121.shtml",
+      "content": "亚马逊公司市值首次突破 3 万亿美元，成为史上第五家达成该里程碑的企业。 这家电商兼云计算巨头周一早盘股价最大涨幅达 5.3%，延续上周财报发布后的强势行情。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-03",
+      "time": "15:46",
+      "keywords": []
+    },
+    {
+      "title": "科技股投资者面临一万亿美元级难题，局面至少要到2028年才有望好转",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inimafqf5829350.shtml",
+      "content": "期待 AI 资本开支降温的科技股投资者可能需要等到 2028 年，这项资产负债表科目带来的不确定性才会逐步消散。 简要分析：高盛策略师本・斯奈德最新研究显示...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-03",
+      "time": "15:39",
+      "keywords": []
+    },
     {
       "title": "SpaceX上市后股价持续暴跌，首份财报面临严峻考验",
       "source": "环球市场播报",
@@ -108,77 +164,6 @@
       "period": "noon",
       "date": "2026-08-03",
       "time": "14:29",
-      "keywords": []
-    },
-    {
-      "title": "亚马逊上涨逾5%，有望创收盘历史新高——数据述评",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inimafqi2574533.shtml",
-      "content": "亚马逊公司（AMZN）周一早盘报286.16美元，上涨14.58美元，涨幅5.37%。 该公司有望创下收盘历史新高（基于1997年5月15日以来的可用数据）。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:18",
-      "keywords": []
-    },
-    {
-      "title": "用AI编造“小作文”，监管出手重罚",
-      "source": "中证网",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-03/doc-inimafpz6031291.shtml",
-      "content": "四川证监局网站8月3日披露的一则行政处罚决定书显示，四川证监局对孙哲元编造、传播虚假信息行为进行了立案调查、审理，发现孙哲元控制使用百度百家账号“帝侃”编造多篇关于...",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:13",
-      "keywords": []
-    },
-    {
-      "title": "95后投资者AI炮制纯碱期货小作文，被罚没48.5万称患精神疾病",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-03/doc-inimafqi2570631.shtml",
-      "content": "8月3日，四川证监局公布行政处罚决定，对个人投资者孙哲元使用AI编造并公开发布关于纯碱生产的虚假文章，且在传播期间交易纯碱期货获利的行为予以惩处...",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:07",
-      "keywords": []
-    },
-    {
-      "title": "新规落地 韩国个股杠杆ETF交易额骤降九成",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inikzzfz4553274.shtml",
-      "content": "韩国金融监管当局提高单一标的杠杆、反向ETF投资门槛的新规正式实施后，相关交易规模急剧萎缩。基础保证金由原先1000万韩元上调至3000万韩元仅两天...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:04",
-      "keywords": []
-    },
-    {
-      "title": "韩国央行时隔13年增持黄金",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inikzzhm2694000.shtml",
-      "content": " 韩国央行借助上市交易基金（ETF）重启黄金投资，这是时隔13年再度购金。央行还计划拓宽国产黄金收购渠道，中长期持续增持实物黄金。",
-      "priority": "high",
-      "sectors": [
-        "黄金",
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "13:46",
       "keywords": []
     },
     {
@@ -424,6 +409,62 @@
       ]
     },
     {
+      "title": "AI热潮持续 新兴市场ETF单周吸金创2月以来新高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-04/doc-inimamwf2515123.shtml",
+      "content": " 新兴市场股票交易所交易基金（ETF）上周吸引资金流入规模创2月以来新高，围绕亚洲人工智能（AI）概念股的投资热潮未见降温迹象。",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-08-03",
+      "time": "17:55",
+      "keywords": []
+    },
+    {
+      "title": "牛市行情扩散，背后核心诱因只有一个",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimamwc5730038.shtml",
+      "content": "作者：布莱恩・索齐 大型科技企业自由现金流前景承压，正是本轮股市牛市行情向其他板块扩散的核心诱因。 简要分析： 高盛策略师彼得・奥本海默在最新研报中指出，亚马逊...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-03",
+      "time": "17:10",
+      "keywords": []
+    },
+    {
+      "title": "欧洲股市试探新高 消费品和零售板块涨幅居前",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-04/doc-inimamvx5978189.shtml",
+      "content": "随着美伊紧张局势出现缓和迹象并推动油价下跌，欧洲股市测试新高，消费品和零售股涨幅居前。 斯托克欧洲600指数上涨0.4%，至652.09点，距离7月3日创下的652...",
+      "priority": "medium",
+      "sectors": [
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-08-03",
+      "time": "17:01",
+      "keywords": []
+    },
+    {
+      "title": "财报发布前夕，帕兰提尔股价走高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inimafpz6069445.shtml",
+      "content": "帕兰提尔（股票代码 PLTR）周一股价上涨近 2%。 随着大盘预计走高，这家数据分析软件企业股价小幅上行；公司将于盘后发布第二财季业绩。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-03",
+      "time": "15:30",
+      "keywords": []
+    },
+    {
       "title": "扎克・戴尔募资布局家用储能：把储能电池搬进你的后院",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inimafqi2589924.shtml",
@@ -523,76 +564,6 @@
       "period": "noon",
       "date": "2026-08-03",
       "time": "14:30",
-      "keywords": []
-    },
-    {
-      "title": "牛肉成本上涨挤压泰森食品利润",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inimafpz6034561.shtml",
-      "content": "公司牛肉销售单价同比上涨近 12%，销量下滑 16% 内容速览 肉牛价格持续飙升拖累业绩，泰森食品下调全年盈利预期。 肉类加工巨头泰森食品下调本年度盈利预期...",
-      "priority": "medium",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:20",
-      "keywords": []
-    },
-    {
-      "title": "多起法律风险祸起房抵业务，锦程消金如何扭转经营颓势",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-08-03/doc-inikzzhm2698569.shtml",
-      "content": "文/北京商报记者 刘四红 作为国内首批、中西部首家持牌消费金融机构，四川锦程消费金融有限责任公司（以下简称“锦程消金”）近期新增的一条司法风险记录引发关注。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "13:57",
-      "keywords": []
-    },
-    {
-      "title": "Visa以24亿美元收购欺诈防御平台BioCatch",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inikzzhc6148211.shtml",
-      "content": "Visa将以24亿美元现金收购欺诈防御平台BioCatch。 Visa周一表示，将从Permira建议的基金及其他股东手中收购这家以色列公司。 BioCatch利用人工智能实时检测欺诈行为...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "13:48",
-      "keywords": []
-    },
-    {
-      "title": "增收不增利！新泉股份半年报出炉：短期借款飙升18倍，对多家车企计提坏账",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-03/doc-inikzzhm2694805.shtml",
-      "content": "每经记者|蔡鼎每经编辑|魏文艺 今年上半年，新泉股份（SH603179，股价39.80元，市值284.25亿元）交出了一份“增收不增利”的成绩单。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "13:47",
-      "keywords": []
-    },
-    {
-      "title": "新加坡7月份制造业PMI显示扩张，受AI浪潮推动",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inikzzhm2694027.shtml",
-      "content": "受益于人工智能相关需求的浪潮，新加坡制造业活动的一项关键指标在7月出现扩张。 新加坡采购与物流管理学院编制的采购经理指数7月升至51.4，略高于6月的51.3。",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "13:46",
       "keywords": []
     },
     {
@@ -790,6 +761,216 @@
       ]
     },
     {
+      "title": "伊朗否认与美国谈判后招致特朗普不满 斥责德黑兰“极其虚伪”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-04/doc-inimamwf2522980.shtml",
+      "content": " 伊朗暗示，与阿曼之间有关让更多船只通过霍尔木兹海峡的谈判正在取得进展，但美国总统唐纳德·特朗普再次表达不满，他先前取消了他所称针对伊朗的一次大规模打击。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-03",
+      "time": "18:17",
+      "keywords": []
+    },
+    {
+      "title": "报道：特朗普预计周五会见矿业高管",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-04/doc-inimamwc5730729.shtml",
+      "content": "路透社援引两位知情人士的话报道，美国总统特朗普预计将于周五出席由美国国务院主办的矿业高管活动。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-03",
+      "time": "17:13",
+      "keywords": []
+    },
+    {
+      "title": "报道：美国与伊朗之间没有安排进行新的谈判",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-04/doc-inimamwc5730607.shtml",
+      "content": "CBS援引美国官员报道称，尽管特朗普此前发表相关言论，但美国与伊朗没有安排进行新的谈判。 报道称，史蒂夫·威特科夫、贾里德·库什纳及美国谈判团队与伊朗团队之间通过调解...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-03",
+      "time": "17:13",
+      "keywords": []
+    },
+    {
+      "title": "城堡证券预测：芯片领域将迎来5000亿美元大规模债务融资浪潮",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimamvx5968512.shtml",
+      "content": "信贷市场或许已经承受了海量数据中心融资发债需求，但科技企业的融资步伐并未停止。城堡证券（Citadel Securities）预测，截至 2028 年...",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "noon",
+      "date": "2026-08-03",
+      "time": "16:36",
+      "keywords": []
+    },
+    {
+      "title": "特朗普说不管伊朗承不承认美伊都在讨论解决方案",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-04/doc-inimafqf5844412.shtml",
+      "content": " 美国总统特朗普在Truth Social上发帖说：“不管伊朗要不要承认，我们事实上就是在讨论如何解决他们几十年来造成的问题。”",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-03",
+      "time": "16:17",
+      "keywords": []
+    },
+    {
+      "title": "西班牙称非法进入休达的移民“绝大多数”已返回",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-04/doc-inimafqf5843992.shtml",
+      "content": " 西班牙外交大臣阿尔瓦雷斯表示，上周非法进入西班牙北非飞地休达的人员几乎都已离开，并承诺将“把每一个人”送回摩洛哥。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-03",
+      "time": "16:16",
+      "keywords": []
+    },
+    {
+      "title": "摩根大通计划未来十年向住房领域投入7500亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimafpz6087866.shtml",
+      "content": " 摩根大通宣布，计划在未来十年向住房领域投放 7500 亿美元资金，规模较过去十年投入水平提升近 40%。这是首席执行官杰米・戴蒙推动加大对美国社区投资举措的组成部分。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-03",
+      "time": "16:10",
+      "keywords": []
+    },
+    {
+      "title": "估值信号显现：投资者正在重新审视科技股",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimafqi2613363.shtml",
+      "content": "SpaceX 即将首度披露财报：投资者重点关注方向 投资者终于意识到，股市中除大型科技企业外，还有更多标的可供布局。 依据何在？全球市值前五企业的估值水平就是最好的佐证...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-03",
+      "time": "16:08",
+      "keywords": []
+    },
+    {
+      "title": "摩根士丹利：日元走势显示欧元可能成为主要套息交易融资货币",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-04/doc-inimafpx4482038.shtml",
+      "content": "摩根士丹利表示，进一步的日元干预风险可能会令投资者不再使用日元作为套息交易的融资货币，转而选择欧元和瑞士法郎。 “如果干预风险在短期内继续令投资者更加谨慎...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-03",
+      "time": "16:05",
+      "keywords": []
+    },
+    {
+      "title": "网络安全初创企业Horizon3完成2.5亿美元E轮融资，估值升至20亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimafqf5839592.shtml",
+      "content": "网络安全初创公司 Horizon3 完成 2.5 亿美元 E 轮融资，投后估值达到 20 亿美元，14 个月内估值涨幅超两倍。这家总部位于旧金山的企业获得老股东 NightDragon 与 NEA...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-03",
+      "time": "16:04",
+      "keywords": []
+    },
+    {
+      "title": "欧洲债市：欧洲债券上涨 美伊和谈预期推动油价回落",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-03/doc-inimafqi2607958.shtml",
+      "content": " 欧洲债券周一上涨，收益率曲线呈牛市陡峭化走势，受到布伦特原油价格跌破每桶85美元影响，因为市场乐观预期本周重启的美伊谈判可能达成协议并重开霍尔木兹海峡。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-03",
+      "time": "15:56",
+      "keywords": []
+    },
+    {
+      "title": "复星国际旗下Frankfurter Leben据悉接近敲定Athora德国业务收购交易",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-03/doc-inimafqf5830408.shtml",
+      "content": "知情人士透露，复星国际控制的寿险整合商Frankfurter Leben接近达成收购Athora Holding Ltd．德国业务的协议。 知情人士表示，这项出售Athora德国业务的交易最快可能于本月...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-03",
+      "time": "15:42",
+      "keywords": []
+    },
+    {
+      "title": "游戏驿站股价跌至2024年8月以来最低水平",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inimafpz6071500.shtml",
+      "content": "个股暂时无视债券收益率走高，但该局面难以长期维系 下跌诱因： 这家电玩零售企业宣布方案，计划通过非公开交易，将价值 14 亿美元可转换债券置换为普通股...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-03",
+      "time": "15:35",
+      "keywords": []
+    },
+    {
+      "title": "报道：苹果公司就英国要求设置“后门”的命令提起新的法律挑战",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-03/doc-inimafqf5826593.shtml",
+      "content": " 英国《金融时报》援引法院命令报道，苹果公司已针对英国政府要求设置“后门”以访问加密用户数据的计划提起新的法律诉讼。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-03",
+      "time": "15:33",
+      "keywords": []
+    },
+    {
+      "title": "美国铜进口激增 交易员赶在特朗普关税决定前布局",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-03/doc-inimafqi2598660.shtml",
+      "content": "铜正以至少12年来最快的速度涌入美国，交易员赶在美国总统唐纳德·特朗普就精炼铜进口关税作出决定前布局。 根据IHS Markit自2014年开始统计的运输数据...",
+      "priority": "low",
+      "sectors": [
+        "有色"
+      ],
+      "period": "noon",
+      "date": "2026-08-03",
+      "time": "15:32",
+      "keywords": []
+    },
+    {
       "title": "纸巾原料或将迎来颠覆性革新",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inimafpz6060092.shtml",
@@ -982,188 +1163,6 @@
       "period": "noon",
       "date": "2026-08-03",
       "time": "14:25",
-      "keywords": []
-    },
-    {
-      "title": "维萨斥资24亿美元收购反欺诈平台BioCatch",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inimafqi2576608.shtml",
-      "content": "BioCatch 依托人工智能识别欺诈行为，区分正常用户与网络攻击者 内容速览 维萨将以 24 亿美元现金收购以色列风控反欺诈平台 BioCatch。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:24",
-      "keywords": []
-    },
-    {
-      "title": "AI热潮推动美国制造业以四年来最快速度扩张",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inimafqi2575567.shtml",
-      "content": " 美国制造商7月以四年多来最快速度增长，受益于人工智能热潮带来的巨大红利，但也正受到类似疫情时期的供应短缺和通胀上升的困扰。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:21",
-      "keywords": []
-    },
-    {
-      "title": "各大时尚品牌试水新潮流：售卖二手服饰",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inimafpx4429381.shtml",
-      "content": "零售商陆续推出 “旧衣焕新” 二手服饰系列，部分目的是缓解源源不断量产各式时装带来的环境成本 内容速览 H&amp;M、香蕉共和国、Reformation...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:17",
-      "keywords": []
-    },
-    {
-      "title": "布伦特油价跌破每桶83美元，此前特朗普取消预定打击并称周一重启伊朗谈判",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inimafqi2570562.shtml",
-      "content": " 周一油价大幅下跌，因投资者对美伊战争可能缓和的预期上升。美国总统特朗普在暂停对德黑兰的新一轮打击后表示，与伊朗的谈判将于周一开始。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:07",
-      "keywords": []
-    },
-    {
-      "title": "美股早盘继续上扬，道指上涨近700点",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inikzzhm2700237.shtml",
-      "content": "北京时间8月3日晚，美股周一早盘继续上扬，道指上涨近700点。市场对美方最新外交转向作出反应，美国总统特朗普表示已取消对伊朗的预定打击计划...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "14:04",
-      "keywords": []
-    },
-    {
-      "title": "高乐股份，再签31.95亿元算力大单",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/wm/2026-08-03/doc-inikzzhi5926801.shtml",
-      "content": "8月3日，高乐股份公告称，全资子公司哈尔滨智辰科技有限公司（以下简称“智辰科技”）已与客户正式签署《算力服务合同》，合同总金额高达31.95亿元（含税）...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "13:58",
-      "keywords": []
-    },
-    {
-      "title": "摩根大通加大美国住房领域投入，计划到2035年投放7500亿美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inikzzhc6152693.shtml",
-      "content": "摩根大通当地时间周一（2026年8月3日）宣布，该行计划到2035年投放超过7500亿美元，以增加美国住房供应并支持购房。这标志着该行住房资本部署较过去十年增长近40%...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "13:56",
-      "keywords": []
-    },
-    {
-      "title": "美国人准备好接受微型代步小车了吗？多家企业押注市场前景",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inikzzhc6149853.shtml",
-      "content": "核心要点 包括斯泰兰蒂斯在内越来越多企业押注：在美国车价持续高企、购车负担上升多年的背景下，美国人愿意接纳体型更小、价格更低的代步车型。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "13:51",
-      "keywords": []
-    },
-    {
-      "title": "赛力斯：7月汽车销量26679辆",
-      "source": "界面",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-03/doc-inikzzhc6151282.shtml",
-      "content": "赛力斯8月3日公告，7月汽车销量为26,679辆。1-7月累计汽车销量为223,259辆。",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "13:49",
-      "keywords": []
-    },
-    {
-      "title": "DeepSeek放大招引爆港股AI概念，阿里、MiniMax飙涨7%",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/wm/2026-08-03/doc-inikzzhm2695107.shtml",
-      "content": "记者丨石恩泽 编辑丨张星 8月3日，港股AI大模型概念股迎来8月开门红。 截至收盘，阿里巴巴（09988.HK）涨7.01%，股价重回120港元上方，报125.2港元/股；MiniMax（00100...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "13:44",
-      "keywords": []
-    },
-    {
-      "title": "科宁达成协议后，参议院拟推进布兰奇司法部长提名",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inikzzhi5918669.shtml",
-      "content": "核心要点 参议院准备推进托德・布兰奇出任下一任司法部长的提名程序。 得州共和党参议员约翰・科宁此前是阻挠布兰奇提名的关键人物...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "13:40",
-      "keywords": []
-    },
-    {
-      "title": "韩华航空终止与Vertical Aerospace的零部件供货合同",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-03/doc-inikzzhi5917886.shtml",
-      "content": " 韩华航空周一宣布，已达成协议，终止与英国Vertical Aerospace总规模4548亿韩元（折合3.18亿美元）的城市空中交通（UAM）零部件供货合同。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "13:37",
-      "keywords": []
-    },
-    {
-      "title": "能源危机之下，美石油巨头赚翻了",
-      "source": "经济日报",
-      "url": "https://finance.sina.com.cn/wm/2026-08-03/doc-inikzzhm2691668.shtml",
-      "content": "今日主播孙亚军：中东冲突导致能源设施受损，重创全球炼油业，美国石油巨头们却交出了一份近乎暴利的成绩单。最新财报显示，今年二季度，埃克森美孚盈利约145亿美元...",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-08-03",
-      "time": "13:37",
       "keywords": []
     },
     {
