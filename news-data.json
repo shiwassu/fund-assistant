@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-04T20:11:07.532976",
+  "updated": "2026-08-04T21:51:32.715147",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,53 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 26,
-    "medium": 18,
-    "low": 106
+    "high": 24,
+    "medium": 23,
+    "low": 103
   },
   "items": [
+    {
+      "title": "迈克尔·伯里做空反弹行情：我们可能已接近重大顶部，甚至可能出现1987年式的暴跌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimezkr3767441.shtml",
+      "content": " 因《大空头》而闻名的迈克尔·伯里即使在标普500指数飙升至历史新高之际，仍坚持其看空押注，并警告称这轮反弹仍可能以类似于1987年股市崩盘式的急剧抛售告终。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-04",
+      "time": "21:37",
+      "keywords": []
+    },
+    {
+      "title": "OpenAI模型在第三方网络安全测试中突破预设边界",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimezkx4910876.shtml",
+      "content": " OpenAI表示，在英国人工智能安全研究所（UK AISI）和Irregular开展的第三方网络安全评估中，包括GPT-5.6 Sol在内的模型在降低安全防护的配置下，突破了预设测试边界。",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-04",
+      "time": "21:32",
+      "keywords": []
+    },
+    {
+      "title": "SpaceX上市后首份财报：营收78亿美元同比大增92% AI业务减亏 连接业务同比增长66% 千亿美元股票即将解禁",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimezkz1657898.shtml",
+      "content": "美东时间8月4日盘后，SpaceX公布了其自今年6月完成历史性IPO以来的首份季度业绩报告（2026财年第二财季）。财报显示，公司第二季度营收与EBITDA均大幅击败华尔街一致预期...",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-04",
+      "time": "20:20",
+      "keywords": []
+    },
     {
       "title": "8月5日收盘：道指与标普500指数均创新高，市场关注财报与美伊协议前景",
       "source": "环球市场播报",
@@ -80,76 +122,6 @@
       "period": "night",
       "date": "2026-08-04",
       "time": "18:49",
-      "keywords": []
-    },
-    {
-      "title": "美国国债上涨 油价下跌缓解美联储加息压力",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimequv3929802.shtml",
-      "content": " 美国国债周二上涨，有迹象显示，美伊在通过外交途径结束战争方面取得进展，这推动油价下跌，抑制市场对美联储未来一年加息超过一次的预期。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-04",
-      "time": "16:49",
-      "keywords": []
-    },
-    {
-      "title": "布伦特原油跌破每桶80美元 美伊协议接近达成迹象浮现",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimeqvf1853282.shtml",
-      "content": "布伦特原油价格大跌，市场愈发乐观地认为美国与伊朗正接近达成外交协议，有望推动霍尔木兹海峡恢复通航。 布伦特原油暴跌逾4%，跌破每桶80美元，回吐此前涨幅。",
-      "priority": "high",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-08-04",
-      "time": "16:28",
-      "keywords": []
-    },
-    {
-      "title": "美股强力拉升刷新纪录 伊朗考虑在霍尔木兹海峡做出让步",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimequx5522549.shtml",
-      "content": "美国股市周二扩大涨势，而油价和10年期国债收益率持续下跌，因伊朗据悉权衡允许欧洲国家清除霍尔木兹海峡的水雷。 当天早些时候，美国财政部长贝森特表示...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-04",
-      "time": "16:16",
-      "keywords": []
-    },
-    {
-      "title": "欧洲股市创新高 强劲企业财报与中东停火预期提振市场",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimequv3917749.shtml",
-      "content": "欧洲股市创下历史新高，强劲的企业业绩、矿业股上涨以及市场对中东即将实现停火的乐观预期共同提振市场。 斯托克欧洲600指数收涨0.7%。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-04",
-      "time": "16:13",
-      "keywords": []
-    },
-    {
-      "title": "市场定价显示英国央行今年加息25个基点的可能性不再达到100%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimeqvf1847914.shtml",
-      "content": "货币市场削减对英国央行进一步加息的押注，年底前加息25个基点的可能性不再达到100%。 这是自7月8日以来，市场认为加息25个基点的可能性首次低于100%。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-04",
-      "time": "16:11",
       "keywords": []
     },
     {
@@ -411,6 +383,90 @@
       ]
     },
     {
+      "title": "美国股市：标普指数创出6月来首个新高 美伊协议希望激发投资者乐观",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimezkx4905486.shtml",
+      "content": "美国和伊朗就恢复霍尔木兹海峡通航达成协议的希望拉升股市至纪录高位，同样点燃华尔街热情的还有一批强劲的企业财报。 标普500指数和道琼斯工业平均指数双双创出新高。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-04",
+      "time": "21:20",
+      "keywords": []
+    },
+    {
+      "title": "业绩超预期股价却重挫 SpaceX备受关注的财报显示AI支出跃升",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimezkz1676728.shtml",
+      "content": "SpaceX公布其6月轰轰烈烈上市后的首份季报，其中营收超过了华尔街的预期。 伊隆·马斯克旗下这个集卫星、太空和人工智能等业务为一体的庞然大物周二公布78亿美元的营收...",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-04",
+      "time": "21:17",
+      "keywords": []
+    },
+    {
+      "title": "Jefferies获得问题基金涉及假发票的新证据 凸显应收账款融资风险",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimezkr3755092.shtml",
+      "content": " 知情人士称，Jefferies Financial Group Inc．被告知，其向铁矿石贸易商Sapphire Minmetals Corp．提供融资所依据的部分发票并不真实。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-04",
+      "time": "21:14",
+      "keywords": []
+    },
+    {
+      "title": "吉利德科学公司因研发成本转亏，HIV药物销售提振营收",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimezkr3752456.shtml",
+      "content": " 吉利德科学公司于美股周二收盘后公布业绩，第二季度营收增长，主要得益于HIV产品销售额的提升，但近期收购产生的新研发支出使公司整体转盈为亏。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-04",
+      "time": "21:09",
+      "keywords": []
+    },
+    {
+      "title": "8月5日美股成交额前20：SpaceX发布IPO后首份财报，营收同比增长92%远超预期",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimezkr3751938.shtml",
+      "content": "周二美股成交额第1名美光科技收高7.62%，成交322.63亿美元。美国银行重申对美光的买入评级以及1550美元目标价，称近期股价抛售带来 “绝佳买入机会”。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-04",
+      "time": "21:08",
+      "keywords": []
+    },
+    {
+      "title": "8月5日热门中概股涨跌不一，台积电涨2.70%，新东方跌4.74%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimezkx4889201.shtml",
+      "content": "8月5日热门中概股涨跌不一，纳斯达克中国金龙指数（HXC）收跌0.35%。 上涨个股（按市值从高到低）：台积电涨2.70%，阿里巴巴涨1.31%，拼多多涨0.98%，日月光半导体涨5...",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-08-04",
+      "time": "20:34",
+      "keywords": []
+    },
+    {
       "title": "纽约汇市：美元指数基本持平 日元四连涨后回落",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimevav5453144.shtml",
@@ -450,20 +506,6 @@
       "period": "night",
       "date": "2026-08-04",
       "time": "18:52",
-      "keywords": []
-    },
-    {
-      "title": "一位投资策略专家与一位韩国牙医 挑战杠杆ETF传统玩法",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimeqvf1848356.shtml",
-      "content": " 越来越多来自美国、韩国等地的投资者，正把杠杆型ETF用于长期投资，这与这类产品最初为日内交易设计的用途已大相径庭。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-04",
-      "time": "16:12",
       "keywords": []
     },
     {
@@ -691,6 +733,104 @@
       "keywords": [
         "市场动态"
       ]
+    },
+    {
+      "title": "AMD Q2营收增长50%，数据中心销售翻倍，盘后股价跌逾8%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimezkt5367861.shtml",
+      "content": "AMD周二公布的第二季度财报超出预期，但股价在常规交易时段上涨后，盘后交易中大幅下挫。 AMD第二季度营收同比增长50%至115.36亿美元，高于预期的113亿美元...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-04",
+      "time": "21:31",
+      "keywords": []
+    },
+    {
+      "title": "美国债市：美债受油价大跌提振 日内守住涨幅",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimezkx4906750.shtml",
+      "content": "美国国债在美国早盘大幅上涨，因为美国财长斯科特·贝森特在接受采访时看好达成重开霍尔木兹海峡协议的前景，推动油价大跌。此后，美债在窄幅波动中守住涨幅...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-04",
+      "time": "21:23",
+      "keywords": []
+    },
+    {
+      "title": "原油：布伦特跌破每桶80美元 霍尔木兹海峡重开预期升温",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimezkz1678547.shtml",
+      "content": "油价跌至逾三周低点，市场愈发乐观地认为，美国与伊朗正接近达成重开霍尔木兹海峡的协议。 布伦特下跌5.3%，收于每桶79美元左右，为7月10日以来最低水平。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-08-04",
+      "time": "21:22",
+      "keywords": []
+    },
+    {
+      "title": "AMD营收展望令投资者失望 股价盘后跌约6%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-05/doc-inimezkx4905778.shtml",
+      "content": "AMD的最新销售展望令投资者失望，表明市场对全球AI数据中心扩张带来的回报抱有更高期待。 AMD周二在声明中表示，第三财季营收预计为130亿美元，上下浮动3亿美元。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-04",
+      "time": "21:21",
+      "keywords": []
+    },
+    {
+      "title": "SpaceX今年已购买价值3.29亿美元的特斯拉工业级储能设备Megapack",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimezkr3755848.shtml",
+      "content": " 根据周二发布的公司财报，SpaceX已加大特斯拉Megapack的采购力度，第二季度在该电池储能设备上花费2.95亿美元，今年迄今总计3.29亿美元。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-08-04",
+      "time": "21:16",
+      "keywords": []
+    },
+    {
+      "title": "Arista Networks第二季度利润与销售额双双增长",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimezkx4902045.shtml",
+      "content": "Arista Networks于周二美股收盘后公布第二季度利润增长，销售额亦有所攀升。 这家网络基础设施公司实现利润12.1亿美元，合每股收益95美分，而去年同期利润为8.888亿美元...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-04",
+      "time": "21:12",
+      "keywords": []
+    },
+    {
+      "title": "安进二季度强劲药品销售，上调预期，将终止早期减肥药研发",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimezkz1673958.shtml",
+      "content": " 安进公司于周二美股收盘后公布财报，第二季度强劲药品销售提振公司利润，因此上调了全年预期，但同时表示将终止一款早期减肥疗法的开发。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-04",
+      "time": "21:11",
+      "keywords": []
     },
     {
       "title": "新泽西州起诉亚马逊，指控其配送网络非法压低工资",
@@ -1054,146 +1194,6 @@
       "period": "noon",
       "date": "2026-08-04",
       "time": "17:06",
-      "keywords": []
-    },
-    {
-      "title": "伊朗称与阿曼就霍尔木兹海峡进行了“积极”讨论",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimequx5531257.shtml",
-      "content": "伊朗外交部发言人巴加埃称，伊朗与阿曼已在技术和政治层面就霍尔木兹海峡海上交通管理进行了积极讨论。 巴加埃表示，双方正就船舶通过海峡的未来安排...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-04",
-      "time": "16:42",
-      "keywords": []
-    },
-    {
-      "title": "新泽西州依据反垄断法起诉亚马逊，指控其非法支配配送承包商",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimequx5529494.shtml",
-      "content": "核心要点 新泽西州正式起诉亚马逊，指控其对大量签约配送企业行使买方垄断势力。 诉状指出，亚马逊第三方配送模式压低司机薪资、造成不公工作环境，并抑制市场竞争。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-04",
-      "time": "16:37",
-      "keywords": []
-    },
-    {
-      "title": "福特7月美国销量下滑10.2%，为何公司仍称当月表现“不错”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimequx5528419.shtml",
-      "content": "核心要点 福特周二公布，7 月美国汽车销量同比下滑 10.2%，但企业评价这依旧是 “销量表现良好的一个月”。 福特表示，销量大幅回落是主动规划的结果：这家底特律车企停产两...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-04",
-      "time": "16:34",
-      "keywords": []
-    },
-    {
-      "title": "华尔街有人押注：SpaceX本周股价有望涨至当前三倍",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimequv3923401.shtml",
-      "content": "先提醒一句：这个观点，大家需要审慎看待，不能轻信。 过去数周，看多 SpaceX 期权交易者最热衷交易的合约，是行权价 330 美元的看涨期权。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-04",
-      "time": "16:29",
-      "keywords": []
-    },
-    {
-      "title": "伊朗考虑允许欧洲参与霍尔木兹海峡排雷",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimequx5511983.shtml",
-      "content": " 伊朗考虑允许欧洲国家清除霍尔木兹海峡的水雷，这一潜在的让步可能成为恢复海峡航运正常化协议的一部分，并有助于缓和与美国的和平谈判。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-04",
-      "time": "15:53",
-      "keywords": []
-    },
-    {
-      "title": "欧洲债市：欧洲债券上涨 美伊协议预期推动油价下跌",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimequv3905368.shtml",
-      "content": " 欧洲政府债券收益率全线下跌，因为卡塔尔表示，一项旨在重启美伊谈判的潜在协议“已经起草”，并且美国财长贝森特也对达成重开霍尔木兹海峡的协议表示乐观。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-04",
-      "time": "15:46",
-      "keywords": []
-    },
-    {
-      "title": "苹果公司请求法官即刻禁止OpenAI使用其商业秘密",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimequv3905239.shtml",
-      "content": " 苹果公司在指控OpenAI有组织窃取其将发布产品的信息案中再次出击，请求联邦法官立即下令这家人工智能企业停止使用它所指的被窃商业秘密。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-08-04",
-      "time": "15:45",
-      "keywords": []
-    },
-    {
-      "title": "Anthropic与Volta达成100亿美元算力协议",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimequx5500572.shtml",
-      "content": "知情人士称，Anthropic PBC与成立仅数月的基础设施初创公司Volta Infra Holdings Ltd．达成一项价值100亿美元的算力协议，此举是这家Claude开发商为满足产品需求而采取的最...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-08-04",
-      "time": "15:28",
-      "keywords": []
-    },
-    {
-      "title": "SpaceX财报发布前夕 航天概念股普涨",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimequv3893712.shtml",
-      "content": "在马斯克旗下SpaceX公布上市以来首份财报前夕，火箭、卫星及其他航天概念股周二普遍上涨。 航天与国防公司Voyager Technologies表现最佳，此前该公司上调全年营收预期。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-04",
-      "time": "15:22",
-      "keywords": []
-    },
-    {
-      "title": "美国6月职位空缺回落 裁员依然有限",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-04/doc-inimeqvf1830218.shtml",
-      "content": "美国6月职位空缺数量回落，但招聘人数小幅增加，表明进入夏季后企业用工需求总体保持稳定。 美国劳工统计局周二公布的数据显示，6月职位空缺数从5月的754万降至736万。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-04",
-      "time": "15:13",
       "keywords": []
     },
     {
