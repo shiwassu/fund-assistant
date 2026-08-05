@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-05T18:08:24.278612",
+  "updated": "2026-08-05T20:12:18.670885",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,53 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 28,
+    "high": 26,
     "medium": 30,
-    "low": 92
+    "low": 94
   },
   "items": [
+    {
+      "title": "8月6日收盘：美股涨跌不一，道指再创新高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimieit4875519.shtml",
+      "content": " 北京时间8月6日凌晨，美股周三收盘涨跌不一，道指再创历史新高。标普500指数结束此前连续四个交易日上涨的行情。市场继续关注美股财报与中东局势的发展。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-05",
+      "time": "20:08",
+      "keywords": []
+    },
+    {
+      "title": "SpaceX股价下跌12%，AI支出激增令投资者不安，大规模股票解禁在即",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimieit4863976.shtml",
+      "content": "SpaceX股价周三暴跌12%，此前人工智能支出的激增令投资者感到不安，并给本已超出预期的季度业绩蒙上阴影。 在周二SpaceX作为上市公司发布的首份财报中，这家太空公司表示...",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-05",
+      "time": "19:29",
+      "keywords": []
+    },
+    {
+      "title": "微软的最新披露显示其AI业务收入主要来自OpenAI",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-06/doc-inimieix4202238.shtml",
+      "content": "微软最新披露的信息显示，其大部分人工智能（AI）业务收入来自OpenAI。 软件巨头微软上周在监管文件中表示，截至6月的一年里，该公司从OpenAI录得241亿美元收入。",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-05",
+      "time": "18:57",
+      "keywords": []
+    },
     {
       "title": "特朗普政府退还1000亿美元“解放日”关税税款",
       "source": "环球市场播报",
@@ -108,76 +150,6 @@
       "period": "noon",
       "date": "2026-08-05",
       "time": "14:32",
-      "keywords": []
-    },
-    {
-      "title": "开盘，暴跌超10%！美股两大巨头，双双闪崩！千亿解禁，明日将至",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-08-05/doc-inimhttx5000525.shtml",
-      "content": "美股航天与通信板块集体调整！ 北京时间周三晚间，在美股三大指数集体上涨的背景下，SpaceX及卫讯公司（Viasat）双双暴跌。截至21：40，SpaceX跌超10%，Viasat跌超6%。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-05",
-      "time": "14:09",
-      "keywords": []
-    },
-    {
-      "title": "美股早盘继续上扬，道指与标普指数再创新高",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimhttv3393752.shtml",
-      "content": " 北京时间8月5日晚，美股周三早盘继续上扬，道指与标普500指数再创盘中历史新高。强劲财报与伊朗局势乐观情绪推动主要股指延续昨日涨势。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-05",
-      "time": "14:07",
-      "keywords": []
-    },
-    {
-      "title": "创新药龙头公告，上半年净利润大增超627%，全年营收预测上调！",
-      "source": "证券时报数据宝",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-05/doc-inimhttx4997413.shtml",
-      "content": "今日（8月5日）A股三大指数收涨，上证指数报收3878.43点，上涨1.47%；深证成指上涨1.86%，创业板指上涨1.32%。市场全天成交额约2.68万亿元，较前一交易日增加4514亿元...",
-      "priority": "high",
-      "sectors": [
-        "医药"
-      ],
-      "period": "noon",
-      "date": "2026-08-05",
-      "time": "14:04",
-      "keywords": []
-    },
-    {
-      "title": "9连板大牛股，明起复牌！",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/s/2026-08-05/doc-inimhttx4998594.shtml",
-      "content": "2026年7月21日至7月31日，爱丽家居（603221）股价连续9个交易日涨停，连续发生4次股票交易异常波动情况，两次触及严重异常波动指标，公司股价累计涨幅达135.77%...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-05",
-      "time": "14:03",
-      "keywords": []
-    },
-    {
-      "title": "688121，或触及重大违法强制退市！",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/s/2026-08-05/doc-inimhttv3394577.shtml",
-      "content": "因无法按期披露定期报告被实施退市风险警示后，*ST卓然（688121）又面临新的风险：公司可能触及重大违法强制退市。 8月5日晚间，*ST卓然披露立案调查进展公告...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-05",
-      "time": "14:03",
       "keywords": []
     },
     {
@@ -439,6 +411,34 @@
       ]
     },
     {
+      "title": "纽约汇市：美元延续本周跌势 日元回升",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimieix4218239.shtml",
+      "content": "美元指数下跌，美元兑多数十国集团货币走弱；日元小幅走强。 美元指数下跌0.2%，报1203.01，本周延续跌势。 美国国债持平，此前美国财政部维持发债指引不变。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-05",
+      "time": "20:01",
+      "keywords": []
+    },
+    {
+      "title": "美股尾盘涨跌不一，英伟达推动道指上涨",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimieix4201081.shtml",
+      "content": " 北京时间8月6日凌晨，美股周三午盘涨跌不一，道指涨幅收窄，纳指与标普500指数转跌。市场继续关注美股财报与伊朗局势。",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-08-05",
+      "time": "18:52",
+      "keywords": []
+    },
+    {
       "title": "富兰克林邓普顿任命Rene Buehlmann为亚太主管",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-08-06/doc-inimhxzz4318524.shtml",
@@ -632,34 +632,6 @@
       "period": "noon",
       "date": "2026-08-05",
       "time": "14:10",
-      "keywords": []
-    },
-    {
-      "title": "SpaceX债券在高评级债券中跌幅居前",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimhttx4998333.shtml",
-      "content": " SpaceX债券周三早盘利差走阔。这家新近上市的航天科技公司将人工智能相关资本支出增加一倍，盖过了季度业绩好于预期带来的利好。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-05",
-      "time": "14:09",
-      "keywords": []
-    },
-    {
-      "title": "迪士尼财报超预期，乐园与流媒体业务提供提振",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimhtuf1156215.shtml",
-      "content": " 迪士尼周三公布的财报显示，公司本季度业绩喜忧参半：每股收益大幅超出华尔街预期，但营收略低于预期。乐园和流媒体业务再次成为主要推动力。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-05",
-      "time": "14:07",
       "keywords": []
     },
     {
@@ -887,6 +859,76 @@
       "keywords": [
         "权益周观察"
       ]
+    },
+    {
+      "title": "原油：油价三连跌 市场关注霍尔木兹海峡协议进展",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimieir3265815.shtml",
+      "content": " 油价连续第三个交易日下跌，因为有迹象显示美国与伊朗接近重开霍尔木兹海峡的协议，这可能恢复因数月冲突而中断的每日数百万桶原油供应。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-08-05",
+      "time": "19:47",
+      "keywords": []
+    },
+    {
+      "title": "谷歌AI大重组：首席科学家杰夫·迪恩离职，戴密斯·哈萨比斯卸任DeepMind CEO",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimieir3259668.shtml",
+      "content": "谷歌于周三宣布，其AI部门将进行重组，首席科学家杰夫·迪恩在任职27年后将离开公司。 根据谷歌首席执行官桑达尔·皮查伊发布在谷歌博客上的一份备忘录...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-05",
+      "time": "19:26",
+      "keywords": []
+    },
+    {
+      "title": "伊朗总统：目前“很难”与最高领袖取得联系",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimieit4862594.shtml",
+      "content": "伊朗总统马苏德·佩泽希齐扬在电视采访中表示，“目前很难”联系到伊朗最高领袖穆杰塔巴·哈梅内伊。 “他的存在是我们力量的源泉，”佩泽希齐扬称。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-05",
+      "time": "19:24",
+      "keywords": []
+    },
+    {
+      "title": "Meta推出首款AI编程智能体，与Anthropic和OpenAI展开竞争",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimieir3258326.shtml",
+      "content": "Meta正在推出其首款名为Muse Code的编程智能体，力图挑战领先的AI实验室Anthropic和OpenAI。 Muse Code是AI主管亚Alexandr Wang发布的最新重要产品...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-05",
+      "time": "19:22",
+      "keywords": []
+    },
+    {
+      "title": "Meta推出首款AI编程智能体，向Anthropic和OpenAI发起挑战",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-06/doc-inimieix4207073.shtml",
+      "content": "Meta正推出其首款名为Muse Code的编程智能体，力图挑战领先的AI实验室Anthropic和OpenAI。 Muse Code是AI负责人亚历山大·王的最新重要发布...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-05",
+      "time": "19:15",
+      "keywords": []
     },
     {
       "title": "谷歌AI业务迎重大人事变动 Alphabet股价应声跌逾5%",
@@ -1152,48 +1194,6 @@
       "period": "noon",
       "date": "2026-08-05",
       "time": "14:24",
-      "keywords": []
-    },
-    {
-      "title": "澳大利亚捷星航空宣布自2027年起对客舱行李架收费",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-05/doc-inimhtuc4384307.shtml",
-      "content": "澳大利亚低成本航空公司捷星航空（Jetstar）8月5日宣布，自2027年2月起，将向使用客舱顶部行李架存放随身行李的旅客收取额外费用。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-05",
-      "time": "14:09",
-      "keywords": []
-    },
-    {
-      "title": "长城证券：公司将于2026年8月21日召开2026年第一次临时股东会",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-05/doc-inimhttx5018647.shtml",
-      "content": "证券日报网讯 8月5日，长城证券发布公告称，公司将于2026年8月21日召开2026年第一次临时股东会。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-05",
-      "time": "14:03",
-      "keywords": []
-    },
-    {
-      "title": "连续3年亏损，宝莱特部分募投项目终止或结项，剩余募集资金拟用于“补流”",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-08-05/doc-inimhtuc4382739.shtml",
-      "content": "每经记者|甄素静每经编辑|陈旭 连续三年亏损的创业板医疗器械公司宝莱特（SZ300246，股价19.26元，总市值50.96亿元），正面临控制权变更与募投项目大幅调整。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-05",
-      "time": "14:02",
       "keywords": []
     },
     {
