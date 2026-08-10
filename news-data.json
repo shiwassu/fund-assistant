@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-10T17:31:08.464351",
+  "updated": "2026-08-10T19:36:46.098778",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,9 +7,9 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 31,
-    "medium": 28,
-    "low": 91
+    "high": 29,
+    "medium": 29,
+    "low": 92
   },
   "items": [
     {
@@ -207,34 +207,6 @@
       "period": "noon",
       "date": "2026-08-10",
       "time": "13:32",
-      "keywords": []
-    },
-    {
-      "title": "11个涨停！603221，再度停牌核查",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/wm/2026-08-10/doc-inimvxcf2746206.shtml",
-      "content": "因跨界收购切入半导体存储测试设备赛道，爱丽家居（603221）连续大涨。 8月10日晚间，爱丽家居发布股票交易风险提示暨停牌核查公告，因公司股票自2026年7月21日至8月10日...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-10",
-      "time": "13:22",
-      "keywords": []
-    },
-    {
-      "title": "LOF退市新规征求意见，投机“乐园”进入散场时间",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/roll/2026-08-10/doc-inimvxcf2743201.shtml",
-      "content": "两类LOF强制退市、迷你产品触发即走，基金公司摸底进行时。 LOF（上市开放式基金）退市新规征求意见稿发布后的首个交易日，盘面给出了第一波回应。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-10",
-      "time": "13:16",
       "keywords": []
     },
     {
@@ -479,6 +451,34 @@
       ]
     },
     {
+      "title": "纽约汇市：美元上涨 日元回吐干预带来的一半涨幅",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwpza6070446.shtml",
+      "content": "美元指数随油价上涨，伊朗与阿曼的协议仍未达成。日元回吐近期干预行动激发的一半涨幅，周一在十国集团中表现垫底。 彭博美元即期指数上涨0.2%；国债收益率也上升。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-10",
+      "time": "19:35",
+      "keywords": []
+    },
+    {
+      "title": "日元兑美元下跌1% 创3月份以来最大跌幅",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwpyx7783429.shtml",
+      "content": "日元周一在纽约午后交易中下跌1%，报1美元兑159.35日元。 日元在G10货币中表现最差；彭博美元指数上涨0.2%。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-10",
+      "time": "19:19",
+      "keywords": []
+    },
+    {
       "title": "华尔街公司与英伟达就5000亿美元AI融资协议达成合作",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimwisx0980453.shtml",
@@ -638,20 +638,6 @@
       "source": "中国证券报-中证网",
       "url": "https://finance.sina.com.cn/jjxw/2026-08-10/doc-inimvxcf2756780.shtml",
       "content": "01 8月10日，养殖、消费、有色等板块走强，多只养殖、黄金股、消费主题ETF涨超2%；半导体设备板块领涨，多只半导体主题ETF涨超3% 02 今日尾盘，创业板综ETF博时直线拉升...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-10",
-      "time": "13:22",
-      "keywords": []
-    },
-    {
-      "title": "公私募基金最新持仓路线图浮现",
-      "source": "中国证券报-中证网",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-10/doc-inimvxcc1152679.shtml",
-      "content": "截至8月10日，已有百余家A股上市公司发布2026年半年报。数据显示，多家上市公司前十大股东里出现知名公私募基金的身影。从已披露信息来看...",
       "priority": "medium",
       "sectors": [
         "综合"
@@ -905,6 +891,63 @@
       ]
     },
     {
+      "title": "霍尔木兹协议希望渺茫 特朗普提出赔偿反要求而伊朗提拔强硬派指挥官",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-11/doc-inimwpyz4559924.shtml",
+      "content": " 美国总统唐纳德·特朗普周一强硬回击了伊朗获得战争赔偿的要求，事态的最新发展令迅速达成重新开放霍尔木兹海峡协议的希望降温并推高了油价。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-10",
+      "time": "19:34",
+      "keywords": []
+    },
+    {
+      "title": "白宫：布兰奇宣誓就任美国司法部长",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimwite6188551.shtml",
+      "content": "白宫新闻秘书卡罗琳· 莱维特在社交平台发文称，托德·布兰奇已宣誓就任美国司法部长。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-10",
+      "time": "18:58",
+      "keywords": []
+    },
+    {
+      "title": "特朗普称伊朗应为邻国遭受的损失负责",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimwisx1007178.shtml",
+      "content": "美国总统特朗普称，伊朗“应该对黎巴嫩、叙利亚、也门和加沙人民遭受的损失和死亡负责”。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-10",
+      "time": "17:56",
+      "keywords": []
+    },
+    {
+      "title": "英伟达联手华尔街巨头筹划5000亿美元AI基建融资",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimwitc4651224.shtml",
+      "content": "一批美国投资巨头正与英伟达合作，拟为人工智能基础设施项目提供5000亿美元资金。 阿波罗全球管理、黑石集团、贝莱德旗下Global Infrastructure Partners、博枫公司...",
+      "priority": "low",
+      "sectors": [
+        "半导体",
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-08-10",
+      "time": "17:32",
+      "keywords": []
+    },
+    {
       "title": "高盛全球银行与市场业务联席主管：三大理由建议持续布局市场",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-11/doc-inimwitc4643215.shtml",
@@ -1154,48 +1197,6 @@
       "period": "noon",
       "date": "2026-08-10",
       "time": "13:37",
-      "keywords": []
-    },
-    {
-      "title": "超强厄尔尼诺要来了，明年会比今年更热吗？",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/roll/2026-08-10/doc-inimvxcc1147904.shtml",
-      "content": " 你有没有感觉今年特别热？事实上，明年可能会更热。根据最新监测，一场超强厄尔尼诺事件正在路上。它到底是什么？又对我们有什么影响？",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-10",
-      "time": "13:18",
-      "keywords": []
-    },
-    {
-      "title": "英特尔宣布拟增发150亿美元普通股，盘前股价下跌3%以上",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvxcf2740222.shtml",
-      "content": "芯片厂商英特尔宣布计划增发 150 亿美元普通股后，该股周一盘前跌幅扩大至 3% 以上。 英特尔在公告中表示，本次募资所得资金将用于一般企业经营用途...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-10",
-      "time": "13:14",
-      "keywords": []
-    },
-    {
-      "title": "消息称游戏驿站拟放弃收购eBay，盘前上涨超2%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-10/doc-inimvxcf8034629.shtml",
-      "content": "媒体报道，游戏驿站正考虑撤回对 eBay 价值 560 亿美元的收购要约，受此影响，游戏驿站股价涨幅超 2%。 今年 5 月，eBay 拒绝了游戏驿站这份主动发起的收购邀约。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-10",
-      "time": "13:12",
       "keywords": []
     },
     {
