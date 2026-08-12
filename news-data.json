@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-12T17:35:54.492131",
+  "updated": "2026-08-12T19:43:28.495480",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,9 +7,9 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 31,
+    "high": 30,
     "medium": 20,
-    "low": 99
+    "low": 100
   },
   "items": [
     {
@@ -235,20 +235,6 @@
       "period": "noon",
       "date": "2026-08-12",
       "time": "14:19",
-      "keywords": []
-    },
-    {
-      "title": "AI扩张成本高企，令美联储抗通胀工作陷入两难",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-12/doc-ininarri3820303.shtml",
-      "content": "核心要点 硅谷巨头认为，人工智能长期将降低成本、提振生产率。但现阶段，大规模 AI 基建投入推高电力、芯片、软件与数据中心算力租金价格。",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-08-12",
-      "time": "14:16",
       "keywords": []
     },
     {
@@ -789,6 +775,104 @@
       ]
     },
     {
+      "title": "美国新发10年期国债的中标收益率创出金融危机以来新高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-13/doc-inincaex3247225.shtml",
+      "content": " 美国420亿美元的10年期国债拍卖产生了2007年以来的最高收益率，表明一直要求为资助该国政府得到更多回报的投资者兴趣不俗。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-08-12",
+      "time": "19:40",
+      "keywords": []
+    },
+    {
+      "title": "美国7月预算赤字激增 联邦支出加速增长",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-13/doc-inincafc3684249.shtml",
+      "content": "由于联邦支出加速增长，美国7月预算赤字创同期纪录，达到4320亿美元，再次凸显政府借款需求持续上升。 美国财政部周三公布的数据显示，2026财年前10个月预算赤字累计达1...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-12",
+      "time": "19:40",
+      "keywords": []
+    },
+    {
+      "title": "日食推动欧洲酒店价格飙升至每晚逾1000美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-13/doc-inincafc3669684.shtml",
+      "content": "在欧洲部分可观测到日食的地区，酒店和短租价格飙升至每晚逾1000美元。 此次日食于8月12日在英国、冰岛、西班牙北部、格陵兰和葡萄牙可见，引发了各地旅游需求的激增...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-12",
+      "time": "18:56",
+      "keywords": []
+    },
+    {
+      "title": "SpaceX做空者弹药耗尽，股价自低点反弹逾30%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-13/doc-ininavwz3357111.shtml",
+      "content": "押注SpaceX下跌的做空者正迅速撤离该交易，而此时这家新上市公司的股价正从IPO后的低迷中反弹。 根据S3 Partners的数据，周三SpaceX的做空比例降至该公司公开交易股票的大...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-12",
+      "time": "18:28",
+      "keywords": []
+    },
+    {
+      "title": "美国7月联邦预算赤字飙升，创2021年3月以来新高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-13/doc-ininavwz3356700.shtml",
+      "content": " 美国财政部周三公布数据：受联邦医疗保险开支大增、联邦债务利息持续拖累财政状况影响，美国月度预算赤字飙升至五年多以来最高水平。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-12",
+      "time": "18:27",
+      "keywords": []
+    },
+    {
+      "title": "加拿大在对美谈判中权衡汽车关税提议",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-13/doc-ininavxa5055442.shtml",
+      "content": "加拿大官员正考虑提议接受美国汽车关税，以换取对符合《美墨加协定》规则的汽车降低关税。 该提议还将继续豁免加拿大出口汽车中美国零部件价值对应部分的关税。",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-08-12",
+      "time": "18:11",
+      "keywords": []
+    },
+    {
+      "title": "美国7月预算赤字为4323.1亿美元 预估赤字为3460亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-13/doc-ininavxf3782326.shtml",
+      "content": "美国7月预算赤字高于经济学家预期。 7月赤字为4323.1亿美元（预估3460亿），12名经济学家的预估区间4400亿至2750亿美元。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-12",
+      "time": "18:10",
+      "keywords": []
+    },
+    {
       "title": "美国财政部10年期国债中标收益率4.683% 创2007年以来最高",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-13/doc-ininavxf3763221.shtml",
@@ -1094,90 +1178,6 @@
       "period": "noon",
       "date": "2026-08-12",
       "time": "14:19",
-      "keywords": []
-    },
-    {
-      "title": "300322，拟定增募资加码AI散热、智能眼镜、卫星通信",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/wm/2026-08-12/doc-ininarrc3406763.shtml",
-      "content": "硕贝德（300322）8月12日晚间公告，公司拟定增募资不超过10.96亿元，用于服务器散热模组项目、智能眼镜轻量化射频组件项目、低轨卫星通信天线及模组项目以及补充流动资金。...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-08-12",
-      "time": "14:16",
-      "keywords": []
-    },
-    {
-      "title": "高校开始买房了：深圳大学拟5.3亿元购楼作学生宿舍 存量房去化新渠道",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/wbstock/2026-08-12/doc-ininarqz6639094.shtml",
-      "content": "来源：@财联社APP微博财联社8月12日讯，部分高校成为商品房市场新的潜在买家。中国深圳政府采购网日前发布《深圳大学购置商品房用作学生住房项目意向公开》...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-12",
-      "time": "14:11",
-      "keywords": []
-    },
-    {
-      "title": "从网点等客到市集拉客：多家银行抢滩文旅“流量”，有何深意？",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-12/doc-ininamim3946060.shtml",
-      "content": "每经记者|郭妍宏每经编辑|廖丹 以前去银行要带身份证，现在去“银行”还可以多带个“胃”。 在潮饮节排队买柠檬茶，一抬头发现隔壁打卡点站的是银行；在嘉年华领消费券...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-08-12",
-      "time": "14:05",
-      "keywords": []
-    },
-    {
-      "title": "兰州银行：公司将于2026年8月28日召开2026年第一次临时股东会",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-12/doc-ininamim3947670.shtml",
-      "content": "证券日报网讯8月12日，兰州银行发布公告称，公司将于2026年8月28日召开2026年第一次临时股东会。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-08-12",
-      "time": "14:02",
-      "keywords": []
-    },
-    {
-      "title": "东方新能：公司及控股子公司不存在逾期债务涉及的担保",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-12/doc-ininarri3824197.shtml",
-      "content": "证券日报网讯8月12日，东方新能发布公告称，公司及控股子公司不存在逾期债务涉及的担保、不存在涉及诉讼的担保、不存在因判决败诉而应承担担保责任的情形。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-12",
-      "time": "14:02",
-      "keywords": []
-    },
-    {
-      "title": "横店东磁（002056）：中标杭州富阳粤电新能源有限公司采购项目，中标金额为2027.40万元",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-12/doc-ininarre5092882.shtml",
-      "content": "同壁财经讯，企查查数据显示，根据《杭州富阳粤电新能源有限公司、泰州粤电新能源有限公司广东能源集团2026年光伏组件第二批集中招标采购项目（标段二：广东能源富阳区鹿山...",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-08-12",
-      "time": "13:58",
       "keywords": []
     },
     {
