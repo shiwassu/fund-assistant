@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-14T19:33:46.124889",
+  "updated": "2026-08-14T20:59:15.986797",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,54 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 28,
-    "medium": 22,
-    "low": 100
+    "high": 27,
+    "medium": 21,
+    "low": 102
   },
   "items": [
+    {
+      "title": "8月15日收盘：美股三大指数周五收跌，标普500周线三连阳",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiqkw3862105.shtml",
+      "content": "标普500指数在周四创下历史新高后周五回落，但该指数仍录得连续第三周上涨。 道指跌107.57点，跌幅为0.2%，报53732.41点；标普500指数跌13.23点，跌幅为0.17%，报7785...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-14",
+      "time": "20:50",
+      "keywords": []
+    },
+    {
+      "title": "纽约汇市：美元因美国零售销售疲软而下跌 日元小幅走强",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiqmc9054812.shtml",
+      "content": " 彭博美元指数触及5月份以来最低，此前美国零售销售数据出人意料地表现疲软，令市场对美国加息的预期降温。日元小幅上涨。",
+      "priority": "high",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-08-14",
+      "time": "20:39",
+      "keywords": []
+    },
+    {
+      "title": "大宗商品综述：油价上涨 铜价走高 金价反弹",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiqma2282143.shtml",
+      "content": " 原油价格小幅走高，交易员权衡美国拟加大对伊朗经济压力的威胁。铜价上涨，有迹象显示铜供应进一步趋紧。金价回升，最新通胀数据削弱对美联储加息的预期。",
+      "priority": "high",
+      "sectors": [
+        "黄金",
+        "有色"
+      ],
+      "period": "night",
+      "date": "2026-08-14",
+      "time": "20:38",
+      "keywords": []
+    },
     {
       "title": "芝加哥联储行长对通胀降温感到鼓舞 仍希望看到更多证据",
       "source": "环球市场播报",
@@ -150,62 +193,6 @@
       "period": "noon",
       "date": "2026-08-14",
       "time": "13:50",
-      "keywords": []
-    },
-    {
-      "title": "2025年银行法人净减676家",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/wbstock/2026-08-14/doc-ininhxpe4090312.shtml",
-      "content": "来源：@究竟视频微博【#2025年银行法人净减676家#】#农村中小银行成此轮减量绝对主体#8月14日，国家金融监督管理总局定期公开披露所监管的法人机构名单信息...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-08-14",
-      "time": "13:39",
-      "keywords": []
-    },
-    {
-      "title": "7月金融数据出炉：直接融资继续发力 贷款“降速提质”成主线",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/roll/2026-08-14/doc-ininhxpk2532563.shtml",
-      "content": "21世纪经济报道记者 唐婧 8月14日，中国人民银行公布2026年7月金融数据。7月末，社会融资规模存量463.27万亿元，同比增长7.4%；广义货币（M2）余额355.51万亿元...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-08-14",
-      "time": "13:38",
-      "keywords": []
-    },
-    {
-      "title": "韩国三星会长上半年依旧零薪酬 SK集团会长报酬达17.5亿韩元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhxpm9301560.shtml",
-      "content": " 周五披露的监管申报资料显示，三星电子会长李在镕今年上半年继续未领取任何薪酬，SK集团会长崔泰源同期报酬为17.5亿韩元（约合123万美元）。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-14",
-      "time": "13:35",
-      "keywords": []
-    },
-    {
-      "title": "三星电子上半年研发投入创纪录达27万亿韩元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhxpk2528591.shtml",
-      "content": "周五披露的监管申报文件显示，2026年上半年，三星电子研发投入创下新高，达27.3万亿韩元（折合190亿美元）。 这家韩国科技巨头1‑6月研发费用较去年同期的18...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-14",
-      "time": "13:34",
       "keywords": []
     },
     {
@@ -433,6 +420,20 @@
       ]
     },
     {
+      "title": "特朗普政府据悉调整古巴策略 淡化军事选项转向经济施压",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiqkz2577803.shtml",
+      "content": " 据知情人士透露，特朗普政府对古巴的策略正日益侧重于加大制裁和经济压力，而非动用军事力量来瓦解这个岛国的共产党政权。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-14",
+      "time": "20:13",
+      "keywords": []
+    },
+    {
       "title": "Rokos效仿多策略基金 将客户完全赎回期限延长至三年",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininikcf9116161.shtml",
@@ -542,34 +543,6 @@
       "period": "noon",
       "date": "2026-08-14",
       "time": "14:21",
-      "keywords": []
-    },
-    {
-      "title": "开盘：标普500微升，有望收获周线连涨",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhxpm9299121.shtml",
-      "content": "经历前一交易日创新高行情后，美股主要股指周五走势分化；三大股指中有两大基准指数有望实现周线三连涨。 道指跌0.11%，标普500指数涨0.07%，纳指涨0.16%。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-14",
-      "time": "13:30",
-      "keywords": []
-    },
-    {
-      "title": "野村预计日元兑欧元下跌3%，重新建立欧元多头头寸",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhxpk2523312.shtml",
-      "content": " 野村国际预计，截至9月底日元兑欧元将贬值超3%，该机构再度建仓，押注日元将回吐全部干预带来的涨幅，并兑欧元创下历史新低。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-14",
-      "time": "13:26",
       "keywords": []
     },
     {
@@ -765,6 +738,90 @@
       "keywords": [
         "周刊提前读"
       ]
+    },
+    {
+      "title": "英伟达披露持有210亿美元的SpaceX股份",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusx2461874.shtml",
+      "content": "根据申报文件，英伟达披露持有价值209.7亿美元的SpaceX股份。 英伟达还披露持有价值约300亿美元的英特尔股份。",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-08-14",
+      "time": "20:58",
+      "keywords": []
+    },
+    {
+      "title": "哈佛披露持有价值22亿美元的SpaceX股份",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusu3733916.shtml",
+      "content": "哈佛在13F申报文件中披露，持有价值22.1亿美元的SpaceX股份。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-14",
+      "time": "20:57",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：永远不会因为战争导致美国汽油价格上涨而道歉",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiusy2156431.shtml",
+      "content": "美国总统特朗普表示，他不会因为伊朗战争导致美国人承担更高汽油价格而道歉。 特朗普在长岛的一场活动上作出上述表态。 特朗普还表示...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-14",
+      "time": "20:56",
+      "keywords": []
+    },
+    {
+      "title": "报道：特朗普称将重创伊朗经济",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiqkz2578419.shtml",
+      "content": "福克斯新闻一名记者在节目中援引对美国总统特朗普的采访称，美国将重创伊朗经济。 这名记者称，特朗普在被问及伊朗时表示，他并不在意这件事是不是在中期选举前发生。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-14",
+      "time": "20:15",
+      "keywords": []
+    },
+    {
+      "title": "报道：Coinbase、a16z和Kalshi高管将出席白宫会议 特朗普也将与会",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiqkw3850860.shtml",
+      "content": " Semafor记者在X平台发文称，Coinbase、Andreessen Horowitz（a16z）、Kalshi、Ripple和Chainlink的高管预计将于周三出席在白宫举行的会议。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-14",
+      "time": "20:14",
+      "keywords": []
+    },
+    {
+      "title": "美国债市：国债收益率曲线熊陡 英债遭抛售波及美债",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-15/doc-ininiqmc9048196.shtml",
+      "content": " 美国国债在周五上午承压，追随欧债在伦敦收盘前的跌势，英国国债卖压尤其明显。纽约午后交易时段美债跌幅大体维持，收益率曲线全天呈现熊陡。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-14",
+      "time": "20:14",
+      "keywords": []
     },
     {
       "title": "加拿大与美国贸易谈判涉及关键矿产和国防问题",
@@ -1073,62 +1130,6 @@
       "period": "noon",
       "date": "2026-08-14",
       "time": "13:47",
-      "keywords": []
-    },
-    {
-      "title": "强瑞技术10.5亿元定增：大股东刚减持套现3.85亿两年累计套现7.6亿元 前次募投关键事项反复变更",
-      "source": "新浪证券",
-      "url": "https://finance.sina.com.cn/stock/aigcy/2026-08-14/doc-ininhxpk2536047.shtml",
-      "content": " 2026年8月11日，强瑞技术披露了一份募资总额不超过10.5亿元的定增预案。这已是这家2021年11月才登陆创业板的精密制造企业，短短5年时间里筹划的第二次再融资。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-14",
-      "time": "13:46",
-      "keywords": []
-    },
-    {
-      "title": "韩国总理会见比尔・盖茨 探讨小型模块化反应堆合作",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhxpi2814773.shtml",
-      "content": " 韩国总理办公室消息，韩国总理韩圣淑于周五会见比尔・盖茨，双方就新一代小型模块化反应堆（SMR）合作以及韩美能源合作展开磋商。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-14",
-      "time": "13:37",
-      "keywords": []
-    },
-    {
-      "title": "ST长园：公司股票申请撤销其他风险警示",
-      "source": "证券时报网",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-14/doc-ininhxpi2816033.shtml",
-      "content": "人民财讯8月14日电，ST长园（600525）8月14日公告，公司触及的其他风险警示情形已消除，且不存在触及其他风险警示的情形，公司向上交所申请撤销对公司股票实施其他风险警示...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-14",
-      "time": "13:37",
-      "keywords": []
-    },
-    {
-      "title": "武汉当代集团，滥用股东权利被处分",
-      "source": "上海证券报·中国证券网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-14/doc-ininhxpk2534779.shtml",
-      "content": "8月14日晚间，上交所下发纪律处分决定书，因天风证券为股东提供融资以及信息披露违法等行为违反了相关规定，对天风证券原第一大股东武汉当代科技产业集团股份有限公司（下...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-14",
-      "time": "13:36",
       "keywords": []
     },
     {
