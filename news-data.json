@@ -1,17 +1,59 @@
 {
-  "updated": "2026-08-14T13:58:48.868904",
-  "total": 149,
+  "updated": "2026-08-14T15:25:51.237191",
+  "total": 150,
   "sources": [
     "新浪财经",
     "akshare-财新",
     "Tushare"
   ],
   "priority_dist": {
-    "high": 29,
-    "medium": 23,
-    "low": 97
+    "high": 28,
+    "medium": 21,
+    "low": 101
   },
   "items": [
+    {
+      "title": "多只大涨牛股，被交易所重点监控",
+      "source": "一财网",
+      "url": "https://finance.sina.com.cn/wm/2026-08-14/doc-ininicvf2735945.shtml",
+      "content": "8月14日，据“上交所发布”消息，上交所本周对98起拉抬打压、虚假申报等证券异常交易行为采取了自律监管措施，对爱丽家居、百花医药等严重异常波动股票以及财通福鑫LOF等溢价...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-14",
+      "time": "15:17",
+      "keywords": []
+    },
+    {
+      "title": "沃伦致函 要求贝森特说明干预日元的依据",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-14/doc-ininicva4003641.shtml",
+      "content": " 美国参议员伊丽莎白·沃伦要求财政部长斯科特·贝森特解释特朗普政府干预日元的依据，延续了这位资深民主党人对特朗普政府外汇政策进行审查的一贯做法。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-14",
+      "time": "15:10",
+      "keywords": []
+    },
+    {
+      "title": "阅文集团中报：净利骤降84%背后 IP开发不足千分之一的新故事刚刚开始",
+      "source": "新浪证券",
+      "url": "https://finance.sina.com.cn/stock/aigcy/2026-08-14/doc-ininicvh2432582.shtml",
+      "content": " 2026年8月11日，阅文集团（00772.HK）发布中期业绩：上半年收入35.31亿元，同比增长10.7%；归母净利润1.35亿元，同比骤降84.1%。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-14",
+      "time": "14:41",
+      "keywords": []
+    },
     {
       "title": "减量提质进行时 2025年农村中小银行减少670家",
       "source": "中证金牛座",
@@ -38,6 +80,20 @@
       "period": "noon",
       "date": "2026-08-14",
       "time": "13:50",
+      "keywords": []
+    },
+    {
+      "title": "2025年银行法人净减676家",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/wbstock/2026-08-14/doc-ininhxpe4090312.shtml",
+      "content": "来源：@究竟视频微博【#2025年银行法人净减676家#】#农村中小银行成此轮减量绝对主体#8月14日，国家金融监督管理总局定期公开披露所监管的法人机构名单信息...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-08-14",
+      "time": "13:39",
       "keywords": []
     },
     {
@@ -150,62 +206,6 @@
       "period": "noon",
       "date": "2026-08-14",
       "time": "12:48",
-      "keywords": []
-    },
-    {
-      "title": "数据泄露通知数量已远超去年全年 人工智能影响持续扩大",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhxpk2498801.shtml",
-      "content": "尽管企业投入更多资源开展网络安全建设，但已披露的涉及消费者个人信息的数据泄露事件，有望突破去年创下的纪录。 身份盗窃资源中心（ITRC）是一家帮助身份被盗受害者...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-14",
-      "time": "12:39",
-      "keywords": []
-    },
-    {
-      "title": "金融监管总局披露所监管法人机构名单情况",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-08-14/doc-ininhxpm9280955.shtml",
-      "content": "来源：中国银行保险报 为充分保障社会公众对法人机构持牌情况的知情权，8月14日，在对截至2025年末的法人机构名单情况进行了统计整理后...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-08-14",
-      "time": "12:35",
-      "keywords": []
-    },
-    {
-      "title": "盘前：市场重新涌入AI 纳指期货涨0.28%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhxpm9267555.shtml",
-      "content": "周五全球股市走势震荡，有望连续第三周上涨，美国国债收益率小幅走高。此前温和的美国通胀数据削弱了市场对美联储下月加息的预期，不过...",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-08-14",
-      "time": "12:31",
-      "keywords": []
-    },
-    {
-      "title": "“价格涨太快，我很抱歉”，SK海力士：明年将迎最严重存储荒，美股存储芯片股盘前大涨，闪迪涨超7%",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/wm/2026-08-14/doc-ininhxpm9265393.shtml",
-      "content": "“所有的客户都在要求接近原来需求两倍的供货量。这是争夺记忆芯片的战争。”据上海证券报报道，日前，SK集团会长崔泰源在SK海力士韩国总部接受媒体采访时...",
-      "priority": "high",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-08-14",
-      "time": "12:22",
       "keywords": []
     },
     {
@@ -433,20 +433,60 @@
       ]
     },
     {
-      "title": "以往到了会前这个时候，市场对政策结果的预期通常已高度一致",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-07-29/102468988.html?cxapp_link=true",
-      "content": "以往到了会前这个时候，市场对政策结果的预期通常已高度一致",
-      "priority": "high",
+      "title": "法国宪法委员会否决青少年社交媒体禁令 马克龙改革议程受挫",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininicvf2731370.shtml",
+      "content": "法国最高宪法权力机构否决了议会上月通过的禁止15岁以下儿童使用社交媒体的法律，令力推该法案的总统马克龙遭遇挫折。 法国宪法委员会周五裁定，该禁令违宪...",
+      "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-08-14",
-      "time": "--:--",
-      "keywords": [
-        "市场动态"
-      ]
+      "time": "15:11",
+      "keywords": []
+    },
+    {
+      "title": "美国8月密歇根大学消费者信心指数初值为51.0，预估为55",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-14/doc-ininicva4003260.shtml",
+      "content": "密歇根大学8月消费者信心指数初值为51.0，前月为55.2。 预估中值为55，41位经济学家的预测区间为51.0至57.2； 当前经济状况指数为51.8；前月为54.8； 预期指数为50.6...",
+      "priority": "medium",
+      "sectors": [
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-08-14",
+      "time": "15:09",
+      "keywords": []
+    },
+    {
+      "title": "新材料龙头，上半年亏损1.67亿元，推逾806万股激励计划",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-14/doc-ininicvf2712459.shtml",
+      "content": "8月14日晚，上纬新材（688585.SH）披露2026年半年度报告。上半年，公司实现营业收入8.03亿元，同比增长2.42%；归属于上市公司股东的净利润亏损1.67亿元...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-14",
+      "time": "14:28",
+      "keywords": []
+    },
+    {
+      "title": "年内首单，并购重组被否！600499，重大资产重组终止",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-14/doc-ininicva3986223.shtml",
+      "content": "來源：中国基金报 【导读】科达制造宣布终止收购特福国际51.55%股权，此前该交易未获上交所重组委审核通过 中国基金报记者 牛思若 筹划近7个月...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-14",
+      "time": "14:21",
+      "keywords": []
     },
     {
       "title": "开盘：标普500微升，有望收获周线连涨",
@@ -477,6 +517,20 @@
       "keywords": []
     },
     {
+      "title": "922.78亿元！贵州茅台放榜",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/roll/2026-08-14/doc-ininhxpi2819496.shtml",
+      "content": "上证报中国证券网讯（记者 刘逸鹏）8月14日晚间，贵州茅台发布2026年半年报。上半年，公司实现营业总收入922.78亿元，同比增长1.3%，实现归母净利润445.17亿元...",
+      "priority": "medium",
+      "sectors": [
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-08-14",
+      "time": "13:24",
+      "keywords": []
+    },
+    {
       "title": "OpenAI最新高管招聘，强化网络安全领域竞争力",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininhxpi2799572.shtml",
@@ -502,104 +556,6 @@
       "period": "noon",
       "date": "2026-08-14",
       "time": "12:47",
-      "keywords": []
-    },
-    {
-      "title": "发力中国市场！苹果训练了一款“中国定制”大模型 开启AI双轨布局",
-      "source": "快科技",
-      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-08-14/doc-ininhxpk2513540.shtml",
-      "content": " 媒体近日援引知情人士消息称，苹果公司已专门针对中国市场训练了一款大语言模型。这一举措标志着苹果在华策略的重大转变——此前，其在中国的AI功能主要依赖第三方模型。",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-08-14",
-      "time": "12:44",
-      "keywords": []
-    },
-    {
-      "title": "翔港科技：上半年归母净利润同比增长5.45%",
-      "source": "界面",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-14/doc-ininhxpe4058486.shtml",
-      "content": "翔港科技8月14日披露半年报，公司上半年实现营业收入5.38亿元，同比增长4.48%；归属于上市公司股东的净利润8258.55万元，同比增长5.45%；基本每股收益0.1949元/股。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-14",
-      "time": "12:43",
-      "keywords": []
-    },
-    {
-      "title": "贵州茅台：上半年归母净利润同比下降1.95%",
-      "source": "界面",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-14/doc-ininhxpe4058482.shtml",
-      "content": "贵州茅台8月14日披露半年报，公司上半年实现营业收入907.03亿元，同比增长1.47%；归属于上市公司股东的净利润445.17亿元，同比下降1.95%；基本每股收益35.57元/股。",
-      "priority": "medium",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-08-14",
-      "time": "12:43",
-      "keywords": []
-    },
-    {
-      "title": "全球组件出货排名公布：隆基与晶科第一，爱旭进榜，阿特斯掉队",
-      "source": "世纪新能源网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-14/doc-ininhxpi2789756.shtml",
-      "content": "8月14日，InfoLink发布2026上半年全球组件出货排名：根据InfoLink调研，2026年上半年全球上榜组件供货商总出货量约为 181.39GW，由于排名末段出货量较为集中...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-14",
-      "time": "12:37",
-      "keywords": []
-    },
-    {
-      "title": "微众银行公开16家互联网营销合作平台，抖音、快手等均在列",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/roll/2026-08-14/doc-ininhxpi2778154.shtml",
-      "content": "21世纪经济报道 记者郭聪聪 进入8月，微众银行在信贷业务第三方合作机构名单的更新上动作频频。 8月12日，微众银行再度更新信贷业务第三方合作机构名单...",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-08-14",
-      "time": "12:31",
-      "keywords": []
-    },
-    {
-      "title": "八亿时空：上半年归母净利润同比增长41.54%",
-      "source": "界面",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-14/doc-ininhxpe4047411.shtml",
-      "content": "八亿时空8月14日披露半年报，公司上半年实现营业收入4.7亿元，同比增长13.17%；归属于上市公司股东的净利润4369.76万元，同比增长41.54%；基本每股收益0.34元/股。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-14",
-      "time": "12:24",
-      "keywords": []
-    },
-    {
-      "title": "霍建宁打辅助，李嘉诚家族攒下1600亿现金",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/wbstock/2026-08-14/doc-ininhxpk2494910.shtml",
-      "content": "来源：@21世纪商业评论微博撰文丨鄢子为 编辑丨江昱玢8月13日，长和召开中期业绩发布会，74岁的霍建宁，再次缺席。​这一举动，将外界对这位“打工皇帝”即将退休的猜测...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-14",
-      "time": "12:24",
       "keywords": []
     },
     {
@@ -797,6 +753,146 @@
       ]
     },
     {
+      "title": "丸红乐见日元走强，以便充分落实120亿美元投资计划",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininicvf2722611.shtml",
+      "content": "这家获得伯克希尔・哈撒韦投资的日本综合商社认为，日元升值将为海外并购提供更强购买力 作者：成冈耕作丸红株式会社社长大本真幸在亚太经合组织工商领导人峰会上发言。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-14",
+      "time": "14:50",
+      "keywords": []
+    },
+    {
+      "title": "企业重金布局量子计算",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininicva3993822.shtml",
+      "content": "大量企业投入数百万资金搭建量子计算项目，谋求竞争优势，并为未来加密技术面临的威胁提前备战 作者：伊莎贝尔・布斯凯特纽约约克敦海茨 IBM 托马斯・J・沃森研究中心内的...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-14",
+      "time": "14:47",
+      "keywords": []
+    },
+    {
+      "title": "多点数智中报利润大增66% 却站在港股通剔除悬崖边",
+      "source": "新浪证券",
+      "url": "https://finance.sina.com.cn/stock/aigcy/2026-08-14/doc-ininicva3991511.shtml",
+      "content": "2026年8月12日，多点数智（02586.HK）交出2026年中期答卷：上半年收入11.55亿元，同比增长7.1%；期内利润1.03亿元，同比大幅提升66.2%；经调整净利润1.18亿元，同比增长52...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-14",
+      "time": "14:42",
+      "keywords": []
+    },
+    {
+      "title": "AI重塑营销搜索格局之际，Reddit竭力维持自身本色",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininicva3991282.shtml",
+      "content": "此外，Flock 公司出台新规，试图平息车牌扫描设备引发的舆论抗议 作者：纳特・艾夫斯 领导力研究院记者凯蒂・迪顿报道：各大品牌争相入驻 Reddit...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-08-14",
+      "time": "14:42",
+      "keywords": []
+    },
+    {
+      "title": "汽车街盈警：上半年预亏1500万 二手车拍卖第一股的困境",
+      "source": "新浪证券",
+      "url": "https://finance.sina.com.cn/stock/aigcy/2026-08-14/doc-ininicvf2717610.shtml",
+      "content": " 2026年8月11日，汽车街（02443.HK）发布盈利预警：预计2026年上半年录得公司权益持有人应占净亏损不多于1500万元人民币，而2025年同期为净溢利约1280万元，同比由盈转亏。",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-08-14",
+      "time": "14:40",
+      "keywords": []
+    },
+    {
+      "title": "筹划8个月，002235控制权变更正式落地",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/stock/s/2026-08-14/doc-ininicvh2430595.shtml",
+      "content": "筹划近八个月后，安妮股份控制权变更终于落地。 8月14日晚，安妮股份（002235）公告称，公司原控股股东、实际控制人林旭曦、张杰向北京晟世天安科技有限公司（以下简称“晟...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-14",
+      "time": "14:28",
+      "keywords": []
+    },
+    {
+      "title": "品牌突然盯上Reddit，但Reddit网友并不买账",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininicva3981315.shtml",
+      "content": "营销人员试图影响大语言模型输出与消费者决策，Reddit 已然从营销版图边缘走向核心 作者：凯蒂・迪顿想要参与 Reddit 原生讨论的营销方必须遵守态度强硬的版主定下的社区规...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-14",
+      "time": "14:24",
+      "keywords": []
+    },
+    {
+      "title": "特朗普政府请求最高法院放行白宫宴会厅项目",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-14/doc-ininicvh2418280.shtml",
+      "content": "特朗普政府于周五向美国最高法院提出申请，希望准许推进总统特朗普的白宫宴会厅建设，该项目将拆除并取代原有东翼。 这项规划建筑面积达9万平方英尺的宴会厅项目...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-14",
+      "time": "14:11",
+      "keywords": []
+    },
+    {
+      "title": "大型科技企业盈利，正被其他科技公司推高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-14/doc-ininicvh2418200.shtml",
+      "content": "对 Anthropic 等公司的投资收益，正在抬高多家头部科技企业的账面利润 作者：乔纳森・韦尔谷歌加州山景城总部大楼，色彩鲜明的企业标识掩映在繁茂绿植之间...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-14",
+      "time": "14:11",
+      "keywords": []
+    },
+    {
+      "title": "金马游乐5.6亿元定增背后：实控人巨额套现 高管轮番减持 谁在买单？",
+      "source": "新浪证券",
+      "url": "https://finance.sina.com.cn/stock/aigcy/2026-08-14/doc-ininhxpe4099255.shtml",
+      "content": "2026年8月11日，金马游乐发布公告，将2026年度定增方案从募资10.53亿元调整为5.61亿元。表面上看，这是公司“理性缩量”的积极信号。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-14",
+      "time": "13:58",
+      "keywords": []
+    },
+    {
       "title": "汇成真空9.55亿定增背后：IPO刚过两年、净利腰斩、前次募投延期、大股东套现4.3亿元",
       "source": "新浪证券",
       "url": "https://finance.sina.com.cn/stock/aigcy/2026-08-14/doc-ininhxpk2541227.shtml",
@@ -893,6 +989,20 @@
       "period": "noon",
       "date": "2026-08-14",
       "time": "13:37",
+      "keywords": []
+    },
+    {
+      "title": "武汉当代集团，滥用股东权利被处分",
+      "source": "上海证券报·中国证券网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-14/doc-ininhxpk2534779.shtml",
+      "content": "8月14日晚间，上交所下发纪律处分决定书，因天风证券为股东提供融资以及信息披露违法等行为违反了相关规定，对天风证券原第一大股东武汉当代科技产业集团股份有限公司（下...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-14",
+      "time": "13:36",
       "keywords": []
     },
     {
@@ -1022,116 +1132,20 @@
       "keywords": []
     },
     {
-      "title": "贵州云上鲲鹏将全景呈现国产算力如何赋能千行百业数字化转型",
-      "source": "贵阳网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-14/doc-ininhxpk2515426.shtml",
-      "content": "在贵安新区龙山工业园的生产基地内，一台台搭载华为麒麟芯片的“兆瀚”笔记本电脑正从产线上下线、封装，发往全国各地——这里是贵州本土企业首次实现全国产便携式终端量产的地...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-08-14",
-      "time": "12:46",
-      "keywords": []
-    },
-    {
-      "title": "美国7月份零售额创一年多来最大跌幅 消费者减少购车及网购",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-08-14/doc-ininhxpm9274154.shtml",
-      "content": "由于消费者减少购买汽车和网购商品，美国7月份零售额出现了一年多来的最大跌幅。 美国普查局周五公布的数据显示，未经通胀调整的零售销售额下降0.6%。",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-08-14",
-      "time": "12:44",
-      "keywords": []
-    },
-    {
-      "title": "存款增速为何高于贷款？专家：融资结构多元化，非信贷渠道增长快",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/roll/2026-08-14/doc-ininhxpm9277255.shtml",
-      "content": "21世纪经济报道记者 唐婧 近期，市场对M2增速与社融增速的“剪刀差”有所讨论，有观点将其视为资金在银行体系空转的信号。对此，业内专家向记者表示...",
+      "title": "地缘风险与现货偏紧共振，燃料油价格大幅上行",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-08-14/102474316.html?cxapp_link=true",
+      "content": "地缘风险与现货偏紧共振，燃料油价格大幅上行",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-08-14",
-      "time": "12:43",
-      "keywords": []
-    },
-    {
-      "title": "傲拓科技IPO：净现比腰斩，在建工程卡壳98%，市占不足1.5%却逆市狂飙",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/newstock/2026-08-14/doc-ininhxpe4068604.shtml",
-      "content": "来源：新财渤社 文\\青屿 傲拓科技股份有限公司（以下简称“傲拓科技”）于8月14日回复科创板二轮问询。 2025年3月，傲拓科技科创板IPO获上交所受理...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-14",
-      "time": "12:43",
-      "keywords": []
-    },
-    {
-      "title": "CPE源峰与腾讯云签署战略合作备忘录",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/t/2026-08-14/doc-ininhxpm9279380.shtml",
-      "content": "（来源：界面新闻）据CPE源峰消息，8月14日，CPE源峰与腾讯云在深圳签署战略合作备忘录。双方将围绕数字基础设施、产业AI赋能、微信生态与数字营销...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-14",
-      "time": "12:43",
-      "keywords": []
-    },
-    {
-      "title": "佰维存储披露股东减持计划，实控人堂姐已减持7.72亿元",
-      "source": "时代财经",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-14/doc-ininhxpm9281925.shtml",
-      "content": "8月14日，佰维存储公告，股东孙静于2026年5月18日至2026年6月4日期间，通过集中竞价交易方式累计减持公司股份235.42万股，占公司目前总股本4.72亿股的比例为0.50%...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-14",
-      "time": "12:39",
-      "keywords": []
-    },
-    {
-      "title": "上任即被告？华金证券“十年八任”营业部总经理",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/quanshang/qsyj/2026-08-14/doc-ininhxpm9283348.shtml",
-      "content": "来源：行家券业 上任即被告？华金证券“十年八任”营业部负责人 参保人员仅有8名的券商营业部，十年时间里竟然出现了八任负责人。最新一任营业部总经理...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-14",
-      "time": "12:27",
-      "keywords": []
-    },
-    {
-      "title": "兰州银行拟收购临洮金城村镇银行，“金城系”村改支迎收官，年内全国超150家村行获批退出",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-14/doc-ininhxpk2493559.shtml",
-      "content": "每经记者|刘嘉魁每经编辑|杜宇 2026年8月12日，兰州银行发布公告，拟于8月28日召开2026年第一次临时股东会，审议收购临洮县金城村镇银行并设立支行的议案。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-08-14",
-      "time": "12:26",
-      "keywords": []
+      "time": "--:--",
+      "keywords": [
+        "CCI快报"
+      ]
     },
     {
       "title": "AI医疗领域的投资热度已从宏大叙事转向临床阶段的具体设计。AI医疗应用到现实生活中的核心堵点不再是“能否生成答案”，而是各医疗环节如何更好地使用AI",
