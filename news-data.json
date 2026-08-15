@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-15T20:54:44.948640",
+  "updated": "2026-08-15T22:54:10.548969",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,9 +7,9 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 21,
+    "high": 20,
     "medium": 22,
-    "low": 107
+    "low": 108
   },
   "items": [
     {
@@ -94,20 +94,6 @@
       "period": "morning",
       "date": "2026-08-15",
       "time": "07:59",
-      "keywords": []
-    },
-    {
-      "title": "重大违法+股价低于1元！这家4亿市值公司遭遇退市“双雷”悬顶",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-15/doc-ininkrwq1899353.shtml",
-      "content": " 8月14日，*ST清越（688496）股票收盘价跌至0.92元，由此在重大违法强制退市风险的基础上，又叠加了交易类强制退市风险。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-15",
-      "time": "07:46",
       "keywords": []
     },
     {
@@ -671,6 +657,63 @@
       ]
     },
     {
+      "title": "美国中央司令部指挥官完成为期10天的中东之行",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-08-16/doc-ininmxrx1777011.shtml",
+      "content": " 美国中央司令部指挥官于8月15日结束为期10天的中东行程，此行到访六个国家，并登上部署于阿拉伯海的美国海军航空母舰。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-15",
+      "time": "21:53",
+      "keywords": []
+    },
+    {
+      "title": "特朗普释放可能参与2028年大选的信号",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-08-16/doc-ininmxrx1763357.shtml",
+      "content": " 美国总统特朗普在真相社交平台发布一张疑似AI生成的图片，图中他头戴印有“特朗普2028”字样的帽子。图片配文写道：“我们必将取胜。”",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-15",
+      "time": "20:54",
+      "keywords": []
+    },
+    {
+      "title": "英伟达洽谈向SB Energy投资30亿美元，系OpenAI数据中心交易组成部分",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-08-16/doc-ininmtkf0249840.shtml",
+      "content": " 据知情人士透露，英伟达正洽谈向SB Energy最高投资30亿美元。SB Energy由软银集团支持，负责为OpenAI开发俄亥俄州大型数据中心项目。",
+      "priority": "low",
+      "sectors": [
+        "半导体",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-15",
+      "time": "19:16",
+      "keywords": []
+    },
+    {
+      "title": "受美国海上封锁影响，伊朗实际上已经停止汽油进口",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-08-16/doc-ininmtiz1846000.shtml",
+      "content": "伊朗议会能源委员会发言人礼萨·塞帕万周六表示，受美国海上封锁影响，伊朗实际上已经停止汽油进口。“我们目前面临海上封锁，汽油进口已经中断。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-15",
+      "time": "18:03",
+      "keywords": []
+    },
+    {
       "title": "美国欲在经济上孤立伊朗 贝森特手里有哪些牌可打",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-15/doc-ininmhum0415299.shtml",
@@ -696,6 +739,20 @@
       "period": "noon",
       "date": "2026-08-15",
       "time": "14:45",
+      "keywords": []
+    },
+    {
+      "title": "以色列正试图操控人工智能关于加沙议题的输出内容",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-08-15/doc-ininmhum0412804.shtml",
+      "content": "以色列已发起一场公关宣传活动，目的是引导ChatGPT等人工智能系统在回答有关以色列、加沙以及以色列国防军相关问题时的表述倾向。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-15",
+      "time": "14:42",
       "keywords": []
     },
     {
@@ -1089,64 +1146,6 @@
       "date": "2026-08-15",
       "time": "08:07",
       "keywords": []
-    },
-    {
-      "title": "吴鹏飞同志逝世",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/wm/2026-08-15/doc-ininkrwk3522305.shtml",
-      "content": "来源：国是直通车 大众新闻客户端消息，中国共产党的优秀党员、忠诚的共产主义战士，山东省人民检察院原检察长、党组书记吴鹏飞同志，因病医治无效...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-15",
-      "time": "07:58",
-      "keywords": []
-    },
-    {
-      "title": "供应链涨价、“AI泡沫论”再起，联想高盈利可持续吗？",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwp2238109.shtml",
-      "content": "21世纪经济报道记者 骆轶琪 在供应链供需持续紧张、涨价趋势未变的背景下，联想集团交出了一份超出市场预期的财报。 联想集团（HKSE：992）（ADR：LNVGY）公布截至2026年6...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-08-15",
-      "time": "07:47",
-      "keywords": []
-    },
-    {
-      "title": "3家A股公司齐发回购公告，最高金额10亿元",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-15/doc-ininkrwp2240821.shtml",
-      "content": "来源：财联社 昨日盘后，国电南瑞、昊志机电、广东宏大等多家A股公司发布回购公告。 国电南瑞：拟5亿元至10亿元回购股份用于股权激励 国电南瑞公告称...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-08-15",
-      "time": "07:37",
-      "keywords": []
-    },
-    {
-      "title": "2000万美元投资亏损，“小核酸第一股”圣诺医药起诉创始人陆阳",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-08-15/doc-ininkrwr8664016.shtml",
-      "content": "因为一笔投资亏损，“小核酸第一股”将创始人告上了法庭。 8月14日，圣诺医药（2257.HK）发布公告称，公司及其直接全资附属公司圣诺（香港）有限公司已向香港特别行政区高等...",
-      "priority": "low",
-      "sectors": [
-        "医药"
-      ],
-      "period": "morning",
-      "date": "2026-08-15",
-      "time": "07:34",
-      "keywords": [
-        "新冠肺炎"
-      ]
     },
     {
       "title": "【本文系数据通用户提前专享】太子集团“二号人物”胡小伟搭建的，是极为复杂和国际化的产业迷宫",
