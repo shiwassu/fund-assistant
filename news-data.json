@@ -1,129 +1,115 @@
 {
-  "updated": "2026-08-16T10:54:10.069754",
-  "total": 150,
+  "updated": "2026-08-16T13:16:08.443563",
+  "total": 149,
   "sources": [
     "新浪财经",
     "akshare-财新",
     "Tushare"
   ],
   "priority_dist": {
-    "high": 22,
-    "medium": 32,
-    "low": 96
+    "high": 21,
+    "medium": 28,
+    "low": 100
   },
   "items": [
     {
-      "title": "美国南部近160万打鸡蛋因沙门氏菌紧急召回，FDA升级最高风险警报",
+      "title": "闪迪股价连涨暴涨！华尔街力挺其AI闪存长期增长雄心",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvs9842673.shtml",
-      "content": "国食品药品监督管理局（FDA）将一起涉及近160万打鸡蛋的召回事件上调至最高风险等级（Class I），原因是相关鸡蛋可能受沙门氏菌污染。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininpmth0839179.shtml",
+      "content": "股价强势表现周五，闪迪（Sandisk，股票代码：SNDK）股价大涨约6%，延续前一交易日13%的涨幅，收盘报1641.11美元，盘后继续小幅上扬。",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-08-16",
+      "time": "12:54",
+      "keywords": []
+    },
+    {
+      "title": "金斯瑞生物科技2026年中期业绩：AIDD需求激增释放广阔市场机遇，收入利润增长大幅超预期，核心业务全面突破",
+      "source": "E药经理人",
+      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-08-16/doc-ininpmth0814665.shtml",
+      "content": "业绩全面超预期，盈利进入加速兑现期。2026年上半年，金斯瑞集团核心业务保持强劲增长，按可比口径1计算，收入同比增长27.3%，毛利增长48.0%，经调整净利润大增203.3%。",
+      "priority": "high",
+      "sectors": [
+        "医药",
+        "AI"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "11:41",
+      "keywords": []
+    },
+    {
+      "title": "占去年营收一半以上！千亿翻倍牛股688702签下亿元大单",
+      "source": "大众证券报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-16/doc-ininpmti7588149.shtml",
+      "content": "8月16日，国产交换芯片千亿龙头盛科通信（688702）宣布签下一笔芯片大单。 公告显示，盛科通信与关联方中电港就以太网交换芯片签订了产品销售合同...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "morning",
       "date": "2026-08-16",
-      "time": "06:35",
+      "time": "11:34",
       "keywords": []
     },
     {
-      "title": "《牛来》票房突破300万元，排片暴增超1900倍，股民：讨个好彩头",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/roll/2026-08-16/doc-ininnuvr7827744.shtml",
-      "content": "近日，暑期档国产动画电影《牛来》因画面粗糙、票房低反向走红，连续两日单日票房暴涨。 从8月5日到8月14日，该电影的单日票房在188元到3934元之间。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-16",
-      "time": "05:01",
-      "keywords": []
-    },
-    {
-      "title": "新一轮波动风险酝酿中？“恐慌指数”跌至年内低位，科技股高位震荡",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-16/doc-ininnqpt7938616.shtml",
-      "content": "本周美股各大指数表现分化，标普500迎来7800点里程碑的同时道指结束周线两连阳。美国通胀数据叠加零售销售下滑，提升了美联储9月暂停加息的概率；与此同时...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-16",
-      "time": "04:29",
-      "keywords": []
-    },
-    {
-      "title": "美国史无前例 特朗普家族加密企业World Liberty获银行牌照",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnqpu9880058.shtml",
-      "content": " 由特朗普任命的国家银行监管机构，向特朗普家族加密业务旗下一家子公司授予银行牌照的有条件批准。这将助力该企业对接大型客户，还有望进一步提升利润。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-08-16",
-      "time": "02:58",
-      "keywords": []
-    },
-    {
-      "title": "英国7月通胀料回升至2.9% 英国央行警惕AI芯片与能源双重冲击",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnkfv8014779.shtml",
-      "content": " 未来一周，英国消费者物价数据将成为市场焦点。受人工智能引发的存储芯片短缺、能源成本走高影响，英国央行将保持警惕。",
-      "priority": "high",
-      "sectors": [
-        "能源",
-        "半导体",
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-08-16",
-      "time": "02:20",
-      "keywords": []
-    },
-    {
-      "title": "韩国家庭信贷料首次突破2000万亿韩元关口",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnkfw9979630.shtml",
-      "content": " 行业消息人士周日透露，受住房抵押贷款与股票质押贷款增长推动，韩国二季度家庭信贷规模料将首次突破2000万亿韩元（折合1.41万亿美元）大关。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-16",
-      "time": "01:43",
-      "keywords": []
-    },
-    {
-      "title": "韩国股市回暖卖空规模却不降反升 投资者疑虑芯片行业是否见顶",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnkfu1216181.shtml",
-      "content": " 周日公布的数据显示，尽管韩国股市从芯片及人工智能相关个股暴跌引发的行情崩盘中大幅反弹，但股票卖空规模仍在持续走高。",
+      "title": "“芯片”借壳幻象破灭：宝莱特易主夭折，三年亏超两亿元拿什么熬过寒冬？",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininpmtk9577146.shtml",
+      "content": "来源：华夏时报 华夏时报记者 于娜 北京报道 没有基本面支撑的“易主”预期，或许只是一场易碎的泡沫，真正的考验才刚刚开始。 国产血液净化设备头部企业广东宝莱特医用科技...",
       "priority": "high",
       "sectors": [
         "半导体"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-08-16",
-      "time": "01:22",
+      "time": "11:30",
       "keywords": []
     },
     {
-      "title": "哈佛持有22亿美元SpaceX股权 多所美国高校基金斩获巨额回报",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnkfv7971618.shtml",
-      "content": " 哈佛大学投资管理机构披露持有价值22亿美元SpaceX股份。这家机构早年投资埃隆・马斯克旗下火箭企业，在SpaceX重磅上市后收获巨额回报。",
+      "title": "算力赛道走强！高“光”159363周线连阳，算力租赁带火云计算ETF！华宝基金有色ETF放量上涨",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/etf/2026-08-16/doc-ininpfmm7707165.shtml",
+      "content": "8月14日，A股呈V字走势，沪指翘尾收红报3927.18点，科技股日内宽幅震荡，创指冲高回落再拉升，最终收涨1.12%。全市场成交2.16万亿元，较上日显著缩量。",
       "priority": "high",
       "sectors": [
-        "综合"
+        "有色",
+        "AI"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-08-16",
-      "time": "00:41",
+      "time": "11:14",
+      "keywords": []
+    },
+    {
+      "title": "8月算力租赁走势强劲，板块机会如何把握？华宝基金云计算ETF（159099）标的算力租赁含量近6成，领跑同类！",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/etf/2026-08-16/doc-ininpfmk0933841.shtml",
+      "content": "8月14日午后，算力赛道突发异动，算力租赁再度爆发，数据港迅速封板，网宿科技20CM涨停，奥飞数据涨超7%，云赛智联、二六三、首都在线等涨幅居前。",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "11:12",
+      "keywords": []
+    },
+    {
+      "title": "反弹向反转过渡？稀土“低量高价”增厚利润，华宝基金有色ETF（159876）最高上探1.34%获资金净申购3120万份",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/etf/2026-08-16/doc-ininpfmm7705695.shtml",
+      "content": "周五（8月14日）有色金属板块跟随市场震荡，早盘冲高回落，午后再起攻势，全天超61亿主力资金净流入有色金属板块，板块吸金额高居31个申万一级行业第三位...",
+      "priority": "high",
+      "sectors": [
+        "有色"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "11:10",
       "keywords": []
     },
     {
@@ -351,6 +337,146 @@
       ]
     },
     {
+      "title": "四连板熄火！“龙餐馆”概念炒作落幕，北京文化上半年再度亏损",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininpmtk9599490.shtml",
+      "content": "这个暑期档，电影业热闹非凡。热门电影《欢迎来龙餐馆》出品方之一北京文化上半年业绩曝光。 近日，北京文化披露2026年半年度报告，上半年净利润亏损3920.48万元。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-16",
+      "time": "12:35",
+      "keywords": []
+    },
+    {
+      "title": "000036，突遭利空",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininpmth0832854.shtml",
+      "content": "来源：中国基金报 【导读】华联控股产业转型突然遇阻，拟投资阿根廷锂盐湖项目触发审查 中国基金报记者 闻言 8月16日晚间，华联控股发布公告称...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-16",
+      "time": "12:34",
+      "keywords": []
+    },
+    {
+      "title": "601996，需缴回约2700万元退税款，已连续2年亏损",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininpmti7587496.shtml",
+      "content": "来源：中国基金报 【导读】丰林集团被要求缴回约2700万元退税款 中国基金报记者 夏天 8月16日晚间，丰林集团（证券代码：601996）发布公告称...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "11:38",
+      "keywords": []
+    },
+    {
+      "title": "【国泰海通消费】市场再平衡，消费再梳理",
+      "source": "猛哥看商业",
+      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-08-16/doc-ininpmti7587070.shtml",
+      "content": "当前市场正处于风格再平衡的关键阶段，部分资金从高位科技板块流向低估值大消费领域，如何看待消费行业投资机会？国泰海通消费生力君六大行业首席：食品饮料/美护 訾猛...",
+      "priority": "medium",
+      "sectors": [
+        "消费"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "11:28",
+      "keywords": []
+    },
+    {
+      "title": "“茅五泸汾洋”集体收绿，华宝基金食品饮料ETF（515710）收跌1.16%！机构：龙头发力挺价，筑底信号或现",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/etf/2026-08-16/doc-ininpfmm7709228.shtml",
+      "content": " 吃喝板块周五（8月14日）全天弱势，反映吃喝板块整体走势的食品饮料ETF华宝（515710）开盘后震荡走弱，最终场内价格收跌1.16%。",
+      "priority": "medium",
+      "sectors": [
+        "消费"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "11:22",
+      "keywords": []
+    },
+    {
+      "title": "中微半导，净利同比增98%！1.66亿元押注存储芯片",
+      "source": "证券时报网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-16/doc-ininpmth0810527.shtml",
+      "content": "中微半导上半年业绩略超预期。 8月16日，中微半导(688380)披露财报显示，2026年上半年，公司实现营业收入7.26亿元，同比增长44.01%；归母净利润1.72亿元，同比增长98.48%...",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "11:21",
+      "keywords": []
+    },
+    {
+      "title": "1.6T需求强劲、CPO/NPO进展超预期、磷化铟产能提前翻倍……海外“光”巨头财报电话会说了啥？一文读懂！",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/etf/2026-08-16/doc-ininpfmn9698103.shtml",
+      "content": "周五（8月14日），创业板人工智能领涨市场，光模块、算力租赁等方向表现活跃。光模块龙头反弹，新易盛、天孚通信涨超4%，中际旭创涨超2%。",
+      "priority": "medium",
+      "sectors": [
+        "光模块"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "11:17",
+      "keywords": []
+    },
+    {
+      "title": "中信建投：A股科技修复偏慢源于成交拥挤及融资盘压力",
+      "source": "观点地产网",
+      "url": "https://finance.sina.com.cn/stock/estate/integration/2026-08-16/doc-ininpfmm7704930.shtml",
+      "content": "观点网讯：中信建投发布研报称，7月底全球科技去杠杆基本结束，海外科技在宏观约束缓解和产业景气验证下率先修复，市场重新由资金面定价转向基本面定价。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "10:58",
+      "keywords": []
+    },
+    {
+      "title": "检验检测行业半年报透视：结构性分化持续 新兴赛道成增长主引擎",
+      "source": "证券时报网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-16/doc-ininpfmk0936001.shtml",
+      "content": "随着2026年半年报及业绩预告陆续披露，检验检测行业上半年经营图景逐渐清晰。华测检测、广电计量、苏试试验等聚焦科技创新与高端制造赛道的机构延续较快增长，营收...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "10:52",
+      "keywords": []
+    },
+    {
+      "title": "三瑞智能上半年净利2.65亿元，同比增长65.45%",
+      "source": "北京商报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-16/doc-ininpfmi1303285.shtml",
+      "content": "三瑞智能（301696）发布2026年半年报显示，公司上半年实现归属净利润约为2.65亿元，同比增长65.45%。 中报显示，今年上半年，三瑞智能实现营业收入约为7.35亿元...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "10:13",
+      "keywords": []
+    },
+    {
       "title": "“酒神”“药神”“财神”“逃顶之神”……别因一时高光，就给基金经理“封神”",
       "source": "券商中国",
       "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-16/doc-ininpfmi1288684.shtml",
@@ -380,8 +506,8 @@
     },
     {
       "title": "加特兰科创板IPO获受理，大基金二期现身股东名单",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-16/doc-ininpfmm7675040.shtml",
+      "source": "上海证券报·中国证券网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-16/doc-ininpfmm7682050.shtml",
       "content": "日前，上海证券交易所官网披露，加特兰微电子科技（上海）股份有限公司（以下简称“加特兰”）科创板IPO申请正式获得受理。招股书援引Yole统计称...",
       "priority": "medium",
       "sectors": [
@@ -389,7 +515,21 @@
       ],
       "period": "morning",
       "date": "2026-08-16",
-      "time": "09:49",
+      "time": "09:50",
+      "keywords": []
+    },
+    {
+      "title": "聚辰股份上半年净利润同比增长156.07% 第二季度营收创同期最好水平",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-16/doc-ininpfmn9683408.shtml",
+      "content": "聚辰半导体股份有限公司披露2026年半年报。今年上半年，该公司实现营业收入6.02亿元，较上年同期增长4.71%；归属于上市公司股东的净利润5.25亿元，同比增长156.07%。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "09:23",
       "keywords": []
     },
     {
@@ -404,216 +544,6 @@
       "period": "morning",
       "date": "2026-08-16",
       "time": "09:05",
-      "keywords": []
-    },
-    {
-      "title": "下周影响市场重要资讯前瞻：国家统计局将公布7月国民经济数据，二季度恒生指数系列检讨结果将公布",
-      "source": "新浪证券",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-16/doc-ininnzcq9732637.shtml",
-      "content": " 国家统计局将公布7月国民经济数据；二季度恒生指数系列检讨结果将公布；阿里、百度、网易等将披露最新财报；年内最贵新股频准激光将于8月18日科创板上市。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-16",
-      "time": "07:24",
-      "keywords": []
-    },
-    {
-      "title": "十大机构看后市：A股反弹窗口已经开启，筹码问题出清后，AI反弹行情可能延续",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/roll/2026-08-16/doc-ininnzcq9732252.shtml",
-      "content": "本周三大指数，上证指数跌0.33%，深证成指涨0.30%，创业板指涨1.77%。后市将如何发展？看看机构怎么说。 申万宏源策略一周回顾展望：消化微观结构问题后 反弹再延续 短期...",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-08-16",
-      "time": "07:23",
-      "keywords": []
-    },
-    {
-      "title": "段永平、李录最新调仓曝光",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/wm/2026-08-16/doc-ininnzcp7741422.shtml",
-      "content": "近期美股机构投资者二季度13F持仓密集披露，知名投资人段永平、李录最新调仓路径随之曝光。 段永平继续加仓拼多多 大幅减持英伟达、谷歌 据券商中国报道...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-16",
-      "time": "07:15",
-      "keywords": []
-    },
-    {
-      "title": "国融基金九年四换帅：规模缩水七成五，成立至今未盈利",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/fund/jjyj/2026-08-16/doc-ininnzcm1380123.shtml",
-      "content": "来源：证券之星 8月8日，国融基金管理有限公司（下称 “国融基金”）发布高级管理人员变更公告，公司总经理毛灵俊因个人原因于8月7日离任...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-16",
-      "time": "07:00",
-      "keywords": []
-    },
-    {
-      "title": "转型多年业绩未见起色，重资产“包袱”沉重，湖北广电中报续亏超2.52亿",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininnzcn1000543.shtml",
-      "content": "来源：证券之星 近日，湖北广电（000665.SZ）发布2026年半年度业绩预告。预计今年上半年公司业绩延续亏损态势，其中扣非后净利润亏损超2.52亿元，与上年同期基本持平。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-16",
-      "time": "07:00",
-      "keywords": []
-    },
-    {
-      "title": "江波龙：百亿存货压顶、现金流持续“失血”，高价定增套牢投资机构",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininnzcp7772625.shtml",
-      "content": "来源：证券之星 近日，江波龙（301308.SZ）披露了2026年半年度报告，公司营收和净利润双双实现增长。证券之星注意到，业绩增长背后尚存隐忧，为锁定上游晶圆供应...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-16",
-      "time": "07:00",
-      "keywords": []
-    },
-    {
-      "title": "PayPal洽谈出售：Stripe与私募巨头Advent联手出价，谈判报价已超530亿美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvq1087940.shtml",
-      "content": " PayPal Holdings正与包括Stripe和私募股权公司Advent International在内的买家集团就出售事宜展开谈判。知情人士透露，双方已就收购展开实质性讨论。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-16",
-      "time": "06:46",
-      "keywords": []
-    },
-    {
-      "title": "伯克希尔二季度持仓曝光：重仓Alphabet近380亿美元，家建股同步加码",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvq1081660.shtml",
-      "content": " 伯克希尔·哈撒韦（Berkshire Hathaway）最新披露的二季度投资组合显示，该公司显著增持了谷歌母公司Alphabet的股份，并持续加码美国住宅建筑板块。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-16",
-      "time": "06:32",
-      "keywords": []
-    },
-    {
-      "title": "SpaceX上市造富高校圈：哈佛持22亿美元股份领跑",
-      "source": "界面",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-16/doc-ininnqps1152773.shtml",
-      "content": "近日，哈佛大学旗下投资管理机构哈佛管理公司（Harvard Management Company， HMC）向美国证券交易委员会提交了13F季度持仓报告；报告显示，截至2026年二季度末...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-16",
-      "time": "03:58",
-      "keywords": []
-    },
-    {
-      "title": "金融圈大事，倒计时！头部机构“摩拳擦掌”忙申报，部分中小公司却犯难，业内感慨：申请牌照易，拼获客难",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-16/doc-ininnqps1130399.shtml",
-      "content": "【导读】基金投顾牌照扩容进入冲刺阶段，头部公募积极申报备战 中国基金报记者 曹雯璟 随着8月末基金投顾牌照的申报时点日渐临近，基金投顾新一轮扩容已然进入冲刺阶段。",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-08-16",
-      "time": "02:59",
-      "keywords": []
-    },
-    {
-      "title": "创新药低位大幅反弹后分化，持续性需商业化兑现“再证”",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/roll/2026-08-16/doc-ininnqpt7898850.shtml",
-      "content": " 尽管8月以来创新药板块经历超跌反弹与估值修复，但受资金获利了结及个股业绩兑现后的分化影响，未来走势将更多取决于商业化进展与业绩验证。",
-      "priority": "medium",
-      "sectors": [
-        "医药"
-      ],
-      "period": "night",
-      "date": "2026-08-16",
-      "time": "02:53",
-      "keywords": []
-    },
-    {
-      "title": "95家参与，抢筹超18亿元！公募打新“人形机器人第一股”结果来了",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/roll/2026-08-16/doc-ininnqpr1492100.shtml",
-      "content": " 8月10日，宇树科技正式启动申购，发行价定为每股150.8元。次日（8月11日）晚间，公司披露首次公开发行股票并在科创板上市的网下初步配售及网上中签结果公告。",
-      "priority": "medium",
-      "sectors": [
-        "机器人"
-      ],
-      "period": "night",
-      "date": "2026-08-16",
-      "time": "02:41",
-      "keywords": []
-    },
-    {
-      "title": "营收1.66亿元、应收14.56亿，301218要砸3亿买下的傲星科技，钱都压哪儿了？",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-16/doc-ininnkfw9978855.shtml",
-      "content": "来源：中国基金报 记者：刘墨 【导读】营收1.66亿元、应收14.56亿元，华是科技3亿元买下的傲星科技，钱都压哪儿了？ 8月14日晚间，华是科技（代码：301218）公告称...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-16",
-      "time": "01:34",
-      "keywords": []
-    },
-    {
-      "title": "业绩太 “炸裂”！AI巨头营收暴增14倍，有望刷新全球史上最大规模IPO纪录",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/wm/2026-08-16/doc-ininnkfw9964936.shtml",
-      "content": "来源：华夏时报 AI巨头Anthropic的业绩太“炸裂”了。 据最新消息，全球AI巨头Anthropic第二季度营收已超过115亿美元，同比增长1361%。",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-08-16",
-      "time": "01:04",
-      "keywords": []
-    },
-    {
-      "title": "信号持续增强！人民币创三年半新高，A股吸引力抬升！“股汇双强”行情可期",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-08-16/doc-ininncxv1679135.shtml",
-      "content": "2025年4月以来，人民币兑美元呈稳步升值状态，中间价从7.2升至2026年8月中旬的6.79，累计升值达6%，创三年半的新高。与此同时，人民币兑一篮子货币的CFETS外汇指数也从96...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-15",
-      "time": "23:35",
       "keywords": []
     },
     {
@@ -827,327 +757,384 @@
       ]
     },
     {
-      "title": "冠豪高新：5.48亿资产处置“扮靓”利润，现金流仍未回正",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininnzcn1000329.shtml",
-      "content": "来源：证券之星 8月8日，冠豪高新（600433.SH）披露2026年半年度报告，账面数据呈现大幅反转。报告期内，公司实现营业收入36.39亿元，同比小幅上涨6.94%；归属净利润2...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-16",
-      "time": "07:00",
-      "keywords": []
-    },
-    {
-      "title": "Waymo获批大幅扩张加州运营范围，机器人出租车服务将覆盖18个县",
+      "title": "高盛助攻英伟达：5000亿美元计划，破解AI基建最大资金瓶颈",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvp1470667.shtml",
-      "content": " Alphabet旗下自动驾驶公司Waymo已获得加州公共事业委员会（CPUC）批准，可在18个县运营机器人出租车，服务范围将大幅扩展。",
-      "priority": "low",
-      "sectors": [
-        "机器人"
-      ],
-      "period": "morning",
-      "date": "2026-08-16",
-      "time": "06:58",
-      "keywords": []
-    },
-    {
-      "title": "英伟达洽谈向SB Energy投资30亿美元，为OpenAI俄亥俄数据中心提供百亿美元信贷支持",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvq1091191.shtml",
-      "content": " 英伟达正与软银支持的SB Energy就最高30亿美元投资展开谈判。这笔投资与英伟达向OpenAI提供约1000亿美元信贷支持的讨论直接相关，旨在推动俄亥俄州大型数据中心项目落地。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininpmtk9602522.shtml",
+      "content": "英伟达（Nvidia）正着手解决AI热潮中日益凸显的核心制约——融资难题。高盛（Goldman Sachs）已开始与保险公司、银行及资产管理公司接洽...",
       "priority": "low",
       "sectors": [
         "半导体",
         "AI"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-08-16",
-      "time": "06:55",
+      "time": "12:51",
       "keywords": []
     },
     {
-      "title": "女子指控继父用Grok将11岁童年照生成数千张露骨图像，加入起诉xAI诉讼",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvq1086935.shtml",
-      "content": "一名化名Jane Doe 4的女子已加入三名田纳西州青少年对埃隆·马斯克旗下xAI公司提起的诉讼。该诉讼指控xAI的聊天机器人Grok被用于生成儿童性虐待相关材料。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-08-16",
-      "time": "06:44",
-      "keywords": []
-    },
-    {
-      "title": "特朗普家族旗舰加密企业获信托银行初步牌照，可自主发行与托管40亿美元稳定币",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvq1085110.shtml",
-      "content": "特朗普家族旗舰加密企业World Liberty Financial周五宣布，其信托公司已获得美国货币监理署（OCC）有条件初步批准，成为银行。最终获批后...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-08-16",
-      "time": "06:40",
-      "keywords": []
-    },
-    {
-      "title": "史无前例：特朗普家族加密企业获银行牌照，可直接发行美元稳定币",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvp1462590.shtml",
-      "content": "美国货币监理署（OCC）近日有条件批准特朗普家族关联的加密企业World Liberty Trust Co．设立银行牌照，使其能够直接发行与美元挂钩的稳定币。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-08-16",
-      "time": "06:38",
-      "keywords": []
-    },
-    {
-      "title": "韩国股市反弹 韩国投资者再度融资买入",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvs9830932.shtml",
-      "content": "市场数据周日显示，随着韩国股市自深度低点反弹，本土投资者再度大举融资买入本国股票。 韩国金融投资协会（KOFIA）统计数据显示，截至周四...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-16",
-      "time": "06:08",
-      "keywords": []
-    },
-    {
-      "title": "大麦娱乐入局潮玩赛道，HEY PENNY、ECHOA等原创IP亮相“好运连得”线下店",
-      "source": "新浪证券",
-      "url": "https://finance.sina.com.cn/stock/observe/2026-08-16/doc-ininnuvq1046937.shtml",
-      "content": "8月16日，大麦娱乐现实娱乐战略版图再添新动作，旗下潮玩品牌“好运连得”（LUCKY LOOP）启动六城八店布局计划。当日，首批线下门店于上海、深圳...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-16",
-      "time": "05:00",
-      "keywords": []
-    },
-    {
-      "title": "视频|岚图汽车卢放：最好的车在中国！提到汽车驾控一定会出现岚图",
+      "title": "再添两例！年内32宗重大资产重组折戟",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/hkstock/2026-08-16/doc-ininnuvq1046488.shtml",
-      "content": "",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "night",
-      "date": "2026-08-16",
-      "time": "04:59",
-      "keywords": []
-    },
-    {
-      "title": "民调：超半数美国选民称生活境况恶化，民主党在经济就业议题获得更多选民信任",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnqps1158228.shtml",
-      "content": " 一项民调显示，多数美国选民表示自身生活境况在特朗普执政期间出现恶化，民众对总统处理经济、生活成本问题的不满情绪持续攀升。",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-16/doc-ininpmtk9584655.shtml",
+      "content": "来源：资本秘闻 伴随着汇金股份、科达制造相继宣告重组终止，年内终止重大资产重组个股再添两例。汇金股份终止重组后，公司8月17日股价表现也将引发市场关注。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-08-16",
-      "time": "04:14",
+      "time": "12:04",
       "keywords": []
     },
     {
-      "title": "大众等头部车企采用新型机油与润滑油配方以缓解供应短缺",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnqpt7930118.shtml",
-      "content": "大众、斯特兰蒂斯、丰田等车企开始采用新型调配机油与润滑油配方，以此缓解中东冲突引发的严重供应短缺危机。 冲突爆发初期几个月车企尚能依靠库存维持生产...",
+      "title": "注资1000万！又一新能源公司成立",
+      "source": "世纪新能源网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-16/doc-ininpmtk9580060.shtml",
+      "content": "近日，华电（枣庄峄城区）新能源发电有限公司成立，法定代表人为赵彬，注册资本为1000万元。经营范围包括许可项目：发电业务、输电业务、供（配）电业务。",
       "priority": "low",
       "sectors": [
-        "综合"
+        "能源"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-08-16",
-      "time": "04:12",
+      "time": "11:42",
       "keywords": []
     },
     {
-      "title": "五大因素叠加发酵，摩根大通：全球粮食危机或将在明年爆发",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/roll/2026-08-16/doc-ininnqpu9901497.shtml",
-      "content": "来源：华尔街见闻 摩根大通警告，受战争、天气、仓储、水资源和浪费五个因素叠加驱动，全球粮食危机可能于2027年上半年爆发。预计全球食品通胀率将从2026年上半年的2...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-16",
-      "time": "03:30",
-      "keywords": []
-    },
-    {
-      "title": "韩国首尔首次购房人数创四年多来新高",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnqpt7905703.shtml",
-      "content": "一份报告显示，韩国首尔首次购房人群数量创下四年八个月新高。 韩国法院不动产登记信息广场16日数据，上月首尔共有7552名购房者办理首套住宅（集合住宅）所有权转移登记。...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-16",
-      "time": "03:13",
-      "keywords": []
-    },
-    {
-      "title": "暑期档最“魔幻”一幕？《牛来》票房超200万元",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-16/doc-ininnqpr1496158.shtml",
-      "content": "近日，“魔幻”一幕出现在2026年暑期档。 一部被网友评价为“建模粗糙、画面抽象、制作简陋”的院线电影《牛来》，吸引众多年轻人观影打卡，并发布在社交媒体上。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-16",
-      "time": "02:44",
-      "keywords": []
-    },
-    {
-      "title": "苹果想让长鑫当“鲶鱼”",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/world/2026-08-16/doc-ininnkfu1241211.shtml",
-      "content": "来源：三里河 以长鑫存储为代表的中国企业正在用技术和市场说话。 苹果最近正在主动接触长鑫存储。 据韩国媒体《Digital Daily》报道，苹果近期找到长鑫存储...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-16",
-      "time": "02:08",
-      "keywords": []
-    },
-    {
-      "title": "韩国每五名成年人中就有一人持有三星电子股票",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnkfw9985828.shtml",
-      "content": " 今年上半年，三星电子个人小股东数量逼近800万。这一数字大幅攀升，源于股市空前火热，叠加市场对半导体企业价值预期抬升，大量个人投资者涌入这只蓝筹股。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-16",
-      "time": "01:59",
-      "keywords": []
-    },
-    {
-      "title": "LG电子巴西新冰箱工厂正式投产",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnkfw9981787.shtml",
-      "content": "韩国大型家电厂商LG电子周日表示，为进一步深耕南美市场，其位于巴西的全新家电工厂已正式投产。 这座新建工厂坐落于巴西南部巴拉那州，是LG电子在当地的第二座工厂...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-16",
-      "time": "01:48",
-      "keywords": []
-    },
-    {
-      "title": "英伟达正洽谈向软银支持的SB Energy最高投资30亿美元 服务OpenAI巨型数据中心建设",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnkfu1213779.shtml",
-      "content": " 据知情人士透露，英伟达正洽谈向SB Energy最高投资30亿美元。SB Energy由软银集团扶持，该公司正在为OpenAI推进俄亥俄州大型数据中心项目。",
-      "priority": "low",
-      "sectors": [
-        "半导体",
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-08-16",
-      "time": "01:15",
-      "keywords": []
-    },
-    {
-      "title": "飞天茅台稳中有涨 五粮液普五八代创月新高",
-      "source": "酒业内参",
-      "url": "https://finance.sina.com.cn/chanjing/jync/2026-08-16/doc-ininnkfu1213079.shtml",
-      "content": "新浪财经“酒价内参”过去24小时收集的数据显示，8月16日中国白酒业11大单品九涨一跌一平，赢家占据明显上风。上涨方面，飞天茅台上涨2元，终端零售均价来到1787元...",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "night",
-      "date": "2026-08-16",
-      "time": "01:13",
-      "keywords": []
-    },
-    {
-      "title": "美军司令登林肯号航母 长期部署致船员身心困境引争议",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnkfv7978668.shtml",
-      "content": " 据美国中央司令部消息，负责对伊朗战事的美国海军上将于周六登上亚伯拉罕・林肯号航空母舰。该航母经过长时间战时部署，正准备返航。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-16",
-      "time": "00:58",
-      "keywords": []
-    },
-    {
-      "title": "一杯养生咖啡，牵出香港1.12亿港元的虚拟币骗局",
+      "title": "周末要闻汇总：英伟达缩减对OpenAI数据中心项目担保计划",
       "source": "",
-      "url": "https://finance.sina.com.cn/wm/2026-08-16/doc-ininnkfw9955703.shtml",
-      "content": "（来源：南方财经记者 21世纪经济报道） 记者丨张伟泽 编辑丨朱丽娜 一个打着养生咖啡旗号、在香港核心商圈开设实体店、举办线下活动的品牌...",
+      "url": "https://finance.sina.com.cn/stock/wbstock/2026-08-16/doc-ininpmti7587730.shtml",
+      "content": "来源：@财联社APP微博财联社8月16日讯，周末发生哪些可能影响资本市场的大事？要闻汇总如下：宏观及市场要闻预告：国新办将于8月17日下午3时举行新闻发布会...",
+      "priority": "low",
+      "sectors": [
+        "半导体",
+        "AI"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "11:41",
+      "keywords": []
+    },
+    {
+      "title": "厦门钨业：完成发行5亿元超短期融资券",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-16/doc-ininpmtf1198042.shtml",
+      "content": "新京报贝壳财经讯 8月16日，厦门钨业公告称，公司发行的2026年度第一期超短期融资券，募集资金已于2026年8月14日到账。该融资券简称“26厦钨SCP001”，代码012682031...",
+      "priority": "low",
+      "sectors": [
+        "有色"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "11:37",
+      "keywords": []
+    },
+    {
+      "title": "沃客非凡科技递表港交所 独家保荐人为华泰国际",
+      "source": "观点地产网",
+      "url": "https://finance.sina.com.cn/stock/estate/integration/2026-08-16/doc-ininpmti7584410.shtml",
+      "content": "观点网讯：8月14日，深圳市沃客非凡科技股份有限公司向港交所提交上市申请书，独家保荐人为华泰国际。免责声明：本文内容与数据由观点根据公开信息整理，不构成投资建议...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-08-16",
-      "time": "00:50",
+      "time": "11:34",
       "keywords": []
     },
     {
-      "title": "澳大利亚新南威尔士州将于11月启动枪支回购计划",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininncxx8087545.shtml",
-      "content": "继去年悉尼邦迪区枪击命案发生后，澳大利亚新南威尔士州将于11月推行枪支回购项目。 自11月2日起，该州枪支持有者上交符合回收条件的步枪、霰弹枪以及手枪...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-08-16",
-      "time": "00:03",
-      "keywords": []
-    },
-    {
-      "title": "视频|段永平抛出1亿元“十年之约”，但斌回应：时间是最公平的裁判",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/stock/2026-08-16/doc-ininncxx8084501.shtml",
-      "content": "",
+      "title": "股价年内跌超四成，子公司股权流拍欠薪传闻缠身，凯撒旅业账面减亏仍靠非经常性损益“粉饰”",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininpmtf1196090.shtml",
+      "content": "来源：华夏时报 华夏时报记者 王敬 北京报道 近日，老牌出境游旅企凯撒旅业（000796.SZ）陷入了子公司股权流拍与欠薪传闻交织的舆论漩涡。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
-      "date": "2026-08-15",
-      "time": "23:54",
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "11:30",
+      "keywords": []
+    },
+    {
+      "title": "翻倍牛股，签下芯片大订单",
+      "source": "证券时报e公司",
+      "url": "https://finance.sina.com.cn/roll/2026-08-16/doc-ininpmtf1192503.shtml",
+      "content": "盛科通信今年以来股价涨幅翻倍，公告称签下日常经营重大合同。 盛科通信(688702)8月16日公告，近日，公司与关联方深圳中电港技术股份有限公司(证券简称：中电港...",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "11:24",
+      "keywords": []
+    },
+    {
+      "title": "盛科通信签了芯片大单！金额超过去年营收50%以上",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/wbstock/2026-08-16/doc-ininpmth0810643.shtml",
+      "content": "来源：@每日经济新闻微博【#盛科通信签了芯片大单#！金额超过去年营收50%以上】8月16日，盛科通信-U（SH688702，股价398.6元，市值1634...",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "11:24",
+      "keywords": []
+    },
+    {
+      "title": "万和电气发布超薄燃气热水器99系列",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-16/doc-ininpfmn9698528.shtml",
+      "content": "本报讯 （记者李雯珊）8月16日，广东万和新电气股份有限公司超薄燃气热水器99系列首发仪式在上海京东MALL七宝店隆重揭幕。本次发布会以“不止于薄生而更强”为主题...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "10:52",
+      "keywords": []
+    },
+    {
+      "title": "兆威机电：2026年上半年净利润7464.57万元 同比减少34.10%",
+      "source": "每日经济新闻",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-16/doc-ininpfmk0920109.shtml",
+      "content": "8月16日，兆威机电公告，2026年上半年营业收入8.16亿元，同比增长3.80%；净利润7464.57万元，上年同期净利润1.13亿元，同比减少34.10%。（文章来源：每日经济新闻）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "10:27",
+      "keywords": []
+    },
+    {
+      "title": "AI加速推动价值释放 国能日新2026年上半年归母净利润同比增长52.52%",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-16/doc-ininpmtk9579481.shtml",
+      "content": "国能日新科技股份有限公司（以下简称“国能日新”）披露2026年半年度报告，财报显示，2026年上半年国能日新实现营业收入3.5亿元，同比增长9...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "10:26",
+      "keywords": []
+    },
+    {
+      "title": "齐心集团上半年实现营收48.12亿元",
+      "source": "证券时报网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-16/doc-ininpfmk0935079.shtml",
+      "content": "齐心集团(002301)8月15日披露2026年半年度报告。上半年，公司实现营业收入48.12亿元，归母净利润7677.39万元，经营活动产生的现金流量净额1.67亿元。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "10:22",
+      "keywords": []
+    },
+    {
+      "title": "生意社氢氧化锂(电池级)8月16日均线上穿 均差为350.00元/吨",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-08-16/doc-ininpfmk0916237.shtml",
+      "content": "生意社08月16日讯 据生意社监测，氢氧化锂（电池级）8月16日均差为350.00元/吨（均差=M10-M20=134600.00-134250.00）。 当日，氢氧化锂（电池级）M10均线上穿M20...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "10:11",
+      "keywords": []
+    },
+    {
+      "title": "浙数文化上半年营收增长22.16% AI新业态放量",
+      "source": "上海证券报·中国证券网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-16/doc-ininpfmn9677375.shtml",
+      "content": "上证报中国证券网讯8月14日晚间，浙数文化披露2026年半年度报告。报告期内，公司实现营业收入17.27亿元，同比增长22.16%；归属于上市公司股东的净利润3...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "10:09",
+      "keywords": []
+    },
+    {
+      "title": "双元科技上半年净利润增近20% 中期拟10派1.03元",
+      "source": "上海证券报·中国证券网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-16/doc-ininpfmm7706857.shtml",
+      "content": "上证报中国证券网讯8月14日晚间，双元科技发布2026年半年度报告。报告显示，公司上半年实现营业收入1.82亿元，同比增长12.80%；归属于上市公司股东的净利润4369.31万元...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "10:09",
+      "keywords": []
+    },
+    {
+      "title": "通策医疗上半年净利润增长32.7% 口腔主业稳中有进",
+      "source": "上海证券报·中国证券网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-16/doc-ininpfmm7688121.shtml",
+      "content": "上证报中国证券网讯8月14日晚间，通策医疗披露2026年半年度报告。报告期内，公司实现营业收入15.86亿元，同比增长4.10%；归属于上市公司股东的净利润4.58亿元，同比增长32...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "10:09",
+      "keywords": []
+    },
+    {
+      "title": "三峡旅游：总投资8.5亿元长江游轮及港口配套设施项目开工",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-16/doc-ininpfmm7691628.shtml",
+      "content": "本报讯 （记者李万晨曦）8月15日，长江游轮及港口配套设施开工活动在湖北省宜昌市枝江市七星台镇船舶工业园举行。本次开工项目总投资约8.5亿元...",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "09:24",
+      "keywords": []
+    },
+    {
+      "title": "揭牌时刻逐渐过去，市场反弹或逐渐步入平台期",
+      "source": "",
+      "url": "https://finance.sina.com.cn/roll/2026-08-16/doc-ininnzcm1390760.shtml",
+      "content": "资本逻辑迎巨变！AI资产虽处高景气，但债务与收入错配正耗损其时间溢价；反观实物资产已探明底部，静待破晓。伴随美债收益率下行，大宗商品等实物弹性将全面爆发！",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "08:54",
+      "keywords": []
+    },
+    {
+      "title": "开放权重+引入金融，AI建设门槛“双降”？",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/wm/2026-08-16/doc-ininnzcp7785606.shtml",
+      "content": "AI产业的下一轮扩张，正在同时寻找更多资金和更多开发者。 日前，英伟达宣布与Apollo、贝莱德、黑石、博枫、高盛和KKR建立合作，拟设立独立融资平台...",
+      "priority": "low",
+      "sectors": [
+        "金融",
+        "AI"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "08:48",
+      "keywords": []
+    },
+    {
+      "title": "票房飙涨！《牛来》带火“牛字辈”个股？市场人士：警惕情绪炒作",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/wbstock/2026-08-16/doc-ininnzcq9769881.shtml",
+      "content": "来源：@财联社APP微博财联社8月16日讯 ， 短短两天，一部由两人团队“手搓”而成的国产动画电影《牛来》，凭借“灾难级”画质意外出圈：票房从7000余元飙涨超400倍...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "08:40",
+      "keywords": []
+    },
+    {
+      "title": "高争民爆：控股股东拟变更为地矿集团",
+      "source": "财联社",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-16/doc-ininnzcp7773149.shtml",
+      "content": "高争民爆(002827.SZ)公告称，公司控股股东藏建集团拟将其持有的9419.56万股股份(占总股本34%)无偿划转至地矿集团。本次划转完成后，地矿集团将成为公司控股股东...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "08:22",
+      "keywords": []
+    },
+    {
+      "title": "盛科通信：签订以太网交换芯片重大合同 金额超过去年营收50%以上",
+      "source": "科创板日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-16/doc-ininnzcp7773558.shtml",
+      "content": "盛科通信(688702.SH)公告称，公司与关联方深圳中电港技术股份有限公司签订产品销售合同，合同金额超过公司最近一个会计年度经审计营收的50%以上，且超过1亿元...",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "08:20",
+      "keywords": []
+    },
+    {
+      "title": "中微半导：上半年净利润同比增长98.48%",
+      "source": "科创板日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-16/doc-ininnzcm1383096.shtml",
+      "content": "中微半导(688380.SH)发布2026年半年度报告，实现营业收入7.26亿元，同比增长44.01%；归属于上市公司股东的净利润1.72亿元，同比增长98.48%。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "08:20",
+      "keywords": []
+    },
+    {
+      "title": "杭萧钢构拟每10股派息0.19元",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-08-16/doc-ininnzcm1376513.shtml",
+      "content": "8月16日，杭萧钢构（600477）发布公告，公司拟向全体股东每10股派发现金红利0.19元（含税），预计总派发金额为4482万元，占归母净利润的54.88%。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "08:18",
+      "keywords": []
+    },
+    {
+      "title": "永和股份拟每股派发现金红利0.25元",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-08-16/doc-ininnzcp7769559.shtml",
+      "content": "8月16日，永和股份（605020）发布公告，公司拟向全体股东每股派发现金红利0.25元（含税），预计总派发金额为1.27亿元，占归母净利润的24.74%。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "08:18",
+      "keywords": []
+    },
+    {
+      "title": "凯瑞德：吉宇鹏辞任副总经理",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-08-16/doc-ininnzcp7769552.shtml",
+      "content": "8月16日，凯瑞德（002072）发布公告，吉宇鹏因个人原因辞任副总经理，之后将继续在公司工作。2026年一季度，凯瑞德实现收入1.39亿元，归母净利润-449万元。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "08:17",
       "keywords": []
     },
     {
