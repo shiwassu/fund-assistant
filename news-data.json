@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-16T07:15:58.742864",
+  "updated": "2026-08-16T08:59:44.758566",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,9 +7,9 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 25,
-    "medium": 23,
-    "low": 102
+    "high": 24,
+    "medium": 29,
+    "low": 97
   },
   "items": [
     {
@@ -152,20 +152,6 @@
       "period": "night",
       "date": "2026-08-15",
       "time": "23:24",
-      "keywords": []
-    },
-    {
-      "title": "美国印第安纳州遭遇恶劣天气 至少5人死亡",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-16/doc-ininmxrz8171244.shtml",
-      "content": "央视记者当地时间8月15日获悉，美国印第安纳州当局表示，本周席卷全州的强风暴和洪水已导致至少5人死亡。 过去一周，该州连降暴雨，导致多条河流的水位创下历史新高...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-15",
-      "time": "20:48",
       "keywords": []
     },
     {
@@ -393,6 +379,90 @@
       ]
     },
     {
+      "title": "下周影响市场重要资讯前瞻：国家统计局将公布7月国民经济数据，二季度恒生指数系列检讨结果将公布",
+      "source": "新浪证券",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-16/doc-ininnzcq9732637.shtml",
+      "content": " 国家统计局将公布7月国民经济数据；二季度恒生指数系列检讨结果将公布；阿里、百度、网易等将披露最新财报；年内最贵新股频准激光将于8月18日科创板上市。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "07:24",
+      "keywords": []
+    },
+    {
+      "title": "十大机构看后市：A股反弹窗口已经开启，筹码问题出清后，AI反弹行情可能延续",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/roll/2026-08-16/doc-ininnzcq9732252.shtml",
+      "content": "本周三大指数，上证指数跌0.33%，深证成指涨0.30%，创业板指涨1.77%。后市将如何发展？看看机构怎么说。 申万宏源策略一周回顾展望：消化微观结构问题后 反弹再延续 短期...",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "07:23",
+      "keywords": []
+    },
+    {
+      "title": "段永平、李录最新调仓曝光",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/wm/2026-08-16/doc-ininnzcp7741422.shtml",
+      "content": "近期美股机构投资者二季度13F持仓密集披露，知名投资人段永平、李录最新调仓路径随之曝光。 段永平继续加仓拼多多 大幅减持英伟达、谷歌 据券商中国报道...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "07:15",
+      "keywords": []
+    },
+    {
+      "title": "国融基金九年四换帅：规模缩水七成五，成立至今未盈利",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/fund/jjyj/2026-08-16/doc-ininnzcm1380123.shtml",
+      "content": "来源：证券之星 8月8日，国融基金管理有限公司（下称 “国融基金”）发布高级管理人员变更公告，公司总经理毛灵俊因个人原因于8月7日离任...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "07:00",
+      "keywords": []
+    },
+    {
+      "title": "转型多年业绩未见起色，重资产“包袱”沉重，湖北广电中报续亏超2.52亿",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininnzcn1000543.shtml",
+      "content": "来源：证券之星 近日，湖北广电（000665.SZ）发布2026年半年度业绩预告。预计今年上半年公司业绩延续亏损态势，其中扣非后净利润亏损超2.52亿元，与上年同期基本持平。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "07:00",
+      "keywords": []
+    },
+    {
+      "title": "江波龙：百亿存货压顶、现金流持续“失血”，高价定增套牢投资机构",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininnzcp7772625.shtml",
+      "content": "来源：证券之星 近日，江波龙（301308.SZ）披露了2026年半年度报告，公司营收和净利润双双实现增长。证券之星注意到，业绩增长背后尚存隐忧，为锁定上游晶圆供应...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "07:00",
+      "keywords": []
+    },
+    {
       "title": "PayPal洽谈出售：Stripe与私募巨头Advent联手出价，谈判报价已超530亿美元",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-16/doc-ininnuvq1087940.shtml",
@@ -477,6 +547,20 @@
       "keywords": []
     },
     {
+      "title": "营收1.66亿元、应收14.56亿，301218要砸3亿买下的傲星科技，钱都压哪儿了？",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-16/doc-ininnkfw9978855.shtml",
+      "content": "来源：中国基金报 记者：刘墨 【导读】营收1.66亿元、应收14.56亿元，华是科技3亿元买下的傲星科技，钱都压哪儿了？ 8月14日晚间，华是科技（代码：301218）公告称...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-16",
+      "time": "01:34",
+      "keywords": []
+    },
+    {
       "title": "业绩太 “炸裂”！AI巨头营收暴增14倍，有望刷新全球史上最大规模IPO纪录",
       "source": "市场资讯",
       "url": "https://finance.sina.com.cn/wm/2026-08-16/doc-ininnkfw9964936.shtml",
@@ -516,20 +600,6 @@
       "period": "night",
       "date": "2026-08-15",
       "time": "23:30",
-      "keywords": []
-    },
-    {
-      "title": "高毅、景林美股调仓曝光！一个加仓存储龙头，一个清仓英伟达",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/t/2026-08-16/doc-ininmpac1943804.shtml",
-      "content": "知名私募最新美股持仓浮出水面。 近日，高毅资产旗下海外基金2026年二季度美股持仓通过美国证券交易委员会（SEC）官网披露。数据显示，截至二季度末...",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-08-15",
-      "time": "16:17",
       "keywords": []
     },
     {
@@ -741,6 +811,20 @@
       "keywords": [
         "周刊提前读"
       ]
+    },
+    {
+      "title": "冠豪高新：5.48亿资产处置“扮靓”利润，现金流仍未回正",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/s/2026-08-16/doc-ininnzcn1000329.shtml",
+      "content": "来源：证券之星 8月8日，冠豪高新（600433.SH）披露2026年半年度报告，账面数据呈现大幅反转。报告期内，公司实现营业收入36.39亿元，同比小幅上涨6.94%；归属净利润2...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-16",
+      "time": "07:00",
+      "keywords": []
     },
     {
       "title": "Waymo获批大幅扩张加州运营范围，机器人出租车服务将覆盖18个县",
@@ -1064,91 +1148,6 @@
       "period": "night",
       "date": "2026-08-15",
       "time": "23:13",
-      "keywords": []
-    },
-    {
-      "title": "美国中央司令部指挥官完成为期10天的中东之行",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/7x24/2026-08-16/doc-ininmxrx1777011.shtml",
-      "content": " 美国中央司令部指挥官于8月15日结束为期10天的中东行程，此行到访六个国家，并登上部署于阿拉伯海的美国海军航空母舰。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-15",
-      "time": "21:53",
-      "keywords": []
-    },
-    {
-      "title": "厄瓜多尔总统诺沃亚抵达北京 开启访华行程",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-16/doc-ininmxrx1770925.shtml",
-      "content": " 今天（16日）早晨，厄瓜多尔共和国总统丹尼尔·罗伊-希尔克里斯特·诺沃亚·阿辛抵达北京，开始为期8天的访华行程。此访是诺沃亚总统首次对中国进行国事访问。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-15",
-      "time": "21:25",
-      "keywords": []
-    },
-    {
-      "title": "特朗普释放可能参与2028年大选的信号",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/7x24/2026-08-16/doc-ininmxrx1763357.shtml",
-      "content": " 美国总统特朗普在真相社交平台发布一张疑似AI生成的图片，图中他头戴印有“特朗普2028”字样的帽子。图片配文写道：“我们必将取胜。”",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-15",
-      "time": "20:54",
-      "keywords": []
-    },
-    {
-      "title": "英伟达洽谈向SB Energy投资30亿美元，系OpenAI数据中心交易组成部分",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/7x24/2026-08-16/doc-ininmtkf0249840.shtml",
-      "content": " 据知情人士透露，英伟达正洽谈向SB Energy最高投资30亿美元。SB Energy由软银集团支持，负责为OpenAI开发俄亥俄州大型数据中心项目。",
-      "priority": "low",
-      "sectors": [
-        "半导体",
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-08-15",
-      "time": "19:16",
-      "keywords": []
-    },
-    {
-      "title": "受美国海上封锁影响，伊朗实际上已经停止汽油进口",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/7x24/2026-08-16/doc-ininmtiz1846000.shtml",
-      "content": "伊朗议会能源委员会发言人礼萨·塞帕万周六表示，受美国海上封锁影响，伊朗实际上已经停止汽油进口。“我们目前面临海上封锁，汽油进口已经中断。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-15",
-      "time": "18:03",
-      "keywords": []
-    },
-    {
-      "title": "电影《牛来》“票房暴涨1000倍”，预测总票房1837万元 大批股民许愿：希望周一带动“牛”股上涨",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-16/doc-ininncxv1676581.shtml",
-      "content": "来源：大河报 8月15日，“牛来票房暴涨1000倍”相关话题登上微博热搜榜第一名。据灯塔专业版数据，截至16日零点，累计票房已超221万元。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-15",
-      "time": "17:36",
       "keywords": []
     },
     {
