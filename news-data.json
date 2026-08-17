@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-17T20:58:11.472723",
+  "updated": "2026-08-17T22:55:43.165404",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,56 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 25,
-    "medium": 22,
+    "high": 28,
+    "medium": 19,
     "low": 103
   },
   "items": [
+    {
+      "title": "8月18日隔夜要闻：美股收跌 原油黄金上涨 特朗普对伊朗谈判不乐观 公开指责阿曼 美光闪迪等存储巨头大涨",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininssee3539788.shtml",
+      "content": "市场 8月18日收盘：美股三大股指收盘普跌 微软Meta跌超3% 8月18日美股成交额前20：美光涨超4% 马斯克明确看好美光闪迪等存储巨头 8月18日热门中概股涨跌不一 小鹏涨超4%...",
+      "priority": "high",
+      "sectors": [
+        "能源",
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-08-17",
+      "time": "22:30",
+      "keywords": []
+    },
+    {
+      "title": "8月18日外盘头条：特朗普称不寻求延长与伊朗的谅解备忘录 Anthropic年化营收有望突破650亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsmvy8832147.shtml",
+      "content": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、特朗普称不寻求延长与伊朗的谅解备忘录 2、英伟达将向OpenAI俄亥俄数据中心投资至多1050亿美元 3...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-17",
+      "time": "21:30",
+      "keywords": []
+    },
+    {
+      "title": "大宗商品综述：原油和黄金上涨 铜价基本持平",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsmwh3658658.shtml",
+      "content": " 由于各种迹象显示中东冲突短期内难以平息，原油价格周一上涨。黄金价格走高，因为对美联储加息的预期降温令美元承压走低。铜价基本持平，市场供应严重吃紧。",
+      "priority": "high",
+      "sectors": [
+        "能源",
+        "黄金",
+        "有色"
+      ],
+      "period": "night",
+      "date": "2026-08-17",
+      "time": "21:19",
+      "keywords": []
+    },
     {
       "title": "Anthropic年化营收有望突破650亿美元 较去年底增长逾6倍",
       "source": "环球市场播报",
@@ -111,6 +156,20 @@
       "keywords": []
     },
     {
+      "title": "卡拉斯称欧盟将提出新一轮对俄制裁计划",
+      "source": "新华社",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-17/doc-ininrzhi7659740.shtml",
+      "content": "新华社北京8月17日电 欧盟外交与安全政策高级代表卡娅·卡拉斯接受德国媒体采访时称，欧盟计划今年秋季提出新一轮对俄制裁措施，是乌克兰危机全面升级以来制裁范围最广的一...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-17",
+      "time": "15:19",
+      "keywords": []
+    },
+    {
       "title": "为什么大型科技公司的AI支出比表面看起来高出3万亿美元？",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininrzhc6706376.shtml",
@@ -136,20 +195,6 @@
       "period": "noon",
       "date": "2026-08-17",
       "time": "14:50",
-      "keywords": []
-    },
-    {
-      "title": "千亿芯片巨头业绩曝光！688521 上半年亏损超去年全年",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-08-17/doc-ininruyf6833051.shtml",
-      "content": "來源：中国基金报 【导读】芯原股份2026年上半年亏损额超去年全年 “中国半导体IP第一股”“AI ASIC龙头”芯原股份8月17日晚发布的半年报显示，2026年上半年...",
-      "priority": "high",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-08-17",
-      "time": "14:35",
       "keywords": []
     },
     {
@@ -393,6 +438,20 @@
       ]
     },
     {
+      "title": "8月18日热门中概股涨跌不一 小鹏涨超4% 华住酒店涨超11%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininssee3533769.shtml",
+      "content": "8月18日热门中概股涨跌不一，纳斯达克中国金龙指数（HXC）收跌0.37%。 上涨个股（按市值从高到低）：台积电涨1.08%，阿里巴巴涨0.73%，拼多多涨0.74%，日月光半导体涨0...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-17",
+      "time": "21:43",
+      "keywords": []
+    },
+    {
       "title": "8月18日收盘：美股三大股指收盘普跌 微软Meta跌超3%",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsmwh3646552.shtml",
@@ -446,62 +505,6 @@
       "period": "noon",
       "date": "2026-08-17",
       "time": "15:19",
-      "keywords": []
-    },
-    {
-      "title": "AI相关股票集体走强：Anthropic营收14倍增长报告提振市场情绪",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruym7766440.shtml",
-      "content": "周一美股开盘后，尽管主要指数表现平淡，但AI产业链个股显著走强。催化剂来自上周五的报道：Anthropic第二季度初步营收超过115亿美元，同比激增至少14倍（去年同期约7...",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-08-17",
-      "time": "14:41",
-      "keywords": []
-    },
-    {
-      "title": "加拿大7月通胀率升至3%：汽油价格加速上涨成主因，核心通胀仍贴近目标",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruyh9034208.shtml",
-      "content": "拿大统计局8月17日公布的数据显示，7月消费者价格指数（CPI）同比上涨3.0%，高于6月的2.8%，略超市场预期的2.9%。这一升幅主要受汽油价格加速上涨以及旅行相关成本推动。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-17",
-      "time": "14:34",
-      "keywords": []
-    },
-    {
-      "title": "高盛警示：退税红利消退，美国消费支出或将降温",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruym7757849.shtml",
-      "content": "尽管汽油与食品价格居高不下，美国消费者今年展现出极强的韧性。但高盛经济学家警告，这份韧性很快将迎来考验。 高盛经济学家扬・哈祖斯在最新研报中指出：面向消费者的企...",
-      "priority": "medium",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-08-17",
-      "time": "14:28",
-      "keywords": []
-    },
-    {
-      "title": "“完美行情”的股市或许难以长久维持",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruyh9025816.shtml",
-      "content": "近乎一片向好的股市，即将步入震荡加剧的阶段。 BTIG 策略师乔纳森・克林斯基在最新研报中写道：“市场行情扩散已经完成，整体市场情绪堪称完美。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-17",
-      "time": "14:22",
       "keywords": []
     },
     {
@@ -731,6 +734,63 @@
       ]
     },
     {
+      "title": "L3Harris因未指明“行为”罢免CEO 股价下跌4%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsscw8731054.shtml",
+      "content": " 国防承包巨头L3Harris Technologies周日罢免了首席执行官克里斯·库巴希克，此前公司获悉其存在“某些不符合公司价值观的行为”，公司周一在声明中表示。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-17",
+      "time": "22:33",
+      "keywords": []
+    },
+    {
+      "title": "英伟达为俄亥俄州OpenAI数据中心提供1050亿美元融资支持",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininssee3544530.shtml",
+      "content": "周一披露的一份证券文件显示，英伟达将为OpenAI在俄亥俄州的一座新人工智能数据中心提供高达1050亿美元的融资。 该信贷将支持初始4.25吉瓦（GW）的计算能力...",
+      "priority": "low",
+      "sectors": [
+        "半导体",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-17",
+      "time": "22:28",
+      "keywords": []
+    },
+    {
+      "title": "派拉蒙寻求州总检察长提供18.8亿美元保证金，以覆盖华纳兄弟探索合并延迟带来的成本",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsseh0316523.shtml",
+      "content": " 派拉蒙将在其反垄断案件中，根据周一提交的一份新文件，寻求迫使那些阻碍其与华纳兄弟探索合并的州支付与延迟相关的费用和成本。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-17",
+      "time": "22:26",
+      "keywords": []
+    },
+    {
+      "title": "外国6月抛售美国国债 日本减持量最大",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsmwh3658837.shtml",
+      "content": " 美国财政部周一公布的数据显示，外国持有的该国国债6月出现大幅下降，其中日本减持得最多，而加拿大、新加坡和印度则加仓。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-17",
+      "time": "21:20",
+      "keywords": []
+    },
+    {
       "title": "8月18日美股成交额前20：美光涨超4% 马斯克明确看好美光闪迪等存储巨头",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininsmwk0424456.shtml",
@@ -840,6 +900,34 @@
       "period": "night",
       "date": "2026-08-17",
       "time": "18:17",
+      "keywords": []
+    },
+    {
+      "title": "特朗普称不寻求延长与伊朗的谅解备忘录",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-18/doc-ininsfpz6641472.shtml",
+      "content": "当地时间8月17日，美国总统特朗普表示，美国不寻求延长与伊朗的谅解备忘录。 美国和伊朗6月17日公布谅解备忘录正式文本，其中第三条内容是：美国与伊朗承诺在最多60天内进...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-17",
+      "time": "18:16",
+      "keywords": []
+    },
+    {
+      "title": "一艘阿联酋油轮在霍尔木兹海峡被拦截",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-18/doc-ininsfqa8882635.shtml",
+      "content": " 总台记者当地时间17日获悉，海事数据显示，一艘属于阿联酋公司的油轮在穿越霍尔木兹海峡时，在格什姆岛附近被拦截。（总台记者 张卓雅）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-17",
+      "time": "17:58",
       "keywords": []
     },
     {
@@ -1070,6 +1158,20 @@
       "keywords": []
     },
     {
+      "title": "伊朗官员：已为美国履行谅解备忘录设定最后期限",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-17/doc-ininrzhi7645749.shtml",
+      "content": " 当地时间17日，一名伊朗高级官员在接受采访时说，伊朗已为美国全面履行伊美谅解备忘录设定了数周的最后期限，伊朗不会无限期等待美国继续实施海上封锁。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-17",
+      "time": "14:46",
+      "keywords": []
+    },
+    {
       "title": "正导技术IPO：集体企业到仲氏家族，诉讼瞒报五年，数据“打架”，函证失效七成",
       "source": "市场资讯",
       "url": "https://finance.sina.com.cn/stock/newstock/2026-08-17/doc-ininruyf6834559.shtml",
@@ -1081,106 +1183,6 @@
       "period": "noon",
       "date": "2026-08-17",
       "time": "14:44",
-      "keywords": []
-    },
-    {
-      "title": "法国30年期国债收益率升至4.86% 重返近二十年最高水平",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-08-17/doc-ininruye0059525.shtml",
-      "content": "由于市场持续担忧财政风险，超长期债券再次遭遇抛售，法国30年期国债收益率重新升至近20年来最高水平。 法国30年期国债收益率上升1个基点，至4.86%...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-17",
-      "time": "14:44",
-      "keywords": []
-    },
-    {
-      "title": "Meta面临联邦审判：多州指控其故意设计社交媒体成瘾功能伤害青少年",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruyh9036564.shtml",
-      "content": "美国加州奥克兰联邦法院本周正式启动针对Meta的重大审判。加州、科罗拉多州、肯塔基州和新泽西州四州总检察长指控Meta故意设计Facebook和Instagram功能，使青少年上瘾...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-17",
-      "time": "14:37",
-      "keywords": []
-    },
-    {
-      "title": "日丰股份，拟投资7亿元切入光纤赛道",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-17/doc-ininruye0056257.shtml",
-      "content": "8月17日晚间，日丰股份公告，公司拟投资约7亿元建设年产300吨光纤预制棒、1000万芯公里光纤项目（以下简称“光纤项目”），项目的基建实施主体为广东日丰新材料有限公司（以...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-17",
-      "time": "14:28",
-      "keywords": []
-    },
-    {
-      "title": "英伟达与OpenAI俄亥俄大型AI工厂项目细节浮出，Jensen Huang强调“土地、电力与建筑”成下一关键资源",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruyh9026689.shtml",
-      "content": "8月17日，Nvidia正式宣布与SB Energy（SoftBank旗下）合作，锁定俄亥俄州Pike County的PORTS-Pike科技园区土地、电力与建筑（LPS）容量，专门用于部署Nvidia AI算力。",
-      "priority": "low",
-      "sectors": [
-        "能源",
-        "半导体",
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-08-17",
-      "time": "14:23",
-      "keywords": []
-    },
-    {
-      "title": "打出“年轻牌”，岚图汽车能否驶入增长新赛道？",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/t/2026-08-17/doc-ininruye0055458.shtml",
-      "content": "（来源：贝壳财经）在2026岚图用户之夜上，岚图追光S正式上市。岚图汽车科技股份有限公司CBO、销售公司总经理邵明峰在接受新京报贝壳财经记者采访时表示...",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-08-17",
-      "time": "14:22",
-      "keywords": []
-    },
-    {
-      "title": "塔吉特股价狂飙，但重大考验已然临近",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-17/doc-ininruye0047915.shtml",
-      "content": "本周沃尔玛、塔吉特财报，将揭示美国消费者真实图景 作者：布莱恩・索齐 在新任 CEO 迈克尔・菲德尔克有望带领公司扭转颓势的预期之下，多头今年大举回归塔吉特（TGT）。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-17",
-      "time": "14:18",
-      "keywords": []
-    },
-    {
-      "title": "人均超550万元！寒武纪124名员工股权激励即将到账",
-      "source": "证券时报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-17/doc-ininruye0054277.shtml",
-      "content": "寒武纪(688256)124名员工的股权激励即将到账，人均超过550万元。 8月17日晚间，寒武纪发布公告，56.1万股股权激励股份即将解禁，上市流通日期为8月20日。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-17",
-      "time": "14:18",
       "keywords": []
     },
     {
