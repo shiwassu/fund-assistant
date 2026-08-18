@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T20:55:19.856121",
+  "updated": "2026-08-18T22:56:00.430576",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,25 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 24,
-    "medium": 30,
-    "low": 96
+    "high": 23,
+    "medium": 29,
+    "low": 98
   },
   "items": [
+    {
+      "title": "OpenAI披露Hugging Face事件后安全新政：暂停前沿模型强化学习训练",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuvcf9651675.shtml",
+      "content": " 周二，OpenAI宣布了一系列新的安全政策，重点加强模型测试期间的安全事件管控。新措施包括在开发过程中对模型进行更详细的监控，以及在训练后阶段更强调对齐与安全。",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-18",
+      "time": "21:23",
+      "keywords": []
+    },
     {
       "title": "AI交易情绪逆转 苹果“反AI”属性正成股价拖累",
       "source": "环球市场播报",
@@ -111,45 +125,17 @@
       "keywords": []
     },
     {
-      "title": "Kalshi寻求推出股指“永续合约”，进军传统交易所领地",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininuefp9925028.shtml",
-      "content": "预测市场平台Kalshi在周二提交的一份监管文件中披露，其正寻求推出与股票指数挂钩的永续期货。 这份提交给美国商品期货交易委员会（CFTC）的申报文件...",
+      "title": "应特朗普要求 韩美联合军演提前结束 训练日程缩短约一半",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-18/doc-ininukpm9820659.shtml",
+      "content": "据韩国方面消息，在美国总统特朗普要求大幅缩减韩美联合军演规模后，韩美军方18日举行紧急会晤，决定大幅压缩正在进行的“乙支自由护盾”联合军演日程...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-08-18",
-      "time": "14:54",
-      "keywords": []
-    },
-    {
-      "title": "深夜，美债暴跌！芯片巨头集体跳水",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/wm/2026-08-18/doc-ininuefn3141097.shtml",
-      "content": "来看外围市场行情。 当地时间8月18日（周二），美股三大指数集体低开，截至发稿，纳指跌超1%。板块方面，芯片股领跌，费城半导体指数下跌超过5%，迈威尔科技跌超7%，Arm...",
-      "priority": "high",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-08-18",
-      "time": "14:23",
-      "keywords": []
-    },
-    {
-      "title": "300684三连“20cm”涨停，谁是幕后推手？",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/s/2026-08-18/doc-ininuefn3139953.shtml",
-      "content": " 8月18日，A股市场主要指数涨跌不一。科技主线整体承压回调，但内部走势明显分化。机器人概念、玻璃基板等细分方向不乏亮点，算力租赁、AI应用、锂电池等题材走弱。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-18",
-      "time": "14:16",
+      "time": "15:25",
       "keywords": []
     },
     {
@@ -377,6 +363,78 @@
       ]
     },
     {
+      "title": "8月19日美股成交额前20：存储板块大跌 美银分析师称英伟达存在折价",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuzma2772713.shtml",
+      "content": "周二美股成交额第2名美光大跌7.02%%，成交349.85亿美元。存储概念股普遍下跌，费城半导体指数跌4.98%。 美国银行发布对美光科技的长期盈利预测...",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-08-18",
+      "time": "22:50",
+      "keywords": []
+    },
+    {
+      "title": "iQOO Neo11 至尊版国补到手价2899元起：同档唯一真 2K 屏与 9100 mAh",
+      "source": "新浪数码",
+      "url": "https://finance.sina.com.cn/tech/mobile/n/n/2026-08-19/doc-ininuvce2892168.shtml",
+      "content": "2026 年 8 月 18 日，“胜不可挡”iQOO Neo11 至尊版正式发布，国补后到手价 2899 元起。该机行业首发天玑 9500M 旗舰芯和 F2 发光材料...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-18",
+      "time": "22:16",
+      "keywords": [
+        "iQOO"
+      ]
+    },
+    {
+      "title": "折价深达50% 美银称英伟达“极具吸引力”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuvaz7146717.shtml",
+      "content": "在美国银行看来，由于投资者夸大了英伟达公司所面临的风险，这家AI芯片龙头企业的股价可能被低估了多达50%。 分析师Vivek Arya在研报中写道...",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-08-18",
+      "time": "22:06",
+      "keywords": []
+    },
+    {
+      "title": "美国股市：科技股领跌拖累大盘 长债收益率高企打压风险情绪",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuvce2876482.shtml",
+      "content": "美国股市周二下跌，科技股领跌。债券收益率维持高位且油价上涨，促使投资者削减人工智能押注在内的风险交易。 以科技股为主的纳斯达克100指数收跌1.7%，标普500指数下跌0...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-18",
+      "time": "21:10",
+      "keywords": []
+    },
+    {
+      "title": "纽约汇市：美元随油价上涨 日元逼近160关口",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuvaw8388766.shtml",
+      "content": " 美国和伊朗在霍尔木兹海峡控制权问题上仍僵持不下，油价处于两周高点附近，彭博美元指数也走高。日元兑美元接近备受关注的160关口。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-18",
+      "time": "21:01",
+      "keywords": []
+    },
+    {
       "title": "8月19日收盘：纳指跌超1%，科技板块回落，全球债券收益率飙升",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuvaw8375619.shtml",
@@ -402,6 +460,20 @@
       "period": "night",
       "date": "2026-08-18",
       "time": "20:24",
+      "keywords": []
+    },
+    {
+      "title": "叙利亚发现数吨核材料 将接受国际原子能机构监督",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-19/doc-ininuquy8483620.shtml",
+      "content": "国际原子能机构总干事格罗西18日在与叙利亚过渡政府外交部长希巴尼举行的联合新闻发布会上表示，在叙方近期向该机构报告的一处地点发现数吨核材料。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-18",
+      "time": "19:25",
       "keywords": []
     },
     {
@@ -486,104 +558,6 @@
       "period": "noon",
       "date": "2026-08-18",
       "time": "15:38",
-      "keywords": []
-    },
-    {
-      "title": "供给大幅收缩！焦煤迎来趋势性反转，煤炭板块开启业绩估值双击",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-18/doc-ininuefp9925602.shtml",
-      "content": "522 留神峪瓦斯爆炸事故之后，国内煤矿安监全面升级，叠加山西煤炭新规十七条落地，行业表外隐性产能被系统性出清，全国原煤产量出现显著下滑，6 月原煤产量同比下滑 9...",
-      "priority": "medium",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-08-18",
-      "time": "14:47",
-      "keywords": []
-    },
-    {
-      "title": "英伟达的另一大底牌 —— 资本",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininuefi7290835.shtml",
-      "content": "核心要点过去一周，英伟达与多家华尔街机构达成协议，拟为芯片业务落实规模达 5000 亿美元的融资；同时同意为 OpenAI 位于俄亥俄州的项目提供最高 1050...",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-08-18",
-      "time": "14:30",
-      "keywords": []
-    },
-    {
-      "title": "六城八店启航，“好运连得”在潮玩IP蓝海里锚定现实娱乐新支点",
-      "source": "三文娱",
-      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-08-18/doc-ininuefp9919007.shtml",
-      "content": "大麦娱乐，为IP找到更大的表达空间。2026年的中国潮玩，正站在一个微妙路口。一方面，行业持续扩容。淘宝近期发布的《2026淘天潮玩新机会》显示...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-18",
-      "time": "14:24",
-      "keywords": []
-    },
-    {
-      "title": "美国7月二手房签约量环比下降2.3% 逊于所有经济学家预估",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininuefn3134845.shtml",
-      "content": "美国全国房地产经纪人协会（NAR）公布的二手房签约量指数7月环比下降2.3%，预估中值为持平。 接受调查的26位经济学家预测区间介于下降1%至增长3.3%之间。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-18",
-      "time": "14:14",
-      "keywords": []
-    },
-    {
-      "title": "道氏技术：2026年上半年，公司刚果（金）铜业务整体经营状况较好",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-18/doc-ininuefi7307113.shtml",
-      "content": "证券日报网8月18日讯，道氏技术在接受调研时表示，2026年上半年，公司刚果(金)铜业务整体经营状况较好，全球铜价整体处于较高水平，叠加阴极铜销量同比上升...",
-      "priority": "medium",
-      "sectors": [
-        "有色"
-      ],
-      "period": "noon",
-      "date": "2026-08-18",
-      "time": "14:02",
-      "keywords": []
-    },
-    {
-      "title": "30年期美债收益率创2007年来新高 是什么引发全球债券抛售潮？",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-08-18/doc-ininuefp9898651.shtml",
-      "content": "全球国债遭遇抛售，股市集体收跌，投资者对大规模财政支出与通胀风险感到忧虑。 与此同时，资本需求庞大的人工智能行业大举发债，与主权国家形成融资竞争...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-18",
-      "time": "13:59",
-      "keywords": []
-    },
-    {
-      "title": "高盛拟收购一家房地产投资公司，交易金额最高可达 4.1 亿美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininuefp9897005.shtml",
-      "content": "高盛表示，已达成协议收购私募房地产投资公司 LCN Capital Partners，交易总对价最高可达 4.1 亿美元。 LCN 是一家商业房地产投资机构，管理资产规模约 30 亿美元...",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-08-18",
-      "time": "13:55",
       "keywords": []
     },
     {
@@ -829,6 +803,135 @@
       ]
     },
     {
+      "title": "Anthropic据报道拟赋予CEO超级投票权 为登陆华尔街铺路",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuzmc9545546.shtml",
+      "content": " The Information援引知情人士报道称，Anthropic PBC计划向首席执行官Dario Amodei及其他联合创始人授予拥有额外投票权的股份，此举将为公司登陆华尔街做准备。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-18",
+      "time": "22:51",
+      "keywords": []
+    },
+    {
+      "title": "美官员：特朗普要求谈判团队暂停与伊朗接触",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-19/doc-ininuvcf9672597.shtml",
+      "content": "总台记者当地时间18日获悉，一名美国官员表示，特朗普已要求政府高级特使暂停与伊朗方面的接触。此外，一名知情人士表示，白宫官员近期向政治盟友传达其对伊朗战略正在发生...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-18",
+      "time": "22:26",
+      "keywords": []
+    },
+    {
+      "title": "阿联酋指责伊朗再次发射导弹 将暂停与德黑兰的贸易金融往来",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuvaz7152523.shtml",
+      "content": " 阿联酋表示，两枚弹道导弹从伊朗射向该国。随着中东更广泛的战争持续，这是自5月以来伊朗对该海湾国家发起的首次已知袭击。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-08-18",
+      "time": "22:16",
+      "keywords": []
+    },
+    {
+      "title": "Xiaomi HyperOS 4 正式发布：超级小爱 2.0 来了，跨应用、跨设备任务帮你执行",
+      "source": "新浪数码",
+      "url": "https://finance.sina.com.cn/tech/mobile/n/n/2026-08-19/doc-ininuvaw8423761.shtml",
+      "content": "2026 年 8 月 13 日，小米正式发布小米澎湃OS 4，围绕基础体验、功能升级和全生态 AI 三大方向全面升级，带来更丝滑的交互感受、更直达所需的功能体验...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-18",
+      "time": "22:15",
+      "keywords": [
+        "小米"
+      ]
+    },
+    {
+      "title": "8月19日外盘头条：特朗普称未与伊朗进行任何会谈 苹果调整欧盟应用商店收费 多国长期主权债收益率升至高位",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuvaz7142250.shtml",
+      "content": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、特朗普称未与伊朗安排任何谈判，再次暗示将霍尔木兹海峡据为美国领土 2、美加关税谈判进入最后关头...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-18",
+      "time": "21:58",
+      "keywords": []
+    },
+    {
+      "title": "特朗普称未与伊朗安排任何谈判，再次暗示将霍尔木兹海峡据为美国领土",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuvaz7138422.shtml",
+      "content": " 美国总统特朗普周二表示，美国未与伊朗进行任何谈判，也没有计划开启新的谈判，但他继续声称霍尔木兹海峡开放且水雷已被清除。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-18",
+      "time": "21:50",
+      "keywords": []
+    },
+    {
+      "title": "苹果全面调整欧盟App Store收费规则，放宽第三方应用商店准入门槛",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuvaz7123725.shtml",
+      "content": "苹果周二宣布，针对欧盟市场简化应用佣金结构，以解决与欧盟委员会在商业条款上的分歧。根据新方案，苹果将取消基于安装量的核心技术费...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-18",
+      "time": "21:16",
+      "keywords": []
+    },
+    {
+      "title": "大宗商品综述：油价触及三周高位 黄金和铜走低",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuvaw8391737.shtml",
+      "content": "由于美国和伊朗在霍尔木兹海峡控制权问题上仍陷僵局，原油价格周二小幅上涨并触及三周高点。黄金价格下跌，全球政府债券遭抛售以及美元走强给金价造成双重压力。",
+      "priority": "low",
+      "sectors": [
+        "黄金",
+        "有色"
+      ],
+      "period": "night",
+      "date": "2026-08-18",
+      "time": "21:07",
+      "keywords": []
+    },
+    {
+      "title": "阿联酋宣布暂停与伊朗的一切贸易金融往来",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-19/doc-ininuvaz7133117.shtml",
+      "content": "阿联酋外交部19日凌晨宣布，鉴于地区局势持续升级破坏了地区和国际和平与安全，阿联酋决定暂停与伊朗的一切贸易、商业往来和金融交易，恢复时间另行通知。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-08-18",
+      "time": "20:47",
+      "keywords": []
+    },
+    {
       "title": "阿联酋称伊朗向该国发射两枚导弹 为5月以来首次袭击",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuquy8486312.shtml",
@@ -913,6 +1016,20 @@
       "keywords": []
     },
     {
+      "title": "伊朗外长：近期冲突表明未设美军基地的国家受损害更小",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-19/doc-ininukpf7276174.shtml",
+      "content": "当地时间18日，伊朗外交部长阿拉格齐表示，近期发生的冲突表明，没有设立美军基地的国家受到的损害更小，而美军基地甚至无法保护自身利益免受抵抗力量的打击。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-18",
+      "time": "17:23",
+      "keywords": []
+    },
+    {
       "title": "Carvana因内部人士减持出现股价下跌",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpa8528325.shtml",
@@ -924,6 +1041,34 @@
       "period": "noon",
       "date": "2026-08-18",
       "time": "17:05",
+      "keywords": []
+    },
+    {
+      "title": "阿联酋称监测到两枚自伊朗发射的导弹",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-19/doc-ininukpk3078062.shtml",
+      "content": "当地时间18日，阿联酋国防部表示，其防空系统监测到两枚从伊朗向阿联酋发射的弹道导弹。第一枚导弹落在阿联酋领海之外，第二枚导弹落在该国领海内。伊朗方面对此尚无回应。...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-18",
+      "time": "16:55",
+      "keywords": []
+    },
+    {
+      "title": "阿联酋与美国两国总统通电话 讨论双边合作及地区局势",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-19/doc-ininukpm9847154.shtml",
+      "content": "当地时间18日，阿联酋总统穆罕默德与美国总统特朗普通电话，就两国合作及加强双边关系等议题进行了讨论。当前，美国与伊朗的冲突仍在持续...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-18",
+      "time": "16:52",
       "keywords": []
     },
     {
@@ -971,6 +1116,20 @@
       "keywords": []
     },
     {
+      "title": "以军持续打击加沙地带 巴方称袭击致多人死伤",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-19/doc-ininuqvc7175238.shtml",
+      "content": "△加沙地带（资料图）以色列国防军18日发表多份声明称，持续对加沙地带巴勒斯坦武装人员发动打击。巴方卫生部门当天也发表声明表示...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-18",
+      "time": "16:29",
+      "keywords": []
+    },
+    {
       "title": "数据中心反对声浪渐成美国选举敏感议题 华尔街担忧美股面临回调风险",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpa8503929.shtml",
@@ -982,6 +1141,34 @@
       "period": "noon",
       "date": "2026-08-18",
       "time": "16:24",
+      "keywords": []
+    },
+    {
+      "title": "俄方：瑞典扣留涉俄货船出于政治动机",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-18/doc-ininukpk3049563.shtml",
+      "content": "俄罗斯驻瑞典大使谢尔盖·别利亚耶夫18日表示，瑞典2025年年底至今扣留过多艘为俄罗斯利益服务的货船，此类举动是出于政治动机，违反国际海事法。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-18",
+      "time": "15:41",
+      "keywords": []
+    },
+    {
+      "title": "伊朗称美国曾考虑对伊使用“委内瑞拉”模式但未得逞",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-18/doc-ininuefe8601097.shtml",
+      "content": "伊朗伊斯兰革命卫队副总司令穆斯塔法·伊扎迪日前表示，美国曾考虑将“委内瑞拉”模式用于伊朗，但最终未能得逞。 据伊朗方面18日消息，伊扎迪说...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-18",
+      "time": "15:08",
       "keywords": []
     },
     {
@@ -997,188 +1184,6 @@
       "period": "noon",
       "date": "2026-08-18",
       "time": "14:58",
-      "keywords": []
-    },
-    {
-      "title": "汉朔科技收到美国关税退税约1.57亿元",
-      "source": "观点地产网",
-      "url": "https://finance.sina.com.cn/stock/estate/integration/2026-08-18/doc-ininuefe8582314.shtml",
-      "content": "观点网讯：8月18日，汉朔科技发布公告，其全资子公司美国汉朔已累计收到美国关税及利息退回合计2310.64万美元，折合人民币约1.57亿元。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-18",
-      "time": "14:58",
-      "keywords": []
-    },
-    {
-      "title": "美国二手房签约量跌至年初以来最低 高抵押贷款利率和房价持续施压",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-08-18/doc-ininuefp9923641.shtml",
-      "content": "美国二手房签约量在7月降至年初以来最低水平，反映出抵押贷款利率和房价高企持续拖累房地产市场。 美国全国房地产经纪人协会（NAR）周二公布的数据显示...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-08-18",
-      "time": "14:51",
-      "keywords": []
-    },
-    {
-      "title": "新兴装备：上半年实现营业收入1.86亿元",
-      "source": "上海证券报·中国证券网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-18/doc-ininuefp9915484.shtml",
-      "content": "上证报中国证券网讯8月18日晚，新兴装备披露2026年半年度报告，公司上半年实现营业收入1.86亿元，净利润1632.77万元，扣非净利润1496.96万元。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-18",
-      "time": "14:25",
-      "keywords": []
-    },
-    {
-      "title": "迪士尼旗下 ABC 电视台依据第一修正案起诉联邦通信委员会（FCC）",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininuefi7284547.shtml",
-      "content": "核心要点迪士尼旗下 ABC 电视台依据美国宪法第一修正案，对联邦通信委员会（FCC）提起诉讼。此次诉讼的背景是 FCC 围绕迪士尼多元化、公平与包容（DEI）相关业务...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-18",
-      "time": "14:21",
-      "keywords": []
-    },
-    {
-      "title": "近期石油企业人事变动",
-      "source": "中国石油石化",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-18/doc-ininuefn3138994.shtml",
-      "content": "中国石油8月15日，中国石油集团工程股份有限公司发布最新人事公告。公告披露公司管理层两项重要人事调整，涉及总经理、董事会秘书两大核心高管岗位。",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-08-18",
-      "time": "14:14",
-      "keywords": []
-    },
-    {
-      "title": "230万4年变成3个亿！章子怡登上娱乐圈投资女神宝座",
-      "source": "快科技",
-      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-08-18/doc-ininuefn3151220.shtml",
-      "content": "快科技8月18日消息，据媒体报道，4年间，演员章子怡投的几百万，变成了3个亿。 近日，港股上市公司上美股份发布公告，拟通过全资附属公司上海青道收购上海怡页合计29%的股...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-18",
-      "time": "14:13",
-      "keywords": []
-    },
-    {
-      "title": "“简直疯狂”：韩国股民正在美股市场做些什么",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininuefn3132748.shtml",
-      "content": "核心要点韩国本土股市出现回调，7 月韩国散户投资者净买入 45 亿美元美股。很多投资者只是转换交易市场，并未改变押注方向，通过美股标的继续布局人工智能主题与杠杆类产品...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-18",
-      "time": "14:10",
-      "keywords": []
-    },
-    {
-      "title": "龙蟠科技：公司将于2026年9月3日召开2026年第五次临时股东会",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-08-18/doc-ininuefn3153507.shtml",
-      "content": "证券日报网讯 8月18日，龙蟠科技发布公告称，公司将于2026年9月3日召开2026年第五次临时股东会。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-18",
-      "time": "14:02",
-      "keywords": []
-    },
-    {
-      "title": "新研股份：公司将于2026年9月4日召开2026年第二次临时股东会",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-18/doc-ininuefp9920015.shtml",
-      "content": "证券日报网讯8月18日，新研股份发布公告称，公司将于2026年9月4日召开2026年第二次临时股东会。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-18",
-      "time": "14:02",
-      "keywords": []
-    },
-    {
-      "title": "侨银股份：公司将于2026年9月4日召开2026年第五次临时股东会",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-18/doc-ininuefn3144124.shtml",
-      "content": "证券日报网讯8月18日，侨银股份发布公告称，公司将于2026年9月4日召开2026年第五次临时股东会。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-18",
-      "time": "14:02",
-      "keywords": []
-    },
-    {
-      "title": "DeepSeek涨价，“价格屠夫”梁文锋“收刀”",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-08-18/doc-ininuefn3132415.shtml",
-      "content": "來源：雷达Finance 雷达财经出品 文|周慧 编|孟帅 8月17日，DeepSeek的最新涨价方案正式落地。 据悉，DeepSeek此次API价格调整引入了峰谷定价机制...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-08-18",
-      "time": "13:58",
-      "keywords": []
-    },
-    {
-      "title": "川恒股份定增募投项目再生变",
-      "source": "中证网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-18/doc-ininuefe8565104.shtml",
-      "content": "中证报中证网讯(记者吴科任)8月18日晚间，川恒股份发布公告称，基于募投项目实施的实际情况，公司定增项目“福泉市老寨子磷矿新建180万吨/年采矿工程”达到预定可使用状态日...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-18",
-      "time": "13:57",
-      "keywords": []
-    },
-    {
-      "title": "新通药物IPO：净资产“朝令夕改”，入股价格“同月跳水六成”",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/newstock/2026-08-18/doc-ininuefe8549827.shtml",
-      "content": "來源：新财渤社 文\\青屿 西安新通药物研究股份有限公司（以下简称“新通药物”）于8月12日回复反馈问询函。 新通药物核心技术的根基...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-18",
-      "time": "13:53",
       "keywords": []
     },
     {
