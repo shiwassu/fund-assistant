@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-18T19:09:21.689714",
+  "updated": "2026-08-18T20:55:19.856121",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -12,6 +12,20 @@
     "low": 96
   },
   "items": [
+    {
+      "title": "AI交易情绪逆转 苹果“反AI”属性正成股价拖累",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuqvh2987515.shtml",
+      "content": " 随着投资者对AI交易的疑虑日益加深，苹果公司的“反AI”交易属性曾在上半年助其股价大涨。但如今市场情绪已经逆转，苹果股价开始陷入困境。",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-18",
+      "time": "19:56",
+      "keywords": []
+    },
     {
       "title": "30年期美国国债收益率突破5.33%，创19年新高",
       "source": "环球市场播报",
@@ -136,20 +150,6 @@
       "period": "noon",
       "date": "2026-08-18",
       "time": "14:16",
-      "keywords": []
-    },
-    {
-      "title": "正荣地产股价一日狂飙125%，66亿元境内债重组有重大进展",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/stock/s/2026-08-18/doc-ininuefi7269077.shtml",
-      "content": "记者丨唐韶葵 编辑丨张敏 骆一帆 8月18日，正荣地产（06158.HK）午后股价直线拉升，盘中最大涨幅超141%，该股月内累计涨幅已超380%。当日收报0.054港元/股，涨幅125%。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-08-18",
-      "time": "13:46",
       "keywords": []
     },
     {
@@ -377,6 +377,34 @@
       ]
     },
     {
+      "title": "8月19日收盘：纳指跌超1%，科技板块回落，全球债券收益率飙升",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuvaw8375619.shtml",
+      "content": "周二，美股三大指数集体收跌。因市场担忧通胀持续，主权债券收益率飙升至数十年高位。半导体板块回调拖累了整体市场。 道指跌116.38点，跌幅为0.22%，报53343...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-18",
+      "time": "20:35",
+      "keywords": []
+    },
+    {
+      "title": "8月19日热门中概股多数下跌 百度跌超12%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuqvi9768059.shtml",
+      "content": "8月19日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）收跌1.01%。 上涨个股（按市值从高到低）：阿里巴巴涨2.76%，拼多多涨0.38%，网易涨0.28%，京东涨1.12%...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-18",
+      "time": "20:24",
+      "keywords": []
+    },
+    {
       "title": "美银指英伟达遭低估且折价或深达50%",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininukpm9833667.shtml",
@@ -556,34 +584,6 @@
       "period": "noon",
       "date": "2026-08-18",
       "time": "13:55",
-      "keywords": []
-    },
-    {
-      "title": "全文|百度Q2业绩会实录：文心将重回第一梯队 年底前完成香港主要上市",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/2026-08-18/doc-ininuefi7261347.shtml",
-      "content": "百度发布2026年第二季度财报，季度总营收313亿元；百度一般性业务收入252亿元，其中AI业务收入占比50%，已连续两季占比过半。本季度，AI云基础设施中GPU云同比增长283%...",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-08-18",
-      "time": "13:50",
-      "keywords": []
-    },
-    {
-      "title": "迪士尼旗下美国广播公司就第一修正案相关事宜起诉联邦通信委员会",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininuefn3121947.shtml",
-      "content": "迪士尼旗下的美国广播公司（ABC）依据美国宪法第一修正案，对美国联邦通信委员会（FCC）提起诉讼，称这家政府机构近期针对该公司展开的调查属于一场 “报复性行动”...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-18",
-      "time": "13:50",
       "keywords": []
     },
     {
@@ -827,6 +827,62 @@
       "keywords": [
         "家庭财富"
       ]
+    },
+    {
+      "title": "阿联酋称伊朗向该国发射两枚导弹 为5月以来首次袭击",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuquy8486312.shtml",
+      "content": " 阿联酋表示，两枚弹道导弹从伊朗射向该国。随着中东更广泛的战争持续，这是自5月以来伊朗对该海湾国家发起的首次已知袭击。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-18",
+      "time": "19:57",
+      "keywords": []
+    },
+    {
+      "title": "美国债市：国债扭转跌势 收益率曲线陡化势头受阻",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuqvi9758526.shtml",
+      "content": "美国债市在周二上午时段逐步收复了早些时候的跌幅，这要得益于超长期国债期货出现的一笔大宗买盘，该交易似乎也遏制了收益率曲线趋陡的势头。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-18",
+      "time": "19:49",
+      "keywords": []
+    },
+    {
+      "title": "原油：油价升至三周高位 美伊谈判仍陷僵局",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuqvc7209928.shtml",
+      "content": "油价微涨，触及三周高位，因为美国和伊朗在霍尔木兹海峡控制权问题上仍陷僵局。 布伦特在涨跌之间波动，最终收于每桶91美元附近。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-08-18",
+      "time": "19:48",
+      "keywords": []
+    },
+    {
+      "title": "美加关税谈判进入最后关头 特朗普政府淡化达成协议预期",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-19/doc-ininuqvh2985762.shtml",
+      "content": "据知情人士透露，特朗普政府正淡化外界对美加两国在最后一刻达成协议以避免将于周三生效的新关税的预期。 知情人士表示，美方私下表示...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-18",
+      "time": "19:47",
+      "keywords": []
     },
     {
       "title": "通胀赤字与AI融资齐袭 多国长期主权债收益率升至十余年高位",
@@ -1123,62 +1179,6 @@
       "period": "noon",
       "date": "2026-08-18",
       "time": "13:53",
-      "keywords": []
-    },
-    {
-      "title": "巨轮智能：公司将于2026年9月3日召开2026年第二次临时股东会",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-18/doc-ininuefn3131415.shtml",
-      "content": "证券日报网讯8月18日，巨轮智能发布公告称，公司将于2026年9月3日召开2026年第二次临时股东会。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-18",
-      "time": "13:51",
-      "keywords": []
-    },
-    {
-      "title": "报道：阿联酋总统与特朗普讨论中东局势",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininuefe8532252.shtml",
-      "content": "阿联酋国家通讯社报道，阿联酋总统穆罕默德·本·扎耶德与美国总统唐纳德·特朗普通电话，讨论了中东地区局势的发展。 双方还讨论了两国之间的双边合作。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-18",
-      "time": "13:49",
-      "keywords": []
-    },
-    {
-      "title": "特朗普：目前没有与伊朗举行任何会谈 也没有会谈安排",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-18/doc-ininuefn3121078.shtml",
-      "content": "美国总统特朗普在Truth Social发帖称，目前没有与伊朗伊斯兰共和国进行任何会谈或对话，也没有安排任何会谈或对话。 他补充说，霍尔木兹海峡已经开放...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-18",
-      "time": "13:48",
-      "keywords": []
-    },
-    {
-      "title": "克来机电：实控人陈久康拟减持公司不超3%股份",
-      "source": "证券时报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-18/doc-ininuefe8531936.shtml",
-      "content": "转自：证券时报人民财讯8月18日电，克来机电(603960)8月18日公告，公司控股股东、实控人之一陈久康拟通过集中竞价和大宗交易方式，减持公司股份不超过786...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-18",
-      "time": "13:47",
       "keywords": []
     },
     {
