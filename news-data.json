@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-19T19:04:53.693290",
+  "updated": "2026-08-19T20:58:02.185203",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,139 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 24,
-    "medium": 34,
-    "low": 92
+    "high": 31,
+    "medium": 25,
+    "low": 94
   },
   "items": [
+    {
+      "title": "美国股市：标普500指数结束三连跌 美财政部扩大国债回购提振债市",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzz6855540.shtml",
+      "content": " 标普500指数周三反弹，因为美国财政部宣布扩大较长期国债回购规模后美债收益率大幅回落，但随后市场走势出现反复，因美联储会议纪要显示多位官员上月倾向加息。",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-08-19",
+      "time": "20:51",
+      "keywords": []
+    },
+    {
+      "title": "特朗普称下周将与“AI领军人物”会面",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyae2296128.shtml",
+      "content": "美国总统特朗普表示，他下周将与人工智能业界领袖开会。 特朗普在白宫说，AI行业的“领军人物”将出席此次会议。 “我们希望进行监管...",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-19",
+      "time": "20:50",
+      "keywords": []
+    },
+    {
+      "title": "8月20日美股成交额前20：Moderna大涨170% 黑色素瘤mRNA疫苗三期试验效果积极",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzw8125948.shtml",
+      "content": "周二美股成交额第2名Moderna大涨176.97%，成交275.08亿美元。 Moderna及其合作伙伴默沙东周三公布一项研究结果：双方合作研发的个体化mRNA肿瘤疫苗intismeran...",
+      "priority": "high",
+      "sectors": [
+        "医药"
+      ],
+      "period": "night",
+      "date": "2026-08-19",
+      "time": "20:47",
+      "keywords": []
+    },
+    {
+      "title": "大宗商品综述：油价升至逾三周高点 金价大涨 铜小幅走高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzw8121729.shtml",
+      "content": " 原油价格周三上涨，受到美国炼油商加大生产以及中东紧张局势的提振。黄金价格跃升，得益于美国财政部宣布增加长债回购后美债收益率和美元走低。伦敦金属交易所铜价走高。",
+      "priority": "high",
+      "sectors": [
+        "黄金",
+        "有色"
+      ],
+      "period": "night",
+      "date": "2026-08-19",
+      "time": "20:39",
+      "keywords": []
+    },
+    {
+      "title": "美国财政部加码长期美债回购 令人联想到美联储“扭转操作”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzw8101326.shtml",
+      "content": " 特朗普政府出人意料地扩大长期美国国债回购规模，令人联想到美联储的“扭转操作”（Operation Twist）。美联储上次启用这一策略是在2011年，旨在压低长期利率。",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-08-19",
+      "time": "20:01",
+      "keywords": []
+    },
+    {
+      "title": "伊朗尚未有任何被冻结资金获得返还",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyaf9049969.shtml",
+      "content": " 伊朗央行行长Abdolnaser Hemmati在电视采访中表示：“到目前为止，没有任何伊朗被冻结资金根据（与美国签署的）谅解备忘录获得返还。”",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-19",
+      "time": "19:47",
+      "keywords": []
+    },
+    {
+      "title": "Marvell因AI芯片交易协议大涨8%，该协议允许谷歌购买至多122亿美元股份",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyaf9047724.shtml",
+      "content": "根据一份证券文件，Marvell Technology股价因一项允许谷歌购买这家芯片公司至多122亿美元股份的交易而上涨8%。 该交易是谷歌与Marvell定制芯片合作的一部分...",
+      "priority": "high",
+      "sectors": [
+        "半导体",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-19",
+      "time": "19:40",
+      "keywords": []
+    },
+    {
+      "title": "美股华盛顿杜勒斯机场获批199亿美元改造计划",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyaf9044940.shtml",
+      "content": " 负责监管华盛顿杜勒斯机场的董事会周三投票批准了一项199亿美元的改造计划，其中包括37.5亿美元用于修建新的地下隧道，并更换在停机坪上运送乘客的慢速车辆。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-19",
+      "time": "19:32",
+      "keywords": []
+    },
+    {
+      "title": "美联储会议纪要显示：若通胀不降温，美联储官员认为需加息",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyae2270543.shtml",
+      "content": " 周三公布的会议纪要显示，美联储官员在上次会议上表示，除非在降低通胀方面取得更多进展，否则他们将需要尽快提高利率。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-19",
+      "time": "19:25",
+      "keywords": []
+    },
     {
       "title": "美联储会议纪要显示 与会者强调联邦基金利率是关键政策工具",
       "source": "环球市场播报",
@@ -41,6 +169,20 @@
       "keywords": []
     },
     {
+      "title": "美联储会议纪要：7月会议释放鹰派信号",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-08-20/doc-ininwtuc6904596.shtml",
+      "content": "美联储7月会议纪要显示，多数美联储官员支持维持利率不变，但数位官员倾向加息25个基点。许多与会人员表示，如果通胀不能持续回落，可能需要进一步加息。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-19",
+      "time": "18:13",
+      "keywords": []
+    },
+    {
       "title": "Marvell因AI芯片交易大涨8%，谷歌可购买至多122亿美元股份",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-08-20/doc-ininwtui9147693.shtml",
@@ -53,6 +195,20 @@
       "period": "night",
       "date": "2026-08-19",
       "time": "18:07",
+      "keywords": []
+    },
+    {
+      "title": "美联储会议纪要：多数支持维持利率不变，部分官员主张必要时加息",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-08-20/doc-ininwtuc6901029.shtml",
+      "content": "美联储会议纪要显示，美联储7月28‑29日会议上，大多数与会者支持维持利率不变，但有数位与会者倾向加息；许多与会者评估，若通胀未能回落，则可能需要进一步加息...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-08-19",
+      "time": "18:06",
       "keywords": []
     },
     {
@@ -95,62 +251,6 @@
       "period": "noon",
       "date": "2026-08-19",
       "time": "14:35",
-      "keywords": []
-    },
-    {
-      "title": "全球资本加码中国科技资产 超200家外资机构调研A股公司",
-      "source": "证券时报网",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-19/doc-ininwien2545769.shtml",
-      "content": "人民财讯8月19日电，国产存储龙头长鑫科技完成上市，折射出外资对我国半导体、AI基础设施等硬科技板块的高度关注。进入8月，相关行业升温的背后...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-19",
-      "time": "14:32",
-      "keywords": []
-    },
-    {
-      "title": "公积金制度大修落定，10万亿沉淀资金如何激活？",
-      "source": "《财经》杂志",
-      "url": "https://finance.sina.com.cn/wm/2026-08-19/doc-ininwpnk2421024.shtml",
-      "content": " 《住房公积金管理条例》进行近20年来最大幅度修订，9月20日起施行。提取情形从六类扩至九类，10万亿级公积金池有望被激活，惠及1.76亿缴存人",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-19",
-      "time": "14:29",
-      "keywords": []
-    },
-    {
-      "title": "688121，或触及重大违法强制退市",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/s/2026-08-19/doc-ininwiei7030939.shtml",
-      "content": "8月19日晚，*ST卓然（688121）公告称，公司于2025年12月因涉嫌信息披露违法违规等事项被中国证监会立案调查。根据监管调查进展，现已初步查明公司披露的部分年度财务信息涉...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-19",
-      "time": "14:29",
-      "keywords": []
-    },
-    {
-      "title": "钯金期货突破1300美元/盎司 日内涨0.42%",
-      "source": "观点地产网",
-      "url": "https://finance.sina.com.cn/stock/estate/integration/2026-08-19/doc-ininwiee8292676.shtml",
-      "content": "观点网讯：8月19日，钯金期货突破1300美元/盎司，日内涨0.42%。免责声明：本文内容与数据由观点根据公开信息整理，不构成投资建议，使用前请核实。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-19",
-      "time": "14:09",
       "keywords": []
     },
     {
@@ -378,6 +478,48 @@
       ]
     },
     {
+      "title": "花旗称贝森特出手令美元付出代价 建议客户采用这些策略加以应对",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzw8126936.shtml",
+      "content": "花旗集团认为，美国财政部长斯科特·贝森特为压低长期借贷成本而采取的最新举措可能会导致美元在短期内走弱。 财政部周三扩大10至30年期国债回购规模的公告导致长债收益率走...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-19",
+      "time": "20:49",
+      "keywords": []
+    },
+    {
+      "title": "8月20日美股收盘：三大股指普涨 美国财政部扩大国债回购",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzz6835597.shtml",
+      "content": "周三，在美国财政部宣布扩大国债回购操作之后，美债收益率回落，主要股指收盘普涨。 道指涨0.22%，标普500指数涨0.16%，纳指涨0.21%。",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-08-19",
+      "time": "20:14",
+      "keywords": []
+    },
+    {
+      "title": "Two Sigma曾因联合创始人之间纠纷失去一位“重要投资人”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyaf9041027.shtml",
+      "content": " 量化对冲基金Two Sigma Investments的亿万富豪联合创始人John Overdeck表示，他与另一位联合创始人David Siegel的长期争执曾导致公司失去一名“重要投资人”。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-19",
+      "time": "19:17",
+      "keywords": []
+    },
+    {
       "title": "资金流向显示亿万富豪Ken Fisher旗下机构以40亿美元逆势抄底长期美债",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-08-20/doc-ininwtuc6879937.shtml",
@@ -473,175 +615,6 @@
       "period": "noon",
       "date": "2026-08-19",
       "time": "14:42",
-      "keywords": []
-    },
-    {
-      "title": "光大证券连续3年年中分红,上市以来年中分红共4次",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-08-19/doc-ininwpnf6914631.shtml",
-      "content": "8月19日,光大证券(601788.SH)发布2026年半年度报告,并同步披露2026年中期利润分配方案。公司拟向全体股东每股派发现金红利0.17元(含税),合计拟派发现金红利约7.84亿元。",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-08-19",
-      "time": "14:33",
-      "keywords": []
-    },
-    {
-      "title": "港交所，业绩创新高！陈翊庭发声，信息量满满",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-19/doc-ininwiee8299486.shtml",
-      "content": "8月19日，香港交易所（简称“港交所”）交出了一份创历年半年度新高的业绩“成绩单”。 具体来看，2026年上半年收入及其他收益为167.02亿港元...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-19",
-      "time": "14:25",
-      "keywords": []
-    },
-    {
-      "title": "湖南裕能披露2026年半年报 归母净利润同比增长853.51%",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-19/doc-ininwiee8301471.shtml",
-      "content": "8月19日，湖南裕能（301358.SZ）发布2026年半年度报告，期内实现营业收入348.77亿元，同比增长142.92%；归属于上市公司股东的净利润29.1亿元，同比增长853.51%。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-19",
-      "time": "14:19",
-      "keywords": []
-    },
-    {
-      "title": "中微公司披露2026年半年报 归母净利润同比增长超300%",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-19/doc-ininwien2545343.shtml",
-      "content": "8月19日，中微公司（688012.SH）发布2026年半年度报告，期内实现营业收入66.91亿元，同比增长34.89%；归属于上市公司股东的净利润28.25亿元，同比增长300.22%。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-19",
-      "time": "14:19",
-      "keywords": []
-    },
-    {
-      "title": "上海机场披露2026年半年报 上半年净利润同比增16.46% 拟10派2.7元",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-19/doc-ininwien2544901.shtml",
-      "content": "8月19日，上海机场（600009.SH）发布2026年半年度报告，期内实现营业收入65.03亿元，同比增长2.35%；归属于上市公司股东的净利润达12.16亿元，同比增长16.46%。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-19",
-      "time": "14:19",
-      "keywords": []
-    },
-    {
-      "title": "2025年互联网车险保费收入531.6亿元,连续3年增速超30%",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-08-19/doc-ininwpna8186691.shtml",
-      "content": "《每日经济新闻》记者从业内获悉,近日,中国保险行业协会发布的《2025年财产险公司互联网保险业务发展分析报告》(以下简称《报告》)显示,2025年...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-19",
-      "time": "14:18",
-      "keywords": []
-    },
-    {
-      "title": "A股创新药龙头，已回购10亿元，拟再回购至少10亿元",
-      "source": "证券时报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-19/doc-ininwien2544976.shtml",
-      "content": "8月19日，A股创新药龙头恒瑞医药发布2026年半年度报告。 今年上半年，恒瑞医药实现营业收入154.56亿元，其中产品销售收入139.48亿元，同比增长1.87%；创新药销售收入88...",
-      "priority": "medium",
-      "sectors": [
-        "医药",
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-08-19",
-      "time": "14:15",
-      "keywords": []
-    },
-    {
-      "title": "对冲基金即将大举入局预测市场",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininwiee8285176.shtml",
-      "content": "核心要点康托・菲茨杰拉德将担任经纪商，为客户在 Kalshi 平台的事件合约上组织大宗交易。苏世基纳国际集团（SIG）将作为做市商，为康托的客户提供报价与流动性。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-19",
-      "time": "14:09",
-      "keywords": []
-    },
-    {
-      "title": "没中签宇树科技，机器人ETF可以入手吗？专家这样说……",
-      "source": "新京报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-19/doc-ininwiee8294894.shtml",
-      "content": "8月19日，A股人形机器人第一股宇树科技正式登陆科创板，开盘直接冲高 629.44%报1100元，虽然盘中涨幅快速回落，但按发行价测算，一签最高账面浮盈可达47.46万元...",
-      "priority": "medium",
-      "sectors": [
-        "机器人"
-      ],
-      "period": "noon",
-      "date": "2026-08-19",
-      "time": "14:09",
-      "keywords": []
-    },
-    {
-      "title": "美财政部扩大国债回购规模，贝森特出手稳定债市",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininwien2531966.shtml",
-      "content": "核心要点美国财政部周三表示，未来数月将把国债回购规模至少扩大一倍，重点瞄准市场脆弱的长久期国债板块。消息公布之后，美债收益率大幅回落，股指期货大幅走高。",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-08-19",
-      "time": "14:06",
-      "keywords": []
-    },
-    {
-      "title": "把染缸脾气翻译成代码!纺织业最稀缺的不是算力,而是行业Know-how",
-      "source": "第一纺织网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-19/doc-ininwiep9315356.shtml",
-      "content": "在纺织这个“老师傅经济”的行当里,最稀缺的不是算力,而是能把染缸脾气翻译成代码的人。一、一份公示,两个被忽略的细节 2026年8月5日...",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-08-19",
-      "time": "14:03",
-      "keywords": []
-    },
-    {
-      "title": "公积金新政引关注，多家上市公司回应",
-      "source": "中证网",
-      "url": "https://finance.sina.com.cn/roll/2026-08-19/doc-ininwiei7007611.shtml",
-      "content": "8月19日，房地产服务板块及物业管理板块上市公司股价出现异动，Wind房地产服务指数盘中涨幅一度接近4%，此后冲高回落，收盘涨幅达到0.34%。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-19",
-      "time": "14:03",
       "keywords": []
     },
     {
@@ -887,6 +860,132 @@
       ]
     },
     {
+      "title": "特朗普称可能将对加拿大的关税降至与其他国家相同的水平",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzz6855691.shtml",
+      "content": "美国总统特朗普在白宫的一次活动中表示，他可能会降低对加拿大征收的关税。 特朗普在回答有关钢铝关税的问题时说：“我们可能会将部分关税降低到与其他国家相同的水平”。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-19",
+      "time": "20:51",
+      "keywords": []
+    },
+    {
+      "title": "特朗普称美国人不必担心债券市场",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyaf9068507.shtml",
+      "content": "美国总统特朗普表示，美国人不必担心债券市场的波动。 “不，我认为不必，因为就像我说的，尽管有利率因素，但我们国家的状况仍然非常好...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-19",
+      "time": "20:49",
+      "keywords": []
+    },
+    {
+      "title": "美国债市：收益率曲线扭曲趋平 美财政部宣布扩大回购规模",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyae2285902.shtml",
+      "content": "美国国债收益率曲线周三大幅扭曲趋平，长债跑赢，此前美国财政部宣布将把10年至30年期国债的流动性支持回购操作规模至少提高一倍。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-08-19",
+      "time": "20:17",
+      "keywords": []
+    },
+    {
+      "title": "OpenAI首席财务官：公司或将在2027年上市，甚至更早",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-20/doc-ininwyae2277597.shtml",
+      "content": " 据两位知情人士透露，OpenAI首席财务官弗莱尔在周三的全员会议上向员工表示，公司将在 2027 年上市；倘若业务持续高速增长，也有可能更早登陆公开市场。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-19",
+      "time": "19:47",
+      "keywords": []
+    },
+    {
+      "title": "OpenAI首席财务官：公司“将在2027年上市”或更早",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwyaf9046051.shtml",
+      "content": " OpenAI首席财务官莎拉·弗莱尔周三在全体员工大会上告诉员工，这家人工智能实验室“将在2027年上市”，但“如果业务持续向好”，也可能更早公开发行。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-19",
+      "time": "19:36",
+      "keywords": []
+    },
+    {
+      "title": "皮尤调查：美国年轻人对AI态度日益敌视 担心技术进步导致大规模失业",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzz6816809.shtml",
+      "content": " 皮尤研究中心的一项调查显示，美国劳动力市场中最年轻的一批人对人工智能的疑虑日益增加，担心这项技术的进步会导致大规模失业。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-19",
+      "time": "19:35",
+      "keywords": []
+    },
+    {
+      "title": "报道：美国开展行动通过霍尔木兹海峡运输石油",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-20/doc-ininwyae2272456.shtml",
+      "content": " 两名美国官员向Axios透露，美军已在霍尔木兹海峡悄悄搭建起进出海峡的航运通道，每日可运输数百万桶石油。尽管大范围战事仍处于僵持状态，但该行动已取得显著成效。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-08-19",
+      "time": "19:33",
+      "keywords": []
+    },
+    {
+      "title": "美股司法部引用科米的小说，敦促法官勿撤销其对特朗普“86 47”贝壳威胁案",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-20/doc-ininwxzz6813050.shtml",
+      "content": "美国司法部引用詹姆斯·科米所写的小说，敦促联邦法官不要撤销针对这位前联邦调查局局长的刑事指控。科米被指控在北卡罗来纳州海滩上发布了一张贝壳排列成数字“86...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-19",
+      "time": "19:27",
+      "keywords": []
+    },
+    {
+      "title": "美国据悉拟在贸易协议中将加拿大钢和铝的关税减半",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-20/doc-ininwtuh2396875.shtml",
+      "content": "据知情人士透露，美国与加拿大的初步贸易协议将把部分加拿大钢和铝产品的关税降至25%。 知情人士表示，细节尚未最终敲定，预计不会适用于所有产品。",
+      "priority": "low",
+      "sectors": [
+        "有色"
+      ],
+      "period": "night",
+      "date": "2026-08-19",
+      "time": "19:08",
+      "keywords": []
+    },
+    {
       "title": "美国财政部回购长期国债可能上不封顶 国库券发行规模面临更多变数",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-08-20/doc-ininwtty8201535.shtml",
@@ -926,6 +1025,20 @@
       "period": "night",
       "date": "2026-08-19",
       "time": "18:53",
+      "keywords": []
+    },
+    {
+      "title": "芯片企业Fractile与Anthropic达成交易后寻求65亿美元估值",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-08-20/doc-ininwtuc6915440.shtml",
+      "content": "知情人士称，Fractile正就一轮融资进入深度谈判，投前估值65亿美元，本轮计划募资约6亿美元。三个月前该公司完成2.2亿美元融资，由Accel...",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-08-19",
+      "time": "18:33",
       "keywords": []
     },
     {
@@ -1066,118 +1179,6 @@
       "period": "noon",
       "date": "2026-08-19",
       "time": "14:35",
-      "keywords": []
-    },
-    {
-      "title": "Moderna股价飙升150%，与默沙东合作的黑色素瘤疫苗在大规模试验中取得成功",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininwien2544301.shtml",
-      "content": " Moderna公司与默沙东公司的免疫治疗药物Keytruda联合使用的mRNA疫苗，在针对皮肤癌的后期临床试验中取得成功，两家公司于周三宣布了这一消息。",
-      "priority": "low",
-      "sectors": [
-        "医药"
-      ],
-      "period": "noon",
-      "date": "2026-08-19",
-      "time": "14:29",
-      "keywords": []
-    },
-    {
-      "title": "美国财政部将债务回购规模提高一倍，贝森特着手稳定债券市场",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-19/doc-ininwiei7023457.shtml",
-      "content": "美国财政部周三表示，将把政府债务回购规模提高一倍以上，在市场面临巨大压力之际，此举推动收益率大幅走低。 随着固定收益市场承压，收益率飙升至近20年来未见的水平...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-08-19",
-      "time": "14:22",
-      "keywords": []
-    },
-    {
-      "title": "新和成2026年上半年归母净利润40.11亿元 同比增长11.31%",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-19/doc-ininwiee8302173.shtml",
-      "content": "8月19日，新和成（002001.SZ）发布公告披露2026年半年度报告，期内实现营业收入131.29亿元，同比增长18.28%；归属于上市公司股东的净利润40.11亿元，同比增长11.31%。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-19",
-      "time": "14:19",
-      "keywords": []
-    },
-    {
-      "title": "盐津铺子上半年净利4.25亿，经营现金流翻倍",
-      "source": "北京商报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-19/doc-ininwiep9312982.shtml",
-      "content": "8月19日晚间，盐津铺子（002847）披露2026年半年度报告。上半年公司实现营业收入30.7亿元，同比增长4.41%；归母净利润4.25亿元，同比增长14.10%；扣非净利润3.9亿元...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-19",
-      "time": "14:10",
-      "keywords": []
-    },
-    {
-      "title": "南京银行上半年净赚超136亿！利息净收入大增40%，国资大股东持续加仓，股价年内仅涨4.8%",
-      "source": "时代财经",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-19/doc-ininwiee8302871.shtml",
-      "content": "A股首家上市城商行交出2026年年中成绩单。8月19日晚间，南京银行（601009.SH）发布2026年半年度报告，2026年上半年，南京银行实现营业收入315.96亿元，同比增长10...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-08-19",
-      "time": "14:09",
-      "keywords": []
-    },
-    {
-      "title": "敷尔佳上半年营收增33.95%至11.56亿元，扣非净利润微增0.38%",
-      "source": "北京商报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-19/doc-ininwiep9307707.shtml",
-      "content": "8月19日晚间，敷尔佳（301371）发布2026年半年度报告。上半年公司实现营业收入11.56亿元，同比增长33.95%；归母净利润2.56亿元，同比增长11.46%；扣非净利润1.67亿元...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-19",
-      "time": "14:09",
-      "keywords": []
-    },
-    {
-      "title": "恒顺醋业上半年营收12.24亿元，同比增长8.79%",
-      "source": "北京商报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-19/doc-ininwiei7019226.shtml",
-      "content": "8月19日晚间，恒顺醋业（600305）披露2026年半年度报告。上半年公司实现营业收入12.24亿元，同比增长8.79%；归母净利润1.21亿元，同比增长9.21%；扣非净利润1.18亿元...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-19",
-      "time": "14:09",
-      "keywords": []
-    },
-    {
-      "title": "金山办公上半年净利增长237%:投资收益贡献显著,AI商业化仍在探路",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-19/doc-ininwien2544056.shtml",
-      "content": "8月19日晚间,金山办公(SH688111,股价247.13元,市值1147亿元)披露2026年半年度报告。上半年,金山办公实现营业收入33.13亿元,同比增长24.69%;归属于上市公司股东的净利润25...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-08-19",
-      "time": "14:06",
       "keywords": []
     },
     {
