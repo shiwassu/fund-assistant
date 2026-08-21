@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T19:08:32.961018",
+  "updated": "2026-08-21T20:55:16.768583",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -8,10 +8,25 @@
   ],
   "priority_dist": {
     "high": 21,
-    "medium": 33,
-    "low": 96
+    "medium": 28,
+    "low": 101
   },
   "items": [
+    {
+      "title": "大宗商品综述：油价录得周涨幅 锌价走高 金价大涨",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-22/doc-inipcnhf1485530.shtml",
+      "content": "中东局势以及亚洲需求推动油价录得周涨幅。锌价升至逾四年来最高水平，因为市场出现供应趋紧迹象。黄金升至三个月高位，美国财政部为遏制借贷成本大幅上升而采取的大胆干预...",
+      "priority": "high",
+      "sectors": [
+        "黄金",
+        "有色"
+      ],
+      "period": "night",
+      "date": "2026-08-21",
+      "time": "20:51",
+      "keywords": []
+    },
     {
       "title": "比特币单周飙升逾22%创三年最大涨幅，政策利好与逼空行情共振",
       "source": "环球市场播报",
@@ -111,20 +126,6 @@
       "period": "noon",
       "date": "2026-08-21",
       "time": "14:49",
-      "keywords": []
-    },
-    {
-      "title": "WPS Comate百城AI智能体赋能计划启动",
-      "source": "扬眼",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-21/doc-inipazsm1522319.shtml",
-      "content": "转自：扬子晚报8月21日，“WPS Comate百城AI智能体赋能计划”正式启动。该计划由金山办公联合各地国资委、大数据局、经信局、金融监管机构及其下辖的数字科技公司...",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "14:28",
       "keywords": []
     },
     {
@@ -336,6 +337,20 @@
       ]
     },
     {
+      "title": "8月22日收盘：道指飙升500点 长端美债收益率持续走高 三大指数周线均录得下跌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-22/doc-inipcnfx6326280.shtml",
+      "content": "周五美股三大指数集体收涨，投资者在由国债收益率上升引发的剧烈抛售后试图寻找支撑。 道指涨517.80点，涨幅为0.98%，报53277.01点；标普500指数涨33.21点，涨幅为0.43%...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-21",
+      "time": "20:29",
+      "keywords": []
+    },
+    {
       "title": "纽约汇市：美元跌至三个月低点，美债回购计划引发结构性看空情绪",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcnhc7821218.shtml",
@@ -538,90 +553,6 @@
       "period": "noon",
       "date": "2026-08-21",
       "time": "14:46",
-      "keywords": []
-    },
-    {
-      "title": "美国8月私营部门活动加速，服务业带动综合产出指数升至52个月高点",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipazsc6366724.shtml",
-      "content": "标普全球（S&amp;P Global）21日公布的8月闪现采购经理人指数（PMI）显示，美国私营部门商业活动在8月进一步加快。综合产出指数从7月的54.5升至56.0...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "14:42",
-      "keywords": []
-    },
-    {
-      "title": "羲禾科技IPO：中科院研究员在职创办企业，IPO前36家机构突击入股",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/newstock/2026-08-21/doc-inipazsi7985659.shtml",
-      "content": "来源：新财渤社 文\\明烁 上海羲禾科技股份有限公司（以下简称“羲禾科技”）于8月21日回复上交所首轮问询。 五年时间，注册资本从200万元膨胀至近亿元，估值逼近百亿...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "14:36",
-      "keywords": []
-    },
-    {
-      "title": "机器人行业新一轮“军备竞赛”：谁能拍出最吸睛的造势宣传片？",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipavkf6483426.shtml",
-      "content": "由于多数机器人初创企业距离实现实际产品销售还有数年时间，它们急需抓人眼球的宣传素材，维持市场关注度。 数月前，一台人形机器人被送往厄瓜多尔钦博拉索山山顶 ——...",
-      "priority": "medium",
-      "sectors": [
-        "机器人"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "14:25",
-      "keywords": []
-    },
-    {
-      "title": "汤姆李：标普 500 指数有望在本月底重返历史高位",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipavkm8101101.shtml",
-      "content": " 标普 500 指数距离 8 月 13 日创下的收盘历史高位仅下跌近 2%。但 Fundstrat 全球顾问公司创始人汤姆・李表示，他预计这一宽基指数仍将在本月底创出新高。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "14:19",
-      "keywords": []
-    },
-    {
-      "title": "美国企业活动扩张步伐创2022年以来最快",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipavkk1328436.shtml",
-      "content": "美国企业活动扩张步伐创逾四年来最快，因需求增强、企业对前景更加乐观，推动招聘加速。 周五公布的数据显示，标普全球美国综合采购经理指数8月初值升至56...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "14:19",
-      "keywords": []
-    },
-    {
-      "title": "重要指数调整！华虹宏力、潍柴动力被纳入",
-      "source": "上海证券报·中国证券网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-21/doc-inipazsi7976822.shtml",
-      "content": "8月21日，恒生指数公司公布第二季度评估结果。恒生指数成分股数目将由93只增加至95只，加入华虹宏力、潍柴动力。恒生科技指数成分股数目维持30只，加入天数智芯...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "14:17",
       "keywords": []
     },
     {
@@ -833,6 +764,91 @@
       "keywords": [
         "家庭财富"
       ]
+    },
+    {
+      "title": "Anthropic聘请谷歌芯片定制芯片项目创始人 为进军自研半导体做准备",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-22/doc-inipcnhf1486624.shtml",
+      "content": "Anthropic PBC已聘请谷歌定制芯片项目创始人Amir Salek，为这家AI实验室进军自研半导体领域做准备。 这家Claude平台开发商周五表示，Salek将加入Anthropic的算力团队...",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-08-21",
+      "time": "20:53",
+      "keywords": []
+    },
+    {
+      "title": "苹果裁减Siri和Vision Pro团队岗位 资源重心转向AI与新设备",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-22/doc-inipcnhf1472032.shtml",
+      "content": "苹果公司将裁减负责Siri数字助理和Vision Pro头显团队的员工，此举旨在聚焦新设备和人工智能。 据知情人士透露，苹果还在裁减智能系统体验团队员工。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-21",
+      "time": "20:21",
+      "keywords": []
+    },
+    {
+      "title": "英伟达将支付60亿美元以获得Poolside AI模型授权 并拟吸纳其员工",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-22/doc-inipcnhc7844714.shtml",
+      "content": " 知情人士称，英伟达已同意支付60亿美元，以获得Poolside人工智能（AI）模型的使用许可，并将向100多名员工发出聘用邀请。",
+      "priority": "low",
+      "sectors": [
+        "半导体",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-21",
+      "time": "20:19",
+      "keywords": []
+    },
+    {
+      "title": "原油：中东局势以及亚洲需求推动油价录得周涨幅",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-22/doc-inipcnha1071956.shtml",
+      "content": " 原油价格录得周涨幅，交易员正在等待美国公布旨在孤立伊朗经济的相关行动的细节。到目前为止，这场导致中东石油出口大幅下降的冲突仍看不到结束的迹象。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-08-21",
+      "time": "20:19",
+      "keywords": []
+    },
+    {
+      "title": "美国债市：美债全线下跌 短债收益率升幅领先",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-22/doc-inipcnha1066361.shtml",
+      "content": "美国国债周五下跌，短债收益率领涨。此前公布的数据显示，美国企业活动扩张步伐创2022年以来最快。 纽约时间下午3点刚过，短债收益率上涨约4个基点...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-21",
+      "time": "20:01",
+      "keywords": []
+    },
+    {
+      "title": "特朗普推出新关税宽减措施 旨在压低牛绞肉价格",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-22/doc-inipcnfx6301186.shtml",
+      "content": " 美国总统唐纳德·特朗普表示，他将对部分牛绞肉进口给予关税宽减，以降低美国消费者的购买价，而物价问题正是11月中期选举前的一大关切。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-21",
+      "time": "19:59",
+      "keywords": []
     },
     {
       "title": "Allspring投资主管：杰克逊霍尔会议比英伟达财报蕴含更大市场风险",
@@ -1142,20 +1158,6 @@
       "period": "noon",
       "date": "2026-08-21",
       "time": "14:52",
-      "keywords": []
-    },
-    {
-      "title": "特斯拉、优步、Waymo获准在拉斯维加斯最多投放8000台无人出租车",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipavkm8099533.shtml",
-      "content": "美国内华达州交通管理局于当地时间周四全票通过三项许可，允许特斯拉、优步以及Waymo在拉斯维加斯所在的克拉克县开展商业化机器人出租车服务。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "14:16",
       "keywords": []
     },
     {
