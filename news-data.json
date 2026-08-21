@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-21T15:06:20.243448",
+  "updated": "2026-08-21T17:03:45.176072",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -8,10 +8,55 @@
   ],
   "priority_dist": {
     "high": 22,
-    "medium": 32,
-    "low": 96
+    "medium": 31,
+    "low": 97
   },
   "items": [
+    {
+      "title": "欧洲股市创月初以来最大涨幅，市场稍作休整等待新催化剂",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipazsm1593207.shtml",
+      "content": "受商业活动数据强于预期利好，欧洲股市周五上涨。斯托克欧洲600指数收盘上涨0.6%，创下8月4日以来的最大单日涨幅。数据显示，欧元区8月私营部门活动意外改善...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-21",
+      "time": "16:23",
+      "keywords": []
+    },
+    {
+      "title": "摩根大通：建议买入沃尔玛",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipazsc6406689.shtml",
+      "content": "摩根大通表示，沃尔玛（WMT）刚刚经历四年以来表现最差的一个交易日，这创造了逢低吸纳该股的机会。 该投行给予这家零售企业增持（Overweight）评级；不过将目标价从 137...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-21",
+      "time": "15:39",
+      "keywords": []
+    },
+    {
+      "title": "EasyMarkets易信:金价回踩检验突破质量",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/roll/2026-08-21/doc-inipazsh1233538.shtml",
+      "content": "8月21日，最新进展提供了一个业务样本。黄金在突破后回测每盎司四千四百五十美元附近，劳动力数据让利率预期保持弹性。消息进入市场后，EasyMarkets易信表示...",
+      "priority": "high",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "noon",
+      "date": "2026-08-21",
+      "time": "15:29",
+      "keywords": [
+        "易信",
+        "金价"
+      ]
+    },
     {
       "title": "三星电子公布2026年股东回报计划，规模预计达90万亿至110万亿韩元",
       "source": "环球市场播报",
@@ -94,48 +139,6 @@
       "period": "noon",
       "date": "2026-08-21",
       "time": "13:56",
-      "keywords": []
-    },
-    {
-      "title": "宇树科技股价波动：资本热度易得，商业化大考难越",
-      "source": "新京报",
-      "url": "https://finance.sina.com.cn/wm/2026-08-21/doc-inipavkf6459577.shtml",
-      "content": "浪花资本评论员 徐雨婷 编辑 陈莉 校对 穆祥桐 刚刚拿到资本市场的入场券，宇树科技今天在考场上就被浇了一盆冷水。 8月19日，A股人形机器人第一股宇树科技正式登陆科创板...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "13:52",
-      "keywords": []
-    },
-    {
-      "title": "中银消金：利润暴涨的逻辑",
-      "source": "节点财经",
-      "url": "https://finance.sina.com.cn/stock/stockzmt/2026-08-21/doc-inipavkk1316199.shtml",
-      "content": "文 / 董轩2026年8月17日，国家金融监督管理总局上海监管局公示，核准闫大伟出任中银消费金融有限公司（以下简称“中银消金”）董事。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "13:46",
-      "keywords": []
-    },
-    {
-      "title": "贝森特的国债市场干预迄今未见成效，他还能尝试哪些手段",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipavkk1308782.shtml",
-      "content": "核心要点美国财政部长斯科特・贝森特周四表示，自己手握 “庞大政策工具箱”，可以缓解国债市场面临的压力。尽管并未点名具体工具，但贝森特拥有多项可选方案：降低政府持有...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "13:41",
       "keywords": []
     },
     {
@@ -347,6 +350,112 @@
       ]
     },
     {
+      "title": "财报密集周，零售股整体收跌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcfye1137184.shtml",
+      "content": "零售股在这场备受关注的财报周即将收官，整体录得下跌。 标普零售 ETF（XRT）周五跟随大盘展开反弹，午盘时段涨幅接近 1%。但该 ETF 全周跌幅依旧超过 1%。",
+      "priority": "medium",
+      "sectors": [
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-08-21",
+      "time": "16:55",
+      "keywords": []
+    },
+    {
+      "title": "零售股财报周收官在即，整体表现仍录得跌幅",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipazsm1595082.shtml",
+      "content": "零售股即将结束其标志性的财报周，但整体表现仍录得跌幅。尽管State Street SPDR S&amp;P Retail ETF（XRT）在周五午盘交易中跟随大盘反弹，上涨近1%...",
+      "priority": "medium",
+      "sectors": [
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-08-21",
+      "time": "16:27",
+      "keywords": []
+    },
+    {
+      "title": "城堡投资：已出售逾40亿美元购自Situational Awareness的持仓，化解80%以上风险",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipazsi8027126.shtml",
+      "content": " 肯·格里芬旗下城堡投资（Citadel）已出售逾40亿美元的持仓，这些持仓来自该公司此前从陷入困境的AI对冲基金Situational Awareness收购的股票投资组合。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-21",
+      "time": "16:20",
+      "keywords": []
+    },
+    {
+      "title": "GO Markets:实际利率趋稳改善金市",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/roll/2026-08-21/doc-inipazsh1232771.shtml",
+      "content": "8月21日，最新进展提供了一个业务样本。一家研究机构上调黄金评价，理由包括实际利率趋稳、美元走弱和持续配置需求。消息进入市场后，GO Markets表示...",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-08-21",
+      "time": "15:27",
+      "keywords": [
+        "利率",
+        "金市"
+      ]
+    },
+    {
+      "title": "Mega安汇:生态基金调整代币用途",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/roll/2026-08-21/doc-inipazsi8003009.shtml",
+      "content": "8月21日，结构变化先于方向结论。一个扩容网络把约五点四六九亿枚代币从未来空投安排转入生态增长基金。Mega安汇认为，这项线索改善了部分定价条件...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-21",
+      "time": "15:23",
+      "keywords": [
+        "基金"
+      ]
+    },
+    {
+      "title": "ATFX:日本7月全国CPI年率升高0.3个百分点至1.9%",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/forex/forexroll/videoroll/2026-08-21/doc-inipazsh1222563.shtml",
+      "content": "8月21日，ATFX汇评：日本统计局今日发布七月份消费者物价指数报告，其中七月全国CPI年率升高0.3个百分点至1.9%，七月核心CPI年率升高0.2个百分点至1.8%。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-21",
+      "time": "15:07",
+      "keywords": [
+        "日本",
+        "日本央行"
+      ]
+    },
+    {
+      "title": "城堡集团已解除超80%来自Situational Awareness投资组合的相关风险",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipazsi7995006.shtml",
+      "content": " 城堡集团的肯・格里芬于周五致信客户，谈及公司收购利奥波德・阿申布伦纳旗下对冲基金 Situational Awareness 资产一事。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-21",
+      "time": "15:07",
+      "keywords": []
+    },
+    {
       "title": "城堡投资：7月买入Situational Awareness部分头寸，多策略基金月涨5.94%",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipazsi7994299.shtml",
@@ -499,118 +608,6 @@
       "period": "noon",
       "date": "2026-08-21",
       "time": "14:03",
-      "keywords": []
-    },
-    {
-      "title": "中期业绩表现、下半年投资策略、股价、AI投入的价值回报⋯⋯中国平安管理层回应热点问题",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/money/insurance/bxyx/2026-08-21/doc-inipavkm8088897.shtml",
-      "content": "每经记者|潘婷每经编辑|陈旭 8月21日，中国平安（SH601318，股价53.35元，总市值9660亿元）召开2026中期业绩发布会，平安集团管理层就市场关注的热点问题进行回应。",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "13:55",
-      "keywords": []
-    },
-    {
-      "title": "看好科技、均衡策略：中国平安详解低利率下的投资与增长“双引擎”",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/roll/2026-08-21/doc-inipavkf6454443.shtml",
-      "content": " “整体业绩稳健、增长向高值、服务创造价值。”8月21日，在中国平安2026年中期业绩发布会上，中国平安总经理、联席首席执行官谢永林用三句话对上半年的业绩做出评价。",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "13:45",
-      "keywords": []
-    },
-    {
-      "title": "中国石油：公司将于8月31日召开2026年半年度业绩说明会",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-21/doc-inipavkp1619179.shtml",
-      "content": "证券日报网讯8月21日，中国石油发布公告称，公司2026年半年度业绩说明会定于2026年8月31日17：30-18：30召开。",
-      "priority": "medium",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "13:44",
-      "keywords": []
-    },
-    {
-      "title": "三维通信：公司将于8月28日召开2026年半年度业绩说明会",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-21/doc-inipavkp1634530.shtml",
-      "content": "证券日报网讯8月21日，三维通信发布公告称，公司2026年半年度业绩说明会定于2026年8月28日15：30-16：30在全景网召开。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "13:39",
-      "keywords": []
-    },
-    {
-      "title": "骆驼股份：公司将于8月28日召开2026年半年度业绩说明会",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-21/doc-inipavkp1613458.shtml",
-      "content": "证券日报网讯8月21日，骆驼股份发布公告称，公司2026年半年度业绩说明会定于2026年8月28日15：00-16：00在上证路演中心召开。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "13:32",
-      "keywords": []
-    },
-    {
-      "title": "远东股份：公司将于9月8日召开2026年半年度业绩说明会",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-21/doc-inipavkm8089170.shtml",
-      "content": "证券日报网讯8月21日，远东股份发布公告称，公司2026年半年度业绩说明会定于2026年9月8日15：00-17：00在上海证券交易所上证路演中心召开。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "13:32",
-      "keywords": []
-    },
-    {
-      "title": "民生银行：公司将于8月31日召开2026年半年度业绩说明会",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-08-21/doc-inipavkk1314433.shtml",
-      "content": "证券日报网讯8月21日，民生银行发布公告称，公司2026年半年度业绩说明会定于2026年8月31日16：00-17：00召开。",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "13:32",
-      "keywords": []
-    },
-    {
-      "title": "开盘：主要股指高开 黄金创3个月新高",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipavkm8075628.shtml",
-      "content": "受美债收益率飙升引发大幅抛售后，投资者试图稳住市场情绪，周五美股主要股指开盘走高。 道指涨0.51%，标普500指数涨0.48%，纳指涨0.46%。",
-      "priority": "medium",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "13:30",
       "keywords": []
     },
     {
@@ -824,6 +821,218 @@
       ]
     },
     {
+      "title": "消息人士：博通债务交易规模预计最高可达700亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcfyf7910964.shtml",
+      "content": "核心要点博通正在谈判，计划为一项芯片融资交易筹集 700‑800 亿美元债务资金。这笔资金将为包括 Anthropic 在内的多家人工智能企业提供支持。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-21",
+      "time": "16:59",
+      "keywords": []
+    },
+    {
+      "title": "英国7月公共部门借款18亿英镑，高于预算责任办公室预期",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcfxz6322253.shtml",
+      "content": "英国国家统计局21日公布，2026年7月公共部门净借款为18亿英镑，较上年同期增加7亿英镑，并高出预算责任办公室（OBR）预测约23亿英镑。OBR原先预计当月出现5亿英镑盈余。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-21",
+      "time": "16:52",
+      "keywords": []
+    },
+    {
+      "title": "欧洲债市企稳跑赢美债，收益率曲线小幅“牛陡”显现",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipcfyf7905437.shtml",
+      "content": "在经历了一周的剧烈动荡后，欧洲政府债券于本周末企稳，并在表现上跑赢美国国债。本周市场情绪主要受美国政府计划扩大国债回购规模消息的影响...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-21",
+      "time": "16:46",
+      "keywords": []
+    },
+    {
+      "title": "特朗普提议尽快与巴西重启贸易谈判",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipazsc6445472.shtml",
+      "content": " 巴西政府今日发布官方声明证实，美国总统特朗普与巴西总统卢拉于当日进行了电话会谈。双方在通话中一致同意，将继续保持两国之间稳固的经贸联系。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-21",
+      "time": "16:42",
+      "keywords": []
+    },
+    {
+      "title": "高盛：黄金看涨期权需求激增，或放大金价双向波动",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipazsc6436832.shtml",
+      "content": "高盛分析师在最新报告中指出，黄金看涨期权需求的激增，正在加大金价出现剧烈波动的风险。 高盛分析师Lina Thomas等人在报告中写道，黄金看涨期权交易量的增加...",
+      "priority": "low",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "noon",
+      "date": "2026-08-21",
+      "time": "16:26",
+      "keywords": []
+    },
+    {
+      "title": "黄金升至三个月高位，去年令金价飙升的“贬值交易”全面回潮",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipazsc6414567.shtml",
+      "content": "受美国财政部为遏制借贷成本大幅上升而采取大胆干预行动的影响，市场对美国财政负担的担忧再度升温，推动黄金价格升至三个月高位。",
+      "priority": "low",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "noon",
+      "date": "2026-08-21",
+      "time": "15:53",
+      "keywords": []
+    },
+    {
+      "title": "巴拿马运河因厄尔尼诺干旱下调通航配额，9月起日均由约36艘降至34艘再至32艘",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipazsm1570022.shtml",
+      "content": "巴拿马运河管理局20日宣布，因流域降雨与入库水量明显低于常年，将自9月起分两阶段压缩每日通航配额。针对9月4日起的预约，新巴拿马型船闸每日9个泊位、巴拿马型船闸25个...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-21",
+      "time": "15:48",
+      "keywords": []
+    },
+    {
+      "title": "CBCX:金银分化观察资金轮动",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/roll/2026-08-21/doc-inipazsi8007269.shtml",
+      "content": "8月21日，先从相对表现切入。黄金在高位附近整理，白银涨幅更明显，债券市场压力同时影响股票表现。行情完成第一轮调整后，CBCX表示...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-21",
+      "time": "15:32",
+      "keywords": [
+        "贵金属"
+      ]
+    },
+    {
+      "title": "CPT Markets:链上经济区聚合流动性",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/roll/2026-08-21/doc-inipazsh1234151.shtml",
+      "content": "8月21日，市场出现一项新的长期判断：一个链上社区通过经济区方案，希望加强与以太坊生态之间的资本和应用联系。面对跨度较大的预测，CPT Markets提到...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-21",
+      "time": "15:30",
+      "keywords": [
+        "流动性"
+      ]
+    },
+    {
+      "title": "M4Markets:流动宽松重塑黄金角色",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/roll/2026-08-21/doc-inipazsi8004222.shtml",
+      "content": "8月21日，结构变化先于方向结论。长久期债券回购扩张被市场解读为流动性环境转松，黄金的资产配置作用再受讨论。平台认为，这项线索改善了部分定价条件...",
+      "priority": "low",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "noon",
+      "date": "2026-08-21",
+      "time": "15:25",
+      "keywords": [
+        "黄金",
+        "流动性"
+      ]
+    },
+    {
+      "title": "NCE平台:现货牌照完善服务边界",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/roll/2026-08-21/doc-inipazsc6394682.shtml",
+      "content": "8月21日，先从相对表现切入。一家交易服务商获得现货数字资产相关许可，产品范围和客户服务边界随之扩展。行情完成第一轮调整后，NCE平台表示...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-21",
+      "time": "15:21",
+      "keywords": [
+        "现货",
+        "资产"
+      ]
+    },
+    {
+      "title": "RadexMarkets瑞德克斯:杠杆泡沫出清改善结构",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/roll/2026-08-21/doc-inipazsi8001039.shtml",
+      "content": "8月21日，结构变化先于方向结论。一项市场分析认为，先前大幅回撤前积累的过热杠杆已经得到较充分清理。RadexMarkets瑞德克斯认为，这项线索改善了部分定价条件...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-21",
+      "time": "15:20",
+      "keywords": [
+        "瑞德克"
+      ]
+    },
+    {
+      "title": "Vatee万腾:智能代理拓宽交易接口",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/roll/2026-08-21/doc-inipazsi8000035.shtml",
+      "content": "8月21日，最新进展提供了一个业务样本。一家数字资产平台开放智能代理交易接口，并允许用户预设权限和风险边界。消息进入市场后，Vatee万腾表示...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-21",
+      "time": "15:18",
+      "keywords": [
+        "外汇"
+      ]
+    },
+    {
+      "title": "科普:长周期的底部和短周期的底部 有什么不同",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/forex/forexroll/videoroll/2026-08-21/doc-inipazsh1225359.shtml",
+      "content": "8月21日，很多时候，交易像是研究顶部和底部的“游戏”，在确定性比较高的底部买入，在确定性比较高的顶部卖出，如此反复循环就可以实现财富目标。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-21",
+      "time": "15:13",
+      "keywords": [
+        "外汇"
+      ]
+    },
+    {
       "title": "硅谷企业如何抓住英超博彩广告管控带来的机遇",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipazsc6381434.shtml",
@@ -947,188 +1156,6 @@
       "period": "noon",
       "date": "2026-08-21",
       "time": "14:04",
-      "keywords": []
-    },
-    {
-      "title": "海顺新材：实控人离婚纠纷案获法院立案，林武辉请求判令离婚并进行财产分割",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-21/doc-inipavkk1315635.shtml",
-      "content": "8月21日晚间，海顺新材(300501.SZ)发布公告称，公司控股股东、实际控制人林武辉与朱秀梅的离婚纠纷案已获法院立案。澎湃新闻记者 李晓青",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "13:54",
-      "keywords": []
-    },
-    {
-      "title": "贝森特出手难平市场担忧 交易员紧盯美国财政部的下一步行动",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-21/doc-inipavkm8086401.shtml",
-      "content": " 经历了美国债券市场本周的动荡之后，交易员带着一个疑问迎来周五的交易，他们都在猜测美国财长斯科特·贝森特下一步的行动将会是什么。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "13:51",
-      "keywords": []
-    },
-    {
-      "title": "地纬智能上半年营收1.3亿元 归母净亏损2744万元",
-      "source": "观点地产网",
-      "url": "https://finance.sina.com.cn/stock/estate/integration/2026-08-21/doc-inipavkk1312446.shtml",
-      "content": "观点网讯：8月21日，地纬智能（688579.SH）披露2026年半年度报告。报告期内，公司实现营业收入1.3亿元，同比下降38.04%；归母净利润亏损2744万元...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "13:46",
-      "keywords": []
-    },
-    {
-      "title": "比亚迪放权、吉利收权：都在为多品牌内耗买单？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-08-21/doc-inipavkm8088164.shtml",
-      "content": "来源：虎嗅APP 车企越大越低效，怎么治 出品 | 虎嗅汽车组 作者 | 邢书博 头图 | 作者拍摄 “话说天下大势，分久必合，合久必分。",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "13:43",
-      "keywords": []
-    },
-    {
-      "title": "【现货异动】硅橡胶单日暴涨3.7%！原料挺价+装置检修引爆供应紧张，价格创阶段新高",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-21/doc-inipavkp1622094.shtml",
-      "content": "据同花顺iFinD数据显示，现货商品硅橡胶8月21日最新价格14000.00元/吨，单日上涨3.7%，最近一周上涨3.7%，一个月累计上涨3.7%。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "13:42",
-      "keywords": []
-    },
-    {
-      "title": "王兴兴、王鹤、赵同阳等业内“顶流”齐聚，具身智能下半场看什么？",
-      "source": "大河财立方",
-      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-08-21/doc-inipavkk1316798.shtml",
-      "content": " 【大河财立方记者王宁宁王宇吴彤彤北京报道】具身智能ChatGPT时刻何时到来？下半场看什么？数据瓶颈如何破解？商业化又将从何处破局？",
-      "priority": "low",
-      "sectors": [
-        "机器人"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "13:42",
-      "keywords": []
-    },
-    {
-      "title": "獐子岛：公司将于2026年9月7日召开2026年第三次临时股东会",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-21/doc-inipavkf6475102.shtml",
-      "content": "证券日报网讯8月21日，獐子岛发布公告称，公司将于2026年9月7日召开2026年第三次临时股东会。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "13:39",
-      "keywords": []
-    },
-    {
-      "title": "中国中铁：公司无逾期对外担保",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-21/doc-inipavkk1312244.shtml",
-      "content": "证券日报网讯8月21日，中国中铁发布公告称，截至2026年6月30日，公司及其全资和控股子公司对外担保总额累计661.72亿元(其中差额补足承诺137.35亿元)...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "13:39",
-      "keywords": []
-    },
-    {
-      "title": "天创时尚：公司将于2026年9月7日召开2026年第四次临时股东会",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-21/doc-inipavkm8094811.shtml",
-      "content": "证券日报网讯8月21日，天创时尚发布公告称，公司将于2026年9月7日召开2026年第四次临时股东会。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "13:39",
-      "keywords": []
-    },
-    {
-      "title": "新华百货上半年实现营收32.6亿元同比增长0.29% 拟斥资2亿元至4亿元回购股份彰显信心",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-21/doc-inipavkp1617640.shtml",
-      "content": "8月21日，银川新华百货商业集团股份有限公司(600785.SH，以下简称“新华百货”)披露2026年半年度报告。报告期内，该公司实现营业收入32.6亿元，同比增长0.29%...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "13:39",
-      "keywords": []
-    },
-    {
-      "title": "国联民生总裁葛小波离职，业内：大概率赴香港市场发展",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/roll/2026-08-21/doc-inipavkf6447175.shtml",
-      "content": "国联民生日前公告称，执行董事、总裁葛小波因个人原因，辞去公司执行董事、总裁、董事会风险控制委员会委员、董事会战略与ESG委员会委员等职务...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "13:33",
-      "keywords": []
-    },
-    {
-      "title": "拓斯达：上半年净利润同比增长262.99% 收入结构优化与海外业务高增双轮驱动",
-      "source": "中证网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-21/doc-inipavkf6452696.shtml",
-      "content": "8月21日，拓斯达披露2026年半年度报告。上半年，公司实现营业收入12.88亿元，同比增长18.61%；实现归母净利润1.04亿元，同比增长262.99%；扣非归母净利润8669.12万元...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "13:32",
-      "keywords": []
-    },
-    {
-      "title": "从扩产到关停，三棵树十年产能变局",
-      "source": "经济观察报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-21/doc-inipavkp1631186.shtml",
-      "content": "记者 田国宝经济观察报 记者 田国宝8月18日，廊坊富达新型建材有限公司（下称“廊坊富达”）厂区内堆满建筑垃圾和拆卸下来的废铁。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-21",
-      "time": "13:32",
       "keywords": []
     },
     {
