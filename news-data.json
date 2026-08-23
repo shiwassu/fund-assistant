@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-22T22:54:10.989693",
+  "updated": "2026-08-23T02:11:45.379845",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,123 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 16,
-    "medium": 18,
-    "low": 116
+    "high": 22,
+    "medium": 29,
+    "low": 99
   },
   "items": [
+    {
+      "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/world/2026-08-23/doc-iniphhax0698983.shtml",
+      "content": "来源 华尔街见闻 距离特朗普以“压低物价、整顿财政”为核心竞选承诺赢得大选，尚不足两年，伊朗战争与减税政策已将美国经济推向另一个方向：国债创历史新高，能源成本飙升...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "01:44",
+      "keywords": []
+    },
+    {
+      "title": "视频|暴跌51%！招商军工基金单月崩盘，收益一夜归零",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/fund/2026-08-23/doc-iniphhca7084481.shtml",
+      "content": "",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "01:26",
+      "keywords": []
+    },
+    {
+      "title": "下周关注丨英伟达等将披露财报，这些投资机会最靠谱",
+      "source": "一财网",
+      "url": "https://finance.sina.com.cn/roll/2026-08-23/doc-iniphhax0679640.shtml",
+      "content": "英伟达、拼多多、美团等将披露财报；多个产业会议将召开；国内成品油将迎来调价窗口．．．．．． 【重磅新闻】 英伟达、拼多多、美团等将披露财报...",
+      "priority": "high",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "01:11",
+      "keywords": []
+    },
+    {
+      "title": "周末大利好！1361亿项目，集中签约！万亿算力赛道，迎来重磅驱动",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/roll/2026-08-23/doc-iniphhax0663220.shtml",
+      "content": "来源：券商中国 周末，万亿级规模的算力产业链迎来利好消息！ 8月22日，2026绿色算力（人工智能）大会在内蒙古自治区呼和浩特市举行。",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "00:30",
+      "keywords": []
+    },
+    {
+      "title": "韩国交易商追逐40%息票产品，市场暴跌之下风险偏好依旧尚存",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-23/doc-inipfzve7193588.shtml",
+      "content": "一场历史性的股市抛售，促使韩国散户投资者转向复杂的结构性产品，这群偏好风险的投资者仍在想方设法提高收益。 年化票息可达40%‑50%的股票挂钩证券再度受到普通散户的追捧...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "00:27",
+      "keywords": []
+    },
+    {
+      "title": "资管业监管变革图谱：信披新规统一百万亿赛道，适当性管理全覆盖",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/roll/2026-08-23/doc-inipfzva2731179.shtml",
+      "content": "2026年是中国资管行业制度变革的“大年”。 若以2004年银行理财“横空出世”为起点，中国大资管行业已走过二十余年。从野蛮生长到资管新规落地，从净值化转型到功能监管深化...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-22",
+      "time": "23:43",
+      "keywords": []
+    },
+    {
+      "title": "40万亿债务压顶！美债风暴席卷全球，人民币资产能否成为避风港？读懂这背后三大逻辑！",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-08-23/doc-inipfzva2719418.shtml",
+      "content": "尽管美国财政部本周三突然宣布加大长期国债的回购规模，试图以“借短还长”的方式压低长期国债收益率，但效果仅持续了一天，美国30年期国债收益率再度上行至5.249%...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-22",
+      "time": "23:35",
+      "keywords": []
+    },
+    {
+      "title": "美联储，加息大消息！高盛，最新警告",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-08-23/doc-inipfzva2711123.shtml",
+      "content": "美联储政策前景存在较大变数。 据最新消息，高盛警告称，在美联储主席凯文·沃什改革沟通方式的背景下，投资者愈发担忧，围绕美联储未来利率决策的市场波动将变得更加剧烈。...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-22",
+      "time": "23:30",
+      "keywords": []
+    },
     {
       "title": "沃什将以美联储主席身份首次发表杰克逊霍尔讲话",
       "source": "环球市场播报",
@@ -27,34 +139,6 @@
       "keywords": []
     },
     {
-      "title": "网传河北一地“白菜装车前蘸甲醛” 当地通报：属实，紧急追溯流向",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipeptq0708057.shtml",
-      "content": "今天，河北省张家口市康保县人民政府发布情况通报： 针对网上反映的“白菜收购环节蘸取甲醛溶液”相关问题，康保县第一时间组织农业农村、市场监管...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "08:07",
-      "keywords": []
-    },
-    {
-      "title": "美联储，加息大消息！高盛，最新警告",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/money/forex/2026-08-22/doc-inipeptq0706299.shtml",
-      "content": "美联储政策前景存在较大变数。 据最新消息，高盛警告称，在美联储主席凯文·沃什改革沟通方式的背景下，投资者愈发担忧，围绕美联储未来利率决策的市场波动将变得更加剧烈。...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "08:07",
-      "keywords": []
-    },
-    {
       "title": "【本文系数据通用户提前专享】破产重整在遴选产业投资人与财务投资人时，如何平衡市场与监管的边界",
       "source": "财新",
       "url": "https://database.caixin.com/2026-08-22/102476721.html?cxapp_link=true",
@@ -64,7 +148,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -80,7 +164,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -96,7 +180,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -112,7 +196,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -128,7 +212,7 @@
         "黄金"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "大宗观察"
@@ -144,7 +228,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -160,7 +244,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "交易簿"
@@ -176,7 +260,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "家庭财富"
@@ -192,7 +276,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "CCI快报"
@@ -208,7 +292,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -224,7 +308,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -240,7 +324,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -256,11 +340,152 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
       ]
+    },
+    {
+      "title": "重温解放日报评论：警惕宇树IPO资本泡沫！上市当天网下机构90%无限售梁文锋们可能已经套现数钱散户还在做梦",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/relnews/2026-08-23/doc-iniphhax0699779.shtml",
+      "content": "相关阅读：警惕宇树IPO资本泡沫 来源 国际投行研究报告 宇树科技成功上市，各路好事者为他们算钱。宇树科技创始人被吹成最年轻的千问富翁。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "01:31",
+      "keywords": []
+    },
+    {
+      "title": "视频|公募基金业绩基准调整迎来第三波！已有近90家公募发布公告存量整改进入攻坚阶段",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/money/fund/2026-08-23/doc-iniphhax0684154.shtml",
+      "content": "",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "01:23",
+      "keywords": []
+    },
+    {
+      "title": "知名牛散，爆买近1700万股！成这家A股公司第二大股东",
+      "source": "证券时报",
+      "url": "https://finance.sina.com.cn/stock/relnews/2026-08-23/doc-iniphhax0682292.shtml",
+      "content": "随着A股半年报的陆续披露，各路资金的动向也逐渐浮出水面。 8月22日，世名科技（300522）、众合科技（000925）发布2026年半年报，刘鑫新进两家公司前十大股东名单。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "01:18",
+      "keywords": []
+    },
+    {
+      "title": "一天7只产品增聘！广发基金固收“一姐”下场救火",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/fund/2026-08-23/doc-iniphhax0675731.shtml",
+      "content": "作者 |刘银平 编辑 | 付影 来源 | 独角金融 8月20日，广发基金一口气给7只产品增聘了基金经理，其中5只的增聘对象是同一个名字——张芊，共管人均为张雪；同日...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "01:00",
+      "keywords": []
+    },
+    {
+      "title": "中邮基金人均月薪10.59万",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/fund/2026-08-23/doc-iniphhay2614811.shtml",
+      "content": "来源 小基慢跑 基金公司这么多，但中邮基金还是比较特殊： 1、以前可是办公环境最好的基金公司之一。 2、总经理亲自下场干自媒体 3...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "00:29",
+      "keywords": []
+    },
+    {
+      "title": "半导体与AI算力成焦点！上周近200股迎机构调研，3股受追捧",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/2026-08-23/doc-inipfzva2728580.shtml",
+      "content": "上周（8月17日—21日）2026年半年报密集发布，A股共有194家上市公司接受机构投资者调研。 从赚钱效应来看，约三成被调研公司股价上涨，其中鼎阳科技涨超35.4%...",
+      "priority": "medium",
+      "sectors": [
+        "半导体",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "00:10",
+      "keywords": []
+    },
+    {
+      "title": "王中磊当着全行业的面，骂了大鹏一顿",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/china/2026-08-23/doc-inipfzuz0768065.shtml",
+      "content": "来源：今日头条 2026年7月，华谊兄弟的业绩沟通会上，王中磊当着全行业的面，骂了大鹏一顿。 话很难听。说大鹏拍《长安的荔枝》让投资人当冤大头，投资太大、回报太小...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-22",
+      "time": "23:48",
+      "keywords": []
+    },
+    {
+      "title": "百家机构扎堆调研股曝光，2股市盈率低至个位数",
+      "source": "数据宝",
+      "url": "https://finance.sina.com.cn/stock/relnews/2026-08-23/doc-inipfzvh3954196.shtml",
+      "content": "华测检测、国际复材、洁美科技、传音控股等个股均获得100家以上机构调研。 近一周（8月15日至21日）共有180多只个股获得机构调研，华测检测获调研机构数量居首。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-22",
+      "time": "23:30",
+      "keywords": []
+    },
+    {
+      "title": "多重因素影响美债市场，公募最新观点来了",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-08-23/doc-inipfzva2711132.shtml",
+      "content": "近期，长端美债收益率快速攀升，引发市场关注。 当地时间8月19日，美国财政部宣布，将至少翻倍扩大长期名义附息国债的流动性支持回购规模，涉及10年至20年期...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-22",
+      "time": "23:30",
+      "keywords": []
+    },
+    {
+      "title": "美债救市升级？特朗普放狠话：必要时动用军队",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-23/doc-inipfvph7293836.shtml",
+      "content": "来源：中国基金报 大家好，简单关注一下美债的小插曲。 美国总统唐纳德·特朗普表示，他甚至可能动用军方对债券市场进行“干预”。这一表态出现在记者追问美国财政部长贝森特...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-22",
+      "time": "22:12",
+      "keywords": []
     },
     {
       "title": "特朗普6月调整投资组合，抛售Meta等股票、买入伯克希尔",
@@ -291,6 +516,48 @@
       "keywords": []
     },
     {
+      "title": "赛力斯，在试管和自然受孕之间，选择了宫外孕",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/auto/2026-08-22/doc-inipfzvh3950960.shtml",
+      "content": "来源 熱熱号 赛力斯交出了一份“惨烈”的半年报：上半年亏损17.17亿，其中二季度单季就亏了24.7亿。销量还在涨，钱却越亏越多。这不是市场的错...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-22",
+      "time": "14:18",
+      "keywords": []
+    },
+    {
+      "title": "车企留在牌桌的关键筹码是什么？",
+      "source": "虎嗅APP",
+      "url": "https://finance.sina.com.cn/wm/2026-08-22/doc-inipferi7225619.shtml",
+      "content": "8月19日，赛力斯发布2026年半年报，上半年实现营业收入574.93亿元，研发投入70.07亿元，同比增长34.8%。问界上半年累计交付同比增长10.2%，全新一代问界M9...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-22",
+      "time": "13:51",
+      "keywords": []
+    },
+    {
+      "title": "去年“一美遮百丑”，王宁打“预防针”后再“泄气”？",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/relnews/2026-08-22/doc-inipfzva2717124.shtml",
+      "content": "雷达财经出品 文|丁禹 编|孟帅 “今年也许完不成我们年初既定的20%的目标”，继3月提前打“预防针”后，泡泡玛特创始人王宁在中期业绩电话会上再度释放出消极信号。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-22",
+      "time": "12:37",
+      "keywords": []
+    },
+    {
       "title": "千家“兰州拉面”，齐换门头！年创收超200亿元，为啥突然改名？",
       "source": "市场资讯",
       "url": "https://finance.sina.com.cn/wm/2026-08-22/doc-inipeyim7325534.shtml",
@@ -305,34 +572,6 @@
       "keywords": []
     },
     {
-      "title": "东方财富“暴利”：上半年营收105亿，净利81亿，计入政府补助4亿 却不分红 其实家族去年套现92亿",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/2026-08-22/doc-inipetzr1206739.shtml",
-      "content": "来源：雷递 雷递网 雷建平 8月22日 东方财富信息股份有限公司（证券代码：300059 证券简称：东方财富）今日发布2026年上半年财报。",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "10:25",
-      "keywords": []
-    },
-    {
-      "title": "强厄尔尼诺或催生新一轮粮食通胀",
-      "source": "",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipetzs3087573.shtml",
-      "content": "（来源：财闻） 多家国际金融机构预警多重风险或催生新一轮粮食通胀。预计今年或形成史上最强超强厄尔尼诺事件，影响延续至2027年。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "08:53",
-      "keywords": []
-    },
-    {
       "title": "机构对天孚通信2026年全年净利润的一致预期约为33亿至36亿元，上半年仅完成约33%至36%",
       "source": "财新",
       "url": "https://database.caixin.com/2026-08-22/102477024.html?cxapp_link=true",
@@ -342,7 +581,7 @@
         "光模块"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "公司速递"
@@ -358,7 +597,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -374,7 +613,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -390,7 +629,7 @@
         "消费"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -406,7 +645,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "权益周观察"
@@ -422,7 +661,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "交易簿"
@@ -438,7 +677,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "行业深度"
@@ -454,7 +693,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -470,7 +709,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "权益周观察"
@@ -486,7 +725,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -502,7 +741,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "家庭财富"
@@ -520,7 +759,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "数据图解"
@@ -536,11 +775,166 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
       ]
+    },
+    {
+      "title": "视频|亚朵酒店靠卖枕头被子半年卖26亿，收入逼近酒店主业！",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/relnews/2026-08-23/doc-iniphhay2638092.shtml",
+      "content": "",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "01:29",
+      "keywords": []
+    },
+    {
+      "title": "视频|券商正在走向边缘化？",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/quanshang/2026-08-23/doc-iniphhay2634935.shtml",
+      "content": "",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "01:23",
+      "keywords": []
+    },
+    {
+      "title": "特朗普股票披露文件显示其6月交易超1000笔",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-23/doc-iniphhca7077612.shtml",
+      "content": " 根据周六公布的一份财务披露文件，唐纳德・特朗普总统在6月完成逾1000笔证券交易，其中大手笔买入伯克希尔・哈撒韦、维萨、万事达以及信达思的股票。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "01:10",
+      "keywords": []
+    },
+    {
+      "title": "洋河梦之蓝M6+、古井贡古20创30天最高价 习酒君品、青花郎持续大跌",
+      "source": "酒业内参",
+      "url": "https://finance.sina.com.cn/chanjing/jync/2026-08-23/doc-iniphhca7074673.shtml",
+      "content": "新浪财经“酒价内参”过去24小时收集的数据显示，8月23日中国白酒业11大单品四涨七跌，盘面分化特征尤为突出。上涨方面，五粮液普五八代上涨7元，终端零售均价来到810元...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "01:02",
+      "keywords": []
+    },
+    {
+      "title": "谈崩了！21日午夜召回谈判团队，卡尼最新宣布：对美反制！“我们遭到袭击，绝不会拿主权做交易”",
+      "source": "每日经济新闻",
+      "url": "https://finance.sina.com.cn/world/2026-08-23/doc-iniphhca7068087.shtml",
+      "content": "据央视新闻8月23日消息，加拿大总理卡尼发表全国电视讲话，就加美贸易谈判破裂全面阐明加方立场。卡尼宣布，鉴于美国对价值200亿美元的加拿大商品征收50%的关税...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "00:37",
+      "keywords": []
+    },
+    {
+      "title": "外媒：英伟达搭载人工智能芯片的服务器价格将上涨超15%",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/t/2026-08-23/doc-iniphhay2609097.shtml",
+      "content": "来源：中新经纬 中新经纬8月23日电 据彭博社22日报道，英伟达公司的一些大客户已获悉，搭载其AI（人工智能）芯片的服务器价格普遍上涨超过15%...",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "00:32",
+      "keywords": []
+    },
+    {
+      "title": "一觉醒来，加拿大掀桌子了",
+      "source": "牛弹琴",
+      "url": "https://finance.sina.com.cn/world/2026-08-23/doc-inipfzve7191501.shtml",
+      "content": "一觉醒来，加拿大掀桌子了。 为什么生气？ 为美国太不把加拿大当加拿大，又对加拿大加征关税了。 北京时间8月23日凌晨，看加拿大总理卡尼的演讲，一股悲壮扑面而来。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "00:15",
+      "keywords": []
+    },
+    {
+      "title": "“英伟达发通知：涨价15%以上”",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/t/2026-08-23/doc-inipfzvh3964121.shtml",
+      "content": "来源：观察者网 据彭博社当地时间8月22日报道，由于存储芯片成本飙升，英伟达（Nvidia）的一些大客户已被告知，搭载其人工智能（AI）芯片的服务器价格将普遍上涨超过15%。",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "00:11",
+      "keywords": []
+    },
+    {
+      "title": "英伟达被曝已通知客户，AI芯片价格将普遍上涨超过15%",
+      "source": "",
+      "url": "https://finance.sina.com.cn/roll/2026-08-23/doc-inipfzvh3962688.shtml",
+      "content": " 据彭博社当地时间8月22日报道，由于存储芯片成本飙升，英伟达（Nvidia）的一些大客户已被告知，搭载其人工智能（AI）芯片的服务器价格将普遍上涨超过15%。",
+      "priority": "low",
+      "sectors": [
+        "半导体",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "00:04",
+      "keywords": []
+    },
+    {
+      "title": "下周4只新股申购，A股年内已有7只“大肉签”，单签盈利均超10万",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/roll/2026-08-23/doc-inipfzva2715189.shtml",
+      "content": "来源：中新经纬 本周，新股市场热度不减。 周二（8月18日），频准激光在科创板上市，发行价为186.88元/股，为年内最高。上市首日开盘即报1100元/股...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-22",
+      "time": "23:15",
+      "keywords": []
+    },
+    {
+      "title": "环球下周看点：贝森特、黄仁勋、沃什轮番登场",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/roll/2026-08-23/doc-inipfvpc0861242.shtml",
+      "content": "转自：财联社 对于海外市场而言，下周亮相的事件和经济数据数量并不多，但每一个都颇具看点。 首先亮相的是美国财长贝森特，继本周“救美债”吸引市场目光后...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-22",
+      "time": "22:13",
+      "keywords": []
     },
     {
       "title": "日本本州岛5.8级地震已致多人受伤",
@@ -670,6 +1064,20 @@
       "keywords": []
     },
     {
+      "title": "人民锐评：处置“甲醛白菜”，必须从速从严",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/wm/2026-08-22/doc-inipferh0481089.shtml",
+      "content": "据人民日报客户端消息，22日，有自媒体博主发布视频，曝光河北张家口康保县部分大白菜装车前蘸取甲醛溶液保鲜。视频引发公众对食品安全的担忧。当地相关部门迅速介入调查。...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-22",
+      "time": "15:08",
+      "keywords": []
+    },
+    {
       "title": "世界人形机器人运动会400米田径预赛：天工机器人39.7秒第一",
       "source": "新浪科技",
       "url": "https://finance.sina.com.cn/chanjing/gsnews/2026-08-22/doc-inipferi7228990.shtml",
@@ -681,6 +1089,20 @@
       "period": "noon",
       "date": "2026-08-22",
       "time": "14:06",
+      "keywords": []
+    },
+    {
+      "title": "每辆车抽走14万，赛力斯赚的还没华为多，问界还能撑多久？",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/auto/2026-08-22/doc-inipfzvh3951458.shtml",
+      "content": "来源 C家车探 2025年上半年，赛力斯每天净赚1600万，到了2026年上半年，每天亏掉940万，一年之间，这家公司完成了从盈利29.41亿到亏损17.17亿的自由落体，中间隔了47亿。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-22",
+      "time": "13:42",
       "keywords": []
     },
     {
@@ -712,426 +1134,6 @@
       "keywords": []
     },
     {
-      "title": "泰康保险集团创始人、董事长陈东升不再兼任首席执行官，刘挺军接任",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/money/insurance/2026-08-22/doc-inipeyik0557637.shtml",
-      "content": "8月22日金融一线消息， 在成立30周年之际，泰康保险集团今日宣布治理结构调整：创始人、董事长陈东升先生不再兼任首席执行官，回归并专注公司战略、团队、风险...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-08-22",
-      "time": "12:15",
-      "keywords": []
-    },
-    {
-      "title": "美加关税谈判破裂之后，北美贸易走向何方？",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/roll/2026-08-22/doc-inipeyim7306464.shtml",
-      "content": "美加谈判在最后一刻出现裂痕。 美加贸易谈判在最后一刻出现裂痕，特朗普政府针对部分加拿大商品加征50%关税的措施，将于美东时间8月22日凌晨00：01正式生效。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "11:49",
-      "keywords": []
-    },
-    {
-      "title": "贝森特债市操作效果有限 反令“贬值交易”升温",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-22/doc-inipeyik0523002.shtml",
-      "content": "美国财长贝森特力求遏制美国借贷成本，但仅让长期美债收益率回落了不到一天。而更为持久的市场信号却是：美元走弱，黄金和比特币上涨，进一步强化了“贬值交易”叙事。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "11:26",
-      "keywords": []
-    },
-    {
-      "title": "多个高职专业起薪超过部分本科专业",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipeyip1084217.shtml",
-      "content": "大批分数超过本科线的考生主动放弃了本科，选择填报高职院校。 在湖南省2026年普通高校招生高职专科批（普通类）第一次投档中，历史类...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "11:09",
-      "keywords": []
-    },
-    {
-      "title": "多预警齐发 注意防范！广西局地发生山洪灾害可能性很大",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipetzs3145283.shtml",
-      "content": "今天，中央气象台等部门多预警齐发，这些地区注意防范。 红色山洪灾害气象预警 预计，8月22日20时至23日20时，广西西南部部分地区发生山洪灾害可能性大（橙色预警）...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "10:33",
-      "keywords": []
-    },
-    {
-      "title": "中央气象台：渍涝风险气象预报（2026年08月22日）",
-      "source": "",
-      "url": "https://finance.sina.com.cn/money/future/hyxh/2026-08-22/doc-inipetzr1190623.shtml",
-      "content": "来源：中央气象台网站 中央气象台8月22日18时发布渍涝风险气象预报： 受强降雨的影响，预计8月22日20时至23日20时，广西南部等地部分地区发生渍涝的气象风险较高...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "10:30",
-      "keywords": []
-    },
-    {
-      "title": "视频丨第20号台风“简拉维”生成！三台风并存",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipetzs3146556.shtml",
-      "content": "今天下午，影响我国的东海热带低压已经正式加强为今年第20号台风“简拉维”，而就在昨天第19号台风“紫檀”也已生成，加上距离我国较远但强度持续增强的今年第18号台风“沙德尔”...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "10:29",
-      "keywords": []
-    },
-    {
-      "title": "任泽平：时代、人生和几句心里话",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/2026-08-22/doc-inipetzr1176609.shtml",
-      "content": "来源：泽平宏观 时代、人生和几句心里话 人到中年，回首往事，看世间沉浮，感慨万千。分享粗浅感悟，希望能帮到诸位。 1、只有时代的企业...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "10:09",
-      "keywords": []
-    },
-    {
-      "title": "20岁女孩求职接连被拒，发现7年前被错误登记为精神分裂症",
-      "source": "新京报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipetzs3130438.shtml",
-      "content": "一次入职体检，竟意外发现自己是“精神病”。 近日，20岁的河南姑娘陈欣瑶（化名）向新京报记者反映，她到广东省佛山市找工作时，频繁因“有精神疾病”被拒入职。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "10:07",
-      "keywords": []
-    },
-    {
-      "title": "视频丨美计划偿还联合国部分欠款 专家：服务于自身利益目标",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipetzr1166454.shtml",
-      "content": "据美国方面21日消息称，美国政府已通知国会计划向联合国支付8.5亿美元，以偿还其拖欠的部分联合国会费及其他款项。 美国长期拖欠联合国会费与维和摊款...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "09:48",
-      "keywords": []
-    },
-    {
-      "title": "“救市”无果，特朗普宣布：可出动美军干预美债市场！",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipetzp7372781.shtml",
-      "content": "美国总统特朗普当地时间8月21日对媒体表示，他本周并未指示美国财长贝森特干预债券市场。在被问及“面对美国长期债券收益率再回升还有什么干预手段”时，特朗普称...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "09:04",
-      "keywords": []
-    },
-    {
-      "title": "伊拉克总统：已有部分装载伊拉克石油船只获准通过霍尔木兹海峡",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipetzr1141439.shtml",
-      "content": "当地时间22日，伊拉克总统阿米迪表示，伊拉克方面此前已与到访的伊朗伊斯兰议会议长卡利巴夫进行了沟通，并向伊朗方面转达了关于重新审视两伊关系的讯息。",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "08:32",
-      "keywords": []
-    },
-    {
-      "title": "中央气象台：全球天气公报（2026年08月22日）",
-      "source": "",
-      "url": "https://finance.sina.com.cn/money/future/hyxh/2026-08-22/doc-inipeptq0713424.shtml",
-      "content": "（来源：中央气象台网站） 来源：中央气象台网站 1．越南法国瑞士等地出现较强降水 过去24小时（8月21日00时-8月22日00时，UTC），朝鲜半岛、日本关东地区、琉球群岛...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "08:30",
-      "keywords": []
-    },
-    {
-      "title": "官方回应“白菜收购蘸取甲醛溶液问题”",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-22/doc-inipeptu3198204.shtml",
-      "content": "央视网消息：据“康保发布”微信公众号消息，8月22日，河北张家口市康保县人民政府发布情况通报： 针对网上反映的“白菜收购环节蘸取甲醛溶液”相关问题...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "08:19",
-      "keywords": []
-    },
-    {
-      "title": "三元酸商品报价动态（2026-08-22）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-08-22/doc-inipetzn0611541.shtml",
-      "content": "生意社08月22日讯交易商品牌/产地交货地最新报价三元酸 99%广州市天悦化工有限公司诺泰广东省/广州市10500元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "08:01",
-      "keywords": []
-    },
-    {
-      "title": "四硼酸钾商品报价动态（2026-08-22）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-08-22/doc-inipetzn0611573.shtml",
-      "content": "生意社08月22日讯交易商品牌/产地交货地最新报价四硼酸钾 一等品广州市天悦化工有限公司内蒙古丰镇广东省/广州市18000元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "08:01",
-      "keywords": []
-    },
-    {
-      "title": "乙二醛水溶液商品报价动态（2026-08-22）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-08-22/doc-inipetzs3111355.shtml",
-      "content": "生意社08月22日讯交易商品牌/产地交货地最新报价乙二醛水溶液 含量40%，包装250kg/桶山东卓裕化工有限公司金沂蒙山东省3600元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "08:01",
-      "keywords": []
-    },
-    {
-      "title": "十水硼砂商品报价动态（2026-08-22）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-08-22/doc-inipetzs3111345.shtml",
-      "content": "生意社08月22日讯交易商品牌/产地交货地最新报价十水硼砂 99%广州市天悦化工有限公司土耳其广东省/广州市4600元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "08:01",
-      "keywords": []
-    },
-    {
-      "title": "苯丙三氮唑商品报价动态（2026-08-22）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-08-22/doc-inipetzr1160620.shtml",
-      "content": "生意社08月22日讯交易商品牌/产地交货地最新报价苯丙三氮唑 含量99%广州市天悦化工有限公司国产广东省/广州市29000元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "08:01",
-      "keywords": []
-    },
-    {
-      "title": "消毒粉商品报价动态（2026-08-22）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-08-22/doc-inipetzr1160622.shtml",
-      "content": "生意社08月22日讯交易商品牌/产地交货地最新报价消毒粉 优等品河南汇亿海净水材料有限公司国产河南省8000元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "08:01",
-      "keywords": []
-    },
-    {
-      "title": "羟基乙叉二磷酸商品报价动态（2026-08-22）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-08-22/doc-inipetzp7384099.shtml",
-      "content": "生意社08月22日讯交易商品牌/产地交货地最新报价羟基乙叉二磷酸 90 含量佳恩化学（山东）有限公司佳恩化学山东省/济南市10000元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "08:01",
-      "keywords": []
-    },
-    {
-      "title": "土耳其进口硼酸 商品报价动态（2026-08-22）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-08-22/doc-inipetzn0611587.shtml",
-      "content": "生意社08月22日讯交易商品牌/产地交货地最新报价硼酸 H3BO3≥ 99.9%广州市天悦化工有限公司土耳其进口广东省/广州市10500元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "08:01",
-      "keywords": []
-    },
-    {
-      "title": "异构十六醇商品报价动态（2026-08-22）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-08-22/doc-inipetzr1160655.shtml",
-      "content": "生意社08月22日讯交易商品牌/产地交货地最新报价异构十六醇 包装170kg 含量99% 无色 优级广州市天悦化工有限公司沙索广东省/深圳市13800元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "08:01",
-      "keywords": []
-    },
-    {
-      "title": "对苯二胺商品报价动态（2026-08-22）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-08-22/doc-inipetzr1160658.shtml",
-      "content": "生意社08月22日讯交易商品牌/产地交货地最新报价对苯二胺 99.5%佳恩化学（山东）有限公司国产山东省440元/千克 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "08:01",
-      "keywords": []
-    },
-    {
-      "title": "二氧化氯商品报价动态（2026-08-22）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-08-22/doc-inipetzn0611574.shtml",
-      "content": "生意社08月22日讯交易商品牌/产地交货地最新报价二氧化氯 10% 氯含量佳恩化学（山东）有限公司佳恩化学山东省280元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "08:01",
-      "keywords": []
-    },
-    {
-      "title": "三聚硫氰酸三钠盐商品报价动态（2026-08-22）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-08-22/doc-inipetzn0611550.shtml",
-      "content": "生意社08月22日讯交易商品牌/产地交货地最新报价三聚硫氰酸三钠盐 15%佳恩化学（山东）有限公司国产山东省4200元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "08:01",
-      "keywords": []
-    },
-    {
-      "title": "防染盐S商品报价动态（2026-08-22）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-08-22/doc-inipetzn0611579.shtml",
-      "content": "生意社08月22日讯交易商品牌/产地交货地最新报价防染盐S 含量90%广州市天悦化工有限公司上海锦华广东省/广州市9000元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "08:01",
-      "keywords": []
-    },
-    {
-      "title": "二氢吡啶商品报价动态（2026-08-22）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-08-22/doc-inipetzn0611544.shtml",
-      "content": "生意社08月22日讯交易商品牌/产地交货地最新报价二氢吡啶 99%佳恩化学（山东）有限公司山东山东省28500元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "08:01",
-      "keywords": []
-    },
-    {
-      "title": "三乙醇胺硼酸脂商品报价动态（2026-08-22）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-08-22/doc-inipetzp7384081.shtml",
-      "content": "生意社08月22日讯交易商品牌/产地交货地最新报价三乙醇胺硼酸脂 99%广州市天悦化工有限公司宇星精细广东省/广州市11500元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "08:01",
-      "keywords": []
-    },
-    {
-      "title": "吉利召回两批车辆合计近9.3万辆 涉事激光雷达来自速腾聚创",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/2026-08-22/doc-inipeptr7473197.shtml",
-      "content": "8月22日消息，国家市场监督管理总局发布公告，浙江吉利汽车有限公司将召回2025年1月8日至2025年12月10日期间生产的部分领克900、领克10 EM-P、领克07和领克08汽车...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-22",
-      "time": "07:59",
-      "keywords": []
-    },
-    {
       "title": "【本文系数据通用户提前专享】东南亚的土地、电力和开放市场使其成为全球AI数据中心基建重中之重，但前途不会一帆风顺",
       "source": "财新",
       "url": "https://database.caixin.com/2026-08-22/102476718.html?cxapp_link=true",
@@ -1142,7 +1144,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1158,7 +1160,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1174,7 +1176,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "研报精华"
@@ -1190,7 +1192,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1206,7 +1208,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1222,7 +1224,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1238,7 +1240,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1254,7 +1256,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1270,7 +1272,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "CCI快报"
@@ -1286,7 +1288,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1302,7 +1304,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1318,7 +1320,7 @@
         "消费"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "交易簿"
@@ -1334,7 +1336,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1350,7 +1352,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1366,7 +1368,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1382,7 +1384,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1398,7 +1400,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1414,7 +1416,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1430,7 +1432,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1446,7 +1448,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1462,7 +1464,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1478,7 +1480,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "数据图解"
@@ -1494,7 +1496,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1510,7 +1512,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1526,7 +1528,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1542,7 +1544,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1558,7 +1560,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "交易簿"
@@ -1574,7 +1576,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1590,7 +1592,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "霍尔木兹周报"
@@ -1606,7 +1608,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1622,7 +1624,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1638,7 +1640,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1654,7 +1656,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1670,7 +1672,7 @@
         "医药"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1686,7 +1688,7 @@
         "机器人"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1702,7 +1704,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1718,7 +1720,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "CCI快报"
@@ -1734,7 +1736,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "数据图解"
@@ -1750,7 +1752,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "量化观察"
@@ -1766,7 +1768,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1782,7 +1784,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1798,7 +1800,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1814,7 +1816,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1830,7 +1832,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1846,7 +1848,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1862,7 +1864,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1878,7 +1880,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1894,7 +1896,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1910,7 +1912,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1926,7 +1928,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1942,7 +1944,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1958,7 +1960,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1974,7 +1976,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1990,7 +1992,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2006,7 +2008,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2022,7 +2024,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2038,7 +2040,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -2054,7 +2056,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "家庭财富"
@@ -2070,7 +2072,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "基金观察"
@@ -2086,7 +2088,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "霍尔木兹周报"
@@ -2103,7 +2105,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场洞察"
@@ -2119,7 +2121,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -2135,7 +2137,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -2151,7 +2153,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -2167,7 +2169,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -2183,7 +2185,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -2199,7 +2201,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -2216,7 +2218,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -2232,7 +2234,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -2248,7 +2250,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2264,7 +2266,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "交易簿"
@@ -2280,7 +2282,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2296,7 +2298,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2312,7 +2314,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-22",
+      "date": "2026-08-23",
       "time": "--:--",
       "keywords": [
         "市场动态"
