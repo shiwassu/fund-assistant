@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T05:04:52.073299",
+  "updated": "2026-08-23T07:18:04.415081",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,53 +7,11 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 16,
-    "medium": 48,
-    "low": 86
+    "high": 13,
+    "medium": 52,
+    "low": 85
   },
   "items": [
-    {
-      "title": "视频|从盈利陷阱到人才断层：博时基金遇“中年危机”，还有产品在清盘红线边缘",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/fund/2026-08-23/doc-iniphnma3790536.shtml",
-      "content": "",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-23",
-      "time": "04:20",
-      "keywords": []
-    },
-    {
-      "title": "北京新发地启动紧急排查：涉事“甲醛白菜”未流入，当前市场白菜供应充足",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/roll/2026-08-23/doc-iniphnky7011205.shtml",
-      "content": "本文转自【北京丰台】； 针对8月22日网曝河北张家口康保县部分白菜收购商违规使用甲醛溶液保鲜一事，北京新发地农产品批发市场第一时间启动全链条溯源排查。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-23",
-      "time": "03:56",
-      "keywords": []
-    },
-    {
-      "title": "特朗普的“大麻烦”：40万亿美元债务，6.5%按揭利率与5美元柴油价格",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/world/2026-08-23/doc-iniphhax0698983.shtml",
-      "content": "来源 华尔街见闻 距离特朗普以“压低物价、整顿财政”为核心竞选承诺赢得大选，尚不足两年，伊朗战争与减税政策已将美国经济推向另一个方向：国债创历史新高，能源成本飙升...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-08-23",
-      "time": "01:44",
-      "keywords": []
-    },
     {
       "title": "【本文系数据通用户提前专享】破产重整在遴选产业投资人与财务投资人时，如何平衡市场与监管的边界",
       "source": "财新",
@@ -260,6 +218,177 @@
       "time": "--:--",
       "keywords": [
         "华尔街原声"
+      ]
+    },
+    {
+      "title": "【广发策略】4.7%的美债再成焦点，究竟如何影响权益定价？",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-23/doc-iniphsst0601289.shtml",
+      "content": "来源：晨明的策略深度思考 本文作者：刘晨明/郑恺/李如娟 8月以来美债10Y再度冲至4.6-4.8%，但与5月冲击4.7%的情况相比，两次定价截然相反，5月模型厂商ARR加速上行...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-23",
+      "time": "06:40",
+      "keywords": []
+    },
+    {
+      "title": "月赚100多亿元，业绩比长鑫科技更炸裂，又一巨无霸IPO来了！周末还有这些大消息",
+      "source": "每日经济新闻",
+      "url": "https://finance.sina.com.cn/roll/2026-08-23/doc-iniphsst0565155.shtml",
+      "content": "每经记者|彭水萍每经编辑|叶峰 刚过去的交易周（8月17日至21日），A股市场整体先扬后抑，周一冲高后主要股指均陷入持续三天的调整，直到周五才有所企稳修复。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "05:40",
+      "keywords": []
+    },
+    {
+      "title": "双良睿能公布中期业绩 股东应占利润为约1.1亿元同比减少1.8%",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-23/doc-iniphssu2504141.shtml",
+      "content": "双良睿能（02481）公布2026年中期业绩，收入约8.93亿元，同比增加约 17.5%。 毛利约2.65亿元，同比增加约 10.7%。 公司拥有人应占利润为约1.1亿元，同比减少1.8%。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "05:19",
+      "keywords": [
+        "双良睿能",
+        "应占利润",
+        "减少"
+      ]
+    },
+    {
+      "title": "大金重工公布中期业绩 归母净利润约6.01亿元同比增长9.89%",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-23/doc-iniphssw6908813.shtml",
+      "content": "大金重工（01081）公布2026年中期业绩，营业收入约32.53亿元，同比增长14.48%；归属于上市公司股东的净利润约6.01亿元，同比增长9.89%；基本每股收益0.94元。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "05:17",
+      "keywords": [
+        "大金重工",
+        "净利润",
+        "增长"
+      ]
+    },
+    {
+      "title": "中国新城镇发布中期业绩 股东应占溢利5239.3万元同比增长7.63%",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-23/doc-iniphssw6907345.shtml",
+      "content": "中国新城镇（01278）发布截至2026年6月30日止六个月的中期业绩，该集团取得经营收入2.27亿元，同比增长18.18%；母公司权益持有人应占溢利5239.3万元，同比增长7...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "05:13",
+      "keywords": [
+        "中国新城镇",
+        "溢利",
+        "增长"
+      ]
+    },
+    {
+      "title": "深演智能获纳入恒生指数系列的成份股",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-23/doc-iniphsst0550162.shtml",
+      "content": "深演智能（02723）发布公告，本公司已获恒生指数有限公司选择及将被纳入恒生综合指数、恒生港股通指数、恒生综合大中型股指数、恒生大中型股规模全选指数...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "05:12",
+      "keywords": [
+        "深演智能",
+        "纳入",
+        "恒生指数"
+      ]
+    },
+    {
+      "title": "竣球控股发布中期业绩 股东应占溢利1401.9万港元同比增长66.4%",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-23/doc-iniphssu2499864.shtml",
+      "content": " 竣球控股（01481）发布截至2026年6月30日止六个月业绩，收益1.9亿港元，同比增长86.1%；公司拥有人应占溢利1401.9万港元，同比增长66.4%；每股基本盈利1.37港仙。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "05:10",
+      "keywords": [
+        "竣球控股",
+        "溢利",
+        "增长"
+      ]
+    },
+    {
+      "title": "科拓股份发布中期业绩 经调整纯利2866.7万元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-23/doc-iniphsst0548782.shtml",
+      "content": " 科拓股份（02272）发布截至2026年6月30日止6个月中期业绩，该集团取得收益3.34亿元，经调整纯利2866.7万元，公司权益股东应占溢利2517.8万元，每股盈利0.28元。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "05:09",
+      "keywords": [
+        "科拓股份",
+        "纯利"
+      ]
+    },
+    {
+      "title": "首创环境公布中期业绩 归母应占溢利约2.11亿元同比增长12.18%",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-23/doc-iniphssu2499176.shtml",
+      "content": " 首创环境（03989）公布2026年中期业绩，收益约18.59亿元，同比减少0.89%；母公司拥有人应占溢利约2.11亿元，同比增长12.18%；每股盈利1.48分。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "05:08",
+      "keywords": [
+        "首创环境",
+        "溢利",
+        "增长"
+      ]
+    },
+    {
+      "title": "大和：网易-S目标价上升至260港元 维持“买入”评级",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-23/doc-iniphnma3807815.shtml",
+      "content": "大和发布研报称，网易-S（09999）的游戏毛利率已达较高水平，进一步改善空间有限，惟经营杠杆持续体现，将2026至2028年收入预测上调0.9%至1.3%...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "05:04",
+      "keywords": [
+        "大和",
+        "网易-S",
+        "目标价"
       ]
     },
     {
@@ -781,98 +910,6 @@
       "keywords": []
     },
     {
-      "title": "高盛：石药集团维持“买入”评级 目标价上调至12.56港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-23/doc-iniphnkw2605988.shtml",
-      "content": " 高盛发布研报称，维持石药集团（01093）“买入”评级，将2026至2028年盈利预测上调0.2%至1.7%，目标价由12.14港元上调至12.56港元。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-23",
-      "time": "04:28",
-      "keywords": [
-        "高盛",
-        "石药集团",
-        "目标价"
-      ]
-    },
-    {
-      "title": "高盛：希慎兴业下调至“沽售”评级  目标价下调至16港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-23/doc-iniphnma3792666.shtml",
-      "content": "高盛发布研报称，因应股息上调空间有限及利园八期写字楼预租情况存在不确定性，将希慎兴业（00014）评级由“中性”下调至“沽售”，目标价由24.9港元下调至16港元。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-23",
-      "time": "04:27",
-      "keywords": [
-        "高盛",
-        "希慎兴业",
-        "目标价"
-      ]
-    },
-    {
-      "title": "长存控股来了！金融机构股东图谱浮现：银行系扎堆，多家券商隐现",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/roll/2026-08-23/doc-iniphnkv0649007.shtml",
-      "content": "来源：券商中国 存储龙头股亮相。 8月21日，长江存储控股股份有限公司（公司简称“长存控股”）科创板IPO申报材料正式获得上交所受理，公司计划发行不低于19...",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-08-23",
-      "time": "04:00",
-      "keywords": []
-    },
-    {
-      "title": "邓晓峰，再现身601899！中东资本加仓",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/relnews/2026-08-23/doc-iniphnkv0608080.shtml",
-      "content": "高毅资产知名基金经理邓晓峰再度现身紫金矿业前十大流通股东名单中。 据紫金矿业最新披露的半年报，截至上半年末，邓晓峰管理的产品新进成为其第九大流通股东。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-23",
-      "time": "02:57",
-      "keywords": []
-    },
-    {
-      "title": "视频|恒生科技指数将迎历史性扩容！对应被动配置需求约360亿港元",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-08-23/doc-iniphhce3879882.shtml",
-      "content": " 恒生科技指数将迎历史性扩容！对应被动配置需求约360亿港元。告别“外卖指数”，AI、硬件赛道公司成重要增量。 机构预测宁德时代、天数智芯、优必选等有望纳入。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-23",
-      "time": "02:20",
-      "keywords": []
-    },
-    {
-      "title": "重温解放日报评论：警惕宇树IPO资本泡沫！上市当天网下机构90%无限售梁文锋们可能已经套现数钱散户还在做梦",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/relnews/2026-08-23/doc-iniphhax0699779.shtml",
-      "content": "相关阅读：警惕宇树IPO资本泡沫 来源 国际投行研究报告 宇树科技成功上市，各路好事者为他们算钱。宇树科技创始人被吹成最年轻的千问富翁。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-23",
-      "time": "01:31",
-      "keywords": []
-    },
-    {
       "title": "机构对天孚通信2026年全年净利润的一致预期约为33亿至36亿元，上半年仅完成约33%至36%",
       "source": "财新",
       "url": "https://database.caixin.com/2026-08-22/102477024.html?cxapp_link=true",
@@ -1083,6 +1120,138 @@
       ]
     },
     {
+      "title": "阿里拟配售新股，全部投入AI建设",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/stock/relnews/2026-08-23/doc-iniphssw6920508.shtml",
+      "content": "新浪科技讯 8月23日下午消息，阿里巴巴宣布拟向美国境外的非美国人士配售新股，配售总金额为800亿港元。这也是阿里巴巴2019年港股上市以来首次启动新股配售。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "05:49",
+      "keywords": []
+    },
+    {
+      "title": "大金重工将派发中期股息每10股0.88元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-23/doc-iniphssw6909043.shtml",
+      "content": "大金重工（01081）发布公告，将派发截至2026年6月30日止六个月期间的中期股息每10股0.88元。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "05:18",
+      "keywords": [
+        "大金重工",
+        "派发",
+        "中期股息"
+      ]
+    },
+    {
+      "title": "长飞光纤光缆拟采纳2026年H股奖励计划",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-23/doc-iniphsst0552162.shtml",
+      "content": "长飞光纤光缆（06869）发布公告，董事会已于2026年8月21日举行的董事会会议上决议，建议采纳2026年H股奖励计划，董事会或获授权人士须管理及运作2026年计划...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "05:16",
+      "keywords": [
+        "长飞光纤光缆",
+        "H股",
+        "奖励计划"
+      ]
+    },
+    {
+      "title": "博泰车联拟斥资8亿元收购海鸥住工20%股权",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-23/doc-iniphssu2502432.shtml",
+      "content": "博泰车联（02889）公布，于2026年8月21日，该公司拟向中馀投资收购广州海鸥住宅工业股份有限公司（002084.SZ）20%股权，代价8亿元，折合每股A股约人民币6.19元。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "05:15",
+      "keywords": [
+        "博泰车联",
+        "收购",
+        "股权"
+      ]
+    },
+    {
+      "title": "中国新城镇将于9月23日派发中期股息每股0.0019港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-23/doc-iniphssw6907576.shtml",
+      "content": "中国新城镇（01278）发布公告，将于2026年9月23日派发截至2026年6月30日止6个月的中期股息每股0.0019港元。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "05:14",
+      "keywords": [
+        "中国新城镇",
+        "派发",
+        "中期股息"
+      ]
+    },
+    {
+      "title": "阿里拟配售800亿港元新股，全部投入AI建设",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/relnews/2026-08-23/doc-iniphsst0554947.shtml",
+      "content": " 中新经纬8月23日获悉，阿里巴巴宣布拟向美国境外的非美国人士配售新股，配售总金额为800亿港元。这也是阿里巴巴2019年港股上市以来首次启动新股配售。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "05:12",
+      "keywords": []
+    },
+    {
+      "title": "稀镁科技拟折让约19.35%配售最多9600万股配售股份 净筹约450万港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-23/doc-iniphssu2500389.shtml",
+      "content": "稀镁科技（00601）发布公告，于2026年8月21日（交易时段后），本公司与配售代理订立配售协议，据此，本公司有条件同意透过配售代理按尽力基准，以配售价每股配售股份0...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "05:11",
+      "keywords": [
+        "稀镁科技",
+        "折让",
+        "配售"
+      ]
+    },
+    {
+      "title": "韦东奕39.8元练习册已从B站下架，四天销售额超100万元，客服称迫于压力全网下架消息不实，其它平台仍然在售",
+      "source": "每日经济新闻",
+      "url": "https://finance.sina.com.cn/china/2026-08-23/doc-iniphssu2502496.shtml",
+      "content": "据蓝鲸新闻报道，时隔四天，韦东奕下架了带货链接。蓝鲸新闻记者发现，8月22日晚，北京大学数学科学学院副教授韦东奕从其B站账号小店中撤下了此前上架的两套数学练习册链接...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "05:11",
+      "keywords": []
+    },
+    {
       "title": "洪桥集团拟4.248亿元收购聚能(江苏)动力科技51%的股权",
       "source": "新浪港股",
       "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-23/doc-iniphnkv0672148.shtml",
@@ -1126,133 +1295,6 @@
       "period": "night",
       "date": "2026-08-23",
       "time": "04:35",
-      "keywords": []
-    },
-    {
-      "title": "“高中签率”新股，来了！",
-      "source": "中国证券报",
-      "url": "https://finance.sina.com.cn/stock/relnews/2026-08-23/doc-iniphnkw2565975.shtml",
-      "content": "根据目前发行安排，下周将有4只新股申购，创业板2只，北交所、沪市主板各1只。 日程安排上，周一（8月24日）可申购北交所新股华汇智能...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-23",
-      "time": "03:10",
-      "keywords": []
-    },
-    {
-      "title": "人民日报钟才文：中国是世界经济增长的积极贡献者和强大稳定锚",
-      "source": "人民日报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-23/doc-iniphnkv0609753.shtml",
-      "content": "相关阅读：中国经济的韧性与活力 今年以来，面对变乱交织、严峻复杂的外部环境，中国经济顶压前行，持续向新向优发展，展现出蓬勃活力和强大韧性...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-23",
-      "time": "03:01",
-      "keywords": []
-    },
-    {
-      "title": "8月以来涨幅超40%，这两家公司上涨原因找到了！",
-      "source": "证券市场周刊",
-      "url": "https://finance.sina.com.cn/stock/relnews/2026-08-23/doc-iniphnkw2561469.shtml",
-      "content": "文丨吴新竹 编辑丨王宗耀 先导基电和炬光科技均通过并购加深对半导体、光通信赛道的布局，长期价值受到市场关注。 先导基电（600641.SH）与炬光科技（688167...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-23",
-      "time": "03:00",
-      "keywords": []
-    },
-    {
-      "title": "新盘销售持续火热！华润置地旗下楼盘收逾4.7万票，成香港史上首轮发售最新“票王”",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-08-23/doc-iniphnma3761236.shtml",
-      "content": "每经记者|李旭馗每经编辑|杨翼 2026年以来，香港楼市全面复苏。在量价齐升的市场氛围下，市区新盘接续推售，认购热潮一浪高过一浪，香港楼市各项纪录也在不断被刷新。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-23",
-      "time": "02:51",
-      "keywords": []
-    },
-    {
-      "title": "网传“属蛇一律开掉”？民生人寿回应董事长因“生肖不合”裁员",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/china/2026-08-23/doc-iniphhax0734170.shtml",
-      "content": "来源：21金融圈 作者 | 林汉垚 孙诗卉 编辑 |周炎炎 曾芳 民生人寿客服回应记者表示，网传相关内容为虚假信息，公司已对网络上的造谣内容进行证据保全。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-23",
-      "time": "02:46",
-      "keywords": []
-    },
-    {
-      "title": "上纬新材消费级机器人正式开启预订，预计首批发货最早9月",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-23/doc-iniphhay2674037.shtml",
-      "content": "8月23日，上纬新材消费级机器人启元Q1、启元T1双产品开启预订，用户可通过上纬启元官方小程序、天猫、抖音、B站官方店铺，以及线下体验活动参与预订...",
-      "priority": "low",
-      "sectors": [
-        "机器人",
-        "消费"
-      ],
-      "period": "night",
-      "date": "2026-08-23",
-      "time": "02:28",
-      "keywords": []
-    },
-    {
-      "title": "成本7元，卖到598元！被罚3.8亿元！企业只在夜间生产，被查时员工反锁房门狂删数据！",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/china/2026-08-23/doc-iniphhay2679425.shtml",
-      "content": "家住杭州的小周患痛风已经7年了，花1196元购买了两盒宣称“天然萃取、无身体负担”“对痛风有奇效”的“美力森海洋鱼低聚肽姜黄压片糖果”。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-23",
-      "time": "02:26",
-      "keywords": []
-    },
-    {
-      "title": "突传涨价！芯片巨头，爆出大消息！影响多大？",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-08-23/doc-iniphhay2670186.shtml",
-      "content": "英伟达近期动作频频，引发市场关注！ 北京时间8月23日，据彭博社消息，明年初起，多款搭载英伟达人工智能芯片的服务器价格将上涨超过15%，主要原因是存储芯片成本飙升。",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "night",
-      "date": "2026-08-23",
-      "time": "02:10",
-      "keywords": []
-    },
-    {
-      "title": "视频|亚朵酒店靠卖枕头被子半年卖26亿，收入逼近酒店主业！",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/relnews/2026-08-23/doc-iniphhay2638092.shtml",
-      "content": "",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-23",
-      "time": "01:29",
       "keywords": []
     },
     {
