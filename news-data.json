@@ -1,17 +1,45 @@
 {
-  "updated": "2026-08-23T20:54:44.914534",
-  "total": 149,
+  "updated": "2026-08-23T22:54:01.276527",
+  "total": 150,
   "sources": [
     "新浪财经",
     "akshare-财新",
     "Tushare"
   ],
   "priority_dist": {
-    "high": 15,
-    "medium": 22,
-    "low": 112
+    "high": 17,
+    "medium": 23,
+    "low": 110
   },
   "items": [
+    {
+      "title": "美国内华达州里诺市4万多居民因野火紧急撤离",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-24/doc-inipkeuh3110647.shtml",
+      "content": "一场大型野火23日快速逼近地处美国内华达州、与加利福尼亚州邻近的里诺市。当地消防部门证实凶猛火势已造成6人受伤，迫使约4.2万名当地居民紧急撤离，另有4...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "20:56",
+      "keywords": []
+    },
+    {
+      "title": "美联储卡什卡利：国债市场仍在“正常运转”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-08-23/doc-inipipwk2314885.shtml",
+      "content": "明尼阿波利斯联邦储备银行行长卡什卡利淡化市场对美国国债收益率上行的担忧，表示市场运行状况良好。 卡什卡利称，当前国债收益率相较于近期历史水平处于高位...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-23",
+      "time": "15:25",
+      "keywords": []
+    },
     {
       "title": "佳缘科技，因财务造假将被ST",
       "source": "",
@@ -247,6 +275,23 @@
       "keywords": [
         "华尔街原声"
       ]
+    },
+    {
+      "title": "8月24日周末要闻：美对伊欲打空前经济战 原油下挫 黄金走高 阿里新股配售 英伟达AI芯片涨价",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-24/doc-inipkeuh3135441.shtml",
+      "content": "上周国际市场回顾 8月22日收盘：道指飙升500点 长端美债收益率持续走高 三大指数周线均录得下跌 8月22日热门中概股多数上涨，网易涨6.98%，阿里巴巴跌8...",
+      "priority": "medium",
+      "sectors": [
+        "能源",
+        "黄金",
+        "半导体",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "22:45",
+      "keywords": []
     },
     {
       "title": "视频|李辉任宏利基金总经理，此前掌舵兴业基金，公募管理规模3年增90%",
@@ -585,6 +630,176 @@
       ]
     },
     {
+      "title": "视频丨美欲打空前经济战 伊朗亮出“石油出口反制牌”",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-24/doc-inipketz0176815.shtml",
+      "content": " 美国总统特朗普宣布将对伊朗实施“史无前例”的经济战后，美财政部长贝森特证实，将于24日正式对外公布对伊“前所未有的经济孤立”措施的具体行动内容。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "22:21",
+      "keywords": []
+    },
+    {
+      "title": "美军称在中东地区海域开展舰艇补给作业",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-24/doc-inipkeuh3127772.shtml",
+      "content": " 当地时间8月23日，美国中央司令部称，美国海军一架MH-60S“海鹰”直升机在中东地区海域为“拳师”号两栖攻击舰执行垂直补给任务，物资由“北极”号快速战斗支援舰提供。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "22:10",
+      "keywords": []
+    },
+    {
+      "title": "标普500期货与原油下挫，黄金走高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-08-24/doc-inipkeua2115014.shtml",
+      "content": "周一盘初，美国股指期货与原油价格走弱，投资者静待美国针对伊朗出台经济措施的更多细节。一则有关英伟达上调部分AI芯片价格的报道...",
+      "priority": "low",
+      "sectors": [
+        "能源",
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "22:09",
+      "keywords": []
+    },
+    {
+      "title": "伊朗官员：若美打经济战 霍尔木兹海峡和波斯湾将再无石油出口",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-24/doc-inipiync0233967.shtml",
+      "content": "当地时间23日，伊朗最高国家安全委员会秘书雷扎伊表示，如果美国对伊朗继续发动经济战，则没有石油会通过霍尔木兹海峡乃至波斯湾地区。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "19:28",
+      "keywords": []
+    },
+    {
+      "title": "加拿大驻美大使：加美贸易谈判破裂原因涉及多项议题",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-24/doc-inipiynh6448072.shtml",
+      "content": "央视记者当地时间8月23日获悉，加拿大驻美国大使马克·怀斯曼表示，加美贸易谈判22日晚间破裂，原因涉及多项议题，其中潜在协议的书面文本与加拿大方面认为双方此前已达成的...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "19:19",
+      "keywords": []
+    },
+    {
+      "title": "英伟达远期市盈率跌至多年低位，财报将检验AI行情持续性",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-08-24/doc-inipiynh6436745.shtml",
+      "content": " 尽管英伟达毛利率接近75%，但其远期市盈率已经跌至五年多来、相对于自身十年历史区间的低位；市场对客户集中度风险以及AI循环融资模式的担忧不断升温。",
+      "priority": "low",
+      "sectors": [
+        "半导体",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-23",
+      "time": "18:48",
+      "keywords": []
+    },
+    {
+      "title": "美众议院议长：伊朗冲突或将很快进入新阶段，期待盟国协助收尾",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-08-24/doc-inipiueh2263785.shtml",
+      "content": "美国众议院议长迈克·约翰逊表示，他预计伊朗冲突很快将进入新阶段，并相信盟国将协助美国结束这场冲突。约翰逊在接受采访时称：“我认为局势很快就会进入一个全新阶段。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-23",
+      "time": "17:51",
+      "keywords": []
+    },
+    {
+      "title": "俄国防部：击落269架乌克兰无人机",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-24/doc-inipiynh6444308.shtml",
+      "content": "俄罗斯国防部23日晚发布通报说，莫斯科时间当天8时至20时，俄防空部队在阿尔汉格尔斯克州、别尔哥罗德州、布良斯克州以及莫斯科地区等俄多地拦截并击落269架乌克兰无人机。...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-23",
+      "time": "17:37",
+      "keywords": []
+    },
+    {
+      "title": "美内华达州山火迅速蔓延 近1.4万户居民被要求撤离",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-24/doc-inipiuef0305156.shtml",
+      "content": "央视记者当地时间8月23日获悉，美国内华达州北部里诺市郊的“霍克”山火当日清晨从内华达山脉山麓向里诺市中心方向迅速蔓延，过火面积已超过1.05万英亩，近1...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-23",
+      "time": "17:25",
+      "keywords": []
+    },
+    {
+      "title": "美军称对伊朗海上封锁以来已拦截75艘商船",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-24/doc-inipiuek6536104.shtml",
+      "content": "据美国中央司令部当地时间8月23日的消息，美国“约翰·芬恩”号导弹驱逐舰正在阿拉伯海航行，并执行美国对伊朗的海上封锁任务。截至8月23日，美军已要求70艘商船改变航向...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-23",
+      "time": "17:02",
+      "keywords": []
+    },
+    {
+      "title": "以总理警告哈马斯停止从加沙向以色列“放风筝”",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-24/doc-inipkeua2104621.shtml",
+      "content": "当地时间23日晚，以色列总理内塔尼亚胡与国防部长卡茨警告巴勒斯坦伊斯兰抵抗运动（哈马斯），如果不立即停止从加沙地带向以色列“放风筝”...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-23",
+      "time": "17:01",
+      "keywords": []
+    },
+    {
+      "title": "美军伊朗战争伤亡升至774人",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-08-24/doc-inipiuek6525456.shtml",
+      "content": "据美国媒体援引美国国防部伤亡统计系统的数据，美军在伊朗战争中的伤亡已升至774人，其中18人死亡，756人受伤。 即便在没有大规模作战的阶段...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-23",
+      "time": "16:35",
+      "keywords": []
+    },
+    {
       "title": "阿里新股配售定价完成，获长线投资者超额认购",
       "source": "新浪科技",
       "url": "https://finance.sina.com.cn/chanjing/gsnews/2026-08-24/doc-inipipwq3424696.shtml",
@@ -610,6 +825,20 @@
       "period": "noon",
       "date": "2026-08-23",
       "time": "15:35",
+      "keywords": []
+    },
+    {
+      "title": "泽连斯基称乌克兰未参与北溪管道爆炸事件",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-08-23/doc-inipipwi0367598.shtml",
+      "content": "乌克兰总统泽连斯基表示，乌克兰并未参与北溪天然气管道的破坏行动。应德国方面要求，克罗地亚逮捕一名名为弗拉基米尔·Z的乌克兰籍嫌疑人...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-23",
+      "time": "15:34",
       "keywords": []
     },
     {
@@ -897,216 +1126,6 @@
       "source": "证券日报",
       "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-23/doc-inipiiqn2394037.shtml",
       "content": "8月23日，雅艺科技发布公告称，公司将于2026年9月8日召开2026年第一次临时股东会。（文章来源：证券日报）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-23",
-      "time": "13:23",
-      "keywords": []
-    },
-    {
-      "title": "雅艺科技：2026年半年度归属于上市公司股东的净利润同比增长5.87%",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-23/doc-inipiiqq6725047.shtml",
-      "content": "证券日报网讯 8月23日，雅艺科技发布2026年半年度报告摘要称，公司2026年半年度实现营业收入127，448，746.58元，同比下降12.89%；归属于上市公司股东的净利润为4，310...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-23",
-      "time": "13:23",
-      "keywords": []
-    },
-    {
-      "title": "泽宇智能：2026年半年度归属于上市公司股东的净利润同比增长68.11%",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-23/doc-inipiiqs3497567.shtml",
-      "content": "8月23日，泽宇智能发布2026年半年度报告摘要称，公司2026年半年度实现营业收入458，221，371.46元，同比增长13.49%；归属于上市公司股东的净利润为58，991，018.28元...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-23",
-      "time": "13:23",
-      "keywords": []
-    },
-    {
-      "title": "雪人集团：2026年半年度营业收入同比增长27.60%",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-23/doc-inipiiqn2392338.shtml",
-      "content": "8月23日，雪人集团发布2026年半年度报告摘要称，公司2026年半年度实现营业收入1，225，421，101.77元，同比增长27.60%；归属于上市公司股东的净利润为6，188，658.31元...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-23",
-      "time": "13:23",
-      "keywords": []
-    },
-    {
-      "title": "西菱动力：2026年半年度归属于上市公司股东的净利润同比增长15.66%",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-23/doc-inipiiqn2393559.shtml",
-      "content": "8月23日，西菱动力发布2026年半年度报告称，公司2026年半年度实现营业收入943，869，966.24元，同比增长9.06%；归属于上市公司股东的净利润为64，609，430.75元...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-23",
-      "time": "13:23",
-      "keywords": []
-    },
-    {
-      "title": "依米康：2026年半年度归属于上市公司股东的净利润同比增长40.74%",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-23/doc-inipiiqq6724250.shtml",
-      "content": "证券日报网讯 8月23日，依米康发布2026年半年度报告摘要称，公司2026年半年度实现营业收入918，853，828.53元，同比增长24.71%；归属于上市公司股东的净利润为20，992...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-23",
-      "time": "13:23",
-      "keywords": []
-    },
-    {
-      "title": "兴民智通：2026年半年度营业收入同比增长8.39%",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-23/doc-inipiiqm0440524.shtml",
-      "content": "8月23日，兴民智通发布2026年半年度报告摘要称，公司2026年半年度实现营业收入497，250，363.08元，同比增长8.39%；归属于上市公司股东的净利润为-214，201，446.67元。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-23",
-      "time": "13:23",
-      "keywords": []
-    },
-    {
-      "title": "锐新科技：2026年半年度营业收入同比增长29.88%",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-23/doc-inipiiqn2393562.shtml",
-      "content": "8月23日，锐新科技发布2026年半年度报告摘要称，公司2026年半年度实现营业收入375，759，377.34元，同比增长29.88%；归属于上市公司股东的净利润为15，234，393.18元...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-23",
-      "time": "13:23",
-      "keywords": []
-    },
-    {
-      "title": "群兴玩具：2026年半年度营业收入同比增长27.30%",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-23/doc-inipiiqs3496422.shtml",
-      "content": "8月23日，群兴玩具发布2026年半年度报告摘要称，公司2026年半年度实现营业收入223，461，975.75元，同比增长27.30%；归属于上市公司股东的净利润为-48，593，390.33元。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-23",
-      "time": "13:23",
-      "keywords": []
-    },
-    {
-      "title": "泽宇智能：公司将于2026年9月8日召开2026年第三次临时股东会",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-23/doc-inipiiqn2394056.shtml",
-      "content": "8月23日，泽宇智能发布公告称，公司将于2026年9月8日召开2026年第三次临时股东会。（文章来源：证券日报）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-23",
-      "time": "13:23",
-      "keywords": []
-    },
-    {
-      "title": "润贝航科：2026年半年度归属于上市公司股东的净利润同比增长44.82%",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-23/doc-inipiiqs3495473.shtml",
-      "content": "8月23日，润贝航科发布2026年半年度报告摘要称，公司2026年半年度实现营业收入573，209，515.28元，同比增长21.97%；归属于上市公司股东的净利润为111，869，440.13元...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-23",
-      "time": "13:23",
-      "keywords": []
-    },
-    {
-      "title": "新莱福：2026年半年度归属于上市公司股东的净利润同比增长27.50%",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-23/doc-inipiiqs3497937.shtml",
-      "content": "证券日报网讯 8月23日，新莱福发布2026年半年度报告摘要称，公司2026年半年度实现营业收入595，745，142.45元，同比增长32.13%；归属于上市公司股东的净利润为85，684...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-23",
-      "time": "13:23",
-      "keywords": []
-    },
-    {
-      "title": "粤桂股份：2026年半年度归属于上市公司股东的净利润同比增长182.76%",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-23/doc-inipiiqs3494186.shtml",
-      "content": "8月23日，粤桂股份发布2026年半年度报告称，公司2026年半年度实现营业收入2，342，706，476.62元，同比增长72.37%；归属于上市公司股东的净利润为662，784，006.79元...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-23",
-      "time": "13:23",
-      "keywords": []
-    },
-    {
-      "title": "赞宇科技：2026年半年度归属于上市公司股东的净利润同比增长43.32%",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-23/doc-inipiiqm0441628.shtml",
-      "content": "8月23日，赞宇科技发布2026年半年度报告称，公司2026年半年度实现营业收入6，228，410，927.48元，同比下降4.95%；归属于上市公司股东的净利润为139，305，098.62元...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-23",
-      "time": "13:23",
-      "keywords": []
-    },
-    {
-      "title": "雪人集团：公司将于2026年9月9日召开2026年第一次临时股东会",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-23/doc-inipiiqq6723871.shtml",
-      "content": "8月23日，雪人集团发布公告称，公司将于2026年9月9日召开2026年第一次临时股东会。（文章来源：证券日报）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-23",
-      "time": "13:23",
-      "keywords": []
-    },
-    {
-      "title": "五洲医疗：2026年半年度归属于上市公司股东的净利润同比增长46.11%",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-23/doc-inipiiqn2394555.shtml",
-      "content": "8月23日，五洲医疗发布2026年半年度报告摘要称，公司2026年半年度实现营业收入203，045，041.05元，同比下降6.40%；归属于上市公司股东的净利润为15，363，370.79元...",
       "priority": "low",
       "sectors": [
         "综合"
