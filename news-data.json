@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-23T07:18:04.415081",
+  "updated": "2026-08-23T09:00:43.670536",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,25 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 13,
-    "medium": 52,
+    "high": 14,
+    "medium": 51,
     "low": 85
   },
   "items": [
+    {
+      "title": "下周影响市场重要资讯前瞻",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/jjxw/2026-08-23/doc-iniphwys2447373.shtml",
+      "content": "下周，英伟达、拼多多、美团等将披露财报；韩国央行将公布利率决议；美国财长贝森特新闻发布会、美联储主席沃什杰克逊霍尔演讲及美国7月PCE物价指数等重要数据将公布；央行...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-23",
+      "time": "07:39",
+      "keywords": []
+    },
     {
       "title": "【本文系数据通用户提前专享】破产重整在遴选产业投资人与财务投资人时，如何平衡市场与监管的边界",
       "source": "财新",
@@ -219,6 +233,105 @@
       "keywords": [
         "华尔街原声"
       ]
+    },
+    {
+      "title": "十大机构看后市：调整无需悲观，还有再度上攻能力，9月反弹延续",
+      "source": "股市直击",
+      "url": "https://finance.sina.com.cn/roll/2026-08-23/doc-iniphwys2482796.shtml",
+      "content": "本周三大指数调整，上证指数跌0.56%，深证成指跌1.81%，创业板指跌2.23%。后市将如何发展？看看机构怎么说。 中信证券：科技股调整不能简单归因于美国长债利率高企...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-23",
+      "time": "08:34",
+      "keywords": []
+    },
+    {
+      "title": "中信证券：科技股调整不能简单归因于美国长债利率高企，背后是AI股远期定价问题",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/roll/2026-08-23/doc-iniphwyr0522998.shtml",
+      "content": "策略聚焦|二次调整的背后 来源：中信证券研究 文|裘翔 高玉森 陈泽平 张铭楷 陈峰 科技股近期的调整不能简单归因于美国长债利率高企...",
+      "priority": "medium",
+      "sectors": [
+        "金融",
+        "AI"
+      ],
+      "period": "morning",
+      "date": "2026-08-23",
+      "time": "08:22",
+      "keywords": []
+    },
+    {
+      "title": "兴证策略张启尧团队：9月将是科技重要的决胜窗口",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-23/doc-iniphwyw3618869.shtml",
+      "content": "来源：尧望后势 一、9月将是科技重要的决胜窗口 近期，飙升的美长债利率再度成为全球资产的定价锚，打断了8月以来科技股引领的修复，市场对后续权益资产...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-23",
+      "time": "08:13",
+      "keywords": []
+    },
+    {
+      "title": "方正策略：逢低布局，继续关注三方面配置机会",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/roll/2026-08-23/doc-iniphwyw3619129.shtml",
+      "content": "来源：方正证券研究所于2026年8月21日发布的报告《一周复盘与前瞻：静待新的布局机会 1、市场回顾：本周（2026/8/17-2026/8/21），市场先扬后抑，万得全A全周收跌1.5%...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-23",
+      "time": "08:00",
+      "keywords": []
+    },
+    {
+      "title": "控股长安基金一周即换帅，万联证券多重经营压力待解",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/fund/2026-08-23/doc-iniphwyu6846254.shtml",
+      "content": "来源：证券之星 作为广州市属国资控股的全牌照中型券商，万联证券近年持续推进业务布局扩张，于2026年8月正式获批控股长安基金，补齐公募业务牌照短板。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-23",
+      "time": "07:00",
+      "keywords": []
+    },
+    {
+      "title": "业绩刚回暖，洁雅股份二股东趁势减持“套现”，股价仍处深度破发",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/s/2026-08-23/doc-iniphwyw3617641.shtml",
+      "content": "来源：证券之星 8月18日，洁雅股份（301108.SZ）再度披露二股东减持计划，明源基金及其一致行动人拟在未来三个月内减持不超过561.66万股，占总股本4.99%...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-23",
+      "time": "07:00",
+      "keywords": []
+    },
+    {
+      "title": "益生股份中报：盈利规模远逊历史高点，毛利率七年间“断崖式”下降",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/s/2026-08-23/doc-iniphwyu6844534.shtml",
+      "content": "来源：证券之星 受益于白羽肉鸡行业景气度上行，白羽鸡行业龙头益生股份（002458.SZ）近日交出了一份“亮眼”的成绩单。今年上半年，公司“营利双增”...",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-08-23",
+      "time": "07:00",
+      "keywords": []
     },
     {
       "title": "【广发策略】4.7%的美债再成焦点，究竟如何影响权益定价？",
@@ -770,146 +883,6 @@
       ]
     },
     {
-      "title": "中信证券：首次覆盖首钢朗泽给予“买入”评级 目标价高达44港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-23/doc-iniphnkv0661847.shtml",
-      "content": "中信证券发布研报称，首次覆盖首钢朗泽（02553），给予“买入”评级，目标价高达44港元，相较研报发布时的26.38港元还有66.79%的上涨空间，随着新项目逐步投产...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-23",
-      "time": "04:38",
-      "keywords": [
-        "中信证券",
-        "首钢朗泽",
-        "目标价"
-      ]
-    },
-    {
-      "title": "小摩：极兔速递-W维持“增持”评级 目标价升至14港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-23/doc-iniphnkv0661112.shtml",
-      "content": "摩根大通发表研究报告指，极兔速递-W（01519）中期业绩向好，是该行所评中国物流股份中唯一同时实现业绩超越预期及上调指引的公司，期内收入同比增长39.5%至76.7亿美元...",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-08-23",
-      "time": "04:37",
-      "keywords": [
-        "小摩",
-        "极兔速递-W",
-        "目标价"
-      ]
-    },
-    {
-      "title": "美银证券：华能国际电力股份目标价下调至4.9港元 重申“跑输大市”评级",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-23/doc-iniphnky7023971.shtml",
-      "content": "美银证券发布研报称，华能国际电力股份（00902）管理层于上半年业绩会议中提到燃料成本居高不下，且对电价前景未有过多评论，因此无法为近期盈利拐点提供实际支持。",
-      "priority": "medium",
-      "sectors": [
-        "能源"
-      ],
-      "period": "night",
-      "date": "2026-08-23",
-      "time": "04:36",
-      "keywords": [
-        "美银证券",
-        "华能国际电力股份",
-        "跑输大市"
-      ]
-    },
-    {
-      "title": "美银证券：福耀玻璃重申“买入”评级 目标价下调至71港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-23/doc-iniphnky7023599.shtml",
-      "content": "美银证券发布研报称，福耀玻璃（03606）2026年第二季收入116亿元人民币（下同），年度同比持平、季度环比升11%，较该行预期低5%；毛利率年度同比升1.7个百分点至40.2%...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-23",
-      "time": "04:35",
-      "keywords": [
-        "美银证券",
-        "福耀玻璃",
-        "目标价"
-      ]
-    },
-    {
-      "title": "大和：康诺亚-B重申“买入”评级 目标价上调至110港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-23/doc-iniphnky7023213.shtml",
-      "content": "大和发布研报称，康诺亚-B（02162） 2026上半年业绩大致符合先前盈利预告及该行估计。管理层将Stapokibart 2026年销售指引上调至8.5亿元人民币。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-23",
-      "time": "04:34",
-      "keywords": [
-        "大和",
-        "康诺亚-B",
-        "目标价"
-      ]
-    },
-    {
-      "title": "花旗：石药集团给予“买入”评级 目标价升至14港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-23/doc-iniphnky7022719.shtml",
-      "content": "花旗发布研报称，该行将石药集团（01093）目标价由11.5港元升至14港元，评级“买入”。 石药上半年应占净利润61亿元人民币，同比增长139%，处于盈利预告区间的高位。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-23",
-      "time": "04:33",
-      "keywords": [
-        "花旗",
-        "石药集团",
-        "目标价"
-      ]
-    },
-    {
-      "title": "瑞银：石药集团重申“买入”评级 目标价上调至11.80港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-23/doc-iniphnky7021053.shtml",
-      "content": "瑞银发布研报称，该行表示，由于石药集团（01093）近期的研发开支上升，加上原料药和功能食品业务收入预测下调，将公司2026及2027财年的每股盈利预测分别下调6%及7%。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-23",
-      "time": "04:30",
-      "keywords": [
-        "瑞银",
-        "石药集团",
-        "目标价"
-      ]
-    },
-    {
-      "title": "花旗：中国电信维持“买入”评级 目标价5.70港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-08-23/doc-iniphnky7020820.shtml",
-      "content": "花旗发布研报称，维持中国电信（00728）“买入”评级，目标价5.7港元。该行指中国电信二季度收入年度同比跌5%，低于该行及市场预期；EBITDA年度同比跌8%...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-23",
-      "time": "04:29",
-      "keywords": []
-    },
-    {
       "title": "机构对天孚通信2026年全年净利润的一致预期约为33亿至36亿元，上半年仅完成约33%至36%",
       "source": "财新",
       "url": "https://database.caixin.com/2026-08-22/102477024.html?cxapp_link=true",
@@ -1120,6 +1093,20 @@
       ]
     },
     {
+      "title": "拟融资800亿，股价下跌8%：阿里的烧钱困局，藏着最大的战略矛盾",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/world/2026-08-23/doc-iniphwyu6846640.shtml",
+      "content": "来源：大江南证券 阿里又要融资了，这次是800亿港元，周五美股应声大跌超过8%。盘面剧烈下挫的背后，不是简单的情绪恐慌，而是二级市场投资者积攒多年的质疑集中爆发：几次...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-08-23",
+      "time": "08:09",
+      "keywords": []
+    },
+    {
       "title": "阿里拟配售新股，全部投入AI建设",
       "source": "新浪科技",
       "url": "https://finance.sina.com.cn/stock/relnews/2026-08-23/doc-iniphssw6920508.shtml",
@@ -1281,20 +1268,6 @@
       "period": "night",
       "date": "2026-08-23",
       "time": "04:43",
-      "keywords": []
-    },
-    {
-      "title": "韦东奕下架练习册，四天销售额超100万元",
-      "source": "第一财经",
-      "url": "https://finance.sina.com.cn/china/2026-08-23/doc-iniphnky7028705.shtml",
-      "content": "本文字数：525，阅读时长大约1分钟 来源 |蓝鲸新闻 封面图来源 |韦东奕B站账号截图 时隔四天，韦东奕下架了带货链接。 蓝鲸记者发现，8月22日晚...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-23",
-      "time": "04:35",
       "keywords": []
     },
     {
