@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-24T19:15:26.299819",
+  "updated": "2026-08-24T21:02:18.908074",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,25 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 20,
-    "medium": 26,
-    "low": 104
+    "high": 19,
+    "medium": 28,
+    "low": 103
   },
   "items": [
+    {
+      "title": "美国国债：尾盘逼近日内高位 油价下跌叠加现金储备回购报道发酵",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnith2525168.shtml",
+      "content": " 周一美国国债小幅收涨，尾盘接近日内高点。市场最初受到油价下跌刺激，随后有关财政部可能动用存放在美联储的现金账户来进行债券回购之报道推动了涨势扩大。",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-08-24",
+      "time": "20:41",
+      "keywords": []
+    },
     {
       "title": "欧洲债市：长期欧洲政府债券小幅上涨 追随美国国债走势",
       "source": "环球市场播报",
@@ -94,34 +108,6 @@
       "period": "noon",
       "date": "2026-08-24",
       "time": "14:28",
-      "keywords": []
-    },
-    {
-      "title": "国内金价重回1000元大关，后市怎么走？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/hyyj/2026-08-24/doc-inipmsvq2791970.shtml",
-      "content": "来源：国际金融报 8月以来，国内外黄金市场开启强势上涨行情，金价持续突破关键整数关口。 8月24日，国际金价再度攀升。截至记者发稿，伦敦金现报4643.62美元/盎司...",
-      "priority": "high",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "noon",
-      "date": "2026-08-24",
-      "time": "14:02",
-      "keywords": []
-    },
-    {
-      "title": "国民信托获批增资至40亿元，不涉及新增股东引入，助贷业务规模已压降",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-24/doc-inipmsvq2776482.shtml",
-      "content": "来源：北京商报 增资事项被驳回近十年后，这家信托公司获批增资。8月24日，国民信托有限公司（以下简称“国民信托”）官网发布关于变更注册资本事项获监管核准的公告...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-24",
-      "time": "13:53",
       "keywords": []
     },
     {
@@ -317,6 +303,76 @@
       ]
     },
     {
+      "title": "美国股市：标普500指数收低 芯片股再遭抛售 英伟达录得七连跌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnith2528445.shtml",
+      "content": "美股标普500指数周一下跌，芯片股遭到抛售，盖过油价回落带来的提振。 英伟达连续第七天下跌，创下2022年以来最长连跌纪录。 虽然英伟达本周将公布的财报可能再次凸显其行...",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-08-24",
+      "time": "20:55",
+      "keywords": []
+    },
+    {
+      "title": "8月25日收盘：科技板块承压，纳指收跌0.76% 市场关注英伟达财报",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnite5750416.shtml",
+      "content": "美股周一涨跌不一，关键科技股的跌幅盖过了国债收益率下行的影响。 道指涨140.14点，涨幅为0.26%，报53417.16点；标普500指数跌21.51点，跌幅为0.28%，报7652...",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-08-24",
+      "time": "20:33",
+      "keywords": []
+    },
+    {
+      "title": "8月25日热门中概股多数下跌，台积电跌超2%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnisy9793449.shtml",
+      "content": "8月25日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）跌1.66%。 上涨个股（按市值从高到低）：联电涨3.87%，新东方涨1.01%，名创优品涨0.86%...",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-08-24",
+      "time": "20:21",
+      "keywords": []
+    },
+    {
+      "title": "高盛和富国等华尔街机构称 财政部回购难以压低长期美债收益率",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-25/doc-inipncmh5866282.shtml",
+      "content": "高盛、富国等华尔街机构的利率策略师表示，美国财政部的国债回购对于扭转长期美债收益率的飙升作用有限。 尽管10年期和30年期美债收益率在财政部周三宣布扩大回购计划后一...",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-08-24",
+      "time": "19:29",
+      "keywords": []
+    },
+    {
+      "title": "纽约汇市：美元兑主要货币全线上涨 加元跌幅居前",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-25/doc-inipncmh5863772.shtml",
+      "content": "美元周一兑所有G-10货币上涨，加元跌幅居前。在美国财政部长贝森特公布孤立伊朗经济的计划前后，美元均维持强势。 彭博美元即期指数上涨0.2%，部分收复上周0...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-24",
+      "time": "19:18",
+      "keywords": []
+    },
+    {
       "title": "欧洲股市本周开局基本走平 交易员的目光转向经济数据",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-25/doc-inipmxce9974961.shtml",
@@ -469,49 +525,6 @@
       "period": "noon",
       "date": "2026-08-24",
       "time": "14:14",
-      "keywords": []
-    },
-    {
-      "title": "多位知名基金经理调仓！半导体投资有了“新审美”",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/roll/2026-08-24/doc-inipmsvk1938261.shtml",
-      "content": "21世纪经济报道记者 易妍君 随着A股上市公司密集披露回购股份事宜，杨宗昌、张明昕、祁禾等知名基金经理的最新调仓动向浮出水面。",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-08-24",
-      "time": "14:07",
-      "keywords": []
-    },
-    {
-      "title": "“易中天”，二季度赚更多！",
-      "source": "上海证券报·中国证券网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-24/doc-inipmsvh9990243.shtml",
-      "content": "8月24日晚，新易盛披露半年报。公司上半年实现营业收入209.1亿元，同比增长100.34%；实现净利润75.29亿元，同比增长90.98%；扣非净利润75.11亿元，同比增长90.92%。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-24",
-      "time": "14:02",
-      "keywords": []
-    },
-    {
-      "title": "马上消费金融上半年实现营收21.78亿元，净利润3.6亿元",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-24/doc-inipmsvh9977605.shtml",
-      "content": "来源：北京商报 8月24日，重庆重百科技集团股份有限公司发布2026 年半年度报告，其中披露了马上消费金融股份有限公司（以下简称“马上消费金融”）上半年业绩。",
-      "priority": "medium",
-      "sectors": [
-        "消费",
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-08-24",
-      "time": "13:53",
       "keywords": []
     },
     {
@@ -707,6 +720,63 @@
       "keywords": [
         "数据图解"
       ]
+    },
+    {
+      "title": "大宗商品综述：油价回落，伦铜创新高，金价触及逾三个月高位",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnith2528215.shtml",
+      "content": "原油期货回落，美国财长贝森特宣布启动“前所未有”的行动来孤立伊朗并迫使德黑兰放松对霍尔木兹海峡的掌控；伦敦金属交易所期铜收在纪录高位；金价升至逾三个月高位...",
+      "priority": "low",
+      "sectors": [
+        "黄金",
+        "有色"
+      ],
+      "period": "night",
+      "date": "2026-08-24",
+      "time": "20:54",
+      "keywords": []
+    },
+    {
+      "title": "美加贸易争端进一步加剧 特朗普誓言将把加拿大汽车关税翻倍至50%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnith2527528.shtml",
+      "content": "美国总统特朗普誓言自明年起把加拿大汽车及零部件关税提高一倍，此举将令两国贸易争端进一步加剧。 特朗普周一发帖称，“所有汽车、卡车（无论大小）...",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-08-24",
+      "time": "20:51",
+      "keywords": []
+    },
+    {
+      "title": "原油：油价回落 交易员权衡美国旨在孤立伊朗的空前制裁行动",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-25/doc-inipnite5752115.shtml",
+      "content": "原油期货回落，美国财长贝森特宣布启动一场“前所未有”的行动，以孤立伊朗并迫使德黑兰放松对霍尔木兹海峡的掌控。 贝森特威胁称，任何继续与伊朗开展商业往来的国家都可能...",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-08-24",
+      "time": "20:39",
+      "keywords": []
+    },
+    {
+      "title": "贝森特接连出手触动市场神经 华尔街为何重新聚焦“贬值交易”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-25/doc-inipncmk2640727.shtml",
+      "content": " 美国政治和财政的不确定性正促使投资者再度对美元感到不安。随着部分投资者抛售美元，比特币和黄金等替代资产价格大幅上涨。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-24",
+      "time": "19:36",
+      "keywords": []
     },
     {
       "title": "伊朗：已做好应对美国新一轮经济攻势的“充分准备”",
@@ -1028,77 +1098,6 @@
       "period": "noon",
       "date": "2026-08-24",
       "time": "14:18",
-      "keywords": []
-    },
-    {
-      "title": "【现货异动】醋酸甲酯单日暴涨3.1%！下游需求回暖+原料成本抬升，供应偏紧引爆行情",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-24/doc-inipmsvi0007998.shtml",
-      "content": "据同花顺iFinD数据显示，现货商品乙酸甲酯8月24日最新价格4150.00元/吨，单日上涨3.11%，最近一周上涨4.4%，一个月累计上涨3.11%。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-24",
-      "time": "14:07",
-      "keywords": []
-    },
-    {
-      "title": "和元生物上半年实现营收1.22亿元 新签CDMO订单超1.5亿元",
-      "source": "中证网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-24/doc-inipmsvq2788888.shtml",
-      "content": "中证报中证网讯(记者黄一灵)8月24日晚间，和元生物发布2026年半年度报告。公告显示，2026年上半年，和元生物实现营业收入1.22亿元，同比增长1.61%；实现归母净利润-1...",
-      "priority": "low",
-      "sectors": [
-        "医药"
-      ],
-      "period": "noon",
-      "date": "2026-08-24",
-      "time": "14:05",
-      "keywords": []
-    },
-    {
-      "title": "加州总检察长以“缺乏诚意”为由取消与派拉蒙的和解会谈",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-24/doc-inipmsvk1930092.shtml",
-      "content": "核心要点加州总检察长罗布・邦塔取消了原定周一与派拉蒙的会面，此次会面本意在商讨派拉蒙对华纳兄弟探索公司的收购交易。邦塔牵头多个州，以反垄断为由提起诉讼...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-24",
-      "time": "13:56",
-      "keywords": []
-    },
-    {
-      "title": "铂力特拟每10股派息0.288元",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-08-24/doc-inipmsvq2783198.shtml",
-      "content": "8月24日，铂力特（688333）发布公告，公司拟向全体股东每10股派发现金红利0.288元（含税），预计总派发金额为790万元。2026年中期，铂力特实现收入7.70亿元...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-24",
-      "time": "13:55",
-      "keywords": []
-    },
-    {
-      "title": "新易盛Q2净利环比增7成 产品毛利率略高于中际旭创",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/wbstock/2026-08-24/doc-inipmsvh9989649.shtml",
-      "content": "来源：@财联社APP微博财联社8月24日讯（记者 付静）受益于人工智能算力投资的发展，光模块热门股新易盛（300502.SZ）今年上半年销售收入较上年同期增加。",
-      "priority": "low",
-      "sectors": [
-        "光模块",
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-08-24",
-      "time": "13:53",
       "keywords": []
     },
     {
