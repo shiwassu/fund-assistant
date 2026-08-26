@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T18:20:33.555343",
+  "updated": "2026-08-26T21:10:14.867608",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,9 +7,9 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 28,
-    "medium": 27,
-    "low": 95
+    "high": 25,
+    "medium": 26,
+    "low": 99
   },
   "items": [
     {
@@ -178,48 +178,6 @@
       "period": "noon",
       "date": "2026-08-26",
       "time": "14:29",
-      "keywords": []
-    },
-    {
-      "title": "美国股市早盘基本走平 投资者静候英伟达财报",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezh0808181.shtml",
-      "content": "美国股市早盘基本走平，最新经济数据几乎没有改变市场对美联储将在年底前加息的押注，同时投资者焦急等待英伟达财报。 纽约时间9：43，美国三大股指期货基本持平。",
-      "priority": "high",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-08-26",
-      "time": "14:26",
-      "keywords": []
-    },
-    {
-      "title": "美国关键通胀指标温和上涨 实际消费支出停滞",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezr5954281.shtml",
-      "content": "美国7月消费者支出陷入停滞，一项备受关注的通胀指标则符合预期，为美联储维持利率不变提供了更多空间。 美国经济分析局周三公布的数据显示，继5月和6月强劲增长后...",
-      "priority": "high",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-08-26",
-      "time": "14:11",
-      "keywords": []
-    },
-    {
-      "title": "财政贴息大升级！六大行集体公告明确政策细节",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/roll/2026-08-26/doc-inipsezr5949357.shtml",
-      "content": "下半年有望继续加码。 自今年8月1日起，流动资金贷款也能享受财政贴息了。近两日，国有六大行陆续针对中小微企业贷款和服务业经营主体贷款贴息政策的热点问题发布答疑文章...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-26",
-      "time": "14:03",
       "keywords": []
     },
     {
@@ -431,6 +389,62 @@
       ]
     },
     {
+      "title": "纽约汇市：个人消费支出价格指数符合预期 美元延续涨势",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-27/doc-inipsvwy0539369.shtml",
+      "content": "在一项备受关注的美国物价指数表现基本符合预期之后，纽约汇市周三美元兑大多数G10货币延续了早些时候的涨势。 彭博美元现货指数一度上涨0.2%至1195.47，随后涨幅收窄...",
+      "priority": "medium",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-08-26",
+      "time": "20:33",
+      "keywords": []
+    },
+    {
+      "title": "8月27日热门中概股多数下跌 网易跌超4% BOSS直聘涨超15%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-27/doc-inipsvxf5693148.shtml",
+      "content": "8月26日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）收跌0.61%。 上涨个股（按市值从高到低）：台积电涨0.06%，阿里巴巴涨0.33%，日月光半导体涨0.50%，富途控股涨1...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-26",
+      "time": "20:19",
+      "keywords": []
+    },
+    {
+      "title": "8月27日美股收盘：三大指数小幅收跌 7月PCE物价指数显示通胀仍处高位",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-27/doc-inipsvxf9070349.shtml",
+      "content": "美股三大指数周三小幅收跌，7月个人消费支出物价指数（PCE）数据显示通胀仍处高位。 道指跌113.51点，跌幅为0.21%，报53463.87点；标普500指数跌1.58点，跌幅为0.02%...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-26",
+      "time": "20:10",
+      "keywords": []
+    },
+    {
+      "title": "IDC预测苹果折叠屏iPhone第一年出货量将超过1000万部",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-27/doc-inipsrrm5920375.shtml",
+      "content": " 研究机构IDC预计，苹果备受期待的折叠屏iPhone将帮助折叠屏智能手机市场摆脱下滑，并在上市首年实现超过1000万部的出货量。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-26",
+      "time": "19:24",
+      "keywords": []
+    },
+    {
       "title": "欧洲股市基本持稳等待英伟达财报 银行股走高",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipsmim5882429.shtml",
@@ -569,76 +583,6 @@
       "period": "noon",
       "date": "2026-08-26",
       "time": "14:31",
-      "keywords": []
-    },
-    {
-      "title": "Victory Capital以70亿美元收购信贷管理公司First Eagle",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezp5966265.shtml",
-      "content": "美国得克萨斯州投资机构Victory Capital宣布以70亿美元收购纽约信贷管理公司First Eagle。交易完成后，合并后资产管理规模将达5710亿美元...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-26",
-      "time": "14:26",
-      "keywords": []
-    },
-    {
-      "title": "沛嘉医疗发布2026年中期业绩：TAVR植入量同比增长36.5%",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-08-26/doc-inipsmip5869740.shtml",
-      "content": "本报讯 （记者矫月）近日，沛嘉医疗有限公司（以下简称“沛嘉医疗”或“集团”）发布了截至2026年6月30日止的六个月的中期业绩。2026年上半年，沛嘉医疗商业化进程持续提速...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-26",
-      "time": "14:15",
-      "keywords": []
-    },
-    {
-      "title": "积金评级料8月强积金人均暂赚6258元 人民币债券创历来最佳回报",
-      "source": "观点地产网",
-      "url": "https://finance.sina.com.cn/stock/estate/integration/2026-08-26/doc-inipsezh0805111.shtml",
-      "content": "观点网讯：8月26日，强积金研究机构积金评级发布8月强积金收益及人民币债券回报预测。截至8月21日，强积金录约1.85%的投资增长，年初至今回报达8.21%。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-26",
-      "time": "14:09",
-      "keywords": []
-    },
-    {
-      "title": "海外产能全球独一份 龙蟠科技半年收入翻倍",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-08-26/doc-inipsezr5994132.shtml",
-      "content": "8月26日，龙蟠科技（603906.SH，02465.HK）发布了2026年半年报，上半年公司实现营业收入71.98亿元，同比大幅增长98.75%，归母净利润为4.21亿元，实现扭亏为盈。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-26",
-      "time": "14:02",
-      "keywords": []
-    },
-    {
-      "title": "昆仑能源2026年中期业绩发布！一图带您读→",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-08-26/doc-inipsezp9200886.shtml",
-      "content": "·8月26日，昆仑能源有限公司2026年中期业绩发布会在香港圆满举行。公司董事会主席刘国海携管理团队出席会议并发表致辞。本次会议吸引来自线下及线上的55位机构投资者及分析...",
-      "priority": "medium",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-08-26",
-      "time": "14:01",
       "keywords": []
     },
     {
@@ -832,6 +776,146 @@
       "keywords": [
         "家庭财富"
       ]
+    },
+    {
+      "title": "市场反应冷淡 英伟达超预期的财测没能让所有投资者都感到满意",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-27/doc-inipsvwy0543687.shtml",
+      "content": "英伟达发布的营收展望令一些投资者感到失望，加剧了市场对人工智能支出势头何以为继的担忧。 该公司周三在公告中预计，本财季营收将达到1080亿美元，且可能上下浮动2%。",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-08-26",
+      "time": "20:45",
+      "keywords": []
+    },
+    {
+      "title": "巴克莱：美国国库券市场可以消化更大规模的国债回购",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-27/doc-inipsvxf5696354.shtml",
+      "content": " 巴克莱表示，美国国库券市场能够消化扩大债券回购规模所带来的影响，而短期债务发行的上限取决于美国财政部是否愿意继续扩大这一市场。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-08-26",
+      "time": "20:31",
+      "keywords": []
+    },
+    {
+      "title": "英伟达Q2营收962亿美元同比增106%，数据中心营收890亿美元同比增长117%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-27/doc-inipsvwy0538177.shtml",
+      "content": "英伟达今日公布截至2026年7月26日的第二季度营收为962亿美元，环比增长18%，同比增长106%。本季度GAAP和非GAAP毛利率均为75.0%。",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-08-26",
+      "time": "20:30",
+      "keywords": []
+    },
+    {
+      "title": "Meta与美国多州就社交媒体危害案达成和解 最高将支付约180亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-27/doc-inipsvxf9038270.shtml",
+      "content": "Meta Platforms Inc．表示，同意支付最高约180亿美元，与美国多个州就具有里程碑意义的案件达成和解，以解决有关该公司故意将Facebook和Instagram设计成诱导年轻用户形成强...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-26",
+      "time": "20:01",
+      "keywords": []
+    },
+    {
+      "title": "卡塔尔外交大臣将访伊朗 讨论斡旋努力及地区局势",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-27/doc-inipsvxf9023629.shtml",
+      "content": " 据伊朗外交部发布的消息，卡塔尔首相兼外交大臣Sheikh Mohammed bin Abdulrahman Al Thani将于周四访问德黑兰，讨论“卡塔尔的斡旋努力和倡议，以及其他地区局势发展”。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-26",
+      "time": "19:35",
+      "keywords": []
+    },
+    {
+      "title": "美国盟友质疑特朗普关于霍尔木兹海峡已无水雷的说法",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-08-27/doc-inipsrri9153876.shtml",
+      "content": " 美国盟友私下警告称霍尔木兹海峡很可能仍有水雷，他们对于特朗普有关美军已将伊朗布设的爆炸物全部清除并引爆的说法感到怀疑。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-26",
+      "time": "19:34",
+      "keywords": []
+    },
+    {
+      "title": "投资公司Kimmeridge：美国拟建的数据中心可能半数面临延期或取消风险",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipsrrm5906455.shtml",
+      "content": " 投资公司Kimmeridge Energy Management表示，由于政治反对情绪升温以及实体基础设施建设本身的复杂性，美国拟建的数据中心最多半数面临延期或取消风险。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-26",
+      "time": "18:58",
+      "keywords": []
+    },
+    {
+      "title": "特朗普的贸易行动冲击关键州 共和党中期选举面临更大压力",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipsrri9133184.shtml",
+      "content": " 美国总统特朗普最新引发的贸易动荡，有可能会加深共和党在11月份中期选举中的困境。在共和党奋力保住参议院多数党地位之际，也给该党参议员候选人增添了一项经济难题。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-26",
+      "time": "18:56",
+      "keywords": []
+    },
+    {
+      "title": "美国5年期国债中标收益率略高于发行前水平 延续疲弱势头",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipsrri9111694.shtml",
+      "content": "美国财政部发行700亿美元的五年期国债中标收益率4.393%，纽约时间下午1点投标截止时的发行前交易水平为4.391%，表明需求略低于预期。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-26",
+      "time": "18:23",
+      "keywords": []
+    },
+    {
+      "title": "Anthropic将向Nscale支付450亿美元租用人工智能算力",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipsrri9111404.shtml",
+      "content": "Anthropic同意斥资450亿美元，租用Nscale位于西弗吉尼亚州主要数据中心项目的AI算力。 Nscale将采用英伟达Vera Rubin芯片来满足Anthropic的需求...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-26",
+      "time": "18:23",
+      "keywords": []
     },
     {
       "title": "苹果将于9月9日发布首款折叠式手机",
@@ -1030,90 +1114,6 @@
       "period": "noon",
       "date": "2026-08-26",
       "time": "14:27",
-      "keywords": []
-    },
-    {
-      "title": "专访高通6G规划师：6G终端专为AI而生，运营商模式Token即服务",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-26/doc-inipsezr5961972.shtml",
-      "content": "新浪科技郑峻 发自美国圣地亚哥 AI时代将给移动通信和设备计算带来怎样的剧变？这个问题，或许移动通信巨头高通是最有发言权的。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-08-26",
-      "time": "14:20",
-      "keywords": []
-    },
-    {
-      "title": "浙商银行上半年营收增长0.02%，利息净收入同比下降3.01%",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-26/doc-inipsezr5960230.shtml",
-      "content": "8月26日晚间，浙商银行（601916.SH）发布2026年半年度报告。澎湃新闻记者 彭艳秋",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-08-26",
-      "time": "14:17",
-      "keywords": []
-    },
-    {
-      "title": "【现货异动】乙酸甲酯单日暴涨3.6%！下游需求井喷+供应偏紧，价格创月内新高",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-26/doc-inipsezh0805836.shtml",
-      "content": "据同花顺iFinD数据显示，现货商品乙酸甲酯8月26日最新价格4300.00元/吨，单日上涨3.61%，最近一周上涨6.83%，一个月累计上涨6.83%。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-26",
-      "time": "14:07",
-      "keywords": []
-    },
-    {
-      "title": "市值4300亿元“创新药一哥”，净利暴增六倍！",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-08-26/doc-inipsezp5958168.shtml",
-      "content": "每经记者|黄胜每经编辑|张益铭 百济神州（SH688235，股价279.00元，市值4302.98亿元）8月26日发布2026年半年度报告。报告显示，2026年上半年公司实现营业收入222.20亿元...",
-      "priority": "low",
-      "sectors": [
-        "医药"
-      ],
-      "period": "noon",
-      "date": "2026-08-26",
-      "time": "14:03",
-      "keywords": []
-    },
-    {
-      "title": "极狐阿尔法T7预售：可选华为乾崑ADS 5 Pro，13.78万-17.48万元",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/t/2026-08-26/doc-inipsezp5963510.shtml",
-      "content": "（来源：IT之家）IT之家 8 月 26 日消息，极狐新车“智美 AI 越级大五座 SUV”阿尔法 T7 今天（26 日）晚间正式开启预售，新车提供增程、纯电两种动力...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-26",
-      "time": "14:02",
-      "keywords": []
-    },
-    {
-      "title": "弘亚数控上半年营收增长21.75% 全球化布局+智能制造双轮驱动高质量发展",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-26/doc-inipsezp5972784.shtml",
-      "content": "8月26日，弘亚数控（002833.SZ）发布2026年半年度报告。报告期内，公司实现营业收入15.03亿元，同比增长21.75%；归属于上市公司股东的净利润2.55亿元，同比增长5...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-26",
-      "time": "14:02",
       "keywords": []
     },
     {
