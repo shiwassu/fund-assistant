@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-26T16:03:30.637893",
+  "updated": "2026-08-26T18:20:33.555343",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,53 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 29,
-    "medium": 25,
-    "low": 96
+    "high": 28,
+    "medium": 27,
+    "low": 95
   },
   "items": [
+    {
+      "title": "PCE通胀呈现黏性，美联储内部分歧加剧，杰克逊霍尔年会临近",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipsmie0734571.shtml",
+      "content": "美联储优先参考的通胀指标显示，7 月物价依旧存在通胀黏性。本周，政策制定者齐聚怀俄明州杰克逊霍尔参加年度经济研讨会，该数据进一步放大了美联储内部关于是否加息的意见...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-26",
+      "time": "17:02",
+      "keywords": []
+    },
+    {
+      "title": "我们真能靠“经济增长化解”40万亿美元国债吗？一位经济学家直言：“美国毫无机会”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipsmie0727697.shtml",
+      "content": "上周美国国债总规模突破 40 万亿美元，这个整数里程碑引发主流媒体广泛关注。与此同时，财政部长斯科特・贝森特正经历新闻舆论的难熬一周...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-26",
+      "time": "16:45",
+      "keywords": []
+    },
+    {
+      "title": "迪克体育用品股价暴跌，暴露出陷入困境的耐克面临一大核心难题",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipsmim9169747.shtml",
+      "content": " 从重要合作方迪克体育用品本周披露的情况来看，在原本被寄予厚望的首席执行官埃利奥特・希尔执掌之下，耐克业绩持续低迷的局面，短期内恐怕难以结束。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-26",
+      "time": "16:39",
+      "keywords": []
+    },
     {
       "title": "欧洲债市：欧债追随美债下跌 交易员加大对欧洲央行加息的押注",
       "source": "环球市场播报",
@@ -178,64 +220,6 @@
       "period": "noon",
       "date": "2026-08-26",
       "time": "14:03",
-      "keywords": []
-    },
-    {
-      "title": "英伟达 2000 亿美元规模的 “资产负债表即服务”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezp5954511.shtml",
-      "content": " 摩根士丹利企业信用团队一份关于英伟达的研报指出：对于一家5万亿美元级别的“现金机器”而言，千亿美元级别的客户补贴或许看似不算什么，但依旧值得警惕。",
-      "priority": "high",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-08-26",
-      "time": "13:57",
-      "keywords": []
-    },
-    {
-      "title": "13亿资金，抢筹精密制造龙头",
-      "source": "中国证券报-中证网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-26/doc-inipsezp9180529.shtml",
-      "content": "8月26日，A股三大指数集体收涨，主力资金净流入51.82亿元。从行业看，电子、电力设备、有色金属、非银金融、计算机等行业成为资金回流的主要方向；通信、银行...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-26",
-      "time": "13:57",
-      "keywords": []
-    },
-    {
-      "title": "CBCX:黄金突破仍需资金持续验证",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-08-26/doc-inipsezp9166562.shtml",
-      "content": "8月26日，价格结构出现新的观察点，黄金突破关键技术区间后，投机仓位和宏观预期成为短期上涨的重要动力。CBCX表示，单日变化需要放在更长时间窗口内比较...",
-      "priority": "high",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "noon",
-      "date": "2026-08-26",
-      "time": "13:56",
-      "keywords": [
-        "黄金"
-      ]
-    },
-    {
-      "title": "ETF日报：市场成交额或已现阶段性低点，进一步下行空间或有限",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-08-26/doc-inipsezr5937189.shtml",
-      "content": "今日A股三大指数集体收涨。截至收盘，上证指数报3912.52点，涨0.59%；深证成指涨0.69%；创业板指涨0.51%；科创50收涨1.71%。A股全天成交1.82万亿元，较上日的1...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-26",
-      "time": "13:54",
       "keywords": []
     },
     {
@@ -445,6 +429,35 @@
       "keywords": [
         "周刊提前读"
       ]
+    },
+    {
+      "title": "欧洲股市基本持稳等待英伟达财报 银行股走高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipsmim5882429.shtml",
+      "content": "欧洲股市基本持稳，银行股上涨，投资者静待英伟达公布备受瞩目的财报。 斯托克欧洲600指数收盘时变化不大。银行股以及食品和饮料股涨幅居前，医疗保健股则表现落后。",
+      "priority": "medium",
+      "sectors": [
+        "半导体",
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-08-26",
+      "time": "16:36",
+      "keywords": []
+    },
+    {
+      "title": "耐克股价创12年新低",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipsmim9143974.shtml",
+      "content": "服装品牌耐克（股票代码：NKE）周三午间交易价格跌至 12 年来的低位。 受特鲁伊斯特证券下调评级的影响，耐克股价下跌超 2%。该股当前价位上一次出现还要追溯至 2014 年 8...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-26",
+      "time": "16:04",
+      "keywords": []
     },
     {
       "title": "伊朗与俄气公司探讨天然气行业合作",
@@ -821,6 +834,37 @@
       ]
     },
     {
+      "title": "苹果将于9月9日发布首款折叠式手机",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipsmim9194506.shtml",
+      "content": " 苹果公司定于9月9日举行今年最重要的一场产品发布会，这将拉开新任首席执行官John Ternus任期内首场重大新品发布的序幕。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-26",
+      "time": "17:06",
+      "keywords": []
+    },
+    {
+      "title": "苹果官宣2026年秋季发布会 ： 这场，苹果要“亮新篇”",
+      "source": "新浪数码",
+      "url": "https://finance.sina.com.cn/tech/mobile/n/n/2026-08-27/doc-inipsmie0715092.shtml",
+      "content": "每年 9 月苹果开发布会，大家早就摸透了节奏——四款新iPhone、2款新Apple Watch、顺手来个AirPods。但今年可能有点不一样。以至于中文版官宣海报...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-26",
+      "time": "16:10",
+      "keywords": [
+        "苹果",
+        "iPhone"
+      ]
+    },
+    {
       "title": "进退两难：派拉蒙并购案延期，华纳兄弟‑探索身陷僵局",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsmim9126626.shtml",
@@ -1070,51 +1114,6 @@
       "period": "noon",
       "date": "2026-08-26",
       "time": "14:02",
-      "keywords": []
-    },
-    {
-      "title": "小麦价格创三年新高 俄乌在黑海相互袭击导致出口受阻",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-26/doc-inipsezr5939049.shtml",
-      "content": " 由于黑海地区针对船只和基础设施的袭击持续不断，来自全球最大粮仓之一的出口运输受到限制，小麦期货升至三年来最高水平，并再度引发对食品通胀的担忧。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-26",
-      "time": "13:56",
-      "keywords": []
-    },
-    {
-      "title": "CPT Markets:金价上行受益收益率回落",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-08-26/doc-inipsezp5953713.shtml",
-      "content": "8月26日，市场正重新评估短期节奏，黄金在美元走弱和收益率下降的配合下小幅走高，市场同时等待通胀数据。CPT Markets表示，单日变化需要放在更长时间窗口内比较...",
-      "priority": "low",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "noon",
-      "date": "2026-08-26",
-      "time": "13:55",
-      "keywords": [
-        "黄金",
-        "回落"
-      ]
-    },
-    {
-      "title": "西藏自治区四川商会组团赴日喀则商务考察",
-      "source": "",
-      "url": "https://finance.sina.com.cn/roll/2026-08-26/doc-inipsezh0806578.shtml",
-      "content": "（来源：西藏工商联）8月21日，西藏自治区四川商会会长林春福率10位企业家赴日喀则商务考察并座谈。市人大党组副书记、副主任、市工商联主席索朗主持，市委副书记...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-26",
-      "time": "13:55",
       "keywords": []
     },
     {
