@@ -1,5 +1,5 @@
 {
-  "updated": "2026-08-27T15:27:33.617252",
+  "updated": "2026-08-28T01:06:12.317765",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,247 +7,93 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 28,
-    "medium": 28,
-    "low": 94
+    "high": 17,
+    "medium": 32,
+    "low": 101
   },
   "items": [
     {
-      "title": "美股全线上涨，软件巨头涨超21%",
-      "source": "中国证券报-中证网",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-27/doc-inipuqhm9143449.shtml",
-      "content": "当地时间8月27日，美股三大指数全线高开，在英伟达大涨的带动下，半导体、存储、光通信等板块走强。 截至发稿，美股三大指数集体上涨。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "15:10",
-      "keywords": []
-    },
-    {
-      "title": "Okta暴涨20%、CrowdStrike大涨15%，AI威胁升温推高企业业绩",
+      "title": "英伟达股价大涨，黄仁勋身价一夜飙升近150亿美元，跃居富豪榜第六",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipuqhs0665583.shtml",
-      "content": "核心要点受 AI 普及驱动，CrowdStrike 与 Okta 业绩超出华尔街预期并上调业绩指引，股价应声大涨。高级但存在潜在风险的 AI 模型陆续问世...",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "14:34",
-      "keywords": []
-    },
-    {
-      "title": "000016，拟主动退市！",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/s/2026-08-27/doc-inipuqhm9105882.shtml",
-      "content": "8月27日晚间，昔日彩电巨头*ST康佳A（000016）发布公告称，鉴于公司2025年度经审计期末净资产为负值，公司股票已被实施退市风险警示...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "14:25",
-      "keywords": []
-    },
-    {
-      "title": "刚刚，过会！中金公司，重大资产重组！",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-27/doc-inipuqhm9097707.shtml",
-      "content": "中金公司吸收合并东兴证券、信达证券迎来里程碑时刻。 8月27日，三家券商同步公告，本次重大资产重组交易获得上交所并购重组审核委员会审核通过。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "14:12",
-      "keywords": []
-    },
-    {
-      "title": "巴基斯坦称没有义务遵守针对伊朗的单边制裁 仍愿与伊朗扩大贸易往来",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipuqhm9093926.shtml",
-      "content": "巴基斯坦表示，除非相关制裁由联合国实施，否则该国“没有义务”遵守针对伊朗的单边制裁。这一表态显示，在美国警告与德黑兰开展贸易的国家可能面临经济处罚之际...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "14:12",
-      "keywords": []
-    },
-    {
-      "title": "科技大佬将齐聚G20部长级会议 美国寻求推动AI轻监管共识",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/gjcj/2026-08-27/doc-inipuqhp5865860.shtml",
-      "content": "据知情人士透露，SpaceX首席执行官马斯克和前白宫人工智能事务主管David Sacks定于下周在北卡罗来纳州举行的一场以科技为主题的二十国集团部长级会议上发表讲话。",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "14:11",
-      "keywords": []
-    },
-    {
-      "title": "横扫宿醉做回自己：英伟达盘初大涨6%，强劲长期指引点燃多头情绪",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipuqhp5852173.shtml",
-      "content": "长期以来，英伟达往往陷入一种“财报魔咒”：在极高的估值与市场聚焦下，无论其实际财报是超预期还是大超预期，往往都无法满足华尔街近乎苛刻的胃口与贪婪预期...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-28/doc-inipvmmz4807807.shtml",
+      "content": " 英伟达股价周四大涨了8.7%，此前该公司公布了强劲的第二季度财报和业绩指引。伴随股价飙升，该公司CEO黄仁勋的净资产也大幅增加。",
       "priority": "high",
       "sectors": [
         "半导体"
       ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:59",
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:39",
       "keywords": []
     },
     {
-      "title": "归母净利润暴跌239.04％！光伏玻璃龙头福莱特由盈转亏",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/wbstock/2026-08-27/doc-inipuqhs0655667.shtml",
-      "content": "来源：@华夏时报微博华夏时报（www.chinatimes.net.cn）记者 李佳佳 北京报道近期，光伏玻璃龙头企业福莱特玻璃集团股份有限公司（下称“福莱特”，601865...",
-      "priority": "high",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:56",
-      "keywords": []
-    },
-    {
-      "title": "杭州联合银行获批变更股权 浙江东方持股比例增至7.94%",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-08-27/doc-inipuqhm9073339.shtml",
-      "content": "8月27日金融一线消息，国家金融监督管理总局浙江监管局发布关于杭州联合银行变更股权的批复，同意浙江东方控股集团股份有限公司受让浙江省国际贸易集团有限公司持有的该行8...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:52",
-      "keywords": []
-    },
-    {
-      "title": "比特币站稳79000美元上方 现货ETF连续八日净流入",
+      "title": "沃什在杰克逊霍尔年会讲话前夕 美联储官员就通胀前景释放矛盾信号",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipuqhp5840609.shtml",
-      "content": "比特币价格本周在突破80000美元后持稳于79000美元上方，延续上周强势上涨势头。美国财政部扩大长期国债回购规模的政策持续提振市场风险偏好...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-28/doc-inipvmnh0304132.shtml",
+      "content": "美联储官员在通胀前景问题上继续释放出矛盾信号，一些人认为需要提高利率以抑制价格上涨，另一些人则表示没那么紧迫。 这种意见分化的出现...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:47",
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:20",
       "keywords": []
     },
     {
-      "title": "未来资产集团拟打造1090亿美元加密帝国 聚焦稳定币与RWA赛道",
+      "title": "最新财富报告：全球亿万富豪达3795人创历史新高，AI投资成为财富增长主要推动力",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipuiyr5969254.shtml",
-      "content": "韩国金融巨头未来资产金融集团创始人朴炫柱周四向员工宣布，计划围绕新收购的Digital X（原Korbit交易所）构建规模达150万亿韩元（约合1090亿美元）的数字资产业务版图。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-28/doc-inipvmmz8935223.shtml",
+      "content": " 全球亿万富豪的财富达到前所未有的高度，他们正把资金投入各项用途：收购体育球队、资助慈善事业，并打造影响力更大的平台。",
       "priority": "high",
       "sectors": [
-        "综合"
+        "AI"
       ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:45",
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:12",
       "keywords": []
     },
     {
-      "title": "大资管十年图谱：178万亿背后的座次、投向与收益",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/roll/2026-08-27/doc-inipuqhm5141072.shtml",
-      "content": "21世纪经济报道记者 杨梦雪 截至2025年末，中国大资管行业的总规模达到178.30万亿元，同比增长超13%，延续了上一年的两位数扩张的态势...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:44",
-      "keywords": []
-    },
-    {
-      "title": "会计师事务所职业责任保险新规落地：重点业务保额最高翻倍至1亿元",
-      "source": "上海证券报·中国证券网",
-      "url": "https://finance.sina.com.cn/roll/2026-08-27/doc-inipuiyp9194736.shtml",
-      "content": "上证报中国证券网讯（记者 韩宋辉）财政部、金融监管总局近日联合印发《会计师事务所职业责任保险实施办法》（下称办法），适当提高重点业务领域投保限额...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:37",
-      "keywords": []
-    },
-    {
-      "title": "美联储古尔斯比：三个月通胀看起来并不糟糕",
+      "title": "三星生物制剂拟通过配股募资3万亿韩元",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipuiyp9179110.shtml",
-      "content": " 芝加哥联邦储备银行行长奥斯坦·古尔斯比表示，虽然政策制定者必须密切关注关税和其他价格冲击是否会持续存在，但最新数据显示情况并不“糟糕”。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-28/doc-inipvmmz4794103.shtml",
+      "content": " 三星生物制剂（Samsung Biologics）于周五宣布，将通过配股筹资3万亿韩元（折合21.7亿美元），为其长期增长战略相关投资提供资金。",
       "priority": "high",
       "sectors": [
-        "综合"
+        "医药"
       ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:29",
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:07",
       "keywords": []
     },
     {
-      "title": "美联储理事库克的律师向白宫提交答辩：抵押贷款指控不构成免职理由",
+      "title": "东京通胀小幅走高，为日本央行加息提供支撑",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipuiyu0763853.shtml",
-      "content": "美联储理事丽莎·库克的律师阿贝·洛厄尔8月26日向白宫法律顾问戴维·沃林顿提交约五页书面答辩，回应白宫副幕僚长丹·斯卡维诺8月5日函件。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-28/doc-inipvmmz8915099.shtml",
+      "content": "东京核心通胀指标连续第三个月加速上涨，市场对9月加息的预期升温，这进一步为日本央行再度加息提供依据。 日本总务省周五公布，东京8月剔除生鲜食品的消费者物价指数同比...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-08-27",
-      "time": "13:25",
+      "time": "23:50",
       "keywords": []
     },
     {
-      "title": "3倍牛股，拟10派15元转增4股，今日涨停",
-      "source": "中国证券报",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-08-27/doc-inipuiyp9185378.shtml",
-      "content": "8月27日晚，德明利发布2026年半年度报告。上半年公司实现营业收入169.11亿元，同比增长311.55%；归属于上市公司股东的净利润为60.17亿元，同比扭亏为盈。",
+      "title": "监管趋严审核周期拉长 餐饮企业赴港上市“与时间赛跑”",
+      "source": "证券时报",
+      "url": "https://finance.sina.com.cn/stock/roll/2026-08-28/doc-inipvmnh0290004.shtml",
+      "content": "2026年港股首次公开募股（IPO）市场上演着冰火两重天：一边是科技赛道持续火热，另一边则是餐饮等消费赛道上市进程曲折。以老乡鸡、袁记食品、巴奴国际、钱大妈...",
       "priority": "high",
       "sectors": [
-        "综合"
+        "消费"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-08-27",
-      "time": "13:22",
-      "keywords": []
-    },
-    {
-      "title": "2026年8月27日“大众30”成份股报告",
-      "source": "大众证券报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-27/doc-inipuiyp5258382.shtml",
-      "content": "长飞光纤股价涨停 本报综合消息周四，沪深A股震荡走高，非金属材料、林业、电子化学品等板块领涨，调味品、光伏设备、出版等板块走势较弱。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:18",
+      "time": "23:43",
       "keywords": []
     },
     {
@@ -260,7 +106,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -276,7 +122,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -292,7 +138,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -308,7 +154,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -324,7 +170,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -340,7 +186,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -356,7 +202,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -372,7 +218,7 @@
         "黄金"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "大宗观察"
@@ -388,7 +234,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -404,7 +250,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "交易簿"
@@ -420,263 +266,374 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "家庭财富"
       ]
     },
     {
-      "title": "ETF日报：通信板块大幅走强，最直接的催化来自英伟达最新季报及管理层对未来需求的强劲指引",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-08-27/doc-inipuqhp5908988.shtml",
-      "content": "今日通信ETF开盘后震荡上行，全天强势，收涨4.63%。 资料来源：wind 今日通信板块大幅走强，最直接的催化来自英伟达最新季报及管理层对未来需求的强劲指引。",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "15:06",
-      "keywords": []
-    },
-    {
-      "title": "据追踪数据，家族办公室对股市大举看多",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipuqhm9129611.shtml",
-      "content": "核心要点最新《家族办公室投资组合追踪报告》显示，超高净值人群的私人投资机构 —— 家族办公室，在二季度提高了股票持仓占比。受私募信贷基金资产减值影响...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "14:58",
-      "keywords": []
-    },
-    {
-      "title": "电子布龙头公告：股东减持！",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/s/2026-08-27/doc-inipuqhm9106312.shtml",
-      "content": "8月27日晚间，电子布牛股宏和科技（603256）发布公告称，公司于2026年8月27日收到公司股东SHARP TONE INTERNATIONAL LIMITED（以下简称“SHARP TONE”）...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "14:25",
-      "keywords": []
-    },
-    {
-      "title": "中金公司“三合一”并购，过会",
+      "title": "开盘|国内期货主力合约涨多跌少，SC原油涨超4%",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-08-27/doc-inipuqhm9079346.shtml",
-      "content": "来源：中国基金报 【导读】中金公司换股吸收合并东兴证券、信达证券获上交所审核通过 中国基金报记者 孙越 8月27日晚间，中金公司发布公告称，公司换股吸收合并东兴证券...",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-08-28/doc-inipvmmz4820549.shtml",
+      "content": "2026年8月28日，早盘开盘，国内期货主力合约涨多跌少，SC原油涨超4%，焦煤、低硫燃料油（LU）、豆油涨近2%，焦炭、硅铁、沪银、钯、丙烯、豆二、沪铅涨超1%。",
+      "priority": "medium",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "01:03",
+      "keywords": []
+    },
+    {
+      "title": "五谷磨房发布中期业绩 股东应占溢利1.56亿元同比增加46%",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-28/doc-inipvmmz8980671.shtml",
+      "content": "五谷磨房（01837）发布截至2026年6月30日止6个月中期业绩，该集团取得收入人民币14.5亿元（单位下同），同比增加27.8%；本公司拥有人应占期内溢利1.56亿元...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:50",
-      "keywords": []
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:55",
+      "keywords": [
+        "五谷磨房",
+        "溢利",
+        "增加"
+      ]
     },
     {
-      "title": "旭升集团2026年半年报：新业务落地国资入主，营收净利双增",
-      "source": "蓝鲸财经",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-27/doc-inipuqhs0653758.shtml",
-      "content": "蓝鲸新闻8月27日讯，8月27日，旭升集团(603305.SH)公布2026年中报，公司依托新能源汽车零部件核心主业稳步复苏，并加速储能与具身智能新业务落地...",
+      "title": "安徽皖通高速公路发布中期业绩 归母净利润10.08亿元同比增加4.87%",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-28/doc-inipvmnc5752205.shtml",
+      "content": "安徽皖通高速公路（00995）发布截至2026年6月30日止6个月的中期业绩，该集团取得收入32.27亿元，同比减少13.75%；归属于公司所有者的利润10.08亿元，同比增加4...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:44",
-      "keywords": []
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:55",
+      "keywords": [
+        "安徽皖通高速公路",
+        "净利润",
+        "增加"
+      ]
     },
     {
-      "title": "水泥主业下滑，投资赚了一大笔！上峰材料上半年净利暴增452％",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/wbstock/2026-08-27/doc-inipuiyu0775735.shtml",
-      "content": "来源：@华夏时报微博本报记者    李凯旋   北京报道在一众以“水泥”为主业的企业中，甘肃上峰材料股份有限公司（000672.SZ，下称“上峰材料”）的业绩称得上是“独树一帜”。",
+      "title": "海尔智家发布中期业绩 经调整经营利润127.52亿元同比减少3.4%",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-28/doc-inipvmnh0319741.shtml",
+      "content": "海尔智家（06690）发布截至2026年6月30日止6个月的中期业绩，该集团取得收入人民币1521.09亿元（单位下同），同比减少2.8%；经调整经营利润127.52亿元，同比减少3...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:44",
-      "keywords": []
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:51",
+      "keywords": [
+        "海尔智家",
+        "经营利润",
+        "减少"
+      ]
     },
     {
-      "title": "机构：下半年中国线路板产业投资将呈现三大趋势",
-      "source": "证券时报网",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-27/doc-inipuiyu0773879.shtml",
-      "content": "人民财讯8月27日电，CINNO•IC Research最新研究显示，2026年下半年，中国线路板产业投资将呈现高端深化、区域协同、绿色加速三大趋势：高端化持续聚焦AI算力PCB...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:42",
-      "keywords": []
-    },
-    {
-      "title": "开盘：纳斯达克走高，英伟达财报带动芯片股走强",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipuiyu0768708.shtml",
-      "content": "道指跌0.13%，标普500指数涨0.38%，纳指涨0.96%。英伟达涨6.92%，该公司发布 2027 财年第二季度财报，并给出强劲的营收增长预期。",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:30",
-      "keywords": []
-    },
-    {
-      "title": "简街资本的成长阵痛",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipuiyu0765017.shtml",
-      "content": "利奥波德·阿申布伦纳八月的婚礼，降临在他人生最难熬的一周尾声。 当他站在由酒红色绣球花与浅粉菊花装点的圣坛下亲吻新娘时，这位24岁的年轻人旗下对冲基金Situational...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:27",
-      "keywords": []
-    },
-    {
-      "title": "A股公司，分红成潮！上百家公司拟合计派现近500亿元",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/wm/2026-08-27/doc-inipuiyp5260810.shtml",
-      "content": "上市公司半年报披露进入高峰期，分红预案也逐渐浮出水面。据证券时报记者统计，截至记者发稿，8月27日晚间已有超过100家公司发布了现金分红预案...",
+      "title": "宜宾银行公布中期业绩 股东应占净利约3.15亿元同比增长10.79%",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-28/doc-inipvmnh0319202.shtml",
+      "content": "宜宾银行（02596）公布2026年中期业绩，总营业收入约13.74亿元，同比增长17.6%；净利息收入约10.99亿元，同比增长17.5%。股东应占净利约3.15亿元，同比增长10...",
       "priority": "medium",
       "sectors": [
         "金融"
       ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:21",
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:50",
+      "keywords": [
+        "宜宾银行",
+        "净利",
+        "增长"
+      ]
+    },
+    {
+      "title": "纳芯微发布中期业绩 股东应占溢利6759.1万元同比扭亏为盈",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-28/doc-inipvmnh0318739.shtml",
+      "content": "纳芯微（02676）发布截至2026年6月30日止6个月中期业绩，收入25.4亿元（人民币，下同），同比增长66.7%；股东应占溢利6759.1万元，去年同期亏损7801万元；每股基本收益0...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:49",
+      "keywords": [
+        "纳芯微",
+        "溢利",
+        "扭亏为盈"
+      ]
+    },
+    {
+      "title": "金岩高岭新材发布中期业绩 股东应占溢利796.6万元同比减少64.89%",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-28/doc-inipvmnh0318255.shtml",
+      "content": "金岩高岭新材（02693）发布截至2026年6月30日止6个月中期业绩，该集团取得收入人民币1.04亿元，同比减少19.16%；母公司拥有人应占溢利796.6万元，同比减少64...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:48",
+      "keywords": [
+        "金岩高岭新材",
+        "溢利",
+        "减少"
+      ]
+    },
+    {
+      "title": "毛戈平发布中期业绩 股东应占利润8.05亿元同比增加20.26%",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-28/doc-inipvmnh0314631.shtml",
+      "content": "毛戈平（01318）发布截至2026年6月30日止六个月业绩，该集团期内取得收入32.67亿元人民币，同比增加26.24%；母公司拥有人应占利润8.05亿元，同比增加20...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:42",
+      "keywords": [
+        "毛戈平",
+        "应占利润",
+        "增加"
+      ]
+    },
+    {
+      "title": "美丽田园医疗健康发布中期业绩 净利润2.39亿元同比增加40.2%",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-28/doc-inipvmmz8962172.shtml",
+      "content": " 美丽田园医疗健康（02373）发布截至2026年6月30日止六个月业绩，该集团期内取得收入18.82亿元人民币，同比增加29%；净利润2.39亿元，同比增加40.2%；每股基本收益0.91元。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:38",
+      "keywords": [
+        "美丽田园医疗健康",
+        "净利润",
+        "增加"
+      ]
+    },
+    {
+      "title": "阜博集团发布中期业绩 股东应占溢利1.91亿港元同比增加86.65%",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-28/doc-inipvmnh0312375.shtml",
+      "content": "阜博集团（03738）发布截至2026年6月30日止6个月业绩，该集团期内取得收入18.05亿港元，同比增加23.97%；公司拥有人应占溢利1.91亿港元，同比增加86.65%；每股基本盈利0...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:38",
+      "keywords": [
+        "阜博集团",
+        "溢利",
+        "增加"
+      ]
+    },
+    {
+      "title": "铁货发布中期业绩 股东应占溢利42.8万美元同比扭亏为盈",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-28/doc-inipvmnh0310882.shtml",
+      "content": " 铁货（01029）发布2026年中期业绩，该集团期内取得收益1.53亿美元，同比增加24.9%；公司拥有人应占溢利42.8万美元，同比扭亏为盈。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:34",
+      "keywords": [
+        "铁货",
+        "溢利",
+        "扭亏为盈"
+      ]
+    },
+    {
+      "title": "国浩集团：国浩房地产年度股东应占溢利9519.9万新加坡元 同比减少11.07%",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-28/doc-inipvmnh0310468.shtml",
+      "content": " 国浩集团（00053）发布国浩房地产截至2026年6月30日止年度业绩，收益14.34亿新加坡元，同比减少25.17%；公司股东应占溢利9519.9万新加坡元，同比减少11.07%。",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:33",
+      "keywords": [
+        "国浩集团",
+        "国浩房地产",
+        "溢利"
+      ]
+    },
+    {
+      "title": "新西兰总理称新西兰航空业绩 “糟糕”，存在经营问题",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-28/doc-inipvmnc5726707.shtml",
+      "content": "新西兰总理克里斯托弗・卢克森周五在奥克兰接受记者采访时表示，国有持股 51% 的新西兰航空公布 3.36 亿新西兰元的税前亏损，他评价该业绩 “非常糟糕”...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:31",
       "keywords": []
     },
     {
-      "title": "直击业绩发布会｜新华保险中期业绩亮眼，秦泓波谈AI赋能，坚定中国资本市场的发展前景",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-08-27/doc-inipuiyu0760718.shtml",
-      "content": "每经记者|袁园  8月27日，新华保险（SH601336，股价60.59元，市值1890亿元）2026年中期业绩发布会在北京举行。会上，一份堪称亮眼的“成绩单”让在场投资者为之瞩目：公司上...",
+      "title": "江苏宁沪高速公路发布中期业绩 归母净利润25.03亿元同比增加3.28%",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-28/doc-inipvmnc5701957.shtml",
+      "content": "江苏宁沪高速公路（00177）发布2026年中期业绩，该集团期内取得营业收入92.93亿元人民币，同比减少1.2%；归属于上市公司股东的净利润25.03亿元，同比增加3...",
       "priority": "medium",
       "sectors": [
-        "金融",
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:06",
+      "keywords": [
+        "江苏宁沪高速公路",
+        "净利润",
+        "增加"
+      ]
+    },
+    {
+      "title": "凯莱英获南方基金管理股份有限公司增持3.25万股 每股作价约128.62港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-28/doc-inipvmnc5699037.shtml",
+      "content": "香港联交所最新数据显示，8月25日，南方基金管理股份有限公司增持凯莱英（06821）3.25万股，每股作价128.6237港元，总金额约为418.03万港元。",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:03",
+      "keywords": [
+        "凯莱英",
+        "南方基金",
+        "增持"
+      ]
+    },
+    {
+      "title": "日韩股市开盘 韩股开盘下跌1%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-28/doc-inipvmmz8924930.shtml",
+      "content": "日经指数开盘持平，报66104.49点。韩国综合股价指数（KOSPI）开盘下跌1%，至6846.54点。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:02",
+      "keywords": []
+    },
+    {
+      "title": "软银关联企业 DigitalBridge 收购澳大利亚智能电表业务",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-28/doc-inipvmmz8920157.shtml",
+      "content": "正被软银集团收购的美国私募股权公司 DigitalBridge 集团，将从奥斯格里德集团（Ausgrid Group）手中收购澳大利亚规模最大的智能电表服务商之一。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-27",
+      "time": "23:57",
+      "keywords": []
+    },
+    {
+      "title": "从“可生成”到“可盈利” AI赋能传媒板块有喜有忧",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/roll/2026-08-28/doc-inipvmnc5692719.shtml",
+      "content": "从“可生成”到“可盈利” AI赋能传媒板块有喜有忧 ● 本报记者 王宇露 近日，一部名为《归墟》的AI奇幻求生短剧刷屏全网。“90后”奶爸江澜，非影视科班出身...",
+      "priority": "medium",
+      "sectors": [
         "AI"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-08-27",
-      "time": "13:18",
+      "time": "23:54",
       "keywords": []
     },
     {
-      "title": "万科半年报出炉！重要信号，经营现金流净额转正！",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-27/doc-inipuiyp9185862.shtml",
-      "content": "8月27日，万科A(000002.SZ)发布2026年半年度报告，上半年实现营业收入701.7亿元，同比下降33%；归母净利润为亏损149.5亿元，金额较上年同期有所扩大。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:18",
-      "keywords": []
-    },
-    {
-      "title": "美元通用二季度每股收益升至2.48美元，全年指引上调至7.80–8.00美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipuiyu0759466.shtml",
-      "content": "美元通用8月27日公布截至2026年7月31日的13周二季度业绩。净销售113亿美元，较上年同期107亿美元增5.2%，来自同店销售增长与新店贡献，并扣除关店影响。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:18",
-      "keywords": []
-    },
-    {
-      "title": "牛散章建平，大规模调仓",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/wm/2026-08-27/doc-inipuiyp5264183.shtml",
-      "content": "8月27日，知名牛散章建平新增现身两家A股公司十大股东，至此其半年报跻身十大股东的公司数量增至5家。 PCB龙头科翔股份（300903）半年报显示，章建平持仓946.18万股...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:17",
-      "keywords": []
-    },
-    {
-      "title": "建设银行相关分支机构持续做好吉隆泥石流灾区应急金融服务",
+      "title": "社保基金二季度调仓路线图曝光 硬科技成布局主线(附名单)",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-08-27/doc-inipuiyr5951859.shtml",
-      "content": "来源：今日建行 8月26日，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸发生重大人员伤亡、失联。建设银行坚决贯彻落实习近平总书记重要指示精神...",
+      "url": "https://finance.sina.com.cn/roll/2026-08-28/doc-inipvmnc5692346.shtml",
+      "content": "来源：东方财富研究中心 随着2026年半年报披露季接近尾声，社保基金二季度调仓全貌渐次清晰。 东方财富Choice数据显示，截至8月27日22时...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-27",
+      "time": "23:45",
+      "keywords": []
+    },
+    {
+      "title": "科技股调整并非单一美债驱动 AI远期定价成核心博弈主线",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/roll/2026-08-28/doc-inipvmnh0289113.shtml",
+      "content": "近期，全球科技板块波动加剧。美国长端国债收益率快速上行，一度对成长股估值形成明显压制；随着债券收益率阶段性回落、英伟达 交出超预期财报...",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-08-27",
+      "time": "23:41",
+      "keywords": []
+    },
+    {
+      "title": "财经早报：全球原油供应风险高企 社保基金二季度调仓路线图曝光丨2026年8月28日",
+      "source": "新浪证券",
+      "url": "https://finance.sina.com.cn/stock/y/2026-08-28/doc-inipvmmz4791631.shtml",
+      "content": "【市场动态】  美国对中国电力设备的管制再度升级，多家上市公司回应 美国对中国电力设备的管制再度升级。当地时间8月26日，美国总统特朗普签署第14420号行政命令...",
+      "priority": "medium",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-08-27",
+      "time": "23:40",
+      "keywords": [
+        "早报",
+        "央行",
+        "股市"
+      ]
+    },
+    {
+      "title": "“先登记，后转让”成铁律 银行业信贷资产流转新规实施在即",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/roll/2026-08-28/doc-inipvmmz8913370.shtml",
+      "content": "◎记者 马慜 银行业信贷资产登记流转中心（下称“银登中心”）8月发布《银行业信贷资产流转集中登记规则》及细则（下称“新规”），将自9月1日起正式施行。",
       "priority": "medium",
       "sectors": [
         "金融"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-08-27",
-      "time": "13:17",
-      "keywords": []
-    },
-    {
-      "title": "300937，董事长引咎辞职",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/s/2026-08-27/doc-inipuiyu0758620.shtml",
-      "content": "8月27日晚间，药易购（300937）公告称，公司董事长兼总经理陈顺军因向公司及审计机构提供其关联方相关信息存在遗漏情形，引咎辞去公司董事长（董事）、总经理...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:11",
-      "keywords": []
-    },
-    {
-      "title": "蚂蚁、兴业、尚诚三家消金公司上半年业绩出炉，合计净赚近30亿元！",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-08-27/doc-inipuiyr5950822.shtml",
-      "content": "来源：财经新一线 8月27日，随着A股上市公司传化智联发布2026年半年度报告，其参股公司蚂蚁消费金融经营数据一并出炉。2026年上半年，蚂蚁消费金融总资产3185.5亿元...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:11",
-      "keywords": []
-    },
-    {
-      "title": "“牛散”章建平，又爆买！",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-27/doc-inipuiyu0759377.shtml",
-      "content": "来源：中国基金报 【导读】章建平新进云南锗业、科翔股份前十大股东名单 中国基金报记者 忆山 8月27日，最新披露的上市公司中报显示...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:10",
+      "time": "23:40",
       "keywords": []
     },
     {
@@ -689,7 +646,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "权益周观察"
@@ -705,7 +662,7 @@
         "光模块"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "公司速递"
@@ -721,7 +678,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -737,7 +694,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -753,7 +710,7 @@
         "消费"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -769,7 +726,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "权益周观察"
@@ -785,7 +742,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "交易簿"
@@ -801,7 +758,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "行业深度"
@@ -817,7 +774,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -833,220 +790,385 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "权益周观察"
       ]
     },
     {
-      "title": "Meta预估每年在Anthropic AI支出最高可达100亿美元",
+      "title": "安东油田服务授出合共209万股限制性股票",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-28/doc-inipvmmz4815648.shtml",
+      "content": " 安东油田服务（03337）发布公告，于2026年8月27日，董事会议决根据该计划向8名合资格人士授出合共209万股限制性股票，均为公司雇员。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:54",
+      "keywords": [
+        "安东油田服务",
+        "授出",
+        "股票"
+      ]
+    },
+    {
+      "title": "信达生物因购股权获行使而合共发行18.2万股",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-28/doc-inipvmmz8977581.shtml",
+      "content": "信达生物（01801）发布公告，于2026年8月26日-27日因购股权获行使而合共发行18.2万股。",
+      "priority": "low",
+      "sectors": [
+        "医药"
+      ],
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:52",
+      "keywords": [
+        "信达生物",
+        "购股权",
+        "行使"
+      ]
+    },
+    {
+      "title": "金岩高岭新材与淮矿工程订立工程采购合同",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-28/doc-inipvmnh0317725.shtml",
+      "content": "金岩高岭新材（02693）发布公告，2026年8月27日，公司与淮矿工程订立工程采购合同。根据该合同，淮矿工程将向公司提供成品库已经安装完成的货架拆除、增加桩基础...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:47",
+      "keywords": [
+        "金岩高岭新材",
+        "订立",
+        "采购合同"
+      ]
+    },
+    {
+      "title": "麦科田于8月28日至9月2日招股 拟全球发售3891.06万股H股",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggipo/2026-08-28/doc-inipvmmz4811604.shtml",
+      "content": "麦科田（02041）于2026年8月28日至2026年9月2日招股，拟全球发售3891.06万股H股，其中香港公开发售389.11万股H股，国际发售3501.95万股H股。每股发售价15.42港元。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:46",
+      "keywords": [
+        "麦科田",
+        "招股",
+        "全球发售"
+      ]
+    },
+    {
+      "title": "毛戈平将于10月20日派发中期股息每股0.62元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-28/doc-inipvmnh0315052.shtml",
+      "content": "毛戈平（01318）发布公告，该公司将于2026年10月20日派发中期股息每股0.62元人民币。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:43",
+      "keywords": [
+        "毛戈平",
+        "派发",
+        "中期股息"
+      ]
+    },
+    {
+      "title": "美国称霍尔木兹海峡水雷已清除，航道恢复开放",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipuqhm5152821.shtml",
-      "content": "Meta首席执行官马克扎克伯格近期公开把矛头对准竞争对手Anthropic。 扎克伯格并未点名这家人工智能初创公司及其首席执行官达里奥·阿莫迪，但他表示...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-28/doc-inipvmmz8967311.shtml",
+      "content": "美国海军上将布拉德·库珀在X平台发布的一段视频中表示，美国中央司令部已成功清除霍尔木兹海峡国际航道内的水雷。 库珀称，这些水雷是伊朗数月前布设的。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:43",
+      "keywords": []
+    },
+    {
+      "title": "李宁授出合共1260.65万份购股权",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-28/doc-inipvmmz4808475.shtml",
+      "content": "李宁（02331）发布公告，于2026年8月27日（授出日期），董事会根据本公司于2024年6月13日（采纳日期）采纳的购股权计划向若干董事及其他合资格参与者（承授人）授出合共126...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:40",
+      "keywords": [
+        "李宁",
+        "授出",
+        "购股权"
+      ]
+    },
+    {
+      "title": "英矽智能：建议发行于2027年到期的3.05亿美元零息可换股债券",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-28/doc-inipvmnh0313211.shtml",
+      "content": "英矽智能（03696）发布公告，于2026年8月27日（交易时段后），本公司与经办人已订立认购协议，据此并须待其中所载若干条件达成后，本公司已同意发行...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:39",
+      "keywords": [
+        "英矽智能",
+        "发行",
+        "债券"
+      ]
+    },
+    {
+      "title": "江苏宁沪高速公路拟向全资子公司云杉清能增资6亿元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-28/doc-inipvmmz4806563.shtml",
+      "content": "江苏宁沪高速公路（00177）发布公告，2026年8月27日，本公司第十一届董事会第二十五次会议审议批准《关于本公司向全资子公司云杉清能公司增资的议案。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:36",
+      "keywords": [
+        "江苏宁沪高速公路",
+        "云杉清能",
+        "增资"
+      ]
+    },
+    {
+      "title": "映恩生物-B与Genentech订立全球研发合作及许可协议",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-28/doc-inipvmnh0311345.shtml",
+      "content": "映恩生物-B（09606）发布公告，于2026年8月27日，本公司与罗氏集团成员公司Genentech， Inc．（Genentech）订立合作及许可协议（合作协议）...",
+      "priority": "low",
+      "sectors": [
+        "医药"
+      ],
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:35",
+      "keywords": [
+        "映恩生物-B",
+        "订立",
+        "许可协议"
+      ]
+    },
+    {
+      "title": "OpenAI与谷歌等联合呼吁强化网络防御，以应对人工智能发动的网络攻击",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-28/doc-inipvmmz8946058.shtml",
+      "content": "包括 OpenAI、Anthropic、谷歌和微软在内的领先人工智能与网络安全公司，敦促人工智能实验室与政府加强合作，以更好地为网络防御人员提供应对即将到来的基于人工智能的网络...",
       "priority": "low",
       "sectors": [
         "AI"
       ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "14:11",
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:23",
       "keywords": []
     },
     {
-      "title": "长沙银行：聘任王舒军为行长、首席合规官",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/hm/2026-08-27/doc-inipuqhs0656742.shtml",
-      "content": "8月27日金融一线消息，长沙银行今日发布第八届董事会第六次会议决议公告，会议审议并通过了《关于聘任王舒军先生为长沙银行股份有限公司行长的议案》。",
+      "title": "美国商务部长将贸易谈判破裂归咎于加拿大总理卡尼及政治因素",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-28/doc-inipvmnc5718371.shtml",
+      "content": " 美国商务部长霍华德·卢特尼克指责加拿大通过在最后关头提出新的要求破坏贸易谈判，并称加拿大总理马克·卡尼有政治动机扼杀一项接近达成的协议。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:22",
+      "keywords": []
+    },
+    {
+      "title": "壁仞科技获Morgan Stanley增持约63.74万股 每股作价约35.43港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-28/doc-inipvmnh0298115.shtml",
+      "content": "香港联交所最新数据显示，8月24日，Morgan Stanley增持壁仞科技（06082）63.7374万股，每股作价35.4303港元，总金额约为2258.24万港元。",
       "priority": "low",
       "sectors": [
         "金融"
       ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "14:09",
-      "keywords": []
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:04",
+      "keywords": [
+        "壁仞科技",
+        "增持"
+      ]
     },
     {
-      "title": "国防部：靖国神社是名副其实的“战犯神社”",
-      "source": "新华社",
-      "url": "https://finance.sina.com.cn/china/2026-08-27/doc-inipuqhm5153180.shtml",
-      "content": "新华社北京8月27日电（记者王春涛）“靖国神社是名副其实的‘战犯神社’、军国主义招魂所。”国防部新闻发言人张晓刚27日表示，日本政客一再集体“拜鬼”...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "14:06",
-      "keywords": []
-    },
-    {
-      "title": "营收增106%还不够！英伟达盘后一度下跌，华尔街在担心什么？",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/wbstock/2026-08-27/doc-inipuqhs0659381.shtml",
-      "content": "来源：@21世纪经济报道微博#英伟达预计新财年营收增长70%#【营收增106%还不够！英伟达盘后一度下跌，华尔街在担心什么？】#全球财经连线#财报发布后约半小时...",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "14:02",
-      "keywords": []
-    },
-    {
-      "title": "美国企业情报公司撤销对受制裁油商诉讼 承认遭客户欺骗",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipuqhs0648340.shtml",
-      "content": "美国企业情报公司阿金集团日前撤回了对受制裁的欧洲石油交易商尼尔斯·特罗斯特提起的法律诉讼，并公开承认其在该案中受到客户误导。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:53",
-      "keywords": []
-    },
-    {
-      "title": "五芳斋上半年实现营收14.74亿元 经营质量稳健向好",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-27/doc-inipuqhp5855299.shtml",
-      "content": "本报讯 （记者吴奕萱 见习记者戚辰琪）8月26日晚，浙江五芳斋实业股份有限公司（以下简称“五芳斋”）披露了2026年半年度报告。报告期内，公司实现营业收入14...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:48",
-      "keywords": []
-    },
-    {
-      "title": "黄仁勋：循环融资？买少了！",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipuiyp5269736.shtml",
-      "content": "作为全球市值最高的企业，英伟达近期因涉嫌“循环融资”（Circular Financing）持续受到市场审视——外界质疑其通过投资下游芯片采购客户...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:45",
-      "keywords": []
-    },
-    {
-      "title": "券商另类投资子公司增资新设提速",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-27/doc-inipuqhm5141136.shtml",
-      "content": " 上证报中国证券网讯(记者闫刘梦)财达证券近日发布公告称，拟出资2.5亿元在北京设立全资子公司开展另类投资业务，聚焦实体企业股权投资，强化区域战略服务能力。",
+      "title": "凯莱英获摩根大通增持12.48万股 每股作价约112.5港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-28/doc-inipvmnc5697975.shtml",
+      "content": "香港联交所最新数据显示，8月24日，摩根大通增持凯莱英（06821）12.48万股，每股作价112.5039港元，总金额约为1404.05万港元。增持后最新持股数目约为283.33万股...",
       "priority": "low",
       "sectors": [
         "金融"
       ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:42",
-      "keywords": []
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:02",
+      "keywords": [
+        "凯莱英",
+        "摩根大通",
+        "增持"
+      ]
     },
     {
-      "title": "人保寿险快速启动西藏日喀则吉隆县 泥石流灾害理赔应急预案",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/insurance/bxyx/2026-08-27/doc-inipuiyu0775839.shtml",
-      "content": "来源：中国人保寿险 8月26日10时30分许，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。 灾害发生后，中共中央总书记、国家主席...",
+      "title": "天岳先进获摩根大通增持67.32万股 每股作价约65.57港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-28/doc-inipvmnc5697052.shtml",
+      "content": "香港联交所最新数据显示，8月24日，摩根大通增持天岳先进（02631）67.32万股，每股作价65.569港元，总金额约为4414.11万港元。增持后最新持股数目约为505.61股...",
       "priority": "low",
       "sectors": [
-        "综合"
+        "金融"
       ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:34",
-      "keywords": []
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:01",
+      "keywords": [
+        "天岳先进",
+        "摩根大通",
+        "增持"
+      ]
     },
     {
-      "title": "华联控股：公司将于2026年9月15日召开2026年第一次临时股东会",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-27/doc-inipuqhs0648748.shtml",
-      "content": "证券日报网讯 8月27日，华联控股发布公告称，公司将于2026年9月15日召开2026年第一次临时股东会。",
+      "title": "澜起科技获摩根大通增持约4.28万股 每股作价约255.94港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-28/doc-inipvmnh0296366.shtml",
+      "content": "香港联交所最新数据显示，8月24日，摩根大通增持澜起科技（06809）4.2765万股，每股作价255.9417港元，总金额约为1094.53万港元。",
       "priority": "low",
       "sectors": [
-        "综合"
+        "金融"
       ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:33",
-      "keywords": []
+      "period": "night",
+      "date": "2026-08-28",
+      "time": "00:00",
+      "keywords": [
+        "澜起科技",
+        "摩根大通",
+        "增持"
+      ]
     },
     {
-      "title": "硅谷最爱的创业故事：AI助理公司Instinct创始人称正以25亿美元估值融资2.5亿美元",
+      "title": "美国据悉寻求大举入股委内瑞拉油田 已讨论百年租约",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-27/doc-inipuiyu0767543.shtml",
-      "content": "旧金山人工智能助理公司Instinct创始人诺亚·希恩8月26日表示，公司正以25亿美元估值进行2.5亿美元B轮融资，由Index Ventures与Benchmark联合领投。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:32",
-      "keywords": []
-    },
-    {
-      "title": "林洋能源：公司将于2026年9月18日召开2026年第二次临时股东会",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-27/doc-inipuiyp5270318.shtml",
-      "content": "    证券日报网讯8月27日，林洋能源发布公告称，公司将于2026年9月18日召开2026年第二次临时股东会。",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-08-27",
-      "time": "13:31",
-      "keywords": []
-    },
-    {
-      "title": "中洲控股：公司及控股子公司无对合并报表外单位提供担保",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-27/doc-inipuqhs0648749.shtml",
-      "content": "    证券日报网讯8月27日，中洲控股发布公告称，公司及控股子公司无对合并报表外单位提供担保。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-28/doc-inipvmnc5694473.shtml",
+      "content": " 据报道，美国正与委内瑞拉商谈大举入股该国油田，此举若成行，将进一步扩大特朗普政府对马杜罗下台后委内瑞拉政府及其庞大能源储备的影响力。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-08-27",
-      "time": "13:31",
+      "time": "23:59",
       "keywords": []
     },
     {
-      "title": "世纪华通拟每10股派发现金红利0.8元",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-27/doc-inipuiyu0770199.shtml",
-      "content": "8月27日，世纪华通（002602）发布公告，公司拟每10股派发现金红利0.8元（含税），预计总派发金额为5.87亿元。2026年中期，世纪华通实现收入221.17亿元，归母净利润45...",
+      "title": "德永佳集团获执行主席潘彬泽增持21.8万股 每股作价约1.08港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-28/doc-inipvmnc5694471.shtml",
+      "content": "香港联交所最新数据显示，8月24日，执行主席潘彬泽增持德永佳集团（00321）21.8万股，每股作价1.075港元，总金额约为23.44万港元。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-08-27",
+      "time": "23:59",
+      "keywords": [
+        "德永佳集团",
+        "潘彬泽",
+        "增持"
+      ]
+    },
+    {
+      "title": "旭日企业获董事长杨振鑫增持6.8万股 每股作价1.3港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-28/doc-inipvmnc5693762.shtml",
+      "content": "香港联交所最新数据显示，8月26日，董事长杨振鑫增持旭日企业（00393）6.8万股，每股作价1.3港元，总金额为8.84万港元。增持后最新持股数目约为9.62亿股...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-08-27",
+      "time": "23:58",
+      "keywords": [
+        "旭日企业",
+        "杨振鑫",
+        "增持"
+      ]
+    },
+    {
+      "title": "赤峰黄金获摩根大通增持约145.54万股 每股作价约44.90港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-28/doc-inipvmmz4789777.shtml",
+      "content": "香港联交所最新资料显示，8月24日，摩根大通增持赤峰黄金（06693）145.5446万股，每股作价44.903港元，总金额约为6535.39万港元。",
+      "priority": "low",
+      "sectors": [
+        "黄金",
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-08-27",
+      "time": "23:57",
+      "keywords": [
+        "赤峰黄金",
+        "摩根大通",
+        "增持"
+      ]
+    },
+    {
+      "title": "友联国际教育租赁遭PA Investment Funds SPC - PA Financial Leasing Fund SP减持约1.35亿股",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-08-28/doc-inipvmnc5691938.shtml",
+      "content": "香港联交所最新数据显示，8月24日，PA Investment Funds SPC - PA Financial Leasing Fund SP减持友联国际教育租赁（01563）约1.35亿股，每股作价0.122港元...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-08-27",
-      "time": "13:26",
-      "keywords": []
+      "time": "23:56",
+      "keywords": [
+        "友联国际教育租赁",
+        "减持"
+      ]
     },
     {
-      "title": "黑海粮食出口受阻，小麦期货飙升至三年新高",
-      "source": "",
-      "url": "https://finance.sina.com.cn/roll/2026-08-27/doc-inipuiyp5261828.shtml",
-      "content": "黑海粮食出口受阻，叠加俄乌双方持续袭击粮船及港口，全球小麦供应担忧骤升。芝加哥小麦期货创2023年7月以来最高收盘，自6月底低点已涨约30%。",
+      "title": "香港创业板与主板合并？港交所回应来了",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/roll/2026-08-28/doc-inipvmmz8920263.shtml",
+      "content": " 近日有消息称，香港交易所正研究在《上市规则》中新增独立章节，将香港创业板与主板合并，以激活长期表现疲弱的创业板市场。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-08-27",
-      "time": "13:22",
+      "time": "23:54",
       "keywords": []
     },
     {
@@ -1059,7 +1181,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "交易簿"
@@ -1075,7 +1197,7 @@
         "半导体"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "行业速递"
@@ -1092,7 +1214,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "行业速递"
@@ -1108,7 +1230,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1124,7 +1246,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1140,7 +1262,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1156,7 +1278,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1172,7 +1294,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1188,7 +1310,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1204,7 +1326,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1220,7 +1342,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1236,7 +1358,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1252,7 +1374,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "数据图解"
@@ -1268,7 +1390,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "霍尔木兹周报"
@@ -1284,7 +1406,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1300,7 +1422,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1316,7 +1438,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1332,7 +1454,7 @@
         "半导体"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1348,7 +1470,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "研报精华"
@@ -1364,7 +1486,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1380,7 +1502,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1396,7 +1518,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1413,7 +1535,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1429,7 +1551,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1445,7 +1567,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1461,7 +1583,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1477,7 +1599,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "CCI快报"
@@ -1493,7 +1615,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1509,7 +1631,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1525,7 +1647,7 @@
         "消费"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "交易簿"
@@ -1541,7 +1663,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1557,7 +1679,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1573,7 +1695,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1589,7 +1711,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1605,7 +1727,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1621,7 +1743,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1637,7 +1759,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1653,7 +1775,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1669,7 +1791,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1685,7 +1807,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "数据图解"
@@ -1701,7 +1823,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1717,7 +1839,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1733,7 +1855,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1749,7 +1871,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1765,7 +1887,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "交易簿"
@@ -1781,7 +1903,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1797,7 +1919,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "霍尔木兹周报"
@@ -1813,7 +1935,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1829,7 +1951,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1845,7 +1967,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1861,7 +1983,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1877,7 +1999,7 @@
         "医药"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1893,7 +2015,7 @@
         "机器人"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1909,7 +2031,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1925,7 +2047,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "CCI快报"
@@ -1941,7 +2063,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "数据图解"
@@ -1957,7 +2079,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "量化观察"
@@ -1973,7 +2095,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1989,7 +2111,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2005,7 +2127,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2021,7 +2143,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -2037,7 +2159,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2053,7 +2175,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2069,7 +2191,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2085,7 +2207,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2101,7 +2223,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -2117,7 +2239,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2133,7 +2255,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2149,7 +2271,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2165,7 +2287,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2181,7 +2303,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -2197,7 +2319,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2213,7 +2335,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2229,7 +2351,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2245,7 +2367,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -2261,7 +2383,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "家庭财富"
@@ -2277,7 +2399,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "基金观察"
@@ -2293,7 +2415,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "霍尔木兹周报"
@@ -2310,7 +2432,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-08-27",
+      "date": "2026-08-28",
       "time": "--:--",
       "keywords": [
         "市场洞察"
