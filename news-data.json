@@ -1,184 +1,43 @@
 {
-  "updated": "2026-08-30T08:31:23.197395",
-  "total": 150,
+  "updated": "2026-08-30T13:58:42.435898",
+  "total": 147,
   "sources": [
     "新浪财经",
     "akshare-财新",
     "Tushare"
   ],
   "priority_dist": {
-    "high": 23,
-    "medium": 25,
-    "low": 102
+    "high": 13,
+    "medium": 36,
+    "low": 98
   },
   "items": [
     {
-      "title": "下周影响市场重要资讯前瞻：智谱等33只中国股票正式纳入MSCI指数，“国产GPU四小龙”之一下周打新！",
-      "source": "新浪证券",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-30/doc-iniqauvp8188371.shtml",
-      "content": " 最新一期PMI即将发布，二十国集团（G20）财长与央行行长会议8月31日至9月1日举行；智谱等33只中国股票正式纳入MSCI指数，“国产GPU四小龙”之一下周打新！",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-08-30",
-      "time": "08:05",
-      "keywords": []
-    },
-    {
-      "title": "刚刚！马斯克，突爆大消息",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-30/doc-iniqaqpt5078517.shtml",
-      "content": "马斯克突然盯上了燃气轮机。 据最新消息，世界首富马斯克旗下SpaceX正在德克萨斯州巴斯特罗普筹建一座铸造厂，用于制造大型燃气轮机的叶片与导叶（blades and vanes）。",
+      "title": "新宙邦更新递交港交所上市申请",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmi8135008.shtml",
+      "content": "8月30日，新宙邦（300037.SZ）发布公告披露其H股发行上市相关工作动态。公告显示，公司正推进发行境外上市外资股（H股）并在香港联交所主板挂牌上市的相关事宜...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-08-30",
-      "time": "07:38",
+      "time": "13:14",
       "keywords": []
     },
     {
-      "title": "沃什强硬表态抗通胀后，陷入利率决策“两难困局”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpt5041901.shtml",
-      "content": "美联储主席凯文·沃什在怀俄明州杰克逊霍尔年度政策研讨会上完成了他的首次亮相，并借此机会清晰阐述了其对经济形势与通胀目标的最新看法。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-08-30",
-      "time": "06:57",
-      "keywords": []
-    },
-    {
-      "title": "视频|AI实现抗癌历史性突破，癌症有望被AI攻克:Modema抗癌疫苗3期首次成功",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/2026-08-30/doc-iniqaqpt5040602.shtml",
-      "content": "来源：Michelle于超",
-      "priority": "high",
-      "sectors": [
-        "医药",
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-08-30",
-      "time": "06:54",
-      "keywords": []
-    },
-    {
-      "title": "芝加哥联储主席古尔斯比：通胀是当前首要问题",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpv8314043.shtml",
-      "content": "芝加哥联邦储备银行行长奥斯坦·古尔斯比周五（8月28日）在怀俄明州杰克逊霍尔年会现场接受采访时表示，他认同美联储主席凯文·沃什对当前经济细节的评估...",
+      "title": "301139欺诈发行，被罚2.39亿元！或强制退市",
+      "source": "上海证券报·中国证券网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmi8151894.shtml",
+      "content": "*ST元道(301139)8月28日晚发布公告，公司收到深交所下发的《事先告知书》，拟决定终止公司股票上市交易。因公司收到证监会作出的《行政处罚决定书》...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-08-30",
-      "time": "06:43",
-      "keywords": []
-    },
-    {
-      "title": "沃什讲话施压金价回落，九月加息概率显著上修",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpr8253072.shtml",
-      "content": "美联储主席凯文·沃什8月28日在杰克逊霍尔发表演讲后，黄金价格自讲话前高位明显回落。尽管不同报价源记录的盘中低点和收盘价略有差异...",
-      "priority": "high",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "morning",
-      "date": "2026-08-30",
-      "time": "06:33",
-      "keywords": []
-    },
-    {
-      "title": "沃什杰克逊霍尔演讲：将人工智能列为货币政策新变量",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpv8308156.shtml",
-      "content": "美联储主席凯文·沃什8月28日在杰克逊霍尔全球央行年会上发表任内首场主旨演讲，题为《In Our Time》。他将人工智能作为开篇议题，称当前正处于“历史铰链点”...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-30",
-      "time": "06:27",
-      "keywords": []
-    },
-    {
-      "title": "华金策略：九月震荡偏强 成长占优",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/2026-08-30/doc-iniqaqpr8248758.shtml",
-      "content": "来源：华金证券 复盘历史，A股9月走势主要受政策和外部事件、流动性、基本面等因素驱动。（1）2010年以来历年9月上证综指表现震荡偏强，16次中有9次上涨，7次下跌。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-30",
-      "time": "06:25",
-      "keywords": []
-    },
-    {
-      "title": "谷歌8月30日起在欧洲经济区停用“站点声誉滥用”手动降权",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpr8237660.shtml",
-      "content": "Alphabet旗下谷歌于周五在搜索质量团队博客中宣布，自8月30日起，针对“站点声誉滥用”政策所开出的手动措施，将不再对欧洲经济区（欧盟27国及冰岛、挪威...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-30",
-      "time": "06:09",
-      "keywords": []
-    },
-    {
-      "title": "视频丨12秒传完8K月照！我国地月双向高速激光通信实现重大突破",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-30/doc-iniqaqpt5016267.shtml",
-      "content": "近日，我国成功完成超40万公里、地月双向高速激光通信试验，这一重大突破，相当于在地球和月球之间搭建起了一条稳定、高速的太空信息通道...",
-      "priority": "high",
-      "sectors": [
-        "光模块"
-      ],
-      "period": "morning",
-      "date": "2026-08-30",
-      "time": "06:05",
-      "keywords": []
-    },
-    {
-      "title": "*ST广糖，打响“保壳”第一枪",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/2026-08-30/doc-iniqakft2893131.shtml",
-      "content": "在被实施退市风险警示四个月后，*ST广糖打响“保壳”的第一枪。 8月29日，*ST广糖发布公告称，公司正在筹划重大资产重组暨关联交易。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-30",
-      "time": "04:14",
-      "keywords": []
-    },
-    {
-      "title": "建行中报：不止于稳，更见于优",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-08-30/doc-iniqakft8332581.shtml",
-      "content": "来源：金通社 8月28日，建设银行披露2026年中期经营业绩。这家资产体量突破47万亿元的国有大行，在“十五五”开局之年，交出了一份量增质优、稳健协调的中期答卷，营收...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-30",
-      "time": "03:55",
+      "time": "13:13",
       "keywords": []
     },
     {
@@ -359,214 +218,367 @@
       ]
     },
     {
-      "title": "天风证券2026年半年报成绩亮眼 “六新天风”建设成效显现",
-      "source": "新浪证券",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-30/doc-iniqauvt8218700.shtml",
-      "content": "8月28日，天风证券（601162.SH）发布2026年半年度报告。报告期内，公司实现营业收入15.88亿元，实现归属于母公司股东的净利润2.04亿元...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-30",
-      "time": "08:26",
-      "keywords": []
-    },
-    {
-      "title": "浙商证券：“退一”测出市场支撑 排除短线干扰、中线仍看反弹",
+      "title": "视频 | 68家公募基金、券商资管上半年营收与净利润排名：广发基金净利润超易方达",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/2026-08-30/doc-iniqauvp2702473.shtml",
-      "content": "来源：浙商证券 核心观点 本周市场先下探、在“退一”中测出市场支撑，其后震荡反弹，多数指数以上涨作收。 展望后市，由于市场支撑已被逐渐“测出”...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-30",
-      "time": "07:55",
-      "keywords": []
-    },
-    {
-      "title": "申万宏源策略一周回顾展望：压制估值的因素：短期格局无法外推远期",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/2026-08-30/doc-iniqauvr4953833.shtml",
-      "content": "来源：上海申银万国证券研究所有限公司 一、A 股2026 二季报收官：26Q2 全A 两非营收和净利润增速延续上行，符合预期。 单季营收同比多增走扩的大类行业是周期...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-30",
-      "time": "07:53",
-      "keywords": []
-    },
-    {
-      "title": "开源证券：靴子落地 继续重视再平衡",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/2026-08-30/doc-iniqauvr4951875.shtml",
-      "content": "来源：开源证券 本周权益表现：海外扰动一波三折，A 股修复冲高回落本周（8.24-8.28），美股和A 股均较上周转强、港股转弱。本周，上证指数、科创50 分别收涨1.2%、0.5%...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-30",
-      "time": "07:51",
-      "keywords": []
-    },
-    {
-      "title": "半年报新动向！多位牛散进驻A股银行，什么信号？",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-08-30/doc-iniqauvr4949174.shtml",
-      "content": "A股上市银行前十大股东名单中，今年多了一些牛散身影。 8月28日，民生银行披露2026年半年度报告显示，自然人戴思元二季度新进该行前十大股东。",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-30/doc-iniqcfmp8062999.shtml",
+      "content": "",
       "priority": "medium",
       "sectors": [
         "金融"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-08-30",
-      "time": "07:41",
+      "time": "13:52",
       "keywords": []
     },
     {
-      "title": "兴业证券张启尧：盈利为何这么强？",
+      "title": "视频|68家公募基金、券商资管上半年营收与净利润排名",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-30/doc-iniqaqpr8288758.shtml",
-      "content": "来源：尧望后势 一、盈利持续超预期上行 我们早在年度策略《万物竞发》中就一直强调，2026年全A盈利增速有望实现双位数增长。A股今年定价的主要矛盾也将由估值转向盈利...",
+      "url": "https://finance.sina.com.cn/stock/2026-08-30/doc-iniqcfmi8156740.shtml",
+      "content": "",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "13:51",
+      "keywords": []
+    },
+    {
+      "title": "毛戈平上半年净利润同比增长20.3%",
+      "source": "证券日报网",
+      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-08-30/doc-iniqcfmp8060144.shtml",
+      "content": "    本报讯(记者梁傲男)近日，毛戈平化妆品股份有限公司(简称“毛戈平”)公布2026年中期业绩。上半年公司实现收入约32.67亿元，同比增长26.2%；净利润约8.07亿元...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-08-30",
-      "time": "06:59",
+      "time": "13:38",
       "keywords": []
     },
     {
-      "title": "Iren获24亿美元债务融资采购英伟达芯片，用于加拿大数据中心园区扩建",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpv8315649.shtml",
-      "content": "蓝猫头鹰资本管理旗下的基金于周五（8月28日）宣布，牵头为澳大利亚上市公司Iren安排24亿美元计算设备融资，资金将用于采购英伟达风冷加速计算设备（含Blackwell...",
+      "title": "利好来了！“国产GPU四小龙”，首家盈利",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-30/doc-iniqcfmm4916523.shtml",
+      "content": "来源：中国基金报 【导读】“国产GPU四小龙”首家半年度盈利企业诞生，沐曦股份上半年实现净利润6.12亿元 中国基金报记者 邱德坤 沐曦股份成为“国产GPU四小龙”的首家半年度盈...",
       "priority": "medium",
       "sectors": [
-        "半导体"
+        "AI"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-08-30",
-      "time": "06:49",
+      "time": "13:30",
       "keywords": []
     },
     {
-      "title": "Lambda获约10亿美元短期私募债购买英伟达芯片租给微软",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpt5036043.shtml",
-      "content": "人工智能云基础设施提供商Lambda于周五（8月28日）前后获得约10亿美元短期私募债务，资金将用于采购英伟达图形处理器，并将算力租赁给微软。",
+      "title": "ST中珠：上半年营收2.59亿元 推进向大健康主业转型",
+      "source": "上海证券报·中国证券网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmi8137070.shtml",
+      "content": "上证报中国证券网讯8月28日晚间，ST中珠披露2026年半年度报告。报告期内，公司实现营业收入2.59亿元。在房地产业务出清、医院板块承压拖累整体业绩的背景下...",
       "priority": "medium",
       "sectors": [
-        "半导体"
+        "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-08-30",
-      "time": "06:47",
+      "time": "13:17",
       "keywords": []
     },
     {
-      "title": "星宇股份舆情恶化对A股上市公司的警示",
+      "title": "美的集团半年报：增长稳住了，但利润“含金量”在下降",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmi2548307.shtml",
+      "content": "美的集团(000333.SZ)于8月28日晚间发布2026年半年报。这是一份数字层面“看起来很稳”的财报：营收和净利润都在增长，但拆开财务结构会发现...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "13:17",
+      "keywords": []
+    },
+    {
+      "title": "从项目输出到体系扎根 阿尔特出海战略跑出高增长",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmm4920873.shtml",
+      "content": "8月28日晚，阿尔特汽车技术股份有限公司（以下简称“阿尔特”）披露2026年半年报，出海成果成为报告最大亮点之一。报告期内，该公司实现营业收入6.25亿元，同比增长19.62%...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "13:16",
+      "keywords": []
+    },
+    {
+      "title": "中创智领2026年上半年归母净利润同比下滑36.25%",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmp8056490.shtml",
+      "content": "8月30日，中创智领（601717.SH）对外发布半年度业绩报告，2026年上半年公司实现营业收入187.64亿元，同比下降6.04%；归属于上市公司股东的净利润为16.03亿元，同比下降36...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "13:14",
+      "keywords": []
+    },
+    {
+      "title": "迈威生物2026年上半年净亏损5.22亿元 营收同比增长209.04%",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmi2546598.shtml",
+      "content": "8月30日，迈威生物（688062.SH）对外发布2026年半年度业绩报告。报告数据显示，期内公司实现营业收入3.13亿元，同比增幅达209.04%；归属于上市公司股东的净利润为亏损5...",
+      "priority": "medium",
+      "sectors": [
+        "医药"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "13:14",
+      "keywords": []
+    },
+    {
+      "title": "河南A股上市公司半年报出炉，20家净利翻倍丨极刻",
+      "source": "大河财立方",
+      "url": "https://finance.sina.com.cn/roll/2026-08-30/doc-iniqcfmi2548380.shtml",
+      "content": "大河财立方《极刻》第1109篇【大河财立方记者王鑫史冰倩】8月30日，2026年A股半年报披露落下帷幕。河南117家上市公司交出中期答卷，实现营业收入5796.81亿元...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "13:12",
+      "keywords": []
+    },
+    {
+      "title": "1344亿利润3145亿投资收益 中国人寿上半年经营全景透视",
+      "source": "中国经营报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmi2545485.shtml",
+      "content": "中国人寿保险股份有限公司（以下简称“中国人寿”，601628.SH ）日前举行2026年中期业绩发布会。 《中国经营报》记者从现场了解到，今年上半年...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "13:06",
+      "keywords": []
+    },
+    {
+      "title": "筹划一年后，688478宣布：重大资产重组终止",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/2026-08-30/doc-iniqaqpr8274607.shtml",
-      "content": "来源：智本国学堂 ----善待员工，才是上市公司最硬的智本 2026年8月，国内车灯龙头星宇股份（601799）被一场应届生秋招毁约风波推上风口浪尖。",
+      "url": "https://finance.sina.com.cn/stock/s/2026-08-30/doc-iniqcfmp8046029.shtml",
+      "content": "来源：中国基金报 【导读】筹划一年后 晶升股份终止重大资产重组 中国基金报记者 刘墨 8月30日晚间，晶升股份公告称，公司董事会审议通过终止发行股份及支付现金购买北京为...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-08-30",
-      "time": "06:37",
+      "time": "12:50",
       "keywords": []
     },
     {
-      "title": "国信策略：再平衡仍是主题 均衡配置为佳",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/roll/2026-08-30/doc-iniqaqpt5013256.shtml",
-      "content": "来源：国信证券 6月底以来，市场风格再平衡已持续近两个月，消费、资源等多个板块均有表现。随着AI硬件板块交易拥挤逐步消化，科技自8月初以来也有所反弹。",
+      "title": "资金涌入六大行！多家险资大举增持银行，什么情况？",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-08-30/doc-iniqcfmp8046430.shtml",
+      "content": "2026年半年报显示，“中国人寿保险股份有限公司-传统-普通保险产品”账户新进中国建设银行十大股东名单。由此，在今年二季度末，六大行十大股东或十大流通股东名单中...",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "12:45",
+      "keywords": []
+    },
+    {
+      "title": "赚嗨了！“牛市棋手”业绩大爆发，前十格局大洗牌，5家净利超百亿",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/stock/2026-08-30/doc-iniqcfmi2538839.shtml",
+      "content": "上半年券商业绩如何？ 伴随一、二级市场升温，券商业绩能否再上台阶成为市场核心命题；与此同时，上半年海外市场波动加剧，如何在震荡市中把握结构性机会...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-08-30",
-      "time": "06:14",
+      "time": "12:45",
       "keywords": []
     },
     {
-      "title": "半导体龙头，688432  ，重大资产重组！互联网巨头获资金爆买",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-08-30/doc-iniqakfx8412202.shtml",
-      "content": "南向资金净买入阿里巴巴-W近30亿港元。 半导体龙头有研硅（688432）8月28日晚间发布公告，正在筹划以发行股份及支付现金的方式向中国有研科技集团有限公司...",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "night",
-      "date": "2026-08-30",
-      "time": "05:12",
-      "keywords": []
-    },
-    {
-      "title": "安踏增长重心变了：上半年两大核心品牌增速降至个位数，迪桑特等其他品牌暴增44%，撑起三分之二新增收入",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-08-30/doc-iniqakft2909926.shtml",
-      "content": "来源：投资者内参丨马振阳 安踏的增长来源正在发生变化。 8月26日，安踏体育发布2026年中期业绩。上半年，公司实现收入435.07亿元，同比增长12.9%；经营利润117.6亿元...",
+      "title": "三一重工：公司将于9月21日召开2026年半年度业绩说明会",
+      "source": "证券日报网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmi8117639.shtml",
+      "content": "    证券日报网讯8月30日，三一重工发布公告称，公司2026年半年度业绩说明会定于2026年9月21日16：00-17：00在上证路演中心召开。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-08-30",
-      "time": "05:02",
+      "time": "12:31",
       "keywords": []
     },
     {
-      "title": "陕西光芯片股王，半年赚6亿元，大手笔加码半导体",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/wm/2026-08-30/doc-iniqakft8300245.shtml",
-      "content": "记者丨凌晨 编辑丨郑世凤 江佩霞 张明艳 净利翻12倍！8月29日，A股第二高价股源杰科技交出一份呼应市场想象的半年报。 这家来自陕西的光芯片公司...",
-      "priority": "medium",
-      "sectors": [
-        "半导体",
-        "光模块"
-      ],
-      "period": "night",
-      "date": "2026-08-30",
-      "time": "04:29",
-      "keywords": []
-    },
-    {
-      "title": "光伏逆变器龙头，业绩承压",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/s/2026-08-30/doc-iniqakft8295852.shtml",
-      "content": "8月28日，光伏逆变器龙头阳光电源披露2026年半年度报告。报告期内，公司实现营收309.12亿元，同比下降28.99%；归母净利润52.59亿元，同比下降32.01%。",
-      "priority": "medium",
-      "sectors": [
-        "能源"
-      ],
-      "period": "night",
-      "date": "2026-08-30",
-      "time": "04:18",
-      "keywords": []
-    },
-    {
-      "title": "多家A股公司海外营收快速攀升 专家称上市公司“出海”浮现三大转型",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/roll/2026-08-30/doc-iniqakfv5057864.shtml",
-      "content": "来源：上海证券报 上半年，海外业务成为不少A股上市公司业绩增长的重要引擎。从已披露的半年报数据来看，多家企业海外营收规模快速攀升...",
+      "title": "浙江黎明：公司将于9月22日召开2026年半年度业绩说明会",
+      "source": "证券日报网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmp8060420.shtml",
+      "content": "    证券日报网讯8月30日，浙江黎明发布公告称，公司2026年半年度业绩说明会定于2026年9月22日14：00-15：00在上证路演中心召开。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-08-30",
-      "time": "04:00",
+      "time": "12:31",
+      "keywords": []
+    },
+    {
+      "title": "上海电气：公司将于9月15日召开2026年半年度业绩说明会",
+      "source": "证券日报网",
+      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-08-30/doc-iniqcfmi8118781.shtml",
+      "content": "    证券日报网讯8月30日，上海电气发布公告称，公司2026年半年度业绩说明会定于2026年9月15日14：00-15：00在上海证券交易所上证路演中心召开。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "12:31",
+      "keywords": []
+    },
+    {
+      "title": "富创精密：公司将于9月21日召开2026年半年度业绩说明会",
+      "source": "证券日报网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmm4893833.shtml",
+      "content": "    证券日报网讯8月30日，富创精密发布公告称，公司2026年半年度业绩说明会定于2026年9月21日09：00-10：00在上证路演中心召开。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "12:31",
+      "keywords": []
+    },
+    {
+      "title": "安迪苏：公司将于9月7日召开2026年半年度业绩说明会",
+      "source": "证券日报网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmm4905988.shtml",
+      "content": "    证券日报网讯8月30日，安迪苏发布公告称，公司2026年半年度业绩说明会定于2026年9月7日16：00-17：00在上海证券交易所上证路演中心召开。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "12:31",
+      "keywords": []
+    },
+    {
+      "title": "招商轮船：公司将于9月7日召开2026年半年度业绩说明会",
+      "source": "证券日报网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmp8044460.shtml",
+      "content": "    证券日报网讯8月30日，招商轮船发布公告称，公司2026年半年度业绩说明会定于2026年9月7日13：00-14：00在上海证券交易所上证路演中心召开。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "12:31",
+      "keywords": []
+    },
+    {
+      "title": "卧龙电驱：公司将于9月7日召开2026年半年度业绩说明会",
+      "source": "证券日报网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmm4909621.shtml",
+      "content": "    证券日报网讯8月30日，卧龙电驱发布公告称，公司2026年半年度业绩说明会定于2026年9月7日9：00-10：00在上证路演中心召开。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "12:31",
+      "keywords": []
+    },
+    {
+      "title": "旗滨集团：公司将于9月28日召开2026年半年度业绩说明会",
+      "source": "证券日报网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmi2553714.shtml",
+      "content": "    证券日报网讯8月30日，旗滨集团发布公告称，公司2026年半年度业绩说明会定于2026年9月28日10：00-11：00在上证路演中心召开。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "12:31",
+      "keywords": []
+    },
+    {
+      "title": "山西汾酒：公司将于9月16日召开2026年半年度业绩说明会",
+      "source": "证券日报网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmi2538575.shtml",
+      "content": "    证券日报网讯8月30日，山西汾酒发布公告称，公司2026年半年度业绩说明会定于2026年9月16日16：00-17：00在上证路演中心召开。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "12:31",
+      "keywords": []
+    },
+    {
+      "title": "三星电气：公司将于9月11日召开2026年半年度业绩说明会",
+      "source": "证券日报网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmi2553786.shtml",
+      "content": "    证券日报网讯8月30日，三星电气发布公告称，公司2026年半年度业绩说明会定于2026年9月11日13：00-14：30在上海证券交易所上证路演中心召开。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "12:31",
+      "keywords": []
+    },
+    {
+      "title": "万德斯：公司将于9月22日召开2026年半年度业绩说明会",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmm4890270.shtml",
+      "content": "8月30日，万德斯发布公告称，公司2026年半年度业绩说明会定于2026年9月22日16：00-17：00在上证路演中心召开。（文章来源：证券日报）",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "12:24",
+      "keywords": []
+    },
+    {
+      "title": "中信博：公司将于9月18日召开2026年半年度业绩说明会",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmi2537848.shtml",
+      "content": "8月30日，中信博发布公告称，公司2026年半年度业绩说明会定于2026年9月18日10：00-11：00在上证路演中心召开。（文章来源：证券日报）",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "12:24",
       "keywords": []
     },
     {
@@ -731,327 +743,269 @@
       ]
     },
     {
-      "title": "月薪1万到手仅5千？ 浪潮云强制推行“五五开”绩效，“利润差”凭什么让打工人买单？",
-      "source": "BUG",
-      "url": "https://finance.sina.com.cn/tob/2026-08-30/doc-iniqauvp8206951.shtml",
-      "content": "文 丨 《BUG》栏目 周文猛 一部分浪潮云员工的薪资收入，正因公司最新推出的“月度考核新政”面临大幅缩水。 近日，多位浪潮云员工爆料...",
+      "title": "*ST高科2026年上半年净亏损924.03万元",
+      "source": "北京商报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmp8055159.shtml",
+      "content": "北京商报讯(记者吴其芸)8月30日，*ST高科发布2026年半年度报告，报告期内，*ST高科实现营业收入3151.09万元，同比下降34.41%；归属于上市公司股东的净利润亏损924.03万元。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-08-30",
-      "time": "08:29",
+      "time": "13:16",
       "keywords": []
     },
     {
-      "title": "中信证券：如何应对快速轮动的行情",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/2026-08-30/doc-iniqauvp8201955.shtml",
-      "content": "文|裘翔 张铭楷 陈峰 高玉森 陈泽平 2022年后A股“结构性快速轮动”是常态，极高轮动速度持续时间一般在1~2个月，高速轮动背后的共性是盈利上修的广度不足...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-30",
-      "time": "08:20",
-      "keywords": []
-    },
-    {
-      "title": "中泰证券：本轮调整已接近尾声",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/2026-08-30/doc-iniqauvr4952676.shtml",
-      "content": "来源：中泰证券 一、调整进入筑底后半程，内外压力均接近转折？ 本轮调整已进入筑底后半程，短期仍可能震荡，市场下行空间已经明显收敛。8...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-30",
-      "time": "07:52",
-      "keywords": []
-    },
-    {
-      "title": "孙宇晨被欧盟制裁",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/2026-08-30/doc-iniqaqpr2826688.shtml",
-      "content": "来源：贩财局 很多人还不知道这事，孙宇晨重度持仓的原火币，在欧盟禁止交易，8月23日制裁生效。 原火币的持仓，占孙哥账面财富15%-20%。欧盟都给他禁了，流动性归零了。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-30",
-      "time": "07:37",
-      "keywords": []
-    },
-    {
-      "title": "华尔街将英伟达AI芯片租赁价格打造成新型期货市场",
+      "title": "美军高层警告伊朗战事不可持续，五角大楼面临资源枯竭与财政压力",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpr2811976.shtml",
-      "content": "AI支出持续膨胀，但如何为其定价仍是棘手难题。英伟达本周用一份强劲财报给热潮添上注脚——尽管供应吃紧，公司仍预计2028财年营收增长约70%。",
-      "priority": "low",
-      "sectors": [
-        "半导体",
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-08-30",
-      "time": "06:54",
-      "keywords": []
-    },
-    {
-      "title": "视频|一个不容忽视的AI数据，AI军备竞赛正在进入下一阶段",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/2026-08-30/doc-iniqaqpv8315745.shtml",
-      "content": "来源：Michelle于超",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-08-30",
-      "time": "06:49",
-      "keywords": []
-    },
-    {
-      "title": "中国男人正在抛弃皮鞋",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/2026-08-30/doc-iniqaqpr2817427.shtml",
-      "content": "来源：中国新闻周刊 影视剧里，一套笔挺西装搭配锃亮皮鞋，是男性在商务场合的标志性配置。 但现实中，传统正装皮鞋，正在被越来越多中国男人“抛弃”。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqcfmp8050759.shtml",
+      "content": "随着与伊朗的军事冲突进入第六个月，美国军方高层近日向国防部长皮特·赫格塞斯（Pete Hegseth）发出严厉警告，指出 prolonged large-scale...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-08-30",
-      "time": "06:31",
+      "time": "13:16",
       "keywords": []
     },
     {
-      "title": "OpenAI终止向SpaceX旗下Cursor供应模型",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpr2800501.shtml",
-      "content": "OpenAI于8月28日在官网发布公告，称已通知SpaceX，计划终止向编程工具Cursor提供模型的合同，建议切断日期为2026年11月12日，并表示这是合同允许的最长通知期...",
+      "title": "长江电力2026年上半年归母净利润同比增长13.02% 国际业务贡献能力持续提升",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmp8059493.shtml",
+      "content": "8月30日，中国长江电力股份有限公司（以下简称“长江电力”）披露2026年半年度报告。上半年长江电力实现营业收入379.29亿元，同比增长3.36%；归属于上市公司股东的净利润147...",
       "priority": "low",
       "sectors": [
-        "AI"
+        "能源"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-08-30",
-      "time": "06:22",
+      "time": "13:16",
       "keywords": []
     },
     {
-      "title": "守望相助 华安证券向西藏吉隆灾区捐赠100万元",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/2026-08-30/doc-iniqaqpr2810013.shtml",
-      "content": "来源：华安证券发布 8月26日，受尼泊尔一侧泥石流灾害影响，西藏日喀则市吉隆县吉隆口岸遭受重大人员伤亡、失联，灾情牵动人心。 一方有难、八方支援。",
+      "title": "英利汽车2026年上半年净亏损8084.72万元",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmi8143629.shtml",
+      "content": "8月30日，英利汽车（601279.SH）对外发布2026年半年度报告。报告期内，公司实现营业收入17.71亿元，同比下滑14.96%；归属于上市公司股东的净利润为亏损8084.72万元。",
       "priority": "low",
       "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-30",
-      "time": "06:21",
-      "keywords": []
-    },
-    {
-      "title": "沃尔玛就联邦阿片类诉讼支付5000万美元和解",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpt5015968.shtml",
-      "content": "美国司法部与缉毒局8月28日宣布，沃尔玛同意支付5000万美元，了结关于其药房违反《受控物质法》、配发无效阿片类及其他受控物质处方的指控。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-30",
-      "time": "06:19",
-      "keywords": []
-    },
-    {
-      "title": "国际清算银行总经理杰克逊霍尔讲话：稳定币尚难胜任大规模支付手段",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpr2797975.shtml",
-      "content": "国际清算银行总经理巴勃罗·埃尔南德斯·德科斯8月28日在杰克逊霍尔经济研讨会上发表题为《推进货币边疆：稳定币与代币化存款》的演讲。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-08-30",
-      "time": "06:16",
-      "keywords": []
-    },
-    {
-      "title": "苹果完成CEO交接：库克卸任转任执行董事长，特纳斯9月1日起接棒",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpt5011795.shtml",
-      "content": "苹果公司按4月20日董事会一致通过的继任安排，于本周完成首席执行官交接。蒂姆·库克在担任该职务近15年后，于8月31日正式卸任；硬件工程高级副总裁约翰·特纳斯9月1日起出任...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-30",
-      "time": "06:13",
-      "keywords": []
-    },
-    {
-      "title": "冰岛或在一场势均力敌的公投中拒绝与欧盟重启入盟谈判",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpr8236122.shtml",
-      "content": "冰岛人有望在周六的公投中拒绝与欧盟重启入盟谈判。 据冰岛国家广播公司（RUV）公布的数据，在绝大多数选票初步统计后，反对与由27个成员国组成的欧盟进行谈判的选民目前以...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-30",
-      "time": "06:06",
-      "keywords": []
-    },
-    {
-      "title": "伊朗总统：外贸萎缩25%至35%，霍尔木兹重开与美方履约挂钩",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-08-30/doc-iniqaqpr8235768.shtml",
-      "content": "伊朗总统马苏德·佩泽希齐扬在周五晚间的国营电视台访谈中透露，受美国制裁与港口封锁影响，该国进出口总额下降约25%至35%，其中进口降幅明显高于出口。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-08-30",
-      "time": "06:06",
-      "keywords": []
-    },
-    {
-      "title": "华夏幸福：今年上半年净亏损同比收窄，信托抵债交易已实施完毕",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-30/doc-iniqaqpr8228741.shtml",
-      "content": "8月28日，华夏幸福基业股份有限公司（*ST华幸，600340.SH）发布2026年半年度报告。 今年上半年，华夏幸福营业收入16.57亿元，同比减少42.92%；利润总额为-61.07亿元...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-30",
-      "time": "05:54",
-      "keywords": []
-    },
-    {
-      "title": "明日停牌！“有研”家族牛股，筹划重大资产重组",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/roll/2026-08-30/doc-iniqaqpv8295646.shtml",
-      "content": "来源：上海证券报 8月28日晚间，有研硅发布公告称，公司正在筹划发行股份及支付现金购买资产并募集配套资金事项，拟进一步整合旗下半导体硅材料资产。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-30",
-      "time": "05:50",
-      "keywords": []
-    },
-    {
-      "title": "姜昧军：财政蓄力，大势可期",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-08-30/doc-iniqakfv5113033.shtml",
-      "content": "回望2026年中国经济运行，外部环境动荡交织内部结构转型，宏观经济运行呈现出不同于过往年份的特征。过往多年我国经济常呈现“前高后低”的运行轨迹，年初项目集中开工...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-30",
-      "time": "05:29",
-      "keywords": []
-    },
-    {
-      "title": "突然，猛烈抛售！“大风暴”来袭！欧洲大国，发生了什么？",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqakft2910526.shtml",
-      "content": "法国国债市场掀起“大风暴”。 近期，法国国债市场持续遭遇抛售潮，法国30年期国债收益率一度创出2008年以来最高水平，法国与德国10年期国债利差持续扩大。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-08-30",
-      "time": "05:15",
-      "keywords": []
-    },
-    {
-      "title": "黄金突然大跌！消费者搞怕了！",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/roll/2026-08-30/doc-iniqaqpr8224061.shtml",
-      "content": "来源：中国商报 北京时间8月29日，现货黄金跌破4500美元/盎司。 消息面上，美国联邦储备委员会主席凯文·沃什8月28日在怀俄明州杰克逊霍尔举行的年度经济研讨会上发表“鹰派”...",
-      "priority": "low",
-      "sectors": [
-        "黄金",
         "消费"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-08-30",
-      "time": "05:09",
+      "time": "13:14",
       "keywords": []
     },
     {
-      "title": "新宙邦(300037)，递交IPO招股书，中信证券、中金公司联席保荐",
+      "title": "三一重工2026年上半年归母净利润56.9亿元同比增长9.13%",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmp8051882.shtml",
+      "content": "8月30日，三一重工（600031.SH）发布公告称，2026年上半年公司实现营业收入533.06亿元，同比增长19.7%；归属于上市公司股东的净利润56.9亿元，同比增长9.13%。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "13:14",
+      "keywords": []
+    },
+    {
+      "title": "红塔证券2026年上半年归母净利润5.1亿元 同比下滑23.93%",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmi8143622.shtml",
+      "content": "8月30日，红塔证券（601236.SH）发布2026年半年度报告。报告显示，期内公司实现营业收入10.23亿元，同比下降14%；归属于上市公司股东的净利润5.1亿元，同比下降23.93%。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "13:14",
+      "keywords": []
+    },
+    {
+      "title": "中国能建2026年上半年归母净利润22.79亿元 同比下降18.67%",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmi8135549.shtml",
+      "content": "8月30日，中国能建（601868.SH）发布公告，2026年上半年，公司实现营业收入2083.12亿元，同比下降1.78%；实现归属于上市公司股东的净利润22.79亿元，同比下降18.67%。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "13:14",
+      "keywords": []
+    },
+    {
+      "title": "联环药业上半年扭亏为盈 集采续采与创新药研发协同推进",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmp8061523.shtml",
+      "content": "8月29日，江苏联环药业股份有限公司（以下简称“联环药业”）发布2026年半年度报告。报告期内，公司实现营业收入15.71亿元，同比增长22...",
+      "priority": "low",
+      "sectors": [
+        "医药"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "13:12",
+      "keywords": []
+    },
+    {
+      "title": "方大炭素上半年实现净利润1.71亿元 同比增长213.47%",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmp8059177.shtml",
+      "content": "8月30日晚间，方大炭素新材料科技股份有限公司（以下简称“方大炭素”）发布2026年半年度报告。今年上半年，公司实现营业收入19.71亿元，同比增长16...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "13:11",
+      "keywords": []
+    },
+    {
+      "title": "中科信息上半年营收、净利润同比双增长 持续深耕智慧政务赛道",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmi8147789.shtml",
+      "content": "近日，中科院成都信息技术股份有限公司发布2026年半年度报告。该公司在报告期内实现营业收入2.34亿元，同比增长65.1%，归属于上市公司股东的净利润561.79万元，同比增长49...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "13:10",
+      "keywords": []
+    },
+    {
+      "title": "维眸生物冲刺港股：上半年亏损1.3亿 龙磐健康与红杉是股东",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/2026-08-30/doc-iniqakft2908146.shtml",
-      "content": "来源：瑞恩资本RyanbenCapital 2026年8月28日，来自深圳坪山区的A股上市公司深圳新宙邦科技股份有限公司Shenzhen Capchem Technology Co．...",
+      "url": "https://finance.sina.com.cn/stock/s/2026-08-30/doc-iniqcfmp8049295.shtml",
+      "content": "来源：雷递 雷递网 雷建平 8月30日 维眸生物科技（浙江）股份有限公司（简称：“维眸生物”）日前更新招股书，准备在港交所上市。 维眸生物2018年完成5000万元B轮融资...",
+      "priority": "low",
+      "sectors": [
+        "医药"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "13:08",
+      "keywords": []
+    },
+    {
+      "title": "大连圣亚2026年上半年净利润1621.43万元，扭亏为盈",
+      "source": "北京商报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmi2545509.shtml",
+      "content": "8月30日，大连圣亚发布2026年半年度报告，报告期内，大连圣亚实现营业收入1.9亿元，同比增长2.29%；归属于上市公司股东的净利润1621.43万元，扭亏为盈。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-08-30",
-      "time": "04:58",
+      "time": "13:06",
       "keywords": []
     },
     {
-      "title": "投资12亿元！又一家A股公司，加码智能机器人！",
-      "source": "e公司",
-      "url": "https://finance.sina.com.cn/stock/2026-08-30/doc-iniqakfv5056766.shtml",
-      "content": "中坚科技拟投资12亿元建设智能机器人产业化项目。 中坚科技（002779）日前公告，公司及控股子公司上海桦之坚科技有限公司（简称“上海桦之坚”）...",
-      "priority": "low",
-      "sectors": [
-        "机器人"
-      ],
-      "period": "night",
-      "date": "2026-08-30",
-      "time": "04:11",
-      "keywords": []
-    },
-    {
-      "title": "尼泊尔泥石流灾害已致734人死亡 2498人失联",
-      "source": "央视新闻客户端",
-      "url": "https://finance.sina.com.cn/jjxw/2026-08-30/doc-iniqakfv5053857.shtml",
-      "content": " 据尼泊尔国家减少灾害风险管理局公布的最新数据，截至当地时间30日9时，尼泊尔泥石流灾害造成的死亡人数升至734人，失联人数为2498人。（总台记者 姚瑞昕）",
+      "title": "仙乐健康上半年营收20.52亿元 全球经营能力持续提升",
+      "source": "证券时报网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmi2538115.shtml",
+      "content": "近日，仙乐健康(300791)披露2026年半年度报告。2026年上半年，公司实现营业收入20.52亿元，同比增长0.51%。 上半年，仙乐健康将经营质量提升贯穿各区域业务发展...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-08-30",
-      "time": "04:07",
+      "time": "12:33",
       "keywords": []
     },
     {
-      "title": "两大超级赛道，爆单！",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/stock/2026-08-30/doc-iniqakft2880120.shtml",
-      "content": "AI算力需求自上而下传导至芯片产业链及上游铜材环节。 据央视财经报道，前7个月我国集成电路出口额超去年全年，同比大增99.5%，存储芯片成最大拉动力...",
+      "title": "华发股份：公司无逾期对外担保的情况",
+      "source": "证券日报网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmi2546382.shtml",
+      "content": "    证券日报网讯8月30日，华发股份发布公告称，截至2026年6月30日，公司及子公司对外担保总额为848.27亿元，占公司2025年经审计归母净资产的898.08%...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-08-30",
-      "time": "03:51",
+      "time": "12:31",
+      "keywords": []
+    },
+    {
+      "title": "乐山电力：2026年半年度营业收入为1533322430.74元",
+      "source": "证券日报网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmm4911137.shtml",
+      "content": "    证券日报网讯8月30日，乐山电力发布2026年半年度报告摘要称，公司2026年半年度实现营业收入1，533，322，430.74元，同比下降5.55%；归属于上市公司股东的净利润为6...",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "12:31",
+      "keywords": []
+    },
+    {
+      "title": "恒运昌：2026年半年度营业收入为278360652.04元",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmi2538113.shtml",
+      "content": "8月30日，恒运昌发布2026年半年度报告摘要称，公司2026年半年度实现营业收入278，360，652.04元，同比下降8.45%；归属于上市公司股东的净利润为52，350，514.07元...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "12:24",
+      "keywords": []
+    },
+    {
+      "title": "德力股份：2026年半年度营业收入为707986529.61元",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmi8115747.shtml",
+      "content": "8月30日，德力股份发布2026年半年度报告摘要称，公司2026年半年度实现营业收入707，986，529.61元，同比下降8.12%；归属于上市公司股东的净利润为-57，384，498.08元。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "12:24",
+      "keywords": []
+    },
+    {
+      "title": "天玛智控：2026年半年度营业收入为642095702.90元",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmi8118226.shtml",
+      "content": "8月30日，天玛智控发布2026年半年度报告摘要称，公司2026年半年度实现营业收入642，095，702.90元，同比下降1.52%；归属于上市公司股东的净利润为6，661，040.83元...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "12:24",
+      "keywords": []
+    },
+    {
+      "title": "中信博：2026年半年度营业收入为2911283050.14元",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-08-30/doc-iniqcfmm4890258.shtml",
+      "content": "8月30日，中信博发布2026年半年度报告摘要称，公司2026年半年度实现营业收入2，911，283，050.14元，同比下降27.88%；归属于上市公司股东的净利润为-203，845，520...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-08-30",
+      "time": "12:24",
       "keywords": []
     },
     {
