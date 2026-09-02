@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-01T21:17:42.297714",
+  "updated": "2026-09-02T00:29:55.998258",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,191 +7,108 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 24,
-    "medium": 22,
-    "low": 104
+    "high": 17,
+    "medium": 21,
+    "low": 112
   },
   "items": [
     {
-      "title": "美国股市：纳斯达克100指数创两周来最大跌幅 美伊冲突打击市场情绪",
+      "title": "日本央行植田和男：将在考量物价上行风险的前提下制定政策",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkkpn3264850.shtml",
-      "content": "纳斯达克100指数创下两周来最大单日跌幅，投资者评估债券收益率上升和油价上涨对美联储政策前景的影响。 纳斯达克100指数收跌1.3%，盘中一度跌1.7%。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkvch7897884.shtml",
+      "content": " 日本央行行长植田和男表示，他将在充分考虑物价上行风险的基础上制定货币政策，此番言论或将进一步加剧市场对本月下旬政策会议可能加息的猜测。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-02",
+      "time": "00:25",
+      "keywords": []
+    },
+    {
+      "title": "伊朗称外汇储备充足",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/roll/2026-09-02/doc-iniqkvce1264373.shtml",
+      "content": "来源：新华财经 伊朗称外汇储备充足 据报道，伊朗央行已准备好向外汇市场注入20亿美元，以稳定近期波动。伊朗将让美国知道，伊朗不仅有外汇，且其储备充足。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "night",
       "date": "2026-09-01",
-      "time": "21:13",
+      "time": "23:41",
       "keywords": []
     },
     {
-      "title": "原油：WTI自7月下旬以来首次突破90美元 美伊敌对态势升级",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkkph4645627.shtml",
-      "content": " 美国原油价格自7月下旬以来首次突破每桶90美元，美国对伊朗发动的新一轮打击令市场担忧霍尔木兹海峡能源运输将长期受扰。",
+      "title": "9月2日财经早餐：黄金深陷加息泥潭险守4300，中东局势一夜变天，美军空袭引爆原油多头盛宴",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/money/forex/forexroll/2026-09-02/doc-iniqkvce1256151.shtml",
+      "content": "汇通财经APP讯——周三（北京时间9月2日）亚市早盘，现货黄金交投于4330美元/盎司附近，金价周二大幅下挫，触及两周低点，险守4300美元/盎司关口，因美债收益率走高...",
       "priority": "high",
       "sectors": [
-        "能源"
+        "能源",
+        "黄金"
       ],
       "period": "night",
       "date": "2026-09-01",
-      "time": "20:34",
+      "time": "23:30",
       "keywords": []
     },
     {
-      "title": "9月2日美股收盘：道指跌逾400点，油价突破90美元，美联储加息概率升至68%",
+      "title": "美国下令奥兰多燃煤电厂机组维持可运行状态",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkkpn8079520.shtml",
-      "content": " 周二美股三大指数集体收跌，美国对伊朗发动新一轮空袭，推动油价走高；同时债券市场遭遇抛售，叠加市场对美联储下一步利率行动的猜测，令买家普遍持观望态度。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-09-01",
-      "time": "20:30",
-      "keywords": []
-    },
-    {
-      "title": "戴尔Q2营收469.7亿超预期，AI服务器全年展望翻三倍，盘后大涨10%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkkph4639007.shtml",
-      "content": "戴尔科技周二盘后股价大涨10%，此前这家电脑制造商公布的业绩和展望轻松超出华尔街预期。 营收为469.7亿美元，同样超出预期的449.2亿美元；调整后每股收益为7.04美元...",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-09-01",
-      "time": "20:20",
-      "keywords": []
-    },
-    {
-      "title": "美国公布贝森特与植田和男会谈纪录 美方暗示支持央行出手撑日元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkkpk1404563.shtml",
-      "content": " 美国财政部长斯科特·贝森特多次暗示，日本需要提高利率以支撑日元。在与日本央行行长植田和男会面后，他进一步释放出支持这一做法的信号。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkqve4612463.shtml",
+      "content": " 美国能源部长克里斯・赖特今日发布一项紧急命令，要求奥兰多公用事业委员会确保佛罗里达州奥兰多市斯坦顿能源中心的1号机组保持可运行状态。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "night",
       "date": "2026-09-01",
-      "time": "20:07",
+      "time": "23:28",
       "keywords": []
     },
     {
-      "title": "欧洲央行管委：核心通胀放缓是好消息",
+      "title": "1.73万亿！公募上半年基金利润，创历史最佳",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-09-02/doc-iniqkvca4486591.shtml",
+      "content": "2026年上半年，公募基金行业交出了一份创纪录的“期中成绩单”。 天相投顾数据显示，2026年上半年，全市场2.58万只产品合计实现基金利润1.73万亿元，同比增幅高达172.27%...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-01",
+      "time": "23:25",
+      "keywords": []
+    },
+    {
+      "title": "刚刚，伊朗打击三国美军基地，“大量美军死伤”！特朗普：最终打击正在酝酿之中！油价大涨",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-02/doc-iniqkvch3049752.shtml",
+      "content": "来源：期货日报 早上好，先来关注下中东局势。 美军称完成一波针对伊朗军事目标的打击行动 据央视新闻消息，美军中央司令部当地时间9月1日称...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-01",
+      "time": "23:23",
+      "keywords": []
+    },
+    {
+      "title": "韩国8月通胀加速 强化央行保持紧缩立场的前景",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkefk4667611.shtml",
-      "content": "欧洲央行管委、德国央行行长Joachim Nagel表示，欧元区8月核心通胀放缓是一个积极进展。 Nagel周二表示，“好消息是核心通胀率已经下降”，服务业通胀也有所回落。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkqvk3174660.shtml",
+      "content": "韩国8月通胀率加速程度低于预期，但核心价格涨幅创三年多来最快，这增强了韩国央行维持紧缩政策的理由。 韩国数据统计部门周三公布的数据显示，8月消费价格指数同比上涨3...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-09-01",
-      "time": "17:07",
-      "keywords": []
-    },
-    {
-      "title": "全球债券收益率升至2008年来最高 对美联储升息的预期增强",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkkph4635296.shtml",
-      "content": "随着油价上涨加剧了通胀疑虑，投资人对美联储升息的预期也增强，全球债券收益率周二攀升至近20年的最高水平。 这轮走势始于上周五...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-01",
-      "time": "17:00",
-      "keywords": []
-    },
-    {
-      "title": "贝森特称强烈支持日本就严重低估的日元采取果断行动",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqixxs3436149.shtml",
-      "content": " 美国财政部发布新闻稿称，部长贝森特周日会晤日本央行行长植田和男时，“对日本为应对日元严重低估采取的果断市场和货币措施表达了强烈支持”。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-01",
-      "time": "16:22",
-      "keywords": []
-    },
-    {
-      "title": "欧元区通胀重回 3% 以上，加息或将接踵而至",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqixxs8247061.shtml",
-      "content": "核心要点受伊朗战争推高能源价格影响，欧元区 8 月通胀率升至 3.3%；7 月、6 月通胀分别为 2.9%、2.8%。市场预期，继 6 月加息之后...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-01",
-      "time": "15:33",
-      "keywords": []
-    },
-    {
-      "title": "欧洲央行管委：9月加息一次恐怕还不够",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqixxs3416895.shtml",
-      "content": "欧洲央行管委Gediminas Simkus表示，即使欧洲央行下周加息，也不足以让通胀回到目标水平。 这位立陶宛央行官员在采访中表示，“目前所有可获得的数据都让我认为...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-01",
-      "time": "15:20",
-      "keywords": []
-    },
-    {
-      "title": "美联储理事巴尔：若通胀不降温，将支持加息",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqixxs8239012.shtml",
-      "content": "美联储理事迈克尔·巴尔周二表示，如果通胀没有缓解，他将准备支持加息。 在华盛顿举行的一个银行业论坛上，这位政策制定者表示，他担心“更广泛的价格压力正在形成”...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-01",
-      "time": "15:04",
-      "keywords": []
-    },
-    {
-      "title": "特朗普称美国利率过高，美联储理事巴尔：若通胀降温不足，应果断加息",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-01/doc-iniqixxs3407402.shtml",
-      "content": " 9月1日，美联储理事迈克尔·巴尔（Michael S． Barr）在华盛顿发表讲话时表示，如果通胀没有充分放缓，他认为美联储“应该果断采取行动加息”。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-09-01",
-      "time": "14:50",
-      "keywords": []
-    },
-    {
-      "title": "美、日、德、英、澳……全球债市崩了",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/wm/2026-09-01/doc-iniqixxq1489315.shtml",
-      "content": "作者 |第一财经后歆桐 封图 |AI生成 周二（9月1日），随着国际油价上涨加剧对全球进入结构性通胀的担忧，以及投资者对美联储加息预期提高...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-01",
-      "time": "14:39",
+      "time": "23:20",
       "keywords": []
     },
     {
@@ -205,7 +122,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -221,7 +138,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -237,7 +154,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -253,7 +170,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -269,7 +186,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -285,7 +202,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -301,7 +218,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -317,7 +234,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -333,7 +250,7 @@
         "黄金"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "大宗观察"
@@ -349,166 +266,148 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
       ]
     },
     {
-      "title": "监管的收紧能否让同类增信安排在下一单交易里被充分识别、披露和定价，仍要靠此后的案例来检验",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-08-14/102473981.html?cxapp_link=true",
-      "content": "监管的收紧能否让同类增信安排在下一单交易里被充分识别、披露和定价，仍要靠此后的案例来检验",
-      "priority": "high",
+      "title": "派发2500多亿元“红包”，上市银行中期分红阵营扩大",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-09-02/doc-iniqkvch7899305.shtml",
+      "content": "◎记者 张欣然 徐潇潇 随着2026年上市银行半年报季收官，“中期分红”成为最受市场关注的关键词。截至8月底，各类型银行相继披露中期分红计划...",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-09-02",
+      "time": "00:27",
+      "keywords": []
+    },
+    {
+      "title": "光大证券遭易方达基金减持113.58万股 每股作价约7.48港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-02/doc-iniqkvce1292468.shtml",
+      "content": "香港联交所最新数据显示，8月26日，易方达基金管理有限公司减持光大证券（06178）113.58万股，每股作价7.4841港元，总金额约为850.04万港元。",
+      "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
-      "date": "2026-09-01",
-      "time": "--:--",
+      "period": "night",
+      "date": "2026-09-02",
+      "time": "00:16",
       "keywords": [
-        "交易簿"
+        "光大证券",
+        "易方达基金",
+        "减持"
       ]
     },
     {
-      "title": "9月2日热门中概股多数下跌，阿里巴巴跌1%，贝壳涨超3%",
+      "title": "韩股开盘大幅下跌逾3%，因中东紧张局势加剧",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkkpn8091172.shtml",
-      "content": "9月2日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）收跌0.34%。 上涨个股（按市值从高到低）：日月光半导体涨1.30%，联电涨2.97%，中华电信涨0.07%，贝壳涨3.20%...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkvce1286119.shtml",
+      "content": "韩国股市周三开盘大幅下跌，追随隔夜美股走势，因美国与伊朗持续互相发动军事打击，导致油价上涨。 韩国综合股价指数（KOSPI）开盘报6625.47点，较前一交易日下跌210...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-02",
+      "time": "00:09",
+      "keywords": []
+    },
+    {
+      "title": "百奥赛图获富国基金管理有限公司增持53.6万股 每股作价约60.17港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-02/doc-iniqkvce1280335.shtml",
+      "content": "香港联交所最新数据显示，8月28日，富国基金管理有限公司增持百奥赛图（02315）53.6万股，每股作价60.1705港元，总金额约为3225.14万港元。",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-09-02",
+      "time": "00:03",
+      "keywords": [
+        "百奥赛图",
+        "富国基金",
+        "增持"
+      ]
+    },
+    {
+      "title": "日韩股市低开 韩国股市开盘下跌3.1%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkvch3058640.shtml",
+      "content": " 日经225指数上午开盘报65195.43点，跌幅1.54%。韩国综合股价指数（KOSPI）开盘下跌3.1%，至6625.47点。三星电子股价下跌3%。海力士股价下跌3%。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-02",
+      "time": "00:01",
+      "keywords": []
+    },
+    {
+      "title": "康诺亚-B遭汇添富基金管理股份有限公司减持4.8万股 每股作价约78.40港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-02/doc-iniqkvca4500811.shtml",
+      "content": "香港联交所最新数据显示，8月27日，汇添富基金管理股份有限公司减持康诺亚-B（02162）4.8万股，每股作价78.4010港元，总金额约为376.32万港元。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "night",
       "date": "2026-09-01",
-      "time": "21:11",
-      "keywords": []
+      "time": "23:55",
+      "keywords": [
+        "康诺亚-B",
+        "汇添富基金",
+        "减持"
+      ]
     },
     {
-      "title": "国际原子能机构称无法核实伊朗核状况 核查工作受阻",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkefk4711391.shtml",
-      "content": " 联合国核监督机构表示，伊朗继续拒绝国际核查人员进入其核设施。目前几乎没有迹象表明伊朗和美国接近找到结束这场持续六个月冲突的办法。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-09-01",
-      "time": "18:19",
-      "keywords": []
-    },
-    {
-      "title": "欧洲股市月线五连涨后于9月首日收低 投资者等待新的催化剂",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkefn1434756.shtml",
-      "content": "欧洲股市周二下跌，此前已连续五个月上涨。油价走高加剧通胀担忧，并推动全球债券收益率升至近20年来最高水平。 斯托克欧洲600指数收盘下跌0.6%。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-01",
-      "time": "16:58",
-      "keywords": []
-    },
-    {
-      "title": "美敦力上调业绩展望，逾7亿美元布局心脏技术与外科机器人",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkefq8143640.shtml",
-      "content": "公司上调全年调整后每股收益指引至 5.94‑6.00 美元，将指引下限上调 4 美分 受各业务板块需求普遍回暖、新兴增长平台贡献拉动，美敦力公布财年第一季度利润与营收双双走高...",
-      "priority": "medium",
-      "sectors": [
-        "机器人"
-      ],
-      "period": "noon",
-      "date": "2026-09-01",
-      "time": "16:56",
-      "keywords": []
-    },
-    {
-      "title": "派珀‑桑德勒上调阿卡迈评级，算力业务增长有望提速",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqixxs8262158.shtml",
-      "content": "派珀‑桑德勒投行表示，阿卡迈（AKAM）将不得不加大资本开支，以满足算力业务的市场需求，但这些投入终将为公司带来长期增长回报。",
+      "title": "大幅上调营收指引，AI基础设施龙头盘后一度涨超11%",
+      "source": "中国证券报",
+      "url": "https://finance.sina.com.cn/stock/s/2026-09-02/doc-iniqkvch7882361.shtml",
+      "content": "当地时间9月1日，美股三大指数连续第三个交易日下跌。中东局势再度升级推动国际油价大幅上涨，全球债券市场抛售加剧，美债收益率、美元指数、油价齐升...",
       "priority": "medium",
       "sectors": [
         "AI"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-09-01",
-      "time": "16:19",
+      "time": "23:51",
       "keywords": []
     },
     {
-      "title": "美国制造业增长速度放缓 但仍接近四年高位",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqixxs8255037.shtml",
-      "content": "美国8月制造业活动连续第八个月扩张，不过新订单和就业增长放缓，显示工厂需求有所降温。 美国供应管理协会（ISM）周二公布的数据显示，8月制造业指数下降1点至54.6...",
+      "title": "中信建投：均衡配置，重视机构低配品种",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-09-02/doc-iniqkvce1273089.shtml",
+      "content": "中信建投证券研究 文|夏凡捷 8月A股整体修复，中小盘成长弹性较强，行业表现向资源及低位方向扩散。上证综指、东财全A分别上涨4.02%、4.71%，中证1000、中证2000上涨9...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-09-01",
-      "time": "15:56",
+      "time": "23:50",
       "keywords": []
     },
     {
-      "title": "美股能源ETF刷新阶段新高",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqixxn4746343.shtml",
-      "content": "周二，多只能源行业交易所交易基金（ETF）创下新高。 道富能源板块精选 SPDR ETF（XLE）创下该基金自 1998 年成立以来的历史盘中新高，该基金最新涨幅接近 1%。",
-      "priority": "medium",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-09-01",
-      "time": "15:35",
-      "keywords": []
-    },
-    {
-      "title": "超强厄尔尼诺预期，“点燃”种业板块",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-01/doc-iniqixxn4748299.shtml",
-      "content": "来源：财联社 超强厄尔尼诺预期持续升温，A股农业板块今日再次全线爆发，其中种业概念最为突出。 截至今日收盘，万向德农（600371.SH）收获6连板，神农种业（300189.SZ）...",
+      "title": "超3900亿元！全国社保基金2025年投资收益成绩单出炉",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-09-02/doc-iniqkvch3048322.shtml",
+      "content": "9月1日，全国社会保障基金理事会发布《全国社会保障基金2025年度报告》显示，2025年，基金投资收益额为3906.72亿元，投资收益率为13.22%。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-09-01",
-      "time": "15:35",
-      "keywords": []
-    },
-    {
-      "title": "霍尔木兹海峡油轮遇袭 油价应声上涨",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqixxs3403840.shtml",
-      "content": "周一晚间，两艘超大型油轮在驶离霍尔木兹海峡时遭射弹袭击，标志着这一全球能源咽喉要道的敌对行动再度升级。海事安全机构Marisks称...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-01",
-      "time": "14:43",
-      "keywords": []
-    },
-    {
-      "title": "芯原股份，遭国家大基金减持！",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-09-01/doc-iniqixxq1484731.shtml",
-      "content": "每经记者|黄胜每经编辑|陈俊杰 芯原股份（SH688521，股价192.4元，市值1011.86亿元）9月1日晚间发布《关于股东权益变动触及5%刻度的提示性公告》...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-01",
-      "time": "14:37",
+      "time": "23:25",
       "keywords": []
     },
     {
@@ -521,7 +420,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "量化观察"
@@ -538,7 +437,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "权益周观察"
@@ -555,7 +454,7 @@
         "消费"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "数据图解"
@@ -571,7 +470,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "权益周观察"
@@ -587,7 +486,7 @@
         "光模块"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "公司速递"
@@ -603,7 +502,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -619,7 +518,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -635,7 +534,7 @@
         "消费"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -651,7 +550,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "权益周观察"
@@ -667,7 +566,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "交易簿"
@@ -683,7 +582,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "行业深度"
@@ -699,389 +598,605 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
       ]
     },
     {
-      "title": "IRIB：伊朗称袭击了位于约旦的美军基地并造成人员伤亡",
+      "title": "中国进出口银行第四届国际船舶融资论坛将于9月3日在上海举行",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-09-02/doc-iniqkvch3071335.shtml",
+      "content": " 9月3日，中国进出口银行第四届国际船舶融资论坛将在上海举行。本届论坛以绿色航运、创新合作为主题，将有来自17个国家200余位业内代表出席论坛。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-09-02",
+      "time": "00:25",
+      "keywords": []
+    },
+    {
+      "title": "美官员称雪佛龙将宣布新的委内瑞拉投资计划",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkkpk1438243.shtml",
-      "content": " 伊朗伊斯兰共和国广播电视台（IRIB）援引伊斯兰革命卫队声明报道称，革命卫队对位于约旦的美军军事基地Camp Titin发动了“重型弹道导弹袭击”。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkvce1297389.shtml",
+      "content": "美国官员周二表示，石油巨头雪佛龙正计划扩大其在委内瑞拉的业务。就在几天前，美国总统唐纳德·特朗普宣布了一项雄心勃勃的协议，旨在开发该国的石油储量...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "night",
-      "date": "2026-09-01",
-      "time": "21:12",
+      "date": "2026-09-02",
+      "time": "00:20",
       "keywords": []
     },
     {
-      "title": "Anthropic将推出人工智能模型Fable新版本 收费更便宜而编程能力更强",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkkpk1423231.shtml",
-      "content": " Anthropic PBC将发布其强大人工智能模型Fable的新版本。公司称，Fable 5.1在编程和科研任务方面表现更好，同时费用也更低，这些调整均是根据客户反馈作出的。",
+      "title": "荣晖控股拟斥资5.1万元收购深圳市中翱餐饮管理有限公司51%股权",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-02/doc-iniqkvch7894676.shtml",
+      "content": "荣晖控股（08213）公布，于2026年9月1日（交易时段后），公司的间接全资附属永曜星科技（深圳）有限公司拟向深圳市芯路辉科技有限公司收购深圳市中翱餐饮管理有限公司51%股...",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-09-02",
+      "time": "00:20",
+      "keywords": [
+        "荣晖控股",
+        "收购",
+        "股权"
+      ]
+    },
+    {
+      "title": "瑞浦兰钧：中国证监会受理公司H股全流通备案申请",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-02/doc-iniqkvca4523107.shtml",
+      "content": "瑞浦兰钧（00666）发布公告，于2026年9月1日，中国证券监督管理委员会已受理公司代表公司若干股东向中国证监会提交的关于建议实施H股全流通的备案申请。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "night",
-      "date": "2026-09-01",
-      "time": "20:45",
+      "date": "2026-09-02",
+      "time": "00:19",
+      "keywords": [
+        "瑞浦兰钧",
+        "H股",
+        "全流通"
+      ]
+    },
+    {
+      "title": "英伟达据悉本周接近达成140亿美元收购Hugging Face的交易",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkvca4522492.shtml",
+      "content": " 据知情人士透露，英伟达公司正就收购人工智能初创企业 Hugging Face 开展深度谈判，这笔交易总规模约可达 140 亿美元。",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-09-02",
+      "time": "00:18",
       "keywords": []
     },
     {
-      "title": "美国国会表决通过临时拨款法案 联邦政府得以避免停摆",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkkph4650187.shtml",
-      "content": " 美国国会通过一项临时拨款法案，特朗普政府得以避免在10月1日陷入停摆，暂时绕开了过去一年多次导致政府运作受扰的党派争斗。",
+      "title": "中国船舶租赁拟斥资32.35亿元建造十艘船舶",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-02/doc-iniqkvch3066747.shtml",
+      "content": "中国船舶租赁（03877）公布，于2026年9月1日，公司（作为买方）与澄西船舶修造及中船贸易（作为卖方）订立十份造船合同，以建造十艘船舶。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "night",
-      "date": "2026-09-01",
-      "time": "20:44",
-      "keywords": []
+      "date": "2026-09-02",
+      "time": "00:18",
+      "keywords": [
+        "中国船舶租赁",
+        "建造",
+        "船舶"
+      ]
     },
     {
-      "title": "美国财长贝森特淡化霍尔木兹海峡重要性 暗示将扩大涉伊制裁",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkkph4632811.shtml",
-      "content": " 美国财政部长斯科特·贝森特周二淡化了霍尔木兹海峡的重要性。他表示，这条在近期冲突中由伊朗控制、对波斯湾能源运输至关重要的水道，很快将被输油管道绕开。",
+      "title": "NIU HOLDINGS：泰达已退任核数师",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-02/doc-iniqkvca4521045.shtml",
+      "content": "NIU HOLDINGS（08619）发布公告，由于第 3 项决议案（内容关于续聘泰达会计师事务所有限公司（泰达）为本公司核数师）并未于股东周年大会上获股东通过...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "night",
-      "date": "2026-09-01",
-      "time": "20:08",
-      "keywords": []
+      "date": "2026-09-02",
+      "time": "00:17",
+      "keywords": [
+        "NIU HOLDINGS",
+        "泰达",
+        "核数师"
+      ]
     },
     {
-      "title": "伊朗官媒称美军袭击造成两名平民死亡",
+      "title": "中金公司获摩根大通增持约392.67万股 每股作价约22.09港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-02/doc-iniqkvch3065040.shtml",
+      "content": "香港联交所最新资料显示，8月26日，摩根大通增持中金公司（03908）392.6726万股，每股作价22.0903港元，总金额约为8674.26万港元。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-09-02",
+      "time": "00:15",
+      "keywords": [
+        "中金公司",
+        "摩根大通",
+        "增持"
+      ]
+    },
+    {
+      "title": "亚洲联网科技获主席兼董事总经理蓝国庆增持1万股 每股作价约5.205港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-02/doc-iniqkvch7890884.shtml",
+      "content": "香港联交所最新数据显示，8月31日，主席兼董事总经理蓝国庆增持亚洲联网科技（00679）1万股，每股作价5.205港元，总金额为5.205万港元。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-09-02",
+      "time": "00:13",
+      "keywords": [
+        "亚洲联网科技",
+        "蓝国庆",
+        "增持"
+      ]
+    },
+    {
+      "title": "新奥能源控股获董事会主席王玉锁增持15万股 每股作价约49.27港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-02/doc-iniqkvch7890203.shtml",
+      "content": "香港联交所最新数据显示，9月1日，董事会主席王玉锁增持新奥能源控股（02688）15万股，每股作价49.2697港元，总金额约为739.05万港元。",
+      "priority": "low",
+      "sectors": [
+        "能源",
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-09-02",
+      "time": "00:11",
+      "keywords": [
+        "新奥能源",
+        "王玉锁",
+        "增持"
+      ]
+    },
+    {
+      "title": "首程控股获执行董事刘景伟增持20万股 每股作价约1.39港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-02/doc-iniqkvch3062871.shtml",
+      "content": "香港联交所最新数据显示，9月1日，执行董事刘景伟增持首程控股（00697）20万股，每股作价1.3875港元，总金额为27.75万港元。增持后最新持股数目为514.32万股...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-09-02",
+      "time": "00:10",
+      "keywords": [
+        "首程控股",
+        "刘景伟",
+        "增持"
+      ]
+    },
+    {
+      "title": "查理・柯克谋杀案嫌疑人被要求接受死刑审判",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkkpn8068603.shtml",
-      "content": " 伊朗伊斯兰共和国广播电视台援引南部霍尔木兹甘省安全官员报道称，美军对锡里克附近发动的袭击造成两人死亡和多人受伤。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkvca4513515.shtml",
+      "content": " 犹他州一名法官于周二裁定，针对被控杀害政治评论员查理・柯克的男子的谋杀案可以继续审理，检方指控的罪名可对该嫌疑人适用死刑。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "night",
-      "date": "2026-09-01",
-      "time": "19:54",
+      "date": "2026-09-02",
+      "time": "00:09",
       "keywords": []
     },
     {
-      "title": "伊朗官媒称伊斯兰革命卫队开始对美国进行报复性打击",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkkpn8065472.shtml",
-      "content": " 伊朗伊斯兰共和国广播电视台报道称，伊斯兰革命卫队发表声明说周二对美国的打击做出了“将让侵略者为其行径感到后悔”的回应。",
+      "title": "江西铜业股份获摩根大通增持约289.38万股 每股作价约40.06港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-02/doc-iniqkvch7889394.shtml",
+      "content": "香港联交所最新资料显示，8月26日，摩根大通增持江西铜业股份（00358）289.3762万股，每股作价40.0564港元，总金额约为1.16亿港元。",
+      "priority": "low",
+      "sectors": [
+        "有色",
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-09-02",
+      "time": "00:09",
+      "keywords": [
+        "江西铜业股份",
+        "摩根大通",
+        "增持"
+      ]
+    },
+    {
+      "title": "佳兆业健康遭Kaisa Group Holdings Ltd.减持约279万股 每股作价约1.86港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-02/doc-iniqkvch7887271.shtml",
+      "content": "香港联交所最新资料显示，8月27日，Kaisa Group Holdings Ltd．减持佳兆业健康（00876）278.9967万股，每股作价1.8550港元，总金额约为517.54万港元。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "night",
-      "date": "2026-09-01",
-      "time": "19:44",
+      "date": "2026-09-02",
+      "time": "00:04",
+      "keywords": [
+        "佳兆业健康",
+        "减持"
+      ]
+    },
+    {
+      "title": "荣昌生物遭执行董事王玉晓减持6500股 每股作价82港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-02/doc-iniqkvce1278895.shtml",
+      "content": "香港联交所最新资料显示，8月26日，执行董事王玉晓减持荣昌生物（09995）6500股，每股作价82港元，总金额为53.3万港元。减持后最新持股数目为2229.21万股...",
+      "priority": "low",
+      "sectors": [
+        "医药"
+      ],
+      "period": "night",
+      "date": "2026-09-02",
+      "time": "00:02",
+      "keywords": [
+        "荣昌生物",
+        "王玉晓",
+        "减持"
+      ]
+    },
+    {
+      "title": "耐世特获贝莱德增持248.3万股 每股作价约5.07港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-02/doc-iniqkvca4505112.shtml",
+      "content": "香港联交所最新资料显示，8月27日，贝莱德增持耐世特（01316）248.3万股，每股作价5.0735港元，总金额约为1259.75万港元。增持后最新持股数目约为1.52亿股...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-09-02",
+      "time": "00:01",
+      "keywords": [
+        "耐世特",
+        "贝莱德",
+        "增持"
+      ]
+    },
+    {
+      "title": "特斯拉称FSD在欧洲的事故率远低于人工驾驶",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkvch3058579.shtml",
+      "content": "特斯拉周二表示，在欧洲，其 FSD监督版软件在欧洲发生碰撞事故的概率，比人工驾驶的特斯拉车辆低 4.1 倍。 特斯拉欧洲分公司在 X 平台发帖称...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-02",
+      "time": "00:01",
       "keywords": []
     },
     {
-      "title": "富国银行加入摩根大通行列 对美股后市表现持谨慎看法",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkkpn8063492.shtml",
-      "content": " 富国银行成为本周第二家对美股转趋谨慎的银行。随着市场进入历史上表现最差的月份之一，加之中期选举给人工智能交易增添不确定性，富国对9月美股前景发出警告。",
+      "title": "艾德韦宣集团获执行董事陈伟彬增持约141.63万股 每股作价0.7港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-02/doc-iniqkvca4503452.shtml",
+      "content": "香港联交所最新数据显示，8月28日，执行董事陈伟彬增持艾德韦宣集团（09919）141.6344万股，每股作价0.7港元，总金额约为99.14万港元。",
       "priority": "low",
       "sectors": [
         "金融"
       ],
       "period": "night",
       "date": "2026-09-01",
-      "time": "19:38",
-      "keywords": []
+      "time": "23:59",
+      "keywords": [
+        "艾德韦宣集团",
+        "陈伟彬",
+        "增持"
+      ]
     },
     {
-      "title": "欧洲天然气期货价格升至2023年以来最高水平",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-02/doc-iniqkkpk1389404.shtml",
-      "content": "随着美国对伊朗发动新一轮打击，欧洲天然气基准期货价格飙升至2023 年1月以来最高水平。 截至阿姆斯特丹时间晚上9点02分，作为欧洲天然气基准的荷兰近月期货价格上涨5.9%...",
+      "title": "富智康集团获首席执行官林佳亿增持5万股 每股作价16.13港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-02/doc-iniqkvch7884402.shtml",
+      "content": "香港联交所最新数据显示，8月31日，首席执行官林佳亿增持富智康集团（02038）5万股，每股作价16.13港元，总金额为80.65万港元。增持后最新持股数目约为128.03万股...",
       "priority": "low",
       "sectors": [
-        "能源"
+        "金融"
       ],
       "period": "night",
       "date": "2026-09-01",
-      "time": "19:34",
-      "keywords": []
+      "time": "23:58",
+      "keywords": [
+        "富智康集团",
+        "林佳亿",
+        "增持"
+      ]
     },
     {
-      "title": "伊朗将对美国空袭做出“更强烈”的回应",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkefk4693853.shtml",
-      "content": " 消息人士称，伊朗将对美国周二的打击进行报复，而且反击力度将“高出数倍”。美国在本地区的基地和利益将很快遭到伊朗打击。",
+      "title": "泓富产业信托遭ESR Asset Management (Prosperity) Limited减持40.9万股 每股作价约1.47港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-02/doc-iniqkvce1272125.shtml",
+      "content": "香港联交所最新数据显示，8月31日，ESR Asset Management （Prosperity） Limited减持泓富产业信托（00808）40.9万股，每股作价1.4746港元，总金额约为60.31万港元。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-09-01",
-      "time": "17:51",
-      "keywords": []
+      "time": "23:54",
+      "keywords": [
+        "泓富产业信托",
+        "减持"
+      ]
     },
     {
-      "title": "特朗普：袭击伊朗是对该国试图布雷的报复",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkefn1461678.shtml",
-      "content": "美国总统特朗普表示，美军目前正对霍尔木兹海峡附近的伊朗目标实施打击，以“报复伊朗向海峡布设水雷的企图”。 他称，霍尔木兹海峡“目前没有水雷...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-01",
-      "time": "17:44",
-      "keywords": []
-    },
-    {
-      "title": "英债收益率升至数十年高位 致使政府财政缓冲空间减半",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkefq3319955.shtml",
-      "content": " 英国首相安迪·伯纳姆周二重返议会时，立即面对英国公共财政疲弱的严峻现实。全球政府债券遭遇抛售，使他面临一个规模约为120亿英镑的问题。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-01",
-      "time": "17:06",
-      "keywords": []
-    },
-    {
-      "title": "美国对伊朗发动新一轮空袭　霍尔木兹海峡战云密布",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkefq8146433.shtml",
-      "content": "美国对霍尔木兹海峡周边的伊朗目标发动新一轮打击，在双方都拒绝就这一关键水道让步之际，美伊双方战事不断。 中央司令部表示，在伊朗袭击地区商业航运和美军人员后...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-01",
-      "time": "17:05",
-      "keywords": []
-    },
-    {
-      "title": "美军对伊朗境内革命卫队目标发动打击",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkefq3317555.shtml",
-      "content": "美国中央司令部在社交媒体平台发文称，美军于美东时间周二中午12时开始打击伊朗境内的革命卫队目标。 美军中央司令部表示：“此次打击旨在回应革命卫队近期企图袭击霍尔木兹...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-01",
-      "time": "16:59",
-      "keywords": []
-    },
-    {
-      "title": "欧洲债市：英国国债领跌 欧洲政府债券收窄跌幅",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkefk4662572.shtml",
-      "content": "欧洲债券跟随美国国债延续跌势，其中英国国债表现落后。 欧洲政府债券一度短暂收复失地，但随后再度转跌，收盘小幅走低。 30年期德国国债收益率一度触及3.84%...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-01",
-      "time": "16:58",
-      "keywords": []
-    },
-    {
-      "title": "为何要关注债券收益率上行",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkefq3315411.shtml",
-      "content": "作者：布莱恩・索齐 切莫忽视债券收益率的持续上行，否则将自担风险！ 从历史统计来看，9 月历来是市场表现最差的月份之一。卡森集团的数据显示，自 2006 年以来...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-01",
-      "time": "16:53",
-      "keywords": []
-    },
-    {
-      "title": "美国7月劳动力市场几无变化，招聘与裁员规模均小幅回落",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkefq3313922.shtml",
-      "content": " 美国劳工部发布月度职位空缺与劳动力流动调查报告（JOLTS）显示，7 月职位空缺与招聘人数基本持平，最新信号表明劳动力市场陷入 “低招聘、低裁员” 格局。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-01",
-      "time": "16:49",
-      "keywords": []
-    },
-    {
-      "title": "马斯克近期调整了SpaceX数据中心领导团队",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqixxn4773047.shtml",
-      "content": " 马斯克近几周对SpaceX负责建设数据中心的团队进行了重组，以SpaceX火箭和卫星互联网业务的多名高管取代原有部分负责人。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-01",
-      "time": "16:21",
-      "keywords": []
-    },
-    {
-      "title": "美国银行副总裁在纽约时报广场刀袭案中遇难",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqixxn4764748.shtml",
-      "content": "美国银行一位副总裁周一在纽约时报广场遭持刀杀害，此次袭击还造成另一名受害者负伤及嫌凶本人丧生。 纽约市警察局称，Erin Piacenti因刀伤在医院不治身亡。",
+      "title": "和誉-B获Allianz SE增持32万股 每股作价约9.82港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-02/doc-iniqkvch3055072.shtml",
+      "content": "香港联交所最新资料显示，8月27日，Allianz SE增持和誉-B（02256）32万股，每股作价9.8244港元，总金额约为314.38万港元。增持后最新持股数目为5087.1万股...",
       "priority": "low",
       "sectors": [
         "金融"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-09-01",
-      "time": "16:06",
-      "keywords": []
+      "time": "23:53",
+      "keywords": [
+        "和誉-B",
+        "增持"
+      ]
     },
     {
-      "title": "资本市场预期美国第四季度经济表现向好",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqixxq1534696.shtml",
-      "content": "资本市场认为，在美国经济经历第三季度震荡之后，第四季度有望迎来强劲表现。 分析师写道：“就下半年而言，我们依旧预判第三季度市场波动将会加剧；倘若通胀能够回落...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-01",
-      "time": "16:03",
-      "keywords": []
-    },
-    {
-      "title": "加拿大总理卡尼：美国官员侮辱加拿大让谈判无法恢复",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqixxq1520918.shtml",
-      "content": " 加拿大总理马克·卡尼在渥太华对记者表示，他仍认为加拿大和美国有可能达成一项“互利”的贸易协议，但只要特朗普政府官员继续公开羞辱加拿大，双方就无法恢复谈判。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-01",
-      "time": "15:39",
-      "keywords": []
-    },
-    {
-      "title": "道明证券：美财政部加码长债回购料使10年期期限溢价下降约5个基点",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqixxs3415071.shtml",
-      "content": " 道明证券表示，美国财政部计划将10年至30年期国债回购规模“至少提高一倍”，如果每次操作的最高回购规模为40亿美元，可能令10年期国债期限溢价下降约5个基点。",
+      "title": "中安控股集团获Omnipartners Holdings Limited增持978万股 每股作价0.097港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-02/doc-iniqkvch7881448.shtml",
+      "content": "香港联交所最新资料显示，7月3日，Omnipartners Holdings Limited增持中安控股集团（08462）978万股，每股作价0.0970港元，总金额约为94.87万港元。",
       "priority": "low",
       "sectors": [
         "金融"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-09-01",
-      "time": "15:14",
-      "keywords": []
+      "time": "23:52",
+      "keywords": [
+        "中安控股集团",
+        "增持"
+      ]
     },
     {
-      "title": "是否会重演1997年亚洲金融危机？汇丰首席经济学家发现诸多显著相似之处",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqixxs3414284.shtml",
-      "content": "核心要点汇丰首席经济学家表示，美债收益率上行、日元走弱以及科技市场乐观情绪，与 1997 年亚洲金融危机前夕的市场环境高度相似。",
+      "title": "天工国际获天工控股连续两日大手笔增持 涉资超637万港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-02/doc-iniqkvch7880942.shtml",
+      "content": "天工国际大股东天工控股（Tiangong Holdings Company Limited）连续两日大手笔增持天工国际（00826）股份，于8月31日至9月1日合计增持200万股，涉及金额超637万港元。",
       "priority": "low",
       "sectors": [
         "金融"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-09-01",
-      "time": "15:11",
-      "keywords": []
+      "time": "23:50",
+      "keywords": [
+        "天工国际",
+        "天工控股",
+        "增持"
+      ]
     },
     {
-      "title": "48.05亿元，翻倍牛股拟大手笔定增",
-      "source": "中国证券报-中证网",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-01/doc-iniqixxs8241132.shtml",
-      "content": "9月1日晚，盛科通信公告称，公司拟向不超过35名（含35名）符合法律法规规定的特定对象发行A股股票募集资金，总额预计不超过48.05亿元...",
+      "title": "吉隆口岸抢险取得重要进展",
+      "source": "长安街知事",
+      "url": "https://finance.sina.com.cn/stock/2026-09-02/doc-iniqkvch3053612.shtml",
+      "content": "8月26日上午，因尼泊尔一侧发生泥石流灾害，造成西藏日喀则市吉隆县吉隆口岸重大人员伤亡、失联。 据央视新闻9月2日消息，抢险救援救灾各项工作仍在紧张有序推进...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-09-01",
-      "time": "15:05",
+      "time": "23:45",
       "keywords": []
     },
     {
-      "title": "加拿大总理卡尼抨击特朗普政府“只会做表情包”和“冷嘲热讽”",
+      "title": "中一签或赚超28万！国产GPU四小龙之一，今日申购",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/stock/newstock/zxdt/2026-09-02/doc-iniqkvch3052647.shtml",
+      "content": "记者丨李益文 编辑|叶映橙 视频|许婷婷 9月2日，有两只新股申购，为科创板的燧原科技（688801.SH）与北交所的腾信精密（920298.BJ）。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-09-01",
+      "time": "23:44",
+      "keywords": []
+    },
+    {
+      "title": "美国航母来了，泰国心情很复杂",
+      "source": "牛弹琴",
+      "url": "https://finance.sina.com.cn/wm/2026-09-02/doc-iniqkvce1262858.shtml",
+      "content": "美国航母来了，泰国心情很复杂。 今天早上，看到路透社的一篇报道，真是让人哭笑不得。 文章说，经过在中东超长时间的军事部署，美国“林肯号”航母终于撤离战场...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-01",
+      "time": "23:38",
+      "keywords": []
+    },
+    {
+      "title": "美财长称霍尔木兹海峡两年内将“毫无价值”",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqixxn4729753.shtml",
-      "content": "加拿大总理马克·卡尼周二抨击特朗普政府，称其在贸易战不断升级之际，对加拿大“只会做表情包”和“冷嘲热讽”。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkvce1260364.shtml",
+      "content": " 美国财政部长斯科特·贝森周二再次淡化霍尔木兹海峡的重要性，称其在两年内将会 “变成一片毫无价值的水域”，届时石油将通过陆上管道运输，不再经由这条关键航道。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-09-01",
-      "time": "15:01",
+      "time": "23:37",
       "keywords": []
     },
     {
-      "title": "美众议院议长约翰逊推动临时拨款法案 避免政府停摆",
+      "title": "美国长债收益率重返贝森特出手前水平 市场说光靠扩大回购不够",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqixxs8236304.shtml",
-      "content": "美国众议院议长迈克·约翰逊及共和党领导人于周二发表讲话，与此同时，议员们正准备审议一项已在参议院通过的临时拨款法案，该法案旨在赶在9月30日截止日期前避免又一次政府...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkvch3048431.shtml",
+      "content": " 美国最长天期的政府债券收益率攀升，重返上个月财政部长斯科特·贝森特震撼市场、宣布扩大债券回购计划以遏止收益率上扬之前的水准。",
       "priority": "low",
       "sectors": [
-        "综合"
+        "金融"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-09-01",
-      "time": "14:56",
+      "time": "23:35",
       "keywords": []
     },
     {
-      "title": "SpaceX重组数据中心领导团队 扩张计划遭遇可靠性挑战",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqixxn4722790.shtml",
-      "content": "近期，SpaceX对旗下数据中心建设团队进行了高层人事调整，多名负责人被替换，接任者主要来自公司火箭与卫星互联网业务。知情人士透露...",
+      "title": "300077，参股存储公司！明日，将见证全球首款无方向盘汽车，这些概念股超跌高增长",
+      "source": "数据宝",
+      "url": "https://finance.sina.com.cn/stock/s/2026-09-02/doc-iniqkvce1267056.shtml",
+      "content": "特斯拉即将发布无方向盘汽车，智能驾驶产业正迎来多重共振。 国明技术拟入股存储企业 9月1日晚间，国民技术（300077）公告称，为持续提升公司MCU产品技术竞争优势...",
       "priority": "low",
       "sectors": [
-        "综合"
+        "消费"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-09-01",
-      "time": "14:50",
+      "time": "23:35",
       "keywords": []
     },
     {
-      "title": "SpaceX大举扩建数据中心之后，管理层迎来人事大调整",
+      "title": "发达经济体长债同步遭抛售 日本10年期国债期限溢价已达150个基点",
+      "source": "证券时报网",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-02/doc-iniqkvce1256572.shtml",
+      "content": "转自：证券时报 人民财讯9月2日电，国际油价持续上行，美国通胀预期随之抬升，美债市场带来的冲击仍在持续发酵。9月1日，全球发达经济体长端国债市场再度出现同步抛售局面...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-01",
+      "time": "23:32",
+      "keywords": []
+    },
+    {
+      "title": "宜家宣布投入12亿欧元在欧洲降价",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-01/doc-iniqixxs8233489.shtml",
-      "content": " 知情人士透露，近几周埃隆・马斯克对SpaceX负责数据中心建设的团队进行了人事改组，从公司火箭业务以及卫星互联网业务抽调多名高管，替换了原数位负责人。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkqvk3177394.shtml",
+      "content": "瑞典家具零售巨头宜家周二表示，将投资约14亿美元（12亿欧元）在整个欧洲下调产品价格，其中家居用品、厨房用具以及收纳箱等商品的平均降幅为15%‑25%。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-01",
+      "time": "23:29",
+      "keywords": []
+    },
+    {
+      "title": "上半年券商经纪业务座次揭晓！国泰海通夺魁，这家券商新开户超200万户",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-09-02/doc-iniqkvce1258887.shtml",
+      "content": "今年上半年，A股交投活跃，行情暖意之下，券商经纪业务收入水涨船高。 妙想Choice数据显示，43家上市券商2026年上半年经纪业务手续费净收入合计达984.48亿元，同比增长55...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-09-01",
+      "time": "23:25",
+      "keywords": []
+    },
+    {
+      "title": "SK集团董事长称与铠侠开展合作是可选方向",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-02/doc-iniqkqvh1383113.shtml",
+      "content": "据媒体援引周二的采访报道，SK集团会长崔泰源表示，与铠侠控股开展联合生产，是两家芯片企业可以考虑的合作选项之一。 崔泰源称，SK海力士正考虑在日本建设工厂。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-01",
+      "time": "23:25",
+      "keywords": []
+    },
+    {
+      "title": "焦炭期权今日挂牌交易",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-09-02/doc-iniqkvch7877099.shtml",
+      "content": "来源：期货日报 9月2日，焦炭期权正式在大商所挂牌交易。 依据此前大商所发布的相关通知，焦炭期权将于今日8：55—9：00开展集合竞价，9：00正式开盘，今晚开展夜盘交易...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-01",
+      "time": "23:23",
+      "keywords": []
+    },
+    {
+      "title": "白宫周一发布的情况说明书，首次公开详细说明了美国总统唐纳德·特朗普上周宣布的这项协议",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-09-02/102480868.html?cxapp_link=true",
+      "content": "白宫周一发布的情况说明书，首次公开详细说明了美国总统唐纳德·特朗普上周宣布的这项协议",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
-      "time": "14:49",
-      "keywords": []
+      "date": "2026-09-02",
+      "time": "--:--",
+      "keywords": [
+        "市场动态"
+      ]
+    },
+    {
+      "title": "随着油价上涨加剧了通胀疑虑，全球债券收益率周二攀升至近20年的最高水平",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-09-02/102480867.html?cxapp_link=true",
+      "content": "随着油价上涨加剧了通胀疑虑，全球债券收益率周二攀升至近20年的最高水平",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-02",
+      "time": "--:--",
+      "keywords": [
+        "市场动态"
+      ]
+    },
+    {
+      "title": "总统唐纳德·特朗普表示，此次打击是为了报复伊朗企图在霍尔木兹海峡布设水雷以及此前对约旦一处军事基地的袭击",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-09-02/102480864.html?cxapp_link=true",
+      "content": "总统唐纳德·特朗普表示，此次打击是为了报复伊朗企图在霍尔木兹海峡布设水雷以及此前对约旦一处军事基地的袭击",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-02",
+      "time": "--:--",
+      "keywords": [
+        "市场动态"
+      ]
     },
     {
       "title": "由于波动率低，许多外汇交易员无论押注其升值还是贬值，都难获得足够回报，只好减少参与、退场观望",
@@ -1093,7 +1208,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1109,7 +1224,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1125,7 +1240,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1142,7 +1257,7 @@
         "消费"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1158,7 +1273,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1174,7 +1289,7 @@
         "黄金"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "家庭财富"
@@ -1190,7 +1305,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "霍尔木兹周报"
@@ -1206,7 +1321,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1222,7 +1337,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1238,7 +1353,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1254,7 +1369,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1270,7 +1385,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1286,7 +1401,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1302,7 +1417,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1318,7 +1433,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1334,7 +1449,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1350,7 +1465,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1367,7 +1482,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1383,7 +1498,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "CCI快报"
@@ -1399,7 +1514,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "交易簿"
@@ -1415,7 +1530,7 @@
         "半导体"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "行业速递"
@@ -1432,7 +1547,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "行业速递"
@@ -1448,7 +1563,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1464,7 +1579,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1480,7 +1595,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1496,7 +1611,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1512,7 +1627,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1528,7 +1643,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1544,7 +1659,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1560,7 +1675,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1576,7 +1691,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1592,7 +1707,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "数据图解"
@@ -1608,7 +1723,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "霍尔木兹周报"
@@ -1624,7 +1739,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1640,7 +1755,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1656,7 +1771,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1672,7 +1787,7 @@
         "半导体"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1688,7 +1803,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "研报精华"
@@ -1704,7 +1819,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1720,7 +1835,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1736,7 +1851,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1753,7 +1868,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1769,7 +1884,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1785,7 +1900,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1801,7 +1916,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1817,7 +1932,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "CCI快报"
@@ -1833,7 +1948,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1849,7 +1964,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1865,7 +1980,7 @@
         "消费"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "交易簿"
@@ -1881,7 +1996,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1897,7 +2012,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1913,7 +2028,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1929,7 +2044,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1945,7 +2060,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1961,7 +2076,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1977,7 +2092,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1993,7 +2108,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2009,7 +2124,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2025,7 +2140,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "数据图解"
@@ -2041,7 +2156,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2057,7 +2172,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2073,7 +2188,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2089,7 +2204,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2105,7 +2220,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "交易簿"
@@ -2121,7 +2236,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -2137,7 +2252,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "霍尔木兹周报"
@@ -2153,7 +2268,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2169,7 +2284,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2185,7 +2300,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -2201,7 +2316,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -2217,7 +2332,7 @@
         "医药"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -2233,7 +2348,7 @@
         "机器人"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -2249,7 +2364,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -2265,7 +2380,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "CCI快报"
@@ -2281,42 +2396,10 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-01",
+      "date": "2026-09-02",
       "time": "--:--",
       "keywords": [
         "数据图解"
-      ]
-    },
-    {
-      "title": "预测2026年8月动量、创新研发等因子表现更优",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-08-14/102474013.html?cxapp_link=true",
-      "content": "预测2026年8月动量、创新研发等因子表现更优",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-01",
-      "time": "--:--",
-      "keywords": [
-        "量化观察"
-      ]
-    },
-    {
-      "title": "涨价后，这家AI服务商的收费仍然远低于主要的AI竞争对手",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-08-14/102473978.html?cxapp_link=true",
-      "content": "涨价后，这家AI服务商的收费仍然远低于主要的AI竞争对手",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-09-01",
-      "time": "--:--",
-      "keywords": [
-        "市场动态"
       ]
     }
   ]
