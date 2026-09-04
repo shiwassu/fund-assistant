@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T11:42:36.486467",
+  "updated": "2026-09-04T16:34:36.782686",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,239 +7,359 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 26,
-    "medium": 25,
-    "low": 99
+    "high": 35,
+    "medium": 21,
+    "low": 94
   },
   "items": [
     {
-      "title": "富德生命人寿甘肃分公司被罚10万元：存在财务和业务数据不真实的违法行为",
+      "title": "特朗普突然向沃什发难 威胁美联储不降息就切断和对美顺差国的贸易",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-05/doc-iniqsvkh3988311.shtml",
+      "content": "美国总统唐纳德·特朗普加大了对美联储降息的施压，他甚至威胁说若央行按兵不动自己就要切断和逆差对象国的贸易。 强于预期的8月非农就业报告出炉后...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "16:09",
+      "keywords": []
+    },
+    {
+      "title": "CEO 表示：受就业数据影响，“市场并非处在正常运行环境”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsvkn5824144.shtml",
+      "content": " 马奥尼资产管理公司的肯・马奥尼称，投资者无法为这份就业报告感到欢欣鼓舞，因为强劲的数据或将为美联储加息提供理由。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "15:26",
+      "keywords": []
+    },
+    {
+      "title": "贝莱德：非农大超预期后 下周的通胀数据更显关键",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqsvkn5823718.shtml",
+      "content": " 贝莱德的投资组合经理Jeff Rosenberg表示，美国8月就业增长大幅超出预期，在美联储决策者考虑是否需要加息之际，凸显下周消费者价格指数的重要性。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "15:24",
+      "keywords": []
+    },
+    {
+      "title": "强劲就业数据推高美联储加息押注 比特币跌破8万美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsran0852018.shtml",
+      "content": "美国就业数据强于预期，重新点燃市场对美联储9月加息的押注，比特币下跌近3%，最新一轮突破8万美元的涨势戛然而止。 8月非农就业人数增加16.2万...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "14:55",
+      "keywords": []
+    },
+    {
+      "title": "美国股市早盘小幅走低 非农报告推高加息预期",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsran0851011.shtml",
+      "content": "美国就业增长强于预期，推动美国股市下跌，交易员加大了对美联储本月加息的押注。 纽约时间10：13，标普500指数跌0.3%，纳斯达克100指数上涨0.3%，道指跌0.5%。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "14:54",
+      "keywords": []
+    },
+    {
+      "title": "美债收益率下行或许需要经济走弱，而特朗普无法靠行政手段解决该问题",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsran0849357.shtml",
+      "content": "核心要点尽管白宫努力压低收益率，长期美债收益率依旧处在特朗普第二任期的高位附近。受财政赤字、美联储独立性存疑、财政部干预债市等因素影响...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "14:52",
+      "keywords": []
+    },
+    {
+      "title": "特朗普要求美联储大幅降息，否则将终止与对美贸易顺差国的贸易往来",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsran0847221.shtml",
+      "content": "核心要点美国总统唐纳德・特朗普要求美联储大幅降息，否则他将切断与美国存在贸易逆差（对方对美顺差）国家的贸易往来。非农就业数据大幅超预期...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "14:48",
+      "keywords": []
+    },
+    {
+      "title": "柴油价格创下历史新高：俄乌、伊朗冲突导致炼油厂停产，加剧通胀担忧",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsraq5941983.shtml",
+      "content": "核心要点美国全国卡车司机的柴油平均油价达到每加仑 5.85 美元，较去年同期的 3.71 美元，涨幅接近 60%。加利福尼亚州柴油价格达到每加仑 7.70 美元。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "14:41",
+      "keywords": []
+    },
+    {
+      "title": "沃什的可信度陷阱：他可能比任何人都希望通胀放缓",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqsran0825791.shtml",
+      "content": "凯文·沃什正在试图建立一种与过去不同的美联储。他不喜欢过度的前瞻指引，也不希望市场通过主席的一句话、一次暗示，甚至一套固定的“反应函数”...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "14:16",
+      "keywords": []
+    },
+    {
+      "title": "放量了，但高开低走！下周A股如何演绎？",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/wm/2026-09-04/doc-iniqsraq1107449.shtml",
+      "content": "來源：国际金融报 9月4日，A股高开低走，全天放量下跌，交易额重返2万亿元上方，市场情绪低迷，超2900只个股收跌。板块表现分化，农林牧渔、传媒、食品饮料大涨，电子...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "14:09",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：美联储降息 否则将停止与贸易逆差对象国的贸易",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsraq1102386.shtml",
+      "content": "美国总统特朗普在社交平台发文，呼吁美联储“降低利率，因为美国的信用状况比不久前强劲得多”。 特朗普表示：“降息，否则我将停止与美国对其存在贸易逆差的国家进行贸易”。",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "13:58",
+      "keywords": []
+    },
+    {
+      "title": "曾7连涨停！002674，被证监会立案",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-09-04/doc-iniqsrak4041613.shtml",
+      "content": "曾经因为磷化铟收购和光模块概念，股价连续7日涨停的大牛股，突遭证监会立案。 9月4日晚，兴业科技（002674）公告，于2026年9月4日收到中国证监会出具的《立案告知书》。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "13:57",
+      "keywords": []
+    },
+    {
+      "title": "美国非农就业报告开启关键经济数据密集发布期",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsraq1099676.shtml",
+      "content": " 美国非农就业数据发布日向来是华尔街的重要事件。在美联储即将召开关键会议的背景下，本次好于预期的数据受到了比以往更为密切的关注。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "13:50",
+      "keywords": []
+    },
+    {
+      "title": "中国银行榆林分行一名员工被禁业4年：贷款三查执行不到位",
       "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-09-04/doc-iniqskus1184374.shtml",
-      "content": "9月4日金融一线消息，国家金融监督管理总局甘肃监管局行政处罚信息公示表显示，富德生命人寿保险股份有限公司甘肃分公司因存在财务和业务数据不真实的违法行为...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "11:38",
-      "keywords": []
-    },
-    {
-      "title": "科技“软硬分化”，互联网龙头齐升，华宝基金159851标的指数上扬5%，农牧渔引领价值股重估",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-09-04/doc-iniqskuq0827628.shtml",
-      "content": " 9月4日，A股高开低走，午后突发跳水，创业板指回落收跌0.78%，早盘一度涨近2%，科创50跌超2%。两市成交额环比放量重返2万亿元上方，全市场超2900股下跌。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "11:18",
-      "keywords": []
-    },
-    {
-      "title": "重大临床突破引爆，康方生物单日飙涨11.45%！港股通创新药量价齐升，新一轮行情启动？",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-09-04/doc-iniqskus1177431.shtml",
-      "content": "港股通创新药终于动起来了，9月4日，板块放量三连涨，100%创新药研发标的——港股通创新药ETF华宝（520880）成功收复年线外的所有均线。",
-      "priority": "high",
-      "sectors": [
-        "医药"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "11:16",
-      "keywords": []
-    },
-    {
-      "title": "农牧渔板块全线猛攻，种植链、畜牧养殖股掀涨停潮！生猪价格持续上涨，猪周期拐点将至？",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-09-04/doc-iniqskus6003738.shtml",
-      "content": "农牧渔板块今日（9月4日）继续猛攻，种植链、畜牧养殖股涨幅居前。截至收盘，亚盛集团、敦煌种业、新五丰、邦基科技、天邦食品、新希望、中水渔业涨停，金新农、唐人神...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "11:14",
-      "keywords": []
-    },
-    {
-      "title": "ATFX:日元汇率连续两日大幅升值 日本央行加息预期持续升温",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/forex/forexroll/videoroll/2026-09-04/doc-iniqskuq0822979.shtml",
-      "content": "9月4日，ATFX汇评：日元曾经是表现最弱的非美货币，自7月底美国和日本两国开始联合干预汇市后，日元摇身一变，成为最强的非美货币。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "11:11",
-      "keywords": [
-        "ATFX",
-        "日本央行"
-      ]
-    },
-    {
-      "title": "ATFX汇评:美联储理事沃勒唱反调 反对加息支持前瞻指引",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/forex/forexroll/videoroll/2026-09-04/doc-iniqskuq0821115.shtml",
-      "content": "9月4日，ATFX汇评：美联储理事沃勒发表题为《经济展望及我对政策沟通的一些看法》的演讲，其中对通胀、就业和利率路径发表了明确看法。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "11:09",
-      "keywords": [
-        "美联储",
-        "前瞻指引"
-      ]
-    },
-    {
-      "title": "国家金融监督管理总局有关司局负责人就《银行保险机构信息披露管理办法（征求意见稿）》答记者问",
-      "source": "国家金融监督管理总局",
-      "url": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-09-04/doc-iniqskus1169885.shtml",
-      "content": " 近日，《银行保险机构信息披露管理办法（征求意见稿）》（以下简称《办法》）向社会公开征求意见。金融监管总局有关司局负责人回答了记者提问。",
+      "url": "https://finance.sina.com.cn/jryx/fd/2026-09-04/doc-iniqsrak4032608.shtml",
+      "content": "9月4日金融一线消息，国家金融监督管理总局榆林监管分局行政处罚信息公示表显示，中国银行股份有限公司榆林分行刘小琦因贷款三查执行不到位...",
       "priority": "high",
       "sectors": [
         "金融"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-09-04",
-      "time": "10:55",
+      "time": "13:48",
       "keywords": []
     },
     {
-      "title": "被约谈！因超4.4亿元关联交易未及时披露，中盐化工及三位高管遭监管处理 公司上半年由盈转亏，主业承压",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-09-04/doc-iniqskun4037250.shtml",
-      "content": "每经记者|黄博文每经编辑|文多 9月4日盘后，中盐化工（SH600328，股价6.39元，市值94亿元）公告称，公司及董事长周杰、董事兼总经理王广斌...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "10:54",
-      "keywords": []
-    },
-    {
-      "title": "证监会发文规范证券基金机构与互联网平台转接合作",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/wm/2026-09-04/doc-iniqskus1167650.shtml",
-      "content": " 9月4日，记者多方了解获悉，监管部门已就证券基金机构委托第三方互联网平台提供转接渠道的事前评估机制和持续跟踪事项下发新的要求。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "10:44",
-      "keywords": []
-    },
-    {
-      "title": "同方全球人寿回应被罚130万元：坚持立行立改，已逐项落实整改要求",
+      "title": "新华人寿榆林中心支公司被罚2万元：未经授权在朋友圈发布不当宣传内容",
       "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/insurance/2026-09-04/doc-iniqsenu1292588.shtml",
-      "content": "9月4日金融一线消息，据深圳金融监管局行政处罚信息公开表显示，同方全球人寿保险因给予合同外利益，未按规定使用经备案的保险费率，宣传话术不合规...",
+      "url": "https://finance.sina.com.cn/jryx/fd/2026-09-04/doc-iniqsraq5924601.shtml",
+      "content": "9月4日金融一线消息，国家金融监督管理总局榆林监管分局行政处罚信息公示表显示，新华人寿保险股份有限公司榆林中心支公司及相关责任人员因未经授权在朋友圈发布不当宣传内...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-09-04",
-      "time": "10:37",
+      "time": "13:46",
       "keywords": []
     },
     {
-      "title": "视频|李大霄：美股大涨原因短期气氛有所改善",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/2026-09-04/doc-iniqsenu6118124.shtml",
-      "content": "",
+      "title": "分析：强就业推高加息押注 美联储若按兵不动 全球市场更加危险",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqsrak4031081.shtml",
+      "content": "一份强劲的就业报告足以推动市场加大对美联储加息的押注，并引发美国国债收益率曲线显著熊市趋平。在新任美联储主席凯文·沃什减少前瞻指引的背景下...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-09-04",
-      "time": "10:34",
+      "time": "13:46",
       "keywords": []
     },
     {
-      "title": "退市卓朗时效只剩六个月 此前已有股民获赔1.4亿",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-04/doc-iniqsenq4137587.shtml",
-      "content": "近日，天津卓朗信息科技股份有限公司（原简称：卓朗科技、退市卓朗，原证券代码：600225）证券虚假陈案持续推进。 曾代理投资者告赢150余家上市公司并获赔的浙江裕丰律师事...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "10:19",
-      "keywords": []
-    },
-    {
-      "title": "黄酒股今日集体涨停",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/wm/2026-09-04/doc-iniqsenu1285857.shtml",
-      "content": "2026.09．04本文字数：1032，阅读时长大约2分钟 作者 |第一财经栾立 封图 |AI生成 9月4日，A股市场出现少见的一幕，三家黄酒类上市公司会稽山（601579.SH）...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "10:15",
-      "keywords": []
-    },
-    {
-      "title": "42家A股上市银行十宗“最”：谁是隐藏的王者？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-09-04/doc-iniqsenu6114331.shtml",
-      "content": "出品|WEMONEY研究室 文|林见微 编|刘双霞 2026年上半年，42家A股上市银行合计实现营业收入约3.14万亿元，同比增长7.42%；归母净利润约1.13万亿元，同比增长2.96%。",
+      "title": "车车保险销售服务榆林分公司被罚8万元：佣金管理不规范等",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/fd/2026-09-04/doc-iniqsraq1097014.shtml",
+      "content": "9月4日金融一线消息，国家金融监督管理总局榆林监管分局行政处罚信息公示表显示，车车保险销售服务有限公司榆林分公司及相关责任人员因台账登记信息不完整、不准确...",
       "priority": "high",
       "sectors": [
         "金融"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-09-04",
-      "time": "10:15",
+      "time": "13:44",
       "keywords": []
     },
     {
-      "title": "兴业银行2026年半年报：中收贡献提升 资产质量稳健",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/enterprise/2026-09-04/doc-iniqsens0902212.shtml",
-      "content": "8月27日，兴业银行披露2026年半年度报告。报告显示，2026年上半年，兴业银行总资产达到11.46万亿元，实现营业收入1101.77亿元，同比下降0.25%，降幅较一季度收窄0...",
+      "title": "建设银行陕西省分行被罚50万元：违反金融统计管理规定",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/fd/2026-09-04/doc-iniqsraq1094571.shtml",
+      "content": "9月4日金融一线消息，中国人民银行陕西省分行行政处罚决定信息公示表显示，中国建设银行股份有限公司陕西省分行因违反金融统计管理规定...",
       "priority": "high",
       "sectors": [
         "金融"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-09-04",
-      "time": "10:09",
+      "time": "13:38",
       "keywords": []
     },
     {
-      "title": "豪掷68亿买自家公司，“华峰系”浙江老板梅开二度再闯关",
+      "title": "5连板牛股，遭上交所监管警示！",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-09-04/doc-iniqsenu1284152.shtml",
-      "content": "来源 | 野马财经 逆势布局上游 作者 | 方璐 9月3日上午开盘不久，一位IP属地宁夏的网友在华峰化学（002064.SZ）股吧留言称，“终于尘埃落定，今天涨停庆祝一下”...",
+      "url": "https://finance.sina.com.cn/stock/s/2026-09-04/doc-iniqsrak4027882.shtml",
+      "content": "来源：资本秘闻 9月4日晚间，上交所官网显示，发布关于对龙版传媒及有关责任人予以监管警示的决定。 经查明，龙版传媒于8月26日披露的2026年半年度报告中称...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-09-04",
-      "time": "10:05",
+      "time": "13:38",
+      "keywords": []
+    },
+    {
+      "title": "2.39亿！证监会开出巨额罚单！",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/roll/2026-09-04/doc-iniqsran0799820.shtml",
+      "content": "來源：资本秘闻 近日，证监会官网显示，对元道通信欺诈发行及信息披露违法行为进行了立案调查，下发行政处罚决定书。 经查明，元道通信存在违法事实...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "13:38",
+      "keywords": []
+    },
+    {
+      "title": "农业银行得荣县支行被罚11.36万元：占压财政存款或者资金",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/fd/2026-09-04/doc-iniqsran0794767.shtml",
+      "content": "9月4日金融一线消息，中国人民银行甘孜藏族自治州分行行政处罚决定信息公示表显示，中国农业银行股份有限公司得荣县支行因占压财政存款或者资金...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "13:35",
+      "keywords": []
+    },
+    {
+      "title": "武汉农村商业银行被罚30.9万元：违反支付结算管理规定",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/fd/2026-09-04/doc-iniqsraq1092517.shtml",
+      "content": "9月4日金融一线消息，中国人民银行湖北省分行行政处罚决定信息公示表显示，武汉农村商业银行股份有限公司因违反支付结算管理规定，被中国人民银行湖北省分行罚款 30...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "13:33",
+      "keywords": []
+    },
+    {
+      "title": "开盘：非农超预期，美债收益率上行，三大股指涨跌不一",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsrak4019818.shtml",
+      "content": "受 8 月就业报告影响，市场对美联储下次议息会议加息的预期升温。 道指跌0.22%，标普500指数跌0.12%，纳指持平。 lululemon athletica inc．跌18.06%...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "13:30",
+      "keywords": []
+    },
+    {
+      "title": "广发银行安阳分行被罚40.9万元：提供虚假的统计资料、相关人员不具备反假专业能力",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/fd/2026-09-04/doc-iniqsran0790382.shtml",
+      "content": "9月4日金融一线消息，中国人民银行安阳市分行行政处罚决定信息公示表显示，广发银行股份有限公司安阳分行因提供虚假的统计资料、相关人员不具备反假专业能力...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "13:29",
+      "keywords": []
+    },
+    {
+      "title": "天津银行济南分行被罚98万元：违反信用信息提供相关管理规定",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/fd/2026-09-04/doc-iniqsran0789182.shtml",
+      "content": "9月4日金融一线消息，中国人民银行山东省分行行政处罚决定信息公示表显示，天津银行股份有限公司济南分行因违反信用信息提供相关管理规定...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "13:26",
       "keywords": []
     },
     {
@@ -404,183 +524,115 @@
       ]
     },
     {
-      "title": "“真心不容易”，银行净息差终于回升了",
-      "source": "经济观察报",
-      "url": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-09-04/doc-iniqskun4060873.shtml",
-      "content": "“真心不容易。”当看到银行半年报显示上半年净息差同比回升2个基点的那一刻，闫志勇由衷地感慨道。 作为一家股份制银行上海分行的对公业务负责人...",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "11:27",
-      "keywords": []
-    },
-    {
-      "title": "“软科技”启动！阿里、腾讯、美团同步走强，华宝基金港股互联网ETF（513770）标的指数上探4%",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-09-04/doc-iniqskus1178511.shtml",
-      "content": "9月4日，港股高开走强，互联网龙头集体上涨，美团-W涨超5%，小米集团-W涨超3%，阿里巴巴-W、腾讯控股涨超2%。港股互联网ETF华宝（513770）标的指数一度涨逾4%，收涨3...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "11:20",
-      "keywords": []
-    },
-    {
-      "title": "楚天龙11天7板领衔！金融科技ETF（159851）标的指数收涨2.4%，三维共振配置窗口或至",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-09-04/doc-iniqskus1176543.shtml",
-      "content": " 周五（9月4日），金融科技板块逆市走强，板块内大面积飘红。金融科技ETF华宝（159851）场内热度飙升明显，标的指数收涨2.4%。",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "11:13",
-      "keywords": []
-    },
-    {
-      "title": "ATFX:8月非农来袭市场预期悲观 美指或再遭冲击",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/forex/forexroll/videoroll/2026-09-04/doc-iniqskus6001085.shtml",
-      "content": "9月4日，ATFX汇评：北京时间20：30，美国劳工部劳动统计局将公布美国8月非农就业报告，受到周三小非农ADP数据爆冷影响，金融机构对本次非农的预期偏悲观。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "11:07",
-      "keywords": [
-        "美联储",
-        "ATFX"
-      ]
-    },
-    {
-      "title": "全国首单水利设施发电REITs落地 银华粤海水务水利REIT获批",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-09-04/doc-iniqsens0917376.shtml",
-      "content": "公募REITs市场再扩容。9月4日，银华粤海水务水利封闭式基础设施证券投资基金正式获批。这也标志着，继国内首单水利REITs之后，全国首单水利设施发电REITs也正式落地银华基...",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "10:30",
-      "keywords": []
-    },
-    {
-      "title": "CPT Markets:布伦特预期上调仍看供需",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-09-04/doc-iniqsenu1286929.shtml",
-      "content": "9月4日，围绕油价预期，市场出现了值得跟踪的新线索：机构把下半年布伦特原油预测上调十美元至每桶九十美元，并认为供应缓冲收窄可能带来进一步上行弹性。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "10:22",
-      "keywords": [
-        "美元",
-        "布伦特"
-      ]
-    },
-    {
-      "title": "收购Hugging Face，巩固英伟达AI行业造王者地位",
+      "title": "美国商务部长卢特尼克去年收入超2.5亿美元",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsenu1286895.shtml",
-      "content": "英伟达的 AI 芯片竞争对手博通给出了乐观业绩指引，预计 AI 芯片收入将在 2027‑2028 年实现翻倍。但英伟达首席执行官黄仁勋无需为此担忧。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqsvkh3988194.shtml",
+      "content": "这位亿万富豪出售了康托尔公司股权及其他股票，大举购入指数基金美国商务部长霍华德・卢特尼克  内容摘要 根据最新年度廉政申报文件...",
       "priority": "medium",
       "sectors": [
-        "半导体",
-        "AI"
+        "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-09-04",
-      "time": "10:21",
+      "time": "16:09",
       "keywords": []
     },
     {
-      "title": "EasyMarkets易信:代币化协作完善制度接口",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-09-04/doc-iniqsens0909708.shtml",
-      "content": "9月4日，最新市场信息显示，虚拟资产管理机构与代币化平台签署合作备忘录，拟建立支持合规代币化项目与机构参与的协作框架。EasyMarkets易信表示...",
+      "title": "Blue Owl据悉计划创设数据中心REIT并将其上市",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqsvkn0998166.shtml",
+      "content": "知情人士称，Blue Owl Capital寻求设立一家数据中心房地产投资信托基金（REIT），并推动其上市。随着越来越多公司进入资本市场，为人工智能基础设施建设筹集资金...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-09-04",
-      "time": "10:19",
-      "keywords": [
-        "易信"
-      ]
-    },
-    {
-      "title": "*ST益通发布2026半年报 股民索赔持续推进",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-04/doc-iniqsenu1286635.shtml",
-      "content": "近日，北京诚益通控制技术集团股份有限公司发布《2026年半年度报告》，公告显示，2026年1-6月营业总收入为3.48亿元，较去年同期下滑14.79%，归母净利润为-2907.17万...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "10:19",
+      "time": "15:30",
       "keywords": []
     },
     {
-      "title": "“老三家”综合成本率齐优化，巨灾频发成最大考验",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/insurance/bxdt/2026-09-04/doc-iniqsenq4142159.shtml",
-      "content": "原标题：中保中报⑬“老三家”综合成本率齐优化，巨灾频发成最大考验 来源：中保新知 近期，2026年上市险企中期业绩披露收官，在新能源车险高速发展...",
+      "title": "劳动节开启“秋日度假潮”，富豪游客避开夏日人潮",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsvkn5823366.shtml",
+      "content": "核心要点全球豪华旅游机构 Virtuoso 数据显示，秋季已经成为豪华旅行的新旺季，该趋势已持续多年并且还在不断升温。富豪群体纷纷把度假时间改到 9‑10 月...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-09-04",
-      "time": "10:18",
+      "time": "15:23",
       "keywords": []
     },
     {
-      "title": "GO Markets:成本型通胀牵动黄金估值",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-09-04/doc-iniqsenu1283293.shtml",
-      "content": "9月4日，最新市场信息显示，基金经理认为商品与投入成本推动的通胀难以仅靠提高利率迅速缓解，黄金因此仍具长期结构性支撑。GO Markets表示，这一变化提供了新的观察起点...",
-      "priority": "medium",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "10:11",
-      "keywords": [
-        "通胀",
-        "黄金估值"
-      ]
-    },
-    {
-      "title": "“吾悦”来了！广发新城吾悦商业REIT正式获批",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-09-04/doc-iniqsenu6108197.shtml",
-      "content": "公募REITs自2021年试点启航以来，市场版图持续扩容。Choice数据显示，截至2026年8月末，全市场已成立公募REITs产品超90只，总市值接近2500亿元。",
+      "title": "加拿大就业人数减少41700人 惟制造业岗位大幅增加",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsran0852795.shtml",
+      "content": "加拿大8月就业人数减少4.17万，逆转了近几个月劳动力市场的部分回升势头，制造业是唯一录得显著就业增长的行业。 加拿大统计局周五公布的数据显示，失业率维持在6.4%不变...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-09-04",
-      "time": "10:06",
+      "time": "14:56",
+      "keywords": []
+    },
+    {
+      "title": "002674，被证监会立案调查",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/s/2026-09-04/doc-iniqsran0850863.shtml",
+      "content": "來源：中国基金报 【导读】因涉嫌信息披露违法违规，证监会决定对兴业科技立案调查 中国基金报记者 卢鸰 兴业科技9月4日晚公告，公司于当日收到证监会出具的《立案告知书》...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "14:50",
+      "keywords": []
+    },
+    {
+      "title": "刘彦春这只基金，基民100%套牢！",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/fund/jjyj/2026-09-04/doc-iniqsraq5949979.shtml",
+      "content": "來源：浪花基经 新指标落地，8只基金，基民100%亏损，其中包括顶流基金经理刘彦春的景顺长城集英两年定开混合。 今年基金中报上线“盈利投资者数量占比”指标...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "14:33",
+      "keywords": []
+    },
+    {
+      "title": "“吸金”逾58亿元，主力资金重点布局这一方向",
+      "source": "中国证券报-中证网",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqsraq5937954.shtml",
+      "content": "9月4日，A股主力资金继续围绕结构性机会展开博弈。 行业层面，传媒、农林牧渔行业成为资金流入的主要方向，电子行业资金明显流出。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "14:21",
+      "keywords": []
+    },
+    {
+      "title": "全球食品价格创近四年新高，A股农业板块爆发",
+      "source": "上海证券报·中国证券网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-04/doc-iniqsraq1106369.shtml",
+      "content": "联合国粮食及农业组织（简称“粮农组织”）9月4日发布的最新数据显示，8月全球食品价格指数平均为133.3点，较7月上涨1.9%，较去年同期上涨2.5%...",
+      "priority": "medium",
+      "sectors": [
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "13:53",
       "keywords": []
     },
     {
@@ -794,323 +846,261 @@
       ]
     },
     {
-      "title": "王华杰任上海市副市长",
+      "title": "大型科技企业可建设民众不反感的数据中心",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqsvkk0765199.shtml",
+      "content": "争相兴建 AI 算力工厂的科技巨头正在重新规划方案，以此重获美国民众信任 作者：克里斯托弗・明斯弗吉尼亚州一处亚马逊云科技的数据中心。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "16:18",
+      "keywords": []
+    },
+    {
+      "title": "苹果开启John Ternus时代 史上最庞大产品阵容蓄势待发",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqsvkh3965444.shtml",
+      "content": "过去15年的大部分时间里，苹果公司一直致力于完善现有产品线，并推出各种服务，以创造更多经常性收入。期间也出现了Apple Watch和AirPods等少数全新设备类别...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "15:26",
+      "keywords": []
+    },
+    {
+      "title": "贝森特表示“我们希望”不再有其他银行需要受到制裁",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsraq1118843.shtml",
+      "content": "美国财政部长斯科特·贝森特在宣布制裁土耳其一家小型投资银行后表示，“我们希望不再有其他银行需要受到制裁”。 他在一份声明中表示：“这最终取决于国际社会多快恢复理性...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "14:53",
+      "keywords": []
+    },
+    {
+      "title": "比特币有望实现连续第三周收涨，宏观市场压力不断加剧",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsrak4067284.shtml",
+      "content": "受股票、外汇与债券市场剧烈震荡影响，交易资金寻求避险，比特币有望录得连续第三周周线上涨。 本周迄今为止，比特币累计上涨 4.6%，隔夜冲高至82272.31 美元...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "14:38",
+      "keywords": []
+    },
+    {
+      "title": "因涉嫌信披违规，兴业科技被证监会立案调查",
+      "source": "中证网",
+      "url": "https://finance.sina.com.cn/stock/roll/2026-09-04/doc-iniqsran0832549.shtml",
+      "content": " 兴业科技9月4日晚间公告，公司当日收到中国证监会出具的《立案告知书》，因涉嫌信息披露违法违规，证监会决定对公司立案调查。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "14:26",
+      "keywords": []
+    },
+    {
+      "title": "报道：美国特使威特科夫和库什纳周末将访问莫斯科和基辅",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqsraq5932577.shtml",
+      "content": "据俄罗斯官方通讯社塔斯社报道，预计美国特使史蒂夫·威特科夫和贾里德·库什纳将于9月5日至6日访问莫斯科和基辅。 媒体援引一位知情人士报道，他们可能会先前往莫斯科...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "14:08",
+      "keywords": []
+    },
+    {
+      "title": "马斯克，最新动作曝光",
+      "source": "环球时报",
+      "url": "https://finance.sina.com.cn/wm/2026-09-04/doc-iniqsran0818901.shtml",
+      "content": "据美国哥伦比亚广播公司（CBS）网站和英国路透社9月3日报道，马斯克近期通过其“美国政治行动委员会”在十余场关键选举中花费约80万美元...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "14:03",
+      "keywords": []
+    },
+    {
+      "title": "广汽华为联合品牌启境GX7开启预售 24.99万元起",
+      "source": "观点地产网",
+      "url": "https://finance.sina.com.cn/stock/estate/integration/2026-09-04/doc-iniqsrak4047509.shtml",
+      "content": "观点网讯：9月4日，广汽集团与华为乾崑联合品牌启境GX7开启预售。该车定位中大型五座SUV，预售价24.99万-31.19万元，计划9月内上市。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "14:03",
+      "keywords": []
+    },
+    {
+      "title": "美国8月新增就业16.2万人，远超预期两倍",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsran0810790.shtml",
+      "content": "美国劳工统计局周五发布最新数据：8 月就业大幅回暖，新增 16.2 万个岗位，失业率维持 4.1%。 8 月新增就业为 3 月以来最高水平，相比 7 月数据出现强势反弹。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "13:54",
+      "keywords": []
+    },
+    {
+      "title": "上市财险半年考：承保利润普遍改善，综合成本率中枢下移至95%附近，新能源车险成增长引擎",
+      "source": "每日经济新闻",
+      "url": "https://finance.sina.com.cn/roll/2026-09-04/doc-iniqsran0811162.shtml",
+      "content": "每经记者|涂颖浩每经编辑|毕陆名 2026年上半年，上市财险公司全面交出“承保盈利”成绩单。中报显示，人保财险、太保产险、平安产险、大地保险、众安保险、太平财险...",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "13:53",
+      "keywords": []
+    },
+    {
+      "title": "为何选择两家电池企业一起合作？小米汽车副总裁：能保障用户提车周期的稳定性",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/it/2026-09-04/doc-iniqsraq1100544.shtml",
+      "content": "新浪科技讯 9月4日晚间消息，今日，小米龙甲电池战略合作发布会正式举行，该款产品由小米联合中创新航和欣旺达打造。 据介绍，小米龙甲电池小米将对全链路负责...",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "13:53",
+      "keywords": []
+    },
+    {
+      "title": "九号启动“安芯换新”电池安全守护行动——电池会老，但安全永不过期",
+      "source": "新浪数码",
+      "url": "https://finance.sina.com.cn/tech/mobile/n/n/2026-09-04/doc-iniqsraq5926969.shtml",
+      "content": "对于电动交通工具来说，随着使用时间增加，续航下降往往最先被用户感知：满电续航不如从前，冬天骑行掉电更快。如果再遇上电池进水、鼓包，用户担心的就不只是续航...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "13:52",
+      "keywords": [
+        "九号",
+        "电池安全"
+      ]
+    },
+    {
+      "title": "美国就业岗位大幅增加，释放经济积极信号",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsraq1098559.shtml",
+      "content": "8 月雇主新增 16.2 万个就业岗位，失业率稳定维持 4.1%，但薪资增速跑不过通胀。月度就业人数变动 注：数据经过季节性调整；平均值为三个月移动平均值...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "13:48",
+      "keywords": []
+    },
+    {
+      "title": "保险法拟调整代理人展业规定：禁止的“合同外利益”限定为“不正当利益”",
       "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqryes4090623.shtml",
-      "content": " 9月4日，上海市第十六届人大常委会第三十三次会议审议并表决通过有关人事任免事项，决定任命王华杰为上海市副市长，决定免去解冬的上海市副市长职务。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "11:31",
-      "keywords": []
-    },
-    {
-      "title": "ATFX科普:如何鉴别谁是交易高手 谁又是江湖郎中",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/forex/forexroll/videoroll/2026-09-04/doc-iniqskus6004302.shtml",
-      "content": "9月4日，ATFX科普：有人认为鉴别交易高手的核心方法是看资金曲线。对于新手来说，这种方法确实简单、直接、露骨，具有极大的吸引力。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "11:16",
-      "keywords": [
-        "ATFX"
-      ]
-    },
-    {
-      "title": "ATFX汇评:ADP爆冷周五非农堪忧 美元跌黄金涨",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/forex/forexroll/videoroll/2026-09-04/doc-iniqskus1176740.shtml",
-      "content": "9月4日，ATFX汇评：昨日公布的小非农ADP数据，最新值仅为3.8万人，低于预期值4.8万人，低于前值4.6万人（修正前为4.4万人）。ADP数据爆冷...",
-      "priority": "low",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "11:14",
-      "keywords": [
-        "美联储",
-        "ATFX"
-      ]
-    },
-    {
-      "title": "卖GPU的半年赚了1个亿，但扒开财报一看：全靠炒A股！",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-09-04/doc-iniqskun4049795.shtml",
-      "content": "来源：财通社 AI算力赛道火热，国产GPU日子到底过得怎么样？ 登陆港交所约8个月的天数智芯（09903.HK），交出了自己上市之后的首份半年成绩单。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "11:07",
-      "keywords": []
-    },
-    {
-      "title": "投行连年亏钱，为什么华兴证券敢把总经理交给赵凯？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/quanshang/qsyj/2026-09-04/doc-iniqskuq0819917.shtml",
-      "content": "来源：行家券业 投行连年亏钱，为什么华兴证券敢把总经理交给赵凯？ 在掌门变更两个月后，华兴证券又见人事变动：赵凯“转正”出任总经理。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "11:01",
-      "keywords": []
-    },
-    {
-      "title": "任职不到八个月，世纪证券营业部总经理为何“失范”？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/quanshang/qsyj/2026-09-04/doc-iniqskus1174252.shtml",
-      "content": "来源：行家券业 任职不到八个月，世纪证券营业部总经理为何“失范”？ 从业十六年，扎根同一家券商，走上营业部负责人岗位不足八个月——这位券业“老兵”究竟踩中了哪条红线？",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "11:01",
-      "keywords": []
-    },
-    {
-      "title": "“穿越长波”广发证券2026年秋季资本论坛  暨上市公司闭门交流会成功举办",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/enterprise/cn/2026-09-04/doc-iniqskus5994321.shtml",
-      "content": "9月1日至3日，由广发证券主办的“穿越长波”广发证券2026年秋季资本论坛暨上市公司闭门交流会在上海成功举办。本次活动围绕AI、创新药、消费、汽车、出海等产业热点...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "10:49",
-      "keywords": []
-    },
-    {
-      "title": "停车一小时修车一千块？停车场砸车、设备损伤纠纷怎么维权",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/consume/xiaofei/2026-09-04/doc-iniqrpqy0853412.shtml",
-      "content": "开车出门，停车是绕不开的一环。可最近有车主反映，自己把车停在酒店停车场，离场时起落杆突然下落砸中车身，漆面受损，修理要花上千元，和场地方沟通却迟迟没有结果...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "10:44",
-      "keywords": []
-    },
-    {
-      "title": "600076，被证监会立案",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/wm/2026-09-04/doc-iniqskun4042639.shtml",
-      "content": "9月4日晚间，康欣新材（600076）发布公告称，于2026年9月4日收到中国证监会出具的《立案告知书》（证监立案字0042026013号），因公司定期报告涉嫌信息披露违法违规...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "10:43",
-      "keywords": []
-    },
-    {
-      "title": "国开行成功簿记发行50亿元绿色金融债券",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqsens0926483.shtml",
-      "content": "记者今天（9月4日）从国家开发银行了解到，9月3日，国家开发银行通过中国外汇交易中心发行系统在上海清算所成功簿记发行50亿元3年期绿色金融债券，发行利率1.27%。",
+      "url": "https://finance.sina.com.cn/money/insurance/bxdt/2026-09-04/doc-iniqsrak4027183.shtml",
+      "content": "保险代理人、保险经纪人给予投保人等保险合同约定以外利益的禁止性规定拟作调整，由现行保险法规定的不得给予“合同约定以外的利益”...",
       "priority": "low",
       "sectors": [
         "金融"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-09-04",
-      "time": "10:37",
+      "time": "13:41",
       "keywords": []
     },
     {
-      "title": "星巴克更新菜单，印度香料茶爱好者彻底炸锅",
+      "title": "美国8月新增就业16.2万人，大幅超出预期：非农就业报告",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsenu6119373.shtml",
-      "content": " 这家咖啡连锁品牌的忠实茶饮粉丝纷纷致电总部、给高管发邮件、发起请愿，抗议配方改动；粉丝诉求：“快把这场毫无必要的闹剧纠正过来”",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsraq5921777.shtml",
+      "content": "美国劳工部周五公布，8 月美国雇主新增就业岗位 16.2 万人，大幅超过经济学家的预期。 失业率维持在 4.1% 不变。彭博调查的经济学家此前预计仅新增 5.5 万个岗位...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-09-04",
-      "time": "10:36",
+      "time": "13:39",
       "keywords": []
     },
     {
-      "title": "视频|李大霄：9月份影响市场的因素",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-09-04/doc-iniqsenu1291542.shtml",
-      "content": "",
+      "title": "极空间私有云上车机版上线比亚迪应用市场",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-04/doc-iniqsraq1096261.shtml",
+      "content": " IT时代网9月4日消息，极空间私有云今日宣布，携手比亚迪智能座舱，车机版正式上线比亚迪汽车应用市场，支持方程豹、腾势、比亚迪王朝等数十款车型。",
       "priority": "low",
       "sectors": [
-        "综合"
+        "消费"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-09-04",
-      "time": "10:35",
+      "time": "13:34",
       "keywords": []
     },
     {
-      "title": "加码中期流动性，5000亿买断式逆回购来了",
-      "source": "界面",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqsenq4146010.shtml",
-      "content": "中国人民银行公开市场业务操作室9月4日公告，为保持银行体系流动性充裕，2026年9月7日，中国人民银行将以固定数量、利率招标、多重价位中标方式开展5000亿元买断式逆回购操...",
+      "title": "海南橡胶：收到橡胶收入保险赔款及征地青苗补偿款合计约6705万元",
+      "source": "中国证券报-中证网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-04/doc-iniqsrak4039251.shtml",
+      "content": "中证智能财讯海南橡胶(601118)9月4日晚间公告，公司近日收到两笔款项，包括橡胶收入保险赔款及青苗补偿款，合计金额约6704.74万元。",
       "priority": "low",
       "sectors": [
         "金融"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-09-04",
-      "time": "10:31",
+      "time": "13:30",
       "keywords": []
     },
     {
-      "title": "国有大行已可申请延长房贷期限至40年，需符合哪些条件？",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqsens0917472.shtml",
-      "content": "两部门发文将个人住房贷款期限延长至最长40年后，国有大行已可按新规要求受理客户延长贷款期限的申请。 8月28日，中国人民银行、国家金融监督管理总局发布《关于改革完善房...",
+      "title": "地缘冲突叠加低库存，现货偏紧支撑近月逼仓，乙二醇价格大幅上行",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-09-04/102482117.html?cxapp_link=true",
+      "content": "地缘冲突叠加低库存，现货偏紧支撑近月逼仓，乙二醇价格大幅上行",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-09-04",
-      "time": "10:30",
-      "keywords": []
-    },
-    {
-      "title": "Meta全力防范即将上线的AI智能体“Hatch”失控",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsenu1289430.shtml",
-      "content": " Meta 首席执行官马克・扎克伯格曾表示，未来 AI 智能体将可以协助处理健康、人际关系、财务等各类事务。但眼下 Meta 首先必须解决产品的安全问题。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "10:29",
-      "keywords": []
-    },
-    {
-      "title": "英伟达洽谈向穆拉蒂旗下思维机器实验室投资约25亿美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsenq4141756.shtml",
-      "content": "现有投资方安德森‑霍洛维茨（a16z）向其他潜在投资者透露，由前 OpenAI 首席技术官米拉・穆拉蒂执掌的 AI 企业思维机器实验室（Thinking Machines Lab...",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "10:25",
-      "keywords": []
-    },
-    {
-      "title": "CBCX:金银反弹等待数据确认",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-09-04/doc-iniqsenu6114379.shtml",
-      "content": "9月4日，黄金与白银在周四交易时段明显回升，现货黄金升至每盎司四千四百七十一美元附近，白银则回到六十六点八三美元附近。CBCX表示，收益率和美元同步回落...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "10:23",
+      "time": "--:--",
       "keywords": [
-        "美元",
-        "白银市"
+        "CCI快报"
       ]
-    },
-    {
-      "title": "南京熊猫索赔时效或剩六个月 受损股民仍可起诉",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-04/doc-iniqsens0910579.shtml",
-      "content": "近日，投资者与南京熊猫电子股份有限公司（简称：南京熊猫，代码：600775 ）证券虚假陈述责任纠纷案持续推进。原告代理人之一、浙江裕丰律师事务所厉健律师表示...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "10:19",
-      "keywords": []
-    },
-    {
-      "title": "威创股份索赔时效剩三个月 已有股民一审胜诉",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-09-04/doc-iniqsenq4137229.shtml",
-      "content": "近日，投资者诉威创集团股份有限公司（原证券简称：*ST威创、威创股份，原证券代码：002308）证券虚假陈述案持续推进，曾代理投资者告赢150余家上市公司并获赔的浙江裕丰律...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "10:19",
-      "keywords": []
-    },
-    {
-      "title": "FPG财盛国际:金价回升等待就业数据定调",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-09-04/doc-iniqsens0904907.shtml",
-      "content": "9月4日，围绕数据定价，市场出现了值得跟踪的新线索：美元和债券收益率自高位回落，现货黄金上涨约百分之零点九至每盎司四千四百二十五美元附近。",
-      "priority": "low",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "10:13",
-      "keywords": [
-        "美元",
-        "金价"
-      ]
-    },
-    {
-      "title": "西安银行：独立董事邱伟因个人原因辞职",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-09-04/doc-iniqsens0904468.shtml",
-      "content": " 9月4日金融一线消息，西安银行公告，该行独立董事邱伟因个人原因，于2026年9月3日向董事会提交了辞职报告，申请辞去独立董事及董事会专门委员会职务。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "10:12",
-      "keywords": []
-    },
-    {
-      "title": "上市险企银保逻辑重塑：三家规模承压，拼速度到拼价值，“65号文”推动渠道生态净化",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/insurance/bxdt/2026-09-04/doc-iniqsenq4130895.shtml",
-      "content": " 蓝鲸新闻9月4日讯 随着五大上市险企交齐上半年成绩单，最新渠道情况得以一窥。近年来，银保渠道在寿险公司的渠道战略地位持续抬升，在价值贡献方面也展现出强劲势头。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-04",
-      "time": "10:07",
-      "keywords": []
     },
     {
       "title": "OpenAI表示，这款新AI模型尤其擅长代替用户操作电脑，它可以完成一系列与工作相关的任务",
@@ -2324,22 +2314,6 @@
       "priority": "low",
       "sectors": [
         "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-04",
-      "time": "--:--",
-      "keywords": [
-        "市场动态"
-      ]
-    },
-    {
-      "title": "这些隐秘的能源运输活动是国际油价未如部分投资者担心般飙升的重要原因之一",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-08-17/102474726.html?cxapp_link=true",
-      "content": "这些隐秘的能源运输活动是国际油价未如部分投资者担心般飙升的重要原因之一",
-      "priority": "low",
-      "sectors": [
-        "能源"
       ],
       "period": "noon",
       "date": "2026-09-04",
