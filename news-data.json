@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-04T22:30:38.992991",
+  "updated": "2026-09-05T00:21:23.913012",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,25 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 30,
+    "high": 26,
     "medium": 25,
-    "low": 95
+    "low": 99
   },
   "items": [
+    {
+      "title": "2.388亿元！证监会开出天价罚单，301139欺诈发行坐实，濒临退市！",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/companyt/2026-09-05/doc-iniqtnha0586029.shtml",
+      "content": "来源：华夏时报 2.388368亿元！ 9月4日晚，中国证监会官网披露的一份行政处罚决定书显示，因欺诈发行、信息披露两项违法，证监会对元道通信股份有限公司（股票简称*ST元道...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-04",
+      "time": "23:47",
+      "keywords": []
+    },
     {
       "title": "美元在强劲非农报告刺激下反弹 惟多空博弈下未改单周颓势",
       "source": "环球市场播报",
@@ -81,6 +95,48 @@
       "period": "night",
       "date": "2026-09-04",
       "time": "19:47",
+      "keywords": []
+    },
+    {
+      "title": "私募基金募集全流程迎系统性监管 完善合格投资者认定标准  细化资金募集过程",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/roll/2026-09-05/doc-iniqszsk5751517.shtml",
+      "content": "◎记者 汤立斌 私募基金领域“1+N+X”制度体系迎来重要新规。中国证监会9月4日就《私募投资基金募集监督管理办法（征求意见稿）》（下称“办法”）公开征求意见。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-04",
+      "time": "19:30",
+      "keywords": []
+    },
+    {
+      "title": "A股成交额重上2万亿元 AI应用赛道反复活跃",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/roll/2026-09-05/doc-iniqszsh0729007.shtml",
+      "content": "◎张玮华 记者 李雨琪 9月4日，A股市场冲高回落，主要指数午后走弱。截至收盘，上证指数报3930.12点，跌0.30%；深证成指报13516.97点，跌0.79%；创业板指报3286.55点，跌0...",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-09-04",
+      "time": "19:30",
+      "keywords": []
+    },
+    {
+      "title": "证监会规范证券基金机构与互联网平台转接合作",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/roll/2026-09-05/doc-iniqszsk0924650.shtml",
+      "content": "◎记者 汤立斌 上海证券报记者9月4日了解到，监管部门已就证券基金机构委托第三方互联网平台提供转接渠道的事前评估机制和持续跟踪事项下发最新通报要求。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-04",
+      "time": "19:30",
       "keywords": []
     },
     {
@@ -182,118 +238,6 @@
       "keywords": []
     },
     {
-      "title": "特朗普突然向沃什发难 威胁美联储不降息就切断和对美顺差国的贸易",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-05/doc-iniqsvkh3988311.shtml",
-      "content": "美国总统唐纳德·特朗普加大了对美联储降息的施压，他甚至威胁说若央行按兵不动自己就要切断和逆差对象国的贸易。 强于预期的8月非农就业报告出炉后...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-09-04",
-      "time": "16:09",
-      "keywords": []
-    },
-    {
-      "title": "CEO 表示：受就业数据影响，“市场并非处在正常运行环境”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsvkn5824144.shtml",
-      "content": " 马奥尼资产管理公司的肯・马奥尼称，投资者无法为这份就业报告感到欢欣鼓舞，因为强劲的数据或将为美联储加息提供理由。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-04",
-      "time": "15:26",
-      "keywords": []
-    },
-    {
-      "title": "贝莱德：非农大超预期后 下周的通胀数据更显关键",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqsvkn5823718.shtml",
-      "content": " 贝莱德的投资组合经理Jeff Rosenberg表示，美国8月就业增长大幅超出预期，在美联储决策者考虑是否需要加息之际，凸显下周消费者价格指数的重要性。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-04",
-      "time": "15:24",
-      "keywords": []
-    },
-    {
-      "title": "强劲就业数据推高美联储加息押注 比特币跌破8万美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsran0852018.shtml",
-      "content": "美国就业数据强于预期，重新点燃市场对美联储9月加息的押注，比特币下跌近3%，最新一轮突破8万美元的涨势戛然而止。 8月非农就业人数增加16.2万...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-04",
-      "time": "14:55",
-      "keywords": []
-    },
-    {
-      "title": "美国股市早盘小幅走低 非农报告推高加息预期",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsran0851011.shtml",
-      "content": "美国就业增长强于预期，推动美国股市下跌，交易员加大了对美联储本月加息的押注。 纽约时间10：13，标普500指数跌0.3%，纳斯达克100指数上涨0.3%，道指跌0.5%。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-04",
-      "time": "14:54",
-      "keywords": []
-    },
-    {
-      "title": "美债收益率下行或许需要经济走弱，而特朗普无法靠行政手段解决该问题",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsran0849357.shtml",
-      "content": "核心要点尽管白宫努力压低收益率，长期美债收益率依旧处在特朗普第二任期的高位附近。受财政赤字、美联储独立性存疑、财政部干预债市等因素影响...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-04",
-      "time": "14:52",
-      "keywords": []
-    },
-    {
-      "title": "特朗普要求美联储大幅降息，否则将终止与对美贸易顺差国的贸易往来",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsran0847221.shtml",
-      "content": "核心要点美国总统唐纳德・特朗普要求美联储大幅降息，否则他将切断与美国存在贸易逆差（对方对美顺差）国家的贸易往来。非农就业数据大幅超预期...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-09-04",
-      "time": "14:48",
-      "keywords": []
-    },
-    {
-      "title": "柴油价格创下历史新高：俄乌、伊朗冲突导致炼油厂停产，加剧通胀担忧",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsraq5941983.shtml",
-      "content": "核心要点美国全国卡车司机的柴油平均油价达到每加仑 5.85 美元，较去年同期的 3.71 美元，涨幅接近 60%。加利福尼亚州柴油价格达到每加仑 7.70 美元。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-04",
-      "time": "14:41",
-      "keywords": []
-    },
-    {
       "title": "9月伊始美元大幅下跌，原因是交易员削减了对美联储本月加息的押注，而日元飙升也在全球外汇市场激起涟漪",
       "source": "财新",
       "url": "https://database.caixin.com/2026-09-04/102481633.html?cxapp_link=true",
@@ -303,7 +247,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -319,7 +263,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -335,7 +279,7 @@
         "黄金"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -352,7 +296,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -368,7 +312,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -384,7 +328,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -400,7 +344,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -416,7 +360,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -432,7 +376,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -448,11 +392,25 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "商圈"
       ]
+    },
+    {
+      "title": "9月5日隔夜要闻：三大指数全线收跌 就业数据公布后美债收益率上行 油价企稳 市场在美国长周末前交投清淡",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtnfy3767405.shtml",
+      "content": "市场 9月5日美股收盘：三大指数全线收跌，就业数据公布后美债收益率上行 9月5日美股成交前20：美光计划年内大幅扩产HBM，英伟达拟向多个公司投资...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-04",
+      "time": "22:24",
+      "keywords": []
     },
     {
       "title": "Bloom Energy、因美纳和爱惠浦将被纳入标普500指数",
@@ -514,6 +472,49 @@
       ]
     },
     {
+      "title": "资金涌入ETF 科技主题基金密集扩容",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/roll/2026-09-05/doc-iniqszsk0924644.shtml",
+      "content": "◎记者 赵明超 围绕科技产业链，公募基金近期正在全方位布局，头部公司频频出手。 Choice数据显示，8月以来，截至9月4日，共有6只消费电子主题基金集中上报...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-04",
+      "time": "19:30",
+      "keywords": []
+    },
+    {
+      "title": "8月私募调研逾6000次 半导体与医疗器械行业热度高",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/roll/2026-09-05/doc-iniqszsk5751503.shtml",
+      "content": "◎林铭溱 记者 马嘉悦 8月，随着上市公司半年报密集披露，私募也马不停蹄展开调研。 私募排排网数据显示，8月共有1072家私募开展A股公司调研，合计调研6148次，环比增长289...",
+      "priority": "medium",
+      "sectors": [
+        "半导体",
+        "医药"
+      ],
+      "period": "night",
+      "date": "2026-09-04",
+      "time": "19:30",
+      "keywords": []
+    },
+    {
+      "title": "私募托管业务扩容 券商抢抓业务拓展新入口",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/stock/fxsdt/2026-09-05/doc-iniqszsh0728500.shtml",
+      "content": "◎林铭溱 记者 徐蔚 券商私募托管业务呈现出头部集中与增量竞争并存的特征。上海证券报记者梳理上市券商2026年半年报发现，国泰海通...",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-09-04",
+      "time": "19:25",
+      "keywords": []
+    },
+    {
       "title": "美国制造业和建筑业就业增长跑赢服务业 或许反映出AI投资热潮的影响",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-09-05/doc-iniqszsh0696045.shtml",
@@ -525,6 +526,34 @@
       "period": "night",
       "date": "2026-09-04",
       "time": "18:22",
+      "keywords": []
+    },
+    {
+      "title": "明确合格投资者认定标准 完善募集资金安全机制",
+      "source": "证券时报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-05/doc-iniqszsk0902982.shtml",
+      "content": "证券时报记者 程丹 江聃 9月4日，中国证监会就《私募投资基金募集监督管理办法（征求意见稿）》（以下简称《募集办法》）公开征求意见。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "17:55",
+      "keywords": []
+    },
+    {
+      "title": "首尾差距超170%！前八月基金业绩分化，后市主线还是AI吗？",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/wm/2026-09-05/doc-iniqsvkk0788406.shtml",
+      "content": "来源：国际金融报 今年前8个月，A股市场围绕AI（人工智能）产业主线，上演了一场极致的结构性行情。 Wind数据显示，截至8月31日，主动权益类基金业绩首尾差距已超170%。",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-09-04",
+      "time": "16:53",
       "keywords": []
     },
     {
@@ -542,90 +571,6 @@
       "keywords": []
     },
     {
-      "title": "美国商务部长卢特尼克去年收入超2.5亿美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqsvkh3988194.shtml",
-      "content": "这位亿万富豪出售了康托尔公司股权及其他股票，大举购入指数基金美国商务部长霍华德・卢特尼克  内容摘要 根据最新年度廉政申报文件...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-04",
-      "time": "16:09",
-      "keywords": []
-    },
-    {
-      "title": "苏丹南部遭武装分子袭击 21名平民死亡",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-05/doc-iniqsvkn5837948.shtml",
-      "content": "△苏丹南科尔多凡州（资料图）当地时间9月4日，苏丹民间机构“苏丹医生网”发表声明称，苏丹南部南科尔多凡州多个地区遭遇武装分子袭击...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-04",
-      "time": "16:07",
-      "keywords": []
-    },
-    {
-      "title": "Blue Owl据悉计划创设数据中心REIT并将其上市",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqsvkn0998166.shtml",
-      "content": "知情人士称，Blue Owl Capital寻求设立一家数据中心房地产投资信托基金（REIT），并推动其上市。随着越来越多公司进入资本市场，为人工智能基础设施建设筹集资金...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-04",
-      "time": "15:30",
-      "keywords": []
-    },
-    {
-      "title": "劳动节开启“秋日度假潮”，富豪游客避开夏日人潮",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsvkn5823366.shtml",
-      "content": "核心要点全球豪华旅游机构 Virtuoso 数据显示，秋季已经成为豪华旅行的新旺季，该趋势已持续多年并且还在不断升温。富豪群体纷纷把度假时间改到 9‑10 月...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-04",
-      "time": "15:23",
-      "keywords": []
-    },
-    {
-      "title": "加拿大就业人数减少41700人 惟制造业岗位大幅增加",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsran0852795.shtml",
-      "content": "加拿大8月就业人数减少4.17万，逆转了近几个月劳动力市场的部分回升势头，制造业是唯一录得显著就业增长的行业。 加拿大统计局周五公布的数据显示，失业率维持在6.4%不变...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-04",
-      "time": "14:56",
-      "keywords": []
-    },
-    {
-      "title": "002674，被证监会立案调查",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-09-04/doc-iniqsran0850863.shtml",
-      "content": "來源：中国基金报 【导读】因涉嫌信息披露违法违规，证监会决定对兴业科技立案调查 中国基金报记者 卢鸰 兴业科技9月4日晚公告，公司于当日收到证监会出具的《立案告知书》...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-04",
-      "time": "14:50",
-      "keywords": []
-    },
-    {
       "title": "液冷是高功率AI机柜新增需求的主要技术方向，以2MW机房为例，相同单位下，液冷散热能力是风冷的4—9倍；年内，液冷服务器板块有16个成分股涨幅超过100%",
       "source": "财新",
       "url": "https://database.caixin.com/2026-09-04/102481983.html?cxapp_link=true",
@@ -635,7 +580,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "数据图解"
@@ -651,7 +596,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "行业速递"
@@ -667,7 +612,7 @@
         "黄金"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "公司速递"
@@ -683,7 +628,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "量化观察"
@@ -700,7 +645,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "权益周观察"
@@ -717,7 +662,7 @@
         "消费"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "数据图解"
@@ -733,7 +678,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "权益周观察"
@@ -749,7 +694,7 @@
         "光模块"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "公司速递"
@@ -765,7 +710,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -781,7 +726,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -797,7 +742,7 @@
         "消费"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -813,7 +758,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "权益周观察"
@@ -829,11 +774,82 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "交易簿"
       ]
+    },
+    {
+      "title": "油价或迎“大跳水”？贝森特：伊朗冲突结束后原油或跌至40-50美元",
+      "source": "智通财经APP",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-05/doc-iniqtnha0594939.shtml",
+      "content": "美国财政部长贝森特表示，一旦伊朗冲突结束，国际油价可能出现大幅下跌，甚至降至每桶40至50美元。随着能源价格回落，近期受到油价上涨和通胀担忧推动的全球债券收益率也有...",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-09-04",
+      "time": "23:57",
+      "keywords": []
+    },
+    {
+      "title": "牛股兴业科技因信披问题遭证监会立案，此前宣布跨界“追光”",
+      "source": "澎湃新闻",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-05/doc-iniqtnhe0723138.shtml",
+      "content": "9月4日晚间，兴业皮革科技股份有限公司（002674.SZ）发布公告称，公司于当日收到中国证券监督管理委员会出具的《立案告知书》（编号：证监立案字0262026009号）...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-04",
+      "time": "23:51",
+      "keywords": []
+    },
+    {
+      "title": "伊拉克即将接收汽油船运货物以缓解供应短缺",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-05/doc-iniqtnfy3794354.shtml",
+      "content": " 伊拉克石油部援引巴西姆・穆罕默德・胡代尔部长的声明称，石油输出国组织第二大产油国伊拉克，很快将接收进口汽油船货，弥补国内供应缺口。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-04",
+      "time": "23:16",
+      "keywords": []
+    },
+    {
+      "title": "黄金多头被砍一万手，资金却在原油和玉米上疯狂加码，他们到底嗅到了什么？",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-09-05/doc-iniqtnhe5536272.shtml",
+      "content": "来源：汇通网  汇通财经APP讯——周六（9月5日），CFTC最新持仓报告出炉。投机资金在贵金属上明显减仓多头，黄金净多头大幅回落。能源端原油净多头继续加码...",
+      "priority": "low",
+      "sectors": [
+        "能源",
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-09-04",
+      "time": "23:07",
+      "keywords": []
+    },
+    {
+      "title": "Anthropic预计9月底才公布招股说明书",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqtnfy3787267.shtml",
+      "content": "媒体引知情人士报道，Anthropic预计将在美国11月中期选举开始前的几天完成上市。 报道称，两名知情人士透露，招股说明书预计要到9月底才会公布...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-04",
+      "time": "23:02",
+      "keywords": []
     },
     {
       "title": "外卖吃到异物、餐厅卫生差，该去哪里投诉管用？",
@@ -847,6 +863,20 @@
       "period": "night",
       "date": "2026-09-04",
       "time": "22:30",
+      "keywords": []
+    },
+    {
+      "title": "今日视点：渐进式告别“猜盲盒”买房",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-05/doc-iniqtnfy3766780.shtml",
+      "content": "■王丽新 9月4日，广州天河原电视台地块被越秀地产以约24.8亿元竞得，溢价率约15.9%；9月3日，北京顺义温榆河宅地被华润置地以约83亿元摘得，溢价率17.37%；9月1日...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-04",
+      "time": "22:23",
       "keywords": []
     },
     {
@@ -903,6 +933,48 @@
       "period": "night",
       "date": "2026-09-04",
       "time": "19:51",
+      "keywords": []
+    },
+    {
+      "title": "临汾路上，一家银行网点的“十年磨剑”",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/roll/2026-09-05/doc-iniqszsk5751499.shtml",
+      "content": "◎记者 温婷 王远 上海市静安区临汾路街道，是一个几乎没有商业综合体、没有写字楼、全是居民区的“纯社区”。 8月18日下午两三点，烈日当空...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-09-04",
+      "time": "19:30",
+      "keywords": []
+    },
+    {
+      "title": "违规减持后凡拓数创董事长又收警示函",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/stock/companyt/2026-09-05/doc-iniqszsk5751495.shtml",
+      "content": "◎记者 李五强 9月4日晚，凡拓数创公告，公司当日收到广东证监局下发的警示函，因闲置募集资金现金管理存在超董事会审议有效期及未经审议等违规情形...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-04",
+      "time": "19:30",
+      "keywords": []
+    },
+    {
+      "title": "多家港股科技企业谋求“H+A” 搭建双资本运作平台加码创新研发",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/roll/2026-09-05/doc-iniqszsk0924634.shtml",
+      "content": "◎记者 柴刘斌 据统计，今年以来，艾美疫苗、MINIMAX、智谱、范式智能、云英谷科技等5家港股公司首次披露A股上市计划，另有5家港股公司正在稳步推进A股上市进程。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-04",
+      "time": "19:30",
       "keywords": []
     },
     {
@@ -1018,76 +1090,6 @@
       "keywords": []
     },
     {
-      "title": "大型科技企业可建设民众不反感的数据中心",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-05/doc-iniqsvkk0765199.shtml",
-      "content": "争相兴建 AI 算力工厂的科技巨头正在重新规划方案，以此重获美国民众信任 作者：克里斯托弗・明斯弗吉尼亚州一处亚马逊云科技的数据中心。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-04",
-      "time": "16:18",
-      "keywords": []
-    },
-    {
-      "title": "泽连斯基：美总统特使访问期间不对俄发动空中打击",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-05/doc-iniqsvkk0765708.shtml",
-      "content": "乌克兰总统泽连斯基4日表示，美国总统特使威特科夫和库什纳将于近日访问俄罗斯，并于9月6日访问乌克兰。泽连斯基说，乌方正在为两人的访问做准备...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-04",
-      "time": "16:11",
-      "keywords": []
-    },
-    {
-      "title": "苹果开启John Ternus时代 史上最庞大产品阵容蓄势待发",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-04/doc-iniqsvkh3965444.shtml",
-      "content": "过去15年的大部分时间里，苹果公司一直致力于完善现有产品线，并推出各种服务，以创造更多经常性收入。期间也出现了Apple Watch和AirPods等少数全新设备类别...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-04",
-      "time": "15:26",
-      "keywords": []
-    },
-    {
-      "title": "乌国家安全局遭袭 美总统特使访问计划“可能有变”",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-04/doc-iniqsvkh3971997.shtml",
-      "content": "乌克兰总统泽连斯基4日在社交媒体发文称，位于乌首都基辅市中心的乌国家安全局总部当天遭俄军无人机袭击。乌克兰媒体同日援引消息人士的话报道称，出于安全担忧...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-04",
-      "time": "15:21",
-      "keywords": []
-    },
-    {
-      "title": "贝森特表示“我们希望”不再有其他银行需要受到制裁",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-04/doc-iniqsraq1118843.shtml",
-      "content": "美国财政部长斯科特·贝森特在宣布制裁土耳其一家小型投资银行后表示，“我们希望不再有其他银行需要受到制裁”。 他在一份声明中表示：“这最终取决于国际社会多快恢复理性...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-09-04",
-      "time": "14:53",
-      "keywords": []
-    },
-    {
       "title": "地缘冲突叠加低库存，现货偏紧支撑近月逼仓，乙二醇价格大幅上行",
       "source": "财新",
       "url": "https://database.caixin.com/2026-09-04/102482117.html?cxapp_link=true",
@@ -1097,7 +1099,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "CCI快报"
@@ -1113,7 +1115,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1129,7 +1131,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "光伏观察"
@@ -1145,7 +1147,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "风电观察"
@@ -1161,7 +1163,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1177,7 +1179,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1193,7 +1195,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "地产观察"
@@ -1209,7 +1211,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1225,7 +1227,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1241,7 +1243,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1257,7 +1259,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1273,7 +1275,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1289,7 +1291,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1306,7 +1308,7 @@
         "消费"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1322,7 +1324,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1338,7 +1340,7 @@
         "黄金"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "家庭财富"
@@ -1354,7 +1356,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "霍尔木兹周报"
@@ -1370,7 +1372,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1386,7 +1388,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1402,7 +1404,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1418,7 +1420,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1434,7 +1436,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1450,7 +1452,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1466,7 +1468,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1482,7 +1484,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1498,7 +1500,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1514,7 +1516,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1531,7 +1533,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1547,7 +1549,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "CCI快报"
@@ -1563,7 +1565,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "交易簿"
@@ -1579,7 +1581,7 @@
         "半导体"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "行业速递"
@@ -1596,7 +1598,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "行业速递"
@@ -1612,7 +1614,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1628,7 +1630,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1644,7 +1646,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1660,7 +1662,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1676,7 +1678,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1692,7 +1694,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1708,7 +1710,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1724,7 +1726,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1740,7 +1742,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1756,7 +1758,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "数据图解"
@@ -1772,7 +1774,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "霍尔木兹周报"
@@ -1788,7 +1790,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1804,7 +1806,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1820,7 +1822,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1836,7 +1838,7 @@
         "半导体"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1852,7 +1854,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "研报精华"
@@ -1868,7 +1870,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1884,7 +1886,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1900,7 +1902,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1917,7 +1919,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1933,7 +1935,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1949,7 +1951,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1965,7 +1967,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1981,7 +1983,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "CCI快报"
@@ -1997,7 +1999,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2013,7 +2015,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2029,7 +2031,7 @@
         "消费"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "交易簿"
@@ -2045,7 +2047,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2061,7 +2063,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2077,7 +2079,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2093,7 +2095,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2109,7 +2111,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2125,7 +2127,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2141,7 +2143,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2157,7 +2159,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2173,7 +2175,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2189,7 +2191,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "数据图解"
@@ -2205,7 +2207,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2221,7 +2223,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2237,7 +2239,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2253,7 +2255,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2269,7 +2271,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "交易簿"
@@ -2285,7 +2287,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -2301,7 +2303,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "霍尔木兹周报"
@@ -2317,7 +2319,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-09-04",
+      "date": "2026-09-05",
       "time": "--:--",
       "keywords": [
         "市场动态"
