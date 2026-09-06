@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-06T15:43:21.636294",
+  "updated": "2026-09-06T18:37:22.229779",
   "total": 144,
   "sources": [
     "新浪财经",
@@ -7,8 +7,8 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 22,
-    "medium": 24,
+    "high": 21,
+    "medium": 25,
     "low": 98
   },
   "items": [
@@ -150,20 +150,6 @@
       "period": "noon",
       "date": "2026-09-06",
       "time": "13:04",
-      "keywords": []
-    },
-    {
-      "title": "002731，将被退市！多重风险压顶",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-09-06/doc-iniqwwyt0000265.shtml",
-      "content": "多重风险压顶的*ST萃华（002731），将面临规范类退市！ 9月6日晚间，*ST萃华发布公告，因未在被实施退市风险警示之日起两个月内（2026年9月6日前）披露过半数董事保证真实...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-06",
-      "time": "11:47",
       "keywords": []
     },
     {
@@ -342,6 +328,20 @@
       "keywords": [
         "商圈"
       ]
+    },
+    {
+      "title": "俄罗斯外长拉夫罗夫发出警告 称德国正走向对俄宣战",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqxpwq6029921.shtml",
+      "content": " 俄罗斯外交部长谢尔盖·拉夫罗夫指责德国正走向与俄罗斯直接对抗，并批评柏林在莱比锡机场发生无人机事件后决定关闭部分外交机构。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-06",
+      "time": "17:39",
+      "keywords": []
     },
     {
       "title": "紫金矿业致歉！更正半年报中相关文字错误 #紫金矿业 #致歉 #错误 #新闻热点",
@@ -708,6 +708,34 @@
       ]
     },
     {
+      "title": "美国特使结束俄乌斡旋会谈 泽连斯基称准备迎接又一个艰难冬天",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-07/doc-iniqxpwr0859010.shtml",
+      "content": " 乌克兰已经接受这样一个现实：与俄罗斯的冲突还会拖过又一个艰难的冬天。乌克兰将寻求盟友提供一揽子支持，涵盖加强防空以及能源供应，其中包括美国液化天然气。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-06",
+      "time": "17:27",
+      "keywords": []
+    },
+    {
+      "title": "特朗普称加拿大货币对美国的“失衡”不可接受",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqxiqn9854717.shtml",
+      "content": "“加拿大货币对美国的失衡是不可接受的，” 美国总统特朗普在社交媒体上发帖表示。 “这种情况已经持续很多年了，但以后不会了！”他表示。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-06",
+      "time": "15:55",
+      "keywords": []
+    },
+    {
       "title": "视频 | 9月6日，ChinaGT组委会回应上海赛车起火:向受伤车手表示慰问，并向救人车手致敬",
       "source": "市场资讯",
       "url": "https://finance.sina.com.cn/stock/marketresearch/2026-09-06/doc-iniqxiqn9845613.shtml",
@@ -986,34 +1014,6 @@
       "period": "morning",
       "date": "2026-09-06",
       "time": "11:53",
-      "keywords": []
-    },
-    {
-      "title": "罕见，中信海直一独董上任仅一个月，因连续两次缺席董事会被提请解职",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/wbstock/2026-09-06/doc-iniqwwyt0005009.shtml",
-      "content": "来源：@每日经济新闻微博#独董2次缺席董事会拟被解职# 【罕见，中信海直一独董上任仅一个月，因连续两次缺席董事会被提请解职】中信海直（SZ000099，股价13.87元，市值107...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-06",
-      "time": "11:49",
-      "keywords": []
-    },
-    {
-      "title": "OPEC+维持石油产量配额不变的计划",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-06/doc-iniqwwyu6772443.shtml",
-      "content": "OPEC+主要成员国坚持维持石油产量配额不变的计划，而伊朗战争继续导致中东大片地区的石油生产停滞。 OPEC在一份声明中表示，由沙特阿拉伯和俄罗斯牵头的七个成员国组成的小...",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "morning",
-      "date": "2026-09-06",
-      "time": "11:49",
       "keywords": []
     },
     {
