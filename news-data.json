@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-08T16:49:34.680401",
+  "updated": "2026-09-08T21:22:52.454579",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,53 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 25,
-    "medium": 23,
-    "low": 102
+    "high": 19,
+    "medium": 22,
+    "low": 109
   },
   "items": [
+    {
+      "title": "美国7月消费者信贷增长超预期 非循环信贷大增",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirehkk4161759.shtml",
+      "content": "美国7月消费者信贷增长超预期，非循环信贷创三年来最大增长。 美联储周二公布的数据显示，未偿还消费者信贷总额增加181亿美元，6月数据经修正后为增加146亿美元。",
+      "priority": "high",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-09-08",
+      "time": "19:21",
+      "keywords": []
+    },
+    {
+      "title": "美国7月消费者信贷环比增长180.62亿美元 预期增长113.4亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inireaan9124107.shtml",
+      "content": "美国7月消费者信贷增幅超过经济学家预期。 根据美联储的数据，7月消费者信贷环比增加1806.2亿美元，预期为增加113.40亿美元；6月数据修正后为增加145.55亿美元。",
+      "priority": "high",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-09-08",
+      "time": "19:18",
+      "keywords": []
+    },
+    {
+      "title": "苹果股价在iPhone重大新品发布会通常会作何反应",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inircvuq4389235.shtml",
+      "content": "作者：布莱恩・索齐 从历史走势来看，苹果（AAPL）股价在这款科技巨头发布高价重磅新品之后的数月时间里，往往表现向好。 美银分析师瓦姆西・莫汉周二发布最新分析：苹果股...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-08",
+      "time": "17:01",
+      "keywords": []
+    },
     {
       "title": "特朗普与普京通话约一小时 克里姆林宫称两人的交流相当坦率",
       "source": "环球市场播报",
@@ -80,132 +122,6 @@
       "period": "noon",
       "date": "2026-09-08",
       "time": "14:29",
-      "keywords": []
-    },
-    {
-      "title": "澳大利亚瞄准算法信息流，加大对大型科技企业监管力度",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-inircrns4475545.shtml",
-      "content": "核心要点澳大利亚计划强制社交媒体企业设置算法信息流 “选择退出” 功能。拟议立法将允许 16 岁以上用户选择只查看自己关注对象发布的内容。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-08",
-      "time": "14:16",
-      "keywords": []
-    },
-    {
-      "title": "ETF日报：A股长期向好的底层逻辑未变，正逐步从估值扩张转向企业盈利驱动的结构性慢牛行情",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-09-08/doc-inircrns9304334.shtml",
-      "content": "今日A股三大指数涨跌不一，沪指上涨0.20%，深证成指下跌0.52%，创业板指下跌1.15%。沪深两市成交额约1.98万亿元，较上日有所放量。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-08",
-      "time": "14:05",
-      "keywords": []
-    },
-    {
-      "title": "阿斯利康慢阻肺药物两项晚期临床试验取得成功",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-inircrns9296776.shtml",
-      "content": "核心要点阿斯利康公布其慢阻肺在研药物两项成功的晚期临床试验完整结果。详实试验数据增强市场预期，该药物有望成为慢阻肺突破性疗法...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-08",
-      "time": "13:45",
-      "keywords": []
-    },
-    {
-      "title": "高通与亚马逊达成数据中心基础设施合作，股价大涨6%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-inircrnn9223711.shtml",
-      "content": "核心要点高通表示，将与亚马逊开展多代定制芯片合作，助力亚马逊云科技（AWS）搭建 AI 基础设施。这家芯片厂商正发力数据中心业务；AI 浪潮之下...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-08",
-      "time": "13:40",
-      "keywords": []
-    },
-    {
-      "title": "今夜，直线飙涨！光刻机巨头，重大宣布",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-09-08/doc-inircrns4458397.shtml",
-      "content": "阿斯麦大动作。 今晚（9月8日），在美股盘前交易中，全球光刻机巨头阿斯麦股价直线飙涨，一度大涨超4%。消息面上，阿斯麦宣布，公司与台积电...",
-      "priority": "high",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-09-08",
-      "time": "13:27",
-      "keywords": []
-    },
-    {
-      "title": "诺和诺德CEO：尚未对多肽热潮表示认同",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-inircrnn9212070.shtml",
-      "content": "诺和诺德（NVO）CEO 迈克・杜斯达尔全力推动公司减重多肽药物 Wegovy 的销售，希望尽可能扩大这款重磅药的市场规模。 但对于多肽领域地下市场的乱象，他却态度冷淡。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-08",
-      "time": "13:25",
-      "keywords": []
-    },
-    {
-      "title": "霍尔木兹危机迫使船舶改道，苏伊士运河航运复苏步伐加快",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-inircrns4455451.shtml",
-      "content": " 受伊朗战事导致霍尔木兹海峡实际通行受阻、胡塞武装在红海南部制造威胁影响，更多船舶选择走埃及苏伊士运河。7 月苏伊士运河收入同比大涨 42%。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-08",
-      "time": "13:21",
-      "keywords": []
-    },
-    {
-      "title": "波动率与各类风险抬头，全球市场夏季平淡行情行将落幕",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-inircrns9286352.shtml",
-      "content": " 债券遭抛售、汇率大幅波动已经让全球金融市场承压；未来数月，市场或将迎来更大波动，潜在风险包括央行加息、财政赤字担忧加剧以及中东战事持续发酵。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-08",
-      "time": "13:18",
-      "keywords": []
-    },
-    {
-      "title": "连拉两个涨停后，华脉科技披露实控人减持计划：拟协议转让5.27%股份，套现1.58亿元",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-09-08/doc-inircrnq5974629.shtml",
-      "content": "每经记者|黄博文每经编辑|黄胜 9月8日晚间，华脉科技（SH603042，股价16.97元，市值35.43亿元）披露《股票交易异常波动公告》。据该公告，公司股票在9月4日、9月7日...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-08",
-      "time": "13:09",
       "keywords": []
     },
     {
@@ -386,6 +302,62 @@
       ]
     },
     {
+      "title": "纽约汇市：美元走软 加元在贝森特谈及美加贸易后上涨",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirehkh5820067.shtml",
+      "content": "美元指数周二下跌，加元则在美国财政部长斯科特·贝森特就美加贸易关系前景发表评论后走强。 美元指数下跌0.1%，报1187.48。 该指数触及5月份以来最低...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-08",
+      "time": "21:13",
+      "keywords": []
+    },
+    {
+      "title": "欧洲股市持稳 权重股诺华跌幅创纪录",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirehkh5808485.shtml",
+      "content": "欧洲股市周二持稳，权重股诺华一周内第三次遭遇临床试验挫折，拖累大盘表现。 截至伦敦收盘，斯托克欧洲600指数下跌0.1%，医疗保健板块下跌2.3%。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-08",
+      "time": "20:47",
+      "keywords": []
+    },
+    {
+      "title": "9月9日热门中概股多数下跌 百度跌超6% 贝壳跌超3% 拼多多跌近3%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirehke9030013.shtml",
+      "content": "9月9日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）收跌1.73%。 上涨个股（按市值从高到低）：台积电涨2.35%，日月光半导体涨6.08%，联电涨5.06%，中华电信涨0.94%...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-08",
+      "time": "20:29",
+      "keywords": []
+    },
+    {
+      "title": "美国财政部扩大国债回购在即 华尔街料单次规模最高100亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-09/doc-inireaak5897498.shtml",
+      "content": " 在8月份美国财政部宣布拟将长期国债回购规模至少扩大一倍后，华尔街利率策略师预计，财政部将把回购规模提高至每次最多100亿美元。",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-09-08",
+      "time": "18:59",
+      "keywords": []
+    },
+    {
       "title": "贝森特：回购消息公布前 债券市场的“发热”程度正在加剧",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-09-09/doc-inircvuq4376061.shtml",
@@ -425,76 +397,6 @@
       "period": "noon",
       "date": "2026-09-08",
       "time": "15:41",
-      "keywords": []
-    },
-    {
-      "title": "Visa：稳定币关联卡片需求激增，公司将为区块链放贷机构拓展数据服务",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-inircrnn9253073.shtml",
-      "content": "核心要点这家支付巨头会把自身清算结算数据与链上借贷基础设施相结合，让放贷机构能够更深入了解数字资产类金融科技企业、发卡机构的经营财务状况。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-08",
-      "time": "14:20",
-      "keywords": []
-    },
-    {
-      "title": "一只关键科技ETF或将预示本轮牛市能否持续上行",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-inircrns4474527.shtml",
-      "content": "核心要点 市场风向再度转向，AI 应用消费类板块跑赢 AI 基建硬件标的。这只 ETF 或将成为本轮牛市的风向标。 并非全是利空：收益率走高背景下...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-08",
-      "time": "14:13",
-      "keywords": []
-    },
-    {
-      "title": "SpaceX占纳指权重料获提升 或迎来逾百亿美元被动净买盘",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-inircrnn9245833.shtml",
-      "content": "SpaceX股价近期持续窄幅波动，但随着纳斯达克100指数本月晚些时候进行季度再平衡，新一轮买盘可能很快到来。 关键在于两个因素：一是这一科技股权重较高的指数在编制方法中...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-08",
-      "time": "14:08",
-      "keywords": []
-    },
-    {
-      "title": "开盘：油价攀升，三大股指涨跌不一",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-inircrnn9217629.shtml",
-      "content": "华尔街密切关注美伊冲突，以及美加之间不断升级的贸易紧张局势。 道指跌0.77%，标普500指数跌0.09%。受芯片股上涨带动，纳指涨0.09%。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-08",
-      "time": "13:30",
-      "keywords": []
-    },
-    {
-      "title": "中资券商DCM拟瞄准香港“学生公寓”REITs新战场 香港固收蓝图下 房地产投资或有新模式",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-08/doc-inircrnn9200583.shtml",
-      "content": "文/新浪财经香港站赵岚王柳潞 香港红磡漆咸道北，一栋25层高的全新建筑落成不久。 8月31日，招商局商业房地产投资信托基金（1503.HK）宣布以5.285亿港元完成收购这处建筑...",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-09-08",
-      "time": "13:09",
       "keywords": []
     },
     {
@@ -738,6 +640,244 @@
       "keywords": [
         "周刊提前读"
       ]
+    },
+    {
+      "title": "美军在贾斯克附近袭击第二艘伊朗油轮",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirehkk4179121.shtml",
+      "content": "伊朗媒体报道称，美军在阿曼湾贾斯克沿岸附近打击了第二艘伊朗油轮。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-08",
+      "time": "20:50",
+      "keywords": []
+    },
+    {
+      "title": "特朗普加大经济施压 美军袭击伊朗石油出口枢纽邻近目标",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirehkk4179061.shtml",
+      "content": "特朗普政府为结束战争向伊朗施加更大经济压力，周二美军袭击了伊朗石油出口枢纽哈尔克岛和港口城市贾斯克附近的目标。 美国高级官员称，美军打击的目标包括伊朗油轮...",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-09-08",
+      "time": "20:49",
+      "keywords": []
+    },
+    {
+      "title": "伊朗警告称科威特和巴林附近油轮船员应弃船",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirehkk9010884.shtml",
+      "content": " 伊朗革命卫队海军声明称，科威特和巴林码头附近的所有油轮船员都应“立即弃船，无论船只是在锚泊还是靠泊，因为它们将成为打击目标”。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-08",
+      "time": "20:48",
+      "keywords": []
+    },
+    {
+      "title": "美军打击伊朗石油出口枢纽附近目标 并非地面攻势",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirehkk9010821.shtml",
+      "content": "美军中央司令部所属部队正在对伊朗石油出口枢纽哈尔克岛和贾斯克附近的几个目标进行空袭。 美军打击的目标是油轮，这并非有地面部队参与的攻势新阶段。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-09-08",
+      "time": "20:48",
+      "keywords": []
+    },
+    {
+      "title": "原油：WTI升至逾三个月高点 伊朗哈尔克岛遭袭",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirehke9036290.shtml",
+      "content": " 布伦特原油升至7月底以来最高水平，中东能源基础设施再遭新一轮袭击，据报伊朗关键石油出口枢纽哈尔克岛传出爆炸声，市场对石油供应再度趋紧的担忧升温。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-09-08",
+      "time": "20:48",
+      "keywords": []
+    },
+    {
+      "title": "美国导弹击中哈尔克岛附近伊朗油轮",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirehkh5808744.shtml",
+      "content": "伊朗媒体报道称，一艘伊朗油轮在波斯湾距离哈尔克岛4英里处遭美国导弹袭击。 这艘油轮在哈尔克岛锚地内被击中。 此次事件没有造成人员伤亡，油轮船员正在撤离。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-08",
+      "time": "20:47",
+      "keywords": []
+    },
+    {
+      "title": "9月9日美股成交额前20：英特尔涨超9% 10月或针对消费级处理器产品线推出新一轮调价",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirehke9035040.shtml",
+      "content": "周二美股成交额第2名英伟达收跌2.01%，成交269.71亿美元。 被誉为“中国版英伟达”及“国产GPU第一股”的摩尔线程已以保密方式向港交所提交上市申请。",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-09-08",
+      "time": "20:45",
+      "keywords": []
+    },
+    {
+      "title": "9月9日美股收盘：三大股指普跌 道指跌超600点 美军对哈尔克岛附近目标实施打击",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inirehkh5798821.shtml",
+      "content": "华尔街密切关注美伊冲突，以及美加之间不断升级的贸易紧张局势。美军对哈尔克岛附近目标实施打击，打击目标包括伊朗油轮。伊朗革命卫队海军表示...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-08",
+      "time": "20:14",
+      "keywords": []
+    },
+    {
+      "title": "伊朗主要石油出口枢纽哈尔克岛传来爆炸声",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-09/doc-inireaak5903155.shtml",
+      "content": "伊朗迈赫尔通讯社援引驻岛记者报道称，伊朗哈尔克岛锚地区域传出多次爆炸声。 目前官方尚未公布爆炸来源或原因，潜在损毁细节尚未公布。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-09-08",
+      "time": "19:10",
+      "keywords": []
+    },
+    {
+      "title": "软银拟与投资者在纽约会面 摸底对潜在巨额发债交易的兴趣",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-09/doc-inireaan9108802.shtml",
+      "content": " 软银集团下周将在纽约与投资者举行会议，试探市场对潜在美元垃圾债发行的兴趣。亿万富豪孙正义的这家投资公司正继续大举举债，为其对人工智能的巨额押注融资。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-08",
+      "time": "18:12",
+      "keywords": []
+    },
+    {
+      "title": "美国3年期国债拍卖中标收益率创2024年以来最高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-09/doc-inireaan9108718.shtml",
+      "content": "美国财政部发行580亿美元3年期国债，中标收益率为4.474%，略低于纽约时间下午1点投标截止时4.475%的发行前交易水平，显示市场需求略好于预期。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-08",
+      "time": "18:12",
+      "keywords": []
+    },
+    {
+      "title": "据报OpenAI首席财务官称企业业务势头强劲",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-09/doc-inireaah9104455.shtml",
+      "content": "据报道，OpenAI首席财务官Sarah Friar在高盛一场会议上表示，公司的企业业务一直“势头强劲”。 援引她的话称：“消费者业务正以相当不错的速度增长...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-09-08",
+      "time": "18:11",
+      "keywords": []
+    },
+    {
+      "title": "英国空管系统再现故障 仅希思罗就有逾80个航班取消、约200个航班延误",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-09/doc-inircvun5972725.shtml",
+      "content": "由于空中交通管制系统发生故障，英国周二遭遇持续数小时的严重航空交通受扰。 英国最大航空枢纽伦敦希思罗机场在声明中表示，英国国家空中交通服务公司（NATS）发生的故障...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-08",
+      "time": "16:59",
+      "keywords": []
+    },
+    {
+      "title": "贝森特称回购旨在给债市的“发热”降温 否认美债下跌源于信用担忧",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-09/doc-inircvuk9199910.shtml",
+      "content": "美国财政部长斯科特·贝森特表示，他上月宣布扩大美国国债旧券回购计划，目的是给债券市场的“发热”降温。 贝森特周二在华盛顿出席Breitbart...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-09-08",
+      "time": "16:59",
+      "keywords": []
+    },
+    {
+      "title": "SpaceX首席执行官马斯克要做哪些事，才能推动股价直冲高位",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inircvuq4388266.shtml",
+      "content": "作者：布莱恩・索齐 若 SpaceX 想要在不远的将来实现极高的市场估值，就必须攻克火箭可复用技术这一难关。 Pivotal Research Group...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-08",
+      "time": "16:58",
+      "keywords": []
+    },
+    {
+      "title": "欧洲债市：欧债小涨 油价小幅回落提供支撑",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-09/doc-inircvuk9199340.shtml",
+      "content": " 欧洲债券上涨，全球油价小幅回落提供支撑。英国较长期限国债受益于30年期国债拍卖需求稳健，此次发行收益率创至少1998年以来最高水平。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-08",
+      "time": "16:58",
+      "keywords": []
+    },
+    {
+      "title": "苹果新任CEO特努斯将于周三发布会推出折叠屏iPhone",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-09/doc-inircvuq4386244.shtml",
+      "content": "苹果将于周三开启全新时代，首席执行官约翰・特努斯将首次登台，主持公司年度 iPhone 新品发布会。 特努斯于 9 月 1 日接替前 CEO 蒂姆・库克履职，市场普遍预计...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-08",
+      "time": "16:51",
+      "keywords": []
     },
     {
       "title": "加拿大总理卡尼称对美关税意在保护加拿大 而非升级冲突",
@@ -989,147 +1129,6 @@
       "period": "noon",
       "date": "2026-09-08",
       "time": "14:24",
-      "keywords": []
-    },
-    {
-      "title": "胡塞武装袭击沙特多处能源设施 布伦特原油价格触及98美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-inircrnq6025338.shtml",
-      "content": "油价周二上涨，胡塞武装分子袭击了沙特阿拉伯的几处能源设施，迫使部分运营暂时中断。 截至美国东部时间上午10：01，布伦特原油期货上涨1%，报每桶98.13美元...",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-09-08",
-      "time": "14:19",
-      "keywords": []
-    },
-    {
-      "title": "高通宣布与亚马逊网络服务（AWS） 建立数据中心基础设施合作伙伴关系",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-inircrnn9250436.shtml",
-      "content": " 高通股价周二上涨4%，此前该公司宣布与亚马逊网络服务（AWS） 建立数据中心基础设施合作伙伴关系。这家芯片制造商试图在人工智能市场挑战英伟达，此举是一次重大胜利。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-08",
-      "time": "14:15",
-      "keywords": []
-    },
-    {
-      "title": "高通向亚马逊发行认股权证，亚马逊可据此购买价值40亿美元的高通股票，作为AI基础设施合作协议的一部分",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-08/doc-inircrns4474954.shtml",
-      "content": " 高通周二股价上涨4%。此前该公司宣布与亚马逊云科技（AWS）达成数据中心基础设施合作。对于这家芯片厂商想要在人工智能市场向英伟达发起挑战而言，这是一项重大利好。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-09-08",
-      "time": "14:14",
-      "keywords": []
-    },
-    {
-      "title": "江波龙港股“破发”！净利暴增715倍，为何没打动市场？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-09-08/doc-inircrns9304801.shtml",
-      "content": "来源：国际金融报 9月8日，江波龙（301308.SZ、09976.HK）正式在港交所主板挂牌上市。但这家头顶“全球第二大独立存储器模组厂商”光环的公司并未迎来“开门红”：以236港元/股...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-08",
-      "time": "14:03",
-      "keywords": []
-    },
-    {
-      "title": "徕芬回应9.9元牙刷刷头为何“消失”三月",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-09-08/doc-inircrnn9263155.shtml",
-      "content": "来源：蓝鲸科技 图源：视觉中国 “市场始终在变化，企业也会随之进行阶段性调整。” 文| 翟智超 编辑 | 陈业 蓝鲸新闻9月8日讯（记者 翟智超）今年6月起，有消费者发现...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-08",
-      "time": "13:39",
-      "keywords": []
-    },
-    {
-      "title": "九方智投控股连续回购股份20万股，上半年营收下降38%",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-09-08/doc-inircrns9299299.shtml",
-      "content": "来源：消费日报财经 近日，九方智投控股（09636.HK）接连披露股份回购公告，9月2日斥资318.89万港元回购11.2万股；9月3日耗资约209.77万港元回购7.28万股；9月4日耗资约42...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-09-08",
-      "time": "13:39",
-      "keywords": []
-    },
-    {
-      "title": "江波龙港股上市首日破发，收盘微跌1.02%",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-08/doc-inircrnn9197780.shtml",
-      "content": " 9月8日，江波龙（09976.HK）正式在港交所挂牌上市，中信证券和花旗联席保荐，由此成为首家实现“A+H”两地上市的独立半导体存储器企业。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-08",
-      "time": "13:16",
-      "keywords": []
-    },
-    {
-      "title": "超2亿灵活就业者医保破冰，七部门探索平台补贴制度化",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/roll/2026-09-08/doc-inircrns9285668.shtml",
-      "content": "推动取消超大城市参保户籍限制，允许居民医保缴费年限折算为职工医保。 在破解2亿多灵活就业人员社会保障难题的进程中，医保迈出关键一步。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-08",
-      "time": "13:14",
-      "keywords": []
-    },
-    {
-      "title": "豪掷15亿元做LP，知乎要投AI与机器人",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-09-08/doc-inircrns4451769.shtml",
-      "content": "每经记者|姚亚楠每经编辑|彭水萍 近日，知乎公告拟出资15亿元，认购砺思资本旗下天津砺思星深股权投资合伙企业（有限合伙）的有限合伙权益...",
-      "priority": "low",
-      "sectors": [
-        "机器人",
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-09-08",
-      "time": "13:10",
-      "keywords": []
-    },
-    {
-      "title": "金价动荡，该盯住哪些关键变量？",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-09-08/doc-inircrnn9198937.shtml",
-      "content": "",
-      "priority": "low",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "noon",
-      "date": "2026-09-08",
-      "time": "13:07",
       "keywords": []
     },
     {
