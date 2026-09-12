@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-12T18:42:58.273890",
+  "updated": "2026-09-12T22:31:07.835998",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,39 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 23,
-    "medium": 23,
-    "low": 104
+    "high": 24,
+    "medium": 24,
+    "low": 102
   },
   "items": [
+    {
+      "title": "欧洲央行行长拉加德：价格冲击将持续更长时间 AI领域估值非常高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-13/doc-inirrpak7996680.shtml",
+      "content": "欧洲央行行长克里斯蒂娜·拉加德表示，欧元区通胀将在一段时间内维持高位。 她在接受采访时表示：“当前的冲击会持续时间更长。”她说，中东冲突“仍在持续。",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-09-12",
+      "time": "21:18",
+      "keywords": []
+    },
+    {
+      "title": "欧洲央行行长拉加德：当前价格冲击持续时间将更久",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-13/doc-inirrhuq4882951.shtml",
+      "content": "欧洲央行行长克里斯蒂娜·拉加德表示，欧元区通胀仍将在一段时间内维持高位。 她在接受采访时表示：“当前这场冲击持续时间会更长。中东冲突仍在持续。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-12",
+      "time": "20:36",
+      "keywords": []
+    },
     {
       "title": "加州柴油价格创历史新高",
       "source": "环球市场播报",
@@ -150,20 +178,6 @@
       "period": "morning",
       "date": "2026-09-12",
       "time": "08:15",
-      "keywords": []
-    },
-    {
-      "title": "概率飙升至90%！美联储加息最新预测",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/wm/2026-09-12/doc-inirqfie6529303.shtml",
-      "content": " 美国消费者新闻与商业频道11日报道称，目前交易员预计美联储下周加息概率已从数据发布前的70%跃升至90%。报道还指出，市场预计如果美联储决定加息，本次将加息25个基点。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-12",
-      "time": "08:05",
       "keywords": []
     },
     {
@@ -358,6 +372,20 @@
       "keywords": [
         "商圈"
       ]
+    },
+    {
+      "title": "沙特称也门胡塞武装袭击造成2人受伤",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-13/doc-inirrhuq4889330.shtml",
+      "content": " 沙特民防机构12日晚发表声明说，沙特贾赞省图沃勒县当天遭到也门胡塞武装的袭击，造成2人受伤、多栋建筑和一些车辆受损。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-12",
+      "time": "19:29",
+      "keywords": []
     },
     {
       "title": "Anthropic呼吁放慢先进AI模型开发 马斯克等业界大佬表示赞同",
@@ -717,6 +745,132 @@
       ]
     },
     {
+      "title": "美国总统称美方与胡塞武装进行通话 胡塞武装暂未回应",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-13/doc-inirrpaq5957252.shtml",
+      "content": " 美国总统特朗普12日称，美方与也门胡塞武装进行了通话。特朗普称，胡塞武装致电美方并表示不愿与美方战斗，也不希望美方卷入冲突。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-12",
+      "time": "22:17",
+      "keywords": []
+    },
+    {
+      "title": "胡塞武装称使用大量弹道导弹和无人机打击沙特军事设施",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-13/doc-inirrpan4777922.shtml",
+      "content": "当地时间13日凌晨，也门胡塞武装军方发言人叶海亚表示，针对沙特方面持续对也门发动军事行动，也门胡塞武装实施军事行动，打击了沙特谢拉拉地区一处军事基地内的武器库以及...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-12",
+      "time": "21:36",
+      "keywords": []
+    },
+    {
+      "title": "特斯拉预告将于10月1日举办活动 展示下一代Roadster跑车",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-09-13/doc-inirrpan4774070.shtml",
+      "content": " 特斯拉公司预告将于10月1日举办活动，展示下一代Roadster车型。这是一款小众产品，该公司首席执行官马斯克最早于2017年11月份发布了这款车。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-12",
+      "time": "21:32",
+      "keywords": []
+    },
+    {
+      "title": "OpenAI首席执行官：今年不会上市 不能冒哪怕10%杀死所有人的风险",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-13/doc-inirrpai0779205.shtml",
+      "content": "OpenAI首席执行官Sam Altman在接受采访时表示，这家人工智能公司专注于解决围绕AI技术的安全担忧，今年不会上市。 Altman表示，今年进行首次公开募股“时机不合适”...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-09-12",
+      "time": "21:16",
+      "keywords": []
+    },
+    {
+      "title": "Altman表示OpenAI今年不会IPO 需要推进安全相关工作",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-09-13/doc-inirrhuq4879609.shtml",
+      "content": "OpenAI不会在2026年上市，Sam Altman在接受采访时表示，原因是需要开展与安全相关的工作。 在周六刊发的采访中，Altman表示，由于围绕人工智能的安全担忧...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-09-12",
+      "time": "20:29",
+      "keywords": []
+    },
+    {
+      "title": "伊朗南部格什姆岛方向传出爆炸声",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-13/doc-inirrans4966414.shtml",
+      "content": "据伊朗方面12日消息，伊朗南部格什姆岛方向两度传出爆炸巨响。 消息称，爆炸声来自海面。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-12",
+      "time": "18:39",
+      "keywords": []
+    },
+    {
+      "title": "乌官员：乌克兰准备10月举行新一轮乌美俄三方谈判",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-13/doc-inirranp1001671.shtml",
+      "content": "乌克兰总统办公室主任布达诺夫当地时间12日表示，乌克兰正准备在10月举行新一轮谈判，谈判将采取乌克兰、俄罗斯和美国三方参与的形式。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-12",
+      "time": "18:12",
+      "keywords": []
+    },
+    {
+      "title": "伊朗和阿曼将通报霍尔木兹海峡通航磋商结果",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-13/doc-inirranq8180779.shtml",
+      "content": " 据卡塔尔半岛电视台12日报道，伊朗外交部发言人巴加埃表示，伊朗和阿曼预计将在14日举行的相关地区会议上，向海湾国家通报两国有关霍尔木兹海峡通航问题的磋商结果。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-12",
+      "time": "18:04",
+      "keywords": []
+    },
+    {
+      "title": "胡塞武装称沙特对也门发动129次空袭",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-13/doc-inirrhus6058490.shtml",
+      "content": "也门胡塞武装发言人叶海亚当地时间12日称，过去48小时内，沙特空军出动战机对也门塔伊兹省、马里卜省、荷台达省、焦夫省等多地发动129次空袭。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-12",
+      "time": "16:48",
+      "keywords": []
+    },
+    {
       "title": "拉里·埃里森撤销甲骨文股票出售计划",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/7x24/2026-09-13/doc-inirqwes8266343.shtml",
@@ -1008,160 +1162,6 @@
       "period": "morning",
       "date": "2026-09-12",
       "time": "08:30",
-      "keywords": []
-    },
-    {
-      "title": "iPhone 17 Pro迎来史上最低价，你会买吗？",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/roll/2026-09-12/doc-inirqfie6531712.shtml",
-      "content": "来源：羊城派 iPhone 17 Pro迎来史上最低价！9月10日发布会后，iPhone17Pro官网全面下架且不再上架，而北京四十多家授权店却逆势降价促销。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-12",
-      "time": "08:14",
-      "keywords": []
-    },
-    {
-      "title": "【深度】百万粉丝博主涉黑被抓，打假还是假打？",
-      "source": "界面",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-12/doc-inirqfhy8410031.shtml",
-      "content": "界面新闻记者 | 张钰馨界面新闻编辑 | 刘海川 职业打假人，曾主要瞄准假冒伪劣产品，通过投诉、诉讼等维权手段追究商家责任，一度被视作消费市场中的“啄木鸟”。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-12",
-      "time": "08:10",
-      "keywords": []
-    },
-    {
-      "title": "603258，上半年净利润亏损5877万元！4920万元收购标的盈利不足50万元",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/roll/2026-09-12/doc-inirqfhy8410437.shtml",
-      "content": "来源：中国经营报 中经记者 李哲 北京报道 近日，电魂网络（603258.SH）披露上半年“成绩单”。财报显示，电魂网络的营收和净利润双双下滑。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-12",
-      "time": "08:08",
-      "keywords": []
-    },
-    {
-      "title": "又一海上咽喉告急！",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/wm/2026-09-12/doc-inirqfhx1366083.shtml",
-      "content": "央视财经 当地时间9月11日，胡塞武装发表声明，公布其近日军事行动成果；当天晚些时候，沙特能源部发表声明称，该国东西输油管道遭袭后预防性关闭。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-12",
-      "time": "08:05",
-      "keywords": []
-    },
-    {
-      "title": "粉末醋酸钠商品报价动态（2026-09-12）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-12/doc-inirqmqv1276825.shtml",
-      "content": "生意社09月12日讯交易商品牌/产地交货地最新报价粉末醋酸钠 含量53-57%，COD40万河南恒毅环保科技有限公司恒毅河南省/郑州市1800元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-12",
-      "time": "08:02",
-      "keywords": []
-    },
-    {
-      "title": "脂肪醇聚氧乙烯醚硫酸钠商品报价动态（2026-09-12）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-12/doc-inirqmqy5136446.shtml",
-      "content": "生意社09月12日讯交易商品牌/产地交货地最新报价AES 脂肪醇聚氧乙烯醚硫酸钠 含量70%济南金昊化工有限公司赞宇山东省/济南市11000元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-12",
-      "time": "08:02",
-      "keywords": []
-    },
-    {
-      "title": "深度除氟剂商品报价动态（2026-09-12）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-12/doc-inirqmra6440036.shtml",
-      "content": "生意社09月12日讯交易商品牌/产地交货地最新报价深度除氟剂 后端处理专用河南恒毅环保科技有限公司恒毅河南省/郑州市1600元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-12",
-      "time": "08:02",
-      "keywords": []
-    },
-    {
-      "title": "反渗透絮凝剂商品报价动态（2026-09-12）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-12/doc-inirqmqv1276815.shtml",
-      "content": "生意社09月12日讯交易商品牌/产地交货地最新报价反渗透絮凝剂 反渗透专用河南恒毅环保科技有限公司河南河南省/郑州市3200元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-12",
-      "time": "08:02",
-      "keywords": []
-    },
-    {
-      "title": "二乙醇单异丙醇胺85%商品报价动态（2026-09-12）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-12/doc-inirqmqw8363894.shtml",
-      "content": "生意社09月12日讯交易商品牌/产地交货地最新报价二乙醇单异丙醇胺 85% 散水济南金昊化工有限公司国产山东省/济南市9800元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-12",
-      "time": "08:02",
-      "keywords": []
-    },
-    {
-      "title": "锅炉阻垢剂商品报价动态（2026-09-12）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-12/doc-inirqmqw8363889.shtml",
-      "content": "生意社09月12日讯交易商品牌/产地交货地最新报价锅炉阻垢剂 PH：2±1 外观：黄色至棕黄色透明液体河南恒毅环保科技有限公司河南河南省/郑州市3200元/吨 （文章来源：生意社...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-12",
-      "time": "08:02",
-      "keywords": []
-    },
-    {
-      "title": "EDTA二钠盐商品报价动态（2026-09-12）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-12/doc-inirqmra6440030.shtml",
-      "content": "生意社09月12日讯交易商品牌/产地交货地最新报价EDTA二钠盐 99%工业级济南金昊化工有限公司石家庄山东省/济南市12500元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-12",
-      "time": "08:02",
       "keywords": []
     },
     {
