@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-14T13:17:21.701015",
+  "updated": "2026-09-14T19:34:32.362019",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,164 +7,177 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 22,
-    "medium": 40,
-    "low": 88
+    "high": 23,
+    "medium": 24,
+    "low": 103
   },
   "items": [
     {
-      "title": "沙特绕开霍尔木兹海峡的关键管道关停，布伦特原油突破109美元",
+      "title": "花旗、高盛和摩根大通等上调年末美债收益率预测",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirveaq9297610.shtml",
-      "content": "核心要点遭伊拉克发射的无人机袭击受损后，沙特关闭东西输油管道。利雅得方面尚未披露管道受损程度以及关停持续时长。这条管道日输油能力可达 700 万桶...",
+      "url": "https://finance.sina.com.cn/world/2026-09-15/doc-inirvqss4284491.shtml",
+      "content": " 上周五美国公布的消费者价格指数推动市场隐含的美联储加息概率升至约90%后，花旗、高盛和摩根大通利率策略师均转而预计，美联储本周可能加息。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-14",
+      "time": "18:07",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：AI毁灭人类的说法属于骗局",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-09-15/doc-inirvqsq3897783.shtml",
+      "content": "特朗普发文称，在商业历史上，从未见过行业龙头主动呼吁实施监管，而一旦严格执行这类监管，就会令企业销声匿迹甚至破产。他表示，所谓人工智能将接管世界...",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "17:39",
+      "keywords": []
+    },
+    {
+      "title": "特朗普发文称将向全美成年人发放5000美元红利",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-09-15/doc-inirvqsq3888049.shtml",
+      "content": "特朗普称，美国正收获数万亿美元的经济发展成果、投资以及巨大成功，因此计划向全美所有成年人发放5000美元的“特朗普红利”，该计划正遭到民主党人的批评...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "17:21",
+      "keywords": []
+    },
+    {
+      "title": "欧洲债市：交易员加码欧洲央行和英国央行加息押注 油气价格飙升",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-15/doc-inirvqss4265383.shtml",
+      "content": " 随着油气价格飙升加剧通胀担忧，货币市场一度完全消化对欧洲央行到明年底加息四次、每次25个基点，以及对英国央行同期加息五次、每次25个基点的预期。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "16:57",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：通胀源于拜登，除油价外物价正显著下行，伊冲突结束后油价将暴跌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-09-15/doc-inirvqsq3865905.shtml",
+      "content": "特朗普称，他希望所有人认识到，全美物价上涨是由拜登及其政府造成的，责任不在“特朗普”。他表示，拜登执政时期的油价高于当前水平，且他曾阻止伊朗获得核武器。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "16:33",
+      "keywords": []
+    },
+    {
+      "title": "特朗普驳斥放缓人工智能发展的呼声，称存在针对AI与数据中心的“阴谋”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-15/doc-inirvkkn9220572.shtml",
+      "content": "作者：丹尼尔・豪利 特朗普总统周一拒绝了为 AI 模型增设管控护栏的呼吁。他在真相社交（Truth Social）发帖表示，政府对这些企业已经手握 “极强的刑事与监管权力！",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "16:13",
+      "keywords": []
+    },
+    {
+      "title": "10年期美债收益率自2023年以来首次突破5%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirvkkn9211930.shtml",
+      "content": "周一，美国 10 年期国债收益率突破 5% 关口，创下 2023 年 10 月以来盘中最高水平。雅虎财经数据显示，该收益率上一次以 5% 收盘已是近 20 年前...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "15:38",
+      "keywords": []
+    },
+    {
+      "title": "10年期美债收益率突破5% 美元势创6月以来最大涨幅",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-14/doc-inirvkkq7194658.shtml",
+      "content": " 美元周一上涨，有望创下6月17日以来最大单日涨幅。6月17日是凯文·沃什出任美联储主席后首次主持联邦公开市场委员会会议的日子。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "15:35",
+      "keywords": []
+    },
+    {
+      "title": "万斯质疑AI大厂主动寻求监管，强调保持AI竞争优势",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-09-14/doc-inirvkkq7191723.shtml",
+      "content": "美国副总统万斯表示，他对头部AI企业主动寻求政府监管持怀疑态度，称“在我看来，这有点像特洛伊木马”。 万斯承认这项技术确实存在风险，但美国政府希望“进行明智监管”...",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "15:27",
+      "keywords": []
+    },
+    {
+      "title": "拉加德警示欧洲资本大量流向美国AI，呼吁建设本土算力保障技术主权",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-09-14/doc-inirvkks3962379.shtml",
+      "content": "欧洲央行行长拉加德9月14日在维也纳发表演讲，主题为《资本新时代：增长、主权与人工智能》。她指出欧元区家庭持有约4400亿欧元美国科技资产，欧洲资本大量流向美国AI。",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "15:21",
+      "keywords": []
+    },
+    {
+      "title": "能源价格上涨推高通胀担忧 交易员加码押注英国央行和欧洲央行加息",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-14/doc-inirvkks3962367.shtml",
+      "content": "由于能源价格再次飙升加剧了市场对通胀的担忧，交易员加大对欧洲央行和英国央行的加息押注。 货币市场目前充分消化欧洲央行在未来12个月累计加息四次...",
       "priority": "high",
       "sectors": [
         "能源"
       ],
       "period": "noon",
       "date": "2026-09-14",
-      "time": "13:08",
+      "time": "15:21",
       "keywords": []
     },
     {
-      "title": "摩尔线程CFO薛岩松：英伟达国内市场已跌至8%，国产算力迈入“好用”极端",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/chanjing/gsnews/2026-09-14/doc-inirveaq9297283.shtml",
-      "content": "新浪科技讯 9月14日晚间消息，2026年中国国际服务贸易交易会（简称：2026年服贸会）期间，摩尔线程CFO薛岩松分享坦言：“英伟达在中国AI芯片市场份额已从昔日95%暴跌至不足8...",
-      "priority": "high",
-      "sectors": [
-        "半导体",
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-09-14",
-      "time": "13:07",
-      "keywords": []
-    },
-    {
-      "title": "比特币夏末反弹迎“大考”：美联储加息与国会加密法案投票双重夹击",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/t/2026-09-14/doc-inirveaw4459928.shtml",
-      "content": "来源：智通财经 智通财经APP获悉，经历数月低迷后，比特币多头重返市场。但本周美联储利率决议将检验这轮乐观情绪，而参议院关键加密立法投票可能带来意外顺风。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-14",
-      "time": "12:52",
-      "keywords": []
-    },
-    {
-      "title": "昔日彩电大王康佳将退市，已连续三年巨亏",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/roll/2026-09-14/doc-inirveau4005623.shtml",
-      "content": "两年康佳在国内电视市场的出货量市占率维持在约3%的水平 9月14日，*ST康佳A、*ST康佳B（000016.SZ，200016.HK，简称康佳）举行临时股东大会审议通过了公司主动退市的议案。...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-14",
-      "time": "12:45",
-      "keywords": []
-    },
-    {
-      "title": "基金代销江湖“洗牌”，蚂蚁基金首破2万亿，银行发力指数基金",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-09-14/doc-inirveaw4452425.shtml",
-      "content": "财联社9月14日讯（编辑 杨斌） 2026年上半年末的公募基金销售保有规模百强榜单新鲜出炉，基金代销的“三分天下”迎来新一轮洗牌。其中，银行机构保有非货币市场基金5...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-09-14",
-      "time": "12:36",
-      "keywords": []
-    },
-    {
-      "title": "油价跳升和战争难阻涨势 新兴市场料可承受美联储加息风险",
+      "title": "交易员完全计入到2027年底欧洲央行加息四次、英国央行五次的预期",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirveas7213581.shtml",
-      "content": " 今年以来，新兴市场扛住了战争、每桶100美元的油价以及美国国债收益率上升。尽管市场担忧美联储可能加息，投资者仍认为新兴市场的涨势有望延续。",
+      "url": "https://finance.sina.com.cn/world/2026-09-14/doc-inirvkkq7172095.shtml",
+      "content": "随着能源价格上涨加剧通胀担忧，货币市场加大了对央行加息的押注。 掉期市场显示，到明年底欧洲央行将累计加息四次、每次25个基点，届时存款利率将升至3.5%。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-09-14",
-      "time": "12:21",
-      "keywords": []
-    },
-    {
-      "title": "北银消金被罚5.9万元，信用信息管理成“雷区”，年内4家公司因此被罚",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-09-14/doc-inirveau3986126.shtml",
-      "content": "来源：北京商报 事涉信用信息，又一家消费金融公司被罚。9月14日，北京商报记者注意到，中国人民银行北京市分行日前发布的行政处罚信息公开表显示...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-14",
-      "time": "12:21",
-      "keywords": []
-    },
-    {
-      "title": "“现房销售”仅半月，广州两盘试水“竣备再供楼”",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/roll/2026-09-14/doc-inirveau3982988.shtml",
-      "content": "来源：南方+ 现房销售政策落地仅半个月，广州市场便传来实质性“响动”。 近日，市场有消息传出，珠实地产旗下两个楼盘——珠江·天河都荟与珠江金融城颐德公馆...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-14",
-      "time": "12:09",
-      "keywords": []
-    },
-    {
-      "title": "欧洲央行执委Schnabel称能源价格走势“相当令人担忧”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirveaq9276404.shtml",
-      "content": " 欧洲央行执行理事会成员Isabel Schnabel表示，在决策者继上周加息后考虑进一步提高利率之际，近期能源价格走势“相当令人担忧”。",
-      "priority": "high",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-09-14",
-      "time": "12:07",
-      "keywords": []
-    },
-    {
-      "title": "受中东供应担忧推动油价上涨，AI风险警示冲击科技企业",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirveaq9273613.shtml",
-      "content": "周一油价大幅走高。受中东战事影响，沙特关闭一条关键输油管道，市场通胀担忧升温，普遍预期美联储将于本周加息。 原油期货再度上扬...",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-09-14",
-      "time": "11:59",
-      "keywords": []
-    },
-    {
-      "title": "和泰人寿10%股权拍卖“一波三折”，四成股权遭质押、综合偿付能力逼近监管预警线",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/insurance/bxyx/2026-09-14/doc-inirveaq9273390.shtml",
-      "content": "蓝鲸新闻9月14日讯（记者 陈晓娟） 蓝鲸新闻记者注意到，近日，和泰人寿保险股份有限公司（下称“和泰人寿”）一笔10%股权的司法拍卖再度生变。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-14",
-      "time": "11:56",
+      "time": "14:43",
       "keywords": []
     },
     {
@@ -345,339 +358,117 @@
       ]
     },
     {
-      "title": "盘前：纳指期货跌1.39% AI巨头齐喊放慢技术开发",
+      "title": "逆势押注10年期收益率触5% 神准分析师认为美债的抛售还没完",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirveaq9287302.shtml",
-      "content": "周一，全球市场遭遇多重利空夹击。AI龙头突然集体呼吁放慢技术开发，引发科技股和芯片股大幅抛售；与此同时，中东局势再度升级，油价冲上每桶107美元上方...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-15/doc-inirvuyq4169515.shtml",
+      "content": "一位早就料到美国基准国债收益率今年会达到5%的资深市场人士如今又给出了新的悲观预测。 标准银行驻伦敦的G10策略主管Steven Barrow将美国10年期国债收益率的年底和明年第...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-14",
+      "time": "19:14",
+      "keywords": []
+    },
+    {
+      "title": "美国大型银行股集体重挫 受美银CEO言论及AI主题交易影响",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-15/doc-inirvqsk9125518.shtml",
+      "content": " 美国大型银行股周一大幅下跌，因美国银行表示，交易收入与去年第三季度相比将“相对持平”。此外，市场对人工智能主题交易的担忧加剧也令金融股板块承压。",
+      "priority": "medium",
+      "sectors": [
+        "金融",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-09-14",
+      "time": "18:22",
+      "keywords": []
+    },
+    {
+      "title": "欧洲股市下跌 AI概念股遭抛售、能源成本攀升",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-15/doc-inirvqsn7121154.shtml",
+      "content": " 欧洲股市周一下跌，油价上涨以及人工智能相关股票遭到抛售拖累市场，此前大型AI公司的领袖呼吁行业放慢最先进模型的开发步伐。",
+      "priority": "medium",
+      "sectors": [
+        "能源",
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "17:33",
+      "keywords": []
+    },
+    {
+      "title": "惠誉：美国私募信贷违约率升至6.3% 创下纪录新高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-15/doc-inirvqsk9097971.shtml",
+      "content": "惠誉评级称，美国一组私募信贷借款人的违约率8月升至纪录高位。 周一发布的报告显示，8月底，1，300家借款人过去12个月私募信贷违约率升至6.3%，超过7月创下的此前高点6...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "16:40",
+      "keywords": []
+    },
+    {
+      "title": "Anthropic上市计划不会因AI安全舆论风波推迟",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-15/doc-inirvqsq3862407.shtml",
+      "content": "据 Axios 多方消息，即便 AI 安全问题已成为全民热议话题，Anthropic 仍大概率在 2026 年完成 IPO。 整体大势 过去一周，AI 行业风波不断，但上市日程并未受到影响。",
       "priority": "medium",
       "sectors": [
         "AI"
       ],
       "period": "noon",
       "date": "2026-09-14",
-      "time": "12:30",
+      "time": "16:25",
       "keywords": []
     },
     {
-      "title": "张家港酿酒有限公司黄庭明等所获“中国酿酒大师”称号被撤销",
-      "source": "酒业内参",
-      "url": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-14/doc-inirveaw4439185.shtml",
-      "content": "中国轻工今日发布“关于撤销第三届‘中国酿酒大师’称号的公告”。公告称，为严格落实相关规定，规范行业秩序。经自查并研究决定，撤销中国轻工与中国酒业协会于2021年共同评选...",
+      "title": "加拿大总理卡尼呼吁设立全球性技术稳定委员会以加强AI安全防护",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-15/doc-inirvkku4380247.shtml",
+      "content": " 加拿大总理马克·卡尼表示，加拿大希望推动建立一个全球性的“技术稳定”机构，以帮助监督人工智能发展并确保这项技术是安全的。",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "16:00",
+      "keywords": []
+    },
+    {
+      "title": "美银的Subramanian将标普500指数年底目标上调至7400点",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirvkkn9199784.shtml",
+      "content": " 美国银行的美国股票及量化策略主管Savita Subramanian周一在报告中表示，该行将标普500指数年底目标位从7100点上调至7400点，称长期看涨逻辑依然成立。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-09-14",
-      "time": "12:05",
+      "time": "14:49",
       "keywords": []
     },
     {
-      "title": "剑南春徐姿静等所获“中国酿酒大师”称号被撤销",
-      "source": "酒业内参",
-      "url": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-14/doc-inirveau3974994.shtml",
-      "content": "中国轻工今日发布“关于撤销第三届‘中国酿酒大师’称号的公告”。公告称，为严格落实相关规定，规范行业秩序。经自查并研究决定，撤销中国轻工与中国酒业协会于2021年共同评选...",
+      "title": "微软为未来AI模型划定约束，整个行业开始收敛前沿AI研发节奏",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirvkku4355830.shtml",
+      "content": "核心要点微软发布一份临时性行为准则，对自家未来人工智能模型作出诸多限制。该正式版本更新落地之前，微软将广泛吸纳外部意见。",
       "priority": "medium",
       "sectors": [
-        "综合"
+        "AI"
       ],
       "period": "noon",
       "date": "2026-09-14",
-      "time": "12:05",
-      "keywords": []
-    },
-    {
-      "title": "口子酒业徐钦祥等所获“中国酿酒大师”称号被撤销",
-      "source": "酒业内参",
-      "url": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-14/doc-inirveaw4438945.shtml",
-      "content": "中国轻工今日发布“关于撤销第三届‘中国酿酒大师’称号的公告”。公告称，为严格落实相关规定，规范行业秩序。经自查并研究决定，撤销中国轻工与中国酒业协会于2021年共同评选...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-14",
-      "time": "12:05",
-      "keywords": []
-    },
-    {
-      "title": "古越龙山徐岳正等所获“中国酿酒大师”称号被撤销",
-      "source": "酒业内参",
-      "url": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-14/doc-inirveaq9275602.shtml",
-      "content": "中国轻工今日发布“关于撤销第三届‘中国酿酒大师’称号的公告”。公告称，为严格落实相关规定，规范行业秩序。经自查并研究决定，撤销中国轻工与中国酒业协会于2021年共同评选...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-14",
-      "time": "12:04",
-      "keywords": []
-    },
-    {
-      "title": "燕京啤酒贾凤超等所获“中国酿酒大师”称号被撤销",
-      "source": "酒业内参",
-      "url": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-14/doc-inirveaw4438719.shtml",
-      "content": "中国轻工今日发布“关于撤销第三届‘中国酿酒大师’称号的公告”。公告称，为严格落实相关规定，规范行业秩序。经自查并研究决定，撤销中国轻工与中国酒业协会于2021年共同评选...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-14",
-      "time": "12:04",
-      "keywords": []
-    },
-    {
-      "title": "恒信西夏王酒业俞惠明等所获“中国酿酒大师”称号被撤销",
-      "source": "酒业内参",
-      "url": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-14/doc-inirveau3973805.shtml",
-      "content": "中国轻工今日发布“关于撤销第三届‘中国酿酒大师’称号的公告”。公告称，为严格落实相关规定，规范行业秩序。经自查并研究决定，撤销中国轻工与中国酒业协会于2021年共同评选...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-14",
-      "time": "12:04",
-      "keywords": []
-    },
-    {
-      "title": "仰韶酒业侯建光等所获“中国酿酒大师”称号被撤销",
-      "source": "酒业内参",
-      "url": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-14/doc-inirveas7200943.shtml",
-      "content": "中国轻工今日发布“关于撤销第三届‘中国酿酒大师’称号的公告”。公告称，为严格落实相关规定，规范行业秩序。经自查并研究决定，撤销中国轻工与中国酒业协会于2021年共同评选...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-14",
-      "time": "12:03",
-      "keywords": []
-    },
-    {
-      "title": "山东景芝赵德义等所获“中国酿酒大师”称号被撤销",
-      "source": "酒业内参",
-      "url": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-14/doc-inirveaw4438298.shtml",
-      "content": "中国轻工今日发布“关于撤销第三届‘中国酿酒大师’称号的公告”。公告称，为严格落实相关规定，规范行业秩序。经自查并研究决定，撤销中国轻工与中国酒业协会于2021年共同评选...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-14",
-      "time": "12:03",
-      "keywords": []
-    },
-    {
-      "title": "迎驾贡酒项兴本等所获“中国酿酒大师”称号被撤销",
-      "source": "酒业内参",
-      "url": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-14/doc-inirveaq9274908.shtml",
-      "content": "中国轻工今日发布“关于撤销第三届‘中国酿酒大师’称号的公告”。公告称，为严格落实相关规定，规范行业秩序。经自查并研究决定，撤销中国轻工与中国酒业协会于2021年共同评选...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-14",
-      "time": "12:02",
-      "keywords": []
-    },
-    {
-      "title": "百威庞卫珍等所获“中国酿酒大师”称号被撤销",
-      "source": "酒业内参",
-      "url": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-14/doc-inirveaq9274592.shtml",
-      "content": "中国轻工今日发布“关于撤销第三届‘中国酿酒大师’称号的公告”。公告称，为严格落实相关规定，规范行业秩序。经自查并研究决定，撤销中国轻工与中国酒业协会于2021年共同评选...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-14",
-      "time": "12:02",
-      "keywords": []
-    },
-    {
-      "title": "洋河周新虎等所获“中国酿酒大师”称号被撤销",
-      "source": "酒业内参",
-      "url": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-14/doc-inirveaq9274489.shtml",
-      "content": "中国轻工今日发布“关于撤销第三届‘中国酿酒大师’称号的公告”。公告称，为严格落实相关规定，规范行业秩序。经自查并研究决定，撤销中国轻工与中国酒业协会于2021年共同评选...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-14",
-      "time": "12:02",
-      "keywords": []
-    },
-    {
-      "title": "浙江塔牌绍兴酒有限公司茅来根等所获“中国酿酒大师”称号被撤销",
-      "source": "酒业内参",
-      "url": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-14/doc-inirveaw4437576.shtml",
-      "content": "中国轻工今日发布“关于撤销第三届‘中国酿酒大师’称号的公告”。公告称，为严格落实相关规定，规范行业秩序。经自查并研究决定，撤销中国轻工与中国酒业协会于2021年共同评选...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-14",
-      "time": "12:01",
-      "keywords": []
-    },
-    {
-      "title": "衡水老白干张煜行等所获“中国酿酒大师”称号被撤销",
-      "source": "酒业内参",
-      "url": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-14/doc-inirveaq9274224.shtml",
-      "content": "中国轻工今日发布“关于撤销第三届‘中国酿酒大师’称号的公告”。公告称，为严格落实相关规定，规范行业秩序。经自查并研究决定，撤销中国轻工与中国酒业协会于2021年共同评选...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-14",
-      "time": "12:01",
-      "keywords": []
-    },
-    {
-      "title": "扳倒井张锋国等所获“中国酿酒大师”称号被撤销",
-      "source": "酒业内参",
-      "url": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-14/doc-inirveaw4437375.shtml",
-      "content": "中国轻工今日发布“关于撤销第三届‘中国酿酒大师’称号的公告”。公告称，为严格落实相关规定，规范行业秩序。经自查并研究决定，撤销中国轻工与中国酒业协会于2021年共同评选...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-14",
-      "time": "12:00",
-      "keywords": []
-    },
-    {
-      "title": "汤沟两相和酒业张加林等所获“中国酿酒大师”称号被撤销",
-      "source": "酒业内参",
-      "url": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-14/doc-inirveaw4437232.shtml",
-      "content": "中国轻工今日发布“关于撤销第三届‘中国酿酒大师’称号的公告”。公告称，为严格落实相关规定，规范行业秩序。经自查并研究决定，撤销中国轻工与中国酒业协会于2021年共同评选...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-14",
-      "time": "12:00",
-      "keywords": []
-    },
-    {
-      "title": "红星股份张坤等所获“中国酿酒大师”称号被撤销",
-      "source": "酒业内参",
-      "url": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-14/doc-inirveas7198227.shtml",
-      "content": "中国轻工今日发布“关于撤销第三届‘中国酿酒大师’称号的公告”。公告称，为严格落实相关规定，规范行业秩序。经自查并研究决定，撤销中国轻工与中国酒业协会于2021年共同评选...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-14",
-      "time": "11:59",
-      "keywords": []
-    },
-    {
-      "title": "牛栏山酒厂宋克伟等所获“中国酿酒大师”称号被撤销",
-      "source": "酒业内参",
-      "url": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-14/doc-inirveas7197878.shtml",
-      "content": "中国轻工今日发布“关于撤销第三届‘中国酿酒大师’称号的公告”。公告称，为严格落实相关规定，规范行业秩序。经自查并研究决定，撤销中国轻工与中国酒业协会于2021年共同评选...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-14",
-      "time": "11:59",
-      "keywords": []
-    },
-    {
-      "title": "郎酒沈毅等所获“中国酿酒大师”称号被撤销",
-      "source": "酒业内参",
-      "url": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-14/doc-inirveaw4436850.shtml",
-      "content": "中国轻工今日发布“关于撤销第三届‘中国酿酒大师’称号的公告”。公告称，为严格落实相关规定，规范行业秩序。经自查并研究决定，撤销中国轻工与中国酒业协会于2021年共同评选...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-14",
-      "time": "11:59",
-      "keywords": []
-    },
-    {
-      "title": "今世缘吴建峰等所获“中国酿酒大师”称号被撤销",
-      "source": "酒业内参",
-      "url": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-14/doc-inirveaw4436755.shtml",
-      "content": "中国轻工今日发布“关于撤销第三届‘中国酿酒大师’称号的公告”。公告称，为严格落实相关规定，规范行业秩序。经自查并研究决定，撤销中国轻工与中国酒业协会于2021年共同评选...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-14",
-      "time": "11:58",
-      "keywords": []
-    },
-    {
-      "title": "宋河酒业李绍亮等所获“中国酿酒大师”称号被撤销",
-      "source": "酒业内参",
-      "url": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-14/doc-inirveaq9273423.shtml",
-      "content": "中国轻工今日发布“关于撤销第三届‘中国酿酒大师’称号的公告”。公告称，为严格落实相关规定，规范行业秩序。经自查并研究决定，撤销中国轻工与中国酒业协会于2021年共同评选...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-14",
-      "time": "11:58",
-      "keywords": []
-    },
-    {
-      "title": "劲牌公司刘源才等所获“中国酿酒大师”称号被撤销",
-      "source": "酒业内参",
-      "url": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-14/doc-inirveaw4436499.shtml",
-      "content": "中国轻工今日发布“关于撤销第三届‘中国酿酒大师’称号的公告”。公告称，为严格落实相关规定，规范行业秩序。经自查并研究决定，撤销中国轻工与中国酒业协会于2021年共同评选...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-14",
-      "time": "11:57",
-      "keywords": []
-    },
-    {
-      "title": "雪花啤酒刘月琴等所获“中国酿酒大师”称号被撤销",
-      "source": "酒业内参",
-      "url": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-14/doc-inirveas7196877.shtml",
-      "content": "中国轻工今日发布“关于撤销第三届‘中国酿酒大师’称号的公告”。公告称，为严格落实相关规定，规范行业秩序。经自查并研究决定，撤销中国轻工与中国酒业协会于2021年共同评选...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-09-14",
-      "time": "11:57",
-      "keywords": []
-    },
-    {
-      "title": "五粮液刘明等所获“中国酿酒大师”称号被撤销",
-      "source": "酒业内参",
-      "url": "https://finance.sina.com.cn/chanjing/jync/zxxx/2026-09-14/doc-inirveaq9273093.shtml",
-      "content": "中国轻工今日发布“关于撤销第三届‘中国酿酒大师’称号的公告”。公告称，为严格落实相关规定，规范行业秩序。经自查并研究决定，撤销中国轻工与中国酒业协会于2021年共同评选...",
-      "priority": "medium",
-      "sectors": [
-        "消费"
-      ],
-      "period": "morning",
-      "date": "2026-09-14",
-      "time": "11:56",
+      "time": "14:24",
       "keywords": []
     },
     {
@@ -939,213 +730,424 @@
       ]
     },
     {
-      "title": "选举或将加剧华盛顿迫在眉睫的下一场财政危机",
+      "title": "苹果在iPhone18本周上市前，发布重新设计的SiriAI测试版",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirveaw4462108.shtml",
-      "content": "核心要点美国可能会在 2027 年触及债务上限，解决这一问题或将困难重重。如果民主党在 11 月中期选举中拿下国会一院或者两院，两党将陷入对峙：民主党会借机向共和党总统特...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-15/doc-inirvuyk7038661.shtml",
+      "content": " 苹果公司周一发布了名为iOS27的新版iPhone软件，其中包含了公司重新设计的Siri AI个人助手，此举是在最新款iPhone本周上架销售之前进行的。",
       "priority": "low",
       "sectors": [
-        "综合"
+        "AI"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-09-14",
-      "time": "13:12",
+      "time": "19:27",
       "keywords": []
     },
     {
-      "title": "胡塞武装宣称大规模袭击沙特空军基地 沙方尚未公布受损情况",
+      "title": "Anthropic面向财务顾问推出Claude产品 深化金融业布局",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirveaq9297886.shtml",
-      "content": "也门胡塞武装9月14日宣称，使用数十枚弹道导弹和无人机袭击沙特阿拉伯南部哈米斯穆谢特的哈立德国王空军基地，目标包括战机机库、雷达、跑道和弹药库。",
+      "url": "https://finance.sina.com.cn/world/2026-09-15/doc-inirvuyk7035923.shtml",
+      "content": " Anthropic PBC正在向财务顾问推介一款Claude，该版本将这款聊天机器人与贝莱德、领航集团等公司运营的金融分析和风险管理技术相结合。",
       "priority": "low",
       "sectors": [
-        "综合"
+        "金融"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-09-14",
-      "time": "13:09",
+      "time": "19:18",
       "keywords": []
     },
     {
-      "title": "中东冲突加剧，伊朗称在霍尔木兹海峡上空摧毁美军先进无人机",
+      "title": "特朗普宣称俄乌同意停止攻击能源设施 基辅方面说此事言之过早",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirveaq9296917.shtml",
-      "content": "核心要点伊朗军方表示，已在霍尔木兹海峡上空摧毁一架美军先进无人机。特朗普称美国可以夺取伊朗石油，将该设想类比为今年早些时候美国与委内瑞拉达成的协议。",
+      "url": "https://finance.sina.com.cn/world/2026-09-15/doc-inirvuyh9001723.shtml",
+      "content": "特朗普与乌克兰对于一项据称旨在停止袭击能源基础设施的协议给出了不同说法。 特朗普周一在社交媒体发文称，柴油价格飙升是由于俄乌互袭而非伊朗战争所致...",
       "priority": "low",
       "sectors": [
-        "综合"
+        "能源"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-09-14",
-      "time": "13:05",
+      "time": "18:46",
       "keywords": []
     },
     {
-      "title": "海湾国家与伊朗推迟霍尔木兹海峡会谈 临时航运方案再遇阻",
+      "title": "美国众议院议长：特朗普将于本周或下周召集AI高管开会",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirveau4014710.shtml",
-      "content": "阿曼外交部宣布，原定周一在塞拉莱举行的伊朗与海湾国家地区会议推迟，新的举行时间尚未确定。此次会议原计划讨论霍尔木兹海峡临时航运路线...",
+      "url": "https://finance.sina.com.cn/world/2026-09-15/doc-inirvqss4290130.shtml",
+      "content": "美国众议院议长迈克·约翰逊表示，总统特朗普将于本周晚些时候或下周初召集人工智能（AI）企业高管举行会议。 约翰逊向记者发表上述讲话。",
       "priority": "low",
       "sectors": [
-        "综合"
+        "AI"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-09-14",
-      "time": "13:03",
+      "time": "18:27",
       "keywords": []
     },
     {
-      "title": "加拿大通胀率维持在3% 汽油价格涨幅放缓",
+      "title": "美国众议院议长约翰逊：本周末或下周初将与AI企业高管会谈",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirveau4011719.shtml",
-      "content": "加拿大上月通胀率维持在3%不变，符合预期，汽油价格同比涨幅有所放缓。 加拿大统计局周一公布的数据显示，尽管中东冲突继续给能源成本带来上行压力...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-14",
-      "time": "12:59",
-      "keywords": []
-    },
-    {
-      "title": "直击韩股首日“挑灯夜战”",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/wm/2026-09-14/doc-inirveas7241273.shtml",
-      "content": "9月14日，韩国股市正式迎来盘后实时交易时代。 “存储双雄”延续跌势 当地时间下午4时至晚上8时，韩国证券交易所（下简称KRX）开放KOSPI与KOSDAQ市场绝大部分股票的连续竞价...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-14",
-      "time": "12:58",
-      "keywords": []
-    },
-    {
-      "title": "10亿资金在路上，第八次“补血”进行中，君龙人寿“自我造血”待破题",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-14/doc-inirveas7235013.shtml",
-      "content": "来源：北京商报 又一家保险公司拟补充注册资本。9月14日，北京商报记者注意到，君龙人寿保险有限公司（以下简称“君龙人寿”）近日公告称...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-14",
-      "time": "12:51",
-      "keywords": []
-    },
-    {
-      "title": "DeepSeek招募90后CFO：后者曾投智谱和MiniMax",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-09-14/doc-inirveau4006292.shtml",
-      "content": "来源：雷递 雷递网 乐天 9月14日 据知情人士透露，正在筹备上市的DeepSeek日前招募到90后CFO严文韬。严文韬来自高瓴，1991年出生，曾参与投资字节跳动、小红书、MiniMax...",
+      "url": "https://finance.sina.com.cn/world/2026-09-15/doc-inirvqsq3907586.shtml",
+      "content": " 美国众议院议长迈克·约翰逊表示，他将在本周末或下周初与人工智能（AI）企业高管会谈，讨论AI风险，并称围绕AI制定相关立法“需要一些时间”。",
       "priority": "low",
       "sectors": [
         "AI"
       ],
       "period": "noon",
       "date": "2026-09-14",
-      "time": "12:47",
+      "time": "17:57",
       "keywords": []
     },
     {
-      "title": "社交平台“代理退保”剧本杀 黑灰产团伙设局收割消费者",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/roll/2026-09-14/doc-inirveau3994864.shtml",
-      "content": "21世纪经济报道记者 林汉垚 一条“买了五年重疾险，想退保怎么办”的求助帖，可能并不是消费者的真实困惑。 类似帖子看起来是普通消费者分享个人遭遇...",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-09-14",
-      "time": "12:29",
-      "keywords": []
-    },
-    {
-      "title": "太乙30亿重组哪吒汽车，资本玩家叶骥隐身其后",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-09-14/doc-inirveau4008610.shtml",
-      "content": "来源：环球老虎财经app 神话中，太乙真人用莲藕重塑哪吒肉身。现实中，“太乙圣莲”试图用30亿现金复活一家三年亏损超180亿的造车新势力。",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-09-14",
-      "time": "12:27",
-      "keywords": []
-    },
-    {
-      "title": "手握8790亿美元，蒂姆库克本可买下标普500中488家企业，他却做了一件永久改写苹果命运的事",
+      "title": "AI放缓担忧席卷市场 全球芯片股重挫",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirveau3984386.shtml",
-      "content": "作者：肖恩・威廉姆斯，《愚人网》 发前苹果首席执行官蒂姆・库克，通过一笔近 8790 亿美元的投入重塑苹果。 今年市场两大主线格外突出：数据中心大规模建设...",
+      "url": "https://finance.sina.com.cn/world/2026-09-15/doc-inirvqsn7134591.shtml",
+      "content": "新一轮波动席卷股市，多家人工智能巨头的高管提议放慢AI技术发展步伐后，芯片股重挫，而油价高企也令市场情绪承压。 从美国到欧洲和亚洲，半导体股普遍承压。",
+      "priority": "low",
+      "sectors": [
+        "半导体",
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "17:56",
+      "keywords": []
+    },
+    {
+      "title": "美银CEO预计第三季交易收入“相对持平” 华尔街大行股价应声重挫",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-15/doc-inirvqsq3900992.shtml",
+      "content": " 美国银行首席执行官Brian Moynihan说第三季交易收入同比将“相对持平”，这一与华尔街上半年的激增形成鲜明对比的预测导致几大银行股价重挫。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-09-14",
-      "time": "12:19",
+      "time": "17:45",
       "keywords": []
     },
     {
-      "title": "披露重组预案！香山股份，复牌！",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-09-14/doc-inirveau3984730.shtml",
-      "content": "来源：资本秘闻 9月14日晚间，香山股份披露重组预案，公司股票将于9月15日起复牌。 预案显示，香山股份拟向宁波亘曦、浙江秦桐、智焱芯合、温州群宏、瑞晟智能...",
+      "title": "沙特阿拉伯据悉寻求进一步增加经霍尔木兹海峡的原油出口",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-15/doc-inirvqsn7127528.shtml",
+      "content": " 据一位知情人士透露，在一条替代霍尔木兹海峡的关键输油管道遭袭停运后，沙特阿拉伯正寻求进一步增加经海峡运输的石油供应。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "17:43",
+      "keywords": []
+    },
+    {
+      "title": "消费维权该去哪里？这份投诉渠道指南请收好",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/consume/xiaofei/2026-09-15/doc-inirutnu9474412.shtml",
+      "content": "买东西遇到问题，最让人难受的往往不是损失本身，而是不知道该找谁、走哪条路才能把问题解决。比如花高价买的饰品掉色、网购商品货不对板、订了服务商家却临时加价...",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "17:33",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：美国目前生产的精尖武器比以往任何时候都多",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-15/doc-inirvqsq3892939.shtml",
+      "content": "美国总统特朗普在Truth Social发帖称，美国目前生产的“精良且顶尖”的武器数量超过历史上任何时期。 特朗普表示，美国国防制造业正重点生产爱国者导弹、萨德反导系统...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-09-14",
-      "time": "12:13",
+      "time": "17:31",
       "keywords": []
     },
     {
-      "title": "点夺技术IPO！实控人手握超九成表决权",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/newstock/2026-09-14/doc-inirveaq9281124.shtml",
-      "content": "來源：资本秘闻 半导体工艺排气系统供应商江苏点夺技术股份有限公司（以下简称“点夺技术”）IPO事项有了新动态，公司创业板IPO近日对外披露了首轮审核问询函回复。",
+      "title": "微软加入AI企业行列，呼吁审慎对待前沿尖端模型",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-15/doc-inirvqsk9103150.shtml",
+      "content": "微软的人工智能研究团队发布一套全新指导原则，其核心可以概括为一句话：人的优先级高于人工智能。 微软于周一发布一份长达 15000 字的宣言...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "17:00",
+      "keywords": []
+    },
+    {
+      "title": "万斯：约87万名涉嫌侵占纳税人资金者被禁止申请联邦贷款",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-09-15/doc-inirvqsn7105209.shtml",
+      "content": " 美国副总统JD·万斯称，若有人损害美国纳税人利益，联邦政府将终止其相关资格，不再提供支持。政府将取消约87万人申请联邦贷款的资格，这些人被指控盗取纳税人资金。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-09-14",
-      "time": "12:13",
+      "time": "16:55",
       "keywords": []
     },
     {
-      "title": "保险中报里的“它”生意： 宠物险狂奔，渗透率仍不足4%",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-14/doc-inirveaq9273918.shtml",
-      "content": "中报季，“毛孩子”的保险被写进了多家上市险企的成绩单里。 众安保险2026年中报显示，宠物险上半年保费6.91亿元，服务宠物主超过161万人。",
+      "title": "泽连斯基：乌克兰愿意停止攻击能源设施 前提是俄罗斯也停手",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-15/doc-inirvqsn7101791.shtml",
+      "content": " 乌克兰总统泽连斯基表示，如果合作伙伴能够确保俄罗斯停止袭击乌克兰能源及其他基础设施，乌克兰准备停止对俄罗斯关键基础设施发动袭击。",
       "priority": "low",
       "sectors": [
-        "金融"
+        "能源"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-09-14",
-      "time": "11:59",
+      "time": "16:49",
       "keywords": []
     },
     {
-      "title": "9月30日不能用零钱通、余额宝付款？由新规误读引发，平台回应",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-09-14/doc-inirveau3970636.shtml",
-      "content": "北京商报讯 一场覆盖数亿用户的金融谣言，近日悄然刷屏。有网传消息称，从9月30日开始，零钱通、余额宝将无法再直接用于付款，需要把钱提前转出到微信零钱...",
+      "title": "特朗普：那些没有施以援手的国家应在伊朗战争后补偿美国",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-15/doc-inirvqsn7099483.shtml",
+      "content": " 美国总统特朗普在Truth Social发帖谈及伊朗战争时表示：“那些没有给我们提供任何帮助的国家应该、而且也将对美利坚合众国给予补偿。”",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-09-14",
-      "time": "11:59",
+      "time": "16:44",
+      "keywords": []
+    },
+    {
+      "title": "特朗普发文：霍尔木兹海峡石油正常流通",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-09-15/doc-inirvqsn7090571.shtml",
+      "content": "特朗普称，石油正经由霍尔木兹海峡输送。他表示，世界上那些未曾向美国提供任何帮助的国家，在这场冲突闹剧结束后应当且必将向美国作出补偿。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "16:27",
+      "keywords": []
+    },
+    {
+      "title": "马斯克：我早已为人工智能风险多次敲响警钟",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-15/doc-inirvkks3990020.shtml",
+      "content": "人们早就见惯埃隆・马斯克放出论断，而这一次，他意在表明：自己一直都是对的。 这位太空探索技术公司（SpaceX）与特斯拉的首席执行官...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "16:20",
+      "keywords": []
+    },
+    {
+      "title": "微软发布AI模型开发宣言 核心原则是“人比AI更重要”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-15/doc-inirvkkn9219292.shtml",
+      "content": "微软公司的人工智能研究人员发布了一套新的指导原则，对该公司开发尖端AI模型设定限制。 这份长达1.5万字的宣言可以浓缩成五个词：People matter more than AI...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "16:08",
+      "keywords": []
+    },
+    {
+      "title": "特朗普称他将就否重启与伊朗和平谈判做出决定",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-15/doc-inirvkks3979443.shtml",
+      "content": "美国总统特朗普在Truth Social发文称，他将就美国是否选择参与有关伊朗的谈判做出决定。 他还称，伊朗急切希望尽快达成协议。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "16:01",
+      "keywords": []
+    },
+    {
+      "title": "这款开市客商品两年价格暴涨125%，这家零售巨头现已对会员实施限购",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirvkku4377393.shtml",
+      "content": "对于爱淘实惠的消费者来说，开市客（Costco）向来是寻觅平价美食、高性价比好物的好去处。这家仓储式零售巨头至今仍保持热狗加汽水套餐 1.5 美元的售价...",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "15:48",
+      "keywords": []
+    },
+    {
+      "title": "特朗普称柴油上涨与伊朗战争无关 俄乌已同意停止攻击对方能源目标",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-14/doc-inirvkkq7194289.shtml",
+      "content": "美国总统特朗普表示，乌克兰和俄罗斯已经同意不再袭击对方能源目标。 特朗普在社交媒体上写道：“乌克兰已经同意不再打击俄罗斯的能源目标。俄罗斯也同意照此办理！",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "15:34",
+      "keywords": []
+    },
+    {
+      "title": "10年期美债收益率三年来首次升破5% 通胀和融资担忧双重夹击",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-14/doc-inirvkkn9210415.shtml",
+      "content": "美国国债抛售加剧，10年期收益率自2023年以来首次升破5%。随着通胀担忧升温，政府和企业融资需求持续膨胀。 周一，10年期美国国债收益率一度上涨4个基点至5.01%。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "15:32",
+      "keywords": []
+    },
+    {
+      "title": "万斯称美国与胡塞直接谈判，同步联络沙特等受冲突影响国家",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-09-14/doc-inirvkkq7191525.shtml",
+      "content": "美国副总统JD·万斯周一表示，在伊朗支持的胡塞组织持续袭击沙特阿拉伯、并扩大对曼德海峡附近区域控制之际，华盛顿方面一直在与也门胡塞武装举行直接对话。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "15:27",
+      "keywords": []
+    },
+    {
+      "title": "特朗普称俄罗斯和乌克兰同意停止对能源目标的互袭",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-14/doc-inirvkkq7190008.shtml",
+      "content": "特朗普在Truth Social平台发帖称：“乌克兰已同意不打击俄罗斯能源目标。俄罗斯也同意不对乌克兰能源目标实施攻击。” “全球柴油价格上涨主要是由俄乌冲突造成的...",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "15:22",
+      "keywords": []
+    },
+    {
+      "title": "欧洲航天初创企业掀起融资热潮，力图挑战美国主导地位",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirvkku4367299.shtml",
+      "content": "核心要点欧洲多家航天初创企业接连完成大额融资。卫星制造商 Open Cosmos 完成 3 亿欧元超额认购融资，本轮优先引入欧洲本土投资方。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "15:05",
+      "keywords": []
+    },
+    {
+      "title": "老股东还没解套，智谱新一轮50亿美元融资落地！股价还在跌",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/s/2026-09-14/doc-inirvkku4363870.shtml",
+      "content": "来源：上市之家 50亿美元到账了。股价又跌了。 9月13日晚间，智谱（02513.HK）公告完成约50亿美元融资。20亿美元股份配售，30亿美元可转债。钱到账了。但市场不买账。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "14:49",
+      "keywords": []
+    },
+    {
+      "title": "汽车圈炸了！一汽、广汽“亲密”牵手了！是优势互补，还是抱团取暖？",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/hyyj/2026-09-14/doc-inirvkks3949507.shtml",
+      "content": "来源：上市之家 消息又提前漏了？ 周末就有消息传称广汽与一汽在酝酿合并重组。 9月14日，广汽集团A股因“重要事项未公告”被上交所实施全天停牌。",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "14:49",
+      "keywords": []
+    },
+    {
+      "title": "美国10年期国债收益率2023年以来首次升破5%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirvkku4360288.shtml",
+      "content": "美国10年期国债收益率涨破5%，为2023年10月以来首次。油价飙升加剧通胀之忧，美国基准国债收益率一度上涨4个基点至5.006%，2023年10年债收益率只在5%上方维持了一天。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "14:39",
+      "keywords": []
+    },
+    {
+      "title": "Cohere CEO：AI模型正成为有史以来“最强大的网络武器”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirvkkq7161712.shtml",
+      "content": "AI公司Cohere CEO戈麦斯表示，AI 模型正成为有史以来“最强大的网络武器”，将网络安全的“前沿”推向新领域。 艾丹·戈麦斯发出这一警告之际...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "14:24",
+      "keywords": []
+    },
+    {
+      "title": "科润新材IPO：净利7740万现金流仅3157万，回款率2%，产能腰斩仍募资扩产、采购竟向供应商“保底”利润",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/newstock/2026-09-14/doc-inirvkkn9192483.shtml",
+      "content": "来源：新财渤社 文\\林渊 苏州科润新材料股份有限公司（以下简称“科润新材”）于9月8日回复深交所首轮问询。 公司创始人杨大伟2011年在江苏淮安起家...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "14:23",
+      "keywords": []
+    },
+    {
+      "title": "阿莫代伊呼吁放缓AI发展，对Anthropic即将到来的IPO意味着什么",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-14/doc-inirvkku4353554.shtml",
+      "content": "核心要点Anthropic 正在与潜在投资者会面，筹备这场有望载入史册的上市，但其首席执行官达里奥・阿莫代伊却在大力呼吁放缓 AI 发展。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-09-14",
+      "time": "14:19",
       "keywords": []
     },
     {
