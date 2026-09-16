@@ -1,22 +1,246 @@
 {
-  "updated": "2026-09-16T18:23:48.927332",
-  "total": 149,
+  "updated": "2026-09-16T21:40:16.380992",
+  "total": 150,
   "sources": [
     "新浪财经",
     "akshare-财新",
     "Tushare"
   ],
   "priority_dist": {
-    "high": 27,
-    "medium": 24,
-    "low": 98
+    "high": 36,
+    "medium": 23,
+    "low": 91
   },
   "items": [
     {
-      "title": "美联储宣布加息25个基点至3.75%-4%，12比0全票通过",
+      "title": "9月17日外盘头条：联储加息 沃什强调通胀太高持续太久 特朗普敦促降息 苹果考虑重返服务器市场",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisapns9515429.shtml",
+      "content": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、一文读懂|时隔三年 美联储首次加息25基点 全员同意 主席沃什强调通胀“太高持续太久了” 2...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-09-16",
+      "time": "21:30",
+      "keywords": []
+    },
+    {
+      "title": "美联储加息后 特朗普称美国利率应该在1%或更低",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisapnp3523234.shtml",
+      "content": "美联储加息25个基点后，美国总统唐纳德·特朗普要求降息。此次加息与特朗普一再要求降低借贷成本的呼吁背道而驰。 特朗普周三在社交媒体发帖称，美国利率“应该在1%...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-09-16",
+      "time": "21:27",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：美国的利率应该在1%或更低 赶紧降息",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisapns9510621.shtml",
+      "content": "美联储周三宣布加息后美国总统唐纳德·特朗普在社交媒体发帖称： “美国的利率应该在1%，或者更低，因为我们的信用是全世界最好的 —— 遥遥领先。",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-09-16",
+      "time": "21:09",
+      "keywords": []
+    },
+    {
+      "title": "美国债市：短期美债承压 市场押注美联储继续加息",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisapnm4346938.shtml",
+      "content": "美国国债周三收盘涨跌不一，收益率曲线大幅趋平。市场愈加认为美联储此次加息不会是最后一次，推动2年期美债收益率升至多年高点。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-16",
+      "time": "21:08",
+      "keywords": []
+    },
+    {
+      "title": "美联储三年来首次加息 点阵图及沃什发言释放进一步紧缩信号",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisapns9504490.shtml",
+      "content": " 美联储宣布加息上调25个基点，点阵图预计今年晚些时候还将再升息一次，这个抑通胀举措料对美联储主席沃什与总统特朗普之间的关系构成考验。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-16",
+      "time": "20:46",
+      "keywords": []
+    },
+    {
+      "title": "纽约汇市：美元上涨 美联储主席沃什重申致力于价格稳定",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisaiet0386575.shtml",
+      "content": "美元在触及日内高点后进一步走高，此前美联储主席凯文·沃什重申央行致力于价格稳定。 美元即期指数一度上涨0.5%。 美联储周三加息25个基点...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-16",
+      "time": "20:16",
+      "keywords": []
+    },
+    {
+      "title": "9月17日美股收盘：美联储加息25基点 三大股指高开低走 沃什强调通胀太高持续太久了",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisaier3613019.shtml",
+      "content": "美联储决定将基准利率上调25个基点至3.75%-4.00%区间，时隔三年，且为沃什就任美联储主席以来首次加息。主席凯文·沃什表示，他本人及其同僚决策者对当前的通胀速度都不满意...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-16",
+      "time": "20:15",
+      "keywords": []
+    },
+    {
+      "title": "一文读懂|时隔三年 美联储首次加息25基点 全员同意 主席沃什强调通胀“太高持续太久了” 特朗普敦促降息",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisaiep4456007.shtml",
+      "content": " 北京时间9月17日凌晨2：00，美联储决定将基准利率上调25个基点至3.75%-4.00%区间，时隔三年，且为沃什就任美联储主席以来首次加息。",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-09-16",
+      "time": "19:44",
+      "keywords": []
+    },
+    {
+      "title": "美联储声明及点阵图对比：一致决定加息 多数官员料年内至少再升一次",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisaier3592962.shtml",
+      "content": "美联储周三一如市场所望加息25个基点，会后声明依然简洁且与前次变动不大。所有参与表决的决策者都投下了赞成票。“点阵图”依旧发布...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-16",
+      "time": "19:36",
+      "keywords": []
+    },
+    {
+      "title": "2年期美债收益率触及两年来最高 交易员押注美联储进一步加息",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisaiep4451558.shtml",
+      "content": "在美联储自2023年以来首次加息，并预计将采取进一步行动遏制通胀后，短期国债国债收益率应声走高。 2年期美债收益率一度升至4.73%，为2024年以来最高...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-16",
+      "time": "19:27",
+      "keywords": []
+    },
+    {
+      "title": "白宫发言人：美联储加息决定“相当令人遗憾”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisaieu9614492.shtml",
+      "content": "白宫发言人Kush Desai表示，“从政府的角度来看，美联储今天的加息决定相当令人遗憾，并没有特别有说服力的经济依据。” 当被问及总统特朗普是否仍然相信美联储主席的独立性...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-16",
+      "time": "19:26",
+      "keywords": []
+    },
+    {
+      "title": "德银和毕马威经济学家：美联储加息意味着紧缩周期已经启动",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-17/doc-inisaier3570178.shtml",
+      "content": "德意志银行首席美国经济学家Matthew Luzzetti和毕马威首席经济学家Diane Swonk表示， 美联储已开始启动货币紧缩周期。 Luzzetti表示，美联储正在开始温和的紧缩周期...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-16",
+      "time": "18:53",
+      "keywords": []
+    },
+    {
+      "title": "“点阵图”显示美联储会满足市场对今年的定价",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-17/doc-inisaier3567599.shtml",
+      "content": "新的“点阵图”显示，美联储官员预计2026年还将加息一次，符合市场的展望。预测中值所表明的2027年底前加息幅度仍低于交易员的押注...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-16",
+      "time": "18:49",
+      "keywords": []
+    },
+    {
+      "title": "美联储正在偏向鹰派 公信力提高对债券市场有利",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-17/doc-inisaieu9601463.shtml",
+      "content": "几个方面看，美联储此次利率决定偏向“鹰派”：一是全体一致投票加息，（此前有人预计会出现反对票）；二是点阵图预计今年还会再加息一次...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-16",
+      "time": "18:41",
+      "keywords": []
+    },
+    {
+      "title": "前美联储副主席：央行就抗通胀发出了明确信号 不会加一次就收手",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisaier3581727.shtml",
+      "content": " 前美联储副主席Richard Clarida表示，美联储2023年以来的首次加息决定得到策者一致同意，反映出央行抗击通胀的重要信号。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-16",
+      "time": "18:40",
+      "keywords": []
+    },
+    {
+      "title": "Pimco全球经济顾问：重点在于美联储一致决定加息",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-17/doc-inisaiet0329276.shtml",
+      "content": "Pimco全球经济顾问Richard Clarida表示，重要的是美联储一致通过了今天的利率决策。 Clarida表示，3.4%的核心个人消费支出增速“有点高”，实际可能会低于该水平。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-16",
+      "time": "18:33",
+      "keywords": []
+    },
+    {
+      "title": "美联储如期加息25基点 点阵图显示鹰派倾向增强",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-09-17/doc-inisaawt3679701.shtml",
-      "content": "美国联邦公开市场委员会以12比0的投票结果批准以下声明予以发布： 委员会决定将联邦基金利率目标区间上调25个基点，至3.75%至4%，以支持美联储的双重使命。",
+      "content": " 美联储宣布加息上调25个基点，点阵图预计今年晚些时候还将再升息一次以遏制通胀，此举料对美联储主席沃什与总统特朗普之间的关系构成考验。",
       "priority": "high",
       "sectors": [
         "综合"
@@ -122,105 +346,6 @@
       "period": "noon",
       "date": "2026-09-16",
       "time": "14:47",
-      "keywords": []
-    },
-    {
-      "title": "民营银行逆势上调存款利率",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/wm/2026-09-16/doc-inirzwqx0455355.shtml",
-      "content": "2026.09．16本文字数：2216，阅读时长大约4分钟 作者 |第一财经安卓 继8月份部分中小银行逆势加息之后，一贯执行降息策略的民营银行阵营也坐不住了。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-09-16",
-      "time": "14:43",
-      "keywords": []
-    },
-    {
-      "title": "4家机构年内被罚！消费金融信用信息管理为何成合规“雷区”？",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/wbstock/2026-09-16/doc-inirzwqv3673824.shtml",
-      "content": "来源：@国际金融报微博又有消费金融机构因信用信息管理不当被罚。中国人民银行北京市分行近日披露的行政处罚信息显示，北银消费金融有限公司（下称“北银消费金融”）因违反...",
-      "priority": "high",
-      "sectors": [
-        "消费",
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-09-16",
-      "time": "14:32",
-      "keywords": []
-    },
-    {
-      "title": "黑天鹅突袭！深夜，暴跌、熔断！这国股市，发生了什么？",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-09-16/doc-inirzwqt4617933.shtml",
-      "content": "土耳其股市突然崩了。 北京时间16日晚间，土耳其股市直线大跳水。其中，伊斯坦布尔证券交易所100指数盘中下跌6%，触发全市场熔断机制。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-16",
-      "time": "14:23",
-      "keywords": []
-    },
-    {
-      "title": "603159 控股股东易主落地 明起复牌！",
-      "source": "数据宝",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-16/doc-inirzwqt4619427.shtml",
-      "content": "今日（9月16日）A股三大指数集体收涨，上证指数报收3891.60点，上涨0.71%；深证成指上涨1.26%，创业板指上涨1.96%。市场全天成交额约1.85万亿元...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-16",
-      "time": "14:18",
-      "keywords": []
-    },
-    {
-      "title": "“美联储传声筒”Nick Timiraos：美联储加息预期落地 但后续还会再加几次？",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirzwqv3665599.shtml",
-      "content": " “美联储传声筒”Nick Timiraos：美联储几乎不会加息一次就宣告结束。这意味着如果本次采取加息行动，外界将会追问：央行认为紧缩政策要达成何种目标。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-16",
-      "time": "14:15",
-      "keywords": []
-    },
-    {
-      "title": "英国收益率下跌 交易员下调英国央行加息预期",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirzwqy9775532.shtml",
-      "content": "周三英国国债上涨，收益率从本周早些时候创下的多年高点回落，交易员持续下调对英国央行加息的押注。 两年期国债收益率最大下跌8个基点至4.81%，表现优于欧债与美债。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-16",
-      "time": "14:06",
-      "keywords": []
-    },
-    {
-      "title": "媒体发布会上应当向沃什提的三个问题",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/roll/2026-09-16/doc-inirzwqy9776016.shtml",
-      "content": "来源：汇通网 汇通财经APP讯—— 今日（9月16日，北京时间9月17日凌晨），美联储议息会议分为两个环节。美国东部时间下午2点，联邦公开市场委员会（FOMC）声明与点阵图对外公...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-16",
-      "time": "14:05",
       "keywords": []
     },
     {
@@ -416,6 +541,20 @@
       ]
     },
     {
+      "title": "9月17日热门中概股涨跌不一 携程涨超3% 百度跌超2% B站跌超3%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisapnr0274784.shtml",
+      "content": "9月17日热门中概股涨跌不一，纳斯达克中国金龙指数（HXC）收跌0.55%。 上涨个股（按市值从高到低）：台积电涨0.96%，拼多多涨0.87%，日月光半导体涨2.24%，联电涨4.26%...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-16",
+      "time": "20:53",
+      "keywords": []
+    },
+    {
       "title": "美国阻挠未果 伊朗成功入选IAEA总务委员会",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-09-17/doc-inisaawv0405166.shtml",
@@ -483,34 +622,6 @@
       "period": "noon",
       "date": "2026-09-16",
       "time": "14:47",
-      "keywords": []
-    },
-    {
-      "title": "机构密集“打卡”北交所上市公司！次新股、硬科技标的是大热门",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/roll/2026-09-16/doc-inirzwqt4622341.shtml",
-      "content": "来源：e公司机构密集“打卡”北交所上市公司！次新股、硬科技标的是大热门2026年以来，北交所上市公司正成为机构“掘金”的重要阵地。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-16",
-      "time": "14:41",
-      "keywords": []
-    },
-    {
-      "title": "Reddit联合创始人：科技行业在解释AI方面“音盲”，虚假信息满天飞",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirzwqv3671971.shtml",
-      "content": "Reddit联合创始人亚历克西斯·奥哈尼安周三表示，科技行业在解释人工智能并向公众适当告知真实风险方面一直“音盲”。 奥哈尼安表示，围绕人工智能的辩论应聚焦于实质性风险...",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-09-16",
-      "time": "14:29",
       "keywords": []
     },
     {
@@ -788,6 +899,48 @@
       ]
     },
     {
+      "title": "9月17日美股成交额前20：英特尔涨超4% 计划与海力士合作在美国本土生产存储芯片",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisapnm4347847.shtml",
+      "content": "周三美股成交额第3名英伟达收高0.82%，成交205.28亿美元。 苹果或时隔多年重返企业服务器市场。有消息称苹果近期正在研发搭载M8 Ultra芯片的企业级AI服务器...",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-09-16",
+      "time": "21:11",
+      "keywords": []
+    },
+    {
+      "title": "原油：布伦特下跌 有迹象显示中东部分供应中断问题开始得到缓解",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisapnp3498585.shtml",
+      "content": "原油期货回落，有迹象显示中东近期的一些供应中断问题开始得到缓解，同时交易员在经历了近日急涨后调整仓位。 布伦特原油期货下跌，结算价接近每桶106美元；WTI跌逾3%。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-09-16",
+      "time": "20:46",
+      "keywords": []
+    },
+    {
+      "title": "高盛CEO警告固定收益业务表现将较弱 公司整体支出料增加",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-17/doc-inisaieu9612248.shtml",
+      "content": "高盛首席执行官所罗门警告称，该行固定收益交易业务表现弱于过去几个季度，全公司的支出也在上升。 所罗门周三在巴克莱的一场会议上表示...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-16",
+      "time": "19:15",
+      "keywords": []
+    },
+    {
       "title": "沙特寻求在数日内恢复关停的输油管道一半运力",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-09-17/doc-inisaaww9700574.shtml",
@@ -1023,147 +1176,6 @@
       "period": "noon",
       "date": "2026-09-16",
       "time": "14:45",
-      "keywords": []
-    },
-    {
-      "title": "EIA：美国原油库存上周减少64万桶 预估中值为减少150万桶",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirzwqy9784501.shtml",
-      "content": "美国能源信息管理局（EIA）库存报告还显示上周有如下变动： 汽油库存增加79.4万桶，预估为减少110万桶。 馏分油库存增加158.5万桶，预估为增加65万桶。",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-09-16",
-      "time": "14:39",
-      "keywords": []
-    },
-    {
-      "title": "美国住宅建筑商信心降至一年低点 借贷成本高企持续拖累楼市",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirzwqv3677075.shtml",
-      "content": " 美国住宅建筑商信心本月大幅下滑至一年来最低水平，接近7%的抵押贷款利率、劳动力短缺以及材料成本上涨，进一步打击了美国低迷住房市场的复苏希望。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-16",
-      "time": "14:39",
-      "keywords": []
-    },
-    {
-      "title": "301390拟易主，溢价超40%，明日复牌",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-09-16/doc-inirzwqx0446923.shtml",
-      "content": "经纬股份明日复牌。 经纬股份（301390）9月16日晚间公告，公司员工持股平台、炬华科技（300360）、炬华联昕、公司股东吴仁德拟以协议转让的方式...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-16",
-      "time": "14:31",
-      "keywords": []
-    },
-    {
-      "title": "股价五连跌，甲骨文怎么了？",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/wbstock/2026-09-16/doc-inirzwqt4619246.shtml",
-      "content": "来源：@国际金融报微博美东时间9月15日，软件巨头甲骨文收跌3.07%，报140.35美元，为连续第五个交易日收跌。9月9日至15日，甲骨文股价累计下跌约13.6%。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-16",
-      "time": "14:30",
-      "keywords": []
-    },
-    {
-      "title": "半导体强势领涨，国产算力为何再度走强？",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-16/doc-inirzwqx0443516.shtml",
-      "content": "",
-      "priority": "low",
-      "sectors": [
-        "半导体",
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-09-16",
-      "time": "14:26",
-      "keywords": []
-    },
-    {
-      "title": "HYROX失禁风波引争议，王健林拿近20亿提前“退场”？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/china/2026-09-16/doc-inirzwqy9781170.shtml",
-      "content": "来源：雷达Finance 雷达财经出品 文|周慧 编|孟帅 被誉为“健身界马拉松”的HYROX，近日遭遇了一场不太“体面”的风波。 9月12日，在HYROX北京站女子精英组比赛中...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-16",
-      "time": "14:24",
-      "keywords": []
-    },
-    {
-      "title": "华为还是车企的必选项吗？",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/roll/2026-09-16/doc-inirzwqt4615980.shtml",
-      "content": "五年半，一个分水岭。 9月15日，问界汽车与鸿蒙智行均发布说明：问界的产品定义、产品设计、品牌营销、渠道零售、服务体系改由赛力斯主导...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-16",
-      "time": "14:15",
-      "keywords": []
-    },
-    {
-      "title": "美国7月企业库存环比增长0.8% 符合预测中值",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-16/doc-inirzwqy9777842.shtml",
-      "content": "美国普查局数据显示，继6月增长0.6%之后，7月企业库存环比增长0.8%。 24位经济学家的预测中值为增长0.8%。（预测范围：增长0.3%至增长1.0%） 7月批发商库存环比增长1.3%...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-16",
-      "time": "14:14",
-      "keywords": []
-    },
-    {
-      "title": "控股股东将变更为中软西安，经纬股份9月17日起复牌",
-      "source": "北京商报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-16/doc-inirzwqv3671107.shtml",
-      "content": "北京商报讯9月16日晚间，经纬股份（301390）披露公告称，公司控股股东将由无控股股东变更为中软国际（西安）智能科技有限公司（以下简称“中软西安”）。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-16",
-      "time": "14:14",
-      "keywords": []
-    },
-    {
-      "title": "股价9天回撤18%后，300830披露：实控人及一致行动人拟减持不超2.98%股份",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-09-16/doc-inirzwqx0434803.shtml",
-      "content": "每经记者|文多每经编辑|黄胜 金现代（300830.SZ，股价8.27元，市值37.35亿元）9月16日盘后披露，公司控股股东、实际控制人黎峰及其一致行动人计划在未来三个月内合计减持不...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-16",
-      "time": "14:08",
       "keywords": []
     },
     {
