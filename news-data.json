@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-19T18:50:12.671277",
+  "updated": "2026-09-19T22:28:15.863436",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,25 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 25,
+    "high": 24,
     "medium": 21,
-    "low": 104
+    "low": 105
   },
   "items": [
+    {
+      "title": "北卡大学捐赠基金收益率大涨37.8%，早期SpaceX投资功不可没",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-09-20/doc-inismkxi2632927.shtml",
+      "content": "截至6月的财年，美国北卡罗来纳大学捐赠基金取得37.8%的回报率，凭借对SpaceX的投资跑赢同类机构。 该业绩是威尔希尔信托全球对比服务估算同期规模超5亿美元捐赠基金费用前...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-19",
+      "time": "21:54",
+      "keywords": []
+    },
     {
       "title": "阿那亚突发大停电，官方回应：园区外线路故障所致，正抓紧抢修",
       "source": "新浪科技",
@@ -122,34 +136,6 @@
       "period": "night",
       "date": "2026-09-19",
       "time": "04:29",
-      "keywords": []
-    },
-    {
-      "title": "信披违规，002159被罚",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/wm/2026-09-19/doc-inisisqc3117699.shtml",
-      "content": "9月18日晚，三特索道（002159）公告称，公司及原实际控制人艾路明等人于当天收到湖北证监局下发的《行政处罚决定书》，因关联方非经营性资金占用未及时披露...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-09-19",
-      "time": "03:57",
-      "keywords": []
-    },
-    {
-      "title": "中期选举激烈 多名共和党候选人在数据中心等议题疏远特朗普",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisispz2548225.shtml",
-      "content": " 在部分竞争最激烈的参众两院席位争夺战中，共和党候选人已开始在特朗普总统议程的核心议题上与其拉开距离，这表明他们认为特朗普的部分政策立场正在拖累自身的选举前景。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-09-19",
-      "time": "03:34",
       "keywords": []
     },
     {
@@ -716,6 +702,76 @@
       ]
     },
     {
+      "title": "伊朗称已向美政府传达7项谈判条件",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-20/doc-inismkxf1822935.shtml",
+      "content": "当地时间19日晚，伊朗最高国家安全委员会秘书雷扎伊表示，伊朗已向美国政府传达了开启任何谈判所需的七项条件。伊朗发出的信息明确，即如果美国希望摆脱其一手造成的困境...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-19",
+      "time": "21:18",
+      "keywords": []
+    },
+    {
+      "title": "沙特主导联军称拦截胡塞武装射向利雅得的弹道导弹",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-20/doc-inismerq7105861.shtml",
+      "content": " 当地时间9月19日，沙特主导的多国联军发言人图尔基·马利基发表声明称，沙特皇家防空部队当天凌晨成功拦截并摧毁一枚由也门胡塞武装向沙特首都利雅得发射的弹道导弹。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-19",
+      "time": "20:06",
+      "keywords": []
+    },
+    {
+      "title": "土耳其外长：不接受沙特被卷入美伊冲突",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-20/doc-inismern9486348.shtml",
+      "content": "当地时间9月19日，土耳其外交部长费丹接受采访。在被问及沙特阿拉伯与也门胡塞武装之间的冲突时，费丹表示，土方不接受沙特被卷入当前美国与伊朗之间的冲突...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-19",
+      "time": "19:06",
+      "keywords": []
+    },
+    {
+      "title": "俄罗斯“进步MS-35”货运飞船与国际空间站对接",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-20/doc-iniskyip2832832.shtml",
+      "content": " 俄罗斯国家航天集团19日在官网通报说，俄“进步MS-35”货运飞船当天与国际空间站俄罗斯舱段“探索”号实验舱完成手动对接。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-19",
+      "time": "18:43",
+      "keywords": []
+    },
+    {
+      "title": "胡塞武装称对沙特敏感目标及设施发动袭击",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-20/doc-iniskyip2830687.shtml",
+      "content": " 也门胡塞武装19日发表声明说，当天对沙特首都利雅得的“敏感目标”以及沙特阿美公司位于延布的设施发动了两次军事行动，使用了大量弹道导弹、巡航导弹和无人机。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-19",
+      "time": "18:29",
+      "keywords": []
+    },
+    {
       "title": "特朗普称将组建“人工智能部队”并任命AI事务负责人",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-20/doc-iniskyip2787604.shtml",
@@ -727,6 +783,20 @@
       "period": "noon",
       "date": "2026-09-19",
       "time": "17:38",
+      "keywords": []
+    },
+    {
+      "title": "伊朗称仍在通过调解方向美方传递谈判条件",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-20/doc-iniskyis7182377.shtml",
+      "content": " 伊朗最高国家安全委员会秘书穆赫辛·雷扎伊19日表示，卡塔尔作为调解方已向美国方面转达伊朗的谈判条件，正等待美国总统特朗普的回应。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-19",
+      "time": "17:04",
       "keywords": []
     },
     {
@@ -755,6 +825,20 @@
       "period": "noon",
       "date": "2026-09-19",
       "time": "14:51",
+      "keywords": []
+    },
+    {
+      "title": "伊朗消息人士：美方称已准备好与伊朗进行谈判",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/roll/2026-09-19/doc-inisktzr2842436.shtml",
+      "content": "当地时间19日，总台记者从伊朗一位不愿透露姓名的高级别消息人士处获悉，卡塔尔和巴基斯坦作为调解方已告知伊朗，美国已准备好进行谈判并达成协议...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-19",
+      "time": "14:44",
       "keywords": []
     },
     {
@@ -1092,90 +1176,6 @@
       "period": "night",
       "date": "2026-09-19",
       "time": "04:12",
-      "keywords": []
-    },
-    {
-      "title": "汪涛：创造未来产能、创新，要靠企业投资",
-      "source": "睿见Economy",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-09-19/doc-inisisqh7723036.shtml",
-      "content": "9月19日，2026清华五道口首席经济学家论坛在清华大学举行，主题为“2026中国与世界经济回顾和展望——全球再平衡与国际货币体系重构”。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-09-19",
-      "time": "03:59",
-      "keywords": []
-    },
-    {
-      "title": "重组信息涉嫌虚假记载等，京城股份子公司被证监会立案",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-19/doc-inisisqc3113371.shtml",
-      "content": "9月18日晚间，京城股份（600860.SH）公告称，公司于当日收到控股子公司青岛北洋天青数联智能有限公司（简称“北洋天青”）报告，北洋天青已收到中国证监会出具的《立案告知书...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-09-19",
-      "time": "03:53",
-      "keywords": []
-    },
-    {
-      "title": "邢自强：全球不平衡未来五到十年有可能加剧",
-      "source": "睿见Economy",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-09-19/doc-inisisqc3115507.shtml",
-      "content": "9月19日，2026清华五道口首席经济学家论坛在清华大学举行，主题为“2026中国与世界经济回顾和展望——全球再平衡与国际货币体系重构”。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-09-19",
-      "time": "03:38",
-      "keywords": []
-    },
-    {
-      "title": "7月也门冲突升级以来首次 沙特首都遭袭",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-19/doc-inisisqe9872951.shtml",
-      "content": "沙特当局发布空袭警报后，周六首都利雅得传来爆炸声。近日，也门胡塞武装频繁对沙特发动袭击。 这是自7月邻国也门冲突升级以来，沙特首都首次遭到直接袭击。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-09-19",
-      "time": "03:37",
-      "keywords": []
-    },
-    {
-      "title": "黄仁勋减持4.6万股英伟达股票，成交价约每股212美元",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/roll/2026-09-19/doc-inisisqc3101405.shtml",
-      "content": "据财联社报道，英伟达多名高管向美国SEC披露股票交易情况，包括CEO黄仁勋在内的5名高管合计出售近15万股公司股票。其中，黄仁勋出售约4.6万股，成交价约每股212美元。",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "night",
-      "date": "2026-09-19",
-      "time": "03:33",
-      "keywords": []
-    },
-    {
-      "title": "美媒：与伊朗战事期间，美军被AI生成的不实军情报告误导，险些派兵全副武装冲上一艘中国船只",
-      "source": "环球时报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-19/doc-inisisqe9880078.shtml",
-      "content": "北京时间19日凌晨，美国CNN爆出一则大猛料：在今年春季美国对伊朗发动战争期间，美军居然被一份用人工智能（AI）生成的不实军情报告误导...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-09-19",
-      "time": "03:33",
       "keywords": []
     },
     {
