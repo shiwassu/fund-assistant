@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-21T13:17:17.094659",
+  "updated": "2026-09-21T19:42:53.735306",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,167 +7,192 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 24,
-    "medium": 25,
-    "low": 101
+    "high": 26,
+    "medium": 24,
+    "low": 100
   },
   "items": [
     {
-      "title": "AI驱动用电需求上行，安联警示：全球电力系统每年需4.8万亿资金投入",
+      "title": "Meta智能体火爆刺激芯片股大涨 AMD有望跻身市值万亿美元俱乐部",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisqzxv7583788.shtml",
-      "content": "安联投资发布报告称，人工智能、电气化、工业增长与气候适应，正在开启电力消费新时代。全球电力需求增速现已超过经济产出增速，数据中心是需求增长最大推手，电动车...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisrnpx2590817.shtml",
+      "content": " 美股芯片股周一大涨，Meta Platforms新推出的人工智能智能体Muse初步显现成功迹象，激发市场对相关芯片需求的乐观情绪。",
       "priority": "high",
       "sectors": [
-        "能源",
+        "半导体",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-09-21",
+      "time": "19:03",
+      "keywords": []
+    },
+    {
+      "title": "Meta势创1月以来最高收盘价 智能体Muse登上苹果应用商店榜首",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisrnpv5871394.shtml",
+      "content": "Meta Platforms股价周一大涨逾11%，因市场持续看好其AI智能体产品Muse。 Meta股价有望创下1月以来最高收盘水平。 Evercore ISI指出...",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-09-21",
+      "time": "18:16",
+      "keywords": []
+    },
+    {
+      "title": "连续五个交易日上涨，AMD市值首次突破1万亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisrnpt9071513.shtml",
+      "content": "核心要点AMD 市值首次站上 1 万亿美元关口。这家芯片企业实现五连涨，期间股价累计涨幅约 24%。AMD 依旧大幅落后英伟达，后者市值约 5.4 万亿美元。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-21",
+      "time": "17:05",
+      "keywords": []
+    },
+    {
+      "title": "欧洲股市创7月以来最大涨幅 能源价格回落缓解通胀担忧",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisrnpx2559539.shtml",
+      "content": " 欧洲股市录得两个多月来最大涨幅，油价和天然气价格回落缓解了通胀担忧，同时市场对本周中美元首峰会的乐观情绪也提振了风险偏好。",
+      "priority": "high",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-09-21",
+      "time": "16:57",
+      "keywords": []
+    },
+    {
+      "title": "斯特兰蒂斯为何禁止经销商宣传超低底价",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisrnpv5838698.shtml",
+      "content": "据报道，这家吉普品牌母公司将为经销商的车辆广告价格设置下限，经销商不得公布低于该底线的报价。 支持该政策的人士表示，此举可以防止具有误导性的超低促销价。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-21",
+      "time": "16:53",
+      "keywords": []
+    },
+    {
+      "title": "欧洲债市：德国国债势创5月份以来最大涨幅 加息押注降温",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisrhfx5950294.shtml",
+      "content": "鉴于霍尔木兹海峡航运活动活跃，同时市场对通过外交努力结束美伊战争的前景抱有乐观预期，随着石油和天然气价格大幅下跌，德国10年期国债收益率势创四个月来最大跌幅。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-21",
+      "time": "16:09",
+      "keywords": []
+    },
+    {
+      "title": "德国汽车行业工人举行抗议，反对裁员与现行产业政策",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisrhfx5937880.shtml",
+      "content": "内容摘要 在德国金属工业工会（IG Metall）发起动员号召后，数千名德国汽车行业工人于周一举行示威，抗议裁员以及国家产业政策。",
+      "priority": "high",
+      "sectors": [
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-09-21",
+      "time": "15:42",
+      "keywords": []
+    },
+    {
+      "title": "政策定调“存量时代”叠加公积金新规落地 房地产板块集体走强",
+      "source": "大众证券报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-21/doc-inisrhfv9149796.shtml",
+      "content": "9月21日，A股房地产板块迎来久违的集体上涨。根据数据，截至收盘，申万房地产指数（801180.SI）报1971.06点，上涨3.95%，领涨各大行业板块...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-09-21",
+      "time": "15:04",
+      "keywords": []
+    },
+    {
+      "title": "AMD市值突破1万亿美元，股价延续五日连涨",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisrhfx5919875.shtml",
+      "content": "Advanced Micro Devices（AMD）股价周一飙升，推动其股价创下历史新高，并首次突破1万亿美元市值关口。 股价盘中最高触及613.92美元，使公司市值略高于1万亿美元。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-21",
+      "time": "15:03",
+      "keywords": []
+    },
+    {
+      "title": "传派拉蒙与华纳兄弟就合并诉讼达成和解，两家公司股价大涨",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisrhft7494956.shtml",
+      "content": "事件概况 周一，华纳兄弟探索（WBD）与派拉蒙‑天空之舞（PSKY）股价分别上涨10%、5%。 行情驱动因素 据报道，派拉蒙与各州总检察长达成和解。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-21",
+      "time": "15:03",
+      "keywords": []
+    },
+    {
+      "title": "迈克尔・塞勒旗下Strategy公司宣布增持比特币，股价应声大涨",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisrhft7493145.shtml",
+      "content": "事件概况 这家比特币持仓企业周一早盘股价涨8.7%，此前公司披露上周继续购入比特币，同时回购了部分优先股。 受此提振，Strategy 股价年内转为正收益...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-09-21",
+      "time": "14:57",
+      "keywords": []
+    },
+    {
+      "title": "比特币5天上涨超7%，风头要盖过AI投资了？",
+      "source": "",
+      "url": "https://finance.sina.com.cn/roll/2026-09-21/doc-inisrhft7496935.shtml",
+      "content": "（来源：闻基有道）比特币周一突破85,000美元，延续了过去几天的强劲涨势。根据CoinMetrics的数据，美东时间上午6:35左右，比特币交易价格为 84,256美元，上涨约3.8%。",
+      "priority": "high",
+      "sectors": [
         "AI"
       ],
       "period": "noon",
       "date": "2026-09-21",
-      "time": "12:56",
+      "time": "14:54",
       "keywords": []
     },
     {
-      "title": "德银：市场可能低估本轮全球加息幅度，但加息未必导致股市下跌",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisqzxz5965739.shtml",
-      "content": "德意志银行警告，随着全球主要央行进入同步收紧阶段，投资者目前可能低估了本轮加息周期最终会走多远。 德银宏观策略师Henry Allen指出，美联储...",
+      "title": "超威半导体股价涨6.06%报593.735美元 创历史新高",
+      "source": "观点地产网",
+      "url": "https://finance.sina.com.cn/stock/estate/integration/2026-09-21/doc-inisrhfv9144388.shtml",
+      "content": "观点网讯：超威半导体股价当日上涨6.06%，报593.735美元/股，创下历史新高。超威半导体总市值报9693亿美元。免责声明：本文内容与数据由观点根据公开信息整理...",
       "priority": "high",
       "sectors": [
-        "综合"
+        "半导体"
       ],
       "period": "noon",
       "date": "2026-09-21",
-      "time": "12:52",
-      "keywords": []
-    },
-    {
-      "title": "6.48亿空头爆仓推升 BTC破8.5万，牛市信号存疑",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-09-21/doc-inisqzyc2745576.shtml",
-      "content": "来源：智通财经网 据 Woofun AI 消息，比特币价格强势突破 85，000 美元关口，这一自今年 1 月以来最强劲的单边涨势，主要归因于美伊外交进展所引发的地缘政治局势改善...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-21",
-      "time": "12:44",
-      "keywords": []
-    },
-    {
-      "title": "瑞银看多白银：受益于黄金强势与供需支撑，明年9月或升至80美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisqzxv7578894.shtml",
-      "content": " 瑞银表示，白银未来仍有望紧跟黄金走势，并继续受益于支撑金价的多重因素，包括财政状况担忧、美元长期购买力风险以及中长期货币政策趋于宽松的预期。",
-      "priority": "high",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "noon",
-      "date": "2026-09-21",
-      "time": "12:42",
-      "keywords": []
-    },
-    {
-      "title": "央行：继续推动金融高水平开放，持续完善政策供给",
-      "source": "中证网",
-      "url": "https://finance.sina.com.cn/china/2026-09-21/doc-inisqzxu5628836.shtml",
-      "content": " 中国人民银行消息，9月21日，中国人民银行召开外资金融机构座谈会，听取外资金融机构意见建议，研究进一步优化营商环境、推动金融业高水平对外开放有关工作。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-09-21",
-      "time": "12:28",
-      "keywords": []
-    },
-    {
-      "title": "ATFX本周前瞻:瑞士央行决议 美联储副主席杰斐逊讲话",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/forex/forexroll/videoroll/2026-09-21/doc-inisqzxu5627373.shtml",
-      "content": "▲ATFX表 本周四：瑞士央行利率决议9月21日，本周四15：30，瑞士央行将公布九月利率决议结果，市场预期维持零利率不变，原因是瑞士的通胀率并不像其他欧美国家那样有失控的...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-21",
-      "time": "12:24",
-      "keywords": [
-        "美联储",
-        "ATFX"
-      ]
-    },
-    {
-      "title": "美联储两名官员接连警示通胀：油价之外，强劲需求或形成额外推动",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-21/doc-inisqvsc6064406.shtml",
-      "content": "9月20日至21日，美联储两名官员先后谈及美国通胀。明尼阿波利斯联储主席尼尔·卡什卡利表示，美国经济各个领域的通胀都处于过高水平，并不只是油价上涨所导致。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-21",
-      "time": "12:09",
-      "keywords": []
-    },
-    {
-      "title": "600238，遭证监会立案调查！退市风险警报刚解除",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-09-21/doc-inisqvsc6064306.shtml",
-      "content": "不久前刚摘星。 9月21日，ST椰岛（600238）公告，公司于当天收到中国证监会下发的《立案告知书》。因公司涉嫌信息披露违法违规，中国证监会决定对公司立案。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-21",
-      "time": "12:07",
-      "keywords": []
-    },
-    {
-      "title": "比特币涨至85000美元，创下1月以来新高",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisqvrz9285572.shtml",
-      "content": "核心要点周一，比特币价格突破 85000 美元，创下 1 月末以来的交易新高。比特怀斯（Bitwise）首席投资官马特・霍根接受 采访时表示，“加密货币寒冬” 已然落幕...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-21",
-      "time": "12:03",
-      "keywords": []
-    },
-    {
-      "title": "刚刚，暴涨218%！多只美股，集体异动",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-09-21/doc-inisqvrw5746414.shtml",
-      "content": "多只美股异动！ 周一美股盘前，与格陵兰岛相关的在美上市公司股价大涨，Greenland Energy一度大涨218%，Greenland Mines一度涨超120%，Critical Metals一度涨近40%。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-21",
-      "time": "12:00",
-      "keywords": []
-    },
-    {
-      "title": "海峡保险获批增资 注册资本由15亿元变更为25亿元",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/insurance/2026-09-21/doc-inisqvrz9279840.shtml",
-      "content": " 9月21日金融一线消息，福建金融监管局发布批复，同意海峡金桥财产保险股份有限公司增加注册资本10亿元人民币，由15亿元人民币变更为25亿元人民币。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-09-21",
-      "time": "11:54",
+      "time": "14:53",
       "keywords": []
     },
     {
@@ -379,148 +404,129 @@
       ]
     },
     {
-      "title": "MS NOW、CNN 以及政治新闻网将起诉特朗普，要求撤销白宫禁令",
+      "title": "摩根大通与卡塔尔投资局拟建立200亿美元投资伙伴关系",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisqzxv7588632.shtml",
-      "content": "核心要点MS NOW、美国有线电视新闻网（CNN）与政治新闻网（Politico）准备起诉唐纳德・特朗普总统，请求法院推翻白宫针对这三家媒体机构的禁令。",
+      "url": "https://finance.sina.com.cn/world/2026-09-22/doc-inisrsvr8991953.shtml",
+      "content": " 卡塔尔的财富基金计划与摩根大通建立200亿美元的伙伴关系。该基金几个月前与高盛签署了类似协议，凸显其与华尔街日益深化的关系。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-09-21",
-      "time": "13:07",
+      "time": "19:30",
       "keywords": []
     },
     {
-      "title": "ETF日报：粮食板块整体估值已处于历史相对低位，具备一定的安全边际与修复弹性",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-09-21/doc-inisqzxx9202517.shtml",
-      "content": "9月21日A股三大指数集体收涨，沪指高开高走领涨主要宽基。上证指数报3949.91点，上涨0.97%；深证成指报13730.02点，上涨0.65%。两市中小盘风格相对占优，合计成交额2...",
+      "title": "盖茨基金会联合多家AI机构宣布五年目标：推动超过30亿人使用自己的语言和语音AI",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisrnpv5886555.shtml",
+      "content": "新浪科技讯，9月21日晚间消息，盖茨基金会联合全球AI生态系统里的多家机构共同宣布一项联合承诺，旨在缩小人工智能领域最显著的可及性差距之一：让世界各地的人们都能以自...",
       "priority": "medium",
       "sectors": [
-        "综合"
+        "AI"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-09-21",
-      "time": "13:05",
+      "time": "18:59",
       "keywords": []
     },
     {
-      "title": "大众汽车困境进一步加剧：发布最新盈利预警后，被剔除蓝筹股指成分股",
+      "title": "标普：银行对人工智能的应用将很快影响它们信用评级",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisqzxv7586576.shtml",
-      "content": "核心要点大众汽车下调全年销售营业回报率预期，受艰难的市场环境以及所持保时捷股权发生资产减值影响，周一股价继续下挫。这家德国传统车企被调出欧洲斯托克 50 蓝筹指数...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisrnpx2558064.shtml",
+      "content": "标普全球评级周一在一份报告中表示，未来几年，银行对人工智能（AI）的使用将越来越影响其信用评级。 这家信用评级机构表示，银行最终受益还是受损将取决于其AI战略的成熟...",
       "priority": "medium",
       "sectors": [
-        "消费"
+        "金融"
       ],
       "period": "noon",
       "date": "2026-09-21",
-      "time": "13:03",
+      "time": "16:52",
       "keywords": []
     },
     {
-      "title": "菲林格尔跨界并购PCB设备公司，低基数下的高业绩承诺能否兑现？",
-      "source": "界面",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-21/doc-inisqzxz5966442.shtml",
-      "content": "变更实控人一年后，持续亏损的A股木地板上市公司菲林格尔（603226.SH）于9月18日宣布，拟以现金2.14亿元收购南京克锐斯自动化科技有限公司（简称“克锐斯”）51%控股权...",
+      "title": "特朗普称只会鼓励AI发展 但必要时将加以约束",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisrnpr7394423.shtml",
+      "content": "美国总统特朗普在社交媒体发帖称，如有必要，美国将对人工智能（AI）加以约束。 “我们会谨慎，这就是为什么我们有司法部以及其他执法机构。",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-09-21",
+      "time": "16:51",
+      "keywords": []
+    },
+    {
+      "title": "银湖资本对决卡尔・伊坎：奋进集团收购案引发的博弈",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisrhfx5947350.shtml",
+      "content": "这家私募机构请求法官裁定，伊坎及其他各方存在非法串通，阻挠这笔价值 130 亿美元的收购交易激进投资大亨卡尔・伊坎 私募股权公司银湖资本向法官提请裁定：激进投资人伊坎...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-09-21",
-      "time": "12:52",
+      "time": "16:05",
       "keywords": []
     },
     {
-      "title": "一笔刷新纪录的“床位生意”，凯德20亿重仓香港学生公寓",
-      "source": "界面",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-21/doc-inisqzxz5960514.shtml",
-      "content": "界面新闻记者 | 王婷婷界面新闻编辑 | 庄键 一场酒店改学生公寓的投资热潮正在香港上演。 近日，界面新闻获悉，新加坡资管机构凯德投资拟收购香港上环德辅道西28号宜必思香...",
+      "title": "贝森特：特朗普政府不会为人工智能行业领袖提供“责任豁免保护”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisrhfv9170872.shtml",
+      "content": " 美国财政部长斯科特·贝森特周一表示，人工智能开发者“需要自己承担责任”，而不是期待联邦政府为他们提供“责任豁免保护”。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-09-21",
-      "time": "12:44",
+      "time": "15:58",
       "keywords": []
     },
     {
-      "title": "EasyMarkets易信:待完井库存影响原油增产弹性",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-09-21/doc-inisqvrz9287299.shtml",
-      "content": "9月21日，原油生产商可以通过完成既有井来增加产量，而不必同时新钻同等数量的井。九月二十日的行业报道讨论了这种安排对供应的影响。",
+      "title": "开创电气：华安证券研究所投资者于9月21日调研我司",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-21/doc-inisrhfx5923687.shtml",
+      "content": "证券之星消息，2026年9月21日开创电气(301448)发布公告称华安证券研究所机械设备组负责人王璐于2026年9月21日调研我司。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-21",
+      "time": "15:02",
+      "keywords": []
+    },
+    {
+      "title": "通源石油：光大证券投资者于9月21日调研我司",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-21/doc-inisrhfx5923674.shtml",
+      "content": "证券之星消息，2026年9月21日通源石油(300164)发布公告称光大证券王礼沫于2026年9月21日调研我司。具体内容如下：董事会秘书张旭首先就公司基本情况及2026年上半年度经营情...",
       "priority": "medium",
       "sectors": [
         "能源"
       ],
       "period": "noon",
       "date": "2026-09-21",
-      "time": "12:05",
-      "keywords": [
-        "易信",
-        "原油"
-      ]
-    },
-    {
-      "title": "M4Markets:跨区航油贸易重估交付成本",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-09-21/doc-inisqvrw5745035.shtml",
-      "content": "9月21日，远距离燃料运输正在改变采购账单。九月二十日的报道提到，欧洲从亚洲增加航空燃料采购，以补充当地供应。机构表示，跨区货源能够扩大选择范围...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-21",
-      "time": "12:00",
-      "keywords": [
-        "航油"
-      ]
-    },
-    {
-      "title": "罕见，这只白马股大跌！机构人士：关注市场“跷跷板效应”",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-09-21/doc-inisqvsc6058035.shtml",
-      "content": "9月21日，美的集团大跌4.15%，全天成交金额为50.36亿元。 Wind数据显示，截至9月21日收盘，美的集团主力资金净流出4.87亿元，净流出额创2026年1月13日以来新高。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-21",
-      "time": "12:00",
+      "time": "15:02",
       "keywords": []
     },
     {
-      "title": "湖南银行，还在为“华融旧账”买单",
-      "source": "",
-      "url": "https://finance.sina.com.cn/roll/2026-09-21/doc-inisqzxz5941837.shtml",
-      "content": "来源：投资者网-思维财经 【银行解码 】透视银行业绩、零售对公打法与数字化突围，一眼看懂银行企业胜负手。 ‘告别过去。’ 作为湖南省的省属银行...",
+      "title": "科技股估值跌至OpenAI发布ChatGPT以来最低水平",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisrhft7492557.shtml",
+      "content": "科技板块终于迎来估值机会。 特鲁伊斯特（Truist）首席投资官基思・勒纳指出，标普 500 指数科技板块的远期市盈率，已经从去年 10 月的 32 倍回落至约 21 倍。",
       "priority": "medium",
       "sectors": [
-        "金融"
+        "AI"
       ],
       "period": "noon",
       "date": "2026-09-21",
-      "time": "12:00",
-      "keywords": []
-    },
-    {
-      "title": "香港施政报告与“十五五”规划利好叠加 香港金融界聚焦人民币与大宗商品新机遇",
-      "source": "港股一线",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkyx/2026-09-21/doc-inisqvsc6050893.shtml",
-      "content": "文/新浪财经香港站王柳潞 今日，立法会（金融服务界）李惟宏议员联合13个行业协会，于香港会议展览中心举行酒会，热烈庆祝中华人民共和国成立77周年。",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-09-21",
-      "time": "11:51",
+      "time": "14:53",
       "keywords": []
     },
     {
@@ -765,427 +771,395 @@
       ]
     },
     {
-      "title": "全新奇骏混动版上市，日产拟扩大美国本土产能",
+      "title": "OpenAI敦促美国牵头为人工智能制定全球标准",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisqzxv7590551.shtml",
-      "content": "核心要点日产美洲区主席克里斯蒂安・默尼耶接受采访时表示，伴随 2027 款奇骏跨界 SUV 推出，日产汽车正考虑提高美国工厂产量。这家日本车企目前在田纳西州士麦那总装厂实...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-21",
-      "time": "13:11",
-      "keywords": []
-    },
-    {
-      "title": "陆金所控股披露披露复牌关键进展 24项问题整改完毕",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-09-21/doc-inisqzxz5974443.shtml",
-      "content": "9月21日金融一线消息，陆金所控股公告披露内控审查成果。公司聘请独立内部监控顾问进行全面审查，共识别出24项内控优化空间，涵盖风险治理、关联交易、估值管理等领域。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-21",
-      "time": "13:04",
-      "keywords": []
-    },
-    {
-      "title": "建发联手象屿70亿补仓上海静安宅地",
-      "source": "界面",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-21/doc-inisqzxz5969315.shtml",
-      "content": "界面新闻记者 | 王婷婷界面新闻编辑 | 庄键 9月21日，上海2026年第九批次集中土拍迎来关键一槌。本批次共出让三宗地块，其中静安区大宁地块备受关注。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-21",
-      "time": "12:56",
-      "keywords": []
-    },
-    {
-      "title": "诺和诺德一年内裁员1.3万人",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisqzxz5966167.shtml",
-      "content": "诺和诺德周一表示，过去一年公司裁员 1.3 万人。在竞争持续加剧的背景下，这家减重药企持续削减成本。 该消息披露之际，首席执行官迈克・杜麦克在伦敦投资者日公布复兴计划...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-21",
-      "time": "12:52",
-      "keywords": []
-    },
-    {
-      "title": "直击纳真科技港交所挂牌",
-      "source": "港股一线",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkyx/2026-09-21/doc-inisqzxx9192766.shtml",
-      "content": "9月22日，光模块头部公司纳真科技（9856.HK）港股挂牌。点击链接进行观看&gt;&gt; 公司发行价 32.96 港元，募资近57 亿港元。花旗、中信里昂为联席保荐人为。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-21",
-      "time": "12:50",
-      "keywords": []
-    },
-    {
-      "title": "西贝的困局与自救",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/hyyj/2026-09-21/doc-inisqzxz5967746.shtml",
-      "content": "“接下来的时间，我们会继续拼，争取活下来。” 8个月前，贾国龙在接受媒体采访时说。 8个月后，西贝因“两三个月内彻底倒闭”的传闻受到关注...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-21",
-      "time": "12:46",
-      "keywords": []
-    },
-    {
-      "title": "中东局势一夜降温，油价四连跌、黄金高位回落：全球资金正在悄悄\"换挡\"",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/roll/2026-09-21/doc-inisqzxx9185783.shtml",
-      "content": "来源：汇通网 汇通财经APP讯——周一（9月21日），全球市场情绪回暖。中东地缘缓和预期升温，沙特经霍尔木兹海峡出口恢复，原油连续第四日下行，布伦特与WTI双双回落约2%。",
-      "priority": "low",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "noon",
-      "date": "2026-09-21",
-      "time": "12:42",
-      "keywords": []
-    },
-    {
-      "title": "盘前：纳指期货涨1.07% 油价连续四个交易日下跌",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisqzyc2741777.shtml",
-      "content": "本周伊始，随着油价下跌，以及市场对近期重要经贸沟通释放积极信号，市场情绪有所恢复，股票和债券市场双双受到提振。此前，在利率上升和油价持续高企的背景下...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-21",
-      "time": "12:30",
-      "keywords": []
-    },
-    {
-      "title": "vivo X500 Pro Max 毫不费力的电影感",
-      "source": "新浪数码",
-      "url": "https://finance.sina.com.cn/tech/mobile/n/c/2026-09-21/doc-inisqriy5781722.shtml",
-      "content": "在这个人人都是创作者的时代，vivo X500 Pro Max的意义早已超越一台手机，它将专业影像，从昂贵笨重中剥离。今天，我们不必争论手机能否取代相机，更重要的是它让普通人...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-21",
-      "time": "12:30",
-      "keywords": [
-        "vivo",
-        "vivo X500 Pro Max",
-        "摄影"
-      ]
-    },
-    {
-      "title": "伯恩斯坦下调2030年金价预测，但仍看好黄金长期走势",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisqzxv7574389.shtml",
-      "content": " 伯恩斯坦将2030年黄金价格预测从每盎司6100美元下调至5600美元，但仍维持对黄金的长期看涨判断。该行认为，即使实际利率继续缓慢上升，黄金价格仍具备进一步上涨空间。",
-      "priority": "low",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "noon",
-      "date": "2026-09-21",
-      "time": "12:28",
-      "keywords": []
-    },
-    {
-      "title": "顺应智能体商业发展，支付宝宣布组织调整和全新任命",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-09-21/doc-inisqzxz5948585.shtml",
-      "content": "文/北京商报记者廖蒙 9月21日，蚂蚁集团CEO韩歆毅发布全员信，宣布支付宝进行组织调整与人事任命，以加速布局智能体商业。 根据调整，支付宝事业群...",
+      "url": "https://finance.sina.com.cn/world/2026-09-22/doc-inisrsvv2465171.shtml",
+      "content": "OpenAI敦促美国牵头与其他国家共同为前沿人工智能（AI）制定标准，以回应对AI潜在危害日益加剧的担忧。 OpenAI周一在博客文章中表示，为了安全地发展人工智能...",
       "priority": "low",
       "sectors": [
         "AI"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-09-21",
-      "time": "12:26",
+      "time": "19:36",
       "keywords": []
     },
     {
-      "title": "全球谷物供应趋紧，玉米供需缺口创33年来最大",
+      "title": "美国联邦航空管理局解除对飞往纽约肯尼迪机场航班的地面停飞",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisqzxx9171564.shtml",
-      "content": "雷蒙德·詹姆斯表示，2026年全球谷物市场明显收紧，主要受到作物产量下降、需求保持强劲以及黑海出口能力受限等因素推动。其中，玉米供需矛盾最为突出...",
+      "url": "https://finance.sina.com.cn/world/2026-09-22/doc-inisrsvr8992024.shtml",
+      "content": "根据一份通知，美国联邦航空管理局（FAA）解除针对飞往纽约肯尼迪国际机场航班的地面停飞措施。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-09-21",
-      "time": "12:23",
+      "time": "19:30",
       "keywords": []
     },
     {
-      "title": "字节拿下奥林匹克公园地块，年内已斥资超87亿元在北京买地",
-      "source": "界面",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-21/doc-inisqzxu5626977.shtml",
-      "content": "9月21日消息，北京市规划和自然委员会官网显示，北京市朝阳区奥林匹克公园南区土地一级开发项目OS—15地块商务金融用地，由北京云瑞长石科技有限公司竞得...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-21",
-      "time": "12:21",
-      "keywords": []
-    },
-    {
-      "title": "ST椰岛：公司涉嫌信披违法违规，被证监会立案",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-21/doc-inisqvrw5754246.shtml",
-      "content": "9月21日，ST椰岛（600238.SH）发布公告，公司于2026年9月21日收到中国证监会下发的《立案告知书》。因公司涉嫌信息披露违法违规，根据相关法律法规...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-21",
-      "time": "12:14",
-      "keywords": []
-    },
-    {
-      "title": "CBCX:黄金供应分布有助辨别冲击",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-09-21/doc-inisqvrz9292964.shtml",
-      "content": "9月21日，一家黄金生产商的个别矿山调整，未必意味着全部业务同步承压。九月二十一日，Resolute更新Syama运营预期时，也说明其他资产进展保持在计划内。",
-      "priority": "low",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "noon",
-      "date": "2026-09-21",
-      "time": "12:11",
-      "keywords": [
-        "资产",
-        "黄金"
-      ]
-    },
-    {
-      "title": "星帅尔：拟收购两大标的100%股权，9月22日起停牌",
-      "source": "新京报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-21/doc-inisqzxz5943165.shtml",
-      "content": "新京报贝壳财经讯 9月21日，星帅尔公告，公司正在筹划以发行股份及支付现金方式购买东莞市梵宇自动化科技有限公司、东莞市湘鹰新材料科技有限公司100%股权并募集配套资金...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-21",
-      "time": "12:11",
-      "keywords": []
-    },
-    {
-      "title": "扣非净利润连续四年亏损，奥克股份筹划发行股份购买资产",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-09-21/doc-inisqzxx9171499.shtml",
-      "content": "扣非净利润连续四年亏损，这家公司筹划发行股份购买资产 来源：IPO日报 9月20日晚间，奥克股份（SZ300082）发布公告称，公司正在筹划以发行股份及支付现金方式购买苏州祺添...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-21",
-      "time": "12:09",
-      "keywords": []
-    },
-    {
-      "title": "特朗普宣布与丹麦达成安全协议后，美股格陵兰相关概念股大幅飙升",
+      "title": "Meta智能体Muse迅速走红 分析师称扎克伯格AI豪赌没有白费",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisqvrw5749209.shtml",
-      "content": "核心要点美股盘前交易时段，多只业务关联格陵兰的上市公司股价暴涨：格陵兰能源涨幅达 165%，格陵兰矿业涨幅超 110%，关键金属公司涨幅超 25%。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisrnpv5878418.shtml",
+      "content": " Meta Platforms新推出的人工智能（AI）智能体Muse迅速登上移动应用排行榜榜首，显示这家社交媒体公司正在竞争日益激烈的消费者AI助手市场取得进展。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-09-21",
+      "time": "18:37",
+      "keywords": []
+    },
+    {
+      "title": "特朗普将于周二会见丹麦和格陵兰领导人",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisrnpv5871967.shtml",
+      "content": "美国总统特朗普将于周二与丹麦首相和格陵兰总理会面，举行三方签署仪式。 三位领导人将正式签署特朗普此前宣布的安全协议。 此前，特朗普宣布与丹麦就格陵兰达成协议...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-21",
+      "time": "18:17",
+      "keywords": []
+    },
+    {
+      "title": "美国联邦航空管理局解除对纽约拉瓜迪亚机场航班的地面停飞",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisrnpr7416797.shtml",
+      "content": "根据一份通知，美国联邦航空管理局（FAA）解除针对飞往纽约拉瓜迪亚机场航班的地面停飞措施。 此前，纽约地区三大机场因空管故障实施地面停飞措施。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-21",
+      "time": "18:16",
+      "keywords": []
+    },
+    {
+      "title": "美国FAA列出针对纽约地区所有主要机场的地面停飞措施",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisrnpx2564565.shtml",
+      "content": "据美国联邦航空管理局（FAA）网站，FAA列出了针对飞往纽约地区所有主要机场航班的地面停飞措施。 FAA称，飞往拉瓜迪亚机场、肯尼迪和纽瓦克机场的出港航班受到影响。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-09-21",
-      "time": "12:07",
+      "time": "17:19",
       "keywords": []
     },
     {
-      "title": "CPT Markets:航油到货增多仍需观察补库",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-09-21/doc-inisqvrz9289218.shtml",
-      "content": "9月21日，欧洲正在从更远地区补充航空燃料，但新增到货与供应宽松之间仍有距离。九月二十日晚发布的路社报道显示，部分亚洲航油流向欧洲，同时当地库存缓冲偏弱。",
+      "title": "礼来CEO：三分之一新的GLP-1口服药患者正在服用Foundayo，制药商正加紧生产",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisrnpv5843363.shtml",
+      "content": " 礼来公司CEO戴夫·里克斯周一表示，三分之一新的GLP-1口服药患者正在服用该制药商的Foundayo。该公司正试图追赶竞争对手诺和诺德在该领域建立起的领先地位。",
       "priority": "low",
       "sectors": [
-        "综合"
+        "医药"
       ],
       "period": "noon",
       "date": "2026-09-21",
-      "time": "12:07",
-      "keywords": [
-        "航油"
-      ]
-    },
-    {
-      "title": "君正股份首次回购A股37万股 成交金额5420.65万元",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-21/doc-inisqvrx7697933.shtml",
-      "content": "9月21日，君正股份(03223.HK)于2026年9月21日首次通过股份回购专用证券账户以集中竞价交易方式回购公司股份37万股，占公司总股本比例0.0719%，最高成交价148.53元/股...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-09-21",
-      "time": "12:03",
+      "time": "17:03",
       "keywords": []
     },
     {
-      "title": "GTC泽汇资本:石油增产背后的效率变化",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-09-21/doc-inisqvrz9284827.shtml",
-      "content": "9月21日，石油企业削减支出，产量却未必立即下降。九月二十日发布的报道显示，一批美国大型上市油气生产商在年度资本开支收缩的同时，原油产量仍创新高。",
+      "title": "油轮紧缺推高石油海运运费",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisrnpr7396013.shtml",
+      "content": "作者：马克・R・朗胡塞武装实施封锁|沙特东西输油管道遇袭|战争爆发；时间轴：2026 年 1 月‑9 月；单位：每日美元；航线：西非‑中国、美国墨西哥湾‑中国...",
       "priority": "low",
       "sectors": [
         "能源"
       ],
       "period": "noon",
       "date": "2026-09-21",
-      "time": "12:02",
-      "keywords": [
-        "石油"
-      ]
+      "time": "16:56",
+      "keywords": []
     },
     {
-      "title": "Mega安汇:金矿扩建支出牵动现金节奏",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-09-21/doc-inisqvsc6055007.shtml",
-      "content": "9月21日，黄金矿企提高远期产量目标，往往先带来建设资金需求。九月二十一日，Ramelius发布经营展望，同时披露较高的增长资本安排。",
+      "title": "比特币升至1月以来最高水平85000美元，市场争论“加密寒冬”是否结束",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisrnpt9066811.shtml",
+      "content": " 根据CoinMetrics数据，比特币报84256美元，上涨约3.8%。当天早些时候，该加密货币最高升至85229美元，为1月底以来最高水平。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-09-21",
-      "time": "11:58",
-      "keywords": [
-        "现金",
-        "现金流"
-      ]
+      "time": "16:55",
+      "keywords": []
     },
     {
-      "title": "MHMarkets迈汇:金矿减产揭示供应兑现约束",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-09-21/doc-inisqvsc6054087.shtml",
-      "content": "9月21日，高金价并不能自动转化为更高的矿山产量。九月二十一日，Resolute更新Syama金矿运营预期，下调年度产金目标。MHMarkets迈汇表示...",
+      "title": "派拉蒙天舞或与加州等州达成和解 为收购华纳兄弟探索铺平道路",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisrnpv5837944.shtml",
+      "content": "据一位知情人士透露，派拉蒙天舞已与加州及其他起诉阻止其拟议收购华纳兄弟探索的州达成和解。 在此前反对加州所拟交易条款的四个州做出让步后...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-09-21",
-      "time": "11:57",
-      "keywords": [
-        "费用"
-      ]
+      "time": "16:52",
+      "keywords": []
     },
     {
-      "title": "蚂蚁集团 CEO 韩歆毅发布全员信，将组建全新的支付宝事业群",
-      "source": "IT之家",
-      "url": "https://finance.sina.com.cn/tech/digi/2026-09-21/doc-inisqvrz9289464.shtml",
-      "content": "9 月 21 日晚间消息，蚂蚁集团 CEO 韩歆毅发布全员信，宣布支付宝进行组织调整与人事任命，以加速布局智能体商业。根据调整，支付宝事业群...",
+      "title": "伊朗和巴基斯坦内政部长讨论和平进程",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisrnpv5837594.shtml",
+      "content": " 巴基斯坦内政部长Mohsin Naqvi在德黑兰与伊朗对口官员举行了会谈，讨论推动地区和平进程的相关努力。双方还讨论了边境合作。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-09-21",
-      "time": "11:56",
+      "time": "16:51",
       "keywords": []
     },
     {
-      "title": "翔鹭钨业：9月24日定增上市，募集资金4.91亿元",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-21/doc-inisqvrx7696983.shtml",
-      "content": "同壁财经讯，翔鹭钨业发布最新公告称，公司本次向特定对象发行股票16,465,652股，发行价格29.81元/股，募集资金总额为490,841,086.12元，扣除发行费用后募集资金净额为477...",
+      "title": "卡塔尔称霍尔木兹海峡恢复通航后数周内即可重启液化天然气生产",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisrhft7513322.shtml",
+      "content": "伊朗袭击造成的设施损毁预计将制约产能长达数年2017 年，卡塔尔拉斯拉凡工业城控制室，这里是卡塔尔最主要的液化天然气生产基地。",
       "priority": "low",
       "sectors": [
-        "有色"
+        "能源"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-09-21",
-      "time": "11:56",
+      "time": "16:09",
       "keywords": []
     },
     {
-      "title": "【现货异动】氩气30天上涨34.8039%！供给收缩+需求回暖共振抬升报价",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-21/doc-inisqvsc6056210.shtml",
-      "content": "据同花顺iFinD数据显示，现货商品氩气9月21日最新价格2750.00元/吨，最近一周下跌17.91%，一个月累计上涨34.8%。氩气现货价格趋势2026.09.21最新价2750.0当天涨幅0...",
+      "title": "Priority Technology首席执行官牵头16 亿美元交易，将公司私有化",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-22/doc-inisrhft7512370.shtml",
+      "content": "由无利益关联独立董事组成的董事会特别委员会一致批准该交易Priority Technology Holdings 同意由董事长兼首席执行官托马斯・普廖尔牵头的投资者集团完成私有化收购。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-09-21",
-      "time": "11:55",
+      "time": "16:08",
       "keywords": []
     },
     {
-      "title": "Moneta Markets外汇:黄金资源量变化需辨口径",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/roll/2026-09-21/doc-inisqvsc6053027.shtml",
-      "content": "9月21日，地下资源的估算，也会改变市场对未来黄金供应的理解。九月二十一日，Bellevue披露年度资源与储量更新，项目资源量较上年发生变化。",
+      "title": "英伟达助力瑞典Einride公司扩大自动驾驶卡车业务规模",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisrhfv9166156.shtml",
+      "content": "这家芯片巨头将为 Einride 自动驾驶系统提供底层计算平台与人工智能工具Einride 公司 2016 年成立于斯德哥尔摩，今年夏天通过与壳公司 Legato Merger Corp． III...",
       "priority": "low",
       "sectors": [
-        "黄金"
+        "半导体"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-09-21",
-      "time": "11:55",
-      "keywords": [
-        "黄金"
-      ]
-    },
-    {
-      "title": "叮当健康9月21日回购24.15万股 涉资约19.76万港元",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-09-21/doc-inisqvrz9281306.shtml",
-      "content": "9月21日，叮当健康(09886.HK)于2026年9月21日在香港联合交易所购回24.15万股普通股，每股购回价最高HKD0.84、最低HKD0.795，付出的价格总额为HKD19.76万。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-09-21",
-      "time": "11:51",
+      "time": "15:44",
       "keywords": []
     },
     {
-      "title": "前海再保险：推举董事刘菊红代为履行董事长职责",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/insurance/2026-09-21/doc-inisqvrx7685935.shtml",
-      "content": "9月21日金融一线消息，前海再保险日前发布公告称，经公司第三届董事会第一次会议（临时）审议通过，推举刘菊红董事代为履行公司董事长及法定代表人职责...",
+      "title": "拜耳将一款抗癌药出售给Gruenenthal，交易金额最高可达4.31亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisrhfv9157335.shtml",
+      "content": "交易预计于 2026 年底或 2027 年初完成Gruenenthal的企业战略是收购仍具备持续临床需求的成熟药物。 据收购方周一公告，拜耳同意将抗癌药瑞戈非尼（Stivarga）的相关权益出...",
       "priority": "low",
       "sectors": [
-        "金融"
+        "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-09-21",
-      "time": "11:49",
+      "time": "15:23",
+      "keywords": []
+    },
+    {
+      "title": "中秋白酒涨价？记者实探：仅茅台回暖",
+      "source": "国际金融报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-21/doc-inisrhfv9155637.shtml",
+      "content": "受双节刺激，飞天茅台价格有所上涨，不过，目前涨价的只有茅台，五粮液及其他高端白酒报价几乎没有变化，还有不少品牌“以促换销”。 中秋旺季临近，白酒市场是否迎来复苏？",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-09-21",
+      "time": "15:18",
+      "keywords": []
+    },
+    {
+      "title": "OpenAI和Anthropic讨论对对方AI模型进行压力测试",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisrhfv9153829.shtml",
+      "content": "OpenAI和Anthropic讨论了一项具有法律约束力的协议，对对方的AI模型进行压力测试。 今年早些时候，两公司及其律师讨论了一项协议，计划对各自的模型进行一系列测试...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-09-21",
+      "time": "15:17",
+      "keywords": []
+    },
+    {
+      "title": "联邦快递：人工智能的动力之源",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisrhfx5925407.shtml",
+      "content": "作者：艾伦・默里 联邦快递首席执行官拉吉・苏布拉马尼亚姆做客本周《华尔街曰报领导力学院》访谈节目。虽说苏布拉马尼亚姆的知名度不及富有传奇色彩的前任弗雷德・史密斯...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-21",
+      "time": "15:14",
+      "keywords": []
+    },
+    {
+      "title": "炼油厂持续遇袭 俄罗斯或再度延长柴油出口禁令",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisrhfv9151495.shtml",
+      "content": "据知情人士透露，俄罗斯势将把针对大部分柴油出口的禁令延长至9月底之后，因乌克兰继续袭击俄罗斯炼油厂。 各方已有共识将延长这项禁令。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-21",
+      "time": "15:11",
+      "keywords": []
+    },
+    {
+      "title": "沈鼓集团股价大幅波动，上交所最新通报",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/roll/2026-09-21/doc-inisrhfx5926163.shtml",
+      "content": "9月21日晚间，上交所发布关于沈鼓集团相关情况的通报。 通报称，沈鼓集团（601091）自2026年9月17日上市以来，股票价格大幅波动。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-21",
+      "time": "15:11",
+      "keywords": []
+    },
+    {
+      "title": "智能戒指厂商Oura及其投资方拟赴美IPO，募资最高22亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisrhfx5922720.shtml",
+      "content": "健康健身智能戒指制造商 Oura 公司及其部分投资方，计划通过首次公开募股（IPO）募集至多 22 亿美元资金。 这家智能戒指厂商产品可以监测心脏健康、运动活动...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-21",
+      "time": "15:09",
+      "keywords": []
+    },
+    {
+      "title": "英特尔涨幅扩大至13%，创自7月30日以来最大盘中涨幅",
+      "source": "每日经济新闻",
+      "url": "https://finance.sina.com.cn/roll/2026-09-21/doc-inisrhfv9148947.shtml",
+      "content": "每经AI快讯，9月21日，英特尔涨幅扩大至13%，创自7月30日以来最大盘中涨幅。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-21",
+      "time": "15:05",
+      "keywords": []
+    },
+    {
+      "title": "油价暴涨冲击中期选举票仓 留给共和党的时间所剩无几",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-21/doc-inisrhft7493643.shtml",
+      "content": " 美国共和党议员已经没有多少时间来安抚因物价问题而愤怒的选民，国会山上演相互推诿的最后一幕。很多人认为，该问题是共和党在中期选举中面临的最大政治隐患。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-21",
+      "time": "14:59",
+      "keywords": []
+    },
+    {
+      "title": "利嘉阁：香港7月私宅落成量186伙 环比减95%",
+      "source": "观点地产网",
+      "url": "https://finance.sina.com.cn/stock/estate/integration/2026-09-21/doc-inisrhfv9144385.shtml",
+      "content": "观点网讯：9月21日，利嘉阁地产研究部主管陈海潮表示，根据屋宇署今日发表的最新数据，2026年7月香港私人住宅动工量仅1伙，落成量186伙，环比分别减少逾99%及95%。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-21",
+      "time": "14:57",
+      "keywords": []
+    },
+    {
+      "title": "建发股份与中国地质调查局发展研究中心签署合作协议",
+      "source": "观点地产网",
+      "url": "https://finance.sina.com.cn/stock/estate/integration/2026-09-21/doc-inisrhfz2656655.shtml",
+      "content": "观点网讯：9月21日，建发股份与中国地质调查局发展研究中心在厦门签署合作协议。根据协议，双方将在国内外地质调查与矿产勘查、地质资料信息服务共享...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-21",
+      "time": "14:54",
+      "keywords": []
+    },
+    {
+      "title": "奕斯伟计算通过港交所上市聆讯 2025年营收24.31亿元",
+      "source": "观点地产网",
+      "url": "https://finance.sina.com.cn/stock/estate/integration/2026-09-21/doc-inisrhfx5916953.shtml",
+      "content": "观点网讯：9月21日，据港交所文件，北京奕斯伟计算技术股份有限公司通过港交所上市聆讯。公司采用无晶圆厂（Fabless）业务模式，以RISC-V为底座...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-21",
+      "time": "14:53",
+      "keywords": []
+    },
+    {
+      "title": "重大资产重组方案“大瘦身”，301213：收购草案出炉，全用现金买",
+      "source": "每日经济新闻",
+      "url": "https://finance.sina.com.cn/roll/2026-09-21/doc-inisrhfx5915221.shtml",
+      "content": "每经记者|文多每经编辑|黄胜 近9个月后，观想科技（301213.SZ，股价45.88元，市值51.39亿元）对锦州辽晶电子科技股份有限公司（以下简称辽晶电子）的收购方案迎来重大调整...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-21",
+      "time": "14:52",
+      "keywords": []
+    },
+    {
+      "title": "002723，控股股东提议罢免一董事",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/stock/s/2026-09-21/doc-inisrhft7493036.shtml",
+      "content": "9月21日，小崧股份（002723）一连抛出三份公告。其中，一份临时提案提到，控股股东嘉晟时代提议罢免董事徐驰。 提交罢免提案 撤回选举提案 公告显示，9月18日...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-21",
+      "time": "14:51",
       "keywords": []
     },
     {
