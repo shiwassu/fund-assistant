@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-23T18:36:09.310544",
+  "updated": "2026-09-23T21:46:44.621605",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,25 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 24,
-    "medium": 22,
-    "low": 104
+    "high": 23,
+    "medium": 20,
+    "low": 107
   },
   "items": [
+    {
+      "title": "9月24日收盘：纳指跌超1% 美债收益率飙升",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-24/doc-iniswezr5124532.shtml",
+      "content": "周三，美股三大指数下跌，因通胀担忧推动美国国债收益率飙升，投资者担心美联储可能还会进一步加息。 道指跌352.10点，跌幅0.68%，报51511.59点；标普500指数跌58.61点...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-23",
+      "time": "20:36",
+      "keywords": []
+    },
     {
       "title": "欧洲债市：法国国债溢价飙升 油价上涨推升欧洲央行加息押注",
       "source": "环球市场播报",
@@ -136,34 +150,6 @@
       "period": "noon",
       "date": "2026-09-23",
       "time": "14:41",
-      "keywords": []
-    },
-    {
-      "title": "10年期美债收益率飙升至19年来新高",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-23/doc-inisvumx0991362.shtml",
-      "content": "周三，美国国债收益率大幅走高，此前新公布的服务业和制造业数据加剧了市场对美联储进一步加息的担忧。 2年期美国国债收益率跃升8个基点至4.464%。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-23",
-      "time": "14:30",
-      "keywords": []
-    },
-    {
-      "title": "瞄准数据中心散热需求 SK Enmove与LG电子联合研发制冷剂及浸没冷却技术",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-23/doc-inisvumx0989368.shtml",
-      "content": "随着AI数据中心的不断扩张，专注于高效处理服务器散热问题的热管理市场，正成为炼油行业一个全新的增长领域。炼油企业正在突破传统润滑油业务的边界...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-23",
-      "time": "14:26",
       "keywords": []
     },
     {
@@ -375,6 +361,20 @@
       ]
     },
     {
+      "title": "9月24日热门中概股多数下跌，阿里巴巴跌超4%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-24/doc-iniswezr5132641.shtml",
+      "content": "9月24日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）收跌1.14%。 上涨个股（按市值从高到低）：中华电信涨0.20%，贝壳涨1.28%，理想汽车涨0.34%，新东方涨2.45%。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-23",
+      "time": "21:03",
+      "keywords": []
+    },
+    {
       "title": "欧洲股市下跌 布伦特原油升破100美元盖过强劲PMI利好",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisvytv0918600.shtml",
@@ -484,48 +484,6 @@
       "period": "noon",
       "date": "2026-09-23",
       "time": "14:37",
-      "keywords": []
-    },
-    {
-      "title": "9月23日龙虎榜，机构青睐这17股",
-      "source": "证券时报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-23/doc-inisvumr5831012.shtml",
-      "content": "9月23日沪指下跌0.39%，盘后龙虎榜数据显示，机构现身27只个股龙虎榜，净买入17只，净卖出10只。深沪股通席位出现在21只个股龙虎榜。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-23",
-      "time": "14:34",
-      "keywords": []
-    },
-    {
-      "title": "“大空头”，发出警告！芯片股，集体下跌！",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/wm/2026-09-23/doc-inisvumt8449829.shtml",
-      "content": "芯片股大跌。 当地时间9月23日（周三），美股三大股指集体低开，截至发稿，道琼斯指数下跌0.13%，标普500指数下跌0.55%，纳斯达克指数下跌1.13%。",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-09-23",
-      "time": "14:31",
-      "keywords": []
-    },
-    {
-      "title": "账面减亏难言回暖，海南橡胶主业盈利与现金流双重承压",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-23/doc-inisvumt8461572.shtml",
-      "content": "海南橡胶(SH601118)主营天然橡胶种植、加工及贸易业务，海外收入占比约三分之二，业务结构具备显著的国际化特征。公司2026年半年报呈现出显著的业绩分化特征：账面亏损有所...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-23",
-      "time": "14:26",
       "keywords": []
     },
     {
@@ -704,6 +662,76 @@
       "keywords": [
         "商圈"
       ]
+    },
+    {
+      "title": "美国债市：国债重挫 曲线中段领跌 PMI强劲且标售需求疲软",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-24/doc-iniswmip5007464.shtml",
+      "content": "美国国债周三卖压沉重，美国9月PMI数据表现强劲，引发早盘下跌，随后700亿美元5年期美国国债拍卖中标收益率较发行前交易水平高出逾3个基点，推动市场进一步下跌。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-23",
+      "time": "21:23",
+      "keywords": []
+    },
+    {
+      "title": "原油：布伦特回升至100美元之上 出口禁令担忧令美国柴油期货大跌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-24/doc-iniswezp8360518.shtml",
+      "content": " 美国柴油期货重挫，因市场盛传白宫正考虑实施出口禁令。而布伦特回升至100美元之上，交易员消化全球燃料市场失衡以及霍尔木兹海峡新的船只遇袭事件。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-09-23",
+      "time": "21:05",
+      "keywords": []
+    },
+    {
+      "title": "不排斥谈判但拒绝被威胁 伊朗总统向美国释放强硬信号",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-24/doc-iniswezr5108326.shtml",
+      "content": "伊朗总统马苏德·佩泽希齐扬表示，只要制裁和美国封锁仍然存在，伊朗就不会允许霍尔木兹海峡自由通航。这一表态凸显出尽管本周各方努力重启谈判...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-23",
+      "time": "19:59",
+      "keywords": []
+    },
+    {
+      "title": "白宫官员称Politico有关柴油出口禁令的报道不准确",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisvytp5769529.shtml",
+      "content": "一名白宫官员称，Politico有关美国政府正准备实施为期90天柴油出口禁令的报道不准确。 此前该媒体称，美国考虑颁布为期90天的柴油出口禁令。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-23",
+      "time": "18:44",
+      "keywords": []
+    },
+    {
+      "title": "美国能源部长：政府正与炼油企业商讨“自愿”减少柴油出口",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisvytv0932710.shtml",
+      "content": " 美国能源部长克里斯·赖特表示，特朗普政府正与炼油商合作，寻求让他们自愿减少柴油出口，以此替代全面禁止柴油出口的做法。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-09-23",
+      "time": "18:43",
+      "keywords": []
     },
     {
       "title": "美国考虑颁布为期90天的柴油出口禁令",
@@ -1071,34 +1099,6 @@
         "小米",
         "Xiaomi 18 Pro"
       ]
-    },
-    {
-      "title": "SoFi调查：72%美国人愿意放缓财富积累，优先享受当下生活",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-23/doc-inisvumt8446375.shtml",
-      "content": "当下，各类 “极致优化（maxxing）” 风潮非常流行。美国人，尤其是 Z 世代，追捧一系列网络热门趋势：把生活方方面面做到极致，比如最大化利用年假...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-23",
-      "time": "14:29",
-      "keywords": []
-    },
-    {
-      "title": "民企500强洗牌：浙苏鲁粤领跑，上榜房企由44家跌至5家，新能源企业数翻倍",
-      "source": "",
-      "url": "https://finance.sina.com.cn/roll/2026-09-23/doc-inisvumt8446263.shtml",
-      "content": "9月22日，全国工商联发布“2026中国民营企业500强”榜单。京东集团、阿里巴巴（中国）有限公司、恒力集团有限公司位列榜单前三。",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-09-23",
-      "time": "14:26",
-      "keywords": []
     },
     {
       "title": "美股“七巨头”盈利增速仍领先大盘，AI投资则进入更加分化的新阶段",
