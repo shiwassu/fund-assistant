@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-24T18:38:32.048777",
+  "updated": "2026-09-24T23:24:39.528115",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,68 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 29,
-    "medium": 21,
-    "low": 100
+    "high": 20,
+    "medium": 22,
+    "low": 108
   },
   "items": [
+    {
+      "title": "瑞银股价上涨 有报道称其考虑与外国银行合并",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqn9834687.shtml",
+      "content": " 瑞银股价在美国市场一度上涨1.9%，之前Semafor援引未具名知情人士报道，瑞银已重启有关如何让该行脱离瑞士监管机构管辖的讨论，其中包括与一家外国银行合并。",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "23:03",
+      "keywords": []
+    },
+    {
+      "title": "美国30年期国债收益率创逾二十年最高 财政部回购规模低于预期",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqn9834569.shtml",
+      "content": "美国超长期国债收益率升至20多年来最高水平，对通胀和政府债务负担加重的忧虑推动全球债市持续承压。 油价周四再度大涨，推动5年至30年期美国国债收益率在震荡交易中升至多...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "23:02",
+      "keywords": []
+    },
+    {
+      "title": "美国正寻求推翻欧盟对马斯克X平台的1.2亿欧元罚款",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqf4673924.shtml",
+      "content": " 美国正寻求加入埃隆·马斯克提起的法律诉讼，以推翻欧盟因社交媒体平台X违反网络规则而对其开出的1.2亿欧元（约合1.365亿美元）罚款。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "22:57",
+      "keywords": []
+    },
+    {
+      "title": "大宗商品综述：油价涨 供应紧张削弱对协议的乐观 金价跌 锌价升",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqi7879222.shtml",
+      "content": "原油上涨，多项关键市场指标显示供应紧张，盖过了推动霍尔木兹海峡重开的外交努力取得进展的迹象。金价下跌，因油价反弹强化市场对于美联储需继续加息以遏制通胀的预期。",
+      "priority": "high",
+      "sectors": [
+        "黄金",
+        "有色"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "22:44",
+      "keywords": []
+    },
     {
       "title": "费城联储主席保尔森：未来或迎来“适度” 加息，以此遏制通胀",
       "source": "环球市场播报",
@@ -38,188 +95,6 @@
       "period": "noon",
       "date": "2026-09-24",
       "time": "17:09",
-      "keywords": []
-    },
-    {
-      "title": "费城联储行长保尔森称或需进一步小幅加息",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-24/doc-inisxxkv4976863.shtml",
-      "content": "费城联邦储备银行行长安娜·保尔森表示可能需要进一步提高利率，以确保通胀率回到央行2%的目标水平。 “展望未来，如果情况按照我的预期发展...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "15:13",
-      "keywords": []
-    },
-    {
-      "title": "欧洲央行管委Radev：必须给之前的加息行动足够的时间发挥作用",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisxxkv4956815.shtml",
-      "content": " 欧洲央行管理委员会委员Dimitar Radev表示，在判断此前加息是否正在有效遏制通胀之前，决策者不应急于采取进一步行动。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "14:35",
-      "keywords": []
-    },
-    {
-      "title": "甲骨文股价下跌6.1%，公司采取行动规避争议数据中心项目带来的成本风险",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisxxkt8180355.shtml",
-      "content": "事件概况： 周四甲骨文（ORCL）股价下跌6.1%。 下跌背后原因： 新墨西哥州一座大型数据中心项目遭遇公众反对，同时面临监管障碍。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "14:29",
-      "keywords": []
-    },
-    {
-      "title": "标普500指数两大成分股权重集中度创下历史新高",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisxxkt8169598.shtml",
-      "content": "苹果与英伟达，已然成为左右美股大盘走向的两股核心力量。 理财规划机构 Creative Planning 总裁彼得・马卢克指出，标普 500 指数当前对两只个股的权重集中程度...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "14:12",
-      "keywords": []
-    },
-    {
-      "title": "湘财股份：子公司湘财证券收到行政处罚事先告知书",
-      "source": "财联社",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-24/doc-inisxxkr5053803.shtml",
-      "content": "湘财股份(600095.SH)公告称，公司子公司湘财证券收到中国证监会湖南监管局《行政处罚事先告知书》和《行政监督管理措施事先告知书》。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "14:10",
-      "keywords": []
-    },
-    {
-      "title": "邮储银行陵水黎族自治县支行被罚50万元：违反人民币流通管理规定",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-09-24/doc-inisxxkv4938911.shtml",
-      "content": "9月24日金融一线消息，中国人民银行海南省分行行政处罚决定信息公示表显示，邮储银行陵水黎族自治县支行因违反人民币流通管理规定，被中国人民银行海南省分行警告...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "14:08",
-      "keywords": []
-    },
-    {
-      "title": "交通银行孝感分行被罚21万元：违反信用信息采集、提供、查询及相关管理规定",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-09-24/doc-inisxxkv4936402.shtml",
-      "content": "9月24日金融一线消息，中国人民银行孝感市分行行政处罚决定信息公示表显示，交通银行股份有限公司孝感分行因违反信用信息采集、提供、查询及相关管理规定...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "14:05",
-      "keywords": []
-    },
-    {
-      "title": "千亿电子布龙头十余年赚15亿，俩股东一把套现40亿",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-09-24/doc-inisxxkv4971588.shtml",
-      "content": "来源：雷达Finance 雷达财经出品 文|丁禹 编|孟帅 9月22日盘后，宏和科技发布《股东减持股份结果公告》，公司股东SHARP TONE及UNICORN ACE完成此前披露的减持计划...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "14:04",
-      "keywords": []
-    },
-    {
-      "title": "农业银行鄂州分行被罚25万元：占压财政存款或者资金",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-09-24/doc-inisxxkx0210528.shtml",
-      "content": "9月24日金融一线消息，中国人民银行鄂州市分行行政处罚决定信息公示表显示，中国农业银行股份有限公司鄂州分行因占压财政存款或者资金，被中国人民银行鄂州市分行警告...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "14:02",
-      "keywords": []
-    },
-    {
-      "title": "黄梅中银富登村镇银行被罚1.7万元：违反流通人民币管理规定等",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-09-24/doc-inisxxkt8160959.shtml",
-      "content": "9月24日金融一线消息，中国人民银行黄冈市分行行政处罚决定信息公示表显示，黄梅中银富登村镇银行因违反流通人民币管理规定，违反人民币反假规定...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "14:00",
-      "keywords": []
-    },
-    {
-      "title": "河北卢龙农村商业银行被罚198.2万元：违反金融统计规定等",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-09-24/doc-inisxxkx0208929.shtml",
-      "content": "9月24日金融一线消息，中国人民银行秦皇岛市分行行政处罚决定信息公示表显示，河北卢龙农村商业银行因违反金融统计、支付结算、金融科技、货币金银、国库、征信...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "13:57",
-      "keywords": []
-    },
-    {
-      "title": "300211，将摘星脱帽！退市风险警报解除",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/s/2026-09-24/doc-inisxxkt8160291.shtml",
-      "content": "*ST亿通将撤销退市风险警示。 9月24日晚间，*ST亿通（300211）发布公告，公司股票将于9月28日停牌一天，9月29日开市起复牌并撤销退市风险警示...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "13:55",
-      "keywords": []
-    },
-    {
-      "title": "加码光通信等项目！千亿光纤龙头 拟募资不超66.36亿",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-24/doc-inisxxkv4937017.shtml",
-      "content": "【导读】亨通光电拟定增募资不超66.36亿元 9月24日晚间，光纤龙头亨通光电（证券代码：600487）披露定增预案，拟向不超过35名特定投资者发行不超过7.40亿股A股股票...",
-      "priority": "high",
-      "sectors": [
-        "光模块"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "13:55",
       "keywords": []
     },
     {
@@ -448,6 +323,90 @@
       ]
     },
     {
+      "title": "全球债券指数收益率自2007年以来首次升至4%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqf4678792.shtml",
+      "content": "受油价上涨加剧通胀担忧影响，主要国债市场平均收益率升至4%，为2007年以来首次。 彭博国债指数收益率上涨5个基点，报4.04%。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "23:17",
+      "keywords": []
+    },
+    {
+      "title": "9月25日热门中概股多数下跌 台积电涨1.03%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqm4651040.shtml",
+      "content": "9月25日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）收跌0.64%。 上涨个股（按市值从高到低）：台积电涨1.03%，网易涨0.46%，贝壳涨0.60%，腾讯音乐涨1.46%...",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "22:43",
+      "keywords": []
+    },
+    {
+      "title": "对冲基金Situational Awareness今年成为高盛最大客户",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyqhp4742994.shtml",
+      "content": "对冲基金Situational Awareness今年成为高盛规模最大的主经纪商客户。这家机构此前名不见经传，却在遭遇数百亿美元巨额亏损之后，依然拥有如此惊人的业务体量...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "21:09",
+      "keywords": []
+    },
+    {
+      "title": "花旗：日元兑美元跌破159将增加日本当局采取行动的风险",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyqhi4777982.shtml",
+      "content": " 花旗集团策略师Daniel Tobon表示，日元兑美元汇率跌破159，将增加日本当局采取行动的风险，形式可能是利率核查或外汇市场干预。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "21:07",
+      "keywords": []
+    },
+    {
+      "title": "9月25日收盘：道指连续三日收跌 油价、美债收益率维持高位",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyqhi4765190.shtml",
+      "content": " 北京时间周五凌晨，道琼斯工业平均指数连续第三个交易日收跌。处于数十年高位的美债收益率持续压制市场中周期属性最强的板块。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "20:21",
+      "keywords": []
+    },
+    {
+      "title": "OpenAI、Anthropic被要求在完成白宫测试前不能向英国分享新模型",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyqhp4710108.shtml",
+      "content": "据知情人士和一位获准匿名描述该请求的美国政府高级官员透露，白宫已要求 OpenAI 和 Anthropic 在美国政府完成测试之前，不要与英国政府的测试机构分享其最新的人工智能模...",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "20:04",
+      "keywords": []
+    },
+    {
       "title": "债市抛售愈演愈烈，华尔街一款替代债券的交易策略热度飙升",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisycsr8132096.shtml",
@@ -501,76 +460,6 @@
       "period": "noon",
       "date": "2026-09-24",
       "time": "15:31",
-      "keywords": []
-    },
-    {
-      "title": "多期财报信披不准确 晶升股份及董事长等被警示",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-24/doc-inisxxkx0219165.shtml",
-      "content": "9月24日晚间，南京晶升装备股份有限公司（简称“晶升股份”，688478.SH）公告称，因公司2025年一季报、半年报、三季报相关信息披露不准确...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "14:16",
-      "keywords": []
-    },
-    {
-      "title": "面板厂商10月产能利用率将降至80%，四季度欲遏制跌价、甚至涨价",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/roll/2026-09-24/doc-inisxxkt8173889.shtml",
-      "content": "下半年材料价格大概上涨5%-8%，面板厂商也希望通过调整产品价格来消化一部分压力。 9月24日，调研机构Omdia最新研报显示，受年末电视面板需求疲软及IT面板需求低迷的影响...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "14:13",
-      "keywords": []
-    },
-    {
-      "title": "三维通信：9月23日接受机构调研，华源证券参与",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-24/doc-inisxxkt8169503.shtml",
-      "content": "证券之星消息，2026年9月24日三维通信(002115)发布公告称公司于2026年9月23日接受机构调研，华源证券参与。具体内容如下：问：公司2026年上半年业绩大幅增长(营收+173...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "14:06",
-      "keywords": []
-    },
-    {
-      "title": "飞科电器：9月24日召开业绩说明会，投资者参与",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-24/doc-inisxxkr5049768.shtml",
-      "content": "证券之星消息，2026年9月24日飞科电器(603868)发布公告称公司于2026年9月24日召开业绩说明会。具体内容如下：投资者关系活动主要内容问：166*****199飞科电器董事会秘书郭...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "14:03",
-      "keywords": []
-    },
-    {
-      "title": "中国重汽：嘉实基金投资者于9月24日调研我司",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-24/doc-inisxxkt8166041.shtml",
-      "content": "证券之星消息，2026年9月24日中国重汽(000951)发布公告称嘉实基金沈玉梁于2026年9月24日调研我司。具体内容如下：现场调研交流的主要内容如下：问：公司近期的生产经营情况...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "14:02",
       "keywords": []
     },
     {
@@ -767,6 +656,384 @@
       ]
     },
     {
+      "title": "美伊据称磋商分阶段协议 以期重开霍尔木兹海峡",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqn9838776.shtml",
+      "content": " 据知情人士透露，美国与伊朗谈判代表正在磋商一项分阶段协议，内容包括伊朗重开霍尔木兹海峡，美国解除对伊朗港口的封锁。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "23:20",
+      "keywords": []
+    },
+    {
+      "title": "特斯拉将在内华达州新工厂落成典礼上正式推出Semi电动卡车",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqm4665735.shtml",
+      "content": "特斯拉将于当地时间周四晚在内华达州斯帕克斯市的新工厂落成典礼上推出其Semi卡车。这家电动汽车制造商在其官网和社交媒体上表示...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "23:15",
+      "keywords": []
+    },
+    {
+      "title": "特斯拉内华达州工厂投产，重型Semi卡车产量即将提升",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqm4665482.shtml",
+      "content": " 特斯拉将在内华达州斯帕克斯市正式启用首座量产重型电动卡车Semi的工厂，首席执行官埃隆・马斯克借此进军重型卡车领域。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "23:14",
+      "keywords": []
+    },
+    {
+      "title": "GfK：英国消费者信心的提振势头正在减弱",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqn9835847.shtml",
+      "content": " 英国消费者信心在9月仅微幅上升，这表明由安迪·伯纳姆（Andy Burnham）出任首相所引发的乐观情绪，正随着人们对生活成本担忧的加剧而开始消退。",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "23:07",
+      "keywords": []
+    },
+    {
+      "title": "9月25日隔夜要闻：伊朗总统谈浓缩铀 以官员称恢复对伊打击只是时间问题 美国财政部长债回购再次未达上限",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqn9835481.shtml",
+      "content": "市场 9月25日外盘头条：美伊据悉讨论分阶段协议 30年期美债收益率升至2004年来最高 百事可乐将涨价 9月25日美股成交前20：甲骨文收跌3...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "23:05",
+      "keywords": []
+    },
+    {
+      "title": "OpenAI将在数日内预览GPT-6 Cyber",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqf4675623.shtml",
+      "content": "据媒体援引多位知情人士的消息报道，OpenAI 将在数日内预览一款专注于网络安全的人工智能模型 GPT-6 Cyber，并推出一款旨在帮助客户更安全...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "23:04",
+      "keywords": []
+    },
+    {
+      "title": "胡塞武装声称袭击了利雅得和沙特阿美在延布的设施",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqi7887898.shtml",
+      "content": "也门胡塞武装发言人发表声明称，该组织使用弹道导弹、巡航导弹以及无人机，对沙特阿拉伯发动了两次袭击。 发言人称第一次袭击的目标是沙特首都利雅得的一个“敏感目标”；...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "23:03",
+      "keywords": []
+    },
+    {
+      "title": "伊朗总统佩泽希齐扬谈浓缩铀问题：将遵守国际法",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqi7883926.shtml",
+      "content": "伊朗总统马苏德·佩泽希齐扬在接受福克斯新闻采访时通过翻译表示，伊朗将在浓缩铀问题上遵守国际法。 佩泽希齐扬说，如果伊朗遭到袭击，将进行自卫...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "22:55",
+      "keywords": []
+    },
+    {
+      "title": "落实“两国方案”高级别国际会议召开",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-25/doc-inisyuqf4672552.shtml",
+      "content": "当地时间24日，在第81届联合国大会高级别周期间，落实“两国方案”高级别国际会议在纽约联合国总部举行。此次会议由沙特、欧盟和挪威共同主办...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "22:50",
+      "keywords": []
+    },
+    {
+      "title": "视频丨以色列总理联大发言 多国代表集体退场",
+      "source": "环球网",
+      "url": "https://finance.sina.com.cn/roll/2026-09-25/doc-inisyuqi7878276.shtml",
+      "content": "本文转自【央视新闻客户端】； 当地时间9月24日下午，以色列总理内塔尼亚胡在第81届联合国大会一般性辩论发表讲话。现场大多数国家代表离场以示抗议...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "22:38",
+      "keywords": []
+    },
+    {
+      "title": "胡塞武装袭击沙特 声称打击沙特阿美设施",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqm4647938.shtml",
+      "content": "周四，沙特阿拉伯再次遭到胡塞武装的袭击。沙特称，已拦截向红海港口延布和塔伊夫市发射的导弹。 沙特支持的联军表示，已拦截六枚弹道导弹...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "22:36",
+      "keywords": []
+    },
+    {
+      "title": "9月25日美股成交前20：甲骨文收跌3.47% 公司就数据中心发出不可抗力通知",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyuqi7873258.shtml",
+      "content": "周四美股成交额第2名Meta收涨4.50%，成交266.081亿美元。 Meta在其Meta Connect大会上发布了Horizon Create和Horizon Studio。新工具允许用户借助智能体创作能力来构建游戏...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "22:31",
+      "keywords": []
+    },
+    {
+      "title": "直播间买牛奶到手却是清水？网购食品前先做件事",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/consume/xiaofei/2026-09-25/doc-iniswvxm0590995.shtml",
+      "content": "近几年，直播购物和网购食品越来越常见，动动手指就能把各地特产、网红零食送到家，确实方便了不少人。不过，买的人多了，问题也随之而来。",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "22:30",
+      "keywords": []
+    },
+    {
+      "title": "法国将派遣军队保卫沙特石油港口 胡塞组织称对沙特发动新的袭击",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyqhm7995468.shtml",
+      "content": " 法国总统马克龙表示，法国将派遣军队保卫沙特阿拉伯的一座石油工厂。与此同时，伊朗支持的胡塞武装声称对沙特发动了新的袭击。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "22:06",
+      "keywords": []
+    },
+    {
+      "title": "9月25日外盘头条：美伊据悉讨论分阶段协议 30年期美债收益率升至2004年来最高 百事可乐将涨价",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyqhp4756819.shtml",
+      "content": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、美伊据悉讨论分阶段协议 涉及开放霍尔木兹海峡和解除对伊封锁 2、全球债市遭遇抛售...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "21:40",
+      "keywords": []
+    },
+    {
+      "title": "马斯克：若保持强劲加速度 SpaceXAI约6个月后就能领跑",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyqhm7978206.shtml",
+      "content": "马斯克对网友表示，“我持谨慎乐观态度，SpaceX将在两到三个月内推出达到Fable/GPT‑6水准的模型。” 有网友对此表示怀疑，回复称“SpaceXAI大势已去。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "21:23",
+      "keywords": []
+    },
+    {
+      "title": "百事可乐将再次涨价 预计将于年底或2027年初生效",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyqhq9937812.shtml",
+      "content": "百事公司在承诺让零食价格更亲民仅几个月后，便再次上调了部分薯片、汽水和蘸酱的价格。 据知情人士透露，公司预计将上调超市售卖的薯片包装（包括多力多滋 Doritos 和...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "21:09",
+      "keywords": []
+    },
+    {
+      "title": "阿波罗将软银净资产贷款增至92亿美元 支持其人工智能投资",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyqhp4739712.shtml",
+      "content": "据知情人士透露，阿波罗全球管理公司已将提供给软银集团的贷款规模扩大至92亿美元。 此举为这家日本投资巨头提供了更多资金，以支持其加大对ChatGPT开发商OpenAI的投资。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "21:04",
+      "keywords": []
+    },
+    {
+      "title": "美债攀升 全球债券平均收益率为2007年以来的最高水平",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyqhm7964779.shtml",
+      "content": " 美国最长期限国债的收益率攀升至逾二十年来的最高水平，这是受通胀担忧及政府债务负担压力驱动的全球抛售潮中的最新里程碑。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "21:00",
+      "keywords": []
+    },
+    {
+      "title": "原油：布伦特上涨 供应紧张削弱对霍尔木兹海峡协议的乐观情绪",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyqhm7962095.shtml",
+      "content": "原油上涨，多项关键市场指标显示供应紧张，盖过了推动霍尔木兹海峡重开的外交努力取得进展的迹象。 布伦特原油期货结算价接近每桶107美元，盘中一度上涨5%。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "20:54",
+      "keywords": []
+    },
+    {
+      "title": "纽约汇市：美元五连涨 美国长期国债收益率升至数十年高点",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyqhp4721117.shtml",
+      "content": " 美国财政部一项国债回购操作的规模低于市场预期后，美国长期国债收益率升至数十年高点，推动美元连续第五个交易日上涨。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "20:26",
+      "keywords": []
+    },
+    {
+      "title": "美国债市：长期国债延续抛售势头 收益率曲线大幅陡化",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyqhp4713646.shtml",
+      "content": "美国国债收益率曲线周四出现大幅陡化走势，长端收益率继续飙升，而短端2年期收益率当天收盘仅小幅走高。7年期国债标售表现稳健，中标收益率较发行前交易收益率高不到1个基...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "20:11",
+      "keywords": []
+    },
+    {
+      "title": "以色列官员：恢复对伊朗的打击只是时间问题",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyqhm7936962.shtml",
+      "content": "据Al Hadath报道，以色列官员认为，恢复对伊朗的打击只是时间问题。 该官员向媒体透露，以色列情报部门已察觉到伊朗正在试图恢复并重启其核计划，以应对可能遭受的打击。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "20:03",
+      "keywords": []
+    },
+    {
+      "title": "微软CEO安排Brad Smith负责通讯部门",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyqhm7936671.shtml",
+      "content": "一份内部备忘录显示，微软CEO萨提亚·纳德拉（Satya Nadella）对公司公共事务的负责人有了新的安排。 微软总裁Brad Smith将接管公司的通讯部门。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "20:03",
+      "keywords": []
+    },
+    {
+      "title": "美伊据悉讨论分阶段协议 涉及开放霍尔木兹海峡和解除对伊封锁",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyqhp4709058.shtml",
+      "content": " 知情人士称，美国和伊朗谈判代表正在探讨一项分阶段协议，包括伊朗重新开放霍尔木兹海峡，美国解除对伊港口的经济封锁。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "20:02",
+      "keywords": []
+    },
+    {
+      "title": "美国财政部长债回购再次未达上限 总计购入40.8亿美元国债",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyiyt0039207.shtml",
+      "content": "美国财政部周四在长期国债回购操作中回购了40.8亿美元债券。 回购规模低于财政部周三宣布的60亿美元最高额度。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "19:19",
+      "keywords": []
+    },
+    {
+      "title": "特朗普政府称被禁媒体获准重返白宫",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-inisyiyp8050828.shtml",
+      "content": "特朗普政府在提交给法院的文件中表示，已暂时恢复三家媒体进入白宫的权限。此前，特朗普上周禁止这些媒体进入白宫。 在联邦法院下令暂停执行相关禁令后...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-24",
+      "time": "19:00",
+      "keywords": []
+    },
+    {
       "title": "美国7年期国债中标收益率创2009年以来最高",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-09-25/doc-inisycsv0141069.shtml",
@@ -862,272 +1129,6 @@
       "period": "noon",
       "date": "2026-09-24",
       "time": "15:50",
-      "keywords": []
-    },
-    {
-      "title": "沙特一度警告麦加、延布和吉达等地面临潜在危险",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-24/doc-inisycst4851527.shtml",
-      "content": " 沙特阿拉伯民防部门在社交媒体平台X上发布多则消息称，麦加市、红海港口城市吉达和延布，以及塔伊夫和塔布克地区面临潜在危险。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "15:29",
-      "keywords": []
-    },
-    {
-      "title": "前任CEO查佩克仍对被迪士尼解雇一事耿耿于怀",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisycst4851443.shtml",
-      "content": "鲍勃・查佩克称，自己从一开始就没有机会。 这是他 2022 年末被免去迪士尼首席执行官一职后的首次正式采访。在历经动荡的 33 个月 CEO 任期之后，他表示...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "15:28",
-      "keywords": []
-    },
-    {
-      "title": "甲骨文就数据中心项目发出“不可抗力”通知，股价大跌5%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisxxkt8207287.shtml",
-      "content": "核心要点甲骨文向其新墨西哥州数据中心项目的开发商发送了一份 “不可抗力” 通知。如果该项目无法在 2028 年如期投用，甲骨文打算推迟付款。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "15:20",
-      "keywords": []
-    },
-    {
-      "title": "证监会出手，两家券商被处理，暂停新开证券账户3个月",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-24/doc-inisxxkx0237296.shtml",
-      "content": "9月24日，国盛证券公告，公司此前于2026年7月31日收到中国证监会立案告知书，因涉嫌违反账户实名制等规定被立案。2026年9月24日，公司及相关当事人收到江西证监局《行政处...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "15:12",
-      "keywords": []
-    },
-    {
-      "title": "全球债券抛售潮加剧，推高世界各地借贷成本",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisxxkr5075988.shtml",
-      "content": " 周四早盘，美国 30 年期美债收益率一度冲高至 5.45%，创下 2004 年以来新高，本轮抛售持续发酵，全球各国债券收益率同步走高。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "15:11",
-      "keywords": []
-    },
-    {
-      "title": "诺顿杀毒软件母公司向GoDaddy发出收购要约",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisxxkr5067988.shtml",
-      "content": "诺顿360杀毒软件的母公司已向网站域名服务商GoDaddy提出收购要约，希望借此将业务范围扩展至网络安全和隐私技术之外。 据知情人士透露...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "14:43",
-      "keywords": []
-    },
-    {
-      "title": "Meta押注Muse智能AI助手，密集推出多款全新硬件产品",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisxxkt8183568.shtml",
-      "content": " 随着 AI 安全方面的担忧持续升温，Meta 仍在持续推出全新 AI 设备与智能体，该公司相信这类产品终将成为人们日常生活的必需品。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "14:34",
-      "keywords": []
-    },
-    {
-      "title": "科技巨头，引爆“大雷”！",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/s/2026-09-24/doc-inisxxkt8187017.shtml",
-      "content": "甲骨文的变数又来！ 最新消息显示，甲骨文就新墨西哥州数据中心发出不可抗力通知。该公司正采取措施，以避免在新墨西哥州建设的大型数据中心产生巨额支出...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "14:30",
-      "keywords": []
-    },
-    {
-      "title": "视频 | 拾光纪·欢迎仪式现场，特朗普夫妇热情迎接习近平主席",
-      "source": "人民日报",
-      "url": "https://finance.sina.com.cn/china/2026-09-24/doc-inisxxkv4964550.shtml",
-      "content": "",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "14:29",
-      "keywords": []
-    },
-    {
-      "title": "IPO独家采访｜纳真科技CEO洪进：“光”是AI算力的底座 纳真的下一站是量产与全球化",
-      "source": "港股一线",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkyx/2026-09-24/doc-inisxxkt8180554.shtml",
-      "content": "文/新浪财经香港站 赵岚 9月22日，光模块头部公司纳真科技（9856.HK）港股挂牌，公司发行价32.96港元每股，募资近57亿港元，挂牌首日最高涨幅约19%，最终收涨4.6%...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "14:29",
-      "keywords": []
-    },
-    {
-      "title": "满足全球生物燃料需求，或将需要相当于美国蒙大拿州大小的土地",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisxxkr5055710.shtml",
-      "content": "眼下做柴油生意正逢好时机，就连农场产出的生物柴油也不例外。 以大豆油为原料的生物柴油生产成本高于普通柴油；它之所以能够盈利，完全依靠补贴...",
-      "priority": "low",
-      "sectors": [
-        "医药"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "14:22",
-      "keywords": []
-    },
-    {
-      "title": "亚马逊斥资1亿美元新建印第安纳州基地，扩大机器人产能",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisxxkx0217563.shtml",
-      "content": "内容摘要 亚马逊正扩大机器人生产规模，计划投入超 1 亿美元，在印第安纳州格林伍德新建一座机器人制造工厂。 作为全球最大的机器人制造商之一...",
-      "priority": "low",
-      "sectors": [
-        "机器人"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "14:18",
-      "keywords": []
-    },
-    {
-      "title": "300211，将“摘星脱帽”！下周一停牌",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-09-24/doc-inisxxkv4945143.shtml",
-      "content": "每经记者|黄博文每经编辑|张益铭 9月24日晚间，*ST亿通（SZ300211，股价6.98元，市值21.21亿元）公告称，公司股票将于9月28日停牌一天...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "14:15",
-      "keywords": []
-    },
-    {
-      "title": "【新股IPO】奥比中光科技向港交所主板递交上市申请",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-24/doc-inisxxkr5054934.shtml",
-      "content": "金吾财讯 | 据港交所9月24日文件披露，奥比中光科技集团股份有限公司向港交所主板递交H股上市申请书，为首次呈交申请版本，联席保荐人为高盛...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "14:14",
-      "keywords": []
-    },
-    {
-      "title": "硕世生物控制权纷争升级：控股股东提请召开临时股东会以推动董事会换届，现任董事长未在提名名单中",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-24/doc-inisxxkt8176396.shtml",
-      "content": "继7月三位实控人“散伙”后，硕世生物(SH688399，股价27.63元，市值34.30亿元)的内部纷争再度升级。9月24日晚间，硕世生物公告称，公司于9月22日收到控股股东绍兴闰康生物医...",
-      "priority": "low",
-      "sectors": [
-        "医药"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "14:11",
-      "keywords": []
-    },
-    {
-      "title": "美国8月份新建住宅折合年率销量上升6.4%至68.4万套",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisxxkt8164861.shtml",
-      "content": "美国8月份新建住宅折合年率销量预估为61.6万套。 44位经济学家的预估区间为57.5万套-65.0万套。 新建住宅价格中值较上年同期下跌5.8%至393，700美元。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "14:06",
-      "keywords": []
-    },
-    {
-      "title": "一周连发十多篇“小作文”，粉笔超格“公考大战”还没完？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/china/2026-09-24/doc-inisxxkt8199788.shtml",
-      "content": "来源：雷达Finance 雷达财经出品 文|周慧 编|孟帅 9月22日，超格教育创始人孔超发布《致粉笔公考及超格公考全体学员的致歉信》，就侵权行为向粉笔及超格全体学员致歉...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "14:04",
-      "keywords": []
-    },
-    {
-      "title": "源杰科技：控股股东及一致行动人拟合计减持不超0.23%股份",
-      "source": "财联社",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-24/doc-inisxxkt8161522.shtml",
-      "content": "源杰科技(688498.SH)公告称，公司控股股东、实际控制人ZHANGXINGANG及一致行动人秦燕生、秦卫星、张欣颖因自身资金需求，计划通过集中竞价或大宗交易方式合计减持公司股份...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "13:56",
-      "keywords": []
-    },
-    {
-      "title": "OpenAI智能体在搜集数据期间，又尝试入侵另外四家网站",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-24/doc-inisxxkt8156800.shtml",
-      "content": "今年早些时候，OpenAI的人工智能智能体在执行常规线上数据采集任务时，为获取信息采取了极端手段。 非营利人工智能研究实验室Transluce以及澳大利亚政府最新公布的调查结果...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-09-24",
-      "time": "13:53",
       "keywords": []
     },
     {
