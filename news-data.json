@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-25T17:30:41.824851",
+  "updated": "2026-09-25T21:48:05.374543",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,67 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 26,
-    "medium": 28,
-    "low": 96
+    "high": 28,
+    "medium": 27,
+    "low": 95
   },
   "items": [
+    {
+      "title": "纽约汇市：美元指数回落 日元势创近三周最佳表现",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-26/doc-initatfi3887718.shtml",
+      "content": "美元兑多数G10货币下跌，此前公布的一项消费者信心指标高于经济学家的预期后，长期美债延续跌势。日元有望创接近三周最大涨幅，此前日本官员在与美国官员会晤时讨论了日元...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-25",
+      "time": "20:51",
+      "keywords": []
+    },
+    {
+      "title": "美国债市：短端获油价下跌支撑 收益率曲线陡化延续",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-26/doc-initatfp4161731.shtml",
+      "content": "美国国债收益率曲线短端和中段品种周五大幅反弹，本周跌幅有所收窄，收益率升至多年高点之际，债券逢低买盘进场。长端收益率日内则小幅走高，30年期收益率突破5.5%...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-25",
+      "time": "20:50",
+      "keywords": []
+    },
+    {
+      "title": "纽约联储博客：美联储采用“证券主导型”准备金管理方式",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-26/doc-initatfm7377029.shtml",
+      "content": " 纽约联储“Teller Window”博客文章称，在全球央行如何管理银行体系准备金方面，美联储与英国央行、欧洲央行采取的方式存在明显差异。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-25",
+      "time": "20:11",
+      "keywords": []
+    },
+    {
+      "title": "SEC拟投票放宽私募市场准入 扩大合格投资者范围",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initatfm7362036.shtml",
+      "content": "美国证券交易委员会（SEC）正审议多项提案，计划于下周举行委员会投票，放宽限制，让散户投资者更多参与私募市场。 其中一项监管举措旨在扩大可投资私募项目的资质认定范围...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-25",
+      "time": "19:25",
+      "keywords": []
+    },
     {
       "title": "美国30年期国债收益率突破5.5% 技术位缺失令市场陷入“真空”",
       "source": "环球市场播报",
@@ -150,34 +206,6 @@
       "period": "noon",
       "date": "2026-09-25",
       "time": "14:13",
-      "keywords": []
-    },
-    {
-      "title": "历史表明，利率如此快速上行往往会爆发金融灾难：“总会有地方爆雷”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaaiv4413099.shtml",
-      "content": "核心要点周三，美国 10 年期美债收益率创下 2025 年初以来最大单日涨幅；周四，该收益率攀升至 2007 年 7 月以来最高水平。22V 研究公司的约翰・罗克研究发现...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-09-25",
-      "time": "14:04",
-      "keywords": []
-    },
-    {
-      "title": "高盛料明年超大规模云服务商AI资本支出增长逾50%至1.2万亿美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaaiv4400238.shtml",
-      "content": "高盛集团策略师预计，美国五大超大规模云服务商明年在AI基础设施方面的支出将增长逾50%，达到1.2万亿美元。 Ryan Hammond领衔的团队在一份报告中表示...",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-09-25",
-      "time": "13:39",
       "keywords": []
     },
     {
@@ -406,6 +434,76 @@
       ]
     },
     {
+      "title": "美国股市：主要股指普涨 霍尔木兹海峡重开希望推动油价回落",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-26/doc-initaxpi7275068.shtml",
+      "content": "美国股市周五上涨，油价回落盖过了消费者信心下降的影响。 标普500指数上涨0.5%，以科技股为主的纳斯达克100指数上涨0.4%。 周五大部分涨幅出现在报道称伊朗向美国提出重开...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-25",
+      "time": "21:37",
+      "keywords": []
+    },
+    {
+      "title": "OpenAI通知包括政府部门在内的数十家机构 称其网站或遭AI干扰",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-26/doc-initaxpi7266546.shtml",
+      "content": " OpenAI表示，该公司已通知包括政府部门和大学在内的“数十家”机构，它们的网站可能因OpenAI在评估技术期间人工智能模型的访问而受到影响。",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-09-25",
+      "time": "21:11",
+      "keywords": []
+    },
+    {
+      "title": "9月26日收盘：美股三大指数收涨且周线齐涨 市场无视债券抛售 苹果再创新高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-26/doc-initatfp4160592.shtml",
+      "content": "美股三大指数集体收涨，并均录得周线涨幅。尽管债市抛售推动10年期美债收益率升至金融危机以来最高水平，市场仍展现出韧性。与此同时...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-25",
+      "time": "20:47",
+      "keywords": []
+    },
+    {
+      "title": "黑石私募股权策略主管Joe Baratta据悉洽谈离职",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-26/doc-initatfm7364041.shtml",
+      "content": "知情人士称，黑石集团私募股权策略主管Joe Baratta正在洽谈于年底前离职，从而结束其在该公司28年的任职生涯。Baratta是黑石重要的交易撮合者...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-25",
+      "time": "19:34",
+      "keywords": []
+    },
+    {
+      "title": "特朗普将于周二推出AI驱动的新网站America.gov",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxp7458924.shtml",
+      "content": "美国总统特朗普将发布一个由人工智能（AI）驱动的新网站，整合目前分散在各联邦机构网站上的政府信息和资源。 福克斯新闻称，特斯拉首席执行官埃隆·马斯克...",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-09-25",
+      "time": "17:53",
+      "keywords": []
+    },
+    {
       "title": "欧洲债市：德国30年期国债收益率攀升至2011年以来最高",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxs9130107.shtml",
@@ -543,90 +641,6 @@
       "period": "noon",
       "date": "2026-09-25",
       "time": "14:30",
-      "keywords": []
-    },
-    {
-      "title": "美股芯片股，集体上涨",
-      "source": "第一财经",
-      "url": "https://finance.sina.com.cn/wm/2026-09-25/doc-initahru9225733.shtml",
-      "content": "美股三大股指小幅高开，道指涨0.35%，标普500指数涨0.26%，纳指涨0.31%。 存储芯片板块上涨，闪迪涨超2%，美光科技、SK海力士、希捷科技涨超1%。",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-09-25",
-      "time": "13:53",
-      "keywords": []
-    },
-    {
-      "title": "开盘：主要股指小幅走高，阿卡迈领涨科技板块",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaaiv4396807.shtml",
-      "content": "美债收益率飙升在金融市场掀起连锁反应，华尔街即将结束一周震荡行情，周五美国主要股指小幅走高。 道指涨0.10%，标普500指数涨0.05%，纳指涨0.15%。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-25",
-      "time": "13:30",
-      "keywords": []
-    },
-    {
-      "title": "开市客公布75亿美元大规模扩张计划",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaaiw9343748.shtml",
-      "content": "在又一个业绩亮眼的财季过后，仓储会员店开市客（Costco Wholesale）公布 2027 财年 75 亿美元资本开支方案，加速推进业务扩张。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-25",
-      "time": "13:18",
-      "keywords": []
-    },
-    {
-      "title": "000503，139家机构扎堆调研",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/stock/2026-09-25/doc-initaaiv4384863.shtml",
-      "content": "来源：中国基金报 【导读】国新健康（000503）的业绩说明会以电话会议形式召开，139家机构参会，南方基金20人参会 中国基金报记者 江右 由于中秋节假期...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-25",
-      "time": "12:58",
-      "keywords": []
-    },
-    {
-      "title": "火遍全球的Muse，点燃AI投资新热情？",
-      "source": "中国证券报",
-      "url": "https://finance.sina.com.cn/stock/2026-09-25/doc-initaaiv4385547.shtml",
-      "content": "扎克伯格给华尔街造了一个新“缪斯”——Muse。 Meta旗下Muse上线两周火遍全球，“木头姐”重金加仓，多家投行上调Meta评级或目标价。 截至当地时间9月24日美股收盘...",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-09-25",
-      "time": "12:57",
-      "keywords": []
-    },
-    {
-      "title": "开盘：纳指期货涨0.73% 布伦特原油下跌1%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaair4176664.shtml",
-      "content": "周五美股股指期货小幅上涨。美债收益率飙升搅动整个金融市场，华尔街即将结束这一周震荡起伏的交易行情。 截至发稿，道指期货涨0.41%，标普500指数期货涨0.40%...",
-      "priority": "medium",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-09-25",
-      "time": "12:30",
       "keywords": []
     },
     {
@@ -824,6 +838,146 @@
       ]
     },
     {
+      "title": "沙特原油出口创伊朗战争以来新高，管道停运难阻出口激增",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-26/doc-initaxpm4046939.shtml",
+      "content": "根据贸易情报公司Kpler的数据，尽管与武装战斗急剧升级，沙特阿拉伯本月原油出口仍大幅飙升。 利雅得9月出口量为每日600万桶，为约七个月前伊朗战争爆发以来最高水平。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-09-25",
+      "time": "21:35",
+      "keywords": []
+    },
+    {
+      "title": "原油：WTI下跌 交易员权衡美伊霍尔木兹海峡谈判进展",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-09-26/doc-initaxpi7263134.shtml",
+      "content": "原油下跌，因有初步迹象显示，美伊围绕重开全球最重要能源运输通道的谈判正在取得进展。 WTI期货下跌约2.3%，结算价接近每桶92美元，录得8月底以来首次单周下跌...",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-09-25",
+      "time": "21:04",
+      "keywords": []
+    },
+    {
+      "title": "Anthropic正谈判租赁最高1吉瓦算力 投入至少400亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initatfm7386833.shtml",
+      "content": " Anthropic正开展初步谈判，拟从阿波罗全球管理控股的数据中心开发商手中租赁最高1吉瓦的算力容量。这是这家AI企业降低对云服务商依赖的重大举措。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-09-25",
+      "time": "20:43",
+      "keywords": []
+    },
+    {
+      "title": "摩根士丹利：甲骨文数据中心事件引发合同风险担",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initatfm7383265.shtml",
+      "content": "摩根士丹利称，甲骨文公司向新墨西哥州大型数据中心开发商发出不可抗力通知，令相关贷款与租赁文件再度受到审视，也让计划通过债务市场融资建设AI基础设施的企业面临更多挑...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-25",
+      "time": "20:32",
+      "keywords": []
+    },
+    {
+      "title": "通用汽车研发低成本锰基电池 计划28年落地平价电动车",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initatfm7367898.shtml",
+      "content": "过去一年，美国密歇根州沃伦市通用汽车一座大型实验室的研究人员，调试出18款新型电池化学体系方案，目标是降低电池成本——电池高昂成本正是制约美国消费者购买电动车的最大...",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-09-25",
+      "time": "19:46",
+      "keywords": []
+    },
+    {
+      "title": "美军：过去两天在霍尔木兹海峡迫使7艘商船改航",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxp7472033.shtml",
+      "content": "美军中央司令部在X平台发布消息称，过去两天，美国针对霍尔木兹海峡实施的封锁行动，已迫使7艘商船更改航线。 这项针对进出伊朗港口船舶的封锁于7月14日重启。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-25",
+      "time": "18:23",
+      "keywords": []
+    },
+    {
+      "title": "塔斯社：普京称所有和平方案都在考虑中 俄罗斯欢迎会谈",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxp7469903.shtml",
+      "content": "俄罗斯总统弗拉基米尔·普京在圣彼得堡对记者表示，所有和平方案都在考虑之中，但俄罗斯必须考虑什么符合自身利益。 普京称，俄罗斯原本准备在乌克兰议会选举后恢复与基辅的...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-25",
+      "time": "18:17",
+      "keywords": []
+    },
+    {
+      "title": "美官员：就重开霍尔木兹海峡协议开展谈判 但美方不急于达成协议",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxs9139055.shtml",
+      "content": " 一名美国官员表示，在德黑兰提出方案——一旦提议获得接纳，就开放霍尔木兹海峡并重启谈判之后，美国正与伊朗进行“积极且具有建设性的”磋商。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-25",
+      "time": "17:50",
+      "keywords": []
+    },
+    {
+      "title": "市场对美伊达成协议萌生初步期待 油价小幅回落",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxr4228656.shtml",
+      "content": " 周五，有消息传出美伊之间可能释放旨在结束冲突的示好信号，油价小幅回落。在经历一周震荡之后，该消息也对股市形成支撑。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-25",
+      "time": "17:47",
+      "keywords": []
+    },
+    {
+      "title": "特朗普称贝森特不会成为AI事务负责人",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxp7455701.shtml",
+      "content": "美国总统特朗普表示，财政部长斯科特·贝森特不会成为他的人工智能（AI）事务负责人。 特朗普周五在Truth Social发帖表示： “第一，他本人不想做。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-09-25",
+      "time": "17:46",
+      "keywords": []
+    },
+    {
       "title": "美国财长贝森特与日本财务大臣片山皋月讨论强势日元的“可取性”",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initanxr4215531.shtml",
@@ -975,160 +1129,6 @@
       "period": "noon",
       "date": "2026-09-25",
       "time": "14:24",
-      "keywords": []
-    },
-    {
-      "title": "微软将企业级AI整合至单一应用，与Anthropic展开竞争",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initahrt4286331.shtml",
-      "content": "核心要点微软面向企业员工更新 Copilot 应用，意在挑战 Anthropic 旗下 Claude 产品。新版应用融合代码编写能力，搭配可自主沟通、承接工作任务的 AI 智能体搭建工具。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-09-25",
-      "time": "14:13",
-      "keywords": []
-    },
-    {
-      "title": "习近平主席夫妇将同美国总统特朗普夫妇茶叙",
-      "source": "央视新闻客户端",
-      "url": "https://finance.sina.com.cn/stock/2026-09-25/doc-initahrt4286049.shtml",
-      "content": "当地时间9月25日上午，国家主席习近平和夫人彭丽媛将同美国总统特朗普和夫人梅拉尼娅在白宫举行茶叙。（央视新闻）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-25",
-      "time": "14:13",
-      "keywords": []
-    },
-    {
-      "title": "视频|央视财经专访马斯克 完整版来了!",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/roll/2026-09-25/doc-initahrp4066062.shtml",
-      "content": "",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-25",
-      "time": "14:07",
-      "keywords": []
-    },
-    {
-      "title": "受片山皋月言论提振 日元涨幅扩大至逾1%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaair4192593.shtml",
-      "content": " 日元在纽约早盘延续涨势，日内升幅超过1%。此前日本财务大臣片山皋月表示，市场对日元疲软存在误解，日元过度抛售可能得到纠正。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-25",
-      "time": "13:51",
-      "keywords": []
-    },
-    {
-      "title": "油价连涨两日后略有回落 美伊据悉探索分阶段协议",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaaiv4400962.shtml",
-      "content": "随着美国和伊朗谈判人员探讨分阶段重新开放全球最重要能源航运通道的协议，油价小幅回落。 布伦特原油期货在每桶105美元附近交投...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-25",
-      "time": "13:40",
-      "keywords": []
-    },
-    {
-      "title": "马斯克放下豪言：SpaceX数据中心项目GPU数量到年底将翻一倍！",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/t/2026-09-25/doc-initaaiw9347220.shtml",
-      "content": "来源：财联社 财联社9月25日讯（编辑 马兰）马斯克周四表示，SpaceX的人工智能超级计算机Colossus 2项目计划大规模扩张，到今年年底其使用的英伟达芯片数量将较目前翻一倍...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-09-25",
-      "time": "13:28",
-      "keywords": []
-    },
-    {
-      "title": "特斯拉Optimus机器人量产遇阻：手部结构、供应链问题凸显，扩产进程启动",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaaiw9343490.shtml",
-      "content": " 知情人士透露，近几个月特斯拉Optimus人形机器人产量提升约10倍，但公司仍难以实现稳定规模化量产。产线正面临机器人精密手部组件、自动化设备以及供应链受限等多重难题。",
-      "priority": "low",
-      "sectors": [
-        "机器人"
-      ],
-      "period": "noon",
-      "date": "2026-09-25",
-      "time": "13:17",
-      "keywords": []
-    },
-    {
-      "title": "阿卡迈拿下116亿美元Anthropic大单，股价大幅飙升",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaair4182748.shtml",
-      "content": " 周四，阿卡迈技术公司宣布与人工智能巨头 Anthropic 签订一份价值 116 亿美元、为期七年的合作合约，公司盘前交易阶段股价最高上涨 20%。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-25",
-      "time": "13:11",
-      "keywords": []
-    },
-    {
-      "title": "视频|特朗普向中方赠送一座白头鹰雕像 由特朗普夫妇亲自参与设计",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/2026-09-25/doc-initaait7604310.shtml",
-      "content": "来源：直新闻 当地时间9月24日晚，美国总统特朗普在白宫为中国国家主席习近平举行欢迎晚宴。 特朗普在白宫欢迎宴会上发表致辞时表示：“我很荣幸向中国领导人赠送一份礼物...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-25",
-      "time": "12:49",
-      "keywords": []
-    },
-    {
-      "title": "老铺黄金最大门店亮相上海恒隆",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/tob/2026-09-25/doc-initaaiv4373700.shtml",
-      "content": "9月25日消息，老铺黄金上海恒隆广场新门店正式亮相。新门店位于恒隆广场二层核心区，面积超过350平方米，是老铺黄金国内面积最大的门店...",
-      "priority": "low",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "noon",
-      "date": "2026-09-25",
-      "time": "12:44",
-      "keywords": []
-    },
-    {
-      "title": "乌克兰称袭击导致俄罗斯两座炼油厂起火",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-25/doc-initaaiw9332846.shtml",
-      "content": " 乌克兰表示，其袭击了俄罗斯另外两座炼油厂。尽管俄乌双方本周早些时候都与美国举行了会谈，而美方希望双方停止打击能源设施，但两国仍在继续相互发动袭击。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-09-25",
-      "time": "12:39",
       "keywords": []
     },
     {
