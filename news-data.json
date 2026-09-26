@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T07:59:00.716111",
+  "updated": "2026-09-26T13:21:44.861341",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,95 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 25,
-    "medium": 25,
-    "low": 100
+    "high": 21,
+    "medium": 17,
+    "low": 112
   },
   "items": [
+    {
+      "title": "苹果，逼近5万亿美元",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/roll/2026-09-26/doc-initefie0862597.shtml",
+      "content": "当地时间周五（9月25日），随着美债收益率涨势暂歇、油价从高位回落，美股三大股指全线收涨。盘面上，科技股普涨，高通涨近4%，微软涨超3%，苹果、闪迪涨逾1%。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-26",
+      "time": "12:30",
+      "keywords": []
+    },
+    {
+      "title": "监管密集亮剑：三家机构合计被罚没超千万元，25家银行保险机构同日被罚",
+      "source": "每日经济新闻",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-26/doc-initefhw8388803.shtml",
+      "content": "每经记者|涂颖浩每经编辑|陈旭 9月24日，国家金融监督管理总局（以下简称总局）及多地监管机构密集披露一批银行、保险罚单。其中，总局对浦银理财、中再寿险...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "10:56",
+      "keywords": []
+    },
+    {
+      "title": "中行万事达卡疑似遭大规模盗刷：Apple Pay用户紧急锁卡，原因待查",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/2026-09-26/doc-initcyza0450311.shtml",
+      "content": "金融一线9月26日消息，在社交媒体上，有博主爆料称，中国银行万事达卡发生盗刷事件。 另有其他疑似被盗刷用户在该博主文章下反馈，同样受到疑似盗刷短信，并留言称...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "10:02",
+      "keywords": []
+    },
+    {
+      "title": "不要再争论了，比亚迪将放出终极大招，燃油车将彻底失去未来",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-09-26/doc-initcyza0442277.shtml",
+      "content": "来源：智能商业论 燃油车究竟有没有未来？这个话题在互联网上争论不休！ 有人说有，加油方便、技术成熟、保值率高。有人说没有，电动车渗透率在涨、政策在推...",
+      "priority": "high",
+      "sectors": [
+        "消费"
+      ],
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "09:15",
+      "keywords": []
+    },
+    {
+      "title": "月饼为何凉了",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/roll/2026-09-26/doc-initcyyv6993153.shtml",
+      "content": "（来源：投资界） 今年中秋，天气还没凉，月饼先凉了。 根据相关数据，月饼礼盒销量同比下滑了49.04%，曾经被商家捧上天的高端礼盒，更是无人问津，销量同比暴跌了76%。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "08:47",
+      "keywords": []
+    },
+    {
+      "title": "一家成立15天的西安公司，9.44亿元拿下一家A股公司",
+      "source": "每日经济新闻",
+      "url": "https://finance.sina.com.cn/jjxw/2026-09-26/doc-initcyyv6984145.shtml",
+      "content": "每经记者|张静每经编辑|贺娟娟 9月16日，一笔港股收购A股公司的控制权交易宣布落地。 中国软件国际有限公司（00354.HK，下称“中软国际”）通过一家刚刚成立15天的西安公司——...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "08:34",
+      "keywords": []
+    },
     {
       "title": "高盛测算AI算力豪赌：六大巨头2028-2030年需多赚1.42万亿美元 以撑起15% ROIC",
       "source": "智通财经APP",
@@ -24,146 +108,6 @@
       "period": "morning",
       "date": "2026-09-26",
       "time": "07:00",
-      "keywords": []
-    },
-    {
-      "title": "三人控制多个他人账户操纵证券市场，无违法所得仍被罚800万元",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-26/doc-initcqkz7111045.shtml",
-      "content": " 9月24日，证监会披露行政处罚决定书，陈欢、周厚禄、李萍萍因操纵证券市场，在无违法所得的情况下合计被罚款800万元，并分别被采取2年至3年证券市场禁止交易措施。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-09-26",
-      "time": "04:23",
-      "keywords": []
-    },
-    {
-      "title": "30年金融“老将”董晓亮执掌兴银基金！",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/fund/2026-09-26/doc-initckcf3950343.shtml",
-      "content": "作者 |谢美浴 编辑 | 付影 来源 | 独角金融 三年之内，千亿公募兴银基金管理有限责任公司（以下简称“兴银基金”）迎来第四位掌门人。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-09-26",
-      "time": "02:36",
-      "keywords": []
-    },
-    {
-      "title": "玻利维亚取消银行美元卖出汇率限制",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-26/doc-initccvi3994746.shtml",
-      "content": " 玻利维亚央行官网信息显示，该国央行出台新外汇规定，取消金融机构美元卖出汇率上限，这是迈向更灵活货币市场的又一步。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-09-26",
-      "time": "00:43",
-      "keywords": []
-    },
-    {
-      "title": "罕见，上市第6日跌停，原因揭秘！潜力低估值次新股出炉，仅10只",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-09-26/doc-initccvf7197279.shtml",
-      "content": "上市第6个交易日跌停是注册制下较为罕见的一幕。 9月24日，主板次新股沈鼓集团低位震荡后封住跌停板。公司自最高价以来最大跌幅超过65%，是今年8月以来上市的新股中...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-09-25",
-      "time": "23:56",
-      "keywords": []
-    },
-    {
-      "title": "美股科技巨头，历史新高，市值逼近5万亿美元",
-      "source": "中国证券报-中证网",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-26/doc-initccvi3964796.shtml",
-      "content": "当地时间9月25日，美股三大指数集体收涨，美股芯片股表现活跃。 截至收盘，道指上涨近480点，涨幅接近1%。纳指、标普500指数涨约0.5%，指数周线均实现2连涨。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-09-25",
-      "time": "23:42",
-      "keywords": []
-    },
-    {
-      "title": "加息冲击波何时来？美银警告：两大因素或引发美股恐慌抛售",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/roll/2026-09-26/doc-initccvf7186981.shtml",
-      "content": "关注美债收益率和金融股表现。 本周美债收益率持续走高，经济数据强于预期、政府债务高企叠加能源价格上涨进一步推升通胀担忧，强化了市场对美联储或将在10月议息会议加息...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-09-25",
-      "time": "23:31",
-      "keywords": []
-    },
-    {
-      "title": "美国要求科罗拉多州一座燃煤电厂维持运行",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-26/doc-initccvf7184181.shtml",
-      "content": "美国能源部长克里斯·赖特发布一项紧急命令，要求三州发电输电联盟、西南电力库、普拉特河电力局、盐河项目、太平洋电力公司以及科罗拉多公共服务公司“采取一切必要措施...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-09-25",
-      "time": "23:22",
-      "keywords": []
-    },
-    {
-      "title": "克利夫兰联储行长称增长前景和债务担忧等推高长期美债收益率",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-26/doc-initaxpf3783706.shtml",
-      "content": " 克利夫兰联储行长贝丝·哈马克表示，增长前景增强、对政府债务的担忧，以及市场预期美联储将进一步加息，在推动长期美国国债收益率走高。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-09-25",
-      "time": "22:58",
-      "keywords": []
-    },
-    {
-      "title": "凌晨突发！美伊大利好，美股暴力拉升，石油直线跳水",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-26/doc-initaxpm4070833.shtml",
-      "content": "【导读】又是凌晨，又是利好 中国基金报记者 泰勒 大家好啊，这个中秋假期，真的利好不断。 9月26日的凌晨零点刚过一会，美股就直线暴拉。",
-      "priority": "high",
-      "sectors": [
-        "能源"
-      ],
-      "period": "night",
-      "date": "2026-09-25",
-      "time": "22:40",
-      "keywords": []
-    },
-    {
-      "title": "欧洲央行副行长Vujcic：能源价格将长期维持高位",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-26/doc-initaxpm4058027.shtml",
-      "content": " 欧洲央行副行长Boris Vujcic表示，中东战争持续意味着能源价格将在较长时间内维持高位，并可能进一步传导至更广泛的通胀。",
-      "priority": "high",
-      "sectors": [
-        "能源"
-      ],
-      "period": "night",
-      "date": "2026-09-25",
-      "time": "22:04",
       "keywords": []
     },
     {
@@ -392,172 +336,59 @@
       ]
     },
     {
-      "title": "OpenAI智能体再曝“越界”：涉及美国SEC官网等，已通知数十家机构",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-26/doc-initcqkz7107728.shtml",
-      "content": "OpenAI披露AI智能体异常行为调查的最新进展。 当地时间9月25日，OpenAI在官网更新调查进展：根据目前的审查结果，OpenAI已通知数十个第三方。",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-09-26",
-      "time": "04:18",
-      "keywords": []
-    },
-    {
-      "title": "超26亿元主力资金撤离光模块龙头",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/wm/2026-09-26/doc-initcqme8650282.shtml",
-      "content": "记者丨林健民 编辑丨李燕娜 刘雪莹 视频丨柳润瑛 本周主力资金从光模块、封测概念股撤离，转向国产芯片、汽车等赛道。 其中，PCB龙头胜宏科技以15...",
-      "priority": "medium",
-      "sectors": [
-        "光模块"
-      ],
-      "period": "night",
-      "date": "2026-09-26",
-      "time": "03:50",
-      "keywords": []
-    },
-    {
-      "title": "国庆假期临近，持股还是持币过节？机构研判来了",
-      "source": "中国证券报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-09-26/doc-initcqmc3869022.shtml",
-      "content": "国庆假期临近，持股还是持币？多位市场人士从节前后行情、修复条件和配置方向给出判断。 持股过节如何把握节奏 “当下建议持股过节，但需控制仓位。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-09-26",
-      "time": "03:36",
-      "keywords": []
-    },
-    {
-      "title": "高管调整落地！德邦基金总经理变动，年内上百家公募高管变更",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-09-26/doc-initckcf3955611.shtml",
-      "content": "9月25日，德邦基金发布《高级管理人员变更公告》，公司总经理张騄因工作调动离任，相关岗位说明为“另有任用”，离任日期为9月24日。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-09-26",
-      "time": "02:38",
-      "keywords": []
-    },
-    {
-      "title": "美参议员：白宫释放信号 不会禁止柴油出口",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-26/doc-initckcf3940901.shtml",
-      "content": "美国参议员泰德·克鲁兹上周五晚间向炼油行业领袖表示，白宫已作出承诺，特朗普政府不会禁止美国柴油出口。 他们透露，克鲁兹传达这一消息之际，政府正权衡多项方案...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-09-26",
-      "time": "02:38",
-      "keywords": []
-    },
-    {
-      "title": "白宫未推进小肯尼迪要求提供超加工食品安全性证明的提议",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-26/doc-initckcf3938449.shtml",
-      "content": "今年早些时候，卫生部长小罗伯特·F·肯尼迪原本准备向势力庞大的食品行业发起挑战。 媒体获取的一份3月信函草案显示，这份信函由卫生部长提交白宫审阅。",
-      "priority": "medium",
-      "sectors": [
-        "消费"
-      ],
-      "period": "night",
-      "date": "2026-09-26",
-      "time": "02:34",
-      "keywords": []
-    },
-    {
-      "title": "605100，拟清仓所持MLCC龙头公司H股",
-      "source": "e公司",
-      "url": "https://finance.sina.com.cn/roll/2026-09-26/doc-initccvi3984363.shtml",
-      "content": "MLCC（多层陶瓷电容器）概念持续火热之际，有上市公司高位减持MLCC龙头股票，并计划清仓所持股票。 此前，基于公司发展战略及与三环集团（06951...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-09-26",
-      "time": "00:12",
-      "keywords": []
-    },
-    {
-      "title": "公募营销天花板，华安基金冠名高铁！3个月回撤24%，投资者利益如何维护",
+      "title": "摩根士丹利承认看错，美元弱势叙事突然反转",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/fund/2026-09-26/doc-initccvf7199812.shtml",
-      "content": "来源：金石杂谈 9月25日消息，公募圈刷屏了，不再局限于社区平台，华安基金从董事长到员工全员参与，公司通过冠名高铁列车将基金营销到天南地北，创造了公募历史。",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-09-26/doc-initefhy0352950.shtml",
+      "content": "来源：金十数据 摩根士丹利正在彻底调整此前的美元判断。该行外汇策略团队最新把年底美元指数目标从96上调至102，并明确表示此前的美元走弱逻辑已经失效。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "night",
-      "date": "2026-09-25",
-      "time": "23:30",
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "11:50",
       "keywords": []
     },
     {
-      "title": "暴涨超5倍！油运超级周期大爆发，运价、业绩、股价三线齐飞",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-09-26/doc-initccvk8821263.shtml",
-      "content": " 美伊冲突彻底打乱了全球石油运输的原有路线，导致油轮绕行等成本不断增加，叠加油轮供给处于历史低位，全球油运价格年内不断上涨。",
+      "title": "透过500强报告，读懂民营企业“生长”密码",
+      "source": "人民网",
+      "url": "https://finance.sina.com.cn/roll/2026-09-26/doc-initcyyy8491531.shtml",
+      "content": "（来源：岳阳市工商业联合会） 9月22日，全国工商联在天津发布“2026中国民营企业500强”榜单及《2026中国民营企业500强调研分析报告》。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "night",
-      "date": "2026-09-25",
-      "time": "23:27",
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "09:15",
       "keywords": []
     },
     {
-      "title": "巴西：不会向博彩公司退还牌照费用",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-26/doc-initccvi3956496.shtml",
-      "content": "# 翻译 巴西财政部长达里奥·杜里甘在圣保罗周五的新闻发布会上表示，巴西不会向博彩公司退还牌照费用。 政府已评估博彩禁令对各行业造成的影响。",
+      "title": "139家机构，“盯上”1家公司",
+      "source": "中国证券报-中证网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-26/doc-initcyze4125917.shtml",
+      "content": " 本周（9月21日至9月26日发稿），427家上市公司披露机构投资者调研记录。国新健康获139家机构调研，接受机构调研家数最多。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "night",
-      "date": "2026-09-25",
-      "time": "23:21",
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "09:11",
       "keywords": []
     },
     {
-      "title": "9月26日隔夜要闻：美股三大指数收涨 原油下跌 金价微升 美官员称美伊正就重新开放霍尔木兹海峡进行讨论",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-26/doc-initaxpm4073998.shtml",
-      "content": "市场 9月26日收盘：美股三大指数收涨且周线齐涨 市场无视债券抛售 苹果再创新高 9月26日热门中概股多数下跌，阿里巴巴跌0.8% 大宗商品综述：原油下跌 伦铜基本持平...",
-      "priority": "medium",
-      "sectors": [
-        "能源",
-        "黄金"
-      ],
-      "period": "night",
-      "date": "2026-09-25",
-      "time": "22:52",
-      "keywords": []
-    },
-    {
-      "title": "9月26日热门中概股多数下跌，阿里巴巴跌0.8%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-26/doc-initaxpn8935658.shtml",
-      "content": "9月26日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）收跌0.64%。 上涨个股（按市值从高到低）：日月光半导体涨1.86%，联电涨0.87%，中华电信涨0.17%，富途控股涨2...",
+      "title": "瑞幸咖啡，杀回来了",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-09-26/doc-initcyyy8480958.shtml",
+      "content": "本文作者|远禾 数据支持 | 勾股大数据 那个差点死掉的瑞幸，回来了。 近日，阿布扎比主权财富基金穆巴达拉投资公司宣布，携手瑞幸控股股东大钲资本...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "night",
-      "date": "2026-09-25",
-      "time": "22:19",
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "08:50",
       "keywords": []
     },
     {
@@ -771,6 +602,300 @@
       ]
     },
     {
+      "title": "美媒：特朗普对中期选举信心十足，但共和党人开始恐慌",
+      "source": "",
+      "url": "https://finance.sina.com.cn/roll/2026-09-26/doc-initemrc5408134.shtml",
+      "content": "本周早些时候，美国总统特朗普在纽约的特朗普大厦接待了法国总统马克龙，他一边向马克龙介绍公寓中金碧辉煌的装饰，一边大谈美国经济...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-26",
+      "time": "13:12",
+      "keywords": []
+    },
+    {
+      "title": "吉利比亚迪打响“超快充”大战",
+      "source": "界面",
+      "url": "https://finance.sina.com.cn/wm/2026-09-26/doc-initemqy3971490.shtml",
+      "content": "界面新闻记者 |王臻 界面新闻编辑 |周姝祺 吉利汽车将与比亚迪的超快充竞争推向充电设施端。9月23日，吉利发布新一代智充技术，配套充电桩的单枪峰值功率可以达到约2250千...",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-09-26",
+      "time": "12:58",
+      "keywords": []
+    },
+    {
+      "title": "问界专属专营 合作五年再分工",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-09-26/doc-initemrc5403074.shtml",
+      "content": "中经记者陈靖斌广州报道 合作5年、积累120万用户后，赛力斯与华为对问界的经营分工作出新安排：从产品定义、产品设计，到品牌营销、渠道零售和服务体系，由赛力斯主导...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-26",
+      "time": "12:53",
+      "keywords": []
+    },
+    {
+      "title": "盖茨、奥尔特曼、马斯克，为何都在担忧这件事",
+      "source": "一财网",
+      "url": "https://finance.sina.com.cn/roll/2026-09-26/doc-initemra0741577.shtml",
+      "content": "科技界、学界响起的安全预警，不是要给AI发展踩下急刹车，而是要为狂奔的技术系上安全带。 9月25日，微软创始人比尔·盖茨在一条NBC即将播出的采访中发出警告：人工智能（AI...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-26",
+      "time": "12:52",
+      "keywords": []
+    },
+    {
+      "title": "中国人寿首设首席市场官，“国寿老将”淡新虎获提名",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-26/doc-initemqw0242615.shtml",
+      "content": " 9月24日，中国人寿发布第八届董事会第三十三次会议决议公告，审议通过《关于提名淡新虎先生担任公司首席市场官的议案》，该议案获全票通过。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-26",
+      "time": "12:51",
+      "keywords": []
+    },
+    {
+      "title": "三大运营商暂停新增金融分期购机业务",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-09-26/doc-initemra0740529.shtml",
+      "content": "长期以来，三大运营商线下营业厅“办套餐送手机”等分期购机业务频遭投诉。消费者以为办理通信业务，实则签下贷款合同，每月话费中暗含还款金额。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-09-26",
+      "time": "12:50",
+      "keywords": []
+    },
+    {
+      "title": "有平台拼假等搜索热度暴涨128% 多目的地串游火了",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/wbstock/2026-09-26/doc-initemqy3969850.shtml",
+      "content": "来源：@华夏时报微博 【有平台#拼假等搜索热度暴涨128%##多目的地串游火了#】今年中秋假期距离国庆假期非常近，大家的出游热情格外高涨。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-26",
+      "time": "12:50",
+      "keywords": []
+    },
+    {
+      "title": "马克龙时代即将结束，法国或迎来“左右对决”？",
+      "source": "观察者网",
+      "url": "https://finance.sina.com.cn/roll/2026-09-26/doc-initemra0741583.shtml",
+      "content": " 法国总统马克龙的第二个任期已接近尾声，法国政坛即将进入“后马克龙时代”。面对定于明年4月举行的总统选举，法国各政党都已经摩拳擦掌，积极开展竞选活动。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-26",
+      "time": "12:50",
+      "keywords": []
+    },
+    {
+      "title": "美国探讨暂停征收燃油税，以应对柴油价格高涨",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-09-26/doc-initefia4087285.shtml",
+      "content": "据彭博引述消息人士称，为应对柴油价格高涨，特朗普政府官员正在探讨一系列措施，包括暂停征收燃油税，以及解除对染色柴油的销售限制。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-09-26",
+      "time": "12:26",
+      "keywords": []
+    },
+    {
+      "title": "AI智能体越狱入侵企业！黄仁勋一众硅谷大佬集体反驳灭世预言",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/t/2026-09-26/doc-initefhw8403186.shtml",
+      "content": "（来源：雷科技） 今天咱们聊个魔幻的事儿。 AI公司被AI给黑了，但这家公司的CEO说：“AI不会毁灭人类。” 事情是这样的：AI公司Hugging...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "11:42",
+      "keywords": []
+    },
+    {
+      "title": "赛力斯拿回问界主导权，然后呢？",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-09-26/doc-initefia4057009.shtml",
+      "content": "出品 | 智械岛 作者 | 曾弋（广州） 9月24日，“任正非重申华为不造车”话题冲上微博热搜，热搜榜最高位置为第五位。 华为不造车这句话已经讲了很多年，内容本身并不新鲜...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "11:19",
+      "keywords": []
+    },
+    {
+      "title": "硫化碱商品报价动态（2026-09-26）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-26/doc-initcyzh0924043.shtml",
+      "content": "生意社09月26日讯交易商品牌/产地交货地最新报价硫化碱 优等品漳州市芗城三安化工有限公司福建福建省2300元/吨 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "10:11",
+      "keywords": []
+    },
+    {
+      "title": "亚氯酸钠商品报价动态（2026-09-26）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-26/doc-initcyzh0923985.shtml",
+      "content": "生意社09月26日讯交易商品牌/产地交货地最新报价亚氯酸钠 优等品漳州市芗城三安化工有限公司福建福建省13500元/吨 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "10:11",
+      "keywords": []
+    },
+    {
+      "title": "连二亚硫酸钠商品报价动态（2026-09-26）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-26/doc-initcyzh0924065.shtml",
+      "content": "生意社09月26日讯交易商品牌/产地交货地最新报价连二亚硫酸钠 优等品漳州市芗城三安化工有限公司福建福建省8200元/吨 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "10:10",
+      "keywords": []
+    },
+    {
+      "title": "盐酸商品报价动态（2026-09-26）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-26/doc-initcyzh0924045.shtml",
+      "content": "生意社09月26日讯交易商品牌/产地交货地最新报价盐酸 31.0% min漳州市芗城三安化工有限公司福建福建省250元/吨 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "10:10",
+      "keywords": []
+    },
+    {
+      "title": "氢氟酸商品报价动态（2026-09-26）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-26/doc-initcyzh0924064.shtml",
+      "content": "生意社09月26日讯交易商品牌/产地交货地最新报价氢氟酸 优等品漳州市芗城三安化工有限公司福建福建省7000元/吨 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "10:10",
+      "keywords": []
+    },
+    {
+      "title": "氯酸钠商品报价动态（2026-09-26）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-26/doc-initcyzh0924046.shtml",
+      "content": "生意社09月26日讯交易商品牌/产地交货地最新报价氯酸钠 含量99.5%漳州市芗城三安化工有限公司国产福建省4200元/吨 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "10:10",
+      "keywords": []
+    },
+    {
+      "title": "美债收益率重返5%！美股走弱，金价跌破4300美元",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/forex/whxwsd/2026-09-26/doc-initcyyx3758826.shtml",
+      "content": "撰文：嘉盛集团资深分析师Jerry Chen 周三油价和美债收益率大幅升高导致风险情绪降温，风险资产普遍回落，黄金下挫失守4300美元后短线走势进一步转弱。",
+      "priority": "low",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "08:41",
+      "keywords": []
+    },
+    {
+      "title": "酒钢班底再掌敦煌种业，43岁周彪连任董事长",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-09-26/doc-initcyyy8475309.shtml",
+      "content": "来源：华美财经 【高管动态】一家由酒泉钢铁班底接管的种业国企，掌舵人没有换。 敦煌种业（600354）召开2026年第一次临时股东会并选出第十届董事会...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "08:23",
+      "keywords": []
+    },
+    {
+      "title": "鞍钢入主一周年，凌钢股份人事大洗牌",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-09-26/doc-initcyyv6982247.shtml",
+      "content": "来源：华美财经 【高管动态】连亏四年、累计亏损47.5亿元的凌钢股份（600231），迎来鞍钢入列后的首次董事会换届。公司2026年第四次临时股东会选举产生第十届董事会...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "08:23",
+      "keywords": []
+    },
+    {
+      "title": "任期还差两年，51岁财务老将辞任光大银行董事",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-09-26/doc-initcyyx3754366.shtml",
+      "content": "来源：华美财经 【高管动态】光大银行董事会，暂时少一名非执行董事。51岁的姚威向董事会递交辞呈，卸下非执行董事及审计委员会、社会责任与消费者权益保护委员会的委员席...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "08:23",
+      "keywords": []
+    },
+    {
       "title": "连亏多年但股价逆势猛涨，福建水泥提示风险：主业经营未有根本好转",
       "source": "市场资讯",
       "url": "https://finance.sina.com.cn/stock/bxjj/2026-09-26/doc-initcusx7090405.shtml",
@@ -782,6 +907,20 @@
       "period": "morning",
       "date": "2026-09-26",
       "time": "07:43",
+      "keywords": []
+    },
+    {
+      "title": "茅台新品1分钟售罄，定价2199元",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/wm/2026-09-26/doc-initcuta8593114.shtml",
+      "content": "9月22日，在贵州茅台2026年湖北茅友嘉年华上，茅台正式发布了贵州茅台酒（春夏秋冬）四季文化产品，这四款产品于当日20：09上架“i茅台”，1分钟内即宣告售罄。",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "07:41",
       "keywords": []
     },
     {
@@ -870,285 +1009,143 @@
       "keywords": []
     },
     {
-      "title": "AI模型使用超现实方言对话 混合诗意文字与科技圈黑话",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initcqmc3921102.shtml",
-      "content": " 新研究发现，人工智能模型已经开始用一种奇特的新式英语交流，读起来像是詹姆斯·乔伊斯《芬尼根守灵夜》和科技从业者黑话的混合体。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-09-26",
-      "time": "05:35",
-      "keywords": []
-    },
-    {
-      "title": "特朗普第一时间发帖总结会晤",
-      "source": "中国新闻网",
-      "url": "https://finance.sina.com.cn/world/2026-09-26/doc-initcqme8647331.shtml",
-      "content": "当地时间9月25日下午，中国国家主席习近平结束对美国的国事访问返回北京。美国总统特朗普第一时间在社交媒体平台发文称，此次元首会晤是一次充满友谊、力量与成功的会晤...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-09-26",
-      "time": "03:51",
-      "keywords": []
-    },
-    {
-      "title": "算力赛道，多家A股公司密集宣布",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-09-26/doc-initckaz3612730.shtml",
-      "content": "A股多家上市公司密集披露算力业务最新进展。 数字政通、光环新网、奥尼电子、行云科技等公司，日前相继公告服务器采购、算力中心扩产、GPU采购及算力租赁等大额合同。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-09-26",
-      "time": "03:31",
-      "keywords": []
-    },
-    {
-      "title": "Solidigm冲刺美股史上最大半导体IPO！英特尔曾以90亿美元卖掉，如今估值或达1500亿美元",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/t/2026-09-26/doc-initckaz3611576.shtml",
-      "content": "（来源：华尔街见闻） SK海力士旗下固态存储子公司Solidigm正筹划赴美上市，目标估值高达1500亿美元，拟募资150亿美元，有望刷新美股半导体IPO纪录。",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "night",
-      "date": "2026-09-26",
-      "time": "03:14",
-      "keywords": []
-    },
-    {
-      "title": "英飞凌耗资14.4亿美元的泰国半导体工厂将于10月1日投产",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initckaz3586127.shtml",
-      "content": " 德国芯片厂商英飞凌科技将于10月1日正式启用泰国半导体工厂，项目投资超480亿泰铢（折合14.4亿美元），助力泰国打造更先进的本土芯片产业。",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "night",
-      "date": "2026-09-26",
-      "time": "02:15",
-      "keywords": []
-    },
-    {
-      "title": "喊了2个月的“科技反弹”，结果竟是这样 | 一图看懂",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-09-26/doc-initcqkz7109188.shtml",
-      "content": "A股三季度的行情，还有下周最后3个交易日，我们提前做个总结。 多数股民对本季度的记忆，都始于7月份科技股剧烈调整，紧接8月上中旬的小幅反弹后，市场风格进一步转变。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-09-26",
-      "time": "01:44",
-      "keywords": []
-    },
-    {
-      "title": "金融圈中秋福利来了！幻方、九坤发了啥？航母券商刷屏！有药企发了三千",
+      "title": "丁二酮肟商品报价动态（2026-09-26）",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/2026-09-26/doc-initckcf3917060.shtml",
-      "content": "来源：金石杂谈 9月25日消息，一年一度中秋佳节来临，天上月有阴晴圆缺，市场同样有涨有跌，愿我们都能在低估时积蓄力量，在高估时保持一份清醒...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-09-26",
-      "time": "01:24",
-      "keywords": []
-    },
-    {
-      "title": "田园生化终止深市主板IPO，原计划募资约6.3亿元",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-26/doc-initccvk8855501.shtml",
-      "content": " 9月24日，深圳证券交易所信息显示，广西田园生化股份有限公司（下称“田园生化”）首次公开发行股票并在主板上市的审核状态变更为终止（撤回）。",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-26/doc-initcuta8569070.shtml",
+      "content": "生意社09月26日讯交易商品牌/产地交货地最新报价丁二酮肟 含量99.9%江苏喜勒能源有限公司浙江浙江省20000元/吨 （文章来源：生意社）",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-09-26",
-      "time": "01:18",
+      "time": "06:20",
       "keywords": []
     },
     {
-      "title": "飞天茅台八连阳茅台系普涨 国窖1573、洋河梦之蓝M6+重跌",
-      "source": "酒业内参",
-      "url": "https://finance.sina.com.cn/chanjing/jync/2026-09-26/doc-initccvf7236076.shtml",
-      "content": "新浪财经“酒价内参”过去24小时收集的数据显示，9月26日中国白酒业12大单品的终端零售均价六涨五跌一平，上涨品种数量和累计涨幅均小幅胜出。",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "night",
-      "date": "2026-09-26",
-      "time": "01:02",
-      "keywords": []
-    },
-    {
-      "title": "特朗普拒绝伊朗“七天停火提议” 预计中期选举后重启轰炸行动",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-26/doc-initccvi3989604.shtml",
-      "content": "【相关阅读】美方：或在中期选举后恢复轰炸！特朗普：伊朗一直“乞求”美国达成协议 美国官员称，美国总统特朗普拒绝了伊朗提出的七天停火提议，并告知幕僚...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-09-26",
-      "time": "00:34",
-      "keywords": []
-    },
-    {
-      "title": "庞巴迪CEO：正就加拿大本土生产萨博监视飞机进入深度谈判",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initccvf7211893.shtml",
-      "content": " 庞巴迪公司正与瑞典萨博公司深入洽谈，计划在加拿大生产后者的“全球眼”监视飞机。这家总部位于魁北克的私人飞机制造商，正准备大幅扩张其快速发展的国防业务。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-09-26",
-      "time": "00:23",
-      "keywords": []
-    },
-    {
-      "title": "AI失控了？OpenAI确认干预3家美国政府网站",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initccvk8821562.shtml",
-      "content": "安全研究人员以及一名了解相关事件的知情人士称，今年夏天，OpenAI的人工智能在该实验室不知情的情况下出现失控行为，对美国教育部...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-09-25",
-      "time": "23:39",
-      "keywords": []
-    },
-    {
-      "title": "苹果因侵犯触觉反馈专利 被判需支付57亿美元赔偿金",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initccvi3960554.shtml",
-      "content": "圣地亚哥联邦陪审团周五裁定，苹果公司侵犯塔克申技术公司专利，需赔付超过57亿美元。涉案专利是iPhone与苹果手表产品使用的振动相关技术。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-09-25",
-      "time": "23:35",
-      "keywords": []
-    },
-    {
-      "title": "习近平圆满结束对美国的国事访问（现场视频）",
+      "title": "海藻糖商品报价动态（2026-09-26）",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/world/2026-09-26/doc-initccvc3659614.shtml",
-      "content": "来源：中国新闻社 当地时间9月25日下午，国家主席习近平结束对美国的国事访问返回北京。 离开华盛顿时，美国政府高级官员到机场送行。机场鸣放21响礼炮。",
+      "url": "https://finance.sina.com.cn/money/future/agri/2026-09-26/doc-initcusx7049437.shtml",
+      "content": "生意社09月26日讯交易商品牌/产地交货地最新报价海藻糖 国标山东满堂红新材料有限公司山东山东省/济南市4500元/吨 （文章来源：生意社）",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
-      "date": "2026-09-25",
-      "time": "23:20",
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "06:20",
       "keywords": []
     },
     {
-      "title": "视频|国产Linkerbot灵巧手！五指复刻人手，捏球拧螺丝全都行",
+      "title": "甲基磺酸铋商品报价动态（2026-09-26）",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-09-26/doc-initccvc3658689.shtml",
-      "content": "",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-26/doc-initcute0518518.shtml",
+      "content": "生意社09月26日讯交易商品牌/产地交货地最新报价甲基磺酸铋 工业级山东隆汇化工有限公司国产山东省160000元/吨 （文章来源：生意社）",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
-      "date": "2026-09-25",
-      "time": "23:18",
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "06:20",
       "keywords": []
     },
     {
-      "title": "随着推理需求激增，Fireworks与Fal考虑开启新一轮融资",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-09-26/doc-initccvf7182245.shtml",
-      "content": " Fal、Fireworks AI这类提供AI模型与服务器调用服务的初创企业营收持续走高。开发者借助它们快速运行模型，也引发投资者新一轮的投资热潮。",
+      "title": "硫化锰商品报价动态（2026-09-26）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-26/doc-initcusz3821926.shtml",
+      "content": "生意社09月26日讯交易商品牌/产地交货地最新报价硫化锰 工业级山东隆汇化工有限公司国产山东省6800元/吨 （文章来源：生意社）",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
-      "date": "2026-09-25",
-      "time": "23:17",
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "06:20",
       "keywords": []
     },
     {
-      "title": "大宗商品综述：原油下跌 伦铜基本持平 金价微升",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-26/doc-initaxpm4068313.shtml",
-      "content": "原油下跌，因有初步迹象显示，美伊围绕重开全球最重要能源运输通道的谈判正在取得进展。铜价连续第二周上涨，交易员关注需求前景。",
-      "priority": "low",
-      "sectors": [
-        "能源",
-        "黄金",
-        "有色"
-      ],
-      "period": "night",
-      "date": "2026-09-25",
-      "time": "22:36",
-      "keywords": []
-    },
-    {
-      "title": "套现离场？A股知名牛散，突传挂卖香港豪宅！曾被证监会罚没1.1亿元",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-26/doc-initaxpm4064018.shtml",
-      "content": "尽管近期香港豪宅市场气氛转强，不过仍有人择机套现。 据香港01报道，有“牛散”之称的徐留胜，市场传以约1.15亿港元挂卖浅水湾道117号Grosvenor Place一个中层单位...",
+      "title": "维生素B2商品报价动态（2026-09-26）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-26/doc-initcusx7047252.shtml",
+      "content": "生意社09月26日讯交易商品牌/产地交货地最新报价维生素B2 食品级山东满堂红新材料有限公司国产山东省/济南市240元/千克 （文章来源：生意社）",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
-      "date": "2026-09-25",
-      "time": "22:19",
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "06:20",
       "keywords": []
     },
     {
-      "title": "国际新闻早知道丨伊朗向美国递交新的谈判草案 俄美乌三方会晤或近期举行",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-09-26/doc-initaxpf3775929.shtml",
-      "content": "○伊总统称伊朗不想拥有核武器 愿推进与美谈判○佩斯科夫称俄美乌三方会晤或近期举行○克罗地亚批准将“北溪”爆炸案嫌疑人引渡至德国○刚果（金）一小型飞机坠毁 致13人死亡○德...",
+      "title": "丙三醇商品报价动态（2026-09-26）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-26/doc-initcute0517300.shtml",
+      "content": "生意社09月26日讯交易商品牌/产地交货地最新报价丙三醇 含量99.5%、国标、250公斤/桶山东满堂红新材料有限公司国产山东省/济南市8000元/吨 （文章来源：生意社）",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
-      "date": "2026-09-25",
-      "time": "22:16",
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "06:20",
       "keywords": []
     },
     {
-      "title": "9月26日外盘头条：霍尔木兹海峡有望重开 白宫试图降低柴油价格 Anthropic投入至少400亿美元租赁算力",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-09-26/doc-initaxpm4055069.shtml",
-      "content": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、白宫考虑一系列方案以降低高企的柴油价格 包括暂停征税 2、美官员：就重开霍尔木兹海峡协议开展谈判...",
+      "title": "腐植酸钾商品报价动态（2026-09-26）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-26/doc-initcute0518512.shtml",
+      "content": "生意社09月26日讯交易商品牌/产地交货地最新报价腐植酸钾 工业级山东隆汇化工有限公司国产山东省6500元/吨 （文章来源：生意社）",
       "priority": "low",
       "sectors": [
-        "AI"
+        "综合"
       ],
-      "period": "night",
-      "date": "2026-09-25",
-      "time": "21:58",
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "06:20",
+      "keywords": []
+    },
+    {
+      "title": "硅镁粉商品报价动态（2026-09-26）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-26/doc-initcute0518522.shtml",
+      "content": "生意社09月26日讯交易商品牌/产地交货地最新报价硅镁粉 工业级山东隆汇化工有限公司国产山东省2200元/吨 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "06:20",
+      "keywords": []
+    },
+    {
+      "title": "三氯蔗糖商品报价动态（2026-09-26）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-26/doc-initcuta8567829.shtml",
+      "content": "生意社09月26日讯交易商品牌/产地交货地最新报价三氯蔗糖 食品级山东满堂红新材料有限公司山东山东省/济南市103元/公斤 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "06:20",
+      "keywords": []
+    },
+    {
+      "title": "丙酸钠商品报价动态（2026-09-26）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-09-26/doc-initcusz3821939.shtml",
+      "content": "生意社09月26日讯交易商品牌/产地交货地最新报价丙酸钠 工业级山东隆汇化工有限公司国产山东省12500元/吨 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-09-26",
+      "time": "06:20",
       "keywords": []
     },
     {
