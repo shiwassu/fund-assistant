@@ -1,5 +1,5 @@
 {
-  "updated": "2026-09-26T17:58:54.655224",
+  "updated": "2026-09-26T21:30:05.494510",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,39 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 23,
+    "high": 25,
     "medium": 19,
-    "low": 108
+    "low": 106
   },
   "items": [
+    {
+      "title": "特朗普发帖：美国汽车工人和购车者的大日子",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-09-27/doc-initewew0630562.shtml",
+      "content": "美国总统特朗普周六在社交媒体上发帖称：美国汽车工人和购车者的大日子！我刚刚批准了新的燃油经济性标准，终结了拜登荒谬的电动汽车强制令。",
+      "priority": "high",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-09-26",
+      "time": "19:31",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：已批准旨在终结电动车强制令的新燃油经济性标准",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-09-27/doc-initewew0629095.shtml",
+      "content": "美国总统特朗普在社交媒体平台上发帖称：“我刚刚批准了新的燃油经济性标准”，此举将终结拜登政府时期的电动车强制令。 他表示：“这些新标准将剔除在美国制造汽车过程中的浪...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-09-26",
+      "time": "19:23",
+      "keywords": []
+    },
     {
       "title": "狂砸8.5万亿！中国AI算力扩容三倍、国产芯片占比要超70%",
       "source": "快科技2018",
@@ -1118,35 +1146,6 @@
       "period": "morning",
       "date": "2026-09-26",
       "time": "07:19",
-      "keywords": []
-    },
-    {
-      "title": "重塑券商研究触达模式，把分析师能力装进AI",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/roll/2026-09-26/doc-initcute0528999.shtml",
-      "content": "券商研究所正在研究如何把首席分析师的能力提炼、打包、复制给客户的AI助手。 招商证券近日宣布推出智能投研平台“小研Work”，把研究所长期积累的数据、框架和分析方法...",
-      "priority": "low",
-      "sectors": [
-        "金融",
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-09-26",
-      "time": "07:06",
-      "keywords": []
-    },
-    {
-      "title": "油价过山车！伊朗战火与外交博弈交织，原油本周上演剧烈震荡",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-09-26/doc-initcuta8578784.shtml",
-      "content": "汇通财经APP讯——本周国际原油市场宛如坐上过山车，价格在供应担忧与和平希望之间大幅摇摆。受伊朗战争持续、霍尔木兹海峡运输变化...",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "morning",
-      "date": "2026-09-26",
-      "time": "07:04",
       "keywords": []
     },
     {
