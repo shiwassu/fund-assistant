@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-03T16:40:48.229487",
+  "updated": "2026-10-03T21:43:33.703042",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -8,10 +8,24 @@
   ],
   "priority_dist": {
     "high": 17,
-    "medium": 23,
-    "low": 110
+    "medium": 22,
+    "low": 111
   },
   "items": [
+    {
+      "title": "贝森特批评AI风险警告是危言耸听",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-04/doc-initytzr0408702.shtml",
+      "content": "美国财长斯科特·贝森特批评人工智能领域一些知名人士就这项技术带来的人类存亡风险发出警告，称这些言论是在危言耸听，没有助益，并呼吁该行业进行自我监管并拿出解决方案...",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-10-03",
+      "time": "19:34",
+      "keywords": []
+    },
     {
       "title": "中信证券：积极迎接房地产的新周期",
       "source": "市场资讯",
@@ -52,20 +66,6 @@
       "period": "night",
       "date": "2026-10-03",
       "time": "04:39",
-      "keywords": []
-    },
-    {
-      "title": "英伟达市值一夜飙升超5000亿元，盘中创历史新高",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/t/2026-10-03/doc-initwzsp5046355.shtml",
-      "content": "（来源：21世纪经济报道） 北京时间10月3日凌晨，英伟达盘中一度大涨近3%，突破今年5月创下的前期历史高点，刷新历史新高，总市值重返5.7万亿美元。",
-      "priority": "high",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "night",
-      "date": "2026-10-03",
-      "time": "00:14",
       "keywords": []
     },
     {
@@ -376,20 +376,6 @@
       "keywords": []
     },
     {
-      "title": "药明康德获扎堆推荐，机构看好节后A股反弹",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-03/doc-initwzsi4076475.shtml",
-      "content": "9月最后一个交易日，A股三大指数涨跌不一，截至收盘，上证指数涨0.31%，深证成指跌0.11%，创业板指跌0.23%；北证50涨0.7%。沪深两市成交额约14380.18亿元...",
-      "priority": "medium",
-      "sectors": [
-        "医药"
-      ],
-      "period": "night",
-      "date": "2026-10-03",
-      "time": "00:01",
-      "keywords": []
-    },
-    {
       "title": "短期传统旺季将进一步放大供需缺口，供给收缩主导未来数年行业行情，或显著拉长化工周期",
       "source": "财新",
       "url": "https://database.caixin.com/2026-09-30/102490181.html?cxapp_link=true",
@@ -629,6 +615,20 @@
       "keywords": [
         "权益周观察"
       ]
+    },
+    {
+      "title": "工资涨不过物价 美国人想尽各种办法维持消费",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initytzv5949378.shtml",
+      "content": "过去五个月里，美国物价上涨速度一直快于工资增速，这种现象本该促使消费者削减开支。但实际上，他们仍在继续消费。 8月份美国消费增速达到一年多来最快水平...",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-10-03",
+      "time": "19:30",
+      "keywords": []
     },
     {
       "title": "OpenAI安全部门员工辞职 呼吁采取核电级别的防护措施",
