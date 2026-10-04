@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-04T08:44:14.034832",
+  "updated": "2026-10-04T15:29:20.776743",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,68 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 24,
-    "medium": 30,
-    "low": 96
+    "high": 19,
+    "medium": 19,
+    "low": 112
   },
   "items": [
+    {
+      "title": "资金逆势加仓，涌入这些方向",
+      "source": "中国证券报",
+      "url": "https://finance.sina.com.cn/stock/2026-10-04/doc-iniuanmc7018519.shtml",
+      "content": "前三季度ETF资金流向全揭秘，谁在被抛弃，谁在被抢筹？ ETF资金净流入额排行榜前十 数据来源：Wind，截至9月30日 半导体相关ETF获资金青睐 Wind数据显示，截至9月30日...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-04",
+      "time": "13:59",
+      "keywords": []
+    },
+    {
+      "title": "马斯克突爆大消息！SpaceXAI更名为SpaceXSI",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/stock/2026-10-04/doc-iniuahcc5313208.shtml",
+      "content": "原标题：刚刚！马斯克，突爆大消息 “SpaceXAI”将更名为“SpaceXSI”！特斯拉CEO埃隆·马斯克在X平台最新表态。 10月4日，有网友在X平台向马斯克提问...",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "11:17",
+      "keywords": []
+    },
+    {
+      "title": "新型储能迎来政策利好 低PE+高增长潜力股出炉",
+      "source": "证券时报网",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-04/doc-iniuahcf7040867.shtml",
+      "content": " 2026年以来，新型储能的战略地位持续提升。“十五五”规划纲要明确提出“大力发展新型储能”，新型储能首次被列入国家六大新兴支柱产业。",
+      "priority": "high",
+      "sectors": [
+        "能源"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "09:54",
+      "keywords": []
+    },
+    {
+      "title": "AI需求打开新空间 新型储能迎来政策利好！低PE+高增长潜力股出炉",
+      "source": "数据宝",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-10-04/doc-iniuahcc5286869.shtml",
+      "content": "A股三季度行情已结束，在即将开启的四季度行情，哪些行业板块有投资机会？2026年作为“十五五”规划开局之年，工业和信息化部提出，加快打造集成电路、航空航天、生物医药...",
+      "priority": "high",
+      "sectors": [
+        "能源",
+        "AI"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "09:30",
+      "keywords": []
+    },
     {
       "title": "外资巨头，盯上这些A股",
       "source": "上海证券报",
@@ -24,132 +81,6 @@
       "period": "morning",
       "date": "2026-10-04",
       "time": "08:13",
-      "keywords": []
-    },
-    {
-      "title": "SEC放行首批3倍杠杆加密ETP，比特币维持在8.5万美元附近",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpk0429700.shtml",
-      "content": "比特币周日维持在8.5万美元附近震荡，投资者正在评估美国监管层批准首批3倍杠杆加密交易所交易产品带来的影响。比特币截至美东时间01：29报84860.5美元...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-04",
-      "time": "06:51",
-      "keywords": []
-    },
-    {
-      "title": "美国人工智能“沙皇”组建“超级智能”特别工作组：120天评估AI风险与政府监管边界",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpf3887865.shtml",
-      "content": "特朗普政府组建新的人工智能特别工作组“Super Intelligence Force”，由国家情报总监Jay Clayton领导，计划在120天内提交报告，系统评估先进AI带来的风险和机会...",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-10-04",
-      "time": "06:48",
-      "keywords": []
-    },
-    {
-      "title": "伊朗央行投放20亿美元仍未止跌，里亚尔再创历史新低",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpi5488648.shtml",
-      "content": "伊朗里亚尔周六继续大幅贬值，即使央行宣布通过国有银行向市场投放最多20亿美元外汇，也未能阻止汇率进一步创下历史新低。自由市场数据显示，美元兑里亚尔升至约268...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-04",
-      "time": "06:30",
-      "keywords": []
-    },
-    {
-      "title": "公布在即！美联储，加息大消息！",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/2026-10-04/doc-initzvpk0416710.shtml",
-      "content": "美联储会议纪要即将公布！ 未来几天，美联储和欧洲央行都将公布9月会议的纪要，当时它们均上调了基准利率，以应对市场对通胀压力持续上升的担忧。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-10-04",
-      "time": "05:16",
-      "keywords": []
-    },
-    {
-      "title": "超强厄尔尼诺刺激 这品种价格创9年新高！",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-04/doc-initzvpm7152103.shtml",
-      "content": " 9月30日收盘，沪胶主力合约报收于20095元/吨，相比前一交易日，涨幅5.54%。这是2017年3月以来，沪胶主力合约价格首次突破2万元/吨。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-10-04",
-      "time": "05:09",
-      "keywords": []
-    },
-    {
-      "title": "2.5万亿中信证券换帅，“固收老将”邹迎光接棒迎考",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/companyt/2026-10-04/doc-initzrfm5566429.shtml",
-      "content": "来源：环球老虎财经 券商一哥的权杖，交到了一位外科医生出身的金融老将手中。伴随张佑林到龄退休，总资产2.47万亿元的中信证券开启了邹迎光时代。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-10-04",
-      "time": "03:50",
-      "keywords": []
-    },
-    {
-      "title": "券业大整合！头部、区域双线并购提速",
-      "source": "中国证券报-中证网",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzrfp7223733.shtml",
-      "content": "今年以来，券业并购呈现“头部强强联合”与“地方国资主导区域整合”双主线并行的清晰格局。头部层面，中金公司“三合一”重组获得证监会批复，万亿级券商呼之欲出；区域层面...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-10-04",
-      "time": "03:24",
-      "keywords": []
-    },
-    {
-      "title": "美国9月非农意外“爆冷”，节后A股会迎来“开门红”吗？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-10-04/doc-initzkxi0172210.shtml",
-      "content": "源自：郭施亮 （美国非农就业人数总月度净变化） 美国9月非农数据意外“爆冷”，市场对10月份美联储加息预期大幅降温。然而，对12月份美联储是否采取加息措施...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-10-04",
-      "time": "01:30",
-      "keywords": []
-    },
-    {
-      "title": "五粮液普五八代大涨重上800元 茅台1935再创月新高 洋河梦之蓝M6+、青花郎重跌",
-      "source": "酒业内参",
-      "url": "https://finance.sina.com.cn/chanjing/jync/2026-10-04/doc-initzkxm4038889.shtml",
-      "content": "新浪财经“酒价内参”过去24小时收集的数据显示，10月4日中国白酒业12大单品的终端零售均价四涨七跌一平，下跌品种数量明显占优，且累计跌幅超过上涨端...",
-      "priority": "high",
-      "sectors": [
-        "消费"
-      ],
-      "period": "night",
-      "date": "2026-10-04",
-      "time": "01:06",
       "keywords": []
     },
     {
@@ -378,213 +309,59 @@
       ]
     },
     {
-      "title": "英国国家医疗服务体系20余家信托机构停用Palantir候诊工具",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzzvh0328464.shtml",
-      "content": "分析显示，英格兰超过20家国民保健制度信托机构已停止使用美国软件巨头Palantir的候诊名单工具，使外界广泛引用的该项目成功说法受到质疑。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-04",
-      "time": "07:42",
-      "keywords": []
-    },
-    {
-      "title": "美国加密货币行业9月招聘职位激增 申请量反而下降",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpf3896418.shtml",
-      "content": " 今年9月，加密货币行业招聘职位发布量增至1241个，较7月增长两倍以上，但申请量降至约2万份，显示行业招聘需求回暖与求职竞争格局出现分化。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-04",
-      "time": "07:15",
-      "keywords": []
-    },
-    {
-      "title": "OpenAI安全员工离职批评公司文化：更强AI已不适合“边发布边修补”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpi5489757.shtml",
-      "content": "OpenAI安全员工David Robinson宣布离职，并公开批评公司在快速推进前沿模型开发时，没有为安全研究留下足够空间。他认为，随着AI系统能力不断增强，行业过去依赖“先部署...",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-10-04",
-      "time": "06:35",
-      "keywords": []
-    },
-    {
-      "title": "花旗解释家装股为何跑输：高利率压住需求，但长期维修逻辑仍在",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpm7189236.shtml",
-      "content": "花旗表示，美国2026年家装行业和相关股票持续跑输，主要受到利率、能源成本、住房可负担性以及地缘政治不确定性的共同压制。该机构在参加HIRI Home Improvement Insights...",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-10-04",
-      "time": "06:27",
-      "keywords": []
-    },
-    {
-      "title": "伊朗表示已准备好“既打又谈”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpm7189125.shtml",
-      "content": " 伊朗议会议长兼对美谈判首席代表穆罕默德·巴盖尔·加利巴夫称，伊朗的策略是“既不盲目乐观，也不畏惧恐吓”，坚持“既打又谈”。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-04",
-      "time": "06:27",
-      "keywords": []
-    },
-    {
-      "title": "BMO上调埃森哲目标价至235美元：AI订单在扩张，但长期是否利好IT服务仍存疑",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpi5483618.shtml",
-      "content": "BMO Capital将埃森哲目标价从200美元上调至235美元，同时维持“与大盘一致”评级。该机构认为，公司最新季度营收和订单均好于预期，2027财年收入指引也大致符合预期...",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-10-04",
-      "time": "06:16",
-      "keywords": []
-    },
-    {
-      "title": "William Blair维持特斯拉“与大盘一致”：交付超预期，但高估值限制上行空间",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpi5482617.shtml",
-      "content": "William Blair在特斯拉公布强于预期的三季度交付数据后，维持对公司股票的“与大盘一致”评级。该机构认为，汽车交付表现明显好于市场预期...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-04",
-      "time": "06:14",
-      "keywords": []
-    },
-    {
-      "title": "特斯拉三季度交付超预期，但Oppenheimer仍维持“与大盘一致”评级",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpi5482154.shtml",
-      "content": " 特斯拉公布强于预期的三季度交付数据后，Oppenheimer仍维持对公司股票的“与大盘一致”评级，没有因销量超预期进一步转向看多。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-04",
-      "time": "06:13",
-      "keywords": []
-    },
-    {
-      "title": "不眠夜！美股，通宵交易，要来了！",
+      "title": "陈茂波，最新发声",
       "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzvpi5478402.shtml",
-      "content": "来源：中国基金报 【导读】以后真的就是今夜无眠了 中国基金报记者 泰勒 大家好啊，简单关注一下美股全天候交易的消息吧！从今年12月开始...",
+      "url": "https://finance.sina.com.cn/roll/2026-10-04/doc-iniuassv3498173.shtml",
+      "content": "来源：中国基金报 【导读】香港财政司司长陈茂波发表网志，总结香港旅游与金融市场表现，并指出香港与中东及全球南方合作“正在走深走实”，将持续深化国际联系。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-10-04",
-      "time": "05:52",
+      "time": "14:31",
       "keywords": []
     },
     {
-      "title": "年内8家中小银行评级被上调，释放什么信号？",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzrfm5581703.shtml",
-      "content": "据券商中国记者统计，今年前9个月，合计已有8家中小银行主体信用评级获上调，包括3家城商行、5家农商行。同时，国际三大评级机构年内也先后上调多家股份行...",
+      "title": "“双十”基金经理名单出炉",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/stock/2026-10-04/doc-iniuankx3597208.shtml",
+      "content": "来源：中国基金报 中国基金报记者 曹雯璟 潮水退去，方知谁在裸泳；周期轮转，更显长跑者的珍贵。 2026年以来，A股市场走出了极致的结构性行情，热点快速切换...",
       "priority": "medium",
       "sectors": [
-        "金融"
+        "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-10-04",
-      "time": "04:27",
+      "time": "12:35",
       "keywords": []
     },
     {
-      "title": "四季度投资啥？且看券商调研动向",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-04/doc-initzrfn0465603.shtml",
-      "content": "随着9月落幕，三季度正式收官。在这一时点下，券商调研动向成为观察四季度投资布局的重要窗口。 据Choice数据统计，9月以来，截至9月30日...",
+      "title": "9月公募调研“十大热门股”出炉，电子行业占据七席",
+      "source": "中国证券报",
+      "url": "https://finance.sina.com.cn/roll/2026-10-04/doc-iniuahce0287630.shtml",
+      "content": "来源：中国证券报·中证金牛座 9月公募调研动向揭晓。公募排排网数据显示，截至9月30日，9月共有158家公募机构参与A股调研活动，覆盖30个申万一级行业中的428只个股...",
       "priority": "medium",
       "sectors": [
-        "金融"
+        "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-10-04",
-      "time": "03:45",
+      "time": "10:18",
       "keywords": []
     },
     {
-      "title": "港交所的锣，又不够敲了？",
+      "title": "11家内地机器人公司赴港IPO，行业分化初现，机构聚焦头部",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/wm/2026-10-04/doc-initzrfp7219774.shtml",
-      "content": "来源：财联社 香港ETF发行市场，正被境内公募基金子公司改写。 财联社记者统计港交所数据了解到，过去的9月，港交所新上市22只ETF，为年内最高单月...",
+      "url": "https://finance.sina.com.cn/roll/2026-10-04/doc-iniuahce0279618.shtml",
+      "content": "来源：证券市场周刊 内地机器人 概念公司正加速赴港IPO，据统计，年内已有11家递交上市申请或更新递交申请。从公司基本面来看，多数公司尚未盈利。",
       "priority": "medium",
       "sectors": [
-        "综合"
+        "机器人"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-10-04",
-      "time": "03:13",
-      "keywords": []
-    },
-    {
-      "title": "又一重要榜单来了！基金公司固定收益类基金中长期业绩榜单公布",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/fund/2026-10-04/doc-initzkxm4069393.shtml",
-      "content": "来源：中国基金报 原标题：《又一重要榜单来了！》 【导读】基金公司固定收益类基金中长期业绩榜单公布 中国基金报记者 方丽 孙晓辉 固收类基金作为资产配置的“压舱石”...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-10-04",
-      "time": "02:24",
-      "keywords": []
-    },
-    {
-      "title": "合规大洗牌中的私募人",
-      "source": "界面",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzkxp5641381.shtml",
-      "content": "界面新闻记者 | 龙力界面新闻编辑 | 宋烨珺 “每年都在往里面贴钱，实在撑不下去了。”经过再三考虑以后，北京某私募创始人华峰（化名）最终还是决定...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-10-04",
-      "time": "01:00",
-      "keywords": []
-    },
-    {
-      "title": "机构研判A股节后大概率回暖",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzkxf3376621.shtml",
-      "content": " 9月29日，A股整体呈现止跌企稳态势，三大股指集体收涨，市场成交额创出1年多以来新低，房地产、传媒、有色金属等板块涨幅居前，市场风格再平衡进程仍在延续。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-10-04",
-      "time": "00:55",
+      "time": "10:14",
       "keywords": []
     },
     {
@@ -829,6 +606,567 @@
       ]
     },
     {
+      "title": "苹果新任CEO特努斯上任即亲掌设计，10月密集推新品对冲服务业务放缓",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-iniuassy0134334.shtml",
+      "content": "苹果新任首席执行官John Ternus上任头几周将设计列为优先事项。此外，除了触摸屏和转向OLED技术外，苹果改版后的MacBook Pro还有另一项重大变化。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-04",
+      "time": "14:46",
+      "keywords": []
+    },
+    {
+      "title": "从十篇“金轩”文章看中国经济：新动能、新空间、新支撑同向发力",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/stock/2026-10-04/doc-iniuassy0129926.shtml",
+      "content": "2026年9月下旬以来，在《人民日报》重要版面上，十篇署名为“金轩”的重要文章陆续刊发，聚焦“新机遇新空间新动能”，从北斗、生物制造、智能经济，到综合交通运输...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-04",
+      "time": "14:30",
+      "keywords": []
+    },
+    {
+      "title": "OPEC+主要成员国同意11月维持产量目标不变",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-iniuassv3493653.shtml",
+      "content": "OPEC+主要成员国同意下个月维持产量配额不变，与此同时中东冲突继续导致该联盟相当大一部分石油生产陷入停滞。 OPEC在一份声明中表示...",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-10-04",
+      "time": "14:22",
+      "keywords": []
+    },
+    {
+      "title": "余承东回应误发“余总转发文案”：没想到工作备注比正文还抢镜",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/2026-10-04/doc-iniuanma0247722.shtml",
+      "content": "新浪科技讯 10月4日晚间消息，10月3日，华为常务董事、产品投资评审委员会主任、终端BG董事长余承东在微博转发鸿蒙智行宣传内容，文案中却出现“余总转发文案”字样...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-04",
+      "time": "14:05",
+      "keywords": []
+    },
+    {
+      "title": "伊朗外长：敌方军事行动将遭到“更具毁灭性”回击",
+      "source": "新华社",
+      "url": "https://finance.sina.com.cn/roll/2026-10-04/doc-iniuankz5209027.shtml",
+      "content": "新华社德黑兰10月4日电（记者 沙达提）伊朗外交部长阿拉格齐4日表示，尽管伊朗仍愿通过外交途径寻求“公正且体面”的解决方案，但如果敌人再次诉诸军事行动...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-04",
+      "time": "13:05",
+      "keywords": []
+    },
+    {
+      "title": "视频|男子被无人驾驶车车门夹手无法脱困 表情痛苦直跺脚“快帮我打电话!”小马智行:比较特殊之前没有遇到过",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/2026-10-04/doc-iniuankz5203101.shtml",
+      "content": "",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-04",
+      "time": "12:46",
+      "keywords": []
+    },
+    {
+      "title": "特朗普宣布成立“超级智能特别工作组”",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-04/doc-iniuankx3599582.shtml",
+      "content": " 当地时间10月4日，美国总统特朗普宣布成立“超级智能特别工作组”（Super Intelligence Force，SIF），负责协调美国联邦政府在超级智能领域的相关工作。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-04",
+      "time": "12:37",
+      "keywords": []
+    },
+    {
+      "title": "2026国庆档总票房破7亿",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/stock/2026-10-04/doc-iniuanmc6976498.shtml",
+      "content": "原标题：总票房，破7亿 据猫眼专业版数据，截至10月4日晚间，2026年国庆档（10月1日-10月7日）档期票房已破7亿元，《神探之痕迹》《什么意思夫妇》《欢迎来龙餐馆》暂列国...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-04",
+      "time": "12:16",
+      "keywords": []
+    },
+    {
+      "title": "中国人民大学：1位校友捐赠5.03亿元",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/roll/2026-10-04/doc-iniuahce0286178.shtml",
+      "content": "来源：中国人民大学 从“新中国新大学”到“新时代新校园”，以新布局构建新格局，以新空间助力走新路。 近期，中国人民大学收到一位校友5.03亿元捐赠...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "10:29",
+      "keywords": []
+    },
+    {
+      "title": "伊朗回应美方提议：现阶段重点是霍尔木兹海峡问题",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-04/doc-iniuahcc5298884.shtml",
+      "content": "针对美国对伊朗所提出计划的回应，伊朗外交部发言人巴加埃4日表示，伊朗曾在短暂访问卡塔尔期间向调解方卡塔尔阐述了伊朗的立场。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "10:14",
+      "keywords": []
+    },
+    {
+      "title": "RO膜阻垢剂商品报价动态（2026-10-04）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-04/doc-iniuahcf7052576.shtml",
+      "content": "生意社10月04日讯交易商品牌/产地交货地最新报价RO膜阻垢剂 密度＞1.05河南汇亿海环保科技有限公司汇亿海河南省4500元/吨 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "10:11",
+      "keywords": []
+    },
+    {
+      "title": "纯白色石英砂滤料商品报价动态（2026-10-04）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-04/doc-iniuahaz3689381.shtml",
+      "content": "生意社10月04日讯交易商品牌/产地交货地最新报价纯白色石英砂滤料 1-3mm河南汇亿海环保科技有限公司汇亿海河南省860元/吨 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "10:11",
+      "keywords": []
+    },
+    {
+      "title": "聚醚聚醚酯消泡剂商品报价动态（2026-10-04）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-04/doc-iniuahcf7052580.shtml",
+      "content": "生意社10月04日讯交易商品牌/产地交货地最新报价聚醚聚醚酯消泡剂 99含量河南汇亿海环保科技有限公司汇亿海河南省14500元/吨 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "10:11",
+      "keywords": []
+    },
+    {
+      "title": "液体尿素商品报价动态（2026-10-04）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/agri/2026-10-04/doc-iniuahce0280094.shtml",
+      "content": "生意社10月04日讯交易商品牌/产地交货地最新报价液体尿素 46% min河南汇亿海环保科技有限公司汇亿海河南省2800元/吨 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "10:11",
+      "keywords": []
+    },
+    {
+      "title": "活性炭颗粒状商品报价动态（2026-10-04）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-04/doc-iniuahce0280028.shtml",
+      "content": "生意社10月04日讯交易商品牌/产地交货地最新报价活性炭颗粒状 煤质3-6mm碘值300-1000河南汇亿海环保科技有限公司汇亿海河南省4200元/吨 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "10:11",
+      "keywords": []
+    },
+    {
+      "title": "十二烷基二甲基苄基氯化铵 1227商品报价动态（2026-10-04）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-04/doc-iniuahcf7052601.shtml",
+      "content": "生意社10月04日讯交易商品牌/产地交货地最新报价十二烷基二甲基苄基氯化铵 1227 活性物含量＞44%河南汇亿海环保科技有限公司汇亿海河南省11000元/吨 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "10:11",
+      "keywords": []
+    },
+    {
+      "title": "食用小苏打商品报价动态（2026-10-04）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/agri/2026-10-04/doc-iniuahcc5294386.shtml",
+      "content": "生意社10月04日讯交易商品牌/产地交货地最新报价食用小苏打 99.5%河南汇亿海环保科技有限公司汇亿海河南省1300元/吨 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "10:11",
+      "keywords": []
+    },
+    {
+      "title": "增硫剂商品报价动态（2026-10-04）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-04/doc-iniuahcc5294345.shtml",
+      "content": "生意社10月04日讯交易商品牌/产地交货地最新报价增硫剂 硫48%铁45%河南汇亿海环保科技有限公司汇亿海河南省1200元/吨 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "10:11",
+      "keywords": []
+    },
+    {
+      "title": "阻垢分散剂商品报价动态（2026-10-04）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-04/doc-iniuahaz3689424.shtml",
+      "content": "生意社10月04日讯交易商品牌/产地交货地最新报价阻垢分散剂 PH：2±1河南汇亿海环保科技有限公司汇亿海河南省3000元/吨 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "10:11",
+      "keywords": []
+    },
+    {
+      "title": "食用玉米淀粉商品报价动态（2026-10-04）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-04/doc-iniuahaz3689402.shtml",
+      "content": "生意社10月04日讯交易商品牌/产地交货地最新报价食用玉米淀粉 食品级河南汇亿海环保科技有限公司汇亿海河南省3000元/吨 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "10:11",
+      "keywords": []
+    },
+    {
+      "title": "聚合硫酸铁液体商品报价动态（2026-10-04）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-04/doc-iniuahaz3689419.shtml",
+      "content": "生意社10月04日讯交易商品牌/产地交货地最新报价聚合硫酸铁液体 液体 含量≥11%河南汇亿海环保科技有限公司汇亿海河南省490元/吨 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "10:11",
+      "keywords": []
+    },
+    {
+      "title": "除铜剂商品报价动态（2026-10-04）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-04/doc-iniuahaz3689416.shtml",
+      "content": "生意社10月04日讯交易商品牌/产地交货地最新报价除铜剂 硫≥45%，铁45%河南汇亿海环保科技有限公司汇亿海河南省1350元/吨 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "有色"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "10:11",
+      "keywords": []
+    },
+    {
+      "title": "钾明矾\t商品报价动态（2026-10-04）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-04/doc-iniuahce0280019.shtml",
+      "content": "生意社10月04日讯交易商品牌/产地交货地最新报价钾明矾 含量99%河南汇亿海环保科技有限公司国产河南省900元/吨 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "10:11",
+      "keywords": []
+    },
+    {
+      "title": "二水氯化钙\t商品报价动态（2026-10-04）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-04/doc-iniuahcf7052557.shtml",
+      "content": "生意社10月04日讯交易商品牌/产地交货地最新报价二水氯化钙 74%含量；片状河南汇亿海环保科技有限公司汇亿海河南省850元/吨 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "10:11",
+      "keywords": []
+    },
+    {
+      "title": "水处理活性炭商品报价动态（2026-10-04）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-04/doc-iniuahce0280084.shtml",
+      "content": "生意社10月04日讯交易商品牌/产地交货地最新报价水处理活性炭 300-1300碘值河南汇亿海环保科技有限公司汇亿海河南省1350元/吨 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "10:11",
+      "keywords": []
+    },
+    {
+      "title": "磷酸氢二钾商品报价动态（2026-10-04）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-04/doc-iniuahcf7052588.shtml",
+      "content": "生意社10月04日讯交易商品牌/产地交货地最新报价磷酸氢二钾 99% 国标，优等品河南汇亿海环保科技有限公司汇亿海河南省8300元/吨 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "10:11",
+      "keywords": []
+    },
+    {
+      "title": "聚合氧化铝（PAC）商品报价动态（2026-10-04）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-04/doc-iniuahce0280027.shtml",
+      "content": "生意社10月04日讯交易商品牌/产地交货地最新报价聚合氧化铝（PAC） 含量10%河南汇亿海环保科技有限公司汇亿海河南省80元/吨 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "有色"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "10:11",
+      "keywords": []
+    },
+    {
+      "title": "明矾\t商品报价动态（2026-10-04）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-04/doc-iniuahce0280020.shtml",
+      "content": "生意社10月04日讯交易商品牌/产地交货地最新报价明矾 含量＞99%河南汇亿海环保科技有限公司国产河南省1000元/吨 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "10:11",
+      "keywords": []
+    },
+    {
+      "title": "污水处理好氧菌种商品报价动态（2026-10-04）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-04/doc-iniuahaz3689395.shtml",
+      "content": "生意社10月04日讯交易商品牌/产地交货地最新报价污水处理好氧菌种 有效菌落＞200亿河南汇亿海环保科技有限公司汇亿海河南省23元/千克 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "10:11",
+      "keywords": []
+    },
+    {
+      "title": "C PAM聚丙烯酰胺商品报价动态（2026-10-04）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-04/doc-iniuahcf7052607.shtml",
+      "content": "生意社10月04日讯交易商品牌/产地交货地最新报价C PAM聚丙烯酰胺 污水处理絮凝剂河南汇亿海环保科技有限公司国产河南省4500元/吨 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "10:11",
+      "keywords": []
+    },
+    {
+      "title": "固体除氟剂商品报价动态（2026-10-04）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-04/doc-iniuahaz3689388.shtml",
+      "content": "生意社10月04日讯交易商品牌/产地交货地最新报价固体除氟剂 固体；99%含量河南汇亿海环保科技有限公司汇亿海河南省1500元/吨 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "10:11",
+      "keywords": []
+    },
+    {
+      "title": "三氯异氰尿酸钠商品报价动态（2026-10-04）",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-04/doc-iniuahcf7052598.shtml",
+      "content": "生意社10月04日讯交易商品牌/产地交货地最新报价三氯异氰尿酸钠 含量≥90%以上河南汇亿海环保科技有限公司汇亿海河南省7600元/吨 （文章来源：生意社）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "10:11",
+      "keywords": []
+    },
+    {
+      "title": "视频|黄仁勋:十杯烧酒下肚，男人也敢亲",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/roll/2026-10-04/doc-iniuahcc5290670.shtml",
+      "content": "",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "10:09",
+      "keywords": []
+    },
+    {
+      "title": "日本外务大臣召见美国大使，就驻日美军涉嫌杀人案提出抗议",
+      "source": "环球网",
+      "url": "https://finance.sina.com.cn/roll/2026-10-04/doc-iniuahaz3680438.shtml",
+      "content": " 【环球网报道 记者 赵建东】据日本外务省网站4日消息，日本外务大臣茂木敏充当天就驻日美军涉嫌杀人案召见美国驻日大使乔治·格拉斯，并就此事向格拉斯提出抗议。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "09:46",
+      "keywords": []
+    },
+    {
+      "title": "“要让肇事者付出代价！”东航就“空姐下跪事件”报案，六成网友支持“应加大惩戒辱骂者”",
+      "source": "BUG",
+      "url": "https://finance.sina.com.cn/tob/2026-10-04/doc-initzzvh0368596.shtml",
+      "content": "文 | 《BUG》栏目 徐苑蕾 近日，“东方航空空姐下跪事件”相关话题多次登上热搜。东方航空发布最新通报，涉事旅客涉嫌扰乱民用航空器内秩序，已正式向公安机关报案...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "08:53",
+      "keywords": []
+    },
+    {
+      "title": "多家银行跟进！房贷贴息操作细则陆续披露",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-04/doc-initzzvf5399953.shtml",
+      "content": "居民购房贷款贴息新政加速落实！ 券商中国记者注意到，日前，包括邮储银行、浦发银行、宁波银行等在内的国有大行、股份行及城商行...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "08:47",
+      "keywords": []
+    },
+    {
+      "title": "加仓！巴菲特，逆势买入！什么信号？",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-10-04/doc-initzzvi7142176.shtml",
+      "content": "巴菲特旗下伯克希尔．哈撒韦又加仓了！ 最新披露数据显示，9月28日至10月2日当周，伯克希尔．哈撒韦再度增持美国住宅建筑商Lennar（莱纳房屋）股份，持股比例提高至11...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "08:47",
+      "keywords": []
+    },
+    {
+      "title": "一艘油轮在霍尔木兹海峡遭袭",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzzvc3792921.shtml",
+      "content": "英国海上贸易行动办公室4日发布通报说，一艘油轮在霍尔木兹海峡遭袭。 通报说，该油轮被“不明发射物”击中，机舱受损，但船上人员安全，目前暂未收到关于环境影响的报告。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "08:35",
+      "keywords": []
+    },
+    {
+      "title": "重要数据“爆冷”，高利率压力仍在，国际金价怎么走？",
+      "source": "中国证券报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzzvh0359207.shtml",
+      "content": "国际金价在美国非农数据公布后，走出一轮“过山车”行情。 当地时间10月2日，美国公布的9月新增非农就业人数仅为2.9万人，明显低于市场预期。",
+      "priority": "low",
+      "sectors": [
+        "黄金",
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "08:27",
+      "keywords": []
+    },
+    {
+      "title": "视频丨副驾驶多次执飞特拉维夫航线 迪拜航空安全审查遭质疑",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzzvf5390788.shtml",
+      "content": " 9月30日，阿联酋迪拜航空公司一架飞往以色列的航班发生副驾驶袭击机长事件。主导调查的阿联酋检方3日称，涉事副驾驶企图实施“恐怖活动”。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-04",
+      "time": "08:13",
+      "keywords": []
+    },
+    {
       "title": "伊朗称已就美国提案作出回应",
       "source": "滚动播报",
       "url": "https://finance.sina.com.cn/stock/2026-10-04/doc-initzzvc3782404.shtml",
@@ -840,342 +1178,6 @@
       "period": "morning",
       "date": "2026-10-04",
       "time": "08:13",
-      "keywords": []
-    },
-    {
-      "title": "法国汽车制造商雷诺利用大规模制造经验进军无人机领域",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzzvh0326172.shtml",
-      "content": "法国汽车制造商雷诺正将其在大规模生产领域积累的经验应用于无人机生产，通过与法国国防电子企业泰雷兹合作，计划将“Toutatis”无人机月产能提升至1000架...",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "morning",
-      "date": "2026-10-04",
-      "time": "07:38",
-      "keywords": []
-    },
-    {
-      "title": "华尔街IPO热潮降温 需求疲软与估值担忧导致多宗上市暂停",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzzvh0323551.shtml",
-      "content": " 近期，华尔街首次公开募股市场明显降温，投资者对新股需求疲软以及对高估值的担忧，令本被寄予厚望的上市旺季遇冷。过去数周，多家企业暂停或推迟在美国上市的计划。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-04",
-      "time": "07:33",
-      "keywords": []
-    },
-    {
-      "title": "商务部回应G20贸易部长会议：坚持原则 促谈促合",
-      "source": "新华社",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzzvh0321184.shtml",
-      "content": "新华财经北京10月4日电（记者谢希瑶）商务部新闻发言人4日就二十国集团（G20）贸易部长会议及相关情况答记者问时表示，本次G20贸易部长会议...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-04",
-      "time": "07:25",
-      "keywords": []
-    },
-    {
-      "title": "木头姐：聪明的投资者需要开始关注AI Agent把钱花到哪里",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpf3899087.shtml",
-      "content": "随着AI智能体从回答问题发展到真正花钱，投资者和科技巨头正竞相争夺对机器驱动商业活动背后金融网络的控制权。 多年来，ARK Invest首席执行官“木头姐”Cathie...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-10-04",
-      "time": "07:21",
-      "keywords": []
-    },
-    {
-      "title": "伦敦支付基础设施公司OpenPayd计划年底前在纳斯达克上市",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpk0438447.shtml",
-      "content": "伦敦支付基础设施公司OpenPayd计划年底前在纳斯达克上市，以资助其美国市场扩张和收购计划。该公司首席执行官Iana Dimitrova表示...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-04",
-      "time": "07:08",
-      "keywords": []
-    },
-    {
-      "title": "伊朗外长：任何侵略行径将迎来更沉重的回击",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzvpi5503324.shtml",
-      "content": "当地时间4日，伊朗外长阿拉格齐在会见驻伊各国使节时表示，伊朗坚定立场基于既奉行“有尊严的外交”，又“坚决捍卫国家安全”。他表示，伊朗向敌人发出的明确信号是，一方面...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-04",
-      "time": "07:04",
-      "keywords": []
-    },
-    {
-      "title": "小马智行回应乘客被夹手事件：已配合交警调查，属意外而非交通事故",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tob/2026-10-04/doc-initzvpm7205109.shtml",
-      "content": "新浪科技讯 10月4日下午消息，昨日晚间，一乘客被小马智行无人驾驶车门夹住手指的视频流出，引发广泛关注。 对此，小马智行方面回应新浪科技称：“10月3日...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-04",
-      "time": "06:57",
-      "keywords": []
-    },
-    {
-      "title": "雷诺未来五年将在法国再投超100亿欧元，加码电动车和更低价车型",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpk0428562.shtml",
-      "content": "雷诺集团计划未来五年在法国投资超过100亿欧元，用于继续推进电动车生产，同时开发价格更低、更具可负担性的车型。首席执行官François Provost表示...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-04",
-      "time": "06:49",
-      "keywords": []
-    },
-    {
-      "title": "伊朗议长：在条件满足之前 霍尔木兹海峡不会重新开放",
-      "source": "央视新闻客户端",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzvpf3895248.shtml",
-      "content": "当地时间4日，伊朗议会议长卡利巴夫表示，面对伊朗的坚定立场与顽强抵抗，美国陷入绝望境地。 卡利巴夫表示，尽管美国有另一套说辞...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-04",
-      "time": "06:49",
-      "keywords": []
-    },
-    {
-      "title": "视频丨迪拜航空机长回忆遭袭细节：后脑勺遭重击 拼死打开驾驶舱门",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzvpm7204389.shtml",
-      "content": " 9月30日，阿联酋迪拜航空公司一架飞往以色列的航班发生副驾驶袭击机长事件。主导调查的阿联酋检方3日称，涉事副驾驶企图实施“恐怖活动”。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-04",
-      "time": "06:46",
-      "keywords": []
-    },
-    {
-      "title": "Truist比较Meta Muse与OpenAI Dots：Meta先赢在分发，OpenAI更偏企业和复杂任务",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpm7197943.shtml",
-      "content": "Truist Securities认为，Meta正在新兴AI Agent市场取得早期优势，但这种优势主要来自其庞大的消费者用户基础和广告生态，而不是底层模型能力本身。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-10-04",
-      "time": "06:44",
-      "keywords": []
-    },
-    {
-      "title": "离职员工爆料OpenAI风险意识不足",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzvpf3891151.shtml",
-      "content": " 当地时间3日，最近从美国开放人工智能研究中心（OpenAI）离职的一名员工爆料前东家风险意识不足，并呼吁人工智能（AI）产业效仿航空或核能产业，采取多重安全防护措施。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-10-04",
-      "time": "06:33",
-      "keywords": []
-    },
-    {
-      "title": "胡塞武装称袭击利雅得附近沙特阿美设施，也门战事同步升级",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpm7185053.shtml",
-      "content": "也门胡塞武装称，其使用弹道导弹和无人机袭击了利雅得附近一处沙特阿美石油设施，并称袭击引发火灾。现场目击者当天看到该设施附近出现大火和大量浓烟，但截至目前...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-04",
-      "time": "06:20",
-      "keywords": []
-    },
-    {
-      "title": "默茨访乌带来13.5亿欧元援助，德乌拟敲定无人机和远程武器联合生产协议",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-04/doc-initzvpi5484485.shtml",
-      "content": "德国总理默茨周日抵达基辅，准备宣布新一轮对乌军事和能源援助，并推动德国与乌克兰敲定无人机、导弹及相关软件的联合生产协议。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-04",
-      "time": "06:18",
-      "keywords": []
-    },
-    {
-      "title": "美方称星巴克在新疆开设门店“道德沦丧” 外交部回应",
-      "source": "央视新闻客户端",
-      "url": "https://finance.sina.com.cn/roll/2026-10-03/doc-inityccz4625352.shtml",
-      "content": "10月3日，外交部发言人郭嘉昆答记者问。 记者提问称，美国国会众院“中国特设委”指责星巴克将在中国新疆开设门店的决定“道德沦丧”，称中国政府对维吾尔族实施“种族灭绝”。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-10-04",
-      "time": "04:15",
-      "keywords": []
-    },
-    {
-      "title": "商务部新闻发言人就二十国集团贸易部长会议及相关情况答记者问",
-      "source": "央视新闻客户端",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzrfn0469218.shtml",
-      "content": "商务部新闻发言人就二十国集团贸易部长会议及相关情况答记者问。 问：9月30日至10月1日，G20贸易部长会议在美国威斯康星州密尔沃基举行。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-10-04",
-      "time": "04:03",
-      "keywords": []
-    },
-    {
-      "title": "贝森特“灭火”：美债收益率上升属全球现象，驳斥AI泡沫担忧",
-      "source": "智通财经APP",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-04/doc-initzrfn0452363.shtml",
-      "content": " 美国财政部长贝森特为近期国债收益率攀升进行辩护，并对人工智能泡沫论予以驳斥，同时暗示美国政府未来或将向更多盟友国家提供金融援助。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-10-04",
-      "time": "03:33",
-      "keywords": []
-    },
-    {
-      "title": "伊拉克将200万桶原油运出霍尔木兹海峡交货",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-04/doc-initzrfm5561802.shtml",
-      "content": "伊拉克油轮公司3日证实，已使用一艘大型油轮将200万桶原油运出霍尔木兹海峡，向在海峡外等候的买家交货。按公司高管的说法，这是这家国营公司几十年来首次通过这种办法交货...",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "night",
-      "date": "2026-10-04",
-      "time": "03:09",
-      "keywords": []
-    },
-    {
-      "title": "苹果确认：存在缺陷，可免费换新机",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-10-04/doc-initzrfm5566682.shtml",
-      "content": "据央视财经援引彭博社及多家美国科技媒体报道，部分使用美国电话电报公司（AT&amp;T）通信服务的iPhone 18 Pro Max用户因设备问题无法接收蜂窝网络信号...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-10-04",
-      "time": "03:03",
-      "keywords": []
-    },
-    {
-      "title": "新政后，北京楼市“微变”",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/roll/2026-10-04/doc-initzrfm5550318.shtml",
-      "content": "新政后，北京楼市“微变”，在售新房热销楼盘去化率加速。 10月1日，国庆假期第一天，新房市场阶段性放量仍在持续。记者实地走访北京丰台、石景山...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-10-04",
-      "time": "02:51",
-      "keywords": []
-    },
-    {
-      "title": "日均烧50万美元！OpenAI又一位核心人物出走",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-10-04/doc-initzkxp5675745.shtml",
-      "content": "来源：格隆汇 OpenAI 正为旗下AI智能体的一连串越界行为，支付越来越高昂的代价。 据英国《卫报》，为调查智能体攻击澳大利亚Medicare医保系统与开源平台Hugging...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-10-04",
-      "time": "02:33",
-      "keywords": []
-    },
-    {
-      "title": "A股前三季度新股上市首日零破发，4只“大肉签”浮盈超30万",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-04/doc-initzkxm4061998.shtml",
-      "content": "来源：澎湃新闻 A股前三季度新股上市首日零破发，4只“大肉签”浮盈超30万 2026年前三季度A股新股上市首日零破发，首日收盘单签浮盈过万的超过四成。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-10-04",
-      "time": "02:12",
-      "keywords": []
-    },
-    {
-      "title": "OpenAI安全负责人辞职：企业文化“已崩溃”，AI竞赛该减速了吗？",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/t/2026-10-04/doc-initzkxf3418581.shtml",
-      "content": "来源：环球网 【环球网科技综合报道】据《卫报》消息，OpenAI的一名安全负责人已经辞职。他警告说，公司的文化已经崩溃，人工智能公司在开发这项技术时“远远不够谨慎”。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-10-04",
-      "time": "01:52",
-      "keywords": []
-    },
-    {
-      "title": "沙特阿美石油公司遭袭",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/wm/2026-10-04/doc-initzkxm4040338.shtml",
-      "content": "来源：央视财经 也门胡塞武装当地时间3日晚发表声明说，为回应沙特方面对萨那及也门其他地区的空袭，胡塞武装当天使用多枚弹道导弹和无人机...",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "night",
-      "date": "2026-10-04",
-      "time": "00:56",
       "keywords": []
     },
     {
