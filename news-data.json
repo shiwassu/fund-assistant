@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-06T15:25:31.134123",
+  "updated": "2026-10-06T21:12:03.056267",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,82 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 25,
-    "medium": 24,
-    "low": 101
+    "high": 22,
+    "medium": 26,
+    "low": 102
   },
   "items": [
+    {
+      "title": "央行官员谈黄金投资 理由从分散风险到数字资产策略不一而足",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-07/doc-iniuimev5374085.shtml",
+      "content": " 本周在意大利与会的央行官员强调，随着地缘政治不确定性和制裁风险提升黄金这一避险资产的吸引力，黄金在实现储备多元化方面正发挥越来越重要的战略作用。",
+      "priority": "high",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "noon",
+      "date": "2026-10-06",
+      "time": "17:24",
+      "keywords": []
+    },
+    {
+      "title": "Marvell发布长期营收展望，股价上涨4%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuimev5370347.shtml",
+      "content": "周二午盘，Marvell Technology股价大涨超 4%，公司在投资者日活动上公布了长期营收指引。 Marvell预计，2028 财年营收将达到 200 亿美元...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-06",
+      "time": "17:10",
+      "keywords": []
+    },
+    {
+      "title": "美股小盘股落后于大盘涨势",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuimet8592198.shtml",
+      "content": "周二三大股指大幅上涨，但小盘股表现不及大盘。罗素 2000 指数最新点位勉强持平；标普 500 指数上涨 0.8%。纳斯达克综合指数盘中与标普 500 一同创下历史新高，同样收涨 0...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-06",
+      "time": "16:57",
+      "keywords": []
+    },
+    {
+      "title": "日本央行佐藤绫野告诉共同社：赞同逐步调整利率 将关注消费和收入",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-06/doc-iniuiewy6695681.shtml",
+      "content": "‘’日本央行审议委员佐藤绫野接受共同社采访时表示，她赞同逐步调整利率的政策，但希望密切关注消费和收入的变化。 佐藤绫野表示，个人消费的势头并不强劲。",
+      "priority": "high",
+      "sectors": [
+        "消费",
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-10-06",
+      "time": "15:45",
+      "keywords": []
+    },
+    {
+      "title": "美联储鲍曼称央行将很快考虑提高银行监管的资产规模门槛",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-06/doc-iniuiewv8693100.shtml",
+      "content": " 美联储一位高级官员周二表示，美联储将很快公布一项计划，提高通常会触发对美国大型银行实施更严格监管的资产规模门槛。",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-10-06",
+      "time": "15:38",
+      "keywords": []
+    },
     {
       "title": "SpaceX 股价再度腾飞，但这次出现一处关键变化",
       "source": "环球市场播报",
@@ -66,118 +137,6 @@
       "period": "noon",
       "date": "2026-10-06",
       "time": "14:42",
-      "keywords": []
-    },
-    {
-      "title": "深夜，美股续创新高！",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-06/doc-iniuiexc5402551.shtml",
-      "content": "美股三大指数集体高开，道琼斯指数涨0.36%，标普500指数涨0.47%，纳斯达克综合指数涨0.57%续创新高。标普500指数开盘后快速冲高，创历史新高，日内一度涨幅达0.6%...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-06",
-      "time": "14:13",
-      "keywords": []
-    },
-    {
-      "title": "美联储10月加息预期降低？机构详解",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-06/doc-iniuiexc5400785.shtml",
-      "content": "近日，美国劳工统计局发布的最新数据显示，9月美国非农就业呈现出需求再度转弱、供给延续改善的局面，劳务市场边际松弛，劳务总供需缺口自4月以来再度转负...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-06",
-      "time": "14:13",
-      "keywords": []
-    },
-    {
-      "title": "历史新高！今夜，沸腾！欧美股债“齐飞”",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-06/doc-iniuiexc5400494.shtml",
-      "content": "欧美股市、债市集体上涨！ 北京时间周二（10月6日）晚间，随着油价的大幅跳水，全球股市、债市纷纷走强。截至记者发稿，纳指涨0.73%，续创历史新高；标普500指数涨0.72%...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-06",
-      "time": "14:13",
-      "keywords": []
-    },
-    {
-      "title": "标普500指数创纪录新高 油价回落且AI交易热情再度升温",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuhyqx8786300.shtml",
-      "content": "油价回落推动美股升至历史新高，华尔街也受到人工智能交易热情再度升温的提振。AI热潮一直是本轮牛市的重要推动力。 纽约时间9：33，标普500指数和纳斯达克100指数上涨0...",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-10-06",
-      "time": "13:57",
-      "keywords": []
-    },
-    {
-      "title": "法国AI初创企业Mistral发布欧洲最强开源大模型",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuhyra6792951.shtml",
-      "content": "Mistral周二推出一款全新AI模型，该公司表示其跻身全球顶尖开源模型之列。 这家法国企业介绍，Mistral Large 4（简称ML4，代号le Chonk）是拥有1万亿参数的大模型...",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-10-06",
-      "time": "13:34",
-      "keywords": []
-    },
-    {
-      "title": "开盘：油价、收益率回落提振美股高开，标普500有望再创收盘历史新高",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuhyrf5518140.shtml",
-      "content": "受科技龙头股上涨、美债收益率与油价下行推动，标普 500 指数周二走高，冲击全新收盘纪录。 道指涨0.38%，标普500指数涨0.46%，纳指涨0.64%。 芯片板块走强助推大盘上行。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-06",
-      "time": "13:30",
-      "keywords": []
-    },
-    {
-      "title": "美国8月贸易逆差达1056亿美元，创去年特朗普关税政策落前以来新高",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuhyrf5514826.shtml",
-      "content": " 美国商务部周二公布数据：受人工智能产业建设相关商品大量进口，叠加进口关税政策波动影响，美国 8 月贸易逆差大幅扩大。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-06",
-      "time": "13:13",
-      "keywords": []
-    },
-    {
-      "title": "迪士尼首席法务官：务实派迎来职业生涯最大硬仗",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuhyra6775703.shtml",
-      "content": " 奥拉西奥・古铁雷斯曾在微软案中对抗监管机构，在 Spotify 时期迎战苹果。如今，他正带领迪士尼与特朗普政府打响宪法第一修正案相关诉讼。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-06",
-      "time": "12:28",
       "keywords": []
     },
     {
@@ -390,6 +349,146 @@
       ]
     },
     {
+      "title": "10月7日热门中概股多数上涨 富途涨超3% 万国数据涨超5%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuirnx5227435.shtml",
+      "content": "10月7日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收涨0.31%。 上涨个股（按市值从高到低）：拼多多涨0.64%，京东涨0.53%，百度涨0.07%，贝壳涨1.58%，富途控股涨3...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-06",
+      "time": "20:52",
+      "keywords": []
+    },
+    {
+      "title": "霍尔木兹海峡运输量上升之际 石油行业高管仍警告缓冲空间日益收窄",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuirnr8538693.shtml",
+      "content": "随着伊朗战争进入第八个月，多位石油行业高管警告，全球为缓解这场冲突影响所能采取的临时应对措施正在逐渐耗尽。 自2月以来，这场战争扰乱了霍尔木兹海峡的航运。",
+      "priority": "medium",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-10-06",
+      "time": "20:50",
+      "keywords": []
+    },
+    {
+      "title": "纽约汇市：美元兑多数G10货币走弱 美债收益率脱离多年高位",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuirnu6500988.shtml",
+      "content": "随着美国国债收益率从接近数十年高位回落，以及油价企稳，美元兑多数G10货币走弱。 美元即期指数下跌0.2%至1220.18；10年期美国国债收益率下跌3个基点至5.27%。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-06",
+      "time": "20:50",
+      "keywords": []
+    },
+    {
+      "title": "Anthropic扩大先进AI模型访问权限 允许特定机构开展网络安全测试",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuirnx5226808.shtml",
+      "content": "Anthropic正与美国政府合作，扩大其最先进AI模型的使用权限，允许一批经过筛选的机构测试这家初创公司的尖端网络能力 根据周二发布的声明...",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-10-06",
+      "time": "20:49",
+      "keywords": []
+    },
+    {
+      "title": "10月7日收盘：标普首次收盘站上7800点 纳指创新高 受科技股上涨和收益率走低提振",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuirnu6494941.shtml",
+      "content": "标普500指数周二升至新的盘中历史高点，受关键科技股上涨以及美国国债收益率下降提振。 该广泛市场指数上涨0.58%，收于创纪录的7818.93点；道琼斯工业平均指数上涨253...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-06",
+      "time": "20:17",
+      "keywords": []
+    },
+    {
+      "title": "欧洲股市三连涨 油价和债券收益率回落提振风险偏好",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-07/doc-iniuimew6602422.shtml",
+      "content": "欧洲股市连续第三个交易日上涨，油价回落和债券收益率下降提振了风险偏好。 斯托克欧洲600指数收涨0.5%。旅游股和汽车股跑赢大盘，电信和工业板块表现落后。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-06",
+      "time": "18:30",
+      "keywords": []
+    },
+    {
+      "title": "对冲基金9月业绩排行榜：德劭录得上涨 Haidar宏观基金回报率近18%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-07/doc-iniuimez5326853.shtml",
+      "content": "在9月全球债市剧烈波动环境下，德劭旗下对冲基金以及Said Haidar的宏观交易策略基金成为赢家。 不具名知情人士称，德劭主要多策略对冲基金Composite上月回报率1.5%...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-06",
+      "time": "18:20",
+      "keywords": []
+    },
+    {
+      "title": "美国财长贝森特重弹降债老调 市场人士直言“愿景不是计划”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-07/doc-iniuimev5374582.shtml",
+      "content": " 美国财政部长贝森特表示，经济增长和财政撙节双管齐下能够遏制联邦赤字，但面对政府庞大的负债额，市场策略师怀疑这种做法未必奏效。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-06",
+      "time": "17:26",
+      "keywords": []
+    },
+    {
+      "title": "华尔街看多SpaceX的情绪持续升温",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuimev5364262.shtml",
+      "content": "华尔街对 SpaceX 的看多情绪正在升温。 高盛分析师埃里克・谢里丹在周一发给客户的研报中，给予该股买入评级，目标价 230 美元，潜在上涨空间达 44.7%。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-06",
+      "time": "16:55",
+      "keywords": []
+    },
+    {
+      "title": "这家初创企业希望降低预测市场中追加保证金的爆仓清算风险",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuiewy6699458.shtml",
+      "content": "核心要点 Edge Markets 正在搭建一套系统，机构可以通过该系统批准可投入预测市场的资金规模；即便传统银行系统休市，资金依旧可以在银行与交易市场之间流转。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-06",
+      "time": "16:02",
+      "keywords": []
+    },
+    {
       "title": "美股存储芯片股下挫，希捷科技 西部数据大跌超5%，光通信巨头狂飙超10%，热门中概股普跌，黄金涨回4155美元",
       "source": "21世纪经济报道",
       "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-06/doc-iniuiewx5446904.shtml",
@@ -403,118 +502,6 @@
       "period": "noon",
       "date": "2026-10-06",
       "time": "14:23",
-      "keywords": []
-    },
-    {
-      "title": "达利欧：美国正走向债务危机，未来两年风险上升，中日等国际投资者对美债需求下降",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuiewx5436350.shtml",
-      "content": "新浪财经讯，10月6日晚间消息，在格林威治经济论坛期间，桥水基金创始人瑞·达利欧（Ray Dalio）在接受采访时表示，美国正在走向一场债务危机，随着政府债务规模持续上升...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-06",
-      "time": "14:14",
-      "keywords": []
-    },
-    {
-      "title": "机构调研超600家公司！电子、半导体成主攻方向",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-06/doc-iniuhyqx8769262.shtml",
-      "content": " Wind数据显示，9月1日至9月30日，机构调研步履不停，在节前密集走访超600家上市公司，其中57家公司获50家以上机构青睐。",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-10-06",
-      "time": "13:11",
-      "keywords": []
-    },
-    {
-      "title": "盘前：纳指期货涨0.62% 美债收益率回落",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuhyrf5506939.shtml",
-      "content": "受科技龙头上涨、美债收益率与油价双双下行的推动，美股股指期货周二走高。 截至发稿，道指期货涨0.71%，标普500指数期货涨0.50%，纳指期货涨0.62%。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-06",
-      "time": "12:30",
-      "keywords": []
-    },
-    {
-      "title": "英富曼集团拟分拆学术业务，29.6 亿美元收购克拉里昂会展",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuhyrf5492716.shtml",
-      "content": "公司表示将评估所有可行方案扶持泰勒‑弗朗西斯业务，该板块营收即将达到 10 亿美元英富曼拟收购克拉里昂会展，这家企业主办各类 B2B 线下展会...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-06",
-      "time": "11:59",
-      "keywords": []
-    },
-    {
-      "title": "KKR达成交易，收购私募基金行政服务商Gen II",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuhyrf5492347.shtml",
-      "content": "近年投资者希望降低对公开市场的依赖，私人资本基金由此大量涌现基金行政服务商能够带来稳定且持续增长的手续费收入，因此受到 KKR 这类机构投资者青睐。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-06",
-      "time": "11:58",
-      "keywords": []
-    },
-    {
-      "title": "Forbion募资26亿美元，为欧洲生物技术行业注入强心剂",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuhyrf5491331.shtml",
-      "content": "荷兰这家机构完成大额募资；尽管欧洲药企与投资者不断警示，本地区竞争力正在下滑欧洲制药行业高管一直担忧生物技术领域资金供给不足。",
-      "priority": "medium",
-      "sectors": [
-        "医药"
-      ],
-      "period": "morning",
-      "date": "2026-10-06",
-      "time": "11:54",
-      "keywords": []
-    },
-    {
-      "title": "穆迪评级上调4家头部券商评级",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-06/doc-iniuhuii5615561.shtml",
-      "content": "人民财讯10月6日电，近日，穆迪评级将4家券商的长期发行人评级从Baa1上调至A3。这4家券商分别是：中金公司、中金国际、中信证券以及国泰海通证券。",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-10-06",
-      "time": "11:30",
-      "keywords": []
-    },
-    {
-      "title": "突然，上调！“牛市旗手”，利好来袭！",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-06/doc-iniuhuii5608757.shtml",
-      "content": "近日，穆迪评级将4家券商的长期发行人评级从Baa1上调至A3。这4家券商分别是：中金公司、中金国际、中信证券以及国泰海通证券。此外，稍早前几日...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-06",
-      "time": "10:52",
       "keywords": []
     },
     {
@@ -759,6 +746,258 @@
       ]
     },
     {
+      "title": "10月7日美股成交额前20：迈威尔科技涨超5% 发布长期营收展望",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuirnr8533971.shtml",
+      "content": "周四美股成交额第2名英伟达收高0.14%，成交241.72亿美元。 英伟达支持的Reflection AI发布首款前沿开源权重模型Beam。Beam在高级推理基准测试上性能对标主流开源模型...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-06",
+      "time": "20:38",
+      "keywords": []
+    },
+    {
+      "title": "特朗普：美国拥有“非常强势的美元”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuirnt5293338.shtml",
+      "content": "美国总统特朗普在被问及美元兑欧元走强时表示，美国拥有“非常强势的美元”。 特朗普在白宫外对记者表示，强势美元意味着没通胀．",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-06",
+      "time": "19:51",
+      "keywords": []
+    },
+    {
+      "title": "Meta和沃尔玛等联手制定“个人代理协议”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuirnt5293232.shtml",
+      "content": "在Meta推出Muse一个月后，这款个人代理迅速走红，于是一批公司正联合起来，试图简化将这项技术引入商业世界的过程。 Meta、沃尔玛...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-06",
+      "time": "19:51",
+      "keywords": []
+    },
+    {
+      "title": "Anthropic扩展Claude Startups计划，旨在吸引创始人和快速成长的公司",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuirnt5292032.shtml",
+      "content": " Anthropic周二宣布，正在扩展其Claude Startups计划，这是这家人工智能实验室为加深与创始人和快速成长公司的联系所做的最新努力。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-06",
+      "time": "19:48",
+      "keywords": []
+    },
+    {
+      "title": "美国债市：国债在3年期标售表现稳健后维持涨势 油价反弹限制涨幅",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuirnt5291312.shtml",
+      "content": "美国早盘时段，美国国债走高，市场情绪改善且油价下跌之际，欧洲债券普遍上涨，为美债提供支撑。580亿美元3年期美国国债标售中标收益率低于发行前交易收益率后...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-06",
+      "time": "19:47",
+      "keywords": []
+    },
+    {
+      "title": "法国逾25万人参加学生抗议活动 内政部长称激烈程度“前所未有”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuirnu6487547.shtml",
+      "content": "法国数百所高中周二停课，教师工会加入由学生发起的抗议运动，要求政府增加教育投入。 法国内政部表示，约25.6万人参加示威，其中巴黎有5.6万人。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-06",
+      "time": "19:46",
+      "keywords": []
+    },
+    {
+      "title": "美国3年期国债拍卖中标收益率略低于发行前交易水平",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-07/doc-iniuirnt5272261.shtml",
+      "content": "美国财政部580亿美元3年期国债发行的中标收益率为4.932%，低于投标截止时4.934%的发行前交易水平。收益率曲线短端对拍卖反应不大。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-06",
+      "time": "18:45",
+      "keywords": []
+    },
+    {
+      "title": "油气运输量上升之际 伊朗对霍尔木兹海峡油轮的袭击愈发频繁",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-07/doc-iniuimez5327190.shtml",
+      "content": "就在霍尔木兹海峡石油运输量接近战前水平之际，伊朗近期对霍尔木兹海峡油轮的袭击愈发频繁。 英国海上贸易行动办公室（UKMTO）本月迄今已报告霍尔木兹海峡发生9起袭击...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-06",
+      "time": "18:22",
+      "keywords": []
+    },
+    {
+      "title": "报道：旧金山联储行长称AI需求引发的冲击或非“一次性”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-07/doc-iniuimew6595935.shtml",
+      "content": "旧金山联储行长玛丽·戴利警告称，对人工智能的强劲需求带来的经济冲击可能比一些人预期的更为普遍和持久。 “人工智能的需求似乎没有下降。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-10-06",
+      "time": "18:02",
+      "keywords": []
+    },
+    {
+      "title": "欧洲债市：法国国债连续第三日跑赢德国国债",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-07/doc-iniuimez5316560.shtml",
+      "content": "法国国债上涨，跑赢德国国债，10年期法德国债收益率利差收窄9个基点至128个基点。随着油价下跌，市场风险偏好连续第三天升温。上周...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-06",
+      "time": "17:45",
+      "keywords": []
+    },
+    {
+      "title": "阿波罗首席经济学家托斯滕・斯洛克：债券收益率或将迎来回调下行",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuimet8597163.shtml",
+      "content": "阿波罗全球管理首席经济学家托斯滕・斯洛克周二撰文表示，债券收益率可能会在下个月见顶。他列举多重因素，认为收益率会在当前至 11 月初之间摸到高点...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-06",
+      "time": "17:08",
+      "keywords": []
+    },
+    {
+      "title": "Skydance于周二完成1100亿美元收购华纳兄弟探索交易后，股价再度下跌2%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuimew6581920.shtml",
+      "content": "戴维・埃里森执掌的 Skydance 公司于周二完成对华纳兄弟探索 1100 亿美元的收购，这场持续一整年的收购争夺战就此落幕。该收购案一度牵扯南加州影视制作产业的未来...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-06",
+      "time": "16:59",
+      "keywords": []
+    },
+    {
+      "title": "经济学家称，高柴油价格或将让消费者承受“新一轮压力”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuimew6578616.shtml",
+      "content": "核心要点美国汽车协会（AAA）数据：自伊朗战争爆发以来，柴油价格上涨约 68%，周二均价达到每加仑 6.32 美元。这场冲突抑制了中东地区石油供应...",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-10-06",
+      "time": "16:42",
+      "keywords": []
+    },
+    {
+      "title": "英国航空计划在空客A380巨型客机上设置创纪录的106座商务舱",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuimev5357992.shtml",
+      "content": "核心要点英国航空将在全球最大客机空客 A380 上打造其所称的全球规模最大的商务舱。高端旅行需求热潮下，从廉价航司到大型国际旗舰航空公司...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-06",
+      "time": "16:38",
+      "keywords": []
+    },
+    {
+      "title": "瑞银首席执行官警告：局势不断恶化，法国债务危机需出台“强硬举措”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuiewv8706708.shtml",
+      "content": "核心要点瑞银首席执行官塞尔吉奥・埃尔莫蒂表示，法国需要实施 “强硬举措”，重塑财政可信度。市场对法国债务负担的担忧加剧，近几周法国国债收益率大幅走高。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-06",
+      "time": "16:13",
+      "keywords": []
+    },
+    {
+      "title": "谷歌DeepMind易卜拉欣：全球首位AI“就绪官”，畅谈为AI未来做好准备",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuiewv8705989.shtml",
+      "content": "核心要点莱拉・易卜拉欣自 2018 年加入 DeepMind，近期从首席运营官调任全新高管岗位 ——AI 就绪官。这位前英特尔芯片工程师、风险投资人，在《变革者》播客节目中...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-10-06",
+      "time": "16:11",
+      "keywords": []
+    },
+    {
+      "title": "霍尔木兹海峡石油出口出现反弹，但仍易受伊朗对油轮袭击升级的冲击",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuiexc5422499.shtml",
+      "content": "核心要点霍尔木兹海峡原油出口有所回升，但这完全依赖美国大规模军事投入，同时油轮船员付出沉重生命代价。与此同时，伊朗正在加大对油轮的袭击力度。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-10-06",
+      "time": "15:49",
+      "keywords": []
+    },
+    {
+      "title": "分析师称，购车者拉长贷款期限来承担月供，这是一个“潜在警示信号”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuiewv8692942.shtml",
+      "content": "核心要点 汽车网站埃德蒙兹（Edmunds）数据：三季度超过四分之一贷款购车的新车买家，选择 84 个月及以上期限车贷。 即便拉长贷款年限，购车者仍面临创纪录的月供...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-06",
+      "time": "15:37",
+      "keywords": []
+    },
+    {
       "title": "三星电子正在越南建设一座大型半导体测试工厂",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuiewy6687603.shtml",
@@ -924,248 +1163,6 @@
       "period": "noon",
       "date": "2026-10-06",
       "time": "14:15",
-      "keywords": []
-    },
-    {
-      "title": "高盛：炼油厂难以满足需求，柴油价格或将高位维持至2027年",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuhyrf5524938.shtml",
-      "content": "核心要点高盛表示，柴油价格可能需要在 2027 年前维持高位，以此抑制市场需求。高盛预测，2027 年全球柴油与航空煤油裂解价差均值将高于每桶 40 美元...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-06",
-      "time": "13:56",
-      "keywords": []
-    },
-    {
-      "title": "可灵AI被曝最早明年赴港上市，募资至少10亿美元",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/world/gjcj/2026-10-06/doc-iniuhyqz5552189.shtml",
-      "content": " 10月6日，据外媒报道，快手（1024.HK）旗下的可灵AI已经为香港首次公开募股（IPO）选定了合作银行，此次上市可能募资至少10亿美元。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-10-06",
-      "time": "13:43",
-      "keywords": []
-    },
-    {
-      "title": "英伟达支持的Reflection AI发布首款前沿开源权重模型Beam",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuhyqz5549090.shtml",
-      "content": " Reflection AI正式推出其首款前沿开源权重模型Beam。这家成立两年、总部位于布鲁克林的初创企业称，Beam在高级推理基准测试上性能对标主流开源模型，同时成本大幅降低。",
-      "priority": "low",
-      "sectors": [
-        "半导体",
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-10-06",
-      "time": "13:37",
-      "keywords": []
-    },
-    {
-      "title": "派拉蒙击败奈飞成功收购华纳 好莱坞超级媒体帝国诞生",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuhyqx8771727.shtml",
-      "content": " 派拉蒙于当地时间周二完成收购华纳兄弟探索公司的交易，科技大亨David Ellison由此掌控庞大媒体帝国，手握好莱坞众多顶级优质IP。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-06",
-      "time": "13:24",
-      "keywords": []
-    },
-    {
-      "title": "美国8月份贸易逆差扩大至1056亿美元 预估为逆差1021亿美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuhyrf5510776.shtml",
-      "content": "美国商务部公布，8月份贸易逆差扩大至1056亿美元，前月为逆差928.3亿美元。 46名经济学家对贸易余额的预期区间为逆差1100亿美元至逆差830亿美元。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-06",
-      "time": "12:59",
-      "keywords": []
-    },
-    {
-      "title": "美债收益率见顶预言：中期选举后比特币迎利好",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkstocknews/2026-10-06/doc-iniuhyqz5531768.shtml",
-      "content": "来源：智通财经网 据 Woofun AI 消息，分析师本杰明·考恩指出，随着中期选举临近，10 年期美债收益率即将见顶回落，这一宏观趋势的转折将为比特币等风险资产带来中期利好。...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-06",
-      "time": "12:50",
-      "keywords": []
-    },
-    {
-      "title": "重要消息传出！油价“巨震”",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/wm/2026-10-06/doc-iniuhyra6786815.shtml",
-      "content": "来源：央视财经 据美国CNBC网站的最新消息，当地时间6日，沙特阿拉伯能源大臣阿卜杜勒-阿齐兹·本·萨勒曼表示，目前沙特东西输油管道日输油量已恢复到580万桶...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-06",
-      "time": "12:48",
-      "keywords": []
-    },
-    {
-      "title": "视频 | 饶毅评诺贝尔医学奖颁给光遗传学：这是神经生物学很重要的一项技术，能否用于治疗疾病仍在探索",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-06/doc-iniuhyqz5518104.shtml",
-      "content": "",
-      "priority": "low",
-      "sectors": [
-        "医药"
-      ],
-      "period": "noon",
-      "date": "2026-10-06",
-      "time": "12:28",
-      "keywords": []
-    },
-    {
-      "title": "法国国债延续涨势 与德债利差收窄12个基点",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuhyqz5514220.shtml",
-      "content": " 法国国债延续涨势，受到市场风险偏好增强以及资金撤离避险资产的推动，法国10年期国债与德国同期限国债的收益率利差收窄至9月30日以来最低水平。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-06",
-      "time": "12:20",
-      "keywords": []
-    },
-    {
-      "title": "商务部就法德要求欧盟强化贸易防御等保护主义工具答记者问",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-06/doc-iniuhyqz5514994.shtml",
-      "content": "10月6日，商务部新闻发言人就法德要求欧盟强化贸易防御等保护主义工具答记者问。 问：据媒体报道，10月5日法国和德国向欧委会提交非正式文件...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-06",
-      "time": "12:18",
-      "keywords": []
-    },
-    {
-      "title": "抢先看，券商10月“金股”来了",
-      "source": "中国证券报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-06/doc-iniuhyqz5508920.shtml",
-      "content": "Wind数据显示，截至10月6日发稿时，已有超过170只标的入围券商10月“金股”组合。从推荐频次看，药明康德再度成为券商最青睐的月度投资标的。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-10-06",
-      "time": "12:07",
-      "keywords": []
-    },
-    {
-      "title": "欧元区零售销售额小幅走高，燃油销售却大幅下滑",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuhyrf5491850.shtml",
-      "content": "21 个成员国组成的欧元区 8 月零售销量环比上涨 0.1%，7 月该数据为下降 0.6%德国 8 月零售市场呈现回暖态势。 受当月油价再度走高影响，汽车燃油销售出现下滑...",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "morning",
-      "date": "2026-10-06",
-      "time": "11:56",
-      "keywords": []
-    },
-    {
-      "title": "张尧浠:美元美债收益率走强 金价仍受压维持偏弱调整",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/nmetal/hjfx/2026-10-06/doc-iniuhyrf5491011.shtml",
-      "content": "10月6日：上交易日周一（10月5日）：国际黄金震荡微幅收涨，维持偏弱调整行情。其因上周五公布的美国9月非农意外不及预期！美财长淡化收益率上涨隐忧；G7拟释放一亿桶柴油...",
-      "priority": "low",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "morning",
-      "date": "2026-10-06",
-      "time": "11:52",
-      "keywords": [
-        "美元",
-        "金价"
-      ]
-    },
-    {
-      "title": "国内航线燃油附加费将上涨",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-06/doc-iniuhuii5617674.shtml",
-      "content": "根据航班管家DAST，据航司最新通知，自10月10日起，国内航线燃油附加费将上调：800公里以上航段收取90元，比8月、9月份涨20元；800公里以下收取50元，比8月...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-06",
-      "time": "11:36",
-      "keywords": []
-    },
-    {
-      "title": "谷歌与Constellation达成为期20年的核电采购协议",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-06/doc-iniuhuhz8845931.shtml",
-      "content": "谷歌母公司Alphabet Inc．已同意与Constellation Energy Corp．签署一项为期20年的核电采购协议。在数据中心建设热潮推动电力需求激增之际...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-06",
-      "time": "11:19",
-      "keywords": []
-    },
-    {
-      "title": "视频 | 国产AI软件生成的黄仁勋“世界巡演”视频爆火:马斯克也转发点评",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-06/doc-iniuhuic5616521.shtml",
-      "content": "来源：哇喔-环球新科技",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-10-06",
-      "time": "11:13",
-      "keywords": []
-    },
-    {
-      "title": "拉脱维亚总统委托总理组建新内阁",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-06/doc-iniuhuii5613509.shtml",
-      "content": "当地时间6日，拉脱维亚总统林克维奇斯宣布委托现任总理安德里斯·库尔贝格斯组建新内阁。库尔贝格斯领导的政党联盟“联合名单”在议会选举中赢得了最多席位。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-06",
-      "time": "11:09",
       "keywords": []
     },
     {
