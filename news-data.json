@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-07T01:47:00.812597",
+  "updated": "2026-10-07T09:12:08.083725",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,93 +7,150 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 20,
-    "medium": 17,
-    "low": 113
+    "high": 24,
+    "medium": 25,
+    "low": 101
   },
   "items": [
     {
-      "title": "快讯：恒指低开0.45% 科指跌0.33% 科网股承压 黄金股活跃",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-07/doc-iniukaap5160631.shtml",
-      "content": "美股周二继续造好，债息及油价自高位回落，利好大市气氛，科技股展现强势，标普500指数及纳指再创历史新高，三大指数均录得升幅收市。",
-      "priority": "high",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "01:20",
-      "keywords": []
-    },
-    {
-      "title": "媒体：越南考虑股市午间不休市、扩大涨跌幅区间",
+      "title": "新加坡淡马锡警示当前市场面临的“最大风险”",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukaaq6295863.shtml",
-      "content": "越南新闻网站VnExpress援引越南国家证券委员会副主席黄文秋（Hoàng Văn Thu）消息报道，监管部门正考虑取消午间休市、放宽个股日内涨跌幅限制，旨在提升股市流动性...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukxfz8119229.shtml",
+      "content": "核心要点淡马锡表示，多重因素都有可能引发 AI 交易行情逆转，包括出于安全考量出台更严苛的监管政策。美债收益率大幅上行之际，AI...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-10-07",
-      "time": "00:51",
+      "time": "09:05",
       "keywords": []
     },
     {
-      "title": "英伟达冲刺6万亿美元市值",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-10-07/doc-iniukaam8377837.shtml",
-      "content": "当地时间周二（10月6日），标普500指数接棒纳斯达克综合指数与英伟达，在美股盘初刷新历史新高，美股新高主线继续升温。美债收益率与油价有所回落...",
-      "priority": "high",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "00:49",
-      "keywords": []
-    },
-    {
-      "title": "法国国债期货在六个月最大涨幅后下跌",
+      "title": "海耶斯称，AI热潮正在“浪费数万亿美元”，他押注热潮之后的下一个风口",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukaap5132891.shtml",
-      "content": " 法国国债期货周二创下六个月最大涨幅后，于亚洲交易时段走低。十年期国债期货下跌43个点，报109.45。该合约周二最大涨幅达163个点，为4月以来最大。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "00:36",
-      "keywords": []
-    },
-    {
-      "title": "日本东证指数升破历史最高收盘水平",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukaap5123721.shtml",
-      "content": "受美股上涨带动，日本东证指数最高上涨0.4%，触及4201.34点，超过8月14日创下的4197.20点历史收盘纪录。日经225指数基本持平。隔夜标普500指数收盘创历史新高...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "00:18",
-      "keywords": []
-    },
-    {
-      "title": "民主党议员要求白宫说明尚未公开的AI监管框架",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukaap5121436.shtml",
-      "content": "据一封信函显示，两名民主党参议员要求特朗普政府官员就科技行业对一项尚未公开的人工智能监管框架所施加的影响作出说明。该框架是美国总统特朗普今年早些时候签署的AI行政...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukxfz8116645.shtml",
+      "content": "核心要点前 BitMEX 首席执行官阿瑟・海耶斯表示，人类在 AI 数据中心建设上正在浪费数万亿美元。2027 年末至 2028 年或将迎来关键考验：新建数据中心产能集中落地...",
       "priority": "high",
       "sectors": [
         "AI"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-10-07",
-      "time": "00:14",
+      "time": "09:01",
+      "keywords": []
+    },
+    {
+      "title": "雪佛龙CEO警告：实施柴油出口禁令“并不明智”，此举或将令局势恶化",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukxhc4888331.shtml",
+      "content": " 美国石油巨头雪佛龙首席执行官周三警告，特朗普政府若推进柴油出口禁令，属于“不明智之举”，该政策有可能加剧供应紧张。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "09:00",
+      "keywords": []
+    },
+    {
+      "title": "通胀风险加剧，印度央行自2023年以来首次加息",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukxfz8114375.shtml",
+      "content": "核心要点印度央行周三将关键政策利率上调 25 个基点，至 5.5%。路透社对经济学家开展的调查此前就预测会加息 25 个基点。印度与全球多家主要央行一道收紧货币政策...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "08:58",
+      "keywords": []
+    },
+    {
+      "title": "港股存储芯片大跌，澜起科技跌超6%，6000亿药王创历史新高",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-07/doc-iniukxfz8107311.shtml",
+      "content": "10月7日，港股收盘，恒生指数跌0.62%，恒生科技指数跌0.68%。 存储概念跌幅居前，澜起科技跌超6%，兆易创新、华虹宏力跌超2%，中芯国际跌超1%。",
+      "priority": "high",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "08:40",
+      "keywords": []
+    },
+    {
+      "title": "药明康德逆势冲高，盘中股价再创历史新高",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/2026-10-07/doc-iniukxhi4641280.shtml",
+      "content": " 10月7日消息，药明康德（02359.HK）港股午后一度触及219.2港元/股，创历史新高，总市值达6652.51亿港元。当日港股大盘整体承压，恒指收跌0.62%，医药生物板块多数走低。",
+      "priority": "high",
+      "sectors": [
+        "医药"
+      ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "08:22",
+      "keywords": []
+    },
+    {
+      "title": "芯片出口强劲，韩国企业二季度闲置资金创历史新高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuksyh6018447.shtml",
+      "content": "韩国央行周三发布的数据显示，受半导体出口向好、企业盈利提振，韩国企业持有的闲置资金在第二季度创下历史新高。 韩国央行数据显示，截至6月末...",
+      "priority": "high",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "06:55",
+      "keywords": []
+    },
+    {
+      "title": "韩国反垄断机构就炼油企业涉嫌价格操纵案启动审议",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuksyh6017437.shtml",
+      "content": "韩国反垄断监管机构周三对两家本土炼油企业启动审议。调查人员出具的报告指控，这两家公司非法交换信息、操纵价格。 韩国公平交易委员会表示...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "06:51",
+      "keywords": []
+    },
+    {
+      "title": "国际货币基金组织总裁格奥尔基耶娃：人工智能对各国领导人而言，既是希望也是隐患",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuksyc8174938.shtml",
+      "content": "国际货币基金组织总裁表示，这项被投资者与各国政府寄予拉动全球经济厚望的技术，同时也带来威胁经济增长的压力。她呼吁政策制定者不要再拖延...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "06:43",
+      "keywords": []
+    },
+    {
+      "title": "AI相关科技股涨势停滞 铜价企稳",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuksyh6012391.shtml",
+      "content": "受人工智能热潮乐观情绪推动，科技股此前大涨，随后涨势放缓，铜价随之企稳。 周三，受整体市场避险情绪与美元走强影响，伦敦金属交易所铜合约价格基本持平。",
+      "priority": "high",
+      "sectors": [
+        "有色",
+        "AI"
+      ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "06:33",
       "keywords": []
     },
     {
@@ -322,49 +379,167 @@
       ]
     },
     {
-      "title": "潍柴动力盘初涨超5% AIDC业务有望带动中期业绩增长与估值提升",
+      "title": "马斯克排除台积电参与Terafab运营的可能性",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukxhe5928036.shtml",
+      "content": " 埃隆·马斯克表示，其旗下企业将独立建设和运营Terafab，排除了芯片制造业龙头台积电接手运营这一雄心勃勃芯片制造项目的可能性。",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "09:11",
+      "keywords": []
+    },
+    {
+      "title": "恒生科技指数诞生6年编纂规则首次大规模调整：取消行业要求 成分股数量由30只扩至50只",
+      "source": "港股一线",
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkyx/2026-10-07/doc-iniukxhc4875374.shtml",
+      "content": "恒生科技指数诞生近6年来首次进行大规模调整。成分股数量将由30只增加至50只，恒指公司将引入“双轨”选股机制，以“市值”和“收入增长”两项为准则，恒指公司表示...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "08:36",
+      "keywords": []
+    },
+    {
+      "title": "港股收评：恒指跌0.62% 科指跌0.68% 科网股低迷 存储概念股走弱",
       "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-07/doc-iniukhkm5043849.shtml",
-      "content": "潍柴动力（02338）盘初涨超5%。截至发稿，股价上涨4.48%，现报30.80港元，成交额9292.23万港元。 今年9月，Generac宣布与亚马逊公司就数据中心备用发电机达成供应协议...",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-07/doc-iniuksyf4997287.shtml",
+      "content": "10月7日消息，港股三大指数集体下跌。截至收盘，恒生指数跌0.62%，报24130.50，恒生科技指数跌0.68%，国企指数跌0.57%。盘面上，科网股跌多涨少，阿里巴巴跌超2%，百度...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "08:08",
+      "keywords": []
+    },
+    {
+      "title": "德银：欧洲企业盈利增长25%将支撑欧洲股市",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuksym4758364.shtml",
+      "content": "德意志银行策略师表示，欧洲企业三季度盈利或将再度超预期，有望成为股市短期催化剂。 马克西米利安·乌勒尔带领的研究团队预测，欧洲企业利润增速可达25%...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "07:48",
+      "keywords": []
+    },
+    {
+      "title": "日本图书批发商承认向Anthropic售书",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuksym4757538.shtml",
+      "content": "据出版行业消息人士透露，日本一家大型图书批发商承认，已向美国人工智能企业Anthropic出售大量图书。 日本出版贩卖株式会社母公司日贩集团控股...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "07:45",
+      "keywords": []
+    },
+    {
+      "title": "韩国KOSPI指数收跌1.98%，“芯片双巨头”三星电子、SK海力士承压",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuksyh6026438.shtml",
+      "content": "韩国首尔综合指数（KOSPI）今日（2026年10月7日）收盘大跌1.98%，报 6803.90点，呈现连续第二个交易日走低态势。尽管隔夜美股三大指数频创新高...",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "07:24",
+      "keywords": []
+    },
+    {
+      "title": "日本日经指数收跌0.9% 金融股拖累大盘走低",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuksyf4965469.shtml",
+      "content": "日经225指数周三收跌0.9%，报70035.71点，连续上涨后出现获利回吐，金融股走弱成为拖累大盘的主要因素。 市场此前快速上攻并站上7万点关口，部分投资者选择落袋为安。",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "07:18",
+      "keywords": []
+    },
+    {
+      "title": "算力难挑大梁，华孚时尚上半年扣非盈利依然单薄",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/s/2026-10-07/doc-iniukxhe5916348.shtml",
+      "content": "来源：证券之星 华孚时尚（002042.SH）近期交出了一份充满“矛盾感”的半年报。报告期内，公司实现营收37.51亿元，同比下降8.50%；归母净利润却同比暴增607.08%至1.77亿元...",
       "priority": "medium",
       "sectors": [
         "AI"
       ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "07:00",
+      "keywords": []
+    },
+    {
+      "title": "汇丰计划在英国财富管理业务大规模裁员，推进人工智能转型",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuksym4736688.shtml",
+      "content": " 知情人士透露，汇丰计划在英国财富管理业务开展大规模裁员，大幅削减理财顾问及其他专业人员岗位，作为借助人工智能服务高净值客户举措的一部分。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "06:25",
+      "keywords": []
+    },
+    {
+      "title": "交银国际：新能源汽车终端需求仍具支撑 建议关注小鹏集团-W等",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-10-07/doc-iniuknsk6122668.shtml",
+      "content": "交银国际发布研报称，9月新能源汽车车企销量延续环比改善，10家样本车企合计销量约80.9万辆，同比及环比分别升14.3%及3.8%。展望第四季度...",
+      "priority": "medium",
+      "sectors": [
+        "能源",
+        "消费"
+      ],
       "period": "night",
       "date": "2026-10-07",
-      "time": "01:46",
+      "time": "05:24",
       "keywords": [
-        "潍柴动力",
-        "涨超"
+        "交银国际",
+        "关注",
+        "小鹏集团-W"
       ]
     },
     {
-      "title": "派拉蒙天舞完成对华纳兄弟收购",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/wm/2026-10-07/doc-iniukaap5159105.shtml",
-      "content": "经过数月的竞购角逐以及法律拉锯战，派拉蒙天舞公司6日宣布完成对华纳兄弟探索公司价值约1100亿美元的收购，打造出一家横跨好莱坞和新闻行业的全新超级传媒集团。",
+      "title": "富瑞：新秀丽维持“买入”评级 目标价上调至19.9港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-10-07/doc-iniuknsi5037045.shtml",
+      "content": "富瑞发布研报称，上调新秀丽（01910）目标价，由19.6港元升至19.9港元，维持“买入”评级。该行上调公司2027-2028年净利预测3%，以反映收购BÉIS的影响，销售预测亦上调6%...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "night",
       "date": "2026-10-07",
-      "time": "01:00",
-      "keywords": []
-    },
-    {
-      "title": "OKX获多家机构投资 估值250亿美元推进金融科技平台转型",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukaam8356505.shtml",
-      "content": "加密货币交易所OKX近日获得Circle、瑞波、Qube Research &amp; Technologies及渣打银行旗下SC Ventures投资，未披露投资金额，投前估值250亿美元。",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "00:29",
-      "keywords": []
+      "time": "05:23",
+      "keywords": [
+        "富瑞",
+        "新秀丽",
+        "目标价"
+      ]
     },
     {
       "title": "短期传统旺季将进一步放大供需缺口，供给收缩主导未来数年行业行情，或显著拉长化工周期",
@@ -592,680 +767,417 @@
       ]
     },
     {
-      "title": "中广核矿业盘初高开逾5% 谷歌与星座能源达成890兆瓦核电装机协议",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-07/doc-iniukhki8269388.shtml",
-      "content": "中广核矿业（01164）盘初高开逾5%。截至发稿，股价上涨4.28%，现报2.195港元，成交额1293.22万港元。 谷歌母公司Alphabet同意向星座能源购买核电...",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "01:43",
-      "keywords": [
-        "中广核矿业",
-        "高开"
-      ]
-    },
-    {
-      "title": "贝壳-W于10月5日斥资350万美元回购63.74万股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-07/doc-iniukaat5030522.shtml",
-      "content": "贝壳-W（02423）发布公告，于2026年10月5日斥资350万美元回购63.74万股。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "01:15",
-      "keywords": [
-        "贝壳-W",
-        "回购"
-      ]
-    },
-    {
-      "title": "渣打集团于10月5日斥资841.35万英镑回购37.89万股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-07/doc-iniukaat5030514.shtml",
-      "content": "渣打集团（02888）发布公告，于2026年10月5日斥资841.35万英镑回购37.89万股。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "01:15",
-      "keywords": [
-        "渣打集团",
-        "回购"
-      ]
-    },
-    {
-      "title": "名创优品于10月6日斥资173.69万港元回购10万股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-07/doc-iniukaam8385538.shtml",
-      "content": "名创优品（09896）发布公告，于2026年10月6日斥资173.69万港元回购10万股。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "01:15",
-      "keywords": [
-        "名创优品",
-        "回购"
-      ]
-    },
-    {
-      "title": "贝森特执掌下的美国财政部：内部紧张、人事动荡及未达成的经济目标",
+      "title": "法国财政风险压顶 欧元兑英镑跌至16个月低点",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukaam8384592.shtml",
-      "content": "据媒体报道，知情人士称，在1月财政部的一场会议上，美国财长贝森特当面质问负责恐怖主义与金融情报事务的财政部副部长约翰・赫尔利，当着多名下属的面大声斥责...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukxhe5926301.shtml",
+      "content": "受法国财政危机不断加深以及欧洲地区出现新的政治风险拖累，欧元兑英镑跌至去年6月以来最低水平。 欧元兑英镑一度下跌0.4%，至1欧元兑0.8449英镑...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-10-07",
-      "time": "01:14",
+      "time": "09:05",
       "keywords": []
     },
     {
-      "title": "青花汾20六连阳迭创新高 精品茅台强势反弹 飞天茅台零售均价降至1799",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/chanjing/jync/2026-10-07/doc-iniukaap5154008.shtml",
-      "content": "新浪财经“酒价内参”过去24小时收集的数据显示，10月7日中国白酒业12大单品的终端零售均价五涨三跌四平，平盘品种数量明显增多，但上涨品种数量仍占优...",
+      "title": "IPO“钉子户”博华科技撤单！",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/s/2026-10-07/doc-iniukxhc4893743.shtml",
+      "content": "来源：资本秘闻 排队超四年时间，北京博华信智科技股份有限公司（以下简称“博华科技”）创业板IPO最终折戟。 近日，深交所官网显示，因博华科技、保荐人撤回发行上市申请...",
       "priority": "low",
       "sectors": [
-        "消费"
+        "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-10-07",
-      "time": "01:09",
+      "time": "09:04",
       "keywords": []
     },
     {
-      "title": "凌雄科技于10月6日斥资409.5万港元回购24万股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-07/doc-iniukaat5022463.shtml",
-      "content": "凌雄科技（02436）发布公告，该公司于2026年10月6日斥资409.5万港元回购24万股股份，每股回购价格为16.7-17.98港元。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "00:52",
-      "keywords": [
-        "凌雄科技",
-        "回购"
-      ]
-    },
-    {
-      "title": "慕诗国际因转换可转换债券发行5000万股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-07/doc-iniukaam8370022.shtml",
-      "content": "慕诗国际（00130）发布公告，于2026年10月6日因转换可转换债券发行5000万股。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "00:51",
-      "keywords": [
-        "慕诗国际",
-        "债券",
-        "发行"
-      ]
-    },
-    {
-      "title": "比高集团附属拟出售比高电影院投资全部股权",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-07/doc-iniukaat5021086.shtml",
-      "content": " 比高集团（08220）发布公告，于2026年10月6日，卖方（公司的全资附属公司崴盛有限公司）拟向买方出售出售公司（比高电影院投资有限公司）全部已发行股本，代价为1港元。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "00:49",
-      "keywords": [
-        "比高集团",
-        "出售",
-        "全部股权"
-      ]
-    },
-    {
-      "title": "优博控股因购股权获行使发行60万股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-07/doc-iniukaaq6294866.shtml",
-      "content": " 优博控股（08529）发布公告，由于一名发行人的董事根据公司于2024年5月24日采纳的2024年购股权计划行使购股权，公司于2026年10月6日发行60万股。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "00:48",
-      "keywords": [
-        "优博控股",
-        "购股权",
-        "行使"
-      ]
-    },
-    {
-      "title": "九方智投控股于10月6日斥资154.75万港元回购5.59万股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-07/doc-iniukaat5020592.shtml",
-      "content": " 九方智投控股（09636）发布公告，该公司于2026年10月6日斥资154.75万港元回购5.59万股股份，每股回购价格为27.54-28.02港元。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "00:47",
-      "keywords": [
-        "九方智投控股",
-        "回购"
-      ]
-    },
-    {
-      "title": "天域半导体于10月6日斥资199.73万港元回购3.83万股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-07/doc-iniukaaq6294341.shtml",
-      "content": " 天域半导体（02658）发布公告，该公司于2026年10月6日斥资199.73万港元回购3.83万股股份，每股回购价格为51.5-52.35港元。",
-      "priority": "low",
-      "sectors": [
-        "半导体",
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "00:46",
-      "keywords": [
-        "天域半导体",
-        "回购"
-      ]
-    },
-    {
-      "title": "多点数智于10月6日斥资511.79万港元回购60.74万股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-07/doc-iniukaam8367350.shtml",
-      "content": " 多点数智（02586）发布公告，该公司于2026年10月6日斥资511.79万港元回购60.74万股股份，每股回购价格为8.185-8.55港元。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "00:46",
-      "keywords": [
-        "多点数智",
-        "回购"
-      ]
-    },
-    {
-      "title": "海纳星空科技：完成根据一般授权配售新股份",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-07/doc-iniukaaq6293789.shtml",
-      "content": "海纳星空科技（08297）发布公告，配售协议所载条件已获达成，且完成已于2026年10月6日作实。根据配售协议的条款及条件，合共2.59亿股配售股份已由配售代理按每股配售股份0...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "00:45",
-      "keywords": [
-        "海纳星空科技",
-        "配售",
-        "新股份"
-      ]
-    },
-    {
-      "title": "特朗普周三将发布声明 并在得州发表讲话",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukaam8366205.shtml",
-      "content": "白宫官方日程显示，美国总统特朗普将于周三美国东部时间下午 1 点在椭圆形办公室发表声明。 日程还显示，特朗普将于美国中部时间下午 6...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "00:44",
-      "keywords": []
-    },
-    {
-      "title": "丽新发展：公众持股量为19.60%",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-07/doc-iniukaaq6293200.shtml",
-      "content": " 丽新发展（00488）发布公告，根据公开资料，于本公布日期，公司的公众持股量为19.60%，仍低于上市规则规定公司全部已发行股本的25%须由公众人士持有的水平。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "00:44",
-      "keywords": [
-        "丽新发展",
-        "公众",
-        "持股量"
-      ]
-    },
-    {
-      "title": "极兔速递-W于10月6日斥资3142.34万港元回购353万股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-07/doc-iniukaam8365239.shtml",
-      "content": " 极兔速递-W（01519）发布公告，该公司于2026年10月6日斥资3142.34万港元回购353万股股份，每股回购价格为8.67-8.995港元。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "00:43",
-      "keywords": [
-        "极兔速递-W",
-        "回购"
-      ]
-    },
-    {
-      "title": "永达汽车于10月6日斥资76.19万港元回购96.75万股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-07/doc-iniukaam8364955.shtml",
-      "content": "永达汽车（03669）发布公告，该公司于2026年10月6日斥资76.19万港元回购96.75万股股份，每股回购价格为0.76-0.8港元。",
-      "priority": "low",
-      "sectors": [
-        "消费",
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "00:42",
-      "keywords": [
-        "永达汽车",
-        "回购"
-      ]
-    },
-    {
-      "title": "HubSpot裁员7%，称并非因为AI",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukaaq6289941.shtml",
-      "content": "随着市场对人工智能侵蚀其营收的担忧持续发酵，HubSpot成为今年最新一家裁员的企业软件提供商。 软件提供商HubSpot首席执行官Yamini Rangan在一篇博客文章中宣布...",
+      "title": "算力牛股，发布严正声明！",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/s/2026-10-07/doc-iniukxfz8120789.shtml",
+      "content": "来源：资本秘闻 10月7日午间，据宏景科技微信公众号，公司对经营活动的相关不实报道发布严正声明。 宏景科技表示，近日，公司关注到海外个别媒体涉及到公司经营活动的相关...",
       "priority": "low",
       "sectors": [
         "AI"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-10-07",
-      "time": "00:35",
+      "time": "09:04",
       "keywords": []
     },
     {
-      "title": "摩根大通上调潍柴动力目标价，看好其强劲前景",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukaam8358203.shtml",
-      "content": " 摩根大通上调潍柴动力目标价，理由是公司出货前景向好、利润率具备韧性、AI数据中心业务增长提速以及固体氧化物燃料电池（SOFC）商业化推进。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "00:33",
-      "keywords": []
-    },
-    {
-      "title": "法国政府准备动用宪法权力绕过议会通过预算削减案",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukaam8357985.shtml",
-      "content": "法国财政部长罗兰·莱斯库尔表示，如果明年预算谈判陷入僵局，政府准备行使特别宪法权力，绕过议会通过数百亿欧元开支削减案。莱斯库尔在接受采访时表示...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "00:32",
-      "keywords": []
-    },
-    {
-      "title": "经济日报：斩断财经领域黑灰产业链",
+      "title": "股价“抢跑”！新亚制程筹划重组停牌！",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-10-07/doc-iniukaat5014709.shtml",
-      "content": "来源：经济日报 “今天最后一个快递放在了60号柜子06排67号，昨天智度区的快递依然不用着急退货。” 这句话，你看得懂吗？看不懂，说明你不是骗子的“目标用户”...",
+      "url": "https://finance.sina.com.cn/stock/s/2026-10-07/doc-iniukxhe5927065.shtml",
+      "content": "来源：资本秘闻 拟购上海启元气体发展有限公司（以下简称“启元气体”）控股权，新亚制程10月8日起停牌。 10月7日，新亚制程披露公告称...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-10-07",
-      "time": "00:31",
+      "time": "09:04",
       "keywords": []
     },
     {
-      "title": "美国农业部海外农业局：印度食糖产量预计低于3000万吨",
+      "title": "法国债券跑输其他欧债 法德国债利差扩大至138个基点",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukaat5011833.shtml",
-      "content": "美国农业部海外农业局（FAS）在一份报告中称，本月开启的2026-27榨季，印度食糖产量预计为2950万吨。 该数值低于美国农业部此前3360万吨的官方预估。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukxhe5919440.shtml",
+      "content": " 法国债券再度跑输其他欧洲债券。法国与德国10年期国债收益率之差一度扩大10个基点至138个基点，投资者继续消化未来数月预算谈判所带来的财政压力加剧风险。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-10-07",
-      "time": "00:21",
+      "time": "08:45",
       "keywords": []
     },
     {
-      "title": "正味集团：供股获约36.13%有效申请及接纳",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-07/doc-iniukaam8351725.shtml",
-      "content": "正味集团（02147）发布公告，于记录日期，（i）根据供股提呈发售的供股股份为4.03亿股；及（ii）并无不合资格股东，且不合资格股东未售供股股份数目为零。",
+      "title": "捷豹推出售价13.05万美元电动车型，距引发争议的品牌重塑已过去两年",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuksyh6041678.shtml",
+      "content": "这家英国豪华车企推出全新纯电动车型。两年前，这家知名英国企业大刀阔斧的品牌重塑引发社交媒体广泛批评。 该车企隶属于印度塔塔汽车集团。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-10-07",
-      "time": "00:20",
-      "keywords": [
-        "正味集团",
-        "供股",
-        "接纳"
-      ]
+      "time": "08:13",
+      "keywords": []
     },
     {
-      "title": "美股芯片股走强，纳指、标普500再创收盘新高",
-      "source": "第一财经",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-10-07/doc-iniukaaq6287738.shtml",
-      "content": "2026.10．07 作者 |第一财经陈玺宇 *美股三大股指全线上扬，美债收益率回落； *芯片股涨势如潮，纳指再创新高； *国际油价小幅上涨，布油涨0.26%。",
+      "title": "马斯克称台积电不会运营Terafab人工智能芯片工厂综合体",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuksyf4994474.shtml",
+      "content": "Terafab是特斯拉与SpaceX计划落地于得克萨斯州的项目，目标是打造一座“巨型芯片工厂”，用于生产人工智能芯片。 有网友在X平台发帖称...",
       "priority": "low",
       "sectors": [
         "半导体"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-10-07",
-      "time": "00:19",
+      "time": "08:11",
       "keywords": []
     },
     {
-      "title": "思考乐教育：受托人根据股份奖励计划购买20万股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-07/doc-iniukaaq6285364.shtml",
-      "content": "思考乐教育（01769）发布公告，受托人根据该计划最近在市场上购买股份。本自愿公告的目的是提供该购买的最新更新情况。于2026年10月6日，根据计划规则及信托契据...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "00:19",
-      "keywords": [
-        "思考乐教育",
-        "股份",
-        "奖励计划"
-      ]
-    },
-    {
-      "title": "权识国际推出新黄酒项目“十二朝代酒”",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-07/doc-iniukaam8351140.shtml",
-      "content": "权识国际（00381）发布公告，本集团的新黄酒项目“十二朝代酒”，定位为结合华夏文明与现代科技的文化出海超级综合体。该项目以传承数千年底蕴...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "00:18",
-      "keywords": [
-        "权识国际",
-        "推出",
-        "十二朝代酒"
-      ]
-    },
-    {
-      "title": "美国一男子因Meta欺诈案获刑六年",
+      "title": "新加坡空气污染程度居全球之首 雾霾致马来西亚学校停课",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukaat5010740.shtml",
-      "content": "美国司法部周二宣布，26岁男子Adam Iza因诈骗Meta超过3700万美元、逃税以及利用洛杉矶县警局前副警长恐吓他人，被判处78个月联邦监禁...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuksyf4988085.shtml",
+      "content": " 在新加坡一年一度的一级方程式赛车（F1）周末开幕前几天，印尼野火造成的雾霾笼罩了该地区，新加坡的空气污染程度恶化至世界最高水平。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-10-07",
-      "time": "00:17",
+      "time": "08:02",
       "keywords": []
     },
     {
-      "title": "毛戈平于10月6日斥资131.17万港元回购3万股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-07/doc-iniukaam8350278.shtml",
-      "content": "毛戈平（01318）发布公告，该公司于2026年10月6日斥资131.17万港元回购3万股股份，每股回购价格为43.64-43.82港元。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "00:16",
-      "keywords": [
-        "毛戈平",
-        "回购"
-      ]
-    },
-    {
-      "title": "锦欣生殖于10月6日斥资503.29万港元回购226.7万股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-07/doc-iniukaam8349890.shtml",
-      "content": " 锦欣生殖（01951）发布公告，该公司于2026年10月6日斥资503.29万港元回购226.7万股股份，每股回购价格为2.19-2.2314港元。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "00:16",
-      "keywords": [
-        "锦欣生殖",
-        "回购"
-      ]
-    },
-    {
-      "title": "途虎-W于10月6日斥资161.32万港元回购13.91万股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-07/doc-iniukaam8349575.shtml",
-      "content": "途虎-W（09690）发布公告，于2026年10月6日，该公司斥资161.32万港元回购13.91万股。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "00:15",
-      "keywords": [
-        "途虎-W",
-        "回购"
-      ]
-    },
-    {
-      "title": "传音控股于10月7日至10月12日招股 拟全球发售8664.83万股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggipo/2026-10-07/doc-iniukaam8349171.shtml",
-      "content": "传音控股（02636）于2026年10月7日-2026年10月12日招股，拟全球发售8664.83万股H股，香港公开发售占约10%，国际发售占约90%。发售价不高于每股发售股份38.80港元...",
+      "title": "日本政府考虑编制2026财年灾后重建追加预算",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuksym4757907.shtml",
+      "content": "知情人士周三透露，日本政府正考虑编制本财年（截至次年3月）的追加预算，为救灾与灾后重建提供资金。 此前，日本西南部熊本县7月遭遇强震...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-10-07",
-      "time": "00:14",
-      "keywords": [
-        "传音控股",
-        "招股",
-        "全球发售"
-      ]
+      "time": "07:46",
+      "keywords": []
     },
     {
-      "title": "曹操出行于10月6日斥资45.47万港元回购3.65万股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-07/doc-iniukaam8348302.shtml",
-      "content": "曹操出行（02643）发布公告，于2026年10月6日，该公司斥资45.47万港元回购3.65万股。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "00:13",
-      "keywords": [
-        "曹操出行",
-        "回购"
-      ]
-    },
-    {
-      "title": "美因基因于10月6日斥资113.81万港元回购15.68万股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-07/doc-iniukaam8348014.shtml",
-      "content": "美因基因（06667）发布公告，于2026年10月6日，该公司斥资113.81万港元回购15.68万股。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "00:12",
-      "keywords": [
-        "美因基因",
-        "回购"
-      ]
-    },
-    {
-      "title": "极智嘉-W于10月6日斥资73.68万港元回购10万股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-07/doc-iniukaap5120157.shtml",
-      "content": "极智嘉-W（02590）发布公告，于2026年10月6日，该公司斥资73.68万港元回购10万股。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-10-07",
-      "time": "00:11",
-      "keywords": [
-        "极智嘉-W",
-        "回购"
-      ]
-    },
-    {
-      "title": "AMD CEO苏姿丰：计划2027年大幅提高AI芯片供应",
+      "title": "德国8月工业产出反弹，创2025年初以来最强增幅",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukaat5009031.shtml",
-      "content": " 据报道，AMD董事长兼首席执行官苏姿丰周二表示，随着公司努力满足人工智能硬件需求，AMD计划在2027年进一步增加芯片供应。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuksyh6031807.shtml",
+      "content": "由于海湾地区供应中断影响了亚洲竞争对手，一些化工企业甚至因此获得了优势。 德国8月工业生产意外大幅回升，制造企业继续应对能源价格波动所带来的多变环境。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "07:46",
+      "keywords": []
+    },
+    {
+      "title": "OpenAI发布700余篇含AI生成解答的数学新论文",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuksyf4973532.shtml",
+      "content": " 就在OpenAI宣称攻克数学领域一大难题、在数学界引发激烈争论不到一个月后，这家人工智能公司发布700多篇新研究论文，公布多个数学方向的研究成果。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "07:38",
+      "keywords": []
+    },
+    {
+      "title": "AMD首席执行官：在供应紧张下正致力于优化内存",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuksym4753731.shtml",
+      "content": "AMD首席执行官苏姿丰在首尔告诉记者，由于供应紧张持续，AMD正与客户合作以优化内存占用空间。 与内存供应链各环节建立的深度合作关系已帮助AMD持续增长。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "07:32",
+      "keywords": []
+    },
+    {
+      "title": "Spotify将有声书业务拓展至180多个市场",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuksyf4969317.shtml",
+      "content": "Spotify周三宣布，将有声书服务拓展至全球180多个市场，覆盖欧洲、美洲、加勒比地区、中东、非洲及亚洲多地。本次推广从今日启动，并将在未来数月持续推进。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "07:26",
+      "keywords": []
+    },
+    {
+      "title": "欲打破英伟达垄断 AMD联合韩国扩容AI芯片生态",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuksyh6025327.shtml",
+      "content": " 周三，AMD董事长兼首席执行官苏姿丰在首尔将韩国AI芯片作为合作会谈的核心议题，探讨如何将韩国AI芯片与AMD处理器组合，打造面向全球市场的系统。",
       "priority": "low",
       "sectors": [
         "半导体",
         "AI"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-10-07",
-      "time": "00:11",
+      "time": "07:18",
       "keywords": []
     },
     {
-      "title": "AI算力初创公司Lambda拟在IPO前最后一轮融资中筹集40亿美元",
+      "title": "比特币跌破8.4万美元",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniukaat5007737.shtml",
-      "content": "黑石和Coatue领投，本轮融资对这家基础设施提供商的估值为145亿美元 据知情人士透露，英伟达支持的云计算公司Lambda正在进行其计划首次公开募股（IPO）前的最后一轮融资...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuksym4748320.shtml",
+      "content": "受伊朗加大对霍尔木兹海峡油轮袭击力度影响，油价跳涨，美国国债收益率和美元走高，比特币周三亚洲早盘下跌约1.5%，报8.42万美元上方，盘中一度跌至约8.384万美元...",
       "priority": "low",
       "sectors": [
-        "AI"
+        "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-10-07",
-      "time": "00:08",
+      "time": "07:07",
       "keywords": []
     },
     {
-      "title": "水发兴业新材料建议委任安永为新核数师",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-07/doc-iniukaam8345377.shtml",
-      "content": "水发兴业新材料（08073）发布公告，经公司审核委员会建议，董事会决议（i）解除容诚（香港）会计师事务所有限公司之公司核数师职务；及（ii）建议委任安永会计师事务所为公...",
+      "title": "美国政府关联钱包转移逾1亿美元加密货币 尚未确认出售",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuksyf4959809.shtml",
+      "content": " 区块链情报公司Arkham数据显示，与美国政府关联的钱包周二转移超过1亿美元加密货币，其中涉及比特币和BNB。目前尚未确认相关资产是否被出售。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-10-07",
-      "time": "00:08",
-      "keywords": [
-        "水发兴业新材料",
-        "安永",
-        "核数师"
-      ]
+      "time": "07:06",
+      "keywords": []
     },
     {
-      "title": "中国三迪因“200并1”基准进行股份合并而削减50.63亿股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-07/doc-iniukaap5117315.shtml",
-      "content": "中国三迪（00910）发布公告，于2026年10月6日，该公司因“200并1”基准进行股份合并而削减50.63亿股。",
+      "title": "三七互娱中报：扣非净利下滑，主业与现金流同步承压",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/s/2026-10-07/doc-iniukxhe5916275.shtml",
+      "content": "来源：证券之星 今年中报季，三七互娱（002555.SZ）再交出一份收入缩水的成绩单。上半年，公司收入同比下滑超14%。虽然公司归母净利润同比大幅增长...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-10-07",
-      "time": "00:06",
-      "keywords": [
-        "中国三迪",
-        "基准",
-        "股份合并"
-      ]
+      "time": "07:00",
+      "keywords": []
     },
     {
-      "title": "靛蓝星拟折让约19.84%向红日发行210.5万股以悉数及最终清偿尚欠债务",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-07/doc-iniukaam8344114.shtml",
-      "content": "靛蓝星（08373）发布公告，于2026年10月6日（联交所交易时段后），公司与红日订立和解契据，红日同意接纳，而公司同意按每股约0.7335港元的发行价配发及发行210...",
+      "title": "华熙生物“节流”难掩中报营利双降，研发人员一年减少百人",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/s/2026-10-07/doc-iniukxhi4642177.shtml",
+      "content": "来源：证券之星 2026年上半年，华熙生物（688363.SH）仍未走出营收下滑通道：中期营收连续第三年同期缩水，且降幅进一步扩大。其中，皮肤科学创新转化业务持续收缩...",
       "priority": "low",
       "sectors": [
-        "综合"
+        "医药"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-10-07",
-      "time": "00:05",
-      "keywords": [
-        "靛蓝星",
-        "折让",
-        "发行"
-      ]
+      "time": "07:00",
+      "keywords": []
     },
     {
-      "title": "澜起科技获UBS Group AG增持约31.99万股 每股作价约288.8港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-07/doc-iniukaat5005690.shtml",
-      "content": "香港联交所最新数据显示，9月29日，UBS Group AG增持澜起科技（06809）31.9894万股，每股作价288.7997港元，总金额约为9238.53万港元。",
+      "title": "欧洲天然气维持两周高位附近 霍尔木兹海峡船舶袭击事件叠加冬季供应担忧",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuksyc8182372.shtml",
+      "content": "霍尔木兹海峡针对船舶的袭击事件增多，叠加冬季供应担忧，欧洲天然气价格维持在两周高点附近。 基准期货价格接近每兆瓦时76欧元，前一交易日上涨3%。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "06:56",
+      "keywords": []
+    },
+    {
+      "title": "明天A股开盘，节后怎么走？多家券商最新研判出炉",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/roll/2026-10-07/doc-iniuksym4739170.shtml",
+      "content": "来源：成都商报红星资本局10月7日消息，明天（8日），A股将迎来国庆节后的第一个交易日。中信证券、华泰证券、东吴证券等多家券商普遍认为...",
       "priority": "low",
       "sectors": [
         "金融"
       ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "06:35",
+      "keywords": []
+    },
+    {
+      "title": "“非洲手机之王”，将在港交所挂牌上市",
+      "source": "澎湃新闻",
+      "url": "https://finance.sina.com.cn/roll/2026-10-07/doc-iniuksym4739175.shtml",
+      "content": "澎湃新闻首席记者 李晓青 10月7日，被称为“非洲手机之王”的传音控股（02636.HK）公告称，公司拟全球发售8664.83万股H股（视乎超额配股权行使与否而定）。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "06:35",
+      "keywords": []
+    },
+    {
+      "title": "沙特阿美考量沙特日益增长的天然气过剩问题",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuksyf4943704.shtml",
+      "content": "2020年沙特阿美着手开发巨型贾富拉气田时，外界预期沙特将首次成为天然气出口国。 尽管沙特在石油贸易中占据主导地位，但该国此前并未对外出口天然气...",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "06:35",
+      "keywords": []
+    },
+    {
+      "title": "保时捷：计划员工规模削减25% 汽车业务净现金流利润率目标9%-12%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuksyh6009813.shtml",
+      "content": "保时捷在资本市场日发布会材料中表示，集团中期目标销售营业回报率为10%-15%，汽车业务净现金流利润率目标9%-12%。长期目标为集团销售营业回报率15%...",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "06:22",
+      "keywords": []
+    },
+    {
+      "title": "布鲁塞尔拟通过对大型企业征税，向科技巨头课税",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuksyc8164790.shtml",
+      "content": " 布鲁塞尔正考虑通过一项面向大型企业的广泛税项，向美国大型科技公司征税，以此为欧盟增加财政收入，同时规避特朗普政府的报复。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "06:21",
+      "keywords": []
+    },
+    {
+      "title": "排队超四年撤单，IPO“钉子户”博华科技冲A折戟",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-07/doc-iniuksyc8164563.shtml",
+      "content": "来源：北京商报 排队超四年时间，北京博华信智科技股份有限公司（以下简称“博华科技”）创业板IPO最终折戟。近日，深交所官网显示，因博华科技、保荐人撤回发行上市申请...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "06:21",
+      "keywords": []
+    },
+    {
+      "title": "龙资源午后涨超8% 芬兰Jokisivu金矿钻探发现高品位样段",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-07/doc-iniuksym4732341.shtml",
+      "content": "龙资源（01712）午后涨超8%。截至发稿，股价上涨8.08%，现报9.44港元，成交额780.41万港元。 龙资源发布公告，已获得在芬兰南部Jokisivu金矿完成的3个地下金刚石取芯钻孔工...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "06:12",
+      "keywords": [
+        "龙资源",
+        "涨超"
+      ]
+    },
+    {
+      "title": "耐克资深高管推动中国市场转型",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-07/doc-iniuksyc8158559.shtml",
+      "content": "耐克中国区新任负责人申凯希（Cathy Sparks）正推动一系列改革，以扭转该公司在中国市场连续五年的下滑态势。申凯希今年春季出任耐克大中华区负责人...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "06:11",
+      "keywords": []
+    },
+    {
+      "title": "蚬壳电业午后涨近15% 星兆控股已正式入主称无意将公司私有化",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-10-07/doc-iniuksyf4930814.shtml",
+      "content": "蚬壳电业（02381）盘中涨近20%。截至发稿，股价上涨14.71%，现报0.39港元，成交额315.69万港元。 星兆控股已完成收购蚬壳电业14亿股股份，占公司已发行股份总数70%...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-10-07",
+      "time": "06:10",
+      "keywords": [
+        "蚬壳电业",
+        "涨近"
+      ]
+    },
+    {
+      "title": "诈骗园区头目吃着饭被抓",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/wbstock/2026-10-07/doc-iniuknsf8280664.shtml",
+      "content": "来源：@21世纪经济报道微博 【#诈骗园区头目吃着饭被抓#】#央视播出缅北电诈覆灭纪录片# 佘智江早年曾在国内参与搭建网络赌博和私彩平台，因团伙骨干相继落网...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
       "period": "night",
       "date": "2026-10-07",
-      "time": "00:03",
-      "keywords": [
-        "澜起科技",
-        "增持"
-      ]
+      "time": "05:42",
+      "keywords": []
     },
     {
       "title": "多尔戈夫不属于擅长制造宏大概念、面向公众造势的企业家，更像一名沉浸在复杂系统之中的科学家工程师",
