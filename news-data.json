@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-10T08:56:01.115183",
+  "updated": "2026-10-10T15:56:51.258407",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,486 +7,275 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 43,
-    "medium": 20,
-    "low": 87
+    "high": 28,
+    "medium": 22,
+    "low": 100
   },
   "items": [
     {
-      "title": "泰国为IMF-世界银行年会做准备",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniutqmf2116904.shtml",
-      "content": "泰国正准备于 10 月 12 日至 18 日在曼谷主办国际货币基金组织-世界银行年会，来自 191 个国家的 15，000 多名与会者将齐聚一堂，包括央行行长...",
+      "title": "缺货，价格大涨！昔日“废料”，如今全球抢手！",
+      "source": "证券时报",
+      "url": "https://finance.sina.com.cn/wm/2026-10-10/doc-iniuufia0613703.shtml",
+      "content": "废铝价格震荡走强，铸造铝合金价格指数年内有望站上24000元/吨关口。 铝价持续高位震荡，全球原铝供应缺口持续扩大，叠加下游新能源产业需求激增...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "14:17",
+      "keywords": []
+    },
+    {
+      "title": "宁德时代，大笔“吸金”",
+      "source": "中国证券报-中证网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-10/doc-iniuufia0601365.shtml",
+      "content": "受国庆假期休市影响，本周仅有10月8日、9日两个交易日。从主力资金动向来看，电力设备行业获得逾50亿元净流入，宁德时代、天赐材料居个股资金净流入榜前两位；电子...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "13:57",
+      "keywords": []
+    },
+    {
+      "title": "立讯精密，紧急公告",
+      "source": "中国证券报",
+      "url": "https://finance.sina.com.cn/stock/s/2026-10-10/doc-iniuufhx5907996.shtml",
+      "content": "10月10日晚，立讯精密公告称，近日，公司获悉，美国国际贸易委员会（以下简称“ITC”）于当地时间10月9日宣布，就美国Vicor Corporation（以下简称“Vicor”）提出的相关专利侵...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "13:56",
+      "keywords": []
+    },
+    {
+      "title": "65%豁免刷屏！光模块至暗时刻过去了？野村：不同环节影响天差地别",
+      "source": "智通财经APP",
+      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-10-10/doc-iniuufhx1951934.shtml",
+      "content": "近期国内光通信板块行情起伏不定，核心扰动始终绕不开美国的贸易政策预期。 从8月初曝出FCC可能全面禁止中国光模块，到如今市场传出“65%美产成分即可豁免”的新说法...",
+      "priority": "high",
+      "sectors": [
+        "光模块"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "13:54",
+      "keywords": []
+    },
+    {
+      "title": "事关公募基金网络营销！又一地监管发声，八大要求明确",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-10/doc-iniuufhx1945093.shtml",
+      "content": "来源：中国基金报 【导读】八条要求落地，基金公司自建营销矩阵要加码了？ 中国基金报记者 闫军 随着《金融产品网络营销管理办法》正式施行...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "13:48",
+      "keywords": []
+    },
+    {
+      "title": "市值蒸发超百亿，江淮汽车爆大雷",
+      "source": "投资家",
+      "url": "https://finance.sina.com.cn/money/fund/fundzmt/2026-10-10/doc-iniuufic7361348.shtml",
+      "content": "作者 | 枫叶一场“刹车”测试，让多少人彻夜难眠？江淮汽车跌停，超106亿市值“灰飞烟灭”，尊界口碑严重两极化，懂车帝相关测试视频多平台也不可见，目前看是“双输”的局面。",
+      "priority": "high",
+      "sectors": [
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "13:33",
+      "keywords": []
+    },
+    {
+      "title": "长鑫科技，最新突破",
+      "source": "上海证券报·中国证券网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-10/doc-iniutyze0695005.shtml",
+      "content": "长鑫科技4F DRAM架构研发取得关键进展。第四届集成芯片和芯粒大会于 10月9日至10日 在上海举行，长鑫科技总裁曹堪宇在大会上发表演讲，全面介绍长鑫科技在DRAM器件...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "13:22",
+      "keywords": []
+    },
+    {
+      "title": "中国农业发展银行拜城县支行被罚40万元：信贷业务管理不到位",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/fd/2026-10-10/doc-iniutyze0684188.shtml",
+      "content": "10月10日金融一线消息，阿克苏金融监管分局行政处罚信息公示列表显示，中国农业发展银行拜城县支行因信贷业务管理不到位，被罚款40万元；相关责任人曹国庆被警告并罚款7万...",
       "priority": "high",
       "sectors": [
         "金融"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-10-10",
-      "time": "08:42",
+      "time": "13:18",
       "keywords": []
     },
     {
-      "title": "分众传媒收购新潮传媒案获批",
-      "source": "界面",
-      "url": "https://finance.sina.com.cn/stock/s/2026-10-10/doc-iniutqmk0678662.shtml",
-      "content": "图片来源：视觉中国界面新闻记者 |张倩楠界面新闻编辑 |刘海川 2026年10月10日，市场监管总局附条件批准了分众传媒收购新潮传媒股权案。",
+      "title": "兽药超标37.5倍！双汇被罚1.29亿",
+      "source": "国际金融报",
+      "url": "https://finance.sina.com.cn/roll/2026-10-10/doc-iniutyyz5997500.shtml",
+      "content": "10月9日晚，双汇发展（000895.SZ）发布致歉公告，就旗下望奎双汇“猪后鞧肉”林可霉素残留超标事件，接受三部门合计1.29亿元罚款。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-10-10",
-      "time": "08:41",
+      "time": "13:02",
       "keywords": []
     },
     {
-      "title": "双汇被罚1.29亿元，屠宰量增40%，养殖子公司仅6家，“轻养殖”模式再遇拷问",
-      "source": "新浪证券",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-10/doc-iniutqmk0675217.shtml",
-      "content": "10月9日，双汇发展（000895.SZ）发布公告称，因黑龙江望奎双汇“猪后鞧肉”林可霉素残留超标问题，公司及望奎双汇、相关董事及高管收到行政处罚决定书，总罚款1.29亿元。",
+      "title": "焦点访谈丨运输企业为超载能有多拼？花招多到想不到！",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniutyyz5994997.shtml",
+      "content": "油罐车是封闭的罐体，竟然能超重58%！背后到底有什么猫腻？ 为追求更多利润，部分危货运输企业绞尽脑汁耍花样，想方设法超载、规避监管。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-10-10",
-      "time": "08:40",
+      "time": "12:59",
       "keywords": []
     },
     {
-      "title": "688670，或被“*ST”！",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-10-10/doc-iniutqmm7452369.shtml",
-      "content": "来源：中国基金报 【导读】金迪克拉响退市风险警报 中国基金报记者 夏天 10月9日晚间，金迪克（证券代码：688670）发布风险提示公告称...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "08:40",
-      "keywords": []
-    },
-    {
-      "title": "周末，利好来了！北京，重磅发布",
+      "title": "AI，突发利空！重磅IPO，紧急取消！",
       "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-10-10/doc-iniutqmm7449826.shtml",
-      "content": "刚刚，政策利好密集传来！ 10月10日下午消息，北京市人民政府印发《北京市“十五五”时期深化国际消费中心城市建设规划》。其中提到，加大新能源汽车推广力度...",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-10-10/doc-iniutyyz2035912.shtml",
+      "content": "数据中心运营商Firmus紧急取消大型IPO计划！ 据最新消息，英伟达支持的数据中心运营商Firmus因需求疲软，于10月9日放弃了50亿美元首次公开募股（IPO）...",
       "priority": "high",
       "sectors": [
-        "综合"
+        "AI"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-10-10",
-      "time": "08:29",
+      "time": "12:53",
       "keywords": []
     },
     {
-      "title": "我国柜台债市场的普惠属性、国际比较与政策建议",
+      "title": "重磅！财险新规11月施行，附加险不能再“啥都往里装”",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/bond/market/2026-10-10/doc-iniutqmk0671691.shtml",
-      "content": "◇ 作者：华源证券研究所所长助理、固定收益首席分析师 廖志明 ◇ 本文原载《债券》2026年9月刊 摘 要 柜台债作为银行间债券市场向零售端的延伸，凭借较低的门槛...",
+      "url": "https://finance.sina.com.cn/money/insurance/bxdt/2026-10-10/doc-iniutyyz2033041.shtml",
+      "content": "华夏时报记者 吴敏 北京报道 财产保险公司产品开发管理迎来制度性升级。近日，金融监管理总局印发《财产保险公司保险产品开发管理规定》，自2026年11月1日起施行。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-10-10",
-      "time": "08:29",
+      "time": "12:52",
       "keywords": []
     },
     {
-      "title": "黄炜菘获批担任开泰银行（中国）董事会秘书",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/hm/2026-10-10/doc-iniutqmf2098293.shtml",
-      "content": " 10月10日金融一线消息，深圳金融监管局发布批复，核准Clarence Ng Wei Siong（黄炜菘）开泰银行（中国）有限公司董事会秘书的任职资格。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "08:14",
-      "keywords": []
-    },
-    {
-      "title": "陈水建获批担任生命资产副总经理",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/hm/2026-10-10/doc-iniutqmm7420851.shtml",
-      "content": "10月10日金融一线消息，深圳金融监管局发布批复，核准陈水建生命保险资产管理有限公司副总经理的任职资格。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "08:12",
-      "keywords": []
-    },
-    {
-      "title": "分众传媒收购新潮通过反垄断审查：带有六项限制性条件，有效期5年",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/chanjing/gsnews/2026-10-10/doc-iniutqmf6049460.shtml",
-      "content": "电梯媒体行业整合迎来重要进展，分众传媒收购新潮传媒获反垄断审查通过。 10月10日，市场监管总局发布公告，经依法审查，附加限制性条件批准分众传媒信息技术股份有限公司...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "08:12",
-      "keywords": []
-    },
-    {
-      "title": "齐美祝获批担任海港人寿总经理",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/hm/2026-10-10/doc-iniutqmm7419453.shtml",
-      "content": "10月10日金融一线消息，深圳金融监管局发布批复，核准齐美祝海港人寿保险股份有限公司总经理的任职资格。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "08:12",
-      "keywords": []
-    },
-    {
-      "title": "建设银行厦门市分行被罚20万元：违反金融统计管理规定",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-10-10/doc-iniutqmf6041027.shtml",
-      "content": " 10月10日金融一线消息，据中国人民银行厦门市分行行政处罚信息公开表显示，中国建设银行股份有限公司厦门市分行因违反金融统计管理规定，被处罚款20万元。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "07:53",
-      "keywords": []
-    },
-    {
-      "title": "中国银行喀什地区分行被罚71.01万元：违反金融统计管理规定等",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-10-10/doc-iniutqmf2082855.shtml",
-      "content": "10月10日金融一线消息，据中国人民银行喀什地区分行行政处罚信息公开表显示，中国银行股份有限公司喀什地区分行因违反金融统计管理规定、违反支付结算业务管理规定...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "07:51",
-      "keywords": []
-    },
-    {
-      "title": "克拉玛依金龙国民村镇银行被罚36.8万元：违反征信业务管理规定",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-10-10/doc-iniutqmf6036367.shtml",
-      "content": " 10月10日金融一线消息，据中国人民银行克拉玛依市分行行政处罚信息公开表显示，克拉玛依金龙国民村镇银行有限责任公司因违反征信业务管理规定，被罚款36.8万元。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "07:49",
-      "keywords": []
-    },
-    {
-      "title": "杨梅获批担任重庆渝欧汽车保险代理有限公司总经理",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/money/insurance/bxyx/2026-10-10/doc-iniutqmf2079759.shtml",
-      "content": "10月10日金融一线消息，重庆金融监管局发布批复，核准杨梅重庆渝欧汽车保险代理有限公司总经理的任职资格。",
-      "priority": "high",
-      "sectors": [
-        "消费",
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "07:47",
-      "keywords": []
-    },
-    {
-      "title": "西北最大城商行迎来新任行长！李嘉辉获批任长安银行行长",
+      "title": "五连板暴涨61%，九阳一边回应，市场一边追板",
       "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/roll/2026-10-10/doc-iniutqmf6035577.shtml",
-      "content": "21世纪经济报道记者 张欣 近日，西北最大城商行——长安银行迎来新任行长。10月9日，陕西金融监管局批复核准李嘉辉长安银行行长的任职资格。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "07:47",
-      "keywords": []
-    },
-    {
-      "title": "招商银行淮北分行被罚20.62万元：违反金融统计相关规定",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-10-10/doc-iniutqmf2078908.shtml",
-      "content": " 10月10日金融一线消息，据中国人民银行淮北市分行行政处罚信息公开表显示，招商银行股份有限公司淮北分行因违反金融统计相关规定，被罚款20.62万元。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "07:45",
-      "keywords": []
-    },
-    {
-      "title": "青岛金王H1归母净利跌逾八成：连续八年未分红，年营收六连降",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-10-10/doc-iniutqmk0645388.shtml",
-      "content": "来源：证券之星 营收微增1.2%、净利润却暴跌81.46%，这是青岛金王（002094.SZ）交出了2026年半年报，也是其自2021年以来归母净利润跌幅最大的半年报。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "07:45",
-      "keywords": []
-    },
-    {
-      "title": "丁一戈获批担任渝农商理财有限责任公司副总裁",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-10-10/doc-iniutqmf6030975.shtml",
-      "content": "10月10日金融一线消息，重庆金融监管局发布批复，核准丁一戈渝农商理财有限责任公司副总裁的任职资格。",
+      "url": "https://finance.sina.com.cn/stock/roll/2026-10-10/doc-iniutyyz2032202.shtml",
+      "content": "21世纪经济报道记者凌晨 五个交易日连续涨停，九阳股份（002242.SZ）突然成为A股市场的热门股票。 10月9日，九阳股份盘中多次打开涨停板，午后再度回封，最终收于15...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-10-10",
-      "time": "07:41",
+      "time": "12:49",
       "keywords": []
     },
     {
-      "title": "国有大行火速行动！全国多地首笔房贷贴息业务落地",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-10-10/doc-iniutqmk0634037.shtml",
-      "content": "来源：金融时报 记者：张冰洁 9月29日，财政部、中国人民银行等部门发布《关于实施居民购房贷款贴息政策的通知》，明确自今年10月1日起在全国范围内实施居民购房贷款贴息政...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "07:41",
-      "keywords": []
-    },
-    {
-      "title": "农业银行池州分行被罚68.08万元：中长期贷款按实际投向分类统计有误等",
+      "title": "恒丰银行合肥分行被罚23.38万元：违反金融统计相关管理规定",
       "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-10-10/doc-iniutqmf6032198.shtml",
-      "content": " 10月10日金融一线消息，据中国人民银行池州市分行行政处罚信息公开表显示，中国农业银行股份有限公司池州分行因7项违法行为类型，被警告，并处罚款68.08万元人民币。",
+      "url": "https://finance.sina.com.cn/jryx/fd/2026-10-10/doc-iniutyyz2017454.shtml",
+      "content": " 10月10日金融一线消息，据中国人民银行安徽省分行行政处罚信息公开表显示，恒丰银行股份有限公司合肥分行因违反金融统计相关管理规定，被罚款23.38万元。",
       "priority": "high",
       "sectors": [
         "金融"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-10-10",
-      "time": "07:40",
+      "time": "12:27",
       "keywords": []
     },
     {
-      "title": "肃宁县农村信用联社被罚78.5万元：违反金融统计管理规定等",
+      "title": "邮储银行安徽省分行被罚204.22万元：违反金融统计相关管理规定等",
       "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-10-10/doc-iniutqmf6030051.shtml",
-      "content": "10月10日金融一线消息，据中国人民银行沧州市分行行政处罚信息公开表显示，肃宁县农村信用联社股份有限公司因违反金融统计管理规定、违反人民币反假规定...",
+      "url": "https://finance.sina.com.cn/jryx/fd/2026-10-10/doc-iniutyzf7412539.shtml",
+      "content": "10月10日金融一线消息，据中国人民银行安徽省分行行政处罚信息公开表显示，中国邮政储蓄银行股份有限公司安徽省分行因9项违法行为类型，被警告、通报批评，并处罚款204...",
       "priority": "high",
       "sectors": [
         "金融"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-10-10",
-      "time": "07:39",
+      "time": "12:24",
       "keywords": []
     },
     {
-      "title": "花旗：法国财政风险或令欧央行12月后暂停加息，欧元料跌破1.10",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/forex/forexroll/2026-10-10/doc-iniutqmf6031020.shtml",
-      "content": "来源：华尔街见闻 花旗打破市场共识：法国财政危机恐成欧央行加息“拦路虎”。若风险蔓延，欧央行或被迫提前按下加息暂停键，致欧元兑美元跌破1.10。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "07:39",
-      "keywords": []
-    },
-    {
-      "title": "任丘村镇银行被罚0.2万元：违反人民币流通管理规定",
+      "title": "建设银行安徽省分行被罚74.12万元：违反金融统计相关管理规定",
       "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-10-10/doc-iniutqmf6029376.shtml",
-      "content": " 10月10日金融一线消息，据中国人民银行沧州市分行行政处罚信息公开表显示，任丘村镇银行股份有限公司因违反人民币流通管理规定，被警告，并处罚款人民币0.2万元。",
+      "url": "https://finance.sina.com.cn/jryx/fd/2026-10-10/doc-iniutyyz2014707.shtml",
+      "content": " 10月10日金融一线消息，据中国人民银行安徽省分行行政处罚信息公开表显示，中国建设银行股份有限公司安徽省分行因违反金融统计相关管理规定，被罚款74.12万元。",
       "priority": "high",
       "sectors": [
         "金融"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-10-10",
-      "time": "07:38",
+      "time": "12:22",
       "keywords": []
     },
     {
-      "title": "东光县农村信用联社被罚2万元：违反人民币反假规定",
+      "title": "光大银行蚌埠分行被罚20万元：绿色贷款统计不准确",
       "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-10-10/doc-iniutqmk0613170.shtml",
-      "content": " 10月10日金融一线消息，据中国人民银行沧州市分行行政处罚信息公开表显示，东光县农村信用联社股份有限公司因违反人民币反假规定，被警告，并处罚款人民币2万元。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "07:37",
-      "keywords": []
-    },
-    {
-      "title": "泊头市农村信用联社被罚0.5万元：违反账户管理规定",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-10-10/doc-iniutqmm7384629.shtml",
-      "content": " 10月10日金融一线消息，据中国人民银行沧州市分行行政处罚信息公开表显示，泊头市农村信用联社股份有限公司因违反账户管理规定，被警告，并处罚款人民币0.5万元。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "07:35",
-      "keywords": []
-    },
-    {
-      "title": "承德银行被罚137.55万元：违反数据安全管理规定等",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-10-10/doc-iniutqmm7382643.shtml",
-      "content": "10月10日金融一线消息，据中国人民银行承德市分行行政处罚信息公开表显示，承德银行股份有限公司因违反数据安全管理规定；违反信用信息采集、提供...",
+      "url": "https://finance.sina.com.cn/jryx/fd/2026-10-10/doc-iniutyze0635375.shtml",
+      "content": " 10月10日金融一线消息，据中国人民银行蚌埠市分行行政处罚信息公开表显示，中国光大银行股份有限公司蚌埠分行因绿色贷款统计不准确，被罚款20万元人民币。",
       "priority": "high",
       "sectors": [
         "金融"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-10-10",
-      "time": "07:32",
+      "time": "12:20",
       "keywords": []
     },
     {
-      "title": "河北围场农村商业银行被罚20万元：违反信用信息采集、提供、查询及相关管理规定",
+      "title": "河南农商银行汤阴支行被罚20.1万元：不对异议信息进行核查和处理",
       "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-10-10/doc-iniutqmk0608131.shtml",
-      "content": "10月10日金融一线消息，据中国人民银行承德市分行行政处罚信息公开表显示，河北围场农村商业银行股份有限公司因违反信用信息采集、提供、查询及相关管理规定...",
+      "url": "https://finance.sina.com.cn/jryx/fd/2026-10-10/doc-iniutyzf7405910.shtml",
+      "content": "10月10日金融一线消息，据中国人民银行安阳市分行行政处罚信息公开表显示，河南农村商业银行汤阴支行因不对异议信息进行核查和处理，被罚款20.1万元。",
       "priority": "high",
       "sectors": [
         "金融"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-10-10",
-      "time": "07:32",
+      "time": "12:19",
       "keywords": []
     },
     {
-      "title": "固安恒升村镇银行被罚5万元：违反金融科技管理规定",
+      "title": "华商银行被罚13.2万元：未按照规定开展客户尽职调查等",
       "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-10-10/doc-iniutqmf6023807.shtml",
-      "content": "10月10日金融一线消息，据中国人民银行廊坊市分行行政处罚信息公开表显示，固安恒升村镇银行股份有限公司因违反金融科技管理规定，被警告，并处罚款5万元。",
+      "url": "https://finance.sina.com.cn/jryx/fd/2026-10-10/doc-iniutyze0631884.shtml",
+      "content": "10月10日金融一线消息，据中国人民银行深圳市分行行政处罚信息公开表显示，华商银行因未按照规定开展客户尽职调查、未按照规定开展洗钱风险评估或者健全相应的风险管理制度...",
       "priority": "high",
       "sectors": [
         "金融"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-10-10",
-      "time": "07:30",
-      "keywords": []
-    },
-    {
-      "title": "宣茂均获批担任诸暨农商银行副行长",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/hm/2026-10-10/doc-iniutqmm7376254.shtml",
-      "content": "10月10日金融一线消息，国家金融监督管理总局绍兴监管分局发布批复，核准宣茂均诸暨农商银行副行长的任职资格。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "07:29",
-      "keywords": []
-    },
-    {
-      "title": "河北大厂农村商业银行被罚32.94万元：违反金融统计、金融科技、货币金银、反洗钱管理规定",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-10-10/doc-iniutqmf2068295.shtml",
-      "content": "10月10日金融一线消息，据中国人民银行廊坊市分行行政处罚信息公开表显示，河北大厂农村商业银行股份有限公司因违反金融统计、金融科技、货币金银、反洗钱管理规定...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "07:28",
-      "keywords": []
-    },
-    {
-      "title": "马旭东获批担任上海人寿董事",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/hm/2026-10-10/doc-iniutqmf2067336.shtml",
-      "content": "10月10日金融一线消息，上海金融监管局发布批复，核准马旭东上海人寿保险股份有限公司董事的任职资格。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "07:27",
-      "keywords": []
-    },
-    {
-      "title": "农业银行宝鸡分行被罚14.23万元：违反国库集中收付管理规定",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-10-10/doc-iniutqmf2067442.shtml",
-      "content": "10月10日金融一线消息，据中国人民银行宝鸡市分行行政处罚信息公开表显示，中国农业银行股份有限公司宝鸡分行因违反国库集中收付管理规定，被给予警告，并处人民币14...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "07:27",
-      "keywords": []
-    },
-    {
-      "title": "山东东阿农村商业银行被罚9.6万元：违反信用信息提供相关管理规定",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/fd/2026-10-10/doc-iniutqmf6020970.shtml",
-      "content": " 10月10日金融一线消息，据中国人民银行聊城市分行行政处罚信息公开表显示，山东东阿农村商业银行股份有限公司因违反信用信息提供相关管理规定，被罚款96000元。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "07:26",
-      "keywords": []
-    },
-    {
-      "title": "申丽萍、杨兴辉获批担任邯郸银行副行长",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/hm/2026-10-10/doc-iniutqmm7373460.shtml",
-      "content": "10月10日金融一线消息，河北金融监管局发布批复，核准申丽萍、杨兴辉邯郸银行股份有限公司副行长的任职资格。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "07:24",
+      "time": "12:18",
       "keywords": []
     },
     {
@@ -635,59 +424,87 @@
       ]
     },
     {
-      "title": "利好！多家A股公司，业绩大幅预增",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniutqmf6048645.shtml",
-      "content": "来源：中国基金报 【导读】37家公司披露业绩预告，预喜比例超过八成 中国基金报记者 夏天 A股新一轮业绩预告进入密集披露期。10月9日晚间，包括中国巨石、广合科技...",
+      "title": "多家车企高管，晒自家踏板",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/stock/hyyj/2026-10-10/doc-iniuufia0633095.shtml",
+      "content": "近日，尊界刹车事件引发行业对制动踏板安全冗余等问题的广泛探讨。岚图、广汽本田、神龙、仰望、猛士等多家车企高管先后在个人社交账号发布产品制动踏板实物...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-10-10",
-      "time": "07:58",
+      "time": "14:31",
       "keywords": []
     },
     {
-      "title": "新规明确：“大规模基金”采取更审慎的风控，净值2000亿或持有人5000万户！天弘建信华夏等12只产品请注意",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-10-10/doc-iniutqmf2079108.shtml",
-      "content": "10月9日，证监会就《公开募集证券投资基金运作管理办法》（以下简称《运作办法》）公开征求意见。 征求意见稿第十条要求管理人搭建完整风险管理体系，识别、评估...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "07:22",
-      "keywords": []
-    },
-    {
-      "title": "新华保险举牌国泰海通H股，持股比例升至20.24%，多元资金加速布局券商板块",
+      "title": "23家农合机构新设合并为2家市级农商行：河池、百色同日启动，广西地市统一法人改革提速",
       "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-10-10/doc-iniutqmm7369412.shtml",
-      "content": "每经记者|王海慜每经编辑|肖芮冬 10月9日，新华保险正式披露了举牌国泰海通H股的相关信息，公司于9月29日增持国泰海通H股996万股，约占国泰海通已发行H股股本的 0.28%。",
+      "url": "https://finance.sina.com.cn/roll/2026-10-10/doc-iniutyze0701330.shtml",
+      "content": "每经记者|刘嘉魁每经编辑|李雨冰 近日，河池、百色两地农合机构集中发布会议通知，定于10月16日召开临时社员代表大会或临时股东会...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "13:34",
+      "keywords": []
+    },
+    {
+      "title": "华创云信半年报债券信披失守：代码前后打架 起息日“穿越”？",
+      "source": "新浪证券",
+      "url": "https://finance.sina.com.cn/stock/aigcy/2026-10-10/doc-iniutyyz2041556.shtml",
+      "content": "一份业绩回暖的半年报，却在文本层面留下密集的低级差错。 近期，华创云信数字技术股份有限公司（600155.SH，下称“华创云信”）如期披露2026年半年度报告。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "13:06",
+      "keywords": []
+    },
+    {
+      "title": "“2字头”大额存单重出江湖之下，银行揽储逻辑生变，释放什么信号？",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-10-10/doc-iniutyzf7444626.shtml",
+      "content": "中国基金报记者 马嘉昕 近日，大额存单市场再添新变化，年化利率为2%的大额存单重出江湖。记者注意到，锡商银行、邯郸银行等多家银行于日前相继发布上新公告称...",
       "priority": "medium",
       "sectors": [
         "金融"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-10-10",
-      "time": "07:20",
+      "time": "12:50",
       "keywords": []
     },
     {
-      "title": "基金新规解读：主题基金投资方向须可识别、可量化、清晰界定",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-10-10/doc-iniutqmf2063372.shtml",
-      "content": "10月9日，证监会就《公开募集证券投资基金运作管理办法》（以下简称《运作办法》）公开征求意见。 “名实不符”的风格漂移现象，是投资者投诉的高频问题。",
+      "title": "亚马逊云科技向姚基金捐赠100万美元现金及云+AI资源，姚明：有幸携手同行",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/it/2026-10-10/doc-iniutyyz2027750.shtml",
+      "content": "新浪科技讯 10月10日晚间消息，亚马逊云科技宣布与北京姚基金公益基金会（简称“姚基金”）共同推出“云上篮图” 体育×科技育人计划，将依托姚基金覆盖全国的学校网络...",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "12:45",
+      "keywords": []
+    },
+    {
+      "title": "15.2亿“抢下”近半定增，大佬裘国根为何重仓押注思特威？",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/s/2026-10-10/doc-iniutyyz5959297.shtml",
+      "content": "来源：环球老虎财经app 9月30日晚，思特威32亿元定增落槌，重阳投资四只产品合计出资15.2亿元拿下近半份额，成为合计最大买家。这笔投资将思特威推上重阳投资第二大科技重...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-10-10",
-      "time": "07:16",
+      "time": "12:08",
       "keywords": []
     },
     {
@@ -948,175 +765,355 @@
       ]
     },
     {
-      "title": "为什么黑色系成了商品市场最弱的一端？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-10/doc-iniutqmf2116859.shtml",
-      "content": "来源：牛钱网 嘉宾介绍：戴苏娟，熵研咨询创始合伙人，钢铁冶金硕士，拥有十余年钢铁全产业链深度研究及期现实操经验。曾任职于我的钢铁和远大物产，2018年成立熵研咨询...",
+      "title": "沙特利雅得机场频繁遭袭 我使馆发布领事提醒",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniuufhx5930809.shtml",
+      "content": "当地时间10日，中国驻沙特大使馆发布领事提醒，内容如下： 利雅得哈立德国王机场发布公告称：提醒旅客有必要与有关航空公司保持直接沟通，并在前往机场前确认航班状态。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-10-10",
-      "time": "08:39",
+      "time": "14:17",
       "keywords": []
     },
     {
-      "title": "土耳其禁止15岁以下儿童使用社交媒体账号",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-10/doc-iniutqmf2112281.shtml",
-      "content": "根据官方公报发布的一项规定，土耳其已禁止社交媒体平台向15岁以下儿童提供服务。 社交媒体公司将被要求在用户创建账号时，通过土耳其电子政务系统使用年龄验证令牌来验证...",
+      "title": "301636，宣布重要收购！切入散热赛道",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-10-10/doc-iniuufhx1962788.shtml",
+      "content": "泽润新能拟收购合创智造不低于51%股权。 泽润新能（301636）10月9日晚公告，公司于当日召开第二届董事会第五次会议，会议审议通过《关于筹划股权收购事项暨签署&lt;合作框...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-10-10",
-      "time": "08:35",
+      "time": "14:10",
       "keywords": []
     },
     {
-      "title": "四川：加大金融支持力度，推动符合条件的中小企业上市",
-      "source": "中证网",
-      "url": "https://finance.sina.com.cn/china/2026-10-10/doc-iniutqmk0658640.shtml",
-      "content": "四川省经济和信息化厅办公室网站消息，近日，四川省经济和信息化厅办公室印发《四川省促进中小企业发展工作方案（2026—2030年）》。",
+      "title": "国家电网与中国中车集团举行会谈",
+      "source": "证券时报网",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniuufia0603320.shtml",
+      "content": "人民财讯10月10日电，10月10日，国家电网公司董事长、党组书记张智刚在公司总部与中国中车集团有限公司董事长、党委书记孙永才举行会谈。",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "14:08",
+      "keywords": []
+    },
+    {
+      "title": "立讯精密遭美国337调查，涉及数据中心电源模块 公司：相关产品处于客户验证阶段",
+      "source": "每日经济新闻",
+      "url": "https://finance.sina.com.cn/roll/2026-10-10/doc-iniuufhx5906297.shtml",
+      "content": "每经记者|王晶每经编辑|董兴生 10月10日，立讯精密（SZ002475）发布关于公司及控股子公司涉及美国国际贸易委员会337调查的公告称...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "13:58",
+      "keywords": []
+    },
+    {
+      "title": "立讯精密被列入美国337调查",
+      "source": "界面新闻",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-10/doc-iniuufhx1960355.shtml",
+      "content": "立讯精密10月10日公告，公司及控股子公司东莞立讯技术股份有限公司被列为美国国际贸易委员会337调查被调查方，涉及美国专利US 1090.37万。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "13:44",
+      "keywords": []
+    },
+    {
+      "title": "双汇发展食安罚单落锤：1.29亿元代价背后",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/wbstock/2026-10-10/doc-iniuufic7353417.shtml",
+      "content": "来源：@华夏时报微博华夏时报（www.chinatimes.net.cn）记者 周梦婷 北京报道此前双汇发展（000895.SZ）子公司产品抽检不合格事件落下最终判锤。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "13:41",
+      "keywords": []
+    },
+    {
+      "title": "图达通（02665.HK）：全球图像级激光雷达解决方案核心企业,“车端+机器人+基础设施”齐发力【国信汽车】",
+      "source": "",
+      "url": "https://finance.sina.com.cn/roll/2026-10-10/doc-iniuufia0591948.shtml",
+      "content": "（来源：车中旭霞）全球图像级激光雷达解决方案核心企业，产品应用于汽车及非汽车领域图达通是全球图像级激光雷达及解决方案提供商，赋能组合辅助驾驶、智慧交通...",
+      "priority": "low",
+      "sectors": [
+        "机器人",
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "13:38",
+      "keywords": []
+    },
+    {
+      "title": "TCL中环：截至2026年6月30日，公司普通股股东总数为35.37万",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-10/doc-iniuufia0574378.shtml",
+      "content": "证券之星消息，TCL中环(002129)10月10日在投资者关系平台上答复投资者关心的问题。投资者：请问公司9月10日股东人数是多少?谢谢 TCL中环董秘：您好，截至2026年6月30日...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "13:34",
+      "keywords": []
+    },
+    {
+      "title": "五信托联手入局 *ST沐邦重整！ #热点 #信托 #金融资讯",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-10/doc-iniuufhx1952714.shtml",
+      "content": "抱歉，该视频已下线!",
       "priority": "low",
       "sectors": [
         "金融"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-10-10",
-      "time": "08:23",
+      "time": "13:30",
       "keywords": []
     },
     {
-      "title": "社保卡还有金卡？还每月有补贴？北京人社局辟谣：这是诈骗！",
+      "title": "立讯精密：公司及立讯技术涉337调查，尚处立案初期",
+      "source": "证券时报网",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniutyyz2053245.shtml",
+      "content": "人民财讯10月10日电，立讯精密（002475）10月10日公告，公司及控股子公司东莞立讯技术股份有限公司被列为美国国际贸易委员会337调查被调查方，涉及美国专利US 1090.37万。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "13:20",
+      "keywords": []
+    },
+    {
+      "title": "匈牙利代表团与亿纬锂能董事长刘金成会谈，协同推进匈牙利基地高质量建设",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-10/doc-iniuufia0576785.shtml",
+      "content": "近日，第五届全球数字贸易博览会于杭州举行。亿纬锂能董事长刘金成博士与匈牙利代表团会面，双方围绕公司匈牙利项目建设进展、欧洲市场战略布局...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "13:12",
+      "keywords": []
+    },
+    {
+      "title": "一问到底丨最强厄尔尼诺来了，如何影响全球气候？",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniutyzf7461267.shtml",
+      "content": "近日，“超强厄尔尼诺已形成”的话题冲上了热搜。记者从中国气象局国家气候中心了解到，一次“东部型超强厄尔尼诺事件”已于今年9月正式形成。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "13:10",
+      "keywords": []
+    },
+    {
+      "title": "1亿多罚单，万宏伟个人领3000多万，双汇罚单落地",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-10/doc-iniutyzf7446706.shtml",
+      "content": "10月9日晚间，河南双汇投资发展股份有限公司(下称“双汇发展”，000895.SZ)发布公告称，公司及控股子公司望奎双汇北大荒食品有限公司(下称“望奎双汇”)以及相关董事...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "12:58",
+      "keywords": []
+    },
+    {
+      "title": "500天17亿回款，万商联盟是怎样炼成的？",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-10-10/doc-iniuufia0597779.shtml",
+      "content": "9月28日，珍酒李渡把万商联盟年度大会开进了直播间，超2.8万人线上参会。在近五个小时的直播里，从表彰优秀联盟商，到联盟伙伴与优秀员工发言；从总裁汤向阳作年度报告...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "12:57",
+      "keywords": []
+    },
+    {
+      "title": "发展新质生产力，金融业该怎么做？",
       "source": "新京报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniutqmm7423114.shtml",
-      "content": " 新京报讯 据@北京人社 微博消息，有网友反映，近期出现一团伙冒充北京市人社局工作人员，谎称可办理社保卡金卡拉人进群承诺每月发放补贴，实施诈骗！",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "08:14",
-      "keywords": []
-    },
-    {
-      "title": "参股五年转向控股Skyee，拉卡拉拟补齐跨境短板",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/roll/2026-10-10/doc-iniutqmf2080918.shtml",
-      "content": "21世纪经济报道记者李览青 近日，拉卡拉支付股份有限公司（300773.SZ）发布公告，公司正在筹划以发行股份及支付现金方式，购买广州市高富信息科技有限公司（下称“高富信息”...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "07:47",
-      "keywords": []
-    },
-    {
-      "title": "集采冲击主业营利转跌，一笔募投连续转向未果最终补流，九典制药叙事逻辑迎考",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-10-10/doc-iniutqmk0645186.shtml",
-      "content": "来源：证券之星 九典制药（300705.SZ）2026年中报释放出明确的转折信号：营收与净利润双双下滑，且利润降幅显著大于营收降幅，盈利能力走弱。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "07:45",
-      "keywords": []
-    },
-    {
-      "title": "【热点报告】油籽蛋白：数据偏空 盘面抗跌",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-10-10/doc-iniutqmf6031163.shtml",
-      "content": "来源：中粮期货研究中心 概要 USDA公布十月供需数据，数据偏空但幅度有限。本次报告中，美豆旧作25/26年度结转库存由3.25亿蒲下调1000万蒲至3.15亿蒲。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "07:37",
-      "keywords": []
-    },
-    {
-      "title": "在黄浦江边，和一群关心地球的人聊聊天",
-      "source": "睿见Economy",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-10-10/doc-iniutqmf2079987.shtml",
-      "content": "10月的上海，空气里开始有了凉意，但黄浦滨江的里滩文化中心，却正酝酿着一场关于“生存”的热度。 10月20日到22日，2026可持续全球领导者大会就要在这里开场。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "07:37",
-      "keywords": []
-    },
-    {
-      "title": "超长蛋挞相关话题冲上热搜，爆火不到两个月就凉了",
-      "source": "界面",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniutqmm7374688.shtml",
-      "content": " 近日，“超长蛋挞陆续下架”话题登上微博热搜，引发大量消费者讨论。有消息称，国庆假期后多地烘焙门店开始停售该产品，生命周期仅一个多月。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "07:26",
-      "keywords": []
-    },
-    {
-      "title": "养老金最新持仓动向浮现",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-10-10/doc-iniutqmf2066606.shtml",
-      "content": "人力资源社会保障部新闻发言人、副部长李忠10日在国新办举行的“开局起步‘十五五’”系列主题新闻发布会上表示，近年来，人力资源社会保障部先后实施了养老保险全国统筹...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "07:21",
-      "keywords": []
-    },
-    {
-      "title": "日本图谋发展核潜艇，国防部回应",
-      "source": "长安街知事",
-      "url": "https://finance.sina.com.cn/china/2026-10-10/doc-iniutqmf6020074.shtml",
-      "content": "据“国防部发布”微信公众号消息，10月10日下午，国防部新闻发言人陈曦大校就近期涉军问题发布消息。国防部新闻发言人陈曦大校 记者：据报道...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-10",
-      "time": "07:21",
-      "keywords": []
-    },
-    {
-      "title": "首程控股于10月9日斥资159.83万港元回购124.4万股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-10-10/doc-iniutqmk0588839.shtml",
-      "content": "首程控股（00697）发布公告，于2026年10月9日斥资159.83万港元回购124.4万股。",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniutyyz2037748.shtml",
+      "content": "近期，中共中央、国务院发布《关于发展新质生产力的意见》（以下简称“意见”），明确要求加大金融创新产品供给。业内人士普遍认为...",
       "priority": "low",
       "sectors": [
         "金融"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-10-10",
-      "time": "07:14",
-      "keywords": [
-        "首程控股",
-        "回购"
-      ]
+      "time": "12:50",
+      "keywords": []
+    },
+    {
+      "title": "被字节开除的田柯宇创业冲上热搜，项目投后估值2亿美元",
+      "source": "界面",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-10/doc-iniutyyz2028128.shtml",
+      "content": "界面新闻记者 | 宋佳楠 近日有媒体报道称，曾被字节跳动开除的田柯宇创办了自己的人工智能实验室，完成近3000万美元融资，投资方包含五源资本与IDG资本...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "12:44",
+      "keywords": []
+    },
+    {
+      "title": "5连板后九阳股份澄清与华为无战略合作 不涉及哈基米业务",
+      "source": "观点地产网",
+      "url": "https://finance.sina.com.cn/stock/estate/integration/2026-10-10/doc-iniutyyz2017453.shtml",
+      "content": "观点网讯：10月9日，九阳股份（002242）发布股票交易异常波动公告，对市场多项传闻逐一澄清。针对境外主体关联猜想，九阳股份表示...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "12:25",
+      "keywords": []
+    },
+    {
+      "title": "70后浙商大佬、祥源文旅实控人两度遭证监会立案",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/roll/2026-10-10/doc-iniutyyz2014370.shtml",
+      "content": "21世纪经济报道记者朱艺艺 70后浙商大佬俞发祥，再度陷入风波。 10月9日晚间，祥源文旅（600576.SH）和交建股份（603815.SH）先后发布公告称...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "12:20",
+      "keywords": []
+    },
+    {
+      "title": "最新！全国各地最低工资标准公布",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/china/2026-10-10/doc-iniutyyz2020882.shtml",
+      "content": "近日，人社部网站发布全国各省、自治区、直辖市最低工资标准情况（截至2026年10月1日）。在月最低工资标准方面，上海以2740元的标准居全国首位；在小时最低工资标准方面...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "12:15",
+      "keywords": []
+    },
+    {
+      "title": "小米加码半导体封装？最新回应来了！",
+      "source": "证券时报",
+      "url": "https://finance.sina.com.cn/stock/s/2026-10-10/doc-iniutyyz5962528.shtml",
+      "content": " A股公司一纸公告，“小米加码半导体封装”的市场预期快速升温。对此，10月10日，有接近小米集团的人士对证券时报记者回应称：“这并不代表小米有新的战略层面动作。”",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "12:12",
+      "keywords": []
+    },
+    {
+      "title": "福龙马（603686）：中标巴彦淖尔市临河区农牧和科技局采购项目，中标金额为394.80万元",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-10/doc-iniuufhx1956764.shtml",
+      "content": "同壁财经讯，企查查数据显示，根据《巴彦淖尔市临河区农牧和科技局临河区美丽乡村建设项目垃圾转运设备采购项目中标（成交）结果公告》...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "12:10",
+      "keywords": []
+    },
+    {
+      "title": "新点软件（688232）：中标芜湖市大数据建设投资运营有限公司采购项目，中标金额为266.00万元",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-10/doc-iniuufia0618690.shtml",
+      "content": "同壁财经讯，企查查数据显示，根据《芜湖市大数据公司围串标识别系统和上传投标文件实名制管理成交结果公告》，国泰新点软件股份有限公司于2026年10月10日公告中标芜湖市大...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "12:10",
+      "keywords": []
+    },
+    {
+      "title": "中远海科（002401）：中标上海市公安局奉贤分局采购项目，中标金额为833.65万元",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-10/doc-iniuufhx5927411.shtml",
+      "content": "同壁财经讯，企查查数据显示，根据《2026年度奉贤区公共安全视频监控建设联网应用项目运维服务的中标（成交）结果公告》，中远海运科技股份有限公司于2026年10月10日公告中...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "12:10",
+      "keywords": []
+    },
+    {
+      "title": "拟转让海南矿业5%股权，郭广昌再收缩“复星系”版图",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/s/2026-10-10/doc-iniutyze0625773.shtml",
+      "content": "来源：环球老虎财经app 10月9日晚间，“复星系”旗下复星高科拟以约9.01亿元转让海南矿业5%股权。近年来，随着资本市场风向转变，“复星系”接连减持重庆农商行...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "12:08",
+      "keywords": []
+    },
+    {
+      "title": "舜禹股份（301519）：中标濉溪县自来水公司采购项目，中标金额为143.86万元",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-10/doc-iniutyyz5967744.shtml",
+      "content": "同壁财经讯，企查查数据显示，根据《濉溪县自来水公司濉溪县桂语春风小区高品质饮用水项目 成交结果公告》，安徽舜禹水务股份有限公司于2026年10月10日公告中标濉溪县自来...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "12:05",
+      "keywords": []
     },
     {
       "title": "【本文系数据通用户提前专享】面对AI对就业、经济、社保等的潜在影响，如何推动技术红利转化为公共福祉？",
@@ -1148,6 +1145,22 @@
       "time": "--:--",
       "keywords": [
         "周刊提前读"
+      ]
+    },
+    {
+      "title": "赴日旅游人数骤降，泰国旅游热度有所回升，8月去韩国的中国游客数量69.8万人次，同比大增了42.5%；前7个月北京接待俄罗斯游客58.22万人次，同比暴增134",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-10-10/102492161.html?cxapp_link=true",
+      "content": "赴日旅游人数骤降，泰国旅游热度有所回升，8月去韩国的中国游客数量69.8万人次，同比大增了42.5%；前7个月北京接待俄罗斯游客58.22万人次，同比暴增134%",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-10-10",
+      "time": "--:--",
+      "keywords": [
+        "数据图解"
       ]
     },
     {
@@ -2309,22 +2322,6 @@
       "time": "--:--",
       "keywords": [
         "数据图解"
-      ]
-    },
-    {
-      "title": "市场更为关心的问题已经超出本次重整协议的范围：华人文化入主之后，是否会将收购自邵氏兄弟的那批影视资产注入ST华谊",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-09-20/102486699.html?cxapp_link=true",
-      "content": "市场更为关心的问题已经超出本次重整协议的范围：华人文化入主之后，是否会将收购自邵氏兄弟的那批影视资产注入ST华谊",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-10",
-      "time": "--:--",
-      "keywords": [
-        "交易簿"
       ]
     }
   ]
