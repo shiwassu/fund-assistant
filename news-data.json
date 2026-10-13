@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-13T16:23:33.845728",
+  "updated": "2026-10-13T21:30:23.783689",
   "total": 149,
   "sources": [
     "新浪财经",
@@ -7,11 +7,95 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 19,
-    "medium": 28,
-    "low": 102
+    "high": 18,
+    "medium": 30,
+    "low": 101
   },
   "items": [
+    {
+      "title": "美国银行涉嫌洗钱违规 被罚款12亿美元 盘后跌超2%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcpit7259052.shtml",
+      "content": " 美国银行周二被处以超过12亿美元联邦罚款。监管机构称，这家美国第二大银行多年来未能报告超过50亿美元的可疑交易，也未能解决长期存在的反洗钱问题。",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-10-13",
+      "time": "20:45",
+      "keywords": []
+    },
+    {
+      "title": "美国债市：国债长端领涨 纽约联储行长鸽派言论支撑短端",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcpis0449366.shtml",
+      "content": "美国国债短端在美国交易时段午后反弹，推动2年期收益率回落至与前一日基本持平的水平。纽约联储行长威廉姆斯表示，今年再加息一次将是合适的...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-13",
+      "time": "19:58",
+      "keywords": []
+    },
+    {
+      "title": "美联储威廉姆斯：2027年可能无需加息 与交易员看法相左",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcpis0445968.shtml",
+      "content": "美国纽约联储主席约翰·威廉姆斯周二表示，在今年再加息一次后，他认为2027年不会进一步加息。 “我尚未改变我的观点，即可能适合再加息一次，”威廉姆斯在接受采访时说。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-13",
+      "time": "19:53",
+      "keywords": []
+    },
+    {
+      "title": "纽约联储行长预计明年无需加息 称通胀有望大幅放缓",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-14/doc-inivchzu0522302.shtml",
+      "content": "纽约联储行长约翰·威廉姆斯表示，他仍认为今年年内再加息一次是合适的，但目前预计明年没有升息必要。 威廉姆斯周二在纽约联储接受采访时表示：“我没有改变自己的看法...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-13",
+      "time": "18:34",
+      "keywords": []
+    },
+    {
+      "title": "Bumble将被IthacaHoldings以13亿美元收购完成私有化",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivchzz8620915.shtml",
+      "content": "约会软件企业 Bumble 公司将被新成立的 Ithaca Holdings 以 13 亿美元收购，完成私有化退市。 根据周一发布的官方声明，Ithaca Holdings 的收购报价为每股 6.05 美元。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-13",
+      "time": "16:48",
+      "keywords": []
+    },
+    {
+      "title": "KeyBanc分析师：奈飞可通过四项举措终止股价暴跌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcatw0565585.shtml",
+      "content": " 奈飞（NFLX）2026 年剩余时间不会着手整合曾经备受觊觎的华纳兄弟探索公司资产。这份美差落到了斯凯丹斯传媒巨头戴维・埃里森组建的高薪高管团队手中。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-13",
+      "time": "16:39",
+      "keywords": []
+    },
     {
       "title": "金佰利与科赴400亿美元并购案获欧盟附条件批准",
       "source": "环球市场播报",
@@ -24,104 +108,6 @@
       "period": "noon",
       "date": "2026-10-13",
       "time": "15:52",
-      "keywords": []
-    },
-    {
-      "title": "黑石总裁和美联储理事沃勒：法国财政压力给高赤字国家敲响警钟",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-10-13/doc-inivcatw0493555.shtml",
-      "content": "黑石集团总裁Jon Gray和美联储理事克里斯托弗·沃勒表示，法国面临的财政压力给那些大举支出的政府敲响了警钟，但由于美国经济增长率高得多...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "14:44",
-      "keywords": []
-    },
-    {
-      "title": "今夜，跳水！美联储，重磅发声！高盛突然上调",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-10-13/doc-inivawnc8083601.shtml",
-      "content": "AI硬件方向继续调整！ 北京时间13日晚间，美股三大指数走势分化，道指盘中跳水翻绿，此前一度涨超0.9%。存储芯片、光通信等AI硬件方向继续下挫...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "14:24",
-      "keywords": []
-    },
-    {
-      "title": "全球最大的黄金买家开始卖金了",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/wm/2026-10-13/doc-inivcatw0483618.shtml",
-      "content": "记者丨叶麦穗 随着美债收益率不断攀高，不能孳息的黄金吸引力有所下降。 近日，哈萨克斯坦央行正从全球最大的黄金买家之一转变为黄金卖家。",
-      "priority": "high",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "14:16",
-      "keywords": []
-    },
-    {
-      "title": "长鑫科技，打崩SK海力士、三星电子、美光股价？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-13/doc-inivawnc8077888.shtml",
-      "content": "来源：中国基金报 【导读】长鑫科技凭一己之力，打崩三星、海力士、美光股价？ 中国基金报记者 泰勒 大家好啊，这轮AI硬件，尤其是全球存储芯片的股价暴跌...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "14:16",
-      "keywords": []
-    },
-    {
-      "title": "监管整顿“快返型”两全保险，记者实测多数产品已“隐身”但仍有“漏网之鱼”",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/insurance/bxdt/2026-10-13/doc-inivawmz7355811.shtml",
-      "content": "来源：北京商报 2027年“开门红”启幕之际，人身险“快返型”产品迎来排查整改。10月12日，北京商报记者了解到，有人身险公司近期收到了监管部门发布的《关于开展“快返型”产品...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "13:59",
-      "keywords": []
-    },
-    {
-      "title": "茶百道停牌背后：涉嫌操纵IPO的“可疑集团”浮出水面",
-      "source": "《财经》杂志",
-      "url": "https://finance.sina.com.cn/stock/newstock/2026-10-13/doc-inivawnc8065995.shtml",
-      "content": "香港证监会公告，茶百道两年前的IPO可能被人为操纵 文|《财经》研究员 李莹 柯愉乐 成孟琦 编辑|杨立赟 郭楠 10月13日，茶百道（02555.HK）的股票在香港联交所突发停牌。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "13:57",
-      "keywords": []
-    },
-    {
-      "title": "入华45年，Visa获准筹备独资清算机构",
-      "source": "《财经》杂志",
-      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-10-13/doc-inivawnf8797605.shtml",
-      "content": "文|《财经》记者 唐郡 首家外商独资银行卡清算机构获准筹备。 10月13日，中国人民银行（下称“央行”）官网披露，准予威士信息技术（北京）有限公司（下称“威士公司”）筹备银...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "13:52",
       "keywords": []
     },
     {
@@ -302,6 +288,118 @@
       ]
     },
     {
+      "title": "10月14日热门中概股涨跌互现 理想涨超3% 文远知行跌超5%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcpis0484332.shtml",
+      "content": "10月14日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）收涨0.14%。 上涨个股（按市值从高到低）：拼多多涨1.29%，阿里巴巴涨0.06%，京东涨0.22%，富途控股涨1.60%...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-13",
+      "time": "20:42",
+      "keywords": []
+    },
+    {
+      "title": "10月14日美股收盘：三大股指收低 存储芯片股承压",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcpit7229951.shtml",
+      "content": "美股三大股指周二收跌，交易员消化了多家大型银行的财报，以及韩国股市隔夜大幅下跌对存储芯片股造成的压力。 标普500小幅收低，纳斯达克综合指数下跌0.15%。",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-10-13",
+      "time": "20:08",
+      "keywords": []
+    },
+    {
+      "title": "美债期货负凸性升至近20年高位 MOVE指数创立者警告“噩梦情景”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcpiv7882683.shtml",
+      "content": " 美债市场MOVE指数的创立者Harley Bassman警告称，债市一个鲜受关注的特征可能令抛售行情更为剧烈，并进一步推高债券收益率。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-13",
+      "time": "19:45",
+      "keywords": []
+    },
+    {
+      "title": "华尔街股票业务罕见跑赢固收 利率上升冲击债券交易",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-14/doc-inivchzu0535179.shtml",
+      "content": "华尔街大行固定收益交易部门第三季度表现不佳，业绩被股票交易部门反超。 美国五大银行股票业务部门今年前九个月营收有望超过660亿美元，比债券...",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-10-13",
+      "time": "18:52",
+      "keywords": []
+    },
+    {
+      "title": "纽约汇市：美元从三个月高点回落 油价和美债收益率走低",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-14/doc-inivchzv7306202.shtml",
+      "content": "随着全球债市上涨推动收益率走低，加之油价下跌，美元从三个月高点回落。日元兑美元上涨，但表现逊于其他G10货币。 彭博美元即期指数下跌0.2%，此前连续四个交易日上涨。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-13",
+      "time": "18:50",
+      "keywords": []
+    },
+    {
+      "title": "高盛主经纪业务风生水起 股票交易只能靠后站",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-14/doc-inivchzv7244877.shtml",
+      "content": " 高盛集团面向对冲基金的融资业务季度收入首次超过了股票部门的交易额，因大型投资者在波动剧烈的市场中踏浪时进一步加杠杆。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-13",
+      "time": "17:27",
+      "keywords": []
+    },
+    {
+      "title": "美银调查：10年期美债收益率升至5.9%，基金经理才会弃股投债",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivchzu0457649.shtml",
+      "content": "投资者要转为看好美债，收益率还需要进一步上行。 周二，10 年期美债收益率报 5.22%。AI 热潮带动经济高增长，推动实际收益率持续走高。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-13",
+      "time": "17:07",
+      "keywords": []
+    },
+    {
+      "title": "欧洲股市尾盘转跌 科技股受AI交易担忧拖累",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-14/doc-inivchzx7891456.shtml",
+      "content": "欧洲股市周二尾盘回吐涨幅，科技板块因市场再度担忧人工智能交易而下跌。 斯托克欧洲600指数收跌0.1%，盘中一度上涨0.7%。科技股指数下跌1.6%...",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-10-13",
+      "time": "16:51",
+      "keywords": []
+    },
+    {
       "title": "摩根大通、富国银行、花旗财报显示：高利率环境下美国消费者韧性仍存",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcauc8729193.shtml",
@@ -370,92 +468,6 @@
       "period": "noon",
       "date": "2026-10-13",
       "time": "15:27",
-      "keywords": []
-    },
-    {
-      "title": "联邦贸易委员会及多州指控：马丁・什克雷利违反制药行业终身从业禁令",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-inivcatw0509865.shtml",
-      "content": "核心要点 美国联邦贸易委员会（FTC）联合七个州，于周二向联邦法院申请，判定臭名昭著的 “制药哥” 马丁・什克雷利藐视法庭。 联邦贸易委员会与各州指控，什克雷利公然...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "15:13",
-      "keywords": []
-    },
-    {
-      "title": "美银调查：创纪录比例投资者计划低配法国股市",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-inivcatz7957810.shtml",
-      "content": "美国银行调查显示，受法国国内政治与财政压力拖累区域股市，创纪录数量的投资者打算削减法国股票敞口。 这项面向区域基金经理的调查显示...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "14:35",
-      "keywords": []
-    },
-    {
-      "title": "炒股赚钱了！华尔街三大行，集体公布！",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-10-13/doc-inivcatw0485276.shtml",
-      "content": "摩根大通、高盛、花旗集团集体公布业绩。 当地时间10月13日（周二），美股开盘平稳，截至发稿，道琼斯指数跌0.21%，纳斯达克指数涨0.01%，标普500指数跌0.11%。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "14:33",
-      "keywords": []
-    },
-    {
-      "title": "派珀・桑德勒将威富公司评级由中性上调至增持",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-inivawmy0602088.shtml",
-      "content": "周二，投行派珀・桑德勒将威富公司（VFC）的股票评级从中性上调为增持。 派珀・桑德勒秋季青少年调查访问了约 9000 名受访者，调查显示万斯（Vans）跻身男性消费者首选鞋类...",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "14:20",
-      "keywords": []
-    },
-    {
-      "title": "开盘：银行财报陆续出炉，三大股指涨跌不一，存储芯片板块下挫",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-inivawnf8776991.shtml",
-      "content": " 周二，美股三大股指涨跌分化。交易员一方面消化多家大型银行密集发布的财报，另一方面，韩国股市隔夜大幅下挫，给存储芯片概念股带来下行压力。",
-      "priority": "medium",
-      "sectors": [
-        "半导体",
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "13:30",
-      "keywords": []
-    },
-    {
-      "title": "大手笔分红！格林生物董事长提议10派10元，公司上市刚一个多月，专注香料研发",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-10-13/doc-inivawmz7315295.shtml",
-      "content": "每经记者|张益铭每经编辑|黄博文 格林生物（SZ301688，股价38.86元，市值51.81亿元）10月13日盘后公告，公司董事会当日收到董事长陆文聪关于制定2026年三季度及滚存未分配...",
-      "priority": "medium",
-      "sectors": [
-        "医药",
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "13:22",
       "keywords": []
     },
     {
@@ -732,6 +744,245 @@
       ]
     },
     {
+      "title": "办公室被植入“精密录音设备” 沙特籍OpenAI员工被捕",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcpis0503111.shtml",
+      "content": "OpenAI表示，其一处办公室内藏有一个“精密录音设备”，问题已转交FBI。 美国司法部在一份新闻稿中表示，35岁的沙特阿拉伯王国国民阿卜杜勒拉赫曼·阿尔福赞（Abdulrahman...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-10-13",
+      "time": "21:06",
+      "keywords": []
+    },
+    {
+      "title": "原油：期货涨势暂歇 交易员获利了结 中东和俄罗斯供应风险仍存",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcpix8661886.shtml",
+      "content": "原油在三连涨后持稳，交易员在近期涨势后获利了结，而从中东到俄罗斯的能源供应威胁仍挥之不去。 布伦特原油小幅下跌，结算价低于每桶106美元，而WTI则微涨。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-10-13",
+      "time": "20:53",
+      "keywords": []
+    },
+    {
+      "title": "10月14日美股成交额前20：美光跌超3% 市场担忧存储芯片价格上涨周期见顶",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcpit7243024.shtml",
+      "content": "周二美股成交额第1名美光收跌3.62%，成交270.92亿美元。 韩国本土市场上，SK海力士（000660.KS）和三星电子（005930.KS）分别下跌10%、7%...",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-10-13",
+      "time": "20:24",
+      "keywords": []
+    },
+    {
+      "title": "里士满联储行长：采取行动应对持续通胀是合理的",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcpis0450328.shtml",
+      "content": "里士满联储行长汤姆·巴尔金表示，给美国价格带来压力的冲击显然在持续，并且针对这种动态采取行动是恰当的。 “我非常支持我们正在做的事情...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-13",
+      "time": "20:00",
+      "keywords": []
+    },
+    {
+      "title": "Rosenberg：美股越来越像泡沫 多项指标极端程度从业40年来未见",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcpit7213712.shtml",
+      "content": "David Rosenberg表示，美国股市越来越像一个泡沫，估值、杠杆和投资者仓位均处于其从业40年来前所未见的极端水平。 Rosenberg是总部位于多伦多的Rosenberg Research &amp;...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-13",
+      "time": "19:45",
+      "keywords": []
+    },
+    {
+      "title": "摩根大通禁止Muse、Instinct等外部AI代理直接访问账户",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcpix8595987.shtml",
+      "content": " 摩根大通首席执行官杰米·戴蒙周二表示，该行不会允许外部人工智能代理访问客户账户并代表客户操作，理由是在Meta等科技公司发布自主助手之际，这对公司及其客户构成风险。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-10-13",
+      "time": "19:18",
+      "keywords": []
+    },
+    {
+      "title": "戴尔CEO：AI 需要保障措施和控制，政府应发挥作用",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcpiv7863326.shtml",
+      "content": " 戴尔科技首席执行官迈克尔·戴尔表示，随着围绕这项快速发展的技术可能对人类构成威胁的争论持续激烈，人工智能模型“必须有保障措施和控制”。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-10-13",
+      "time": "19:16",
+      "keywords": []
+    },
+    {
+      "title": "伊朗要求英国提供费尔福德事件证据 威胁重新考虑两国关系",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-14/doc-inivchzz8698430.shtml",
+      "content": "伊朗半官方的法尔斯通讯社援引伊朗外交部长助理报道，伊朗威胁称，除非英国尽快提供证据，证明德黑兰与费尔福德皇家空军基地事件有关...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-13",
+      "time": "18:38",
+      "keywords": []
+    },
+    {
+      "title": "英伟达拟在欧洲追加20亿美元投资 黄仁勋呼吁加快AI布局",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-14/doc-inivchzz8689596.shtml",
+      "content": " 英伟达首席执行官黄仁勋周二在巴黎的一场活动上表示，公司计划在未来一周宣布在欧洲投资20亿美元。巴黎是黄仁勋此次欧洲之行的首站，之后还将前往伦敦和柏林。",
+      "priority": "low",
+      "sectors": [
+        "半导体",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-10-13",
+      "time": "18:25",
+      "keywords": []
+    },
+    {
+      "title": "高通：陪审团认定Arm违反许可协议",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-14/doc-inivchzu0511864.shtml",
+      "content": "高通表示，陪审团认定Arm违反了与高通签订的架构许可协议，公司对此感到欣慰。 高通声明称，陪审团认定，Arm未能履行承诺，并蓄意采取行动干扰高通的业务。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-13",
+      "time": "18:20",
+      "keywords": []
+    },
+    {
+      "title": "桥水创始人称美债熊市之路远未到头 部分传统买家需求减弱",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-14/doc-inivchzz8685180.shtml",
+      "content": " 亿万富豪投资者达利欧警告称，针对美国国债的抛售远未结束，在政府和企业发债激增之际，全球一些最大传统买家的需求正在减弱。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-13",
+      "time": "18:18",
+      "keywords": []
+    },
+    {
+      "title": "沙特拦截胡塞武装新一轮导弹袭击 特朗普对该组织发出隐晦威胁",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-14/doc-inivchzv7249796.shtml",
+      "content": "沙特阿拉伯周二拦截了更多也门胡塞武装发射的导弹和无人机，双方之间的战斗几乎没有缓和迹象。 沙特联军发言人周二表示，在利雅得以北处拦截了三架无人机...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-13",
+      "time": "17:34",
+      "keywords": []
+    },
+    {
+      "title": "欧洲债市：德国国债小幅上涨 油价回落提供支撑",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-14/doc-inivchzz8650486.shtml",
+      "content": "欧洲长期国债小幅上涨，受到油价回落支撑。德国国债在5年期国债拍卖需求平淡后收窄涨幅。 德国30年期国债收益率下跌3个基点，报3.81%，而2年期和5年期收益率基本持平...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-13",
+      "time": "17:30",
+      "keywords": []
+    },
+    {
+      "title": "担忧AI泡沫的投资者，应当警惕这一项风险",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivchzz8633239.shtml",
+      "content": "对于担心 AI 泡沫的人士而言，相比高于历史中枢的估值水平，企业大规模建设 AI 基础设施带来的供给风险更值得警惕。 毕竟，如果科技企业拿不到所需硬件设备...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-10-13",
+      "time": "17:05",
+      "keywords": []
+    },
+    {
+      "title": "摩根大通股票回购规模缩水近90% CEO戴蒙称资本有更好去处",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-14/doc-inivchzv7216380.shtml",
+      "content": "摩根大通将股票回购规模削减近90%，首席执行官杰米·戴蒙表示，他认为有其他资本配置方式。 摩根大通周二发布声明称，第三季度仅回购310万股股票...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-10-13",
+      "time": "16:49",
+      "keywords": []
+    },
+    {
+      "title": "美国小企业乐观情绪降至三个月低点 经营预期和扩张意愿走弱",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-14/doc-inivchzz8620614.shtml",
+      "content": " 美国小企业乐观情绪在9月降至三个月低点，因企业对未来经营状况的预期转弱，同时认为当前是扩张好时机的企业比例下降。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-13",
+      "time": "16:48",
+      "keywords": []
+    },
+    {
+      "title": "摩根大通利润不及分析师预期，戴蒙警示经济 “暗流正在发生变化”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-14/doc-inivcatx7339716.shtml",
+      "content": " 摩根大通（JPM）周二公布财报，本季度利润继续实现增长，但华尔街几大核心业务的收入，在二季度亮眼表现之后出现回落。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-13",
+      "time": "16:41",
+      "keywords": []
+    },
+    {
       "title": "伊朗升级对霍尔木兹海峡船只袭击 波斯湾石油出口复苏面临威胁",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-10-14/doc-inivcauc8733626.shtml",
@@ -897,258 +1148,6 @@
       "period": "noon",
       "date": "2026-10-13",
       "time": "15:15",
-      "keywords": []
-    },
-    {
-      "title": "美国二手房销售在房贷利率冲击前小幅上升",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-10-13/doc-inivcatz7974709.shtml",
-      "content": "美国9月二手房销售四个月来首次增长，不过房贷利率飙升和房价高企料将令市场活动在今年余下时间持续低迷。 美国全国房地产经纪人协会（NAR）周二公布的数据显示...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "15:14",
-      "keywords": []
-    },
-    {
-      "title": "贝森特与韩国财长通话 强调美韩关系的重要性",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-10-13/doc-inivcatw0498424.shtml",
-      "content": " 美国财政部在一份声明中表示，财政部长斯科特·贝森特周二与韩国财政部长李炯日通话时，强调了美韩经济和金融关系的重要性。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "14:50",
-      "keywords": []
-    },
-    {
-      "title": "沙特向欧佩克上报上月原油产量大增三分之一 从三十余年低点回升",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-inivcatx7263609.shtml",
-      "content": "沙特向欧佩克报送数据显示，上月原油产量大增三分之一，从三十多年来最低水平反弹。 欧佩克秘书处月度报告显示，利雅方向该组织上报原油日产量增加约200万桶，达到837...",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "14:42",
-      "keywords": []
-    },
-    {
-      "title": "伊朗海军称一艘“违规”油轮在霍尔木兹海峡东部水域起火",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-inivcatx7262846.shtml",
-      "content": " 伊朗IRIB News援引伊朗海军声明报道称，当地时间中午前后，一艘“违规”油轮在试图驶经霍尔木兹海峡东部水域时“受损并起火”。该船此前关闭了追踪系统。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "14:41",
-      "keywords": []
-    },
-    {
-      "title": "“各类新云服务商”厂商Prime Intellect收购初创公司 加速推理业务",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-inivcatw0487274.shtml",
-      "content": "各类新云服务商（neocloud）以及为应用开发者运行开源模型的推理服务商，正在竞争白热化的市场中寻求差异化优势。 例如，这类新云厂商之一Prime Intellect...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "14:38",
-      "keywords": []
-    },
-    {
-      "title": "苹果发布带屏幕的HomeView智能家居中枢",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-inivcatz7953184.shtml",
-      "content": "苹果周二宣布了一款名为 HomeView 的新家居中枢。 苹果表示，这款带 7 英寸屏幕的设备可安装在墙上，也可放在桌上。它面向家庭中的多名用户设计...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "14:28",
-      "keywords": []
-    },
-    {
-      "title": "比尔·盖茨发出警告",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-10-13/doc-inivcatz7961203.shtml",
-      "content": "来源：参考消息 据法新社10月11日报道，微软联合创始人比尔·盖茨11日表示，相比人工智能（AI）可能变得“失控”的风险，他更担心的是借助人工智能发动的网络攻击会大幅增加。...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "14:28",
-      "keywords": []
-    },
-    {
-      "title": "投资者保罗・都铎・琼斯对市场发出悲观警告",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-inivawnc8081308.shtml",
-      "content": "传奇投资人保罗・都铎・琼斯周二在节目《财经早报》的采访中，就市场现状发表了一系列看空言论。 他将当下市场环境类比 21 世纪初互联网泡沫破裂前夕。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "14:24",
-      "keywords": []
-    },
-    {
-      "title": "特朗普计划在佛罗里达、佐治亚、肯塔基州等地举行竞选集会",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-inivawmy0602362.shtml",
-      "content": " 白宫新闻秘书Katie Zacharia表示，总统特朗普计划在佛罗里达州、佐治亚州、肯塔基州、阿拉斯加州、亚利桑那州和蒙大拿州举行竞选集会。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "14:21",
-      "keywords": []
-    },
-    {
-      "title": "美国8月二手房销售环比增长1.5%至399万套 预估为395万套",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-inivawmy0596033.shtml",
-      "content": "美国全国房地产经纪人协会公布的数据显示，9月二手房销售经季节调整折年率为399万套，预估中值为395万套。 50位经济学家的预测区间为385万至401万套；...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "14:14",
-      "keywords": []
-    },
-    {
-      "title": "白宫已要求驻希腊大使金伯利·吉尔福伊尔辞职",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-inivawnf8804409.shtml",
-      "content": "美国白宫新闻秘书凯蒂·扎卡里亚周二在其首次简报会上表示，白宫已要求美国驻希腊大使金伯利·吉尔福伊尔辞职。 扎卡里亚在谈到吉尔福伊尔时说：“她一直是团队的宝贵财富...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "14:13",
-      "keywords": []
-    },
-    {
-      "title": "“79岁老干妈陶华碧用AI一年赚54亿”冲上热搜，营收创新高",
-      "source": "界面",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-13/doc-inivawmy0596551.shtml",
-      "content": "界面新闻记者 | 宋佳楠 10月13日晚间，“79岁老干妈陶华碧用AI一年赚54亿”话题登上微博热搜第二位。部分消费者在社交平台上表示，原本以为在众多网红辣酱轮番冲击之下...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "14:12",
-      "keywords": []
-    },
-    {
-      "title": "地区紧张局势持续 花旗允许沙特员工远程办公",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-inivawnc8067219.shtml",
-      "content": " 随着也门胡塞武装相关对抗持续影响沙特地区，花旗集团允许沙特员工居家办公。再过几周，该行首席执行官按计划将在利雅得举行的一场重要会议上发表讲话。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "14:05",
-      "keywords": []
-    },
-    {
-      "title": "花旗固收交易业务创至少十年来最佳同期表现 同行承压之际逆势走强",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-inivawnc8053004.shtml",
-      "content": " 花旗集团固定收益交易业务实现了至少十年来最佳的三季度表现，超过分析师预期，并推动该行当季营收表现在历史上位居前列。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "13:45",
-      "keywords": []
-    },
-    {
-      "title": "Applied Intuition获得投资邀约 估值达300亿美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-inivawmz7335464.shtml",
-      "content": "过去三年，OpenAI、Anthropic、xAI等AI实验室吸引了投资者的大量目光，同时斩获高得惊人的估值。如今，越来越多开发AI应用、智能代理以及其他AI驱动软件的初创企业...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "13:41",
-      "keywords": []
-    },
-    {
-      "title": "长鑫科技，登顶韩国投资者A股“扫货榜”",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-10-13/doc-inivawnc8046195.shtml",
-      "content": "近段时间，尽管市场持续震荡，韩国投资者仍通过A股和港股市场加速“扫货”中国科技资产。 韩国证券存托结算院信息门户（SEIBro）最新数据显示，近一个月，A股市场的奥士康...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "13:28",
-      "keywords": []
-    },
-    {
-      "title": "香港证监会：冻结两集团逾46亿资产，涉3家IPO造假",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-13/doc-inivawmz7360267.shtml",
-      "content": "来源：瑞恩资本RyanbenCapital 香港证监会于周二（10月13日）发布，香港证监会已对两个集团采取行动，因它们涉嫌参与欺诈计划，意图就IPO（首次公开招股）的股份需求营造虚...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "13:26",
-      "keywords": []
-    },
-    {
-      "title": "海湾地区供应风险加剧，欧佩克再度下调石油需求增长预期",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-13/doc-inivawmz7314771.shtml",
-      "content": "这个产油国集团目前预计全球石油日需求增量为 18 万桶，此前预期为 38 万桶在连续三个交易日上涨后，周二油价出现回落，这份备受关注的月度报告于此时发布。",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-10-13",
-      "time": "13:22",
       "keywords": []
     },
     {
