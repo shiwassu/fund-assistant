@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-18T00:18:12.661094",
+  "updated": "2026-10-18T05:04:34.997246",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,53 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 16,
-    "medium": 20,
-    "low": 114
+    "high": 17,
+    "medium": 26,
+    "low": 107
   },
   "items": [
+    {
+      "title": "退市风险压顶！*ST动力，又收罚单！",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/roll/2026-10-18/doc-inivrert7902219.shtml",
+      "content": "来源：e公司 退市风险压顶！300152，又收罚单！ 因在对外投资公告及多份定期报告中隐瞒与关联方的关系，*ST动力（300152）及其相关责任人近日领到河北证监局罚单。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-18",
+      "time": "03:09",
+      "keywords": []
+    },
+    {
+      "title": "下周外盘看点丨欧美PMI或搅动加息格局，Meta特斯拉最新财报亮相",
+      "source": "一财网",
+      "url": "https://finance.sina.com.cn/roll/2026-10-18/doc-inivrerm6737825.shtml",
+      "content": "中东局势走向如何。 本周国际市场风云变幻，美国9月消费者价格指数（CPI）预期引发加息担忧。 市场方面，美股全线下挫，道指周跌0.67%，纳指周跌4.48%，标普500指数周跌1...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-18",
+      "time": "01:26",
+      "keywords": []
+    },
+    {
+      "title": "*ST四通，翻倍牛股“摘星摘帽”，明天停牌！",
+      "source": "证券时报",
+      "url": "https://finance.sina.com.cn/wm/2026-10-18/doc-inivqyim6107251.shtml",
+      "content": "*ST四通（603838）近日披露，上交所已同意公司撤销退市风险警示。公司股票将于10月19日停牌一天，10月20日起复牌，证券简称由“*ST四通”变更为“四通股份”...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-18",
+      "time": "00:32",
+      "keywords": []
+    },
     {
       "title": "国信证券：科技筹码出清，走到哪一步了？",
       "source": "市场资讯",
@@ -80,34 +122,6 @@
       "period": "morning",
       "date": "2026-10-17",
       "time": "10:57",
-      "keywords": []
-    },
-    {
-      "title": "下周2只新股开启申购！超千亿解禁潮将至，6股解禁比例均超50%（附股）",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-10-17/doc-inivpspz6395396.shtml",
-      "content": "下周A股解禁总市值达1004.25亿元。 2只新股下周即将申购 据证券时报·数据宝统计，根据发行安排，下周暂有2只新股申购。 下周一（10月19日）可申购皇冠新材...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-17",
-      "time": "10:18",
-      "keywords": []
-    },
-    {
-      "title": "9月母猪存栏下降1.13%，产能结构性去化，10月行情低迷继续减产",
-      "source": "",
-      "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-17/doc-inivpnhf7221000.shtml",
-      "content": "（来源：猪好多网） 政策调控与行业亏损共同推动产能调整，9月样本养殖企业能繁母猪、生猪存栏双双下行。母猪存栏回落以种群优化为主...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-17",
-      "time": "09:20",
       "keywords": []
     },
     {
@@ -255,6 +269,160 @@
       ]
     },
     {
+      "title": "建信理财董事长齐建功：理财行业探索“多资产、多收益”方向，“固收+”产品快速扩容",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/bank/2026-10-18/doc-inivrkxr7841021.shtml",
+      "content": "10月17日，建信理财董事长齐建功在全球财富管理论坛·2026上海苏河湾大会上表示，当前理财行业正在朝着“多资产、多收益”方向探索，打造以绝对收益为导向的“固收+”产品体系。...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-18",
+      "time": "04:19",
+      "keywords": []
+    },
+    {
+      "title": "Anthropic聘请法律人士，助力AI智能体完成交易谈判",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-18/doc-inivrkxi6702654.shtml",
+      "content": "Anthropic正与法律机构磋商，以解决一个全新难题：AI智能体应当如何谈判，为人类使用者争取最优交易结果。 这家总部位于旧金山的企业...",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-10-18",
+      "time": "04:07",
+      "keywords": []
+    },
+    {
+      "title": "信银理财总裁贺晋：理财底层资产正向高等级信用债为底、权益与REITs增弹性、多元策略控波动的新结构演进",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/bank/2026-10-18/doc-inivrers1119874.shtml",
+      "content": " 10月18日金融一线消息，全球财富管理论坛·2026上海苏河湾大会于2026年10月16日至17日在上海市举办。信银理财总裁贺晋出席大会并发言。",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-10-18",
+      "time": "02:59",
+      "keywords": []
+    },
+    {
+      "title": "生益科技，预计净利翻倍！A股龙头公司，业绩利好",
+      "source": "证券时报网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-18/doc-inivrers1097581.shtml",
+      "content": "多家A股龙头公司，业绩预告密集报喜。 10月16日晚间，多家上市公司披露2026年前三季度业绩预告。其中，包括长鑫科技（688825）在内，多家存储上市公司普遍大幅预喜。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-18",
+      "time": "02:03",
+      "keywords": []
+    },
+    {
+      "title": "284家机构，“盯上”1家公司",
+      "source": "中国证券报-中证网",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-18/doc-inivrers1079102.shtml",
+      "content": " 本周（10月12日—10月16日），232家上市公司披露机构投资者调研记录。其中，源杰科技获284家机构调研，接受机构调研家数最多。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-18",
+      "time": "02:01",
+      "keywords": []
+    },
+    {
+      "title": "韩国财长：半导体市场景气至少维持至明年",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-18/doc-inivrert7843032.shtml",
+      "content": "韩国财政部长李炯日周六表示，半导体行业繁荣将至少延续至 2027 年。 李炯日在曼谷出席国际货币基金组织与世界银行年会间隙接受采访时称：“目前...",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-10-18",
+      "time": "01:55",
+      "keywords": []
+    },
+    {
+      "title": "利好！2700亿巨头净利预增超160%！多家A股龙头公司业绩预告报喜",
+      "source": "证券时报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-18/doc-inivrerm6752666.shtml",
+      "content": "多家A股龙头公司，业绩预告报喜。 10月16日晚间，多家上市公司披露2026年前三季度业绩预告。其中，包括长鑫科技（688825）在内，多家存储上市公司普遍大幅预喜。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-18",
+      "time": "01:43",
+      "keywords": []
+    },
+    {
+      "title": "AI债务恐慌叠加油价双击！科技股动荡何时结束",
+      "source": "一财网",
+      "url": "https://finance.sina.com.cn/roll/2026-10-18/doc-inivreri6006396.shtml",
+      "content": "恐慌指数VIX周五暴涨超20%。 本周CoreWeave引发人工智能相关的担忧让科技股持续承压，市场担心负债累累的人工智能基础设施公司可能无法及时盈利来偿还债务...",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-10-18",
+      "time": "01:27",
+      "keywords": []
+    },
+    {
+      "title": "2029年将现内存“红海”？韩财长发声：半导体繁荣至少持续至明年",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-18/doc-inivqyiu1158593.shtml",
+      "content": "来源：财联社财联社10月18日讯（编辑 卞纯）韩国财政部长李炯日（Lee Hyoung-Il）周六表示，半导体行业的繁荣势头至少将持续到2027年。",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-10-18",
+      "time": "00:57",
+      "keywords": []
+    },
+    {
+      "title": "委内瑞拉预计未来五年石油领域将获得近760亿美元投资",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-18/doc-inivqyip6845183.shtml",
+      "content": " 委内瑞拉代总统德尔西・罗德里格斯周六表示，该国预计未来五年油气行业将吸引近760亿美元投资，委内瑞拉正积极引入私人资本，推动能源增产。",
+      "priority": "medium",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-10-18",
+      "time": "00:50",
+      "keywords": []
+    },
+    {
+      "title": "节后首批百家机构调研股曝光（附名单）",
+      "source": "证券时报",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-10-18/doc-inivqyip6823536.shtml",
+      "content": "节后机构调研个股有100多只，源杰科技调研机构数最多。 据证券时报·数据宝统计，源杰科技有284家机构调研，其中包括37家证券公司、77家基金公司、114家私募等。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-18",
+      "time": "00:12",
+      "keywords": []
+    },
+    {
       "title": "浮亏56%，江波龙定增套住多少机构？",
       "source": "市场资讯",
       "url": "https://finance.sina.com.cn/roll/2026-10-17/doc-inivpsqc7174893.shtml",
@@ -266,76 +434,6 @@
       "period": "morning",
       "date": "2026-10-17",
       "time": "11:09",
-      "keywords": []
-    },
-    {
-      "title": "下周46股面临解禁 多只解禁股获机构调研",
-      "source": "证券时报网",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-17/doc-inivpsqm8151989.shtml",
-      "content": "转自：证券时报 人民财讯10月17日电，据数据宝统计，下周A股将有46股解禁，按照最新收盘价计算，合计解禁市值1004.25亿元。 中船特气下周将有3.84亿股上市流通...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-17",
-      "time": "10:36",
-      "keywords": []
-    },
-    {
-      "title": "“超级牛散”章建平最新调仓，退出PCB大牛股前十大股东，套现至少1.7亿元",
-      "source": "红星资本局",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-17/doc-inivpsqm8141935.shtml",
-      "content": " 10月16日晚，科翔股份（300903.SZ）披露2026年三季报。截至9月30日，被称为“超级牛散”的章建平已不在公司前十大股东名单中。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-17",
-      "time": "10:22",
-      "keywords": []
-    },
-    {
-      "title": "美国大型银行股创下2008年以来最长周度连跌",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-17/doc-inivpsqc7127448.shtml",
-      "content": "美国大型银行股录得2008年全球金融危机以来最长周度连跌，最新季度财报不足以提振投资者对这一低迷板块的信心。 包含24只成分股的KBW银行指数本周下跌近1%...",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-10-17",
-      "time": "10:22",
-      "keywords": []
-    },
-    {
-      "title": "上海信托总经理陈兵：信托行业急需和AI双向赋能以应对双重变革",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-10-17/doc-inivpsqm8110280.shtml",
-      "content": " 10月17日金融一线消息，全球财富管理论坛·2026上海苏河湾大会于2026年10月16日至17日在上海市举办。上海信托总经理陈兵出席大会并发言。",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-10-17",
-      "time": "09:51",
-      "keywords": []
-    },
-    {
-      "title": "“易中天”本周净流出逾百亿元，资金加仓这些方向",
-      "source": "中国证券报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-17/doc-inivpnhf7205950.shtml",
-      "content": " 本周（10月12日至16日），科技股资金流向明显分化。光通信龙头主力资金净流出较多，半导体设备、PCB等方向的部分个股则获得资金加仓。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-17",
-      "time": "08:49",
       "keywords": []
     },
     {
@@ -563,6 +661,91 @@
       ]
     },
     {
+      "title": "周末打虎！黄日波被查",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/wm/2026-10-18/doc-inivrkxi6701292.shtml",
+      "content": "来源：华夏时报 中央纪委国家监委网站10月18日消息，广西壮族自治区政协原副主席黄日波涉嫌严重职务违法，目前正接受国家监委监察调查。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-18",
+      "time": "03:52",
+      "keywords": []
+    },
+    {
+      "title": "Anthropic联合创始人克拉克：AI能力快速进步，或大幅提振美国GDP",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-18/doc-inivrers1134467.shtml",
+      "content": "Anthropic联合创始人杰克・克拉克周六称，人工智能能力飞速进步，将在所有领域带来更快速的变革。该公司内部模型预测，在特定条件下...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-10-18",
+      "time": "03:19",
+      "keywords": []
+    },
+    {
+      "title": "国民养老保险总经理黄涛：保险资金以往重点配置的非标资产正发生较大变化",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/insurance/2026-10-18/doc-inivrert7891237.shtml",
+      "content": " 10月18日金融一线消息，全球财富管理论坛·2026上海苏河湾大会于2026年10月16日至17日在上海市举办，国民养老保险总经理黄涛出席并参加会议。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-10-18",
+      "time": "02:51",
+      "keywords": []
+    },
+    {
+      "title": "今年前三季度全国铁路发送旅客37.1亿人次 创历史同期新高",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-18/doc-inivrerv6709121.shtml",
+      "content": "记者今天从国铁集团获悉，今年前三季度，全国铁路累计发送旅客37.1亿人次，同比增长4.8%，创历史同期新高。 前三季度，京港高铁雄安至商丘段、西渝高铁西安至安康段...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-18",
+      "time": "02:31",
+      "keywords": []
+    },
+    {
+      "title": "“白宫无人下令”，鲁比奥最新发声！泽连斯基此前称已掌握证据：仅针对乌克兰",
+      "source": "每日经济新闻",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-18/doc-inivqyip6858019.shtml",
+      "content": "当地时间10月17日，美国国务卿鲁比奥谈到乌克兰接入“星链”时表示，白宫无人下令降低速度。 乌克兰总统顾问别斯克列斯特诺夫10月14日在社交媒体发布消息说，过去一晚...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-18",
+      "time": "01:04",
+      "keywords": []
+    },
+    {
+      "title": "马斯克：美债问题只能靠AI和机器人解决",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/wm/2026-10-18/doc-inivqyiv7917652.shtml",
+      "content": "来源：财联社 最新报道显示，世界首富埃隆·马斯克在做客传记作家沃尔特·艾萨克森（《马斯克传》作者）新播客节目时，罕见地细致反思了自己进入特朗普政府...",
+      "priority": "low",
+      "sectors": [
+        "机器人",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-10-18",
+      "time": "00:28",
+      "keywords": []
+    },
+    {
       "title": "AI融资风暴来袭，亚洲AI明星企业风险凸显",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-18/doc-inivqyip6816868.shtml",
@@ -574,6 +757,20 @@
       "period": "night",
       "date": "2026-10-18",
       "time": "00:09",
+      "keywords": []
+    },
+    {
+      "title": "内蒙古一地首次成功试养澳洲淡水龙虾！网友：在哪儿能买到？",
+      "source": "",
+      "url": "https://finance.sina.com.cn/wm/2026-10-18/doc-inivqyim6086156.shtml",
+      "content": "（来源：呼伦贝尔市海拉尔区人民政府） 为丰富本地水产养殖品类 破解传统养殖效益偏低难题 今年 呼和浩特首次在土默特左旗 引进澳洲淡水龙虾 开展本土化试验养殖 经过数月...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-18",
+      "time": "00:00",
       "keywords": []
     },
     {
@@ -883,202 +1080,6 @@
       "period": "noon",
       "date": "2026-10-17",
       "time": "12:44",
-      "keywords": []
-    },
-    {
-      "title": "2-甲基丁醇商品报价动态（2026-10-17）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-17/doc-inivpsqc7124392.shtml",
-      "content": "生意社10月17日讯交易商品牌/产地交货地最新报价2-甲基丁醇 纯度99%以上山东艾特化工有限公司国产山东省12000元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-17",
-      "time": "10:12",
-      "keywords": []
-    },
-    {
-      "title": "2,6-二异丙基苯胺(DIPA)商品报价动态（2026-10-17）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-17/doc-inivpsqk1361813.shtml",
-      "content": "生意社10月17日讯交易商品牌/产地交货地最新报价2，6-二异丙基苯胺（DIPA） 纯度99%以上山东艾特化工有限公司国产山东省24000元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-17",
-      "time": "10:12",
-      "keywords": []
-    },
-    {
-      "title": "乙酸异戊酯商品报价动态（2026-10-17）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-17/doc-inivpsqc7124413.shtml",
-      "content": "生意社10月17日讯交易商品牌/产地交货地最新报价乙酸异戊酯 纯度99%以上山东艾特化工有限公司国产山东省12000元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-17",
-      "time": "10:12",
-      "keywords": []
-    },
-    {
-      "title": "2-氟苯胺商品报价动态（2026-10-17）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-17/doc-inivpsqc7124460.shtml",
-      "content": "生意社10月17日讯交易商品牌/产地交货地最新报价2-氟苯胺 纯度99%以上山东艾特化工有限公司国产山东省12000元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-17",
-      "time": "10:12",
-      "keywords": []
-    },
-    {
-      "title": "对氯苯甲腈商品报价动态（2026-10-17）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-17/doc-inivpsqc7124495.shtml",
-      "content": "生意社10月17日讯交易商品牌/产地交货地最新报价对氯苯甲腈 纯度99%以上山东艾特化工有限公司国产山东省22000元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-17",
-      "time": "10:12",
-      "keywords": []
-    },
-    {
-      "title": "氯化氢异丁醇商品报价动态（2026-10-17）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-17/doc-inivpsqm8134476.shtml",
-      "content": "生意社10月17日讯交易商品牌/产地交货地最新报价氯化氢异丁醇 98%山东艾特化工有限公司国产山东省12000元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-17",
-      "time": "10:12",
-      "keywords": []
-    },
-    {
-      "title": "氯化氢异丙醇商品报价动态（2026-10-17）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-17/doc-inivpsqc7124507.shtml",
-      "content": "生意社10月17日讯交易商品牌/产地交货地最新报价氯化氢异丙醇 20%山东艾特化工有限公司国产山东省9500元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-17",
-      "time": "10:12",
-      "keywords": []
-    },
-    {
-      "title": "甲基丙烯酸丁酯商品报价动态（2026-10-17）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-17/doc-inivpsqk1361899.shtml",
-      "content": "生意社10月17日讯交易商品牌/产地交货地最新报价甲基丙烯酸丁酯 纯度99.5%以上山东艾特化工有限公司国产山东省10800元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-17",
-      "time": "10:12",
-      "keywords": []
-    },
-    {
-      "title": "对硝基苯乙酸商品报价动态（2026-10-17）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-17/doc-inivpspz6392671.shtml",
-      "content": "生意社10月17日讯交易商品牌/产地交货地最新报价对硝基苯乙酸 ≥99.0%山东艾特化工有限公司国产山东省180000元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-17",
-      "time": "10:12",
-      "keywords": []
-    },
-    {
-      "title": "4-氟苯胺商品报价动态（2026-10-17）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-10-17/doc-inivpspz6393019.shtml",
-      "content": "生意社10月17日讯交易商品牌/产地交货地最新报价4-氟苯胺 纯度99%以上山东艾特化工有限公司国产山东省20000元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-17",
-      "time": "10:12",
-      "keywords": []
-    },
-    {
-      "title": "【SMECHINA周价格】现货价格周统计（10月12日-10月16日）",
-      "source": "",
-      "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-17/doc-inivpsqk1345172.shtml",
-      "content": "（来源：上海有色金属交易中心） 10月12日-10月16日当周 上海有色金属交易中心现货价格 数据来源：上海有色金属交易中心（SMECHINA）| 价格单位：元/吨 1#电解铜 现货价格...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-17",
-      "time": "09:40",
-      "keywords": []
-    },
-    {
-      "title": "【硅铁】期货滑、现货松，成本挺、钢招等——下周硅铁行情能否破“局”再冲？？",
-      "source": "",
-      "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-17/doc-inivpspz6360080.shtml",
-      "content": "（来源：合金现货网） 铁合金现货网“北货南运”合金拼船业务已经全面上线 欢迎各位评论区留言了解详情吧  【导读】节后需求成色不足、期货盘面震荡下行...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-17",
-      "time": "09:23",
-      "keywords": []
-    },
-    {
-      "title": "霍尔木兹：超级油轮触雷爆炸，化肥零过峡第75天",
-      "source": "",
-      "url": "https://finance.sina.com.cn/money/future/wemedia/2026-10-17/doc-inivpnhn1437643.shtml",
-      "content": "（来源：尿素达人） 来源：尿素达人 超级油轮载200万桶原油触雷爆炸起火；过峡艘次较战前低70%。美方15点清单遭伊朗拒绝。联合国化肥走廊5艘每日已就绪缺协议。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-17",
-      "time": "09:00",
-      "keywords": []
-    },
-    {
-      "title": "刷屏！知名港星投资巨亏！总想一夜暴富，不敢告诉家人亏损金额",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-10-17/doc-inivpnhp8191224.shtml",
-      "content": "明星投资亏损越来越常见。 近日，中国香港明星方力申投资巨亏的消息刷屏。他自曝因买入NFT亏去大量资金，“亏得比我之前炒股还多，亏损金额至今不敢告诉家人。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-10-17",
-      "time": "08:44",
       "keywords": []
     },
     {
