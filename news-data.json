@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-20T17:29:18.247419",
+  "updated": "2026-10-20T21:49:59.988875",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -8,10 +8,38 @@
   ],
   "priority_dist": {
     "high": 12,
-    "medium": 21,
-    "low": 117
+    "medium": 23,
+    "low": 115
   },
   "items": [
+    {
+      "title": "10月21日收盘：纳指微跌 道指大涨500点 财报乐观情绪稳定市场",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivxmeu0850104.shtml",
+      "content": "道琼斯工业平均指数周二上涨，因多份乐观的财报和油价下跌盖过了近期人工智能相关股票所承受的压力。 蓝筹股指数上涨529.85点，涨幅1.02%，收于52495...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-20",
+      "time": "20:14",
+      "keywords": []
+    },
+    {
+      "title": "城堡证券考虑扩大固定收益业务版图 称目前存在一些空白",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-21/doc-inivxewz5603263.shtml",
+      "content": "城堡证券考虑扩大固定收益业务，以填补总裁Jim Esposito认为公司目前存在的一些业务空白。 Esposito周二接受采访时表示：“我们在固定收益领域其实才刚刚起步...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-20",
+      "time": "17:37",
+      "keywords": []
+    },
     {
       "title": "法国国债风险指标徘徊高位 相对德债收益率溢价一度突破150基点",
       "source": "环球市场播报",
@@ -52,34 +80,6 @@
       "period": "noon",
       "date": "2026-10-20",
       "time": "14:39",
-      "keywords": []
-    },
-    {
-      "title": "002242，疯狂爆拉8个涨停，股民人均爆赚22万元",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-20/doc-inivwuia0962489.shtml",
-      "content": "九阳股份(002242.SZ)的老股民集体沸腾了，今日公司股票再度涨停，这是9月以来其斩获的第8个涨停。凭此，公司股价来到20.56元/股，相较6月29日7.68元/股的低点...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-20",
-      "time": "13:25",
-      "keywords": []
-    },
-    {
-      "title": "二连板涨停后，603626宣布：暂缓重要收购！",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/s/2026-10-20/doc-inivwuif5705636.shtml",
-      "content": "上交所曾向公司发出问询函，要求公司说明此次交易的必要性。 股价连续2个交易日涨停后，科森科技（603626）一纸公告，宣布暂缓购买液冷相关资产。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-20",
-      "time": "13:21",
       "keywords": []
     },
     {
@@ -195,6 +195,62 @@
       ]
     },
     {
+      "title": "美国股市：标普500指数ETF盘后上涨 SpaceX盈利超预期",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivxmez6347374.shtml",
+      "content": "美股盘后上涨，因SpaceX财报表现良好，人工智能（AI）业务大幅增长成为主要推动力。 一只规模约8200亿美元的标普500指数ETF在常规交易收盘后上涨。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-20",
+      "time": "21:14",
+      "keywords": []
+    },
+    {
+      "title": "10月21日热门中概股多数上涨 理想涨超5% 小鹏涨超7%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivxmeu0878430.shtml",
+      "content": "10月21日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收涨0.68%。 上涨个股（按市值从高到低）：台积电涨1.16%，阿里巴巴涨0.04%，拼多多涨0.29%，百度涨0.90%...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-20",
+      "time": "20:51",
+      "keywords": []
+    },
+    {
+      "title": "对冲基金融资触及上限 巴克莱内部腾挪资本支持客户押注",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-21/doc-inivxeww0932767.shtml",
+      "content": " 今年早些时候亚洲人工智能（AI）股票飙升之际，巴克莱高管希望获得更多资本空间，以便更积极地为对冲基金客户的押注提供融资。",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-10-20",
+      "time": "18:56",
+      "keywords": []
+    },
+    {
+      "title": "欧洲股市持稳 医疗保健和旅游休闲股表现较好",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-21/doc-inivxewx7701648.shtml",
+      "content": "欧洲股市企稳，基本收复早些时候的失地，因一则未经证实的报道称卡塔尔和巴基斯坦提出有关重启美伊谈判的新方案。 欧洲斯托克600指数收盘下跌0.1%，盘中一度下挫0.8%。",
+      "priority": "medium",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-10-20",
+      "time": "18:51",
+      "keywords": []
+    },
+    {
       "title": "彭博美元指数跌至近三周低点 布伦特原油走低",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwyqz7672539.shtml",
@@ -276,34 +332,6 @@
       "period": "noon",
       "date": "2026-10-20",
       "time": "13:58",
-      "keywords": []
-    },
-    {
-      "title": "今夜！一个大国，股债双杀",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-20/doc-inivwuii6467340.shtml",
-      "content": "来源：中国基金报 【导读】法国危机 中国基金报记者 泰勒 大家好啊，简单先关注一下今晚欧美股市的盘面。 10月20日晚间，欧洲股市集体跳水...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-20",
-      "time": "13:56",
-      "keywords": []
-    },
-    {
-      "title": "开盘：纳指下跌 美光科技、闪迪均跌约3%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwuii6442597.shtml",
-      "content": "纳斯达克综合指数周二开票下跌。美股前一交易日整体走高，但AI相关个股再度遭遇抛售。 这个科技权重集中的指数下跌0.4%，标普500指数下跌0.2%...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-20",
-      "time": "13:32",
       "keywords": []
     },
     {
@@ -513,6 +541,202 @@
       "keywords": [
         "量化观察"
       ]
+    },
+    {
+      "title": "10月21日外盘头条：波音737Max10获批 马斯克称SpaceX与特斯拉商讨合并 特朗普因对加拿大征收关税被起诉",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivxrny7903405.shtml",
+      "content": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、特朗普因对加拿大征收50%关税被起诉 2、马斯克：SpaceX与特斯拉已各自成立特别委员会，商讨合并事宜 3...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-20",
+      "time": "21:44",
+      "keywords": []
+    },
+    {
+      "title": "马斯克：SpaceX与特斯拉已各自成立特别委员会，商讨合并事宜",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivxrny7902002.shtml",
+      "content": "10月20日至21日，埃隆·马斯克首次在公开场合正面回应了沸沸扬扬的“特斯拉合并 SpaceX”传闻：他表示，SpaceX 与特斯拉已经分别成立特别委员会...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-20",
+      "time": "21:43",
+      "keywords": []
+    },
+    {
+      "title": "奈飞预计营收增速连续第四个季度放缓 股价盘后重挫7%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivxmfa8028436.shtml",
+      "content": "相关阅读：SpaceX营收跃升161%，受Starlink和AI驱动 奈飞预计营收增速将连续第四个季度放缓，可能进一步加剧投资者对这家全球最大流媒体平台增长前景的担忧。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-20",
+      "time": "21:37",
+      "keywords": []
+    },
+    {
+      "title": "原油：布伦特走势震荡 交易员研判美伊谈判进展相关报道",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivxmfa8027183.shtml",
+      "content": "布伦特原油小幅下跌，日内走势震荡，在中东局势持续动荡的背景下，交易员研判有关美国与伊朗谈判最新进展的消息。 这一全球基准原油结算价接近每桶109美元...",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-10-20",
+      "time": "21:36",
+      "keywords": []
+    },
+    {
+      "title": "特朗普因对加拿大征收50%关税被起诉",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivxmex5620874.shtml",
+      "content": "周二提起的一项新诉讼挑战特朗普援引大萧条时期法律对一系列加拿大商品征收50%关税的做法。 特朗普在7月利用1930年《关税法》第338条，对加拿大冰球杆、葡萄酒、蜂蜜...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-20",
+      "time": "21:22",
+      "keywords": []
+    },
+    {
+      "title": "奈飞第三季度财报超预期，但广告和营收指引导致股价下跌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivxmfa8012144.shtml",
+      "content": "奈飞周二公布的第三季度收益超过分析师预期，营收符合预期，华尔街正关注该公司的互动和广告指标。 以下是奈飞截至9月30日当期的表现...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-20",
+      "time": "21:18",
+      "keywords": []
+    },
+    {
+      "title": "法国2027年总统大选玛丽娜·勒庞胜选概率上升",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivxmfe4784617.shtml",
+      "content": "随着法国抗议活动加剧，Kalshi交易员认为极右翼候选人玛丽娜·勒庞赢得该国2027年总统选举的可能性正在上升。 学生主导的抗议最初于9月在巴黎爆发...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-20",
+      "time": "21:18",
+      "keywords": []
+    },
+    {
+      "title": "波音737 Max 10在多年延误后获FAA批准，达菲称认证流程应更快",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivxmex5615518.shtml",
+      "content": " 美国联邦航空管理局周二批准了波音737 Max 10，此前该机型已延误多年。这对这家制造商而言是一次重大胜利，也是波音最畅销飞机系列中最后一个获得政府批准的机型。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-20",
+      "time": "21:13",
+      "keywords": []
+    },
+    {
+      "title": "美国债市：国债涨跌不一 长端表现出色推动曲线趋平",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivxmex5599217.shtml",
+      "content": "美国国债收益率曲线周二趋平，涨跌不一，短端收益率日内上涨逾1个基点，而长端品种上涨、收益率下降，尾盘2s10s和5s30s利差均处于日内低点。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-20",
+      "time": "20:52",
+      "keywords": []
+    },
+    {
+      "title": "10月21日美股成交额前20：苹果跌1% 宣布扩大新产品零部件在美国的生产",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivxmex5591378.shtml",
+      "content": "周二美股成交额第3名美光收跌0.98%，成交173.28亿美元。美光科技10月20日宣布将投资关键矿物加工及高纯度材料制造领域，支持铟泰公司扩大在美国纽约州中部的精炼与制造业务...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-20",
+      "time": "20:42",
+      "keywords": []
+    },
+    {
+      "title": "SpaceX营收跃升161%，受Starlink和AI驱动",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivxmex5577849.shtml",
+      "content": "SpaceX公布第三季度营收增长161%，受公司人工智能业务和Starlink用户增长驱动。该股周二盘后小幅上涨。 以下是公司表现与LSEG共识预期的对比： 营收：145.8亿美元...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-10-20",
+      "time": "20:22",
+      "keywords": []
+    },
+    {
+      "title": "富兰克林邓普顿：法国债市动荡恐演变为欧债危机2.0版 且情况更严重",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivxmev7624919.shtml",
+      "content": " 富兰克林邓普顿固定收益投资主管警告，法国债券如果持续遭抛售，可能升级为欧元区债务危机，一旦这种情况发生，严重程度可能超过近十几年前发生的欧债危机。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-20",
+      "time": "20:17",
+      "keywords": []
+    },
+    {
+      "title": "美国特使威特科夫访问圣彼得堡期间将与普京会面",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-21/doc-inivxmev7602799.shtml",
+      "content": "一位知情人士称，美国特使威特科夫周三前往圣彼得堡期间将与俄罗斯总统普京会面。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-20",
+      "time": "19:41",
+      "keywords": []
+    },
+    {
+      "title": "伊朗高官：美国须采取建立信任的措施 否则德黑兰不会与华府谈判",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-21/doc-inivxewx7655321.shtml",
+      "content": " 据伊朗伊斯兰共和国通讯社（IRNA）报道，伊朗最高国家安全委员会秘书Mohsen Rezaee表示，“除非美国采取建立信任的措施”，否则德黑兰与华盛顿之间不会举行谈判。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-20",
+      "time": "17:35",
+      "keywords": []
     },
     {
       "title": "CFA三级考试通过率降至47% 低于历史平均水平",
@@ -810,232 +1034,6 @@
       "period": "noon",
       "date": "2026-10-20",
       "time": "13:58",
-      "keywords": []
-    },
-    {
-      "title": "陈靖出席2026可持续全球领导者大会并致辞",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-10-20/doc-inivwuii6458787.shtml",
-      "content": "“2026可持续全球领导者大会”于10月20日-22日在上海召开。上海市人民对外友好协会会长陈靖在开幕式致辞时指出，上海始终把绿色低碳可持续发展作为城市发展的重点...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-20",
-      "time": "13:53",
-      "keywords": []
-    },
-    {
-      "title": "尚太科技：关于变更注册资本同时修订《公司章程》并办理工商登记的公告",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-20/doc-inivwuii6468573.shtml",
-      "content": "    证券日报网讯 10月20日，尚太科技发布公告称，公司于2026年10月20日召开第三届董事会第四次会议，审议通过变更注册资本、修订《公司章程》并办理工商登记的议案...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-20",
-      "time": "13:52",
-      "keywords": []
-    },
-    {
-      "title": "北化股份：关于召开2026年第一次临时股东会的通知",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-20/doc-inivwuif5744817.shtml",
-      "content": "    证券日报网讯 10月20日，北化股份发布公告称，公司将于2026年11月6日召开2026年第一次临时股东会。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-20",
-      "time": "13:52",
-      "keywords": []
-    },
-    {
-      "title": "2026可持续全球领导者大会开幕：诺奖、图灵奖得主齐现身，集结全球300余位顶尖嘉宾共议绿色发展",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-10-20/doc-inivwuic7746703.shtml",
-      "content": "《2026可持续全球领导者大会开幕：诺奖、图灵奖得主齐现身，集结全球300余位顶尖嘉宾共议绿色发展》 当极端天气不断叩响人类生存边界，当全球资本格局面对深刻重塑...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-20",
-      "time": "13:42",
-      "keywords": []
-    },
-    {
-      "title": "LG电子CEO：冷却技术为AI数据中心竞争力核心",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwuif5717749.shtml",
-      "content": " LG电子CEO柳在哲在哲将冷却技术列为AI数据中心竞争力的核心。其逻辑是：减少用于冷却的电力，就能把相应更多的电力投入AI运算。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-10-20",
-      "time": "13:42",
-      "keywords": []
-    },
-    {
-      "title": "贝森特：由于其他地区的问题 看到资金流入美国债券",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwuia0956410.shtml",
-      "content": " 美国财政部长斯科特·贝森特在2Way上表示：“这并不是我们预先计划的，但我们确实看到，资金正在从一些更令人担忧的国家流向美国国债这一优质资产。”",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-20",
-      "time": "13:35",
-      "keywords": []
-    },
-    {
-      "title": "2800亿元！A股回购增持持续加码",
-      "source": "",
-      "url": "https://finance.sina.com.cn/wm/2026-10-20/doc-inivwuif5714765.shtml",
-      "content": "近日，长鑫科技、新易盛等沪深上市公司接连披露股份回购提议，重要股东增持同步跟进。与此同时，宁德时代、美的集团等公司此前推出的大额回购持续实施...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-10-20",
-      "time": "13:34",
-      "keywords": []
-    },
-    {
-      "title": "北化股份：第六届董事会第八次会议决议公告",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-20/doc-inivwuii6476265.shtml",
-      "content": "    证券日报网讯 10月20日，北化股份发布公告称，公司于2026年10月19日召开第六届董事会第八次会议，审议通过《2026年第三季度报告》等多项议案。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-20",
-      "time": "13:31",
-      "keywords": []
-    },
-    {
-      "title": "升达林业：关于召开2026年第二次临时股东会的通知",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-20/doc-inivwuif5744629.shtml",
-      "content": "    证券日报网讯 10月20日，升达林业发布公告称，公司将于2026年11月5日召开2026年第二次临时股东会。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-20",
-      "time": "13:31",
-      "keywords": []
-    },
-    {
-      "title": "拓邦股份：2026年第四次临时股东会决议公告",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-20/doc-inivwuic7767338.shtml",
-      "content": "    证券日报网讯 10月20日，拓邦股份发布公告称，公司于2026年10月20日召开2026年第四次临时股东会，本次会议审议通过《关于董事会换届选举非独立董事的议案》等多项议案...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-20",
-      "time": "13:31",
-      "keywords": []
-    },
-    {
-      "title": "三星8纳米再延续一代：8LPU+年内推出，主攻汽车与边缘AI芯片",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-20/doc-inivwuii6437131.shtml",
-      "content": "三星晶圆代工业务要把问世已超过8年的8纳米工艺再延续一代。外界解读认为，此举意在高效盘活现有成熟的深紫外（DUV）产线，避开单价昂贵的极紫外（EUV）光刻机。",
-      "priority": "low",
-      "sectors": [
-        "半导体",
-        "消费",
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-10-20",
-      "time": "13:24",
-      "keywords": []
-    },
-    {
-      "title": "兆易创新：2026年第四次临时股东会决议公告",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-20/doc-inivwuic7721967.shtml",
-      "content": "    证券日报网讯 10月20日，兆易创新发布公告称，公司于2026年10月20日召开2026年第四次临时股东会，审议通过《关于增加2026年度日常关联交易预计额度及预计2027年1-4月日...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-20",
-      "time": "13:22",
-      "keywords": []
-    },
-    {
-      "title": "津膜科技：关于召开2026年度第二次临时股东会的通知",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-20/doc-inivwyqz7670288.shtml",
-      "content": "    证券日报网讯 10月20日，津膜科技发布公告称，公司将于2026年11月5日召开2026年度第二次临时股东会。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-20",
-      "time": "13:22",
-      "keywords": []
-    },
-    {
-      "title": "众合科技：关于召开2026年第三次临时股东会的通知",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-20/doc-inivwuii6465549.shtml",
-      "content": "    证券日报网讯 10月20日，众合科技发布公告称，公司将于2026年11月6日召开2026年第三次临时股东会。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-20",
-      "time": "13:22",
-      "keywords": []
-    },
-    {
-      "title": "魅视科技：第三届董事会第二次会议决议公告",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-20/doc-inivwuic7760206.shtml",
-      "content": "    证券日报网讯 10月20日，魅视科技发布公告称，公司于2026年10月20日召开第三届董事会第二次会议，审议通过《关于公司全资子公司签订采购算力设备重大合同的议案》。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-20",
-      "time": "13:22",
-      "keywords": []
-    },
-    {
-      "title": "众合科技：第九届董事会第二十五次会议决议公告",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-20/doc-inivwuif5734100.shtml",
-      "content": "    证券日报网讯 10月20日，众合科技发布公告称，公司于2026年10月20日召开第九届董事会第二十五次会议，审议通过《关于提名独立董事候选人的议案》等多项议案。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-20",
-      "time": "13:22",
       "keywords": []
     },
     {
