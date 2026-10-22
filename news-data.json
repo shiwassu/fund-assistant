@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-22T17:35:16.761002",
+  "updated": "2026-10-22T21:53:56.442581",
   "total": 149,
   "sources": [
     "新浪财经",
@@ -7,11 +7,82 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 16,
+    "high": 14,
     "medium": 24,
-    "low": 109
+    "low": 111
   },
   "items": [
+    {
+      "title": "大宗商品综述：油价上涨 铜价金价走低",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwecsv5663154.shtml",
+      "content": " 油价上涨，沙特遭袭加剧中东供应担忧。铜价下跌，股市抛售削弱市场风险偏好。金价下挫，油价上涨引发通胀担忧，加大美联储需要加息以抑制通胀的压力。",
+      "priority": "high",
+      "sectors": [
+        "黄金",
+        "有色"
+      ],
+      "period": "night",
+      "date": "2026-10-22",
+      "time": "21:49",
+      "keywords": []
+    },
+    {
+      "title": "Meta拟融资数千亿美元引发股价暴跌7%，Rosenblatt重申买入评级：融资并非必要，财务状况仍然稳健",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwecst4928048.shtml",
+      "content": "Rosenblatt Securities于10月22日重申对Meta Platforms的“买入”评级及900美元目标价，认为市场对公司潜在巨额融资计划的担忧过度。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-22",
+      "time": "21:43",
+      "keywords": []
+    },
+    {
+      "title": "OpenAI接近完成最高300亿美元融资，投前估值达1.25万亿美元，阿联酋投资者领投",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkx5755473.shtml",
+      "content": "10月22日，OpenAI正接近完成一轮最高300亿美元的融资，投前估值达到1.25万亿美元。知情人士透露，本轮融资由阿联酋投资者和投资机构Coatue联合领投...",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-10-22",
+      "time": "20:34",
+      "keywords": []
+    },
+    {
+      "title": "10月23日收盘：美股三大指数涨跌不一 纳指创6月以来最大跌幅 国际油价大涨",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkx5746324.shtml",
+      "content": "周四，美股三大指数涨跌不一，市场对人工智能（AI）企业巨额资本支出及融资风险的担忧再度升温，科技股普遍遭到抛售。与此同时，美国与伊朗紧张局势升级...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-22",
+      "time": "20:08",
+      "keywords": []
+    },
+    {
+      "title": "莫德纳和默克股价重挫 黑色素瘤疫苗数据或遭泄露",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-23/doc-iniwctax5085610.shtml",
+      "content": "10月22日，Moderna股价盘中一度暴跌约25%，默沙东（Merck）股价一度下跌超过3%。此前，两家公司联合研发的个性化mRNA癌症疫苗III期临床试验数据遭到提前披露...",
+      "priority": "high",
+      "sectors": [
+        "医药"
+      ],
+      "period": "noon",
+      "date": "2026-10-22",
+      "time": "17:39",
+      "keywords": []
+    },
     {
       "title": "欧洲央行管委Panetta：债券收益率上升将抑制经济增长",
       "source": "环球市场播报",
@@ -24,104 +95,6 @@
       "period": "noon",
       "date": "2026-10-22",
       "time": "16:22",
-      "keywords": []
-    },
-    {
-      "title": "美国航空下调全年盈利预期 燃油成本暴涨拖累业绩",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwchpc5228917.shtml",
-      "content": " 美国航空（American Airlines）下调全年盈利预期，预计今年亏损进一步扩大；尽管营收创出历史新高，但燃油成本暴涨拖累业绩，公司同时宣布明年放缓运力扩张。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "14:29",
-      "keywords": []
-    },
-    {
-      "title": "在海南澄迈，中小微游戏企业出海成了日常",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-10-22/doc-iniwchpc5234291.shtml",
-      "content": "依托海南自贸港的政策优势，澄迈打造了全国首个聚焦游戏出海全链条的公共服务平台。国产游戏出海，早已不是新鲜事。2025年，中国自主研发游戏海外市场实际销售收入达到204...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "14:19",
-      "keywords": []
-    },
-    {
-      "title": "编程语言PHP严重漏洞引发全球紧急修复 多地网站暂时下线",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-10-22/doc-iniwchpc5209421.shtml",
-      "content": " 围绕一种广泛使用的编程语言PHP所曝出的漏洞，全球网站加紧更新并采取防护措施的行动进入第二天。研究人员警告称，黑客已经尝试利用这些漏洞发动攻击。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "14:08",
-      "keywords": []
-    },
-    {
-      "title": "13天8板后大幅跳水，九阳“神功”破了",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-22/doc-iniwchpc5214686.shtml",
-      "content": "13天8板后，大牛股九阳股份“破功”了。这些天A股最魔幻的一只股票，当属九阳股份。8个涨停板，累计涨幅超过140%。一家卖豆浆机的公司，硬生生走出了科技股的斜率。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "14:02",
-      "keywords": []
-    },
-    {
-      "title": "全球央行正悄然以逾常态四倍的速度购金",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/wbstock/2026-10-22/doc-iniwchpc5211808.shtml",
-      "content": "来源：@财联社APP微博财联社10月22日讯（编辑 牛占林）高盛本周发布报告称，全球央行8月购金量达到79吨，是2022年俄乌冲突爆发前平均水平的四倍多。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "13:52",
-      "keywords": []
-    },
-    {
-      "title": "PHP高危漏洞或冲击全球七成网站，多国机构、云厂商等紧急预警",
-      "source": "界面",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-22/doc-iniwchpf5928205.shtml",
-      "content": "界面新闻记者 | 宋佳楠 一个藏在大量网站底层的漏洞，正在触动全球网络安全防线。 10月22日，据国家网络安全通报中心消息，近日，开源编程语言PHP曝出两个严重安全漏洞（代...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "13:52",
-      "keywords": []
-    },
-    {
-      "title": "时代万恒跌停，上榜营业部合计净卖出968.54万元",
-      "source": "证券时报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-22/doc-iniwchpf5927810.shtml",
-      "content": "时代万恒(600241)今日跌停，全天换手率21.82%，成交额7.20亿元，振幅7.43%。龙虎榜数据显示，营业部席位合计净卖出968.54万元。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "13:40",
       "keywords": []
     },
     {
@@ -254,6 +227,90 @@
       ]
     },
     {
+      "title": "默沙东癌症疫苗III期数据不及此前试验，RBC维持145美元目标价：预计2027年获FDA批准，但商业价值存疑",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwecsw8027983.shtml",
+      "content": "加拿大皇家银行资本市场（RBC Capital Markets）10月22日重申对默沙东（Merck）的“与行业同步”评级及145美元目标价。该行认为，默沙东与Moderna联合开发的个性化mRNA癌症疫...",
+      "priority": "medium",
+      "sectors": [
+        "医药"
+      ],
+      "period": "night",
+      "date": "2026-10-22",
+      "time": "21:45",
+      "keywords": []
+    },
+    {
+      "title": "美国股市：科技股抛售拖累纳斯达克100指数重挫 避险情绪笼罩华尔街",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwecsv5656545.shtml",
+      "content": "美国股市周四下跌，中东冲突升级的担忧推动原油期货走高，在距离美国中期选举不到两周之际加剧了通胀忧虑。Meta大跌，投资者消化该公司以及最新一批科技企业财报...",
+      "priority": "medium",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-10-22",
+      "time": "21:38",
+      "keywords": []
+    },
+    {
+      "title": "10月23日热门中概股多数下跌，网易跌超3%、阿里巴巴跌2.48%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxma4893028.shtml",
+      "content": "10月23日热门中概股多数下跌，纳斯达克中国金龙指数（HXC）收跌1.19%。上涨个股（按市值从高到低）：拼多多涨0.57%，中华电信涨2.57%，携程涨0.66%，中通涨0.96%...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-22",
+      "time": "21:04",
+      "keywords": []
+    },
+    {
+      "title": "纳斯达克100指数重挫逾3% 避险情绪和油价走高构成双重打击",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxma4845477.shtml",
+      "content": "美股延续跌势，对中东冲突升级的担忧推动原油期货上涨，在距离中期选举不到两周之际，油价走高进一步加剧通胀担忧。与此同时，Meta股价大跌...",
+      "priority": "medium",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-10-22",
+      "time": "19:13",
+      "keywords": []
+    },
+    {
+      "title": "纽约汇市：美元下跌 避险需求压低美债收益率并提振日元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwctce4975713.shtml",
+      "content": "美元下跌，因股市遭遇抛售，刺激避险需求，推动美国国债收益率下降，提振日元等避险货币需求。 彭博美元指数下跌0.1%。Meta业绩重新引发市场对AI相关债务前景的疑问...",
+      "priority": "medium",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-10-22",
+      "time": "19:00",
+      "keywords": []
+    },
+    {
+      "title": "美国财政部拟新规 禁止大型机构投资者继续购买独栋住宅",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-23/doc-iniwctax5086425.shtml",
+      "content": " 美国财政部周四提出新规，拟禁止持有大量住房的大型机构投资者继续购买独栋住宅。这是落实今夏通过的跨党派住房法案中最具争议条款的最新一步。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-22",
+      "time": "17:40",
+      "keywords": []
+    },
+    {
       "title": "欧洲股市收盘下跌 企业财报令人失望且AI忧虑重燃",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-10-23/doc-iniwctce4923854.shtml",
@@ -265,6 +322,20 @@
       "period": "noon",
       "date": "2026-10-22",
       "time": "17:31",
+      "keywords": []
+    },
+    {
+      "title": "巴拿马运河2026财年收入较上一年度增长16.6%",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniwcnvh5020460.shtml",
+      "content": "当地时间10月21日，巴拿马运河管理局发布2026财年报告，2026财年（2025年10月至2026年9月）运河总收入达到66亿美元，较上一财年增长16.6%。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-22",
+      "time": "16:03",
       "keywords": []
     },
     {
@@ -322,104 +393,6 @@
       "period": "noon",
       "date": "2026-10-22",
       "time": "14:32",
-      "keywords": []
-    },
-    {
-      "title": "283%收益代表作换基金经理！郑巍山“清仓式”卸任影响几何？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/fund/jjyj/2026-10-22/doc-iniwcnvc5836766.shtml",
-      "content": "來源：国际金融报 管理规模超200亿元的知名基金经理“清仓式”卸任。 10月22日，银河基金发布基金经理变更公告，郑巍山因个人原因卸任全部在管产品的基金经理职务...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "14:32",
-      "keywords": []
-    },
-    {
-      "title": "宁德时代董秘被打？知情人士回应：消息不实",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/chanjing/gsnews/2026-10-22/doc-iniwchpf5933756.shtml",
-      "content": " 10月22日，宁德时代董秘在某基金公司路演时被打的消息在网上热传，对此，有知情人士告诉第一财经记者，该消息不实，董秘并未出席这场路演。（第一财经记者 肖逸思）",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "13:59",
-      "keywords": []
-    },
-    {
-      "title": "大华继显降宁德时代H股目标价40.7%及A股目标价41.4%",
-      "source": "港股一线",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkyx/2026-10-22/doc-iniwchpc5196827.shtml",
-      "content": "文/新浪财经香港站 王柳潞 大华继显发研究报告表示，维持宁德时代（3750.HK）“买入”评级，将其H股目标价下调40.7%，由675港元降至400港元；同时下调其A股（300750...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "13:53",
-      "keywords": []
-    },
-    {
-      "title": "中水渔业：关于续聘2026年度审计机构的公告",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-22/doc-iniwchpc5205448.shtml",
-      "content": "    证券日报网讯 10月22日，中水渔业发布公告称，公司拟续聘天健会计师事务所(特殊普通合伙)为公司2026年度财务报告审计机构及内部控制审计机构，聘期一年。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "13:52",
-      "keywords": []
-    },
-    {
-      "title": "*ST美谷2026年前三季度毛利率与现金流双升 财务结构持续优化",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-22/doc-iniwchpf5934099.shtml",
-      "content": "    本报讯(记者李万晨曦)10月22日晚，九州美谷科技股份有限公司(以下简称“*ST美谷”)披露2026年三季报，报告期内，公司聚焦医美核心主业，持续推进提质增效，实现毛利率...",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "13:44",
-      "keywords": []
-    },
-    {
-      "title": "壳牌与埃克森美孚英国化工合资企业挂牌出售 价值80亿美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwchpk5006340.shtml",
-      "content": "壳牌参股的一家英国化工企业正寻求以80亿美元的估值出售。这家能源巨头持续剥离非核心业务板块，重新聚焦油气主业。 知情人士透露，由壳牌...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "13:41",
-      "keywords": []
-    },
-    {
-      "title": "华安基金将以固有资金1亿元自购旗下首只主动ETF",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-10-22/doc-iniwchpc5186754.shtml",
-      "content": "基于对中国资本市场长期健康稳定发展的信心，华安基金管理有限公司将运用固有资金1亿元认购华安均衡慧选主动管理交易型开放式股票证券投资基金（基金代码：581020...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "13:40",
       "keywords": []
     },
     {
@@ -615,6 +588,302 @@
       ]
     },
     {
+      "title": "特朗普援引《国防生产法》提升石油产能",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwecsy4793388.shtml",
+      "content": "白宫公布的一份备忘录显示，美国总统特朗普援引《国防生产法》以扩大国内石油生产、炼油和物流能力。 备忘录称，采取这一行动是必要的...",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-10-22",
+      "time": "21:37",
+      "keywords": []
+    },
+    {
+      "title": "特朗普签署行政令 力图降低住房成本",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwecsy4792898.shtml",
+      "content": " 美国总统唐纳德·特朗普周四签署一项旨在降低住房成本的行政令，在中期选举最后冲刺阶段，试图显示其政府正在回应选民对生活负担能力的担忧。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-22",
+      "time": "21:37",
+      "keywords": []
+    },
+    {
+      "title": "10月23日外盘头条：特朗普再度威胁对伊朗采取军事行动 西部数据财报大超预期 OpenAI接近完成新一轮融资",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwecsy4785235.shtml",
+      "content": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、特朗普威胁对伊朗采取军事行动：已经狠狠打击了他们，可能还会进一步升级 2...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-10-22",
+      "time": "21:29",
+      "keywords": []
+    },
+    {
+      "title": "特朗普再度威胁对伊朗采取军事行动：已经狠狠打击了他们，可能还会进一步升级",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkx5775123.shtml",
+      "content": "美国总统唐纳德·特朗普10月23日再次表示，美国可能对伊朗采取进一步军事行动。特朗普在最新采访中称：“我们已经狠狠打击了他们，可能还会再进一步。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-22",
+      "time": "21:16",
+      "keywords": []
+    },
+    {
+      "title": "特朗普暂不对风力涡轮机收税 允许180天时间进行谈判",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxky8124608.shtml",
+      "content": " 美国总统唐纳德·特朗普表示，他将暂不以国家安全为由对风力涡轮机及其零部件收取关税，而是要求美国贸易代表和商务部长与贸易伙伴磋商，并在180天内提交报告。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-22",
+      "time": "21:08",
+      "keywords": []
+    },
+    {
+      "title": "特朗普威胁要在伊朗问题上“更进一步”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxma4895837.shtml",
+      "content": "美国总统特朗普在白宫对记者发表讲话时表示，美国已经“打垮”了伊朗，“我们可能还会略微更进一步”。 特朗普没有进一步说明",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-22",
+      "time": "21:07",
+      "keywords": []
+    },
+    {
+      "title": "西部数据财报大超预期：利润增长161%，毛利率直逼60%，但股价已从高点腰斩",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkv5029014.shtml",
+      "content": "北京时间10月23日凌晨，美国硬盘制造商西部数据（Western Digital，NASDAQ：WDC）公布2027财年第一季度财报。在数据中心存储需求强劲及产品价格上涨的推动下...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-10-22",
+      "time": "20:47",
+      "keywords": []
+    },
+    {
+      "title": "10月22日美股成交额前20名:科技股集体下挫，SpaceX解禁后收跌9.14%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxma4871446.shtml",
+      "content": "第1名SpaceX收跌9.14%，成交289.36亿美元。 SpaceX于10月21日公布上市后第二份季度财报，随后迎来大规模股票解禁。根据上市招股书安排...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-22",
+      "time": "20:32",
+      "keywords": []
+    },
+    {
+      "title": "为防范埃博拉疫情 美疾控中心发布航空旅客入境及乘机新规",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniwcxkv5029131.shtml",
+      "content": "△美国疾病控制和预防中心（资料图）当地时间10月22日，美国疾病控制和预防中心发布消息称，自美国东部时间11月3日23时59分起，所有搭乘国际航班前往美国的旅客...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-22",
+      "time": "20:22",
+      "keywords": [
+        "新冠肺炎"
+      ]
+    },
+    {
+      "title": "特朗普依据232条款签署行政令 限制外国风力涡轮机进口",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxma4868708.shtml",
+      "content": "美国总统特朗普签署行政令，旨在限制外国风力涡轮机进口。 “风力涡轮机及其零部件和子部件进口至美国的情况，有损害国家安全之虞...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-22",
+      "time": "20:21",
+      "keywords": []
+    },
+    {
+      "title": "原油：油价上涨 沙特遭袭加剧中东供应担忧",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkv5021673.shtml",
+      "content": " 油价周四上涨，此前沙特阿拉伯遭遇造成人员伤亡的袭击，加剧了人们对中东冲突升级可能冲击供应的担忧，尽管通过霍尔木兹海峡的石油运输量已升至冲突前水平。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-10-22",
+      "time": "20:20",
+      "keywords": []
+    },
+    {
+      "title": "Gucci第三季度营收降幅超预期，开云集团复苏进程持续承压",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkv5021395.shtml",
+      "content": "Gucci第三季度营收表现不及市场预期，显示这一开云集团旗下核心奢侈品牌持续多年的复苏计划仍面临挑战。 开云集团周四公布的数据显示，Gucci第三季度可比营收同比下降6%...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-22",
+      "time": "20:20",
+      "keywords": []
+    },
+    {
+      "title": "特朗普一通电话要求马斯克解除对乌星链限速，乌军通信随后部分恢复",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxkx5742099.shtml",
+      "content": "美国总统唐纳德·特朗普10月21日致电SpaceX首席执行官埃隆·马斯克，要求解除此前对乌克兰军用版星链（Starlink）卫星通信服务实施的速度限制。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-22",
+      "time": "20:01",
+      "keywords": []
+    },
+    {
+      "title": "法国债市再遭冲击 与德债收益率差比肩欧债危机时期",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwcxma4848182.shtml",
+      "content": "法国10年期国债相对德国国债的收益率溢价一度扩大19个基点，至1.78个百分点，为2011年底欧债危机最严重时期以来最高。法国各类资产全面下跌...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-22",
+      "time": "19:31",
+      "keywords": []
+    },
+    {
+      "title": "红十字国际委员会：近几周苏丹空袭事件致数百人死亡",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniwcxkx5731618.shtml",
+      "content": "△苏丹南部青尼罗州近期多次遭遇空袭（资料图）当地时间10月22日，红十字国际委员会发表声明称，最近几周，苏丹多地发生多起空袭事件，共造成数百人死亡。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-22",
+      "time": "19:02",
+      "keywords": []
+    },
+    {
+      "title": "加拿大严限驻美外交官接触中期选举候选人 以免被指政治干预",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-23/doc-iniwctca8196500.shtml",
+      "content": " 知情人士称，加拿大驻美外交官被要求与参加美国中期选举的候选人保持距离，并保持低调，以免遭到特朗普政府的政治干预指控。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-22",
+      "time": "18:51",
+      "keywords": []
+    },
+    {
+      "title": "报道：特朗普要求马斯克取消在乌克兰对星链的限制",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwctce4974444.shtml",
+      "content": " 周四报道称，美国总统唐纳德·特朗普与SpaceX首席执行官埃隆·马斯克进行了交谈，并要求马斯克解除对其“星链”卫星系统的限制。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-22",
+      "time": "18:50",
+      "keywords": []
+    },
+    {
+      "title": "普京：俄愿恢复俄美乌三方会谈",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniwctca8193817.shtml",
+      "content": "△普京（资料图）俄罗斯总统普京当地时间22日晚接受媒体采访时表示，俄罗斯直到现在仍然愿意通过对话解决俄乌冲突。普京说，俄罗斯愿意恢复俄美乌三方会谈...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-22",
+      "time": "18:34",
+      "keywords": []
+    },
+    {
+      "title": "法国巴黎部分区域宵禁延长至25日早晨",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniwcxma4849410.shtml",
+      "content": "△资料图当地时间10月22日，法国巴黎警察总局在社交媒体上宣布，根据法国总理塞巴斯蒂安·勒科尔尼和内政部长洛朗·努涅斯的要求，巴黎共和国广场及大堂商业区周边划定区域将...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-22",
+      "time": "18:04",
+      "keywords": []
+    },
+    {
+      "title": "反弹不代表基本面改变 DoubleLine副首席投资官继续看空长期美债",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-23/doc-iniwctca8162546.shtml",
+      "content": "DoubleLine Capital的Jeff Sherman表示，他仍看空长期美国国债，认为政府大量举债和需求减弱将继续给市场带来压力。 对AI主题交易的担忧以及法国市场动荡刺激避险需求回归...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-22",
+      "time": "17:48",
+      "keywords": []
+    },
+    {
+      "title": "美国10年期国债收益率跌破5% 避险需求推动债市走高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-23/doc-iniwctce4926838.shtml",
+      "content": "受AI概念股大跌引发的避险买盘推动，美国国债飙升，10年期收益率回落至5%以下。 这波涨势推动各期限美债收益率最多下跌16个基点，5年至30年期收益率均触及近一个月最低水平...",
+      "priority": "low",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "noon",
+      "date": "2026-10-22",
+      "time": "17:35",
+      "keywords": []
+    },
+    {
       "title": "欧洲债市：法国国债相对于德债的收益率溢价达到175个基点",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-10-23/doc-iniwctaz5804614.shtml",
@@ -626,6 +895,48 @@
       "period": "noon",
       "date": "2026-10-22",
       "time": "17:17",
+      "keywords": []
+    },
+    {
+      "title": "伊朗议会议长：若与伊开战 美国将承担苦涩后果",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniwctca8150086.shtml",
+      "content": "△伊朗议会议长卡利巴夫（资料图）当地时间22日，伊朗议会议长卡利巴夫表示，如果美国认为与伊朗开战对其有利，那是大错特错，因为这个选择会给美国带来很多“苦涩的后果”...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-22",
+      "time": "17:14",
+      "keywords": []
+    },
+    {
+      "title": "也门政府军称过去24小时打击胡塞武装780次",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniwctax5071145.shtml",
+      "content": "△也门政府军22日发布的作战画面也门政府军当地时间22日晚发表声明，称过去24小时内，也门政府军持续对胡塞武装发动攻势，在多条战线上对胡塞武装实施了780次精确打击...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-22",
+      "time": "16:55",
+      "keywords": []
+    },
+    {
+      "title": "法国卢浮宫等多个博物馆将因示威活动闭馆",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniwctca8161487.shtml",
+      "content": "△法国巴黎卢浮宫（资料图）当地时间10月22日，法国政府表示，由于巴黎将于24日举行示威活动，卢浮宫、奥赛博物馆和毕加索博物馆将于24日当天闭馆。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-22",
+      "time": "16:53",
       "keywords": []
     },
     {
@@ -672,6 +983,20 @@
       "keywords": []
     },
     {
+      "title": "英国时隔20年恢复大口径火炮本土生产",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-22/doc-iniwcnuz5149931.shtml",
+      "content": "当地时间10月22日，德国军工企业莱茵金属公司宣布，位于英国什罗普郡特尔福德的新建大型武器制造工厂正式启用。英国国防大臣韦斯·斯特里廷出席启用仪式。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-22",
+      "time": "15:26",
+      "keywords": []
+    },
+    {
       "title": "Fireblocks驳斥了Visa收购谈判的相关报道",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwcnvc5841287.shtml",
@@ -711,328 +1036,6 @@
       "period": "noon",
       "date": "2026-10-22",
       "time": "14:32",
-      "keywords": []
-    },
-    {
-      "title": "港股IPO：科大智能科技股份有限公司递表港交所",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-22/doc-iniwchpf5966501.shtml",
-      "content": "每经AI快讯，10月22日，港交所文件显示，科大智能科技股份有限公司向港交所提交上市申请书，联席保荐人为华泰国际、国元国际。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "14:31",
-      "keywords": []
-    },
-    {
-      "title": "启明信息：2026年前三季度亏损扩大，归母净利亏损3481.47万元",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-22/doc-iniwchpf5951459.shtml",
-      "content": "同壁财经讯，启明信息披露2026年第三季度报告显示，公司2026年前三季度实现营业收入4.71亿元，同比增长10.17%；归属于上市公司股东的净利润亏损3481.47万元...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "14:08",
-      "keywords": []
-    },
-    {
-      "title": "SK海力士正就iHBM量产对接供应链厂商",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-22/doc-iniwchpf5937711.shtml",
-      "content": "SK海力士已经启动和供应链厂商磋商，为可降低高带宽内存（HBM）发热的下一代技术iHBM落地、量产做准备。在HBM市场竞争白热化的背景下...",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "14:04",
-      "keywords": []
-    },
-    {
-      "title": "哈尔斯：三季度营收净利同比双增 累计盈利降幅收窄",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-22/doc-iniwchpf5962274.shtml",
-      "content": "上证报中国证券网讯 10月22日晚间，哈尔斯披露2026年第三季度报告。第三季度，公司实现营业收入9.52亿元，同比增长10.00%；归母净利润3292.78万元，同比增长275.38%...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "14:03",
-      "keywords": []
-    },
-    {
-      "title": "皇台酒业：关于召开公司2026年第二次临时股东会的通知",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-22/doc-iniwchpf5943745.shtml",
-      "content": "    证券日报网讯 10月22日，皇台酒业发布公告称，公司将于2026年11月10日召开2026年第二次临时股东会。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "14:02",
-      "keywords": []
-    },
-    {
-      "title": "赤峰黄金：关于召开2026年第二次临时股东会的通知",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-22/doc-iniwchpc5226769.shtml",
-      "content": "    证券日报网讯 10月22日，赤峰黄金发布公告称，公司将于2026年11月16日召开2026年第二次临时股东会。",
-      "priority": "low",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "14:02",
-      "keywords": []
-    },
-    {
-      "title": "果麦文化：关于召开2026年第二次临时股东会的通知",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-22/doc-iniwchpc5216693.shtml",
-      "content": "    证券日报网讯 10月22日，果麦文化发布公告称，公司将于2026年11月9日召开2026年第二次临时股东会。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "14:02",
-      "keywords": []
-    },
-    {
-      "title": "从*ST集友收购慧聚药业看“协议转让+现金收购资产”模式下的资金耦合安排边界",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-10-22/doc-iniwcnvh4942006.shtml",
-      "content": "來源：文艺馥欣 2026年6月19日，*ST集友（603429.SH）发布公告称现金收购江苏慧聚药业50.76%股权，同步由控股股东徐善水向标的卖方黄华、毕伟国协议转让10.1051%股份。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "14:00",
-      "keywords": []
-    },
-    {
-      "title": "美国商务部将拨款3.89亿美元用于芯片研发",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/t/2026-10-22/doc-iniwchpc5213861.shtml",
-      "content": "（来源：界面新闻）据报道，美国商务部将拨款3.89亿美元用于芯片研发。",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "13:59",
-      "keywords": []
-    },
-    {
-      "title": "吉比特：董事会通过三季度分配预案，拟每10股派60元",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-22/doc-iniwchpf5936991.shtml",
-      "content": "上证智讯 10月22日，吉比特发布公告称，公司于2026年10月22日以现场与通讯相结合方式召开第六届董事会第十四次会议，应出席董事8名、实际出席8名，会议以8票同意...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "13:54",
-      "keywords": []
-    },
-    {
-      "title": "网宿发布年度安全报告：AI正全面改写网络攻防格局 “架构即安全”成破局之道",
-      "source": "上海证券报·中国证券网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-22/doc-iniwcnvc5838616.shtml",
-      "content": "上证报中国证券网讯(记者李雁争)网宿科技旗下网宿安全近日发布《2025—2026年度互联网安全报告》，依托平台海量攻防实测数据，研判AI时代业务系统...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "13:54",
-      "keywords": []
-    },
-    {
-      "title": "中水渔业：关于下属子公司境外投资设立合资公司的公告",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-22/doc-iniwchpf5936267.shtml",
-      "content": "    证券日报网讯 10月22日，中水渔业发布公告称，公司全资子公司深圳和美渔业有限公司拟与基里巴斯政府、海富公司共同在基里巴斯塔拉瓦注册成立合资公司...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "13:52",
-      "keywords": []
-    },
-    {
-      "title": "又一例！港股上市公司，借钱给创始人",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/s/2026-10-22/doc-iniwchph8252958.shtml",
-      "content": "港股上市公司借钱给创始人，再现新的案例。 10月21日晚间，速腾聚创公告称，其间接全资附属公司深圳速腾分别与邱纯鑫及刘乐天订立贷款协议。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "13:50",
-      "keywords": []
-    },
-    {
-      "title": "中远海控大宗交易成交2356.25万元",
-      "source": "证券时报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-22/doc-iniwchpf5925004.shtml",
-      "content": "中远海控10月22日大宗交易平台出现一笔成交，成交量145.00万股，成交金额2356.25万元，大宗交易成交价为16.25元。该笔交易的买方营业部为方正证券股份有限公司南京分公司...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "13:45",
-      "keywords": []
-    },
-    {
-      "title": "中国海油发生大宗交易 成交溢价率3.55%",
-      "source": "证券时报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-22/doc-iniwchpf5929944.shtml",
-      "content": "中国海油10月22日大宗交易平台出现一笔成交，成交量18.06万股，成交金额632.10万元，大宗交易成交价为35.00元，相对今日收盘价溢价3.55%。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "13:45",
-      "keywords": []
-    },
-    {
-      "title": "港股公司尝高美涉嫌操纵股价转板 香港证监会启动法律程序",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-22/doc-iniwchpf5933532.shtml",
-      "content": "本报记者 毛艺融 10月22日，香港证监会发文称就GEM（香港创业板）上市公司尝高美集团有限公司（以下简称“尝高美”）涉嫌操纵股价以转往主板...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "13:40",
-      "keywords": []
-    },
-    {
-      "title": "澳洋健康：第十届董事会第六次会议决议公告",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-22/doc-iniwchpf5941955.shtml",
-      "content": "    证券日报网讯 10月22日，澳洋健康发布公告称，公司于2026年10月22日召开第十届董事会第六次会议，审议通过《2026年第三季度报告》《关于使用自有资金购买理财产品的议...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "13:39",
-      "keywords": []
-    },
-    {
-      "title": "澳洋健康：关于使用自有资金购买理财产品的公告",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-22/doc-iniwchpc5209949.shtml",
-      "content": "    证券日报网讯 10月22日，澳洋健康发布公告称，公司及子公司拟使用总额不超过8,000万元人民币(含本数)的自有资金购买安全性高、流动性好...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "13:38",
-      "keywords": []
-    },
-    {
-      "title": "美的集团、宁德时代大手笔回购 以真金白银传递信心",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-22/doc-iniwchpf5922789.shtml",
-      "content": "    今年以来，深圳证券交易所市场(以下简称“深市”)上市公司加大回购增持力度，用真金白银向市场传递信心。其中，美的集团股份有限公司(以下简称“美的集团”)...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "13:38",
-      "keywords": []
-    },
-    {
-      "title": "上海九百：股票交易异常波动公告",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-22/doc-iniwchpf5929946.shtml",
-      "content": "    证券日报网讯 10月22日，上海九百发布公告称，公司股票于2026年10月20日、10月21日、10月22日连续3个交易日内日收盘价格涨幅偏离值累计超过20%...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "13:38",
-      "keywords": []
-    },
-    {
-      "title": "苏泊尔：关于召开2026年第二次临时股东会的通知",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-22/doc-iniwchpc5217832.shtml",
-      "content": "    证券日报网讯 10月22日，苏泊尔发布公告称，公司将于2026年11月9日召开2026年第二次临时股东会。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "13:38",
-      "keywords": []
-    },
-    {
-      "title": "华阳智能：关于股票交易异常波动公告",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-22/doc-iniwchpf5921074.shtml",
-      "content": "    证券日报网讯 10月22日，华阳智能发布公告称，公司股票交易连续3个交易日(2026年10月20日、2026年10月21日、2026年10月22日)内收盘价涨幅偏离值累计超过30%...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "13:38",
-      "keywords": []
-    },
-    {
-      "title": "新华保险：2026年第一次临时股东会决议公告",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-10-22/doc-iniwchpf5922321.shtml",
-      "content": "    证券日报网讯 10月22日，新华保险发布公告称，公司于2026年10月22日召开2026年第一次临时股东会，审议通过《关于2026年度中期利润分配方案的议案》《关于修订〈股东会...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-10-22",
-      "time": "13:38",
       "keywords": []
     },
     {
