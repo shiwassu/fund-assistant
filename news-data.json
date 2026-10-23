@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-23T18:40:57.474901",
+  "updated": "2026-10-23T23:27:00.053378",
   "total": 149,
   "sources": [
     "新浪财经",
@@ -8,10 +8,53 @@
   ],
   "priority_dist": {
     "high": 15,
-    "medium": 24,
-    "low": 110
+    "medium": 26,
+    "low": 108
   },
   "items": [
+    {
+      "title": "10月24日隔夜要闻：美股三大指数收跌 油价大涨 金价下跌 特朗普称可能对伊发动一次小规模“史诗怒火”行动",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhnya2334385.shtml",
+      "content": "市场 10月24日收盘：美股三大指数收跌 道指跌超600点 布油创4月以来新高 市场抛售范围扩大 10月24日热门中概股涨跌不一，台积电涨1.49%...",
+      "priority": "high",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-10-23",
+      "time": "22:55",
+      "keywords": []
+    },
+    {
+      "title": "大宗商品综述：油价大涨 铜价收窄周跌幅 金价下跌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhrw8286322.shtml",
+      "content": "布伦特原油本周收于4月份以来最高水平，因为沙特阿拉伯遭到的袭击愈演愈烈，加剧了此前已因美伊战争而升温的供应担忧。铜价周五上涨并收窄周跌幅...",
+      "priority": "high",
+      "sectors": [
+        "黄金",
+        "有色"
+      ],
+      "period": "night",
+      "date": "2026-10-23",
+      "time": "22:11",
+      "keywords": []
+    },
+    {
+      "title": "OpenAI宣布最先进AI模型训练期间禁止直接访问互联网",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhaka5082235.shtml",
+      "content": "OpenAI于周五宣布，已对用于训练和评估前沿模型的研究环境实施更严格的安全管控，核心政策是：前沿模型在训练期间不得直接访问实时互联网。",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-10-23",
+      "time": "20:01",
+      "keywords": []
+    },
     {
       "title": "欧洲股市连续第二天下跌，沃尔沃汽车一度暴跌32%，油价上涨推动能源股走强",
       "source": "环球市场播报",
@@ -67,49 +110,6 @@
       "period": "noon",
       "date": "2026-10-23",
       "time": "14:44",
-      "keywords": []
-    },
-    {
-      "title": "美国企业活动保持扩张 价格创2022年以来最大涨幅",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwfrue8284901.shtml",
-      "content": "美国10月企业活动增速略有放缓，但仍接近多年高位，强劲需求推动新订单、就业和价格上升。 周五公布的数据显示，标普全球10月综合采购经理人指数（PMI）初值下降0.8点至57...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "14:10",
-      "keywords": []
-    },
-    {
-      "title": "千亿光模块龙头，拟回购股份并注销",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-23/doc-iniwfrue8287490.shtml",
-      "content": "来源：中国基金报 【导读】天孚通信拟回购并注销1亿至1.5亿元股份 中国基金报记者 夏天 10月23日晚间，A股回购市场再度升温。光模块龙头天孚通信（证券代码：300394）公告...",
-      "priority": "high",
-      "sectors": [
-        "光模块",
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "14:03",
-      "keywords": []
-    },
-    {
-      "title": "突发！午后直线涨停，5天暴涨89%，这个方向掀起涨停潮！",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-23/doc-iniwfruk1832701.shtml",
-      "content": "平地一声惊雷起，扶摇直上九万里。今天的A股，终于雄起了一回。隔夜外围市场再度走弱，纳斯达克跌2.60%，创6月以来最大单日跌幅，费城半导体指数跌6.72%。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "13:55",
       "keywords": []
     },
     {
@@ -242,6 +242,118 @@
       ]
     },
     {
+      "title": "CFTC：对冲基金削减日元空头 增持澳元多头",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhse2448937.shtml",
+      "content": " 美国商品期货交易委员会（CFTC）周五公布的数据显示，截至10月20日当周，对冲基金削减日元空头头寸。日元连续第二周上涨，周五兑美元则小幅走弱。",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-10-23",
+      "time": "22:07",
+      "keywords": []
+    },
+    {
+      "title": "法国获得喘息之机 穆迪未下调其信用评级",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhsa1716659.shtml",
+      "content": "法国躲过一劫，穆迪未下调该国信用评级，让这个饱受债券收益率飙升、政治僵局和街头抗议困扰的国家获得了喘息之机。 穆迪维持这个欧元区第二大经济体Aa3评级不变...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-23",
+      "time": "22:06",
+      "keywords": []
+    },
+    {
+      "title": "观点综述：中期选举前宜押注美债涨、做空美元 避险情绪或延至11月中",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhse2422304.shtml",
+      "content": "富国策略师建议，在11月3日中期选举前押注美国久期资产上涨，并做空美元。美国银行策略师Michael Hartnett表示，投资者的避险情绪可能持续至11月晚些时候，进一步显示...",
+      "priority": "medium",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-10-23",
+      "time": "21:21",
+      "keywords": []
+    },
+    {
+      "title": "CFTC：对冲基金欧元空头押注升至2020年3月以来最高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhrw8241537.shtml",
+      "content": "对冲基金对欧元的看空押注增至2020年3月以来最高水平，法国政治动荡冲击欧洲市场，并给欧元带来压力。 美国商品期货交易委员会（CFTC）周五公布的数据显示...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-23",
+      "time": "21:18",
+      "keywords": []
+    },
+    {
+      "title": "纽约汇市：美元随AI担忧消退而持稳 澳元料创4月份以来最大周涨幅",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhrw8238200.shtml",
+      "content": "对AI主题交易的担忧消退，美元窄幅震荡，而油价上涨引发通胀担忧。澳元迈向4月份以来最大单周涨幅。 彭博美元指数基本持平。中东暴力冲突威胁全球供应...",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-10-23",
+      "time": "21:15",
+      "keywords": []
+    },
+    {
+      "title": "穆迪完成审查后未对法国采取任何评级行动",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhrw8233175.shtml",
+      "content": "穆迪已完成对法国信用评级的审查，未采取任何评级行动。 表示近期上调该国Aa3评级的可能性不大，该国Aa3评级“得益于其富裕且多元化的经济，以及高度称职的公共机构”。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-23",
+      "time": "21:10",
+      "keywords": []
+    },
+    {
+      "title": "10月24日热门中概股涨跌不一，台积电涨1.49%，阿里巴巴跌超2%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhrw8218959.shtml",
+      "content": "10月24日热门中概股涨跌不一，纳斯达克中国金龙指数（HXC）收跌0.84%。 上涨个股（按市值从高到低）：台积电涨1.49%，日月光半导体涨2.52%，联电涨1.94%，携程涨0.53%...",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-10-23",
+      "time": "20:53",
+      "keywords": []
+    },
+    {
+      "title": "10月24日收盘：美股三大指数收跌 道指跌超600点 布油创4月以来新高 市场抛售范围扩大",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhry4970299.shtml",
+      "content": " 周五，美国三大指数收跌，抛售压力从AI交易扩散至更广泛领域。油价上涨，市场日益担心美伊冲突将再次爆发。10年期美债收益率上升，但仍低于5%的门槛。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-23",
+      "time": "20:32",
+      "keywords": []
+    },
+    {
       "title": "富国银行：中期选举前宜押注美债上涨、做空美元",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-24/doc-iniwfwah1831943.shtml",
@@ -296,90 +408,6 @@
       "period": "noon",
       "date": "2026-10-23",
       "time": "14:37",
-      "keywords": []
-    },
-    {
-      "title": "全球市值“股王”，盘中易位！",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-23/doc-iniwfruh5084942.shtml",
-      "content": "10月23日，美国三大股指开盘走低。截至发稿，道琼斯工业指数跌0.32%，纳斯达克指数跌0.44%，标普500指数跌0.34%。 苹果、英伟达盘初上演全球市值“股王”争夺战。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "14:33",
-      "keywords": []
-    },
-    {
-      "title": "美国10月制造业PMI升至56.0，超出市场预期，制造业扩张速度加快",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwfrun2588250.shtml",
-      "content": "美国10月制造业采购经理人指数（PMI）录得56.0，高于市场预期的55.4，也高于前值55.9，表明美国制造业活动继续扩张，且扩张速度略有加快。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "14:33",
-      "keywords": []
-    },
-    {
-      "title": "V型反弹！下周A股怎么走？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-23/doc-iniwfrue8310194.shtml",
-      "content": "来源：国际金融报 10月23日，A股早盘延续跌势，随后震荡回升，午后快速拉升，市场情绪回暖；4526只个股收涨，通信板块迎来明显反转，计算机、传媒、电力设备板块领涨。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "14:23",
-      "keywords": []
-    },
-    {
-      "title": "翻倍牛股13天8板，单季盈利却不到21万元",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-23/doc-iniwfrun2575499.shtml",
-      "content": "记者丨凌晨 编辑丨郑世凤，魏雯静 10月23日，三季报发布次日，九阳股份股价持续降温。这只过去半个月里最热闹的小家电股票在高位剧烈震荡，在过去一个月内曾录得13天8板。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "14:04",
-      "keywords": []
-    },
-    {
-      "title": "美国10月密歇根大学消费者信心指数降至48，但高于市场预期",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwfruk1835884.shtml",
-      "content": " 美国10月密歇根大学消费者信心指数录得48.0，较前值48.1小幅下降0.1点，但高于市场预期的46.3，表明消费者信心虽然仍处于较低水平，但实际表现好于经济学家此前的预测。",
-      "priority": "medium",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "14:04",
-      "keywords": []
-    },
-    {
-      "title": "产品量价齐升 国城矿业第三季度净利润大增近3倍",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-23/doc-iniwfrun2565972.shtml",
-      "content": "上证报中国证券网讯 国城矿业10月23日晚间公布2026年三季报，7-9月，公司实现营业收入17.62亿元，同比增长44.66%；归母净利润4.69亿元，同比大增286.42%；扣非后净利润4...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "13:50",
       "keywords": []
     },
     {
@@ -609,6 +637,216 @@
       ]
     },
     {
+      "title": "报道：美国将部分外交人员及其家属撤离中东驻地",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhnxy1602777.shtml",
+      "content": "据多名知情人士透露，随着地区局势升级的威胁迫近，美国正匆忙从多个中东驻地撤离部分外交官及其家属。 这些撤离被描述为令人沮丧且混乱的“似曾相识”——许多离开的人不久前...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-23",
+      "time": "22:53",
+      "keywords": []
+    },
+    {
+      "title": "古巴外长驳斥特朗普“顺道解决古巴”言论",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-24/doc-iniwhhsa1724593.shtml",
+      "content": "转自：新华网 新华社哈瓦那/华盛顿10月23日电（记者蒋彪 黄强）针对美方所谓“顺道解决古巴”言论，古巴外长罗德里格斯23日驳斥说，古巴拒绝美国对其发出的一切威胁。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-23",
+      "time": "22:21",
+      "keywords": []
+    },
+    {
+      "title": "10月24日外盘头条：俄乌同意奥列什基停火 特朗普拟豁免更多加拿大产品关税 美国将氦列入关键材料清单",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhry5046368.shtml",
+      "content": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、俄乌同意奥列什基停火，泽连斯基称11月举行新一轮和平会谈 2、共和党参议员选情告急 特朗普拟豁免更多加拿大产品关税...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-23",
+      "time": "21:54",
+      "keywords": []
+    },
+    {
+      "title": "俄乌同意奥列什基停火，泽连斯基称11月举行新一轮和平会谈",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhse2440163.shtml",
+      "content": "乌克兰和俄罗斯周五表示，双方已同意在俄罗斯占领的乌克兰城镇奥列什基实现停火，该停火由美国第一夫人梅拉尼娅·特朗普斡旋促成。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-23",
+      "time": "21:48",
+      "keywords": []
+    },
+    {
+      "title": "一油轮在霍尔木兹海峡附近遇袭 船舶单周通航量下降",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-24/doc-iniwhhrw8274402.shtml",
+      "content": "英国海上贸易行动办公室23日通报，一艘油轮在驶出霍尔木兹海峡途中遭不明发射物击中，随后继续驶往下一停靠港。该办公室同日发布周报显示...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-23",
+      "time": "21:43",
+      "keywords": []
+    },
+    {
+      "title": "以色列总理有关应对国际制裁言论引发国内担忧",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-24/doc-iniwhhsa1712855.shtml",
+      "content": "△以色列总理内塔尼亚胡（资料图）以色列总理内塔尼亚胡23日表示，他已下令为以色列可能面临的国际经济和金融制裁做好准备。但以国内舆论认为...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-23",
+      "time": "21:33",
+      "keywords": []
+    },
+    {
+      "title": "古巴外长驳斥美方所谓“顺道解决古巴”言论",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-24/doc-iniwhhsa1701634.shtml",
+      "content": "△古巴外长罗德里格斯（资料图）针对美方所谓“顺道解决古巴”言论，古巴外长罗德里格斯23日驳斥说，古巴拒绝美国对其发出的一切威胁。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-23",
+      "time": "21:28",
+      "keywords": []
+    },
+    {
+      "title": "特朗普与普京达成协议后 装载俄罗斯柴油的油轮驶向美国",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhsa1682591.shtml",
+      "content": " 一艘装载柴油的油轮驶离俄罗斯普里莫尔斯克港，并间歇性地将纽约显示为目的地，这可能是俄罗斯总统普京与美国总统特朗普达成燃料供应协议后的首次运输。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-23",
+      "time": "21:06",
+      "keywords": []
+    },
+    {
+      "title": "共和党参议员选情告急 特朗普拟豁免更多加拿大产品关税",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhrw8226106.shtml",
+      "content": "特朗普政府准备扩大对加拿大产品的关税豁免范围，而此举可能有助于提升共和党参议员苏珊·柯林斯在缅因州的连任选情。 科林斯周五在一份声明中宣布...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-23",
+      "time": "21:03",
+      "keywords": []
+    },
+    {
+      "title": "土埃巴沙四国外长：以色列的占领行为是地区动荡根源",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-24/doc-iniwhhse2416138.shtml",
+      "content": "当地时间10月23日晚，土耳其、埃及、巴基斯坦和沙特阿拉伯四国外长在伊斯坦布尔举行会议后发表联合声明，就巴勒斯坦问题、也门局势及霍尔木兹海峡通航等阐明共同立场...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-23",
+      "time": "20:57",
+      "keywords": []
+    },
+    {
+      "title": "泽连斯基称安全保障是乌方谈判“核心要素”",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-24/doc-iniwhhse2412700.shtml",
+      "content": "△乌克兰总统泽连斯基（资料图）乌克兰总统泽连斯基23日在美国智库哈得孙研究所一场线上会议上表示，安全保障是乌方谈判的“核心要素”，“必须切实可靠”。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-23",
+      "time": "20:52",
+      "keywords": []
+    },
+    {
+      "title": "佩斯科夫：俄美乌三方谈判将于11月上旬在阿布扎比启动",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-24/doc-iniwhhrw8209967.shtml",
+      "content": "转自：央视新闻△佩斯科夫（资料图） 俄罗斯总统新闻秘书佩斯科夫10月23日表示，11月上半月，俄、美、乌三方将在阿布扎比开始举行俄罗斯和乌克兰安全保障问题的谈判。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-23",
+      "time": "20:37",
+      "keywords": []
+    },
+    {
+      "title": "原油：中东供应风险推动布伦特原油逼近117美元 创6个月高点",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhse2398290.shtml",
+      "content": " 布伦特原油本周收于4月份以来最高水平，因为沙特阿拉伯遭到的袭击愈演愈烈，加剧了此前已因美伊战争而升温的供应担忧。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-10-23",
+      "time": "20:35",
+      "keywords": []
+    },
+    {
+      "title": "美国债市：国债小幅下跌 科技股抛售压力缓解且法债风险溢价收窄",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-24/doc-iniwhhse2398124.shtml",
+      "content": "随着AI担忧缓解，法国债务相关风险也有所消退，法国国债相对德国国债的风险溢价收窄，近期避险资金流对美国国债的支撑在周五减弱。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-23",
+      "time": "20:34",
+      "keywords": []
+    },
+    {
+      "title": "特朗普称可能对伊发动一次小规模“史诗怒火”行动",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-24/doc-iniwhhry4964009.shtml",
+      "content": "△美国总统特朗普（资料图）当地时间10月23日，美国总统特朗普表示，美国或许会再来一次小规模的“史诗怒火”行动，又或者伊朗会选择妥协。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-23",
+      "time": "19:42",
+      "keywords": []
+    },
+    {
       "title": "缅因共和党参议员透露特朗普将降低部分加拿大产品关税",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-24/doc-iniwhaiy8239574.shtml",
@@ -648,6 +886,20 @@
       "period": "noon",
       "date": "2026-10-23",
       "time": "17:54",
+      "keywords": []
+    },
+    {
+      "title": "泽连斯基：“星链”及“星盾”速度限制仍未解除",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-24/doc-iniwhhrw8249925.shtml",
+      "content": "当地时间10月23日，乌克兰总统泽连斯基在美国智库哈德逊研究所举行的线上会议上表示，美国太空探索技术公司（SpaceX）旗下卫星通信系统“星链”及“星盾”的终端速度限制仍未解...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-23",
+      "time": "17:40",
       "keywords": []
     },
     {
@@ -693,6 +945,48 @@
       "keywords": []
     },
     {
+      "title": "俄军宣布27日起在赫尔松方向停火并实行“静默状态”",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniwfwah1796343.shtml",
+      "content": "总台记者23日获悉，俄罗斯武装力量总参谋长、国防部第一副部长瓦列里·格拉西莫夫大将宣布，俄罗斯武装力量自莫斯科时间2026年10月27日4时起...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-23",
+      "time": "15:57",
+      "keywords": []
+    },
+    {
+      "title": "乌官员称奥列什基市即将开展解除封锁行动",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniwfwah1801078.shtml",
+      "content": "乌克兰最高拉达人民公仆党议会党团主席阿拉哈米亚23日表示，奥列什基市即将开始解除封锁，行动旨在建立持续运作的人道主义走廊，以安全疏散平民并运送援助物资。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-23",
+      "time": "15:56",
+      "keywords": []
+    },
+    {
+      "title": "中东与欧洲八国外长反对扩大地区冲突 呼吁外交对话",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniwfwae5026898.shtml",
+      "content": "当地时间10月23日傍晚，土耳其外长费丹在伊斯坦布尔主持土埃巴沙与英法德意八国外长会议后，召开新闻发布会。费丹介绍，当天，中东地区四国外长首先就地区局势...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-23",
+      "time": "15:36",
+      "keywords": []
+    },
+    {
       "title": "特朗普称美国和墨西哥即将达成贸易协议",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwfrue8367014.shtml",
@@ -704,6 +998,48 @@
       "period": "noon",
       "date": "2026-10-23",
       "time": "15:30",
+      "keywords": []
+    },
+    {
+      "title": "以军总参谋长：已在所有战线进入最高戒备状态",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniwfrue8368675.shtml",
+      "content": "△扎米尔在约旦河西岸希伯伦附近枪击事件现场当地时间23日，以军总参谋长扎米尔在约旦河西岸城市希伯伦附近的枪击事件现场表示，以军目前已在所有战线都进入最高戒备状态。...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-23",
+      "time": "15:09",
+      "keywords": []
+    },
+    {
+      "title": "泽连斯基称期待乌美俄三方会谈尽快举行",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniwfwae5121602.shtml",
+      "content": "△乌克兰总统泽连斯基（资料图）乌克兰总统泽连斯基23日表示，他已与美国总统特使威特科夫和女婿库什纳通话，与俄罗斯和美国方面会晤的计划安排在11月上半月在阿联酋阿布扎...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-23",
+      "time": "15:01",
+      "keywords": []
+    },
+    {
+      "title": "泽连斯基确认乌美俄三方会谈将于11月上半月举行",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniwfwae5049192.shtml",
+      "content": "△乌克兰总统泽连斯基（资料图）乌克兰总统泽连斯基23日表示，他已与美国总统特使威特科夫和女婿库什纳通话，与俄罗斯和美国方面举行会晤的计划安排在11月上半月。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-23",
+      "time": "15:01",
       "keywords": []
     },
     {
@@ -732,342 +1068,6 @@
       "period": "noon",
       "date": "2026-10-23",
       "time": "14:35",
-      "keywords": []
-    },
-    {
-      "title": "白宫称美国第一夫人促成俄乌在奥列什基局部停火 将便利平民疏散",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwfruk1855384.shtml",
-      "content": "白宫周五表示，俄罗斯和乌克兰已同意允许向乌克兰城市奥列什基提供人道主义援助，并为平民撤离准备通道。 声明称，这项安排将于10月29日开始...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "14:31",
-      "keywords": []
-    },
-    {
-      "title": "青海玉树州杂多县发生4.5级地震 震源深度10公里",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-23/doc-iniwfrun2584323.shtml",
-      "content": " 中国地震台网正式测定：10月23日22时14分，在青海玉树州杂多县（北纬32.50度，东经93.95度）发生4.5级地震，震源深度10公里。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "14:24",
-      "keywords": []
-    },
-    {
-      "title": "A股、港股止跌反弹，趋势何时反转？",
-      "source": "《财经》杂志",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-23/doc-iniwfrun2580485.shtml",
-      "content": "文|《财经》记者 黄慧玲 研究员 成孟琦 编辑|郭楠 10月23日，A股、港股同时上演反弹。 A股早盘走弱，沪指盘中一度失守3600点，创业板指...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "14:22",
-      "keywords": []
-    },
-    {
-      "title": "美股部分存储芯片概念股超跌反弹",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-10-23/doc-iniwfrun2577725.shtml",
-      "content": "每经AI快讯，10月23日，美股部分存储芯片概念股超跌反弹，SK海力士(SKHY.US)涨近4%，美光科技(MU.US)涨逾3%，闪迪(SNDK.US)涨2%。",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "14:15",
-      "keywords": []
-    },
-    {
-      "title": "与生活、产业和自然同行：伊利的可持续价值创造路径",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/enterprise/2026-10-23/doc-iniwfruh5049825.shtml",
-      "content": "10月20日至22日，2026可持续全球领导者大会在上海举办，伊利集团董事长兼总裁潘刚受邀就集团的ESG实践展开分享。大会期间，伊利同步发布《2025年度可持续社会价值核算报告...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "14:03",
-      "keywords": []
-    },
-    {
-      "title": "中科三环：第九届董事会第十五次会议决议公告",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-23/doc-iniwfrun2570544.shtml",
-      "content": "    证券日报网讯 10月23日，中科三环发布公告称，公司于2026年10月23日召开第九届董事会第十五次会议，审议通过公司2026年第三季度报告。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "14:02",
-      "keywords": []
-    },
-    {
-      "title": "天创股份：关于控股股东权益变动触及5%刻度的提示性公告",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-23/doc-iniwfruh5058347.shtml",
-      "content": "    证券日报网讯 10月23日，天创股份发布公告称，公司控股股东安徽先睿投资控股有限公司于2026年10月19日及10月22日通过集中竞价交易方式合计增持公司1272400股...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "14:02",
-      "keywords": []
-    },
-    {
-      "title": "歌尔股份：关于调整公司股票期权激励计划行权价格的公告",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-23/doc-iniwfruk1840405.shtml",
-      "content": "证券日报网讯 10月23日，歌尔股份发布公告称，公司第七届董事会第十二次会议于2026年10月23日召开，审议通过《关于调整公司股票期权激励计划行权价格的议案》。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "14:02",
-      "keywords": []
-    },
-    {
-      "title": "西藏巴青7.0级地震已造成16人遇难、76人受伤",
-      "source": "新华社",
-      "url": "https://finance.sina.com.cn/china/2026-10-23/doc-iniwfruk1837954.shtml",
-      "content": "新华社西藏巴青10月23日电（记者翟永冠、格桑边觉）23日下午，西藏那曲市人民政府新闻办召开新闻发布会，通报巴青县7.0级地震相关情况，截至23日15时...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "14:00",
-      "keywords": []
-    },
-    {
-      "title": "凡拓数创：关于公司股票交易严重异常波动及股票交易异常波动的公告",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-23/doc-iniwfruh5065037.shtml",
-      "content": "    证券日报网讯 10月23日，凡拓数创发布公告称，公司股票交易连续三个交易日(2026年10月21日、2026年10月22日、2026年10月23日)涨幅偏离值累计达到32.66%...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "13:53",
-      "keywords": []
-    },
-    {
-      "title": "大华股份：第九届董事会第三次会议决议公告",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-23/doc-iniwfrue8295451.shtml",
-      "content": "证券日报网讯 10月23日，大华股份发布公告称，公司于2026年10月23日召开第九届董事会第三次会议，审议通过《2026年第三季度报告》等多项议案。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "13:53",
-      "keywords": []
-    },
-    {
-      "title": "天马科技实控人及其一致行动人新增股份遭冻结 债务诉讼风险叠加",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-23/doc-iniwfrun2571975.shtml",
-      "content": "凤凰网财经讯10月23日，水产饲料、鳗鲡养殖企业天马科技发布公告，控股股东、实际控制人陈庆堂及其一致行动人新增股份被司法冻结，债务与诉讼风险持续受到市场关注。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "13:50",
-      "keywords": []
-    },
-    {
-      "title": "白宫称美国第一夫人促成俄乌在奥列什基市局部停火",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwfruk1825992.shtml",
-      "content": " 白宫称美国第一夫人促成俄乌在奥列什基市局部停火白宫在声明中表示，美国第一夫人梅拉尼娅·特朗普促成俄罗斯和乌克兰达成一项局部停火协议，范围限于奥列什基市。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "13:48",
-      "keywords": []
-    },
-    {
-      "title": "通则康威登陆创业板 公开发行3645万股",
-      "source": "观点地产网",
-      "url": "https://finance.sina.com.cn/stock/estate/integration/2026-10-23/doc-iniwfrun2563707.shtml",
-      "content": "观点网讯：10月22日，广州通则康威科技股份有限公司（股票简称：通则康威，股票代码：301718.SZ）在深圳证券交易所创业板挂牌上市。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "13:48",
-      "keywords": []
-    },
-    {
-      "title": "科大智能再向港交所递交上市申请书：毛利率走高，客户集中度上升",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-23/doc-iniwfruh5035199.shtml",
-      "content": "10月22日，科大智能（300222.SZ）发布关于重新向香港联交所递交境外上市股份(H股)发行上市申请的公告。澎湃新闻记者 李晓青",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "13:46",
-      "keywords": []
-    },
-    {
-      "title": "漳州发展：2026年中期利润分配预案的公告",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-23/doc-iniwfruh5049297.shtml",
-      "content": "    证券日报网讯 10月23日，漳州发展发布关于2026年中期利润分配预案的公告称，拟以公司总股本991,481,071股为基数，向全体股东每10股派发现金红利0.05元(含税)...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "13:43",
-      "keywords": []
-    },
-    {
-      "title": "江瀚新材：第二届董事会第二十三次会议决议公告",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-23/doc-iniwfruh5049300.shtml",
-      "content": "    证券日报网讯 10月23日，江瀚新材发布公告称，公司于2026年10月23日召开第二届董事会第二十三次会议，审议通过《关于未来三年(2026年—2028年...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "13:43",
-      "keywords": []
-    },
-    {
-      "title": "上海九百：股票交易风险提示公告",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-23/doc-iniwfruk1830870.shtml",
-      "content": "    证券日报网讯 10月23日，上海九百发布公告称，公司股票于2026年10月20日、10月21日、10月22日连续3个交易日内日收盘价格涨幅偏离值累计超过20%...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "13:43",
-      "keywords": []
-    },
-    {
-      "title": "柳钢股份：第九届董事会第三十一次会议决议公告",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-23/doc-iniwfrue8261610.shtml",
-      "content": "    证券日报网讯 10月23日，柳钢股份发布公告称，公司于2026年10月23日召开第九届董事会第三十一次会议，审议通过《关于〈柳钢股份2026年第三季度报告〉的议案》《关于调...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "13:39",
-      "keywords": []
-    },
-    {
-      "title": "岭南控股：关于拟续聘会计师事务所的公告",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-23/doc-iniwfruk1831962.shtml",
-      "content": "    证券日报网讯 10月23日，岭南控股发布公告称，公司于2026年10月23日召开第十一届董事会第三十次会议，审议通过《关于续聘会计师事务所的议案》...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "13:39",
-      "keywords": []
-    },
-    {
-      "title": "开盘：大型科技股走弱 美光科技、AMD反弹",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-23/doc-iniwfruh5022520.shtml",
-      "content": " 周五美股开盘走低。此前大型科技股遭到抛售，同时市场对美伊冲突再度爆发的担忧升温、美国原油价格站上每桶100美元，投资者情绪紧绷。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "13:38",
-      "keywords": []
-    },
-    {
-      "title": "南方传媒：关于授权使用闲置自有资金进行现金管理的公告",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-23/doc-iniwfrun2560071.shtml",
-      "content": "    证券日报网讯 10月23日，南方传媒发布公告称，公司拟以自有闲置资金购买现金管理产品，额度上限不超过人民币30亿元，该额度由公司及全资、控股子公司共同滚动使用。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "13:37",
-      "keywords": []
-    },
-    {
-      "title": "泰达股份：关于公司与中信建设有限责任公司签署战略合作框架协议的公告",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-23/doc-iniwfrun2567501.shtml",
-      "content": "    证券日报网讯 10月23日，泰达股份发布公告称，近日，公司与中信建设有限责任公司签署《战略合作框架协议》。本协议为意向性约定，不涉及具体金额...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "13:37",
-      "keywords": []
-    },
-    {
-      "title": "南方传媒：关于召开2026年第一次临时股东会的通知",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-23/doc-iniwfruh5039759.shtml",
-      "content": "    证券日报网讯 10月23日，南方传媒发布公告称，公司将于2026年11月18日召开2026年第一次临时股东会。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-23",
-      "time": "13:37",
       "keywords": []
     },
     {
