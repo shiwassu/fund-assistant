@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-27T14:53:05.883846",
+  "updated": "2026-10-27T20:55:40.859304",
   "total": 149,
   "sources": [
     "新浪财经",
@@ -7,11 +7,53 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 13,
+    "high": 9,
     "medium": 31,
-    "low": 105
+    "low": 109
   },
   "items": [
+    {
+      "title": "10月28日收盘：纳指涨超1% 芯片股走强 市场静待美联储决议",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-28/doc-iniwtiac4053626.shtml",
+      "content": "周二，美股三大指数集体上涨，芯片股与AI概念股再度领涨，Anthropic申请在纳斯达克上市也进一步提振了市场对AI交易的信心。油价回落，市场关注美联储利率决议...",
+      "priority": "high",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-10-27",
+      "time": "20:35",
+      "keywords": []
+    },
+    {
+      "title": "纽约汇市：美元上涨 市场静候美联储和加拿大央行利率决议",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-28/doc-iniwtiac4046677.shtml",
+      "content": "美元兑十国集团其他货币涨跌互现，投资者正等待美联储和加拿大央行将于周三宣布的利率决定。 彭博美元指数上涨0.2%，报1225.22；10年期美国国债收益率持稳，报4.98%。",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-10-27",
+      "time": "20:03",
+      "keywords": []
+    },
+    {
+      "title": "美联储预计将维持利率不变 但沃什可能为更多加息指明方向",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwswnn6886381.shtml",
+      "content": " 美联储官员本周进入政策会议之际，正围绕一个关键问题展开辩论：对于目前没有立即消退迹象的通胀问题，美联储能够做什么、应该做什么以及将会做什么。",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "15:18",
+      "keywords": []
+    },
     {
       "title": "SoFi 财报业绩超预期，股价大幅上涨14%",
       "source": "环球市场播报",
@@ -38,104 +80,6 @@
       "period": "noon",
       "date": "2026-10-27",
       "time": "14:40",
-      "keywords": []
-    },
-    {
-      "title": "奥本海默维持CoreWeave目标价150美元：债券市场过度担忧GPU贬值，股价一个月暴跌37%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwssem4370745.shtml",
-      "content": "奥本海默（Oppenheimer）10月27日重申对AI云计算服务商CoreWeave（CRWV）的“跑赢大盘”评级，并维持150美元的目标股价。尽管CoreWeave过去一个月股价累计下跌37%...",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "14:10",
-      "keywords": []
-    },
-    {
-      "title": "厦门银行董事方易任职资格获核准",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-10-27/doc-iniwsseq6967238.shtml",
-      "content": "10月27日金融一线消息，国家金融监督管理总局厦门监管局发布批复，核准方易厦门银行股份有限公司董事的任职资格。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:48",
-      "keywords": []
-    },
-    {
-      "title": "财务造假，退市！A股一公司明起摘牌",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/stock/s/2026-10-27/doc-iniwsseu0221611.shtml",
-      "content": " 元道退（301139）10月27日公告称，公司股票已被深交所决定终止上市，于2026年9月30日进入退市整理期，最后交易日期为2026年10月27日，将于2026年10月28日被摘牌。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:33",
-      "keywords": []
-    },
-    {
-      "title": "开盘：三大股指齐涨，芯片股连续第二日上涨，油价回落",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsseu0219406.shtml",
-      "content": " 周二，受芯片制造企业热度带动，交易资金连续第二个交易日涌入芯片板块。与此同时，美联储开启为期两天的政策会议，交易员关注油价下行走势，并研读大量企业财报。",
-      "priority": "high",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:30",
-      "keywords": []
-    },
-    {
-      "title": "Anthropic冲刺万亿IPO：十年算力账单高悬，收入能否持续疯狂",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/roll/2026-10-27/doc-iniwssem4353237.shtml",
-      "content": "“如果上市后表现不佳，投资者不得不对AI企业重新定价。” 一场检验华尔街对AI繁荣信心的IPO正式拉开序幕。 当地时间10月26日，美国人工智能大模型公司Anthropic向美国证券交...",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:19",
-      "keywords": []
-    },
-    {
-      "title": "榆林榆阳民生村镇银行获批解散 全部业务由民生银行承继",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-10-27/doc-iniwssem4351175.shtml",
-      "content": "10月27日金融一线消息，陕西金融监管局发布关于榆林榆阳民生村镇银行股份有限公司解散的批复，同意解散榆林榆阳民生村镇银行股份有限公司，该行全部业务、财产...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:17",
-      "keywords": []
-    },
-    {
-      "title": "美联储按兵不动 是大选期间避嫌 还是有其他考量？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/roll/2026-10-27/doc-iniwsses3718971.shtml",
-      "content": "来源：汇通网 汇通财经APP讯——尽管最新通胀数据释放偏强信号，但受前期预期引导、选举时间窗口以及金融市场波动等多重因素约束，市场普遍押注美联储本周暂缓加息。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:17",
       "keywords": []
     },
     {
@@ -204,6 +148,146 @@
       ]
     },
     {
+      "title": "欧洲股市上涨 受油价下跌和美国数据提振 汇丰下挫",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-28/doc-iniwtauf4168401.shtml",
+      "content": "欧洲股市周二上涨，油价下跌和强劲的美国经济数据带来的提振，盖过了指数权重股汇丰控股业绩令人失望的影响。 斯托克欧洲600指数收盘上涨0.5%，矿业股和科技股表现领先...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-27",
+      "time": "18:59",
+      "keywords": []
+    },
+    {
+      "title": "美国10月消费者信心指数大幅高于预期",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-28/doc-iniwswnn6932024.shtml",
+      "content": "周二发布的一项调查显示，随着汽油价格回落、就业前景小幅好转，10 月消费者信心有所回升。 美国世界大型企业联合会（Conference Board）月度信心指数录得 91.7...",
+      "priority": "medium",
+      "sectors": [
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "17:05",
+      "keywords": []
+    },
+    {
+      "title": "斯蒂芬斯投行给予Mama’s Creations增持评级",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-28/doc-iniwswnq3707504.shtml",
+      "content": "斯蒂芬斯投行对股票代码 MAMA 开启首次覆盖，给予增持（overweight）评级。 该机构给出 19 美元的目标价，相较周一收盘价，意味着股价尚有 55% 的上涨空间。",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "17:04",
+      "keywords": []
+    },
+    {
+      "title": "本田警告：加拿大汽车关税若上调至50%，将重创汽车行业",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-28/doc-iniwswnn6925824.shtml",
+      "content": "核心要点本田高管珍妮弗・托马斯表示，计划于 1 月 1 日上调的加拿大整车及零部件关税，将给汽车行业带来 “灾难性” 后果。美国总统唐纳德・特朗普威胁...",
+      "priority": "medium",
+      "sectors": [
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "16:49",
+      "keywords": []
+    },
+    {
+      "title": "打破部门壁垒的生物科技领军人物",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-28/doc-iniwswns0135775.shtml",
+      "content": "杰夫・莱登在生物科技行业拥有一段堪称传奇的经历。2012 年，当时 Vertex 制药处境艰难，莱登出任首席执行官，彼时公司股价不足 40 美元。",
+      "priority": "medium",
+      "sectors": [
+        "医药"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "16:22",
+      "keywords": []
+    },
+    {
+      "title": "本田警告：加拿大汽车关税若升至50% 将对汽车行业造成灾难性打击",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwswnn6901826.shtml",
+      "content": "本田汽车一名高管周二警告称，如果美国和加拿大无法在年底前达成新的贸易协议，汽车行业将面临“灾难性”局面。 美国总统特朗普威胁称，如果两国不能达成协议...",
+      "priority": "medium",
+      "sectors": [
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "15:56",
+      "keywords": []
+    },
+    {
+      "title": "卢拉胜选冲击巴西市场 但GQG的Jain称此时抛售是个“错误”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwswnq3676788.shtml",
+      "content": " 在卢拉出人意料地再次当选后，投资者纷纷撤离巴西市场，而Rajiv Jain正准备再次采取他过去使用的策略：在市场恐慌之际买入。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "15:51",
+      "keywords": []
+    },
+    {
+      "title": "多家A股公司宣布回购",
+      "source": "一财网",
+      "url": "https://finance.sina.com.cn/wm/2026-10-27/doc-iniwswnn6897708.shtml",
+      "content": "10月27日晚，多家A股公司宣布回购兆易创新：已累计回购300.86万股支付金额11.15亿元 存储龙头兆易创新公告称，公司拟使用10亿元—20亿元自有及/或自筹资金以集中竞价方式回...",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "15:39",
+      "keywords": []
+    },
+    {
+      "title": "临床试验受挫拖累利润，诺华仍上调业绩指引",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwswnq3670386.shtml",
+      "content": "首席财务官穆库尔・梅塔表示，公司增长处境已经改观，彻底走出专利悬崖诺华对神经肌肉候选药物 del‑desiran 计提 19 亿美元资产减值。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "15:36",
+      "keywords": []
+    },
+    {
+      "title": "波音大跌10% 第三季度亏损1.16亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwswni4258173.shtml",
+      "content": "核心要点得益于防务板块销售额上涨，波音第三季度亏损有所收窄。公司营收超出市场预期，但每股亏损高于预期。波音同时表示，计划在 2027 年下半年提高其主力机型 737 MAX...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "15:16",
+      "keywords": []
+    },
+    {
       "title": "专注科技与国家安全的全新风投基金正式设立",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwssem4383176.shtml",
@@ -232,6 +316,20 @@
       "keywords": []
     },
     {
+      "title": "今夜，利好来袭！净利暴增16846.38%，A股密集发布！",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-10-27/doc-iniwssem4378355.shtml",
+      "content": "A股利好消息再度密集袭来。 今日（10月27日）晚间，超800家A股公司披露三季报，电子、石油石化、有色金属、锂电等板块业绩表现突出，多家公司净利同比增超10倍。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "14:34",
+      "keywords": []
+    },
+    {
       "title": "瑞波与罗宾汉达成合作，扩大RLUSD数字美元的应用规模",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsses3767441.shtml",
@@ -257,160 +355,6 @@
       "period": "noon",
       "date": "2026-10-27",
       "time": "14:21",
-      "keywords": []
-    },
-    {
-      "title": "百亿私募出手，自购1亿元！",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-27/doc-iniwsseq6990482.shtml",
-      "content": "来源：中国基金报 【导读】诚奇基金自购旗下产品1亿元，年内34家私募自购金额已超17亿元 中国基金报记者 孙越 又有百亿私募大手笔自购！",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "14:21",
-      "keywords": []
-    },
-    {
-      "title": "泡泡玛特三季报“暗淡”，段永平持股浮亏逾10%",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-10-27/doc-iniwsses3762723.shtml",
-      "content": " 10月27日，泡泡玛特在港交所披露2026年第三季度最新业务状况。公告显示，公司第三季度整体收益较2025年同期下降45%至50%。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "14:11",
-      "keywords": []
-    },
-    {
-      "title": "Moderna年内暴涨545%后遭威廉布莱尔降级：癌症疫苗前景已充分计入股价",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsses3752034.shtml",
-      "content": "10月27日，投资银行威廉布莱尔（William Blair）将Moderna（MRNA）的股票评级从“跑赢大盘”下调至“与大盘持平”，理由是股价大幅上涨后...",
-      "priority": "medium",
-      "sectors": [
-        "医药"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:59",
-      "keywords": []
-    },
-    {
-      "title": "花旗：美股小盘股空头仓位接近历史极值，警惕市场情绪逆转引发逼空行情",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwssem4359572.shtml",
-      "content": "花旗集团10月27日在最新研报中警告，美国小盘股空头仓位仍接近历史极端水平，一旦出现推动市场情绪改善的催化因素，可能引发大规模空头回补，推动股价快速反弹。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:40",
-      "keywords": []
-    },
-    {
-      "title": "覆铜板龙头，净利大增1012.67%",
-      "source": "上海证券报·中国证券网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-27/doc-iniwssem4360761.shtml",
-      "content": "10月27日晚间，金安国纪(002636)披露2026年三季报，公司前三季度实现营业收入65.43亿元，同比增长101.25%；归属于上市公司股东的净利润19.24亿元，同比增长1012...",
-      "priority": "medium",
-      "sectors": [
-        "有色"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:38",
-      "keywords": []
-    },
-    {
-      "title": "建元信托：关于召开2026年第三季度业绩说明会的公告",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-27/doc-iniwsseu0221954.shtml",
-      "content": "    证券日报网讯 10月27日，建元信托发布公告称，公司计划于2026年11月5日13:00-14:00举行2026年第三季度业绩说明会。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:32",
-      "keywords": []
-    },
-    {
-      "title": "医疗AI落地难？ 迈瑞医疗把答案放回病床边",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/enterprise/cn/2026-10-27/doc-iniwsseq6950211.shtml",
-      "content": "在医疗AI行业，“试点”仍是主流叙事。过去几年，识别影像异常、自动生成病历、辅助分诊、预测风险，论文在增加、获批产品层出不穷...",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:28",
-      "keywords": []
-    },
-    {
-      "title": "北美市场需求疲软，可口可乐仍上调盈利预期",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwssem4353475.shtml",
-      "content": "核心要点可口可乐季度盈利与营收均超出华尔街分析师预期。公司已经连续第三个季度上调全年业绩预测。2026 年 9 月 15 日，意大利巴里的超市货架上摆放着多组 4×200...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:24",
-      "keywords": []
-    },
-    {
-      "title": "防务业务收入增长，波音第三季度亏损收窄",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwssem4352807.shtml",
-      "content": "核心要点受防务板块销售额提振，波音第三季度亏损有所收窄。公司营收超出市场预期，但每股亏损高于预期。波音管理层将于美国东部时间上午 10：30 召开财报电话会议。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:22",
-      "keywords": []
-    },
-    {
-      "title": "最高回购价411.95元/股！存储龙头兆易创新，已耗资11亿元回购股份，拟全部注销，股价较年内高点回撤逾六成",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-27/doc-iniwssem4351506.shtml",
-      "content": "每经记者|张益铭每经编辑|黄博文 10月27日盘后，兆易创新（SH603986，股价268.98元，市值1897.15亿元）发布《关于以集中竞价交易方式回购A股股份的进展公告》...",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:18",
-      "keywords": []
-    },
-    {
-      "title": "票息超3%，为何赚不到钱？外币理财被汇率改写收益账，41只产品中仅澳元实现正收益，最高超4%",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/roll/2026-10-27/doc-iniwsseu0213234.shtml",
-      "content": "财联社10月27日讯（编辑 王蔚）外币理财的收益账，正在被汇率改写。 财联社据联合智评统计数据，截至10月27日，全市场存续及在售的公募非美元外币理财产品共41只...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:14",
       "keywords": []
     },
     {
@@ -672,6 +616,400 @@
       ]
     },
     {
+      "title": "博索纳罗巴西败选后行踪成谜 据报正在飞往美国",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-28/doc-iniwtiam9911360.shtml",
+      "content": " 巴西媒体Folha de S.Paulo援引弗拉维奥·博索纳罗的盟友消息报道，博索纳罗在总统大选败选并被勒令交出护照后已经逃离巴西。博索纳罗目前面临多项刑事调查。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-27",
+      "time": "20:10",
+      "keywords": []
+    },
+    {
+      "title": "Solidigm拟投450亿美元新建美国芯片厂",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-28/doc-iniwtiak3485980.shtml",
+      "content": " 据知情人士透露，韩国存储芯片制造商SK海力士旗下Solidigm Inc．正就投资450亿美元在美国新建芯片工厂的计划与华府谈判。",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-10-27",
+      "time": "20:03",
+      "keywords": []
+    },
+    {
+      "title": "国防科技公司Anduril创始人：即使民主党大胜 美国国防开支料仍稳定",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-28/doc-iniwtiah6708826.shtml",
+      "content": " Anduril Industries Inc．创始人Palmer Luckey表示，即使民主党在下周的中期选举中赢得国会控制权，他预计美国国防开支也将大体保持稳定。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-27",
+      "time": "19:53",
+      "keywords": []
+    },
+    {
+      "title": "Anthropic冲刺超级IPO 接下来投资者需关注的五件事",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-28/doc-iniwtiah6708679.shtml",
+      "content": " Anthropic PBC公开提交了首次公开募股（IPO）申请文件，这是迈向前沿人工智能模型公司史上首次上市的一个重要里程碑。以下是未来几周投资者需要关注的五件事。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-27",
+      "time": "19:52",
+      "keywords": []
+    },
+    {
+      "title": "巴西调查博索纳罗竞选是否获外国非法资助 涉美国副总统万斯关联团体",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/world/2026-10-28/doc-iniwtaun3613716.shtml",
+      "content": " 巴西最高法院一名法官下令联邦警察调查败选候选人弗拉维奥·博索纳罗的总统竞选活动是否存在非法外国资助，其中涉及一个与美国副总统JD·万斯有关联的团体。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-27",
+      "time": "19:41",
+      "keywords": []
+    },
+    {
+      "title": "美国5年期国债中标收益率略高于发行前交易水平 需求略逊预期",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-28/doc-iniwtauf4169431.shtml",
+      "content": "美国财政部发行700亿美元5年期国债，中标收益率为4.845%，而纽约时间下午1点投标截止时的发行前交易水平为4.841%。中标收益率高于发行前交易水平，显示需求略逊预期。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-27",
+      "time": "19:07",
+      "keywords": []
+    },
+    {
+      "title": "甲骨文与谷歌、英特尔、英伟达等扩大合作 股价一度涨5%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-28/doc-iniwtauk6829285.shtml",
+      "content": "甲骨文宣布，将通过甲骨文云基础设施（Oracle Cloud Infrastructure，简称OCI）提供谷歌张量处理单元（Google TPU），这是公司周二宣布的一系列新合作及扩大现有合作的一部...",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-10-27",
+      "time": "19:07",
+      "keywords": []
+    },
+    {
+      "title": "欧洲债市：英债收益率持稳 英国预算案公布在即",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-28/doc-iniwtauq0031287.shtml",
+      "content": "英国国债收益率总体持稳，短期国债收益率小幅走高，交易员等待周三公布的预算案。 欧元区债券也相对平稳，不过法国国债表现落后。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-27",
+      "time": "18:58",
+      "keywords": []
+    },
+    {
+      "title": "竞选巴西总统失败的博索纳罗正在前往美国途中",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-28/doc-iniwswnq3712230.shtml",
+      "content": "弗拉维奥·博索纳罗亲近盟友表示，这位巴西参议员在竞选总统失败后决定逃亡美国，目前已经在路上。 其所乘航班应会在数小时后抵达。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "17:27",
+      "keywords": []
+    },
+    {
+      "title": "FBI官员的律师猛烈抨击特殊新增刑事指控：“政府行为骇人听闻”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-28/doc-iniwswns0143803.shtml",
+      "content": "核心要点一名前 FBI 官员的代理律师猛烈抨击华盛顿联邦检察官，在庭审听证会开始前数小时，向其案件中加入一份 “未签字、未经宣誓” 的刑事指控文书。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "17:02",
+      "keywords": []
+    },
+    {
+      "title": "随着假日购物季临近，季节性招聘释放“喜忧参半”的信号",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-28/doc-iniwswni4279729.shtml",
+      "content": " 亚马逊 10 月 20 日对外公布，为迎接购物旺季，计划招聘超 30 万名全职、兼职以及季节性员工。2025 年亚马逊曾承诺提供 25 万个假日岗位，岗位数量同比提升 20%。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "16:55",
+      "keywords": []
+    },
+    {
+      "title": "甲骨文将在AI云服务中引入Cerebras计算机 为英伟达挑战者再添大客户",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-28/doc-iniwswnn6927326.shtml",
+      "content": " 甲骨文将在其数据中心提供基于Cerebras Systems Inc．计算机的云服务，这意味着，这家挑战英伟达在人工智能（AI）硬件领域主导地位的新兴公司再添一家大型客户。",
+      "priority": "low",
+      "sectors": [
+        "半导体",
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "16:53",
+      "keywords": []
+    },
+    {
+      "title": "距离选举日仅剩一周：预测市场押注民主党有望掌控参众两院",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-28/doc-iniwswns0142021.shtml",
+      "content": "核心要点距离选举日还有一周，预测交易平台的交易者定价显示，民主党有望一举拿下众议院与参议院控制权。民调显示民主党在众议院占优；而参议院归属取决于多个传统倾向共和...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "16:51",
+      "keywords": []
+    },
+    {
+      "title": "AI融资焦虑或近顶峰 亿万富豪Novogratz预计信贷市场将趋稳",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-28/doc-iniwswnn6925858.shtml",
+      "content": " 加密金融服务和人工智能数据中心运营商Galaxy Digital Inc．的亿万富豪创始人兼首席执行官Michael Novogratz表示，全球信贷市场对AI支出的焦虑可能已接近缓解的转折点。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "16:49",
+      "keywords": []
+    },
+    {
+      "title": "美国航空上调里程奖励信用卡年费，为2018年以来首次",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-28/doc-iniwswns0141302.shtml",
+      "content": "核心要点美国航空将花旗 AAdvantage 白金精选世界精英万事达卡年费从 99 美元上调至 150 美元。航空公司发言人表示，这是该卡自 2018 年以来首次涨价。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "16:47",
+      "keywords": []
+    },
+    {
+      "title": "博索纳罗巴西败选后行踪成谜 传其可能逃往阿根廷",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-28/doc-iniwswnn6923584.shtml",
+      "content": " 在被巴西警方要求交出护照数小时后，巴西当局甚至与弗拉维奥·博索纳罗关系密切的政治盟友都不知道他的去向。有报道称，他可能已经逃往阿根廷，并准备从那里前往美国。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "16:43",
+      "keywords": []
+    },
+    {
+      "title": "哈雷‑戴维森曾期待电动化革命，如今该梦想陷入困境",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-28/doc-iniwswns0137278.shtml",
+      "content": "一度备受热捧的分拆子公司亏损持续扩大，LiveWire 首席执行官离职，重组官接管公司2022 年上市之后，多辆 LiveWire 电动摩托车停放在纽约证券交易所外。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "16:27",
+      "keywords": []
+    },
+    {
+      "title": "甲骨文扩大与OpenAI合作 将ChatGPT和Codex集成到应用中",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-28/doc-iniwswns0137050.shtml",
+      "content": " 甲骨文周二宣布扩大与OpenAI的合作，将这家AI实验室的ChatGPT和Codex引入这家软件制造商的应用中，使数据库更具可操作性。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "16:27",
+      "keywords": []
+    },
+    {
+      "title": "Meta 250亿美元股票发行认购需求约为发行规模五倍",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-28/doc-iniwswni4272280.shtml",
+      "content": " Meta扩大规模后的250亿美元股票发行获得的认购需求约为可供发行股票数量的五倍。该公司寻求筹集980亿美元，为其人工智能相关支出提供资金。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "16:20",
+      "keywords": []
+    },
+    {
+      "title": "波音下调全年交付目标 股价创18个月最大跌幅",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-28/doc-iniwswni4271107.shtml",
+      "content": " 波音公司下调全年飞机交付目标，该公司表示，将生产速度提升至更高且可持续的水平需要更多时间，该股股价应声而跌，创18个月最大跌幅。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "16:15",
+      "keywords": []
+    },
+    {
+      "title": "俄外长称俄乌冲突呈升级趋势 美俄柴油供应协议不涉政治让步",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwswnn6902496.shtml",
+      "content": "俄罗斯外长拉夫罗夫表示，俄乌冲突将继续并呈现升级趋势。 拉夫罗夫表示，芬兰总统和挪威首相在与俄罗斯总统普京通话期间，没有就乌克兰问题提出任何新内容。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "15:59",
+      "keywords": []
+    },
+    {
+      "title": "华尔街量化公司深入高校招揽科学家 与OpenAI等争夺顶尖人才",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwswnn6900601.shtml",
+      "content": "长期以来，华尔街量化公司一直是全球顶尖科学人才最赚钱的就业去处之一。AI热潮如今为这些数学家和物理学家带来了另一批财力雄厚的雇主...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "15:51",
+      "keywords": []
+    },
+    {
+      "title": "标普全球考虑分拆旗下金融数据与AI业务部门",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwswns0125943.shtml",
+      "content": "公司表示，将 Capital IQ 部门以及 Kensho 数据与平台大部分业务分拆出去，或将助力这些业务实现增长标普全球公布第三季度净利润实现增长。",
+      "priority": "low",
+      "sectors": [
+        "金融",
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "15:33",
+      "keywords": []
+    },
+    {
+      "title": "汽车广告都去哪儿了？",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwswnq3667836.shtml",
+      "content": "车企减少传统黄金时段主打品牌故事的广告，转而投向流媒体与区域电视广告本田近期推出《从基地到队长》广告，为 2027 款本田 Passport TrailSport...",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "15:31",
+      "keywords": []
+    },
+    {
+      "title": "AI建设热潮推高户外仓储需求",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwswnq3666076.shtml",
+      "content": "驱动因素 AI 繁荣浪潮的一大受益者，是工业地产里一个此前鲜为人关注的细分领域。伴随着数据中心的大规模建设，工业户外堆场的需求正在飙升；这类场地一般占地不足 10...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "15:26",
+      "keywords": []
+    },
+    {
+      "title": "波音称机翼生产滞后 2027年底前不会大幅提高737 Max产量 股价大跌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwswns0122261.shtml",
+      "content": " 波音公司预计在2027年下半年之前不会大幅提高其最畅销的737 Max飞机的产量，因为该公司正应对机翼生产进度慢于预期的问题。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "15:21",
+      "keywords": []
+    },
+    {
+      "title": "房贷利率飙升 美国新建住宅销量下降",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwssem4388588.shtml",
+      "content": "美国9月新建住宅销量小幅下降，建筑商努力降价并提供促销优惠，未能抵消抵押贷款利率飙升的影响。 美国政府周二公布的数据显示，9月新建单户型住宅销量下降0.6%...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "15:14",
+      "keywords": []
+    },
+    {
+      "title": "李在镕走访三星机器人总部 人形机器人商用提速",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsseq7011016.shtml",
+      "content": " 三星电子会长李在镕走访了作为未来核心增长引擎的机器人研发据点，外界解读此举意在布局机器人业务——三星电子的未来新增长赛道。",
+      "priority": "low",
+      "sectors": [
+        "机器人"
+      ],
+      "period": "noon",
+      "date": "2026-10-27",
+      "time": "15:00",
+      "keywords": []
+    },
+    {
       "title": "美国耐用品订单创五个月最大增幅 商用飞机订单大增",
       "source": "环球市场播报",
       "url": "https://finance.sina.com.cn/world/2026-10-27/doc-iniwsseu0242761.shtml",
@@ -697,343 +1035,6 @@
       "period": "noon",
       "date": "2026-10-27",
       "time": "14:32",
-      "keywords": []
-    },
-    {
-      "title": "苹果推出新款iMac和入门级MacBook Pro 连续第二天推新",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsses3757535.shtml",
-      "content": "苹果公司推出新款24英寸iMac和配备14英寸屏幕的入门级MacBook Pro，这是该公司全面更新电脑产品线的两项重要升级。 周二发布的新款iMac和MacBook...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "14:08",
-      "keywords": []
-    },
-    {
-      "title": "中国再保：向特定对象发行股票申请获批",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/insurance/2026-10-27/doc-iniwsses3756131.shtml",
-      "content": " 10月27日金融一线消息，中国再保险（集团）股份有限公司（简称“中国再保”）发布公告称，该公司已收到中国证监会出具的批复，同意公司向特定对象发行股票的注册申请。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "14:06",
-      "keywords": []
-    },
-    {
-      "title": "沙特最大石油出口码头附近火势受控 此前当地遇袭",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsseq6977980.shtml",
-      "content": "知情人士称，沙特阿拉伯已控制住其最大石油出口码头附近的火势。该码头位于波斯湾沿岸的拉斯坦努拉，此前当地遇袭。 知情人士称，火灾发生在周二凌晨...",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "14:03",
-      "keywords": []
-    },
-    {
-      "title": "受伊朗战事推动 欧洲游客转赴南美度假",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-10-27/doc-iniwsseq6972465.shtml",
-      "content": "南美最大航司负责人表示，由于伊朗冲突使得前往亚洲的出行风险上升，越来越多欧洲游客将南美选为更安全的度假目的地。 拉美航空（Latam...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:54",
-      "keywords": []
-    },
-    {
-      "title": "临门“急刹车”！微亿智造延迟上市，港股IPO暂缓与重构",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/newstock/2026-10-27/doc-iniwsses3753836.shtml",
-      "content": "来源：资本秘闻 继四方精创、瘦西湖文旅延迟上市之后，具身智能工业机器人企业常州微亿智造科技股份有限公司（以下简称“微亿智造”）也在临门一脚宣布延迟全球发售及于香港...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:53",
-      "keywords": []
-    },
-    {
-      "title": "德意志银行：美股或正经历年内最后一轮回调，11月中期选举后有望迎来年底上涨行情",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsseq6970732.shtml",
-      "content": "德意志银行全球宏观研究主管吉姆·里德（Jim Reid）10月27日表示，根据近百年的历史数据，美股可能正处于今年最后一轮回调的底部附近...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:52",
-      "keywords": []
-    },
-    {
-      "title": "“减肥药经济”连锁反应：谁是赢家，谁是输家？",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwssem4363400.shtml",
-      "content": "25年来，体型高大壮硕的顾客一直是艾伦·霍洛维茨定制西装店的核心客源。 但随着减肥药风靡美国——如今每十个美国人中就有一人在服用这类药物——他的客户不断流失。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:50",
-      "keywords": []
-    },
-    {
-      "title": "泰国制定数据中心新规应对AI投资热潮",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsseu0225683.shtml",
-      "content": " 泰国已制定数据中心审批新规，随着人工智能投资热潮兴起，数据中心高耗电、耗水引发担忧，泰国将对相关项目实施国家级审核。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:48",
-      "keywords": []
-    },
-    {
-      "title": "印度新增炼油产能明年投产 柴油出口将大增",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsseu0225254.shtml",
-      "content": "随着新炼油产能投产，印度柴油出口将在明年放量，为美国、欧洲等燃油紧缺市场送去亟需的供应。 印度石油部长Hardeep Singh Puri周二表示，通过新建炼厂以及现有装置扩建...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:47",
-      "keywords": []
-    },
-    {
-      "title": "苹果发布M6芯片版iMac，售价1499美元起，AI性能最高提升5倍",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwssem4362226.shtml",
-      "content": "苹果10月27日发布搭载全新M6芯片的24英寸iMac，起售价为1499美元，将于10月28日开启预订，11月6日起在全球35个国家和地区正式发售。",
-      "priority": "low",
-      "sectors": [
-        "半导体",
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:47",
-      "keywords": []
-    },
-    {
-      "title": "600621，控股股东拟变更，明日复牌",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/s/2026-10-27/doc-iniwssem4360213.shtml",
-      "content": "10月27日晚，华鑫股份（600621）（600621）发布公告，宣布控股股东上海仪电（集团）有限公司与上海国盛（集团）有限公司（简称“上海国盛集团”）...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:38",
-      "keywords": []
-    },
-    {
-      "title": "上市前两天拆车回应减配疑虑，2026 款理想 i6 升级了哪些配置？",
-      "source": "IT之家",
-      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-10-27/doc-iniwsseq6972381.shtml",
-      "content": "10月28日，2026款理想i6将正式发布。在新车上市前两天，理想汽车通过拆车直播的方式，展示了新车的内部用料、部件结构及升级细节，并针对市场关注的减配疑虑作出回应。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:33",
-      "keywords": []
-    },
-    {
-      "title": "郴电国际：关于召开2026年第三次临时股东会的通知",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-27/doc-iniwsseq6962175.shtml",
-      "content": "    证券日报网讯 10月27日，郴电国际发布公告称，公司将于2026年11月13日召开2026年第三次临时股东会。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:32",
-      "keywords": []
-    },
-    {
-      "title": "贵州轮胎：第九届董事会第十一次会议决议公告",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-27/doc-iniwsseq6976550.shtml",
-      "content": "    证券日报网讯 10月27日，贵州轮胎发布公告称，公司于2026年10月26日召开第九届董事会第十一次会议，审议通过《2026年第三季度报告》等多项议案。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:32",
-      "keywords": []
-    },
-    {
-      "title": "特力A：关于召开2026年第二次临时股东会的通知",
-      "source": "证券日报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-27/doc-iniwssem4364978.shtml",
-      "content": "    证券日报网讯 10月27日，特力A发布公告称，公司将于2026年11月24日召开2026年第二次临时股东会。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:32",
-      "keywords": []
-    },
-    {
-      "title": "多项自研硬核技术首次亮相 | 绿色动力参展2026国际环保博览会",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-10-27/doc-iniwsseq6964587.shtml",
-      "content": "10月26日，2026国际环保博览会在香港亚洲国际博览馆盛大启幕，来自15个国家及地区超340家展商参展。27日上午，生态环境部部长黄润秋出席欢迎典礼并巡馆。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:32",
-      "keywords": []
-    },
-    {
-      "title": "姆巴佩道歉不等于翻篇，皇马更不能继续“装死”",
-      "source": "极目新闻",
-      "url": "https://finance.sina.com.cn/chanjing/2026-10-27/doc-iniwsses3751054.shtml",
-      "content": "极目新闻评论员 屈旌 发表涉华不当言论一整天后，姆巴佩的道歉声明终于来了。 10月27日，在中国外交部表态“伤害中国人民感情的言行自然会遭到中国社会各界的共同抵制”...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:31",
-      "keywords": []
-    },
-    {
-      "title": "以色列大选考验内塔尼亚胡战时领导能力，特朗普呼吁选民让其重新掌权",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsseu0217921.shtml",
-      "content": "核心要点以色列将于周二举行大选，这是 2023 年 10 月 7 日哈马斯袭击事件、以及 2 月美伊开战之后以色列的首次选举。近期民调显示...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:28",
-      "keywords": []
-    },
-    {
-      "title": "世行行长班加：资本供给 “实际上不成问题”，但AI推高借贷成本",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-27/doc-iniwsseu0216800.shtml",
-      "content": "市场担忧人工智能会推高利率，但世界银行行长阿杰伊・班加周二表示，资本供给依旧充足。 班加在《美国财经论坛》节目访谈中称：“这实际上算不上一个问题。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:25",
-      "keywords": []
-    },
-    {
-      "title": "中国化学工程成功发行2026年科技创新可续期公司债券",
-      "source": "中国化学工程集团有限公司",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-27/doc-iniwsses3743537.shtml",
-      "content": "近日，中国化学工程在资本市场再创佳绩，成功发行2026年科技创新可续期公司债券，发行规模12亿元，期限3+N年，票面利率1.65%，全场认购倍数高达4.51倍...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:25",
-      "keywords": []
-    },
-    {
-      "title": "中国再保向特定对象发行内资股申请获证监会同意注册",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-27/doc-iniwssem4353441.shtml",
-      "content": " 10月27日，中国再保险（集团）股份有限公司（中国再保，01508.HK）发布公告称，该公司已收到中国证监会出具的批复，同意公司向特定对象发行股票的注册申请。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:23",
-      "keywords": []
-    },
-    {
-      "title": "价值近20亿元！超级“牛散”章建平夫妇，大举买入两只股票",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/wbstock/2026-10-27/doc-iniwssem4359113.shtml",
-      "content": "来源：@每日经济新闻微博#牛散章建平夫妇最新建仓#【价值近20亿元！超级“牛散”章建平夫妇，大举买入两只股票】#章建平夫妇大举买入两只股票#10月27日晚，东材科技...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:22",
-      "keywords": []
-    },
-    {
-      "title": "4GW！中来、英利、正泰中标中国电建TOPCon组件集采",
-      "source": "能源一号",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-27/doc-iniwsseu0225642.shtml",
-      "content": "10月23日，中国电建公示了2026年第一批N型(TOPCon)光伏组件4000MWp集中采购项目中标结果，包件1-3的中标人分别为泰州中来光电科技有限公司、英利能源发展有限公司...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:16",
-      "keywords": []
-    },
-    {
-      "title": "“裁缝股神”大举“押注”董明珠",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-27/doc-iniwsseq6946830.shtml",
-      "content": "10月26日晚间，格力电器披露2026年三季度报告。记者留意到，有“裁缝股神”之称的雅戈尔全资子公司宁波雅戈尔服饰有限公司在三季度新进成为格力电器的第六大股东...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-27",
-      "time": "13:16",
       "keywords": []
     },
     {
