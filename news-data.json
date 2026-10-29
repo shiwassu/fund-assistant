@@ -1,5 +1,5 @@
 {
-  "updated": "2026-10-29T13:39:36.836546",
+  "updated": "2026-10-29T19:49:18.532287",
   "total": 149,
   "sources": [
     "新浪财经",
@@ -7,135 +7,247 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 16,
-    "medium": 32,
-    "low": 101
+    "high": 24,
+    "medium": 28,
+    "low": 97
   },
   "items": [
     {
-      "title": "中国建设银行伊春分行被罚1万元：违反支付结算管理相关规定",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-10-29/doc-iniwxekr8706724.shtml",
-      "content": "10月28日金融一线消息，据中国人民银行伊春市分行行政处罚决定信息公示表显示，中国建设银行股份有限公司伊春分行因违反支付结算管理相关规定...",
+      "title": "欧洲债市：欧洲央行维持利率不变 短期债券上涨",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxqyk2588733.shtml",
+      "content": "欧洲政府债券收益率曲线呈扭曲式陡峭化，短期限债券表现更佳。欧洲央行维持利率不变，但决策者暗示仍准备在12月加息。 市场目前定价显示...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-10-29",
+      "time": "18:06",
+      "keywords": []
+    },
+    {
+      "title": "Alphabet债务风险指标上升 财报令AI举债担忧再起",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxksn2704387.shtml",
+      "content": " Alphabet Inc．股价周四暴跌之际，其债务违约保护成本上升。此前该公司业绩令人失望，加剧了市场对其举债支持的巨额人工智能（AI）支出可能无法获得回报的担忧。",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "17:14",
+      "keywords": []
+    },
+    {
+      "title": "HEYDUDE品牌销售重回增长，卡骆驰股价暴涨25%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxksk5923467.shtml",
+      "content": "卡骆驰（股票代码 CROX）周四股价大涨 25%，创下两年多以来的股价新高。这家鞋企旗下乐福鞋品牌 HEYDUDE 销售重回增长轨道，同时 2026 年销售前景上调...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "17:04",
+      "keywords": []
+    },
+    {
+      "title": "170亿美元收购交易官宣：DoorDash股价大涨，Instacart股价下跌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxksk5915111.shtml",
+      "content": "DoorDash（股票代码 DASH）于周四上午宣布，将以 170 亿美元的总价收购 Instacart（股票代码 CART）。 主营餐饮外卖业务的 DoorDash...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "16:36",
+      "keywords": []
+    },
+    {
+      "title": "财报出炉后，为何微软股价没有像谷歌那样遭遇重挫",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxksk5908352.shtml",
+      "content": " 字母表（Alphabet，GOOGL）财报公布后周四股价遭遇暴跌，而微软（MSFT）却安然无恙。换言之，微软股价并未跟随谷歌同步下挫。背后的原因其实很简单。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "16:18",
+      "keywords": []
+    },
+    {
+      "title": "欧洲央行据悉做好了在12月加息的准备",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxksk5904512.shtml",
+      "content": "知情人士透露，欧洲央行官员做好了通胀前景不改善的情况下在12月份加息的准备。 知情人士表示，鉴于当前数据以及中东战争对经济造成的影响，可能还需要再加息25个基点...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "16:10",
+      "keywords": []
+    },
+    {
+      "title": "拉加德称欧洲央行拥有应对债市动荡的工具",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxksr5097260.shtml",
+      "content": " 克里斯蒂娜·拉加德表示，欧洲央行拥有应对债券市场扰动的机制。目前市场猜测，欧洲央行最终可能不得不出手，以压低法国国债收益率。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "15:50",
+      "keywords": []
+    },
+    {
+      "title": "Situational Awareness据悉邀客户共同投资新云公司Fluidstack",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxksp8645818.shtml",
+      "content": " 三个月前因为对AI公司高杠杆押注而险些崩盘的Situational Awareness正在向投资者募集资金，押注新云公司Fluidstack Ltd．。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "15:49",
+      "keywords": []
+    },
+    {
+      "title": "财报喜忧参半，Chipotle大涨7.9%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxksk5894119.shtml",
+      "content": "Chipotle公布财报后，周四股价上涨 7.9%。 这家快餐连锁企业营收符合市场预期，每股收益小幅不及预期，但实现同店销售额连续第三个季度增长。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "15:47",
+      "keywords": []
+    },
+    {
+      "title": "美股医疗板块创下历史新高",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxksp8642132.shtml",
+      "content": " 受多家龙头药企财报利好带动，美股医疗保健板块周四早盘强势走高，标普医疗板块指数（．GSPHC）涨幅超过 2%，刷新历史最高点位。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "15:38",
+      "keywords": []
+    },
+    {
+      "title": "欧洲央行维持利率不变 拉加德淡化通胀扩散风险",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxksr5090916.shtml",
+      "content": " 欧洲央行行长克里斯蒂娜·拉加德淡化了通胀从能源领域向其他领域扩散的风险。此前，她将提前卸任的消息盖过了周四欧洲央行维持利率不变这一决定的关注度。",
       "priority": "high",
       "sectors": [
         "金融"
       ],
       "period": "noon",
       "date": "2026-10-29",
-      "time": "13:26",
+      "time": "15:32",
       "keywords": []
     },
     {
-      "title": "规模承压、屡遭监管处罚，天治基金新任董事长能否破局？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/fund/jjyj/2026-10-29/doc-iniwxekq2712777.shtml",
-      "content": "来源：国际金融报 时隔7个多月，天治基金终于敲定新任董事长人选。 10月29日，天治基金发布董事长变更公告，季大坤出任公司董事长，总经理林洪钧不再代为履行董事长职务。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "13:06",
-      "keywords": []
-    },
-    {
-      "title": "跌停！中金公司",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/quanshang/qsyj/2026-10-29/doc-iniwxekn5936222.shtml",
-      "content": "来源：券业雷达．行家 跌停！中金公司 刚完成“三合一”并购的中金公司，在三季报揭晓前夕，先等来的不是预喜，而是跌停。 从低开到跌停 就在今天（2026年10月29日）...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "13:05",
-      "keywords": []
-    },
-    {
-      "title": "泡泡玛特三季度收益腰斩，王宁身家一年缩水近千亿",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-10-29/doc-iniwxekr8698322.shtml",
-      "content": "来源：雷达Finance 雷达财经出品 文|丁禹 编|孟帅 10月27日下午，泡泡玛特披露2026年第三季度最新业务状况。期内，公司未经审核的整体收益较2025年同期下降45%至50%。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "13:04",
-      "keywords": []
-    },
-    {
-      "title": "天孚通信盘中跌停逼近年内低点，三季度加仓资金或已浮亏",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/roll/2026-10-29/doc-iniwxekn5933297.shtml",
-      "content": "天孚通信盘中跌停，AI硬件行情从业绩兑现走向预期重估 三季报落地并未成为天孚通信（300394.SZ）股价的支撑。10月29日，公司股价低开后一度触及“20cm”跌停，收盘报161...",
-      "priority": "high",
-      "sectors": [
-        "光模块"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "13:00",
-      "keywords": []
-    },
-    {
-      "title": "拉加德2月7日提前离任，欧洲央行谁来接棒？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-10-29/doc-iniwxekt5140564.shtml",
-      "content": "来源：汇通网 汇通财经APP讯——10月29日周四，欧洲央行行长克里斯蒂娜·拉加德在政策会议当日宣布，将于2027年2月7日提前卸任，较原定2027年10月底任期结束提前约九个月。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "12:59",
-      "keywords": []
-    },
-    {
-      "title": "盘前：纳指期货跌0.92% 谷歌母公司大跌11%",
+      "title": "ServiceNow财报后股价暴跌24%，AI颠覆行业的担忧再度抬头",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxekn5919407.shtml",
-      "content": "两家科技行业巨头公布的财报表现令人失望，再次引发市场对人工智能领域数千亿美元投资能否带来足够回报的质疑，周四全球科技股此前的上涨行情因此陷入停滞。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxksk5879928.shtml",
+      "content": "核心要点ServiceNow 股价或将迎来史上最差交易日。这家企业软件公司第三季度业绩表现平平，再度引发市场对 AI 颠覆现有商业模式的担忧。",
       "priority": "high",
       "sectors": [
-        "综合"
+        "AI"
       ],
       "period": "noon",
       "date": "2026-10-29",
-      "time": "12:30",
+      "time": "15:13",
       "keywords": []
     },
     {
-      "title": "央行上海总部：发挥上海金融“五篇大文章”工作专班作用，今年更新形成92项工作任务",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-10-29/doc-iniwwyas2807797.shtml",
-      "content": "10月29日金融一线消息，人民银行上海总部今日召开2026年第四季度新闻发布会暨上海金融“五篇大文章”专场发布会，介绍今年以来上海金融运行情况以及推进金融“五篇大文章”工作...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "12:14",
-      "keywords": []
-    },
-    {
-      "title": "谷歌季度营收增长25%，但不及市场预期",
+      "title": "欧洲央行行长拉加德即将卸任，谁是热门继任人选",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwwyas2795945.shtml",
-      "content": "尽管云业务营收同比大涨 103%，盘前股价依旧下跌 谷歌云本季度销售额大幅攀升，但母公司字母表（Alphabet）整体营收仅增长 25%，增速低于市场预期，达到 1276 亿美元...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxekt5207145.shtml",
+      "content": "核心要点克里斯蒂娜・拉加德将于 2027 年 2 月 7 日离开欧洲央行，距离任期原定结束时间提前近 9 个月。欧洲央行同时迎来多位高层换届：首席经济学家菲利普・莱恩...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-10-29",
-      "time": "11:59",
+      "time": "15:01",
+      "keywords": []
+    },
+    {
+      "title": "角逐欧央行行长：两位务实派领跑",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxekr8755110.shtml",
+      "content": " 欧洲央行下一任行长之争，目前形成两人角逐的局面：两位分别来自欧洲南、北部的央行务实派官员，都愿意重新反思长期秉持的货币政策理念。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "14:58",
+      "keywords": []
+    },
+    {
+      "title": "拉加德：除非出现意外 否则欧洲央行的行动方向非常明确",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxekt5200231.shtml",
+      "content": " 欧洲央行行长拉加德在法兰克福举行的记者会上表示，除非出现重大变化，否则“央行的行动走向对我们所有人来说是相当明确的”。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "14:46",
+      "keywords": []
+    },
+    {
+      "title": "礼来股价又创新高，过去一年累计上涨近60%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxekt5194138.shtml",
+      "content": "10月29日，美国制药巨头礼来（Eli Lilly）股价盘中最高触及1334.24美元，创历史新高，过去一年累计上涨59.36%，公司市值达到约1.15万亿美元。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "14:33",
+      "keywords": []
+    },
+    {
+      "title": "国际油价加速下挫，布油跌破110美元，比特币跌破8万美元，美国公布重大数据，美联储12月加息概率飙升",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/stock/roll/2026-10-29/doc-iniwxekt5194970.shtml",
+      "content": "国际油价加速下挫，布油跌破110美元，比特币跌破8万美元，黄金白银急跌，美国公布重大数据，美联储12月加息概率飙升 记者丨吴斌 编辑丨江佩霞，和佳 北京时间10月29日...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "14:29",
       "keywords": []
     },
     {
@@ -252,256 +364,200 @@
       ]
     },
     {
-      "title": "摩根大通首次覆盖Palantir给予“增持”评级并纳入催化剂名单，看好AI商业化及盈利增长",
+      "title": "Ares 首席执行官称因业务复杂度，避开 AI 芯片融资",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxekt5161352.shtml",
-      "content": "10月29日，摩根大通首次覆盖人工智能软件公司Palantir，给予“增持”评级及2027年12月262美元的目标价，并将其列入分析师重点关注名单。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxvhh2479238.shtml",
+      "content": "Ares Management Corp． 正避开为运行高端 AI 模型的高性能处理器提供融资，转而投资承载这些芯片的数据中心。 一名知情人士称，这家资管机构担心，如果投资 GPU...",
       "priority": "medium",
       "sectors": [
-        "金融",
+        "半导体",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-10-29",
+      "time": "19:42",
+      "keywords": []
+    },
+    {
+      "title": "报道：Partners旗舰美国私募股权基金将赎回比例限制在5%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxqym8565766.shtml",
+      "content": "英国媒体报道，Partners Group旗下旗舰美国零售基金第三季度赎回申请规模较第二季度增加逾一倍。 这家瑞士集团旗下美国私募股权母基金周四披露...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-10-29",
+      "time": "18:06",
+      "keywords": []
+    },
+    {
+      "title": "企业财报提振欧洲股市逆势走高 无惧全球科技股下跌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxqyh5807646.shtml",
+      "content": "欧洲股市周四表现优于全球其他市场，在市场对人工智能交易的担忧再度升温之际，一系列强劲的企业财报吸引了投资者。 斯托克欧洲600指数收涨0.8%...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "17:43",
+      "keywords": []
+    },
+    {
+      "title": "微软近十年来首次大举发债 认购需求高达1,150亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxqym8559666.shtml",
+      "content": " 微软大规模债券发行获得异常强劲的需求。尽管投资者的投资组合中已经充斥着与AI相关债券，他们仍为这家最高评级公司近十年来的首次大规模发债腾出了空间。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "17:42",
+      "keywords": []
+    },
+    {
+      "title": "知名炸鸡连锁突然全部门店关停",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxksr5126874.shtml",
+      "content": " 2025 年快餐市场炸鸡品类的销售增速放缓。经历 2020 年代初的 “炸鸡大战” 之后，叠加赛道竞争白热化，一旦偏离吸引顾客的核心特色，炸鸡餐饮行业就会明显遇冷。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "17:07",
+      "keywords": []
+    },
+    {
+      "title": "股票交易热度降温，罗宾汉平台散户交易习惯发生巨大转变",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxksk5921697.shtml",
+      "content": "散户的交易方式正在发生改变。 高盛策略师本・斯奈德在近期研报中写道，股票交易热度大幅下滑，资金正从传统股票市场流出。 越来越多投资者转而将资金涌入期权...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "16:59",
+      "keywords": []
+    },
+    {
+      "title": "卡特彼勒：2026年道指表现最佳个股光环褪去，即便财报超预期也未能阻挡股价崩塌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxksn2697104.shtml",
+      "content": " 华尔街仍在抛售和 AI 建设浪潮相关的股票，即便财报业绩超出预期也起不到保护作用。卡特彼勒（股票代码 CAT）财报数据好于市场预期，但股价依旧下行。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "16:56",
+      "keywords": []
+    },
+    {
+      "title": "688525，创近34月最大单日跌幅",
+      "source": "一财网",
+      "url": "https://finance.sina.com.cn/wm/2026-10-29/doc-iniwxksn2651273.shtml",
+      "content": "2026.10.29本文字数：2600，阅读时长大约4分钟作者 |第一财经李隽10月28日晚间，佰维存储（688525.SH）披露2026年三季报。第三季度公司实现营业收入61.42亿元...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "15:00",
+      "keywords": []
+    },
+    {
+      "title": "对话华领医药董事长陈力：一款首创降糖药卖了近9亿元 为何公司市值跌了七成？",
+      "source": "每日经济新闻",
+      "url": "https://finance.sina.com.cn/stock/companyt/2026-10-29/doc-iniwxekq2770533.shtml",
+      "content": "每经记者|陈星每经编辑|魏官红 华领医药（HK02552，股价2.26港元，市值23.88亿港元）2025年年报显示，华堂宁（多格列艾汀）全年销售额4.93亿元，同比增长93%...",
+      "priority": "medium",
+      "sectors": [
+        "医药"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "14:43",
+      "keywords": []
+    },
+    {
+      "title": "大型招聘机构：银行与医疗企业高薪争抢软件人才，出价超过科技公司",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxekt5198440.shtml",
+      "content": "核心要点任仕达（Randstad）的研究显示，随着 AI 相关技能需求上涨，银行、医疗企业以及其他非科技雇主向软件工程师开出的薪资已经高于科技企业。",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "14:42",
+      "keywords": []
+    },
+    {
+      "title": "TD Cowen上调微软目标价至650美元，Azure增长加速且业绩指引超预期",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxekn5990516.shtml",
+      "content": "10月29日，TD Cowen将微软（Microsoft）目标价从625美元上调至650美元，维持“买入”评级，主要看好Azure云计算业务增长加速及利润率改善前景。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "14:37",
+      "keywords": []
+    },
+    {
+      "title": "史蒂夫・艾斯曼对投资组合转向保守，AI交易临近“临界点”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxekr8744199.shtml",
+      "content": "《大空头》交易员史蒂夫・艾斯曼：很明显，Anthropic 的营收增速已经大幅放缓。 因《大空头》而闻名的史蒂夫・艾斯曼认为，人工智能板块行情正接近一个 “临界点”...",
+      "priority": "medium",
+      "sectors": [
         "AI"
       ],
       "period": "noon",
       "date": "2026-10-29",
-      "time": "13:33",
+      "time": "14:35",
       "keywords": []
     },
     {
-      "title": "开盘：三大股指集体低开 字母表、卡特彼勒发布财报后大跌",
+      "title": "炸裂！A股，利好来袭！密集公告",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-10-29/doc-iniwxekt5192979.shtml",
+      "content": "炸裂业绩来袭。 10月29日晚间，超过1200家A股公司扎堆披露三季报。Wind数据显示，当晚披露报告中，今年前三季度业绩增幅翻倍的公司超过170家。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "14:28",
+      "keywords": []
+    },
+    {
+      "title": "DoorDash将以170亿美元收购Instacart",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxekq2729415.shtml",
-      "content": "受最新一批企业财报拖累，周四美股承压，道指两只成分股盘前跌幅或将超过 10%。 道指跌0.59%，标普500指数跌0.55%，纳指跌1.41%。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxekq2761053.shtml",
+      "content": "DoorDash已同意收购生鲜配送平台Instacart，交易作价170亿美元，竞争激烈的外卖配送行业迎来新一轮整合。 这家总部位于旧金山的公司周四宣布，收购报价为每股65美元...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-10-29",
-      "time": "13:30",
-      "keywords": []
-    },
-    {
-      "title": "谷歌云步步紧逼Azure，但微软赢得投资者青睐",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxekt5159088.shtml",
-      "content": "微软与谷歌于周三发布财报，释放出大量值得解读的信息，两家分别是云计算行业的第二、第三名企业。但最值得关注的核心结论是：得益于自研张量处理单元（TPU）AI...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "13:29",
-      "keywords": []
-    },
-    {
-      "title": "Peak Energy：吸取大型电池行业失败案例的前车之鉴",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxekn5947600.shtml",
-      "content": "获得通用汽车投资的初创企业 Peak Energy 宣称，公司有望打破中国在大型储能电池领域的主导地位，这类电池主要为 AI 数据中心与电网提供电力。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "13:26",
-      "keywords": []
-    },
-    {
-      "title": "5家大行股价创下年内新高，建设银行登上A股市值首位",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-10-29/doc-iniwxekn5946739.shtml",
-      "content": "记者：李玉雯 10月29日，A股主要指数集体下挫，银行板块逆势走高。青岛银行、成都银行等区域性城商行涨幅领先，截至收盘，青岛银行报收6.33元/股，涨幅超8%。",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "13:24",
-      "keywords": []
-    },
-    {
-      "title": "美股巨头业绩不及预期引发担忧 新兴市场回落",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxekt5155211.shtml",
-      "content": "科技龙头企业业绩不及预期，重新引发市场对该行业前景的担忧，新兴市场股市周四走低，回吐前一日部分大幅涨幅。 明晟新兴市场股票指数下跌约0.9%...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "13:23",
-      "keywords": []
-    },
-    {
-      "title": "美国PCE通胀数据符合预期，美股期指继续下跌，Alphabet盘前跌超10%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxekr8699545.shtml",
-      "content": "10月29日，美国9月个人消费支出（PCE）物价指数公布后，美股三大股指期货变化不大，延续此前跌势，主要受到大型科技公司财报表现不佳的拖累。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "13:15",
-      "keywords": []
-    },
-    {
-      "title": "上海通信管理局通报41款侵害用户权益行为APP 多家支付机构旗下应用涉个人信息违规",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-10-29/doc-iniwxekq2715909.shtml",
-      "content": " 10月29日金融一线消息，上海市通信管理局今日发布上海市通信管理局关于侵害用户权益行为APP（SDK）的通报（2026年第七批）。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "13:14",
-      "keywords": []
-    },
-    {
-      "title": "拟10派21.6元，A股又现大手笔分红",
-      "source": "中国证券报-中证网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-29/doc-iniwxekn5945396.shtml",
-      "content": " 10月29日晚，一批A股公司发布最新业绩、分红方案或预案。其中，江波龙前三季度归属于上市公司股东的净利润同比增长1909.68%，拟每10股派发现金股利21.80元（含税）。",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "13:14",
-      "keywords": []
-    },
-    {
-      "title": "三只松鼠，日赚不足1万元",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-10-29/doc-iniwxekr8696141.shtml",
-      "content": "來源：国际金融报 三只松鼠的“百亿规模”如今要打上一个问号。 10月28日盘后，三只松鼠（300783.SZ）发布2026年三季报。表面看，这份“成绩单”不算难看，前三季度营收73...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "13:06",
-      "keywords": []
-    },
-    {
-      "title": "603986，前三季度净利增超9倍，朱一明、葛卫东未减持",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-10-29/doc-iniwxekq2716947.shtml",
-      "content": "来源：大众证券报 10月29日晚间，存储龙头兆易创新（603986）披露2026年三季报，前三季度公司实现营业收入202.97亿元，同比增长197.11%；归母净利润110.66亿元...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "13:04",
-      "keywords": []
-    },
-    {
-      "title": "景林、高毅、睿郡、重阳……百亿级私募持仓曝光",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-10-29/doc-iniwxekr8689736.shtml",
-      "content": "上市公司三季报密集披露过程中，百亿级私募持仓曝光。 私募排排网不完全统计数据显示，截至10月28日，共有38家百亿级私募旗下产品出现在已经披露三季报的上市公司前十大流...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "12:53",
-      "keywords": []
-    },
-    {
-      "title": "营收净利“双10%”增长 不良率降至1.11%  重庆银行三季报“量增质更优”",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/enterprise/cn/2026-10-29/doc-iniwxekr8683212.shtml",
-      "content": "10月28日，重庆银行披露2026年三季度报告。相比某个时点的规模数字，其盈利增长的连续性更值得关注：该行营收、净利润已连续5个季度保持双位数增长。",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "12:50",
-      "keywords": []
-    },
-    {
-      "title": "“老登”舆论风波后，小鹏MONA L05进军中型SUV市场，性价比策略迎来新考验",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-10-29/doc-iniwwyas2824459.shtml",
-      "content": "每经记者|孙磊每经编辑|裴健如 10月29日，小鹏MONA L05正式上市，共推出6款车型，售价为14.48万至17.68万元。新车定位中型大五座SUV，提供纯电和增程两种动力形式...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "12:42",
-      "keywords": []
-    },
-    {
-      "title": "浙商银行等更新合作助贷机构 名单制以来合作机构显著减少",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-10-29/doc-iniwwyat8807550.shtml",
-      "content": "21世纪经济报道见习记者杨梦鸽 近日，多家上市银行更新了互联网贷款合作机构名单。 与助贷新规落地初期名单普遍简单列示机构名称不同...",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "12:36",
-      "keywords": []
-    },
-    {
-      "title": "七家城商行同日交卷：净利润六增一负，兰州银行掉队",
-      "source": "",
-      "url": "https://finance.sina.com.cn/roll/2026-10-29/doc-iniwwyas2823635.shtml",
-      "content": "来源：大鱼财经工作室 10月28日晚，七家A股上市城商行集中披露2026年三季报，分别是南京银行、成都银行、青岛银行、郑州银行、苏州银行、重庆银行和兰州银行。",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "12:35",
-      "keywords": []
-    },
-    {
-      "title": "华泰柏瑞价值精选主动ETF（581090）成立，25002户参与认购",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-10-29/doc-iniwwyav5245667.shtml",
-      "content": "华泰柏瑞基金发布公告，旗下华泰柏瑞价值精选主动ETF（581090）于2026年10月29日成立。公告显示，该基金募集仅两个交易日便触及20亿元规模上限...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "12:13",
-      "keywords": []
-    },
-    {
-      "title": "花旗料双十一GMV录低至中单位数增长 指平台弃“凑单”改直降 维持阿里及京东“买入”评级",
-      "source": "港股一线",
-      "url": "https://finance.sina.com.cn/stock/hkstock/2026-10-29/doc-iniwwyat8790808.shtml",
-      "content": "花旗发研究报告表示，今年作为中国主流电商平台第18年迎战双十一，平台策略已发生显著转向，由过去的复杂的“凑单规则”全面转向“直接降价”...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "12:07",
+      "time": "14:26",
       "keywords": []
     },
     {
@@ -731,325 +787,269 @@
       ]
     },
     {
-      "title": "迈威尔据悉接近收购Lumentum，交易规模或达数百亿美元，双方股价走势分化",
+      "title": "SpaceX 最大收入来源为与 Anthropic 签订的有限期协议",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxekn5948791.shtml",
-      "content": "10月29日，有消息称，芯片制造商迈威尔科技（Marvell Technology）正就收购光通信设备供应商Lumentum展开深入谈判，交易最快可能于下周敲定。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxqyh5828471.shtml",
+      "content": "据知情人士透露，Anthropic PBC 是 SpaceX 的单一最大客户，在今年第三季度，这家客户为埃隆・马斯克旗下这家同时布局人工智能、卫星与火箭业务的企业贡献了超过三分之一的...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-10-29",
-      "time": "13:28",
+      "time": "19:22",
       "keywords": []
     },
     {
-      "title": "印尼总统胞弟警示股市风险：停止爆炒个股",
+      "title": "美军最高上将向特朗普汇报伊朗打击方案",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxekq2719898.shtml",
-      "content": "印尼总统普拉博沃·苏比安托的弟弟强调，本土股市需要具备公信力与透明度。 他周四在一场论坛上对商界领袖表示，印尼必须“化解MSCI相关问题”，停止爆炒个股。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxqyh5827964.shtml",
+      "content": "据美国官员以及了解本次会议的知情人士透露，美国中东最高指挥官周四赴白宫，当面为特朗普总统汇报针对伊朗的军事选项。美国正权衡重启大规模作战行动...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-10-29",
-      "time": "13:21",
+      "time": "19:18",
       "keywords": []
     },
     {
-      "title": "财报出炉后ServiceNow大跌19%，市场仍弥漫“SaaS 末日”担忧",
+      "title": "宁德时代寻求扩大阿根廷电网储能业务 瞄准矿山储能机会",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxekn5943852.shtml",
-      "content": "ServiceNow 表示旗下 AI 产品的客户采用率持续提升，但投资者依旧对 AI 给自身业务带来的潜在威胁心存警惕。 这家 IT 服务管理软件服务商公布第三季度财报后...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxqyh5821146.shtml",
+      "content": " 宁德时代拉美区总经理Harry Liu等高管在布宜诺斯艾利斯的活动上表示，该公司正与多家在阿根廷储能招标中胜出的企业洽谈供货事宜。宁德时代是全球最大的电池制造商。",
       "priority": "low",
       "sectors": [
-        "综合"
+        "能源"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-10-29",
-      "time": "13:21",
+      "time": "18:44",
       "keywords": []
     },
     {
-      "title": "美国上周初请失业金人数降至19.4万人，低于市场预期",
+      "title": "美国7年期国债中标收益率与发行前交易水平持平 表明需求符合预期",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxekt5149310.shtml",
-      "content": "10月29日公布的数据显示，美国截至10月24日当周初请失业金人数为19.4万人，低于市场预期的19.8万人，前值为19.5万人。初请失业金人数连续第二周下降...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxqyp5010455.shtml",
+      "content": "美国财政部发行440亿美元7年期国债，中标收益率为4.894%，与纽约时间下午1点投标截止时的发行前交易水平持平，表明需求符合预期。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-10-29",
-      "time": "13:13",
+      "time": "17:42",
       "keywords": []
     },
     {
-      "title": "星巴克推行“消费入座”后，宜家、霸王茶姬等品牌有门店试点",
-      "source": "界面",
-      "url": "https://finance.sina.com.cn/jjxw/2026-10-29/doc-iniwxekr8698676.shtml",
-      "content": " 近日，星巴克全国门店启动“消费入座”的倡议，商家消费空间与座位资源该如何管理引发关注。目前，多个品牌门店出现了类似“消费入座”的提示。",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "13:12",
-      "keywords": []
-    },
-    {
-      "title": "克里姆林宫称俄美乌会谈时间取决于乌克兰的行动",
+      "title": "美国抵押贷款利率连续第二周下降 报7.24%",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxekq2714309.shtml",
-      "content": " 据克里姆林宫助理Yuri Ushakov向俄罗斯国家电视台记者Pavel Zarubin表示，俄美乌会谈的时间将取决于乌克兰未来几天的行动。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "13:11",
-      "keywords": []
-    },
-    {
-      "title": "字节全家桶“杀疯了”，6700亿张一鸣重回中国首富",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-10-29/doc-iniwxekr8698297.shtml",
-      "content": "来源：雷达Finance 雷达财经出品 文|周慧 编|孟帅 日前，胡润研究院正式发布了《2026胡润百富榜》。时隔一年，字节跳动创始人张一鸣再度夺得中国首富之位。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "13:04",
-      "keywords": []
-    },
-    {
-      "title": "结构性存款退潮致上市公司理财大减 三季度骤降近五成",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/roll/2026-10-29/doc-iniwxekn5925202.shtml",
-      "content": "A股上市公司把闲钱放进理财产品的热情，正在快速降温。 Wind数据显示，截至2026年10月29日，年内共有1150家上市公司认购理财产品，合计金额8983.52亿元，同比减少22...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "12:51",
-      "keywords": []
-    },
-    {
-      "title": "美国经济第三季度增长超预期 创一年来最快增速",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-10-29/doc-iniwxekr8682733.shtml",
-      "content": "美国经济第三季度以一年来最快速度增长，企业投资火热以及美国消费者展现韧性，为经济增长注入强劲动力。 美国经济分析局周四发布的初步估算显示，截至9月的三个月...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "12:49",
-      "keywords": []
-    },
-    {
-      "title": "年内新发290只企业外币理财，最高年化收益4.21%，增长前景几何？",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/roll/2026-10-29/doc-iniwxekr8687089.shtml",
-      "content": " 财联社10月29日讯（编辑 王蔚）10月29日，开立医疗（300633.SZ）在深交所互动易平台回复投资者提问时表示，公司通过实施外币理财等方式，部分对冲外币贬值的风险。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "12:48",
-      "keywords": []
-    },
-    {
-      "title": "全力攻坚克难：万科前三季度营收1050亿，盘活优化及新增产能195亿",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/enterprise/cn/2026-10-29/doc-iniwwyat8798662.shtml",
-      "content": "大型房企的化险没有捷径，万科全力以赴推进化险与发展。10月29日，万科发布2026年第三季度报告。前三季度，尽管经营形势严峻，但万科攻坚克难，实现营业收入1050亿元。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "12:21",
-      "keywords": []
-    },
-    {
-      "title": "大家养老前三季度亏损2.59亿元，累计净资产收益率-8.30%",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/insurance/bxyx/2026-10-29/doc-iniwwyas2810971.shtml",
-      "content": "（图片来源：视觉中国） 蓝鲸新闻10月29日讯（记者 陈晓娟）今日，大家养老保险股份有限公司（下称“大家养老”）披露2026年第三季度偿付能力报告。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "12:19",
-      "keywords": []
-    },
-    {
-      "title": "Shopify采用维萨、万事达卡的智能体支付技术",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwwyaq6034509.shtml",
-      "content": "卡组织正推动更多商户接入自家智能体支付系统 Shopify 宣布，已经在自家结账功能 Shop Pay 中接入由维萨（Visa）、万事达卡（Mastercard）以及美国运通（American...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "12:19",
-      "keywords": []
-    },
-    {
-      "title": "英伟达发布新款开放权重语音转录模型",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwwyas2810324.shtml",
-      "content": " 英伟达周三发布了 Nemotron 3.5 Transcribe。这是一款免费、开放权重的模型，能够转录多达40种语言的音频。该公司还发布了开源语音数据集 Granary 的第二版。",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "12:18",
-      "keywords": []
-    },
-    {
-      "title": "融盛财险前三季度净亏损1601.34万元，累计净资产收益率-2.43%",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/insurance/bxyx/2026-10-29/doc-iniwwyat8797356.shtml",
-      "content": "（图片来源：视觉中国） 蓝鲸新闻10月29日讯（记者 陈晓娟）今日，融盛财产保险股份有限公司（下称“融盛财险”）披露2026年第三季度偿付能力报告。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-10-29",
-      "time": "12:18",
-      "keywords": []
-    },
-    {
-      "title": "海峡保险前三季度净亏损7025.14万元，年内迎10亿增资",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/insurance/bxyx/2026-10-29/doc-iniwwyaq6034132.shtml",
-      "content": "（图片来源：视觉中国） 蓝鲸新闻10月29日讯（记者 陈晓娟）海峡金桥财产保险股份有限公司（下称“海峡保险”）近日披露2026年第三季度偿付能力报告。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxksn2704546.shtml",
+      "content": "美国抵押贷款利率连续第二周下降，但这几乎未能提振美国房地产市场，融资成本重返7%以上已令楼市放缓进一步加剧。 房地美周四在声明中表示...",
       "priority": "low",
       "sectors": [
         "金融"
       ],
       "period": "noon",
       "date": "2026-10-29",
-      "time": "12:17",
+      "time": "17:15",
       "keywords": []
     },
     {
-      "title": "特朗普政府向核电站提供50亿美元贷款 为数据中心供电",
+      "title": "雪佛龙重返偏远区域勘探油气",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwwyaq6033165.shtml",
-      "content": " 特朗普政府将向星座能源公司（Constellation Energy）提供50亿美元贷款，用于扩大其8座核电站的发电能力，新增装机容量约11亿瓦（1.1吉瓦）。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxksk5926656.shtml",
+      "content": "在前沿勘探缩减开支、聚焦就近钻探多年之后，雪佛龙再度动身，奔赴偏远、尚未开发的区域寻找油气资源。 这家美国第二大石油巨头如今现金流充沛。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-10-29",
-      "time": "12:16",
+      "time": "17:10",
       "keywords": []
     },
     {
-      "title": "微软计划通过美国债券发行至少筹资250亿美元",
+      "title": "伊朗据报收到万斯来信但尚未回复 美伊和平谈判前景仍不明朗",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwwyav5241722.shtml",
-      "content": " 微软公司计划通过发行美元投资级债券，至少筹资250亿美元。此举将使微软加入同行的融资浪潮，通过举债为人工智能投资热潮提供资金。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxksr5120679.shtml",
+      "content": " 据伊朗半官方塔斯尼姆通讯社报道，伊朗已收到美国副总统万斯致其最高安全官员的一封信，但德黑兰尚未回复邮件。目前几乎没有迹象表明这一沟通能否促成重启和平谈判。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-10-29",
-      "time": "12:08",
+      "time": "16:48",
       "keywords": []
     },
     {
-      "title": "迈威尔科技洽谈收购Lumentum",
+      "title": "报道：俄罗斯将把柴油出口禁令延长至年底",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwwyat8790923.shtml",
-      "content": "若完成收购，这笔交易将跻身规模最大的半导体并购之列 据知情人士透露，芯片厂商迈威尔科技（Marvell Technologies）一直在洽谈收购数据中心光器件厂商Lumentum。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxksn2684278.shtml",
+      "content": " 媒体援引两名了解讨论情况的匿名人士报道，俄罗斯将把柴油出口禁令延长至年底，同时允许部分企业按照配额制度出口，以履行其对美国作出的新出口承诺。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-10-29",
-      "time": "12:08",
+      "time": "16:18",
       "keywords": []
     },
     {
-      "title": "字母表集团通过ATM上架出售计划售出124亿美元股票",
+      "title": "字母表市值或将蒸发5000亿美元，创下公司历史最大单日市值缩水",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwwyaq6024503.shtml",
-      "content": "该出售计划是公司 6 月公布的 900 亿美元股权融资总方案的组成部分 字母表集团于周三披露，依托今年早些时候推出的ATM 上架出售计划（at‑the‑market program）...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-30/doc-iniwxksp8657760.shtml",
+      "content": " 字母表（Alphabet，GOOGL）正遭遇上市以来表现最差的一个交易日。受财报发布影响，该股周四下跌约 12%，创下其 2004 年上市之后最大单日跌幅。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-10-29",
-      "time": "12:05",
+      "time": "16:15",
       "keywords": []
     },
     {
-      "title": "Foundry融资1亿美元，打造自主化工厂",
+      "title": "“联系成员” 争议或将成为加欧峰会焦点",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwwyat8786850.shtml",
-      "content": "过去几年，大型企业意识到，想要充分发挥 AI 智能体的价值，应当从零重新设计业务流程，而不只是简单地把现有工作流程自动化。如今制造企业在部署物理 AI...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxksr5096927.shtml",
+      "content": "欧盟委员会主席乌尔苏拉・冯德莱恩，正与其祖国德国在一项设想上产生分歧：她希望授予加拿大欧盟联系成员身份。这场争端，有可能让周四开幕...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-10-29",
-      "time": "12:02",
+      "time": "15:50",
       "keywords": []
     },
     {
-      "title": "上市公司跨界光伏，4年不到子公司拟申请破产！2023年掏3650万元合作入行，今子公司已负债超6811万元",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/s/2026-10-29/doc-iniwwyat8796076.shtml",
-      "content": " 上市公司跨界光伏，4年不到子公司拟申请破产！2023年掏3650万元合作入行，今子公司已负债超6811万元；相关业务停产，至今已无实际经营",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "morning",
-      "date": "2026-10-29",
-      "time": "11:59",
-      "keywords": []
-    },
-    {
-      "title": "人人都在用AI，但分歧持续加剧：WTF峰会要点汇总",
+      "title": "AI交易退潮殃及工业供应商 卡特彼勒股价大跌",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwwyaq6018527.shtml",
-      "content": "人工智能已经全面渗透商业与政治领域，但同时也开始在企业与投资者之间制造分歧。这是本周《The Information》WTF 峰会参会高管传递的核心观点 ——...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxksk5890886.shtml",
+      "content": " 卡特彼勒公司股价大跌，此前该公司公布的盈利和销售额仅略高于预期，加剧了投资者对于人工智能基础设施热潮面临越来越多挑战的不安。",
       "priority": "low",
       "sectors": [
         "AI"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-10-29",
-      "time": "11:56",
+      "time": "15:39",
+      "keywords": []
+    },
+    {
+      "title": "谷歌市值创纪录蒸发5000亿美元 AI侵蚀营收",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxksn2663424.shtml",
+      "content": "Alphabet Inc．股价一度下跌逾13%，市值蒸发逾5000亿美元，单日市值缩水规模创公司纪录。此前公司公布的搜索和广告业务营收令人失望...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "15:30",
+      "keywords": []
+    },
+    {
+      "title": "波动行情冲击热门交易 美国银行宏观交易员收缩风险敞口",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxksr5089220.shtml",
+      "content": "在全球一些最热门的交易经历了剧烈动荡之后，美国银行的宏观交易员在接近年底之际正在限制风险敞口。 美国银行全球固定收益、外汇及大宗商品宏观交易联席主管Carlos...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "15:29",
+      "keywords": []
+    },
+    {
+      "title": "谷歌创历史最大单日跌幅",
+      "source": "一财网",
+      "url": "https://finance.sina.com.cn/wm/2026-10-29/doc-iniwxksn2656230.shtml",
+      "content": "2026.10.29本文字数：856，阅读时长大约2分钟作者 |第一财经刘晓洁北京时间10月29日晚，美股开盘后谷歌（GOOGL.US）大跌，跌幅一度超13%，创其历史上最大单日跌幅纪录...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "15:08",
+      "keywords": []
+    },
+    {
+      "title": "首创证券第三季度净利润降逾五成，拟每10股派1元",
+      "source": "澎湃新闻",
+      "url": "https://finance.sina.com.cn/jjxw/2026-10-29/doc-iniwxekr8754094.shtml",
+      "content": "首创证券（601136）第三季度净利润降逾50%。 10月29日晚间，首创证券发布的《2026年第三季度报告》显示，今年第三季度，公司营业收入为4.25亿元，同比减少41...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "14:53",
+      "keywords": []
+    },
+    {
+      "title": "301468，重大资产重组方案出炉！明天复牌",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-10-29/doc-iniwxekq2771519.shtml",
+      "content": "博盈特焊重大资产重组方案出炉。 10月29日晚，博盈特焊（301468）披露重组预案，拟向7名股东收购苏州罗克莱海洋装备股份有限公司（下称“罗克莱”）55%股份...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "14:43",
+      "keywords": []
+    },
+    {
+      "title": "礼来上调全年销售预期，CEO称肥胖药物市场拥有“巨大”扩张空间",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxekq2767479.shtml",
+      "content": "核心要点礼来第三季度盈利、营收大幅超出市场预期，并上调全年销售指引。减重药Zepbound（替尔泊肽）与糖尿病药物Mounjaro（穆峰达 / 替尔泊肽）需求再度暴涨...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "14:39",
+      "keywords": []
+    },
+    {
+      "title": "房价下跌、租金上涨，双双创下三年来首次变局",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-10-29/doc-iniwxekr8742984.shtml",
+      "content": "核心要点 10 月房屋价格中位数同比下跌 0.1%。 10 月租金中位数同比上涨 0.1%。 10 月全国多户住宅空置率为 7%。 高抵押贷款利率以及对整体经济的担忧已经对房地产市场造成...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "14:32",
+      "keywords": []
+    },
+    {
+      "title": "因离婚纠纷，一上市公司实控人所持4.15亿股被冻结",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/stock/s/2026-10-29/doc-iniwxekn5989026.shtml",
+      "content": "10月29日晚间，大洋电机披露两份公告。一份是《关于控股股东、实际控制人收到协助执行通知书的公告》，公司收到广东省中山市第一人民法院《协助执行通知书》...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-10-29",
+      "time": "14:31",
       "keywords": []
     },
     {
