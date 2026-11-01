@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-01T06:46:53.465172",
+  "updated": "2026-11-01T15:26:10.660002",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,193 +7,135 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 19,
-    "medium": 27,
-    "low": 104
+    "high": 15,
+    "medium": 28,
+    "low": 107
   },
   "items": [
     {
-      "title": "刚刚，集体拉升！芯片，利好传来",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/2026-11-01/doc-inixferv6649338.shtml",
-      "content": "市场恐慌情绪或有所缓解。 11月1日下午，硬科技股在暗盘交易中集体走强。截至发稿，闪迪暗盘涨超1%，英特尔暗盘涨近1%，英伟达暗盘涨超0.85%，SK海力士...",
-      "priority": "high",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "night",
-      "date": "2026-11-01",
-      "time": "05:55",
-      "keywords": []
-    },
-    {
-      "title": "韩股失守6000点 券商建议坚守芯片股逐步加仓",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixferx3086142.shtml",
-      "content": "韩国股市过去一周剧烈震荡，波动幅度创下历史高位。其中一天，SK海力士公布创纪录业绩，市场预期其将推出大额股东回报方案，KOSPI指数单日大涨超6%；而在其他交易日...",
-      "priority": "high",
-      "sectors": [
-        "半导体",
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-11-01",
-      "time": "05:14",
-      "keywords": []
-    },
-    {
-      "title": "华尔街AI避险情绪升温 云厂商CDS与看跌期权需求激增",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixferv6630348.shtml",
-      "content": "华尔街押下数万亿美元赌注押注人工智能，如今部分投资者急于反向布局。 到目前为止，这一交易一直是持续的赢家。市场对AI变革经济潜力的乐观情绪，推高了科技巨头...",
-      "priority": "high",
-      "sectors": [
-        "黄金",
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-11-01",
-      "time": "04:56",
-      "keywords": []
-    },
-    {
-      "title": "物理AI突然大涨！新风口来了？最新解读",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/2026-11-01/doc-inixferv6626876.shtml",
-      "content": "【导读】六位投研人士解读物理AI 中国基金报记者 方丽 孙晓辉 10月下旬以来，A股物理AI产业链突然“引爆”。 截至10月30日，万得物理AI概念指数自10月15日低点以来区间涨幅超...",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-11-01",
-      "time": "04:26",
-      "keywords": []
-    },
-    {
-      "title": "投资者密切关注美国中期选举，中东局势是否再度升级",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/roll/2026-11-01/doc-inixeyiu4199135.shtml",
-      "content": "美联储如何看待10月非农，苹果AMD财报亮相。 本周国际市场风云变幻，人工智能（AI）交易恐慌再起，国际金价刷新一年新低。美股全线下挫，道指周跌0.85%，纳指周跌2.00%...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-01",
-      "time": "04:04",
-      "keywords": []
-    },
-    {
-      "title": "3天2板后，002636紧急公告：未与英伟达、华为有过接触",
+      "title": "金融监管部门明日召开两个座谈会",
       "source": "",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-01/doc-inixeyiz3181000.shtml",
-      "content": "再度涨停后，金安国纪紧急公告。 金安国纪（002636）10月30日晚间发布股票交易异常波动公告称，截至目前，公司未与英伟达、华为有过接触...",
-      "priority": "high",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "night",
-      "date": "2026-11-01",
-      "time": "03:41",
-      "keywords": []
-    },
-    {
-      "title": "4名高管，合计被罚2800万元！*ST清越欺诈发行案持续追责",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/wm/2026-11-01/doc-inixeyix6728647.shtml",
-      "content": "深陷退市危局的*ST清越又有新动向。 因为欺诈发行、信息披露违法，*ST清越（688496）半个月前被罚1.72亿元。近日，公司相关责任人也收到“罚单”。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-01",
-      "time": "03:36",
-      "keywords": []
-    },
-    {
-      "title": "恐慌抛售席卷市场，11月开局动荡预定？",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/roll/2026-11-01/doc-inixeyiz3153180.shtml",
-      "content": "AI相关企业财报将继续受到关注。 本周美股先抑后扬，人工智能新贵Anthropic首次公开募股公告和美联储按兵不动带来的涨幅，被外界对支持美国牛市核心人工智能（AI）投资主题...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-01",
-      "time": "02:36",
-      "keywords": []
-    },
-    {
-      "title": "长钱持续进场、投融资走向平衡，黄文涛解读A股信心的制度密码",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/roll/2026-11-01/doc-inixetzy1033946.shtml",
-      "content": "21世纪经济报道 记者 崔文静 证监会主席吴清在2026金融街论坛年会上表示，上市公司年内分红回购2.1万亿元，是同期IPO融资和再融资规模的2...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-01",
-      "time": "01:31",
-      "keywords": []
-    },
-    {
-      "title": "三星电子与SK海力士带动韩企股份回购规模激增467.33%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixetzy1031682.shtml",
-      "content": "今年韩国上市公司申报的自有股份回购及处置规模大幅飙升。 韩国交易所11月1日消息，今年1–10月上市公司自有股份回购与处置总规模约101.9217万亿韩元，较去年同期17...",
+      "url": "https://finance.sina.com.cn/stock/wbstock/2026-11-01/doc-inixfzvr0896469.shtml",
+      "content": "来源：@第一财经日报微博【#金融监管部门明日召开两个座谈会# 】【#A股11月利好来了#！ 】#业内期待稳市措施修复A股情绪#第一财经记者从业内获悉，11月2日上午9时左右...",
       "priority": "high",
       "sectors": [
         "金融"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-01",
-      "time": "01:27",
+      "time": "14:06",
       "keywords": []
     },
     {
-      "title": "前10个月百强房企销售总额超2.5万亿元  65家房企单月销售额环比增长",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-11-01/doc-inixetzz6802561.shtml",
-      "content": "每经记者|陈利每经编辑|杨军 传统楼市“银十”时节，房企卖房“战绩”如何？ 10月31日晚间，中指研究院、亿翰智库、克而瑞等机构公布2026年1~10月中国房地产企业销售业绩。",
+      "title": "OpenAI在美国中期选举后的政治布局",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixfzvu3417193.shtml",
+      "content": "美国中期选举将于周二举行。选举结束后，OpenAI将立即展开一场密集的政策倡议和公关行动，以争取适应华盛顿新的政治格局。其中一项举措是重新包装数据中心的概念...",
       "priority": "high",
       "sectors": [
-        "综合"
+        "AI"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-01",
-      "time": "01:21",
+      "time": "14:05",
       "keywords": []
     },
     {
-      "title": "青花汾20零售均价大涨4元 国窖1573五连阴再创月新低 古井贡古20重跌 飞天茅台小幅回落",
-      "source": "酒业内参",
-      "url": "https://finance.sina.com.cn/chanjing/jync/2026-11-01/doc-inixetzy1020698.shtml",
-      "content": "新浪财经“酒价内参”过去24小时收集的数据显示，11月1日中国白酒业12大单品的终端零售均价四涨四跌四平，涨跌品种数量持平，累计涨跌金额也恰好相抵...",
+      "title": "刚刚，新能源车10月销量出炉",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-01/doc-inixfzvs7668433.shtml",
+      "content": "来源：中国基金报 【导读】车企10月销量总体降速，汽车行业“金九银十”现象首次基本消失 中国基金报记者 邱德坤 11月1日，车企集体交出10月“成绩单”，并冲上微博科技热搜。",
+      "priority": "high",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-11-01",
+      "time": "14:05",
+      "keywords": []
+    },
+    {
+      "title": "金融监管部门将召开座谈会，A股将迎哪些利好？",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/wm/2026-11-01/doc-inixfzvr0893751.shtml",
+      "content": "来源：财经杂志 央行行长潘功胜曾宣布创设“证券、基金、保险公司互换便利”和“股票回购增持专项再贷款”，支持股票市场。两年已过，新的创新优化政策有望出台...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-11-01",
+      "time": "14:03",
+      "keywords": []
+    },
+    {
+      "title": "【数据里的中国】283万亿元贷款余额背后，读懂三季度的金融账",
+      "source": "",
+      "url": "https://finance.sina.com.cn/roll/2026-11-01/doc-inixfzvr0887708.shtml",
+      "content": "央行三季度信贷数据出炉，283.44万亿元贷款余额的结构正发生悄然生变，资金从地产旧动能腾挪，加速流向科技、绿色等新质生产力领域。",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-11-01",
+      "time": "13:26",
+      "keywords": []
+    },
+    {
+      "title": "长安汽车 9 月交付突破 22.89 万辆，启源、深蓝品牌迎百万里程碑",
+      "source": "IT之家",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-01/doc-inixfvpt0999900.shtml",
+      "content": "IT之家11月1日消息，长安汽车官方今日宣布，9月交付突破22.89万辆。海外交付96200辆，同比增长73.8%，新能源交付113200辆，同比增长13.9%。",
       "priority": "high",
       "sectors": [
         "消费"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-01",
-      "time": "01:04",
+      "time": "12:58",
       "keywords": []
     },
     {
-      "title": "太惨烈！幻方也撑不住了，小盘策略单周净值暴跌10%，发生了什么",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/2026-11-01/doc-inixeuac3242426.shtml",
-      "content": "来源：金石杂谈 10月31日消息，有私募圈投资者向金石杂谈晒出幻方某小盘宽基量化多策略产品的最新净值，让人看的目瞪口呆，单周净值暴跌10%，这应该是创历史了吧！",
+      "title": "周末利好！一行一局一会，明日开会！影响一周市场十大消息",
+      "source": "证券时报",
+      "url": "https://finance.sina.com.cn/wm/2026-11-01/doc-inixfvpr2849612.shtml",
+      "content": "1、央行、金融监管总局、证监会，明日将召开会议 证券时报记者从业内人士了解到，11月2日，人民银行、证监会将召集一些证券公司、基金公司举行会议...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-01",
-      "time": "00:25",
+      "time": "12:16",
+      "keywords": []
+    },
+    {
+      "title": "国有某大行计划向中国国新、中国诚通各新增千亿级股票回购增持专项贷款额度",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-01/doc-inixfvpu7740388.shtml",
+      "content": "来源：财联社，记者 方彦博 11月1日，记者今日从相关渠道了解到，一家国有超大型银行近日计划向中国国新、中国诚通两家央企新增股票回购增持贷款额度...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-11-01",
+      "time": "11:47",
+      "keywords": []
+    },
+    {
+      "title": "白酒龙头掀涨停潮！吃喝板块逆市猛攻，食品饮料ETF华宝（515710）标的指数涨超3%！",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/etf/2026-11-01/doc-inixfvpu7736073.shtml",
+      "content": "吃喝板块周五（10月30日）逆市猛拉！白酒龙头批量上攻，部分大众品亦表现强势。截至收盘，泸州老窖、古井贡酒、迎驾贡酒、新乳业涨停，山西汾酒涨超7%，贵州茅台、五粮液...",
+      "priority": "high",
+      "sectors": [
+        "消费"
+      ],
+      "period": "morning",
+      "date": "2026-11-01",
+      "time": "11:39",
       "keywords": []
     },
     {
@@ -294,171 +236,185 @@
       ]
     },
     {
-      "title": "高盛内部“多空辩论”：盈利已经见顶 vs 投资回报明确",
+      "title": "券商两大龙头三季报过招：国泰海通规模问鼎，中信盈利夺冠",
+      "source": "北京商报",
+      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-11-01/doc-inixfzvs7681026.shtml",
+      "content": "随着券商三季报披露收官，券业两大龙头紧张较量。国泰海通总资产稳居行业首位，但盈利端依旧由中信证券领跑，两大头部券商形成“规模一冠、盈利一冠”的双雄局面。",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-11-01",
+      "time": "14:45",
+      "keywords": []
+    },
+    {
+      "title": "陈果：流动性担忧主导，情绪随时可能逆转，准备好反击行情，这些方向或迎超跌反弹",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-11-01/doc-inixfers4104069.shtml",
-      "content": "来源：华尔街见闻 高盛两位策略师对AI行情走向出现分歧：Pasquariello认为科技巨头财报暴露盈利增长见顶迹象，市场上行动能减弱，暂不宜大举押注；Wilson则以谷歌云...",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-01/doc-inixfzvr0900552.shtml",
+      "content": "来源：陈果投资策略 摘要 本周全球AI交易退潮，A股延续弱势，双创指数创出年内新低，周五市场出现了“股债双跌”现象，但我们认为市场波动大于基本面的边际变化...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-01",
-      "time": "05:47",
+      "time": "14:33",
       "keywords": []
     },
     {
-      "title": "房企抢收“银十”：有项目开盘热卖，楼市分化中回温",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/roll/2026-11-01/doc-inixferv6626964.shtml",
-      "content": "房企“银十”销售业绩出炉。 中指研究院最新数据显示，前10月，百强房企全口径销售总额为25370.6亿元，同比降幅较1~9月收窄0.9个百分点；同期操盘销售额20016.3亿元...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-01",
-      "time": "04:42",
-      "keywords": []
-    },
-    {
-      "title": "近77亿元，中国人寿新进宁德时代 险资最新建仓股揭秘",
-      "source": "数据宝",
-      "url": "https://finance.sina.com.cn/stock/2026-11-01/doc-inixferx3069099.shtml",
-      "content": "险资三季度持股动向浮出水面。 据证券时报·数据宝统计，险资合计出现在630多只股票三季报前十大流通股东榜，新进重仓150只股票。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-01",
-      "time": "04:26",
-      "keywords": []
-    },
-    {
-      "title": "当中际旭创成为“符号”，基金经理们在交易什么？",
-      "source": "中国证券报-中证网",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-01/doc-inixeyix6729841.shtml",
-      "content": "日前，公募基金2026年三季报披露完毕。中际旭创仍稳坐第一大重仓股宝座，但也是公募基金三季度减持市值最多的个股。 具体来看，三季度末...",
-      "priority": "medium",
-      "sectors": [
-        "光模块"
-      ],
-      "period": "night",
-      "date": "2026-11-01",
-      "time": "03:29",
-      "keywords": []
-    },
-    {
-      "title": "张延华：海外售后服务能力已成为决定中国品牌能否扎根全球市场的关键变量",
-      "source": "睿见Economy",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-11-01/doc-inixeyix6716836.shtml",
-      "content": " 11月1日，汽车产业出海模式创新发展大会在海南澄迈举行，主题为“产业融合·协同出海”，中国汽车维修行业协会会长张延华出席并演讲。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-01",
-      "time": "03:09",
-      "keywords": []
-    },
-    {
-      "title": "杨金金也要离职了！交银施罗德的基金经理，快走光了吧…",
+      "title": "比亚迪单季利润重回百亿，主要靠海外发力？",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/2026-11-01/doc-inixeyiz3172578.shtml",
-      "content": "来源：硬核姬老板 昨天杨金金卸任了交银瑞元三年期基金。 这只基金是杨金金2023年10月27日接手的，到现在已经满三年了，也打开了封闭期。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-01",
-      "time": "02:45",
-      "keywords": []
-    },
-    {
-      "title": "知名牛散，大幅加仓300566！成第三大股东",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/wm/2026-11-01/doc-inixeyix6694400.shtml",
-      "content": "知名牛散钟格，加仓激智科技（300566），持股超4%。 激智科技最新披露的三季报显示，截至9月30日，钟格持有公司1089万股，占公司总股本4.15%。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-01",
-      "time": "02:15",
-      "keywords": []
-    },
-    {
-      "title": "超300家机构扎堆调研！PCB龙头，获资金“盯梢”",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-01/doc-inixeuac3267727.shtml",
-      "content": "多家龙头公司受到机构关注。 上周（10月26日—30日）是三季报集中披露期，机构调研密度大幅提升。截至10月30日19时，共有505家A股上市公司接受机构投资者调研。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-01",
-      "time": "01:53",
-      "keywords": []
-    },
-    {
-      "title": "泸州老窖动能转换新逻辑：“控量稳价” 维护渠道健康 “年轻化”和“低度化”拓展消费场景",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/observe/2026-11-01/doc-inixetzw4256047.shtml",
-      "content": " 经过连续4年的调整之后，白酒行业正在走出低谷。高盛在年中的一份研究报告中给出判断，中国白酒行业最艰难的去库存阶段已经过去，行业正处于复苏极早期阶段。",
+      "url": "https://finance.sina.com.cn/stock/s/2026-11-01/doc-inixfzvu3424223.shtml",
+      "content": "来源：国际金融报 比亚迪近日披露2026年三季报。数据显示，第三季度公司实现营业收入2214.88亿元，同比增长13.59%；归属于上市公司股东的净利润为100.20亿元，同比增长28...",
       "priority": "medium",
       "sectors": [
         "消费"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-01",
-      "time": "01:28",
+      "time": "14:18",
       "keywords": []
     },
     {
-      "title": "券商称韩国KOSPI被严重低估 建议6000点下方逐步加仓",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixetzy1000184.shtml",
-      "content": "接下来一周（11月2日–6日），韩国股市预计将受到美国中期选举以及多项核心经济指标公布的影响。券商行业建议，在韩国综合指数（KOSPI）6000点下方采取分批买入策略...",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-11-01",
-      "time": "00:20",
-      "keywords": []
-    },
-    {
-      "title": "600734，筹划重大资产重组！",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-01/doc-inixetzw4224932.shtml",
-      "content": "【导读】*ST实达拟现金收购凯特科技不低于51%股权 中国基金报记者 夏天 10月30日晚间，*ST实达（证券代码：600734）公告称，公司与福建省电子信息（集团）有限责任公司等7...",
+      "title": "单季公允价值变动损益浮亏超3500亿，险资难当剩余两月反攻主力",
+      "source": "第一财经",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-01/doc-inixfzvu3419107.shtml",
+      "content": "三季度净利润集体下挫，甚至有三家出现了单季亏损，A股五大上市险企交出了一份看起来“不太好看”的三季报。 第一财经记者统计发现，A股五大险企前三季度实现归母净利润2765...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-01",
-      "time": "00:18",
+      "time": "14:09",
       "keywords": []
     },
     {
-      "title": "603008，A股公司大举增持，进入前十大股东！",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-01/doc-inixetzy0993637.shtml",
-      "content": "慕思股份（001323）对同行的一笔投资，从半年报里的“单独现身”，变成了三季报中的“组团进场”。 ST喜临门（603008）近日披露的2026年三季报显示，慕思股份持有公司328...",
+      "title": "透视券商三季报：近七成机构净利正增长，9家跻身“百亿俱乐部”，头部选手领跑",
+      "source": "时代财经",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-01/doc-inixfzvu3419303.shtml",
+      "content": " 随着2026年三季报披露完毕，券商业绩“全景图”浮出水面。尽管外部环境复杂多变、市场行情有所波动，行业整体仍交出了一份“总量稳增、结构向优、亮点纷呈”的答卷。",
       "priority": "medium",
       "sectors": [
         "金融"
       ],
-      "period": "night",
-      "date": "2026-10-31",
-      "time": "23:59",
+      "period": "noon",
+      "date": "2026-11-01",
+      "time": "14:08",
+      "keywords": []
+    },
+    {
+      "title": "知名私募磐耀资产出手：自购1000万元！“赔率开始站在乐观者一边”",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-01/doc-inixfzvr0884604.shtml",
+      "content": "【导读】磐耀资产：拟不低于1000万元申购公司旗下基金产品 中国基金报 记者 孙越 私募自购的队伍又添新成员。11月1日，磐耀资产发布公告称，近期资本市场波动加大...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-01",
+      "time": "13:44",
+      "keywords": []
+    },
+    {
+      "title": "航天工程前三季度营业收入同比增长10.28%",
+      "source": "证券日报网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-01/doc-inixfzvr0891128.shtml",
+      "content": "    本报讯(记者李乔宇)10月30日，航天长征化学工程股份有限公司(以下简称“航天工程”)披露2026年三季报。    公告显示，第三季度，航天工程实现营业收入10.45亿元...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-01",
+      "time": "13:44",
+      "keywords": []
+    },
+    {
+      "title": "关于A股后市，六大机构最新研判",
+      "source": "中国证券报-中证网",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-01/doc-inixfvpu7784101.shtml",
+      "content": "本周，A股市场延续调整态势。展望后市，业内机构判断，参考历史经验，反弹的前置条件已逐渐具备，但市场最终走出反弹行情还需要新的催化剂...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-01",
+      "time": "13:22",
+      "keywords": []
+    },
+    {
+      "title": "年内公募网下打新获配逾360亿元 科创板新股占比超六成",
+      "source": "证券日报网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-01/doc-inixfvpu7783491.shtml",
+      "content": "    今年以来，公募基金参与新股网下配售(以下泛称“打新”)保持活跃，从行业和上市板块来看，电子行业及科创板新股分别成为公募机构参与网下配售的重要方向。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-01",
+      "time": "13:12",
+      "keywords": []
+    },
+    {
+      "title": "葛卫东夫妇，持股兆易创新市值3个月回撤115亿元，此前朱一明高位套现44亿元",
+      "source": "每日经济新闻",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-01/doc-inixfvpu7762220.shtml",
+      "content": "10月29日盘后，兆易创新（SH603986）发布三季报。报告显示，公司第三季度实现营业收入87.32亿元，同比增长225.65%；归属于上市公司股东的净利润42.09亿元，同比增长728...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-01",
+      "time": "12:13",
+      "keywords": []
+    },
+    {
+      "title": "葛卫东夫妇，持股兆易创新市值3个月回撤115亿元，朱一明高位套现44亿元",
+      "source": "每日经济新闻",
+      "url": "https://finance.sina.com.cn/stock/s/2026-11-01/doc-inixfvpw3515963.shtml",
+      "content": "10月29日盘后，兆易创新（SH603986）发布三季报。报告显示，公司第三季度实现营业收入87.32亿元，同比增长225.65%；归属于上市公司股东的净利润42.09亿元，同比增长728...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-01",
+      "time": "12:13",
+      "keywords": []
+    },
+    {
+      "title": "“胡润富豪”豪掷8亿买下高通合作方！",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/stock/s/2026-11-01/doc-inixfvpt0968169.shtml",
+      "content": "来源 | 野马财经 曾两次收购传感企业。 作者 | 贾紫聪 喜欢“买买买”的公司又出手了。 10月26日晚，国内模拟芯片龙头圣邦股份（300661.SZ，3661.HK）发布公告称...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-11-01",
+      "time": "11:58",
+      "keywords": []
+    },
+    {
+      "title": "“失势”的银行信用卡部",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-11-01/doc-inixfvpu7742950.shtml",
+      "content": "缩编减员、裁撤关停、并入分行，正在多家银行信用卡分中心上演。即便是保留部门建制的信用卡一级部门，地位也早已不复往日风光：不再是零售板块的战略急先锋...",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-11-01",
+      "time": "11:50",
       "keywords": []
     },
     {
@@ -704,354 +660,396 @@
       ]
     },
     {
-      "title": "金价又大跌，实探水贝：消费者多起来了，记者砍价到869元/克 可以抄底了吗？专家解读",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/stock/2026-11-01/doc-inixferv6642214.shtml",
-      "content": " 原标题：金价又大跌，结婚“五金”较高点可省近3万元！实探水贝：消费者多起来了，记者砍价到869元/克；可以抄底了吗？专家解读",
-      "priority": "low",
-      "sectors": [
-        "黄金",
-        "消费"
-      ],
-      "period": "night",
-      "date": "2026-11-01",
-      "time": "05:35",
-      "keywords": []
-    },
-    {
-      "title": "明阳智能跌落巅峰",
-      "source": "界面",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-01/doc-inixfers4093377.shtml",
-      "content": "界面新闻记者 | 席菁华界面新闻编辑 | 张慧 股价跌破净资产、市值蒸发近七成、“海上一哥”不再……明阳智能（601615.SH）正面临多重压力考验。",
+      "title": "芯聚力全球首发“芯康小医”产品矩阵",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-11-01/doc-inixfzvu3431743.shtml",
+      "content": "10月29日，芯聚力科技(广东)有限公司全球产品发布会在珠海举行，全球首发“芯康小医”健康管理机器人、AI小护士、智能数字人、智能机器人...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-01",
-      "time": "05:12",
+      "time": "14:49",
       "keywords": []
     },
     {
-      "title": "卡尼：加拿大不急于和美国达成贸易协定 特朗普仍将针对加拿大",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixferx3084723.shtml",
-      "content": " 加拿大总理马克·卡尼表示，如果条款不符合加拿大的最大利益，他不会急于和美国达成贸易协定；他同时预判，即便美国中期选举结束，加拿大仍会是特朗普的针对目标。",
+      "title": "10月新势力分化加剧：问界、阿维塔销量双双腰斩",
+      "source": "一财网",
+      "url": "https://finance.sina.com.cn/roll/2026-11-01/doc-inixfzvu3424936.shtml",
+      "content": "10月车市超预期低迷导致多数新势力环比增长乏力。11月1日，多家造车新势力相继交出10月成绩单。从已公布的交付数据看，“金九银十”旺季不旺。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-01",
-      "time": "05:09",
+      "time": "14:25",
       "keywords": []
     },
     {
-      "title": "海南出海产业科技城杨云桐：通过群体性出海模式，提升中国制造业全球竞争力",
-      "source": "睿见Economy",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-11-01/doc-inixferv6648893.shtml",
-      "content": " 11月1日，汽车产业出海模式创新发展大会在海南澄迈举行，主题为“产业融合·协同出海”，海南出海产业科技城总经理杨云桐出席并演讲。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-01",
-      "time": "04:44",
-      "keywords": []
-    },
-    {
-      "title": "勤达睿褚华斌：产品供应链决定能不能出海，数据供应链决定中国车企能否在全球持续领先",
-      "source": "睿见Economy",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-11-01/doc-inixferx3076615.shtml",
-      "content": " 11月1日，汽车产业出海模式创新发展大会在海南澄迈举行，主题为“产业融合·协同出海”，勤达睿（中国）信息科技有限公司总经理褚华斌出席并演讲。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-01",
-      "time": "04:36",
-      "keywords": []
-    },
-    {
-      "title": "陈伟丽：泰国汽车产业正在向电动汽车转型，进一步发展电池和高端汽车零部件产业",
-      "source": "睿见Economy",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-11-01/doc-inixfers4079856.shtml",
-      "content": " 11月1日，汽车产业出海模式创新发展大会在海南澄迈举行，主题为“产业融合·协同出海”，泰国投资促进委员会广州办事处主任陈伟丽出席并演讲。",
+      "title": "比亚迪累计研发投入超2800亿元",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-01/doc-inixfzvs7677527.shtml",
+      "content": "IT时代网11月1日消息，比亚迪方面披露，公司前三季度研发费用为 363 亿元，同期归母净利润 223 亿元，研发投入比净利润高出 140 亿元。",
       "priority": "low",
       "sectors": [
         "消费"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-01",
-      "time": "04:27",
+      "time": "14:18",
       "keywords": []
     },
     {
-      "title": "东风柳汽温华：只有在重点市场实现本地化、体系化深耕的车企才能在出海中沉下来",
-      "source": "睿见Economy",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-11-01/doc-inixeyiz3199253.shtml",
-      "content": " 11月1日，汽车产业出海模式创新发展大会在海南澄迈举行，主题为“产业融合·协同出海”，东风柳汽进出口公司副总经理温华出席并演讲。",
+      "title": "AI短剧报价跌至400元/分钟 剪辑软件先扛不住毛利了",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-01/doc-inixfzvr0906497.shtml",
+      "content": "作者：Conlin来源：GPLP科技说日前，据多家媒体报道，AI漫剧批量制作报价已跌至每分钟400元，部分解说类AI短剧的最低成本进一步被压缩。剪辑软件企业的毛利率却开始下滑。...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-11-01",
+      "time": "14:11",
+      "keywords": []
+    },
+    {
+      "title": "美联物业：10大二手屋苑周末成交约8宗按周回升14.3%",
+      "source": "观点地产网",
+      "url": "https://finance.sina.com.cn/stock/estate/integration/2026-11-01/doc-inixfzvr0895372.shtml",
+      "content": "观点网讯：10月31日至11月1日周末，据美联物业分行统计，香港10大指标二手屋苑共录得约8宗买卖成交，与上周末（10月24日至25日）约7宗按周回升1宗或14.3%...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-01",
-      "time": "04:18",
+      "time": "14:10",
       "keywords": []
     },
     {
-      "title": "宁德时代曾毓群再唱海阔天空 媒体称其财富达3850亿元",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/stock/2026-11-01/doc-inixeyiw0962987.shtml",
-      "content": " 11月1日消息，网友在社交平台发布视频显示，在“宁德时代Passion Day”上，宁德时代董事长、创始人曾毓群与高管团队再次唱起《海阔天空》。",
+      "title": "ICH M14 落地进行时｜多方共探中国真实世界研究全球化实践之路",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-01/doc-inixfzvu3431420.shtml",
+      "content": "ICH E6是全球干预性临床试验的核心GCP指导原则，原版于1996年发布后历经多轮迭代。最新修订版E6 (R3) 清晰界定申办方、研究者、伦理委员会的各方权责...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-01",
-      "time": "03:44",
+      "time": "14:08",
       "keywords": []
     },
     {
-      "title": "民调：中期选举若失利MAGA不会抛弃特朗普 反而归咎于共和党",
+      "title": "清泉股份IPO状态变更为终止",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-01/doc-inixfzvs7662556.shtml",
+      "content": "根据深交所最新披露的信息，2026年10月17日，江苏清泉化学股份有限公司IPO的状态从中止变更为终止。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-01",
+      "time": "13:50",
+      "keywords": []
+    },
+    {
+      "title": "季丰电子IPO状态变更为注册生效",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-01/doc-inixfzvu3412708.shtml",
+      "content": "根据深交所最新披露的信息，2026年10月30日，上海季丰电子股份有限公司IPO的状态从已问询变更为注册生效。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-01",
+      "time": "13:50",
+      "keywords": []
+    },
+    {
+      "title": "九目化学IPO状态变更为注册",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-01/doc-inixfzvp2754517.shtml",
+      "content": "根据北交所最新披露的信息，2026年10月30日，烟台九目化学股份有限公司IPO的状态从通过变更为注册。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-01",
+      "time": "13:50",
+      "keywords": []
+    },
+    {
+      "title": "新富科技IPO状态变更为提交注册",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-01/doc-inixfzvr0886577.shtml",
+      "content": "根据北交所最新披露的信息，2026年10月19日，安徽新富新能源科技股份有限公司IPO的状态从通过变更为提交注册。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-01",
+      "time": "13:50",
+      "keywords": []
+    },
+    {
+      "title": "佳宏新材IPO状态变更为提交注册",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-01/doc-inixfzvp2754482.shtml",
+      "content": "根据北交所最新披露的信息，2026年10月12日，芜湖佳宏新材料股份有限公司IPO的状态从通过变更为提交注册。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-01",
+      "time": "13:50",
+      "keywords": []
+    },
+    {
+      "title": "卓目科技IPO状态变更为已问询",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-01/doc-inixfzvs7662622.shtml",
+      "content": "根据北交所最新披露的信息，2026年10月26日，武汉卓目科技股份有限公司IPO的状态从中止变更为已问询。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-01",
+      "time": "13:50",
+      "keywords": []
+    },
+    {
+      "title": "羲禾科技IPO状态变更为注册生效",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-01/doc-inixfzvr0886559.shtml",
+      "content": "根据上交所最新披露的信息，2026年10月27日，上海羲禾科技股份有限公司IPO的状态从已问询变更为注册生效。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-01",
+      "time": "13:50",
+      "keywords": []
+    },
+    {
+      "title": "保伦股份IPO状态变更为提交注册",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-01/doc-inixfzvr0886563.shtml",
+      "content": "根据上交所最新披露的信息，2026年10月27日，广东保伦电子股份有限公司IPO的状态从已问询变更为提交注册。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-01",
+      "time": "13:49",
+      "keywords": []
+    },
+    {
+      "title": "中科创新IPO状态变更为终止",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-01/doc-inixfzvu3412719.shtml",
+      "content": "根据上交所最新披露的信息，2026年10月22日，武汉中科创新技术股份有限公司IPO的状态从中止变更为终止。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-01",
+      "time": "13:49",
+      "keywords": []
+    },
+    {
+      "title": "北斗院IPO状态变更为已问询",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-01/doc-inixfzvp2754476.shtml",
+      "content": " 根据上交所最新披露的信息，2026年10月16日，长沙北斗产业安全技术研究院集团股份有限公司IPO的状态从中止变更为已问询。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-01",
+      "time": "13:49",
+      "keywords": []
+    },
+    {
+      "title": "沙特主导联军打击也门胡塞武装“关键资源”。",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixeyiw0956869.shtml",
-      "content": "民调显示，无论周二选举结果如何，特朗普的忠实基本盘都会继续支持他。 民调结果显示，多数2024年投票给特朗普、自认属于MAGA群体的选民认为，如果共和党遭遇惨败...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixfzvp2752814.shtml",
+      "content": "沙特主导的也门联军称，已对也门境内胡塞武装的“关键资源”实施打击，未披露具体目标。 联军表示，遭打击的资源被胡塞武装用于发动针对沙特及也门本土的袭击。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-01",
-      "time": "03:35",
+      "time": "13:48",
       "keywords": []
     },
     {
-      "title": "韩股回购“狂飙”：前10月规模激增467.33%！三星海力士成主要推手",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/roll/2026-11-01/doc-inixeyix6726027.shtml",
-      "content": "转自：财联社 财联社11月1日讯（编辑 周子意）今年，韩股上市公司的股票回购和处置金额大幅增长。 据韩国交易所（KRX）周日（11月1日）的最新数据显示...",
+      "title": "从光模块到车规芯片，思瑞浦“双轮驱动”下的盈利跃升与三重储备",
+      "source": "爱集微",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-01/doc-inixfzvp2766410.shtml",
+      "content": "10月27日晚间，思瑞浦（688536）披露2026年第三季度报告：前三季度实现营业收入26.92亿元，同比增长75.87%；归属于上市公司股东的净利润6.10亿元，同比增长384...",
+      "priority": "low",
+      "sectors": [
+        "半导体",
+        "光模块"
+      ],
+      "period": "noon",
+      "date": "2026-11-01",
+      "time": "13:41",
+      "keywords": []
+    },
+    {
+      "title": "山东鲁泰控股集团积极推进山东省重大科技创新工程项目",
+      "source": "鲁网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-01/doc-inixfzvp2757561.shtml",
+      "content": "  鲁网11月1日讯近期，山东鲁泰控股集团依托石墨烯高分子复合材料研发中心，联合山东大学、山东亚历新智机器人科技公司申报的“轻质宽频吸波材料的研发及产业化”项目成功获...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-01",
+      "time": "13:26",
+      "keywords": []
+    },
+    {
+      "title": "伊朗称与调解方就霍尔木兹海峡两日方案的谈判仍在推进",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixfvpw3533046.shtml",
+      "content": " 伊朗外长在社交平台就卡塔尔斡旋、旨在重开霍尔木兹海峡的美伊谈判发表声明：“能否取得成果，取决于美方对我方问题作出怎样的答复。”",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-01",
+      "time": "13:23",
+      "keywords": []
+    },
+    {
+      "title": "“易中天”，还得熬",
+      "source": "虎嗅APP",
+      "url": "https://finance.sina.com.cn/stock/s/2026-11-01/doc-inixfzvs7655759.shtml",
+      "content": "L型磨底，反弹还缺三个信号 出品 | 妙投APP 作者 | 张贝贝 编辑 | 丁萍 头图 | 视觉中国 过去一个月，光模块经历了一轮明显调整。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-01",
+      "time": "13:19",
+      "keywords": []
+    },
+    {
+      "title": "回购、增持、终止减持……多家A股公司释放积极信号",
+      "source": "证券时报",
+      "url": "https://finance.sina.com.cn/wm/2026-11-01/doc-inixfvpr2865344.shtml",
+      "content": "A股公司回购、增持、终止减持等稳市动作越来越频繁。 11月1日晚间，多家上市公司集中披露回购、增持相关公告，产业资本“真金白银”入场。",
       "priority": "low",
       "sectors": [
         "金融"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-01",
-      "time": "03:28",
+      "time": "12:51",
       "keywords": []
     },
     {
-      "title": "视频|肯尼亚18层坍塌大楼由“中国承建”？不实，中企参与救援",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/stock/2026-11-01/doc-inixeyix6721085.shtml",
-      "content": "来源：@澎湃新闻微博 #网传肯尼亚坍塌大楼由中国承建不实#【明查|肯尼亚18层坍塌大楼由“中国承建”？不实，中企参与救援】网传肯尼亚一栋18层在建楼房由“中国承建”的说法不...",
+      "title": "OPEC+维持12月石油产量配额不变。",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixfvpt0985033.shtml",
+      "content": "中东冲突持续压制该联盟大量产能，OPEC+主要成员国重申计划，12月石油产量配额保持不变。 周日线上会议后的声明显示，由沙特和俄罗斯牵头的七国小组将维持现有产量目标。",
       "priority": "low",
       "sectors": [
-        "综合"
+        "能源"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-01",
-      "time": "03:27",
+      "time": "12:37",
       "keywords": []
     },
     {
-      "title": "新势力汽车10月销量公布：小米、小鹏交付均超50000台，理想交付29025台",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/stock/2026-11-01/doc-inixeyix6723346.shtml",
-      "content": "11月1日，多家新势力汽车品牌公布2026年10月份交付量。 据小米汽车官微，2026年10月，小米汽车交付量超过50000台。 据理想汽车官微，2026年10月...",
+      "title": "600487，拟最高2亿元回购股份",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-01/doc-inixfvpr2851071.shtml",
+      "content": "又有上市公司计划回购、注销。 亨通光电（600487）11月1日下午公告，公司董事长崔巍提议公司以1亿元—2亿元回购股份，拟用于员工股权激励/员工持股计划或减少公司注册资本。...",
       "priority": "low",
       "sectors": [
-        "消费"
+        "金融"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-01",
-      "time": "03:27",
+      "time": "12:21",
       "keywords": []
     },
     {
-      "title": "孙晓红：中国汽车出海要“站得住、回得来”",
-      "source": "睿见Economy",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-11-01/doc-inixeyiw0941609.shtml",
-      "content": " 11月1日，汽车产业出海模式创新发展大会在海南澄迈举行，主题为“产业融合·协同出海”。中国机电产品进出口商会汽车分会原秘书长孙晓红出席并演讲。",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "night",
-      "date": "2026-11-01",
-      "time": "03:06",
-      "keywords": []
-    },
-    {
-      "title": "视频|币安63.6亿美元被盗后，发生了什么？",
+      "title": "左手减持可川科技、右手入主协和电子！施惠庆的资本算盘",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/2026-11-01/doc-inixeyiw0940462.shtml",
-      "content": "来源：Web3-builder 据报道，约63.6亿美元资产被转走，主要转出集中在约20分钟。 但故事没有停在“被盗”：资金拦截、全赔承诺、CZ与马斯克的公开交锋，接连发生。",
+      "url": "https://finance.sina.com.cn/stock/roll/2026-11-01/doc-inixfvpw3515083.shtml",
+      "content": "来源：资本秘闻 2022年，伴随可川科技登陆A股市场，施惠庆也迎来首家A股上市平台。可川科技上市四年后，施惠庆的资本野心也在不断扩张。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-01",
-      "time": "03:03",
+      "time": "12:10",
       "keywords": []
     },
     {
-      "title": "特朗普称美国还需“处理”伊朗一两个目标",
-      "source": "新华视点",
-      "url": "https://finance.sina.com.cn/stock/2026-11-01/doc-inixeyiu4164289.shtml",
-      "content": " 新华社华盛顿10月31日电 美国总统特朗普10月31日在佛罗里达州海湖庄园对媒体表示，美国已摧毁伊朗大部分军事力量，但仍需“处理”一两个目标，其中包括镐山的地下核设施。",
+      "title": "三天三会，河南农业递出开放名片",
+      "source": "大河财立方",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-01/doc-inixfzvp2759237.shtml",
+      "content": "大河财立方记者李雯雯郝楠楠 10月30日—11月1日，三场农业盛会在郑州同期同地开门迎客。 3天时间里，2026年全国粮油和大豆产业博览会、2026中国(河南...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-01",
-      "time": "03:03",
+      "time": "12:07",
       "keywords": []
     },
     {
-      "title": "李开复等来了杭州国资",
+      "title": "80后老板接盘“吊顶第一股”，1元变卖子公司！",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/2026-11-01/doc-inixferu0870785.shtml",
-      "content": "落地临平、国资数亿入股，“金钱豹”要下山了 作者 | 元素 来源 |元素elements 2026年10月29日，杭州国际博览中心。零一万物与杭州市、临平区签约...",
+      "url": "https://finance.sina.com.cn/stock/s/2026-11-01/doc-inixfvpr2839692.shtml",
+      "content": "来源 | 野马财经 用设计师资源赋能新“吊顶” 作者 | 方璐 1元就能买下一家上市公司子公司，是“大羊毛”吗？这笔账不能只看交易对价，还要看隐形成本，比如人员、负债等。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-11-01",
-      "time": "02:47",
+      "time": "11:49",
       "keywords": []
     },
     {
-      "title": "高盛大砍韩国股市预期25%，缘何？",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/roll/2026-11-01/doc-inixeyix6707220.shtml",
-      "content": "直到10月26日，也就是KOSPI回调至7个月新低之际，高盛的分析师终于改口了。 10月以来，韩国股市的表现再度让投资者心惊肉跳。 10月26日...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-01",
-      "time": "02:45",
-      "keywords": []
-    },
-    {
-      "title": "美国田纳西州再添乱象：无期囚犯越狱偷走卡车",
+      "title": "币安联合创始人何一回应阴谋论：逐步恢复主要币种用户提现，不可能是自导自演",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixeyiz3147318.shtml",
-      "content": "下周二即将进行中期选举的美国共和党传统票仓田纳西州，近日再曝监狱管理问题。 近日，田纳西州一名因谋杀同事定罪的越狱囚犯从附近农场偷走一辆卡车...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixfvpu7735981.shtml",
+      "content": " 币安联合创始人何一在社交平台表示，感谢关心，平台今日逐步开放主要币种用户提现，同时为全体用户提供 POR 资产证明用于资产核验。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-11-01",
-      "time": "02:25",
-      "keywords": []
-    },
-    {
-      "title": "美国中期选举倒计时，特朗普遇大考：民主党拿下参众两院概率超60%！选举后股市、黄金怎么走",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/stock/2026-11-01/doc-inixeyiz3189408.shtml",
-      "content": " 原标题：“史上最激烈”，美国中期选举倒计时，特朗普遇大考：民主党拿下参众两院概率超60%！选举后股市、黄金怎么走？历史有规律",
-      "priority": "low",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "night",
-      "date": "2026-11-01",
-      "time": "02:00",
-      "keywords": []
-    },
-    {
-      "title": "苹果CEO：不会为了做AI而做产品",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixetzz6817310.shtml",
-      "content": "苹果CEO约翰·特努斯近日接受采访时，为苹果当前在人工智能领域的布局进行辩护。 过去几年，外界常认为苹果在AI赛道落后，尤其是苹果推迟推出更强版本的Siri...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-11-01",
-      "time": "01:56",
-      "keywords": []
-    },
-    {
-      "title": "韩国10月出口同比增长93.7% 芯片出口暴涨259%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixetzz6797762.shtml",
-      "content": "韩国10月出口维持强劲增长，人工智能热潮持续拉动这个依赖贸易的经济体。 韩国产业部周日公布的数据显示，经工作日差异调整后，出口同比大增76.1%，出口额达1153亿美元...",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "night",
-      "date": "2026-11-01",
-      "time": "01:10",
-      "keywords": []
-    },
-    {
-      "title": "海湾国家急于斡旋美伊和谈：难承担战事重启风险 但美国高层意见存在分歧",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixeuac3236972.shtml",
-      "content": " 美国有可能再度打击伊朗，波斯湾地区随之弥漫着疲惫又紧张的情绪。海湾国家官员正加紧斡旋，试图打破美伊僵局，他们清楚，一旦冲突升级，他们将首当其冲受影响。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-01",
-      "time": "00:39",
-      "keywords": []
-    },
-    {
-      "title": "一觉醒来，伊朗军方强硬发声，对万斯来信已读未回，特朗普“尚未决定是否对伊发动新的军事打击”",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/wm/2026-11-01/doc-inixetzz6776914.shtml",
-      "content": "来源：华夏时报 据CCTV国际时讯报道，美国国务卿鲁比奥当地时间10月31日称，美国总统特朗普“尚未决定是否对伊朗发动新的军事打击”。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-01",
-      "time": "00:18",
-      "keywords": []
-    },
-    {
-      "title": "硅基流动赴港IPO备案申请状态显示为“已接收”，拟冲刺“AI Token工厂第一股”",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/stock/2026-11-01/doc-inixepua1122221.shtml",
-      "content": " 10月30日，据中国证监会网站披露的信息显示，北京硅基流动科技股份有限公司（简称“硅基流动”）港股发行上市备案状态为“已接收”，材料接收日期为2026年10月19日。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-10-31",
-      "time": "23:56",
-      "keywords": []
-    },
-    {
-      "title": "预测市场与民调看似分歧：二者衡量指标并不相同",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-01/doc-inixetzy0992738.shtml",
-      "content": "在外行看来，预测市场的结果几乎锁定了明尼苏达州参议员竞选的胜选者：Kalshi平台的赔率显示民主党候选人Peggy Flanagan胜选概率达90%。而民调呈现的选情看上去更为胶着。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-10-31",
-      "time": "23:56",
+      "time": "11:38",
       "keywords": []
     },
     {
