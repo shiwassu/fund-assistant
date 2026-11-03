@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-03T02:37:10.946381",
+  "updated": "2026-11-03T10:03:29.158223",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,242 +7,139 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 22,
-    "medium": 29,
-    "low": 99
+    "high": 14,
+    "medium": 26,
+    "low": 110
   },
   "items": [
     {
-      "title": "央行出手！上调外汇存准率2个百分点 离岸人民币贬值逾200点",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-11-03/doc-inixmnqf8775802.shtml",
-      "content": "21世纪经济报道记者 唐婧 11月3日，央行公告，为加强金融机构外汇流动性管理，决定自2026年11月15日起，上调金融机构外汇存款准备金率2个百分点...",
+      "title": "中天期货:沪锌冲高回落 甲醇上涨停顿",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-03/doc-inixncmw2225892.shtml",
+      "content": "热点品种分析 商品指数 股指 中国上证综指11月 3日（周二）收盘下跌29.93点，跌幅 0.82%，报 3608.10点； 中国深证成指 11月 3日（周二）收盘下跌133.69点，跌幅 1.21%...",
       "priority": "high",
       "sectors": [
-        "综合"
+        "有色"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-11-03",
-      "time": "02:24",
+      "time": "09:50",
       "keywords": []
     },
     {
-      "title": "美联储降低利率投票次数意味着降息窗口变少，借贷成本或高位更久",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-11-03/doc-inixmnqf8776635.shtml",
-      "content": "汇通财经APP讯——美联储主席凯文·沃什（Kevin Warsh）在上周维持基准利率不变之后，公布未来两年缩减利率投票场次的计划。业内观点认为...",
+      "title": "人大常委会丨报告提出我国金融工作下一步5方面考虑",
+      "source": "新华网",
+      "url": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-11-03/doc-inixncmx8672090.shtml",
+      "content": "记者：吴雨 国务院关于金融工作情况的报告11月3日提请十四届全国人大常委会第二十五次会议审议。报告从继续实施好适度宽松的货币政策、进一步加强和完善金融监管...",
       "priority": "high",
       "sectors": [
         "金融"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-11-03",
-      "time": "02:23",
+      "time": "09:42",
       "keywords": []
     },
     {
-      "title": "韩国情报机构求约2100家政府机构开展紧急安全检查",
+      "title": "民调：美国民众普遍担忧AI与数据中心扩张 超七成受访者认为特朗普政府监管缺位",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixmnqa6721246.shtml",
-      "content": "据未具名韩国官员称，在金融业近期遭遇网络攻击后，韩国国家情报院要求约2100家中央和地方政府机构开展紧急安全检查。 韩国国家情报院10月22日要求这些机构按照检查清单开...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixncmu6666417.shtml",
+      "content": "美国南加州大学安纳伯格分校一项全新调查发现，民众对人工智能及其配套基础设施的扩张普遍感到担忧；绝大多数受访者呼吁强化监管...",
       "priority": "high",
       "sectors": [
-        "综合"
+        "AI"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-11-03",
-      "time": "02:22",
+      "time": "09:38",
       "keywords": []
     },
     {
-      "title": "全国老龄办原副主任朱耀垠：化解养老机构融资难须突破制度性障碍",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/insurance/2026-11-03/doc-inixmnpy9945250.shtml",
-      "content": "11月3日金融一线消息，由北京工商大学主办、阳光保险集团协办的2026大运河·养老金融研讨会10月31日于北京市通州区阳光金融城举办...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "02:21",
-      "keywords": []
-    },
-    {
-      "title": "固态电池产业化进程加速！创业板电池ETF华宝（158078）标的指数续涨超3%，盟固利20CM涨停，阳光电源再涨6%",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-11-03/doc-inixmnqe2320903.shtml",
-      "content": "今日（11月3日）早盘，电池板块延续强势，国内首只上市*的创业板电池ETF华宝（158078）标的指数涨超3%，聚焦储能的储能电池ETF华宝（159071）标的指数涨超2%。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "02:18",
-      "keywords": []
-    },
-    {
-      "title": "央行出手，缓释人民币升值压力",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/wm/2026-11-03/doc-inixmnpy9941629.shtml",
-      "content": "作者 |第一财经杜川 11月3日，为加强金融机构外汇流动性管理，中国人民银行决定，自2026年11月15日起，上调金融机构外汇存款准备金率2个百分点...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "02:12",
-      "keywords": []
-    },
-    {
-      "title": "央行出手！上调外汇存准率2个百分点 离岸人民币跳升逾200点",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/money/forex/rmb/2026-11-03/doc-inixmnpy9931089.shtml",
-      "content": "21世纪经济报道记者 唐婧 11月3日，央行公告，为加强金融机构外汇流动性管理，决定自2026年11月15日起，上调金融机构外汇存款准备金率2个百分点...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "02:08",
-      "keywords": []
-    },
-    {
-      "title": "和黄医药早盘涨超4% 沃瑞沙®和泰瑞沙®联合疗法在欧洲和日本的监管注册申请已获受理",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-03/doc-inixmnpy9928722.shtml",
-      "content": "和黄医药（00013）早盘涨超4%，截至发稿，股价上涨4.05%，现报21.56港元，成交额1.57亿港元。 11月2日，和黄医药发布公告，沃瑞沙®（赛沃替尼/...",
-      "priority": "high",
-      "sectors": [
-        "医药"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "02:06",
-      "keywords": [
-        "和黄医药",
-        "涨超"
-      ]
-    },
-    {
-      "title": "融资余额从高位回落7000亿元，监管层表态将逆周期调节，适度释放融资空间",
+      "title": "张尧浠:油价暴跌缓解通胀担忧 金价反弹仍处压力之中",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-03/doc-inixmhhh2425439.shtml",
-      "content": "来源：深圳商报·读创客户端 记者 陈燕青 11月2日，A股迎来久违的反弹，但融资余额继续下降超百亿元。最近四个多月，伴随着市场的大幅调整，融资余额从高位大幅回落。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "01:48",
-      "keywords": []
-    },
-    {
-      "title": "央行出手缓释人民币升值压力，外汇存准率上调2个百分点",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-03/doc-inixmhhi8876098.shtml",
-      "content": " 11月3日，为加强金融机构外汇流动性管理，中国人民银行决定，自2026年11月15日起，上调金融机构外汇存款准备金率2个百分点，即外汇存款准备金率由现行的4%提高到6%。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "01:45",
-      "keywords": [
-        "外汇存款",
-        "准备金率",
-        "美元",
-        "人民币",
-        "人民币汇率"
-      ]
-    },
-    {
-      "title": "华安基金：流动性冲击引发大跌，加息预期回落提供支撑",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-11-03/doc-inixmhhc0032609.shtml",
-      "content": "上周伦敦现货黄金收于3，875美元/盎司（周环比-3.0%），国内AU9999黄金收于855元/克（周环比-1.0%）。 上周黄金的大跌原因与前一周一致，源于流动性冲击与油价上行压制。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "01:43",
-      "keywords": []
-    },
-    {
-      "title": "美伊谈判释放积极信号，油价跌超7%，金价短线反弹",
-      "source": "界面新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-03/doc-inixmhhc0035751.shtml",
-      "content": "卡塔尔调解人员当地时间2日晚前往德黑兰，计划与伊朗外交部长阿拉格齐就美伊可能达成的协议进行会谈。消息人士称，在卡塔尔斡旋下，美伊谈判取得突破...",
+      "url": "https://finance.sina.com.cn/money/nmetal/hjfx/2026-11-03/doc-inixncmu6661690.shtml",
+      "content": "11月03日：上交易日周一（11月2日）：国际黄金止跌反弹收涨，因技术强劲支撑买盘需求，以及伊朗与卡塔尔就结束战事在多哈接连举行谈判...",
       "priority": "high",
       "sectors": [
         "黄金"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-11-03",
-      "time": "01:43",
-      "keywords": []
+      "time": "09:33",
+      "keywords": [
+        "金价",
+        "美元"
+      ]
     },
     {
-      "title": "泉果基金变更股东收反馈意见，监管关注新进股东合规资质",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/stock/aigc/bwdt/zjh/2026-11-03/doc-inixmhhe6807316.shtml",
-      "content": "近日，证监会官网政务信息栏目发布了一则针对泉果基金管理有限公司的审核反馈意见。该意见针对泉果基金申请变更持股5%以上股东的行政许可事项...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "01:43",
-      "keywords": []
-    },
-    {
-      "title": "华泰期货宏观透视：关注美国中期选举对不确定性的降低",
+      "title": "天津银行冲万亿 新帅杨毅更接地气",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-03/doc-inixmhhe6806313.shtml",
-      "content": "来源：华泰期货 作者： 徐闻宇 市场分析 宏观流动性： （01）美联储：12月加息概率73.7 %，较昨日-0.9个百分点。 （02）美元流动性：美元指数102.0，较昨日+0...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "01:42",
-      "keywords": []
-    },
-    {
-      "title": "央行今日开展6210亿元隔夜期逆回购操作",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-11-03/doc-inixmhhi8862127.shtml",
-      "content": " 11月3日金融一线消息，中国人民银行今日以固定利率、数量招标方式开展了6210亿元隔夜期逆回购操作，全额满足了一级交易商需求。操作利率为1.25%。",
+      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-11-03/doc-inixncmu6673037.shtml",
+      "content": "来源：银瑞社 9月中旬，天津北辰区相关领导赴天津农商银行洽谈合作之时，时任行长杨毅还陪同董事长唐一平，一起参加了座谈交流。",
       "priority": "high",
       "sectors": [
         "金融"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-11-03",
-      "time": "01:35",
+      "time": "09:28",
       "keywords": []
     },
     {
-      "title": "华泰期货：美伊谈判取得突破 黄金步入震荡格局",
+      "title": "总资产合计超15万亿 三家沪上银行又牵手了",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-11-03/doc-inixmhhh2402807.shtml",
-      "content": "来源：华泰期货 作者： 师橙 市场分析 地缘方面，消息称在卡塔尔斡旋下，美伊谈判取得突破，相关程序性障碍已得到解决。伊朗总统佩泽希齐扬表示...",
+      "url": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-11-03/doc-inixncmw2219216.shtml",
+      "content": "来源：银瑞社 上海本土三大银行掌舵人，难得齐聚一堂。 10月底，浦发银行、上海银行和上海农商银行举办深化交流暨三方战略协同合作协议签约仪式，浦发银行董事长张为忠...",
       "priority": "high",
       "sectors": [
-        "黄金"
+        "金融"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-11-03",
-      "time": "01:25",
+      "time": "09:28",
+      "keywords": []
+    },
+    {
+      "title": "《2026住房租赁卓越表现报告》发布：告别规模竞速，住房租赁竞争转向现金流与运营能力",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-03/doc-inixncmu6657924.shtml",
+      "content": "11月3日消息，2026观点住房租赁大会在上海举行，《观点指数·2026住房租赁卓越表现报告》在大会现场正式发布。报告指出，住房租赁行业正在告别依赖政策红利和房源扩张的粗放...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "09:28",
+      "keywords": []
+    },
+    {
+      "title": "央行：10月公开市场国债买卖净投放1500亿元",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/bank/2026-11-03/doc-inixncms9874648.shtml",
+      "content": "11月3日金融一线消息，中国人民银行官网公布2026年10月中央银行各项工具流动性投放情况。数据显示，10月，中期借贷便利（MLF）净投放-2000亿元...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "09:19",
+      "keywords": []
+    },
+    {
+      "title": "布鲁克菲尔德拟建270亿美元AI数据中心，能源企业Drax股价大涨8%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixncmu6641415.shtml",
+      "content": "核心要点布鲁克菲尔德计划在英国一处场地建设规模超 1 吉瓦的数据中心。这家资管机构估算该项目潜在投资规模或将超过 200 亿英镑（折合 268 亿美元）。",
+      "priority": "high",
+      "sectors": [
+        "能源",
+        "AI"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "09:06",
       "keywords": []
     },
     {
@@ -326,232 +223,160 @@
       ]
     },
     {
-      "title": "李昌镛称，AI产业收益高度集中于少数科技企业，中国芯片制造商的技术突破也可能改变全球半导体竞争格局",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-10-21/102495613.html?cxapp_link=true",
-      "content": "李昌镛称，AI产业收益高度集中于少数科技企业，中国芯片制造商的技术突破也可能改变全球半导体竞争格局",
-      "priority": "high",
+      "title": "舍弗勒将在欧洲再裁员3460人，汽车行业形势持续恶化",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixncms9907340.shtml",
+      "content": "该公司表示，其中 2660 个岗位来自德国，德国将关闭四处生产基地。 舍弗勒表示，本次裁员规模约占其全球员工总数的 3.2%。 受汽车行业下行态势加剧影响...",
+      "priority": "medium",
       "sectors": [
-        "半导体",
+        "消费"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "10:02",
+      "keywords": []
+    },
+    {
+      "title": "Cinven以26亿欧元收购女性健康药企Theramex",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixncmw2226626.shtml",
+      "content": " 凯雷集团（Carlyle）与PAI Partners达成协议，将女性健康企业Theramex出售给私募机构Cinven，交易对价26亿欧元，企业估值较四家收购方四年前的买入价翻了一倍以上。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "09:51",
+      "keywords": []
+    },
+    {
+      "title": "尾盘，突然“爆量”！A股，利好来袭！",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-03/doc-inixncmw2227985.shtml",
+      "content": "A股迎来两大利好消息！一是资金继续借道ETF抄底；二是广东印发扩大消费实施方案。 11月3日，A股主要指数调整，但尾盘多只宽基ETF显著放量，资金逢低布局迹象明显。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "09:50",
+      "keywords": []
+    },
+    {
+      "title": "银行互联网贷款名单披露细化，“仅存续业务”标注增多",
+      "source": "界面",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-03/doc-inixncmw2219856.shtml",
+      "content": "界面新闻记者 | 曾令俊 助贷新规正式落地已满一年，商业银行互联网贷款合作机构的名单披露细致程度正在悄然发生变化。 界面新闻记者注意到，近期...",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "09:38",
+      "keywords": []
+    },
+    {
+      "title": "回购+分红+增持，这23股“三箭齐发”（附名单）",
+      "source": "数据宝",
+      "url": "https://finance.sina.com.cn/stock/roll/2026-11-03/doc-inixncmw2212750.shtml",
+      "content": "23股年内同时实施回购+分红+股东增持。 近期，A股市场震荡调整，板块分化有所加剧。在此环境下，一批基本面扎实、重视股东回报的上市公司陆续实施回购、分红等多项举措...",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "09:29",
+      "keywords": []
+    },
+    {
+      "title": "如何解锁低波固收+？华安基金 “股债双栖”许富强给出答案",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-11-03/doc-inixncmx8651017.shtml",
+      "content": "当活期存款利率逼近零、一年期定存进入“1时代”，当债券收益率持续在历史低位徘徊，而权益市场又呈现出“机会不小、波动更大”的分化格局，投资者正集体面临一道难题：钱...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "09:15",
+      "keywords": []
+    },
+    {
+      "title": "豆粕：缺乏驱动，内外双弱延续",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/2026-11-03/doc-inixncmx8647916.shtml",
+      "content": "大地期货研究院 观点小结 核心观点：偏弱震荡美豆收割即将完成，基金净多继续减仓；巴西播种整体顺利，雷亚尔大幅贬值增加新作出口竞争力...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "09:08",
+      "keywords": []
+    },
+    {
+      "title": "重庆市地方金融管理局发布公示 6家小贷公司退出行业",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/bank/2026-11-03/doc-inixncmw2196047.shtml",
+      "content": "11月3日金融一线消息，重庆市地方金融管理局发布《2026年10月重庆市小额贷款公司退出行业公示表》，包括重庆亚联财小额贷款有限公司、重庆保税港区绿地小额贷款有限公司...",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "09:07",
+      "keywords": []
+    },
+    {
+      "title": "原油：美伊谈判出现进展，油价高位大幅回落",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/2026-11-03/doc-inixncmw2197685.shtml",
+      "content": "广发期货研究证监许可【2011】1292号 | 罗鸣 Z0023753 | 2026年11月03日 星期二 行情导读：截至今日下午收盘，上海能源交易所原油期货主力合约下跌6.31%，报 698...",
+      "priority": "medium",
+      "sectors": [
+        "能源"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "09:07",
+      "keywords": []
+    },
+    {
+      "title": "深交所联合广发基金“走进创业板算力指数成份股·广深站”系列活动成功举办",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-11-03/doc-inixncmx8640484.shtml",
+      "content": "10月28日—30日，由深圳证券交易所主办、广发基金协办的“走进创业板算力指数成份股·广深站”活动成功举办。本次活动为期三天，先后走进宏景科技、致尚科技、菲菱科思...",
+      "priority": "medium",
+      "sectors": [
         "AI"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "08:56",
+      "keywords": []
+    },
+    {
+      "title": "机构认为，11月属于底部蓄势窗口，在趋势性行情确认前，确定性优先于弹性，价值股是适配当前环境的主线方向",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-11-03/102500344.html?cxapp_link=true",
+      "content": "机构认为，11月属于底部蓄势窗口，在趋势性行情确认前，确定性优先于弹性，价值股是适配当前环境的主线方向",
+      "priority": "medium",
+      "sectors": [
+        "综合"
       ],
       "period": "noon",
       "date": "2026-11-03",
       "time": "--:--",
       "keywords": [
-        "华尔街原声"
+        "权益周观察"
       ]
-    },
-    {
-      "title": "易方达、华泰柏瑞等多只沪深300ETF显著放量",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-03/doc-inixmnqa6728992.shtml",
-      "content": " 11月3日，截至发稿时间，沪深300ETF易方达（510310）成交额16亿元超越昨日全天，沪深300ETF华泰柏瑞（510300）成交额近75亿元，沪深300ETF华夏（510330）成交额超12亿元。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "02:31",
-      "keywords": []
-    },
-    {
-      "title": "美国中期选举或成有色转折点？60只成份股全部盈利+估值低位的——有色ETF华宝（159876）跟踪指数盘中涨超2%",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-11-03/doc-inixmnqf8774128.shtml",
-      "content": " 今日（11月3日）强基本面+低估值的有色金属板块异动拉升，揽尽有色金属行业龙头的有色ETF华宝（159876）跟踪指数盘中涨超2.2%，现涨2.15%。",
-      "priority": "medium",
-      "sectors": [
-        "有色"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "02:20",
-      "keywords": []
-    },
-    {
-      "title": "携程集团-S盘中涨超5% 花旗预计携程三季度营收189亿元符合市场预期",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-03/doc-inixmnqf8763780.shtml",
-      "content": "携程集团-S（09961）盘中涨超5%。截至发稿，股价上涨4.04%，现报324.80港元，成交额3.58亿港元。 携程预计将于11月中至月底公布第三季业绩...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "02:08",
-      "keywords": [
-        "携程集团-S",
-        "涨超"
-      ]
-    },
-    {
-      "title": "恒生科技指数高开高走 盘初升逾1%",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/2026-11-03/doc-inixmhhe6818283.shtml",
-      "content": "恒生科技指数盘初升逾1%，科网股携程升逾4%，京东、哔哩哔哩升逾3%，网易、美团、腾讯、小米升近2%。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "01:50",
-      "keywords": []
-    },
-    {
-      "title": "华泰期货：HMA基准价继续下调，镍不锈钢博弈加剧",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-03/doc-inixmhhh2423423.shtml",
-      "content": "来源：华泰期货 作者： 师橙 镍品种 市场分析 2026-11-02日沪镍主力合约开于116800元/吨，收于116830元/吨，较前一交易日收盘变化-0.48%...",
-      "priority": "medium",
-      "sectors": [
-        "有色"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "01:46",
-      "keywords": []
-    },
-    {
-      "title": "华安基金：震荡市里的“压舱石”，央企价值进一步凸显",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-11-03/doc-inixmhhe6809474.shtml",
-      "content": "行情回顾及主要观点： 港股方面，上周恒生港股通中国央企红利指数上涨4.09%，恒生指数上涨0.87%，恒生科技指数下跌3.02%。A股方面，上周中证国企红利指数上涨3.34%...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "01:44",
-      "keywords": []
-    },
-    {
-      "title": "恒生指数转跌 联想领跌成分股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/2026-11-03/doc-inixmhhc0031647.shtml",
-      "content": " 11月3日消息，恒生指数转跌。恒指成分股中，联想跌超6%，中石油跌超5%，中海油、中石化、华虹宏力、药明康德跌超4%，百济神州跌超3%。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "01:43",
-      "keywords": []
-    },
-    {
-      "title": "华安基金：创业板50三季报净利润增速33%，估值历史分位仅1.68%",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-11-03/doc-inixmhhc0029252.shtml",
-      "content": "行情回顾及主要观点： 上周A股市场整体回调：沪深300下跌2.92%，中证500下跌8.05%，中证1000下跌8.51%，创业板50下跌10.63%，科创50下跌13.73%。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "01:41",
-      "keywords": []
-    },
-    {
-      "title": "中银国际：比亚迪电子重申“买入”评级 目标价33.7港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-03/doc-inixmhhc0025113.shtml",
-      "content": "中银国际发布研报称，比亚迪电子（00285）消费电子低谷与AI基建放量标志良好入场点，重申“买入”评级，目标价33.7港元，基于2027年每股盈利15倍市盈率。",
-      "priority": "medium",
-      "sectors": [
-        "消费"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "01:38",
-      "keywords": [
-        "中银国际",
-        "比亚迪电子",
-        "目标价"
-      ]
-    },
-    {
-      "title": "华泰期货：玻璃纯碱市场情绪悲观，盘面震荡整理",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-03/doc-inixmhhh2414113.shtml",
-      "content": "市场分析 玻璃方面：昨日玻璃主力合约价格宽幅震荡运行，现货市场报价跟随盘面波动，部分报价小幅上调，贸易商较为谨慎，整体成交有限。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "01:38",
-      "keywords": []
-    },
-    {
-      "title": "美银证券：中银香港维持“中性”评级 目标价51.36港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/hkgg/2026-11-03/doc-inixmhhi8863919.shtml",
-      "content": "美银证券发布研报称，维持中银香港（02388）“中性”评级及51.36港元目标价，维持盈利预测不变。公司前九个月核心盈利同比增长1%至450亿港元，经营溢利同比增长3.7%...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "01:37",
-      "keywords": [
-        "美银证券",
-        "中银香港",
-        "目标价"
-      ]
-    },
-    {
-      "title": "交银国际：康龙化成维持“买入”评级 目标价46.60港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-03/doc-inixmhhe6798018.shtml",
-      "content": "交银国际发布研报称，维持康龙化成（03759）“买入”评级及行业重点推荐。基于强劲的订单表现，该行上调2026-28年经调整净利润预测1-6%。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "01:36",
-      "keywords": [
-        "交银国际",
-        "康龙化成",
-        "目标价"
-      ]
-    },
-    {
-      "title": "【早盘三分钟】11月3日华宝基金ETF早知道",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-11-03/doc-inixmhhi8855424.shtml",
-      "content": "金融科技ETF华宝（159851） 储能电池ETF华宝（159071）",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "01:28",
-      "keywords": []
-    },
-    {
-      "title": "华宝基金红利风向标：两市11月首战告捷！中小盘红利表现突出",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-11-03/doc-inixmhhh2404143.shtml",
-      "content": "",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "01:27",
-      "keywords": []
     },
     {
       "title": "10月，高质量因子策略跑赢沪深300指数2.21%",
@@ -796,296 +621,522 @@
       ]
     },
     {
-      "title": "黄金股早盘集体回暖 万国黄金集团涨逾7%山东黄金涨超4%",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-03/doc-inixmnqf8784604.shtml",
-      "content": "黄金股早盘集体回暖，截至发稿，万国黄金集团（03939）上涨6.89%，报11.79港元；山东黄金（01787）上涨4.05%，报16.19港元；灵宝黄金（03330）上涨4.25%，报14...",
+      "title": "MHMarkets迈汇:黄金关键关口面临阻力",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/roll/2026-11-03/doc-inixncmw2233126.shtml",
+      "content": "11月3日，金价上探关键整数关口后仍遇阻力，市场对短线反弹的持续性保持审慎。MHMarkets迈汇在梳理当日市场信息时表示，这类变化首先提示投资者关注定价链条中的边际调整...",
       "priority": "low",
       "sectors": [
         "黄金"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-11-03",
-      "time": "02:36",
+      "time": "10:02",
       "keywords": [
-        "万国黄金集团",
-        "涨逾"
+        "黄金",
+        "美元"
       ]
     },
     {
-      "title": "油价反弹与中期选举不确定性拉锯，美元兑加元往哪走？",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-11-03/doc-inixmnqa6726709.shtml",
-      "content": "汇通财经APP讯——美元兑加元在前一日小幅上涨后一度走低，随后收复部分跌幅，周二（11月2日）亚洲时段交投于1.3990附近，整体仍处于近期低位区间。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "02:26",
-      "keywords": []
-    },
-    {
-      "title": "北京市通州区区长助理林巍：不动产进入信托可以让养老信托服务如虎添翼",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/insurance/2026-11-03/doc-inixmnqf8776978.shtml",
-      "content": " 11月3日金融一线消息，由北京工商大学主办、阳光保险集团协办的2026大运河·养老金融研讨会10月31日于北京市通州区阳光金融城举办，",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "02:25",
-      "keywords": []
-    },
-    {
-      "title": "中国（深圳）综合开发研究院原院长樊纲：养老金融关乎宏观经济大账",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/insurance/2026-11-03/doc-inixmnqa6718951.shtml",
-      "content": "11月3日金融一线消息，由北京工商大学主办、阳光保险集团协办的2026大运河·养老金融研讨会近日于北京市通州区阳光金融城举办，本次研讨会以“以养老金融学发展推动养老金融...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "02:19",
-      "keywords": []
-    },
-    {
-      "title": "开拓药业-B盘中涨超13% KX-826治脱发长期安全性试验完成",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-03/doc-inixmnqe2321697.shtml",
-      "content": "开拓药业-B（09939）盘中涨超13%，截至发稿，涨幅收窄股价上涨6.75%，现报1.35港元，成交额97.42万港元。 开拓药业今早公告，其自主研发、潜在同类首创的KX-826酊1...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "02:19",
-      "keywords": [
-        "开拓药业-B",
-        "涨超"
-      ]
-    },
-    {
-      "title": "油价回落缓解通胀担忧，现货黄金超跌反弹，等待压力测试",
+      "title": "Moneta Markets外汇:白银需求预期增添弹性",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/nmetal/hjzx/2026-11-03/doc-inixmnqa6716879.shtml",
-      "content": "文章来源：汇通财经 周二亚洲早间交易时段，现货黄金（XAU/USD）反弹至3950美元附近，油价下行带来通胀担忧缓和，推动贵金属从前期低位展开修复行情...",
+      "url": "https://finance.sina.com.cn/money/future/roll/2026-11-03/doc-inixncmu6682099.shtml",
+      "content": "11月3日，贵金属在急跌后反弹，白银的中期需求预期也为市场提供了新的观察维度。Moneta Markets外汇在梳理当日市场信息时表示，这类变化首先提示投资者关注定价链条中的边...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "10:00",
+      "keywords": [
+        "贵金属",
+        "白银市"
+      ]
+    },
+    {
+      "title": "OEXN:贵金属调整检验配置耐心",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/roll/2026-11-03/doc-inixncms9904882.shtml",
+      "content": "11月3日，黄金和白银调整后引发价值评估讨论，市场开始比较价格回撤与长期配置逻辑。OEXN在梳理当日市场信息时表示，这类变化首先提示投资者关注定价链条中的边际调整...",
       "priority": "low",
       "sectors": [
         "黄金"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-11-03",
-      "time": "02:17",
-      "keywords": []
+      "time": "09:58",
+      "keywords": [
+        "白银市",
+        "黄金"
+      ]
     },
     {
-      "title": "苹果大中华区营收上财季创下纪录新高 经受住成本上升的考验",
+      "title": "Vatee外汇:制造业数据扰动黄金节奏",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/roll/2026-11-03/doc-inixncms9903832.shtml",
+      "content": "11月3日，最新制造业数据令黄金反弹受阻，市场重新衡量增长韧性对利率预期的影响。Vatee外汇在梳理当日市场信息时表示，这类变化首先提示投资者关注定价链条中的边际调整...",
+      "priority": "low",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "09:56",
+      "keywords": [
+        "制造业数据",
+        "黄金"
+      ]
+    },
+    {
+      "title": "伊朗称其对任何袭击的回应都构成“正当防卫”",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixmnpy9937816.shtml",
-      "content": " 苹果公司大中华市场营收在截至9月的财季创下纪录新高，经受住了内存等零部件成本上升带来的冲击。这家iPhone生产商在中国内需疲软的环境下的表现优于竞争对手。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixncmx8680354.shtml",
+      "content": "据伊朗半官方媒体ISNA报道，伊朗副外长Kazem Gharibabadi表示，伊朗在与美国的冲突中采取的任何行动都将构成“正当防卫”。他指的是双方在霍尔木兹海峡的伊朗格什姆岛周围发...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-11-03",
-      "time": "02:15",
+      "time": "09:56",
       "keywords": []
     },
     {
-      "title": "阳光保险集团联席CEO彭吉海：让每位长者安享幸福晚年需多方力量携手同行",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/insurance/2026-11-03/doc-inixmnqe2319001.shtml",
-      "content": "11月3日金融一线消息，由北京工商大学主办、阳光保险集团协办的2026大运河·养老金融研讨会近日于北京市通州区阳光金融城举办，本次研讨会以“以养老金融学发展推动养老金融...",
+      "title": "ZFX山海证券:油价降温缓释通胀顾虑",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/roll/2026-11-03/doc-inixncmw2228665.shtml",
+      "content": "11月3日，油价回落缓和了部分通胀顾虑，黄金在此前下挫后获得修复空间。ZFX山海证券在梳理当日市场信息时表示，这类变化首先提示投资者关注定价链条中的边际调整...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "09:54",
+      "keywords": [
+        "证券",
+        "通胀"
+      ]
+    },
+    {
+      "title": "金利宝环球:实物需求观察黄金承接",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/roll/2026-11-03/doc-inixncmw2227494.shtml",
+      "content": "11月3日，价格回调后实物市场的承接情况成为黄金交易的重要补充信息。金利宝环球在梳理当日市场信息时表示，这类变化首先提示投资者关注定价链条中的边际调整...",
+      "priority": "low",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "09:52",
+      "keywords": [
+        "黄金"
+      ]
+    },
+    {
+      "title": "“金融+文旅”点亮秦皇小巷夜间烟火",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-03/doc-inixncmw2226505.shtml",
+      "content": "国庆长假期间，海风轻拂秦皇岛金梦海湾浴场，与之一路之隔的“秦皇小巷”灯火璀璨、人声鼎沸。举着糖画的孩子、拖着行李箱的游客、专程来“打卡”的年轻人...",
       "priority": "low",
       "sectors": [
         "金融"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-11-03",
-      "time": "02:14",
+      "time": "09:51",
       "keywords": []
     },
     {
-      "title": "北京工商大学副校长毛新述：发展养老金融既需要开拓创新的担当，更需要锲而不舍的坚守",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/insurance/2026-11-03/doc-inixmnpy9935253.shtml",
-      "content": "11月3日金融一线消息，由北京工商大学主办、阳光保险集团协办的2026大运河·养老金融研讨会近日于北京市通州区阳光金融城举办，本次研讨会以“以养老金融学发展推动养老金融...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "02:12",
-      "keywords": []
-    },
-    {
-      "title": "7天“剧本”套路聊天，央媒揭秘“AI生成女友”",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/consume/xiaofei/2026-11-03/doc-inixmnqa6713560.shtml",
-      "content": "在上海工作的刘先生在刷短视频时，认识了一位叫婷婷的美丽女子。双方网恋一段时间后，开始谈婚论嫁。然而刘先生想不到的是，他频频转账的这位“未婚妻”竟然是AI生成的。",
+      "title": "英国AI安全研究所约瑟夫・布鲁姆：大模型正变得越来越难以监控",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixncmu6675050.shtml",
+      "content": "监控 AI 模型、掌握它的意图与决策原因，被广泛视作保障 AI 安全运行的核心一环。但英国 AI 安全研究所（AISI）模型透明度负责人约瑟夫・布鲁姆表示...",
       "priority": "low",
       "sectors": [
         "AI"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-11-03",
-      "time": "02:00",
+      "time": "09:50",
       "keywords": []
     },
     {
-      "title": "摩根资产管理每周市场洞察：AI叙事面临挑战，全球市场震荡加剧",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/jjsy/2026-11-03/doc-inixmhhc0051227.shtml",
-      "content": "一周大事 10月30日，中国人民银行发布公告，为进一步优化短端利率调控机制，从2026年11月2日起，每个工作日开展隔夜逆回购操作招标，采用固定利率、数量招标...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "01:59",
-      "keywords": []
-    },
-    {
-      "title": "人民银行上调外汇存准率，在岸、离岸人民币汇率贬值幅度超0.2%",
-      "source": "",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-03/doc-inixmhhe6819732.shtml",
-      "content": "（来源：北京商报） 北京商报讯（记者 董晗萱）11月3日，人民币对美元中间价调贬4个基点，报6.7150。前一交易日中间价报6.7146。 在岸、离岸人民币对美元双双贬值。",
+      "title": "民生银行全方位支持2026金融街论坛年会成功举办",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-03/doc-inixncmw2225660.shtml",
+      "content": "10月19日至22日，以“开放·合作·包容——共筑全球金融发展新生态”为主题的2026金融街论坛年会在北京举办，来自全球40多个国家和地区的400余位嘉宾参会。",
       "priority": "low",
       "sectors": [
         "金融"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-11-03",
-      "time": "01:52",
+      "time": "09:50",
       "keywords": []
     },
     {
-      "title": "龙蟠科技股价拉升近9% 前三季度营业收入同比增长110.72%",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-03/doc-inixmhhc0040091.shtml",
-      "content": "龙蟠科技（02465）早盘拉升近9%，截至发稿，股价上涨8.82%，现报7.035港元，成交额3757.23万港元。 10月30日，龙蟠科技发布公告，2026年前三季度，营业收入122.75亿元...",
+      "title": "61岁“云南猪王”好惨！正式离婚被前妻分走25亿，又遭“猪周期”沉重打击",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/s/2026-11-03/doc-inixncmu6681485.shtml",
+      "content": "来源：南财社 “云南猪王” 何祖训，在“猪周期”最艰难的时刻，又要闯一道婚姻关。 11月3日收盘后，神农集团（605296.SH）公告称，公司控股股东...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-11-03",
-      "time": "01:49",
-      "keywords": [
-        "龙蟠科技",
-        "拉升"
-      ]
-    },
-    {
-      "title": "华泰期货：锌出口窗口持续打开",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-03/doc-inixmhhh2424761.shtml",
-      "content": "来源：华泰期货 作者： 封帆 重要数据 现货方面：LME锌现货升水为70.75美元/吨。SMM上海锌现货价较前一交易日变化-250元/吨至25585元/吨...",
-      "priority": "low",
-      "sectors": [
-        "有色"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "01:47",
+      "time": "09:47",
       "keywords": []
     },
     {
-      "title": "德国总理默茨称下任总统必须是女性",
+      "title": "涉嫌操纵证券市场！A股公司实控人遭证监会立案！",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/s/2026-11-03/doc-inixncmu6671733.shtml",
+      "content": "来源：资本秘闻 涉嫌操纵证券市场，品茗科技实控人莫绪军遭证监会立案。 11月3日，品茗科技披露公告称，公司控股股东、实际控制人莫绪军于近日收到证监会下发的《立案告知...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "09:42",
+      "keywords": []
+    },
+    {
+      "title": "苹果首款家用机器人项目：举步维艰的攻坚之路",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixmhhh2423063.shtml",
-      "content": " 德国总理弗里德里希·默茨表示，德国必须首次任命一名女性担任国家元首。执政联盟即将决定明年由谁接替弗兰克-瓦尔特·施泰因迈尔出任总统。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixncmu6663599.shtml",
+      "content": " 为响应新任 CEO 约翰・特纳斯对机器人赛道的热情，苹果正全力推进一款家用机器人的上市筹备。但该项目方案几经推翻重构，团队对于产品该搭载哪些功能分歧不断。",
       "priority": "low",
       "sectors": [
-        "综合"
+        "机器人"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-11-03",
-      "time": "01:46",
+      "time": "09:35",
       "keywords": []
     },
     {
-      "title": "航空股早盘集体走高 中国东方航空及中国南方航空均涨逾5%",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-03/doc-inixmhhe6811143.shtml",
-      "content": "航空股早盘集体走高，截至发稿，中国东方航空（00670）上涨5.24%，报2.51港元；中国南方航空（01055）上涨4.80%，报2.95港元；中国国航（00753）上涨4.28%，报3...",
+      "title": "41款APP存在侵害用户权益行为被通报 涉付临门、交银金科等",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/bank/2026-11-03/doc-inixncms9886288.shtml",
+      "content": "11月3日金融一线消息，上海市通信管理局日前发布关于侵害用户权益行为APP（SDK）的通报（2026年第七批），41款App（SDK）因侵害用户权益被点名。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "morning",
       "date": "2026-11-03",
-      "time": "01:45",
+      "time": "09:33",
+      "keywords": []
+    },
+    {
+      "title": "A股市场，“自助者”越来越多",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/wm/2026-11-03/doc-inixncmx8664853.shtml",
+      "content": "11月2日，中国人民银行、中国证监会召开会议，研究推动支持资本市场工具使用。同日，中国人民银行、国家金融监督管理总局、中国证监会召集银行...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "09:29",
+      "keywords": []
+    },
+    {
+      "title": "光大期货1103热点追踪：谈判预期下，能化品后市怎么看？",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/2026-11-03/doc-inixncms9882174.shtml",
+      "content": "光大期货1103热点追踪：谈判预期下，能化品后市怎么看？",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "09:29",
+      "keywords": []
+    },
+    {
+      "title": "拓荆科技拟25亿元收购无锡尚积 国产设备平台化整合面临协同考验",
+      "source": "新浪证券",
+      "url": "https://finance.sina.com.cn/stock/aigcy/2026-11-03/doc-inixncmu6654876.shtml",
+      "content": " 拓荆科技拟通过发行股份及支付现金方式收购无锡尚积相关股权，交易总价为25亿元。标的公司的PVD和干法刻蚀设备，与拓荆科技原有薄膜沉积产品形成一定互补。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "09:24",
+      "keywords": []
+    },
+    {
+      "title": "大模型续约季已至，但部分客户并不买账",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixncmx8655473.shtml",
+      "content": "作者：Stephanie Palazzolo 我和同事注意到，大批企业大客户正在和大模型厂商重新谈判年度合同。 以往，软件供应商会借着续约窗口期，说服客户提高年度承诺采购额度。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "09:22",
+      "keywords": []
+    },
+    {
+      "title": "华大九天拟2.2亿元收购奇捷科技 国产EDA竞争转向工具链整合",
+      "source": "新浪证券",
+      "url": "https://finance.sina.com.cn/stock/aigcy/2026-11-03/doc-inixncmx8654868.shtml",
+      "content": "华大九天拟以2.19亿元收购奇捷科技50.38%的股权，交易完成后持股比例将升至73.87%。 此次收购的核心并非扩大收入规模，而是补充数字电路逻辑优化EDA工具。",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "09:21",
+      "keywords": []
+    },
+    {
+      "title": "因涉嫌信披违法违规 三星新材遭证监会立案",
+      "source": "新浪证券",
+      "url": "https://finance.sina.com.cn/stock/roll/2026-11-03/doc-inixncms9879702.shtml",
+      "content": "11月3日消息，据三星新材（603578）11月3日公告称，公司于11月3日收到中国证监会下发的《立案告知书》，因公司涉嫌信息披露违法违规，根据相关法律法规...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "09:16",
+      "keywords": []
+    },
+    {
+      "title": "OpenAI聘请前美国陆军部长担任高级顾问",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixncmx8651004.shtml",
+      "content": "丹・德里斯科尔于 9 月辞去陆军部长职务，如今重回私营部门。 前美国陆军部长丹・德里斯科尔加盟 OpenAI，助力该公司把自身 AI 技术拓展应用至国防及其他军事领域。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "09:14",
+      "keywords": []
+    },
+    {
+      "title": "AI漫剧爆火，大牛股6天5板，业内人士：20%在盈利，80%在陪跑",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/wm/2026-11-03/doc-inixncmw2203587.shtml",
+      "content": "记者|王其馨 编辑|和佳 林芊蔚 强燕 如果拍一部短剧的成本只有真人剧的零头，为什么赚钱的还是那20%？ AI把制作门槛拉平，供给迅速泛滥，需求却未同步放大。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "09:14",
+      "keywords": []
+    },
+    {
+      "title": "Salesforce斥资27亿美元收购初创企业Cresta",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixncmx8649981.shtml",
+      "content": "Salesforce 延续近期收购热潮，拿下一家脱胎于斯坦福大学人工智能实验室的 AI 呼叫中心初创公司。 Salesforce 持续开启收购模式，该公司于周一公布计划收购成立九年的 AI...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "09:13",
+      "keywords": []
+    },
+    {
+      "title": "野人先生加盟商砸毁自家门店，官方回应：第三方因素导致误会，经协商已妥善解决",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-03/doc-inixncms9869868.shtml",
+      "content": "11月3日下午消息，近日，一段“野人先生门店被砸”的视频在社交媒体流传。视频中，一名自称杭州大悦城野人先生1店加盟商的男子砸毁店内设施...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "09:12",
+      "keywords": []
+    },
+    {
+      "title": "SpaceX正与Boost Mobile洽谈合作，谋求扩大无线覆盖",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixncmu6645020.shtml",
+      "content": "无线运营商将 SpaceX 视作竞争对手威胁 据《华盛顿邮报》报道，SpaceX 正在和廉价移动运营商 Boost Mobile 展开谈判，希望在自身卫星网络之外进一步拓展无线覆盖范围。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "09:11",
+      "keywords": []
+    },
+    {
+      "title": "中微公司：刻蚀设备贡献逾八成收入增量，新业务商业化迈出关键一步",
+      "source": "新浪证券",
+      "url": "https://finance.sina.com.cn/stock/observe/2026-11-03/doc-inixncmx8646550.shtml",
+      "content": "出品：新浪财经上市公司研究院 作者：杳 2025年，中微公司刻蚀设备销售收入达到98.32亿元，较上年增加25.55亿元，占公司全年新增收入的76.97%。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "09:07",
+      "keywords": []
+    },
+    {
+      "title": "受伊朗战事提振炼油利润率，沙特阿美利润实现增长",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixncmu6638537.shtml",
+      "content": "核心要点沙特阿美公布第三季度调整后净利润同比上涨 9%，达到 312 亿美元，超出分析师预期。受炼油利润率走高推动，这家石油巨头的下游业务调整后收益暴涨 234%。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "09:03",
+      "keywords": []
+    },
+    {
+      "title": "受贿6750万余元 中国东航原党组书记、董事长刘绍勇一审被判十四年",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-03/doc-inixncmw2192635.shtml",
+      "content": "2026年11月3日，辽宁省沈阳市中级人民法院一审公开宣判中国东方航空集团有限公司原党组书记、董事长刘绍勇受贿案，对被告人刘绍勇以受贿罪判处有期徒刑十四年...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "09:00",
+      "keywords": []
+    },
+    {
+      "title": "六连阳！玻璃压力大不大？",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/2026-11-03/doc-inixncmw2199588.shtml",
+      "content": "作者：张丽/F3025228、Z0013855/ 一德期货能源化工分析师 文章原标题《玻璃：去库驱动不强，估值中性，上涨承压》 要点速览版基本判断 行情性质：低位情绪驱动反弹...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "08:53",
+      "keywords": []
+    },
+    {
+      "title": "油价是否具备持续回落的条件？",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/2026-11-03/doc-inixncms9870633.shtml",
+      "content": "作者：许鹏艳/F3034987、Z0014614/ 一德期货能源化工分析师 要点速览版事件推演 供应恢复：即便美伊达成协议，难现6月井喷式外运；...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "08:53",
+      "keywords": []
+    },
+    {
+      "title": "万辰集团冲刺港股途中遭立案：三季度归母净利润翻倍，合规却先亮起了红灯",
+      "source": "新浪证券",
+      "url": "https://finance.sina.com.cn/stock/aigcy/2026-11-03/doc-inixncmx8636878.shtml",
+      "content": "11月2日晚间，好想来、老婆大人等量贩零食品牌的母公司万辰集团（300972.SZ）公告称，当日收到中国证监会《立案告知书》，因涉嫌未及时履行关联交易临时信息披露义务等信息...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "morning",
+      "date": "2026-11-03",
+      "time": "08:50",
+      "keywords": []
+    },
+    {
+      "title": "“战场上可以打败敌人，商场上可以战胜对手，往往自己战胜不了自己。这也是个规律。”傅成玉在2014年3月对财新如是说",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-11-03/102500473.html?cxapp_link=true",
+      "content": "“战场上可以打败敌人，商场上可以战胜对手，往往自己战胜不了自己。这也是个规律。”傅成玉在2014年3月对财新如是说",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-03",
+      "time": "--:--",
       "keywords": [
-        "中国东方航空",
-        "涨逾"
+        "商圈"
       ]
     },
     {
-      "title": "华泰期货：库存回落支撑蛋价，供需尚未出现明确改善信号",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-03/doc-inixmhhh2421582.shtml",
-      "content": "市场要闻与重要数据 期货方面，昨日收盘鸡蛋 2612 合约3564元/500 千克，较前交易日变动+86.00元，幅度+2.47%。现货方面，辽宁地区鸡蛋现货价格4.04元/斤...",
+      "title": "耶金称，中东冲突冲击能源和化肥供应，推高农业成本，未来数月或面临食品通胀风险",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-11-03/102500264.html?cxapp_link=true",
+      "content": "耶金称，中东冲突冲击能源和化肥供应，推高农业成本，未来数月或面临食品通胀风险",
       "priority": "low",
       "sectors": [
-        "综合"
+        "能源",
+        "消费"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-03",
-      "time": "01:44",
-      "keywords": []
+      "time": "--:--",
+      "keywords": [
+        "华尔街原声"
+      ]
     },
     {
-      "title": "中央气象台：每 日 天 气 提 示（2026年11月03日）",
-      "source": "",
-      "url": "https://finance.sina.com.cn/money/future/hyxh/2026-11-03/doc-inixmhhc0012853.shtml",
-      "content": "来源：中央气象台网站 中央气象台预计，3-4日，江淮、江汉、江南以及重庆、贵州东部、广西北部等地有中到大雨，局地暴雨。4-6日，受冷空气影响，内蒙古、东北地区、华北...",
+      "title": "双方认为，AI数据中心需求推动半导体与光通信技术加速融合",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-11-03/102500205.html?cxapp_link=true",
+      "content": "双方认为，AI数据中心需求推动半导体与光通信技术加速融合",
       "priority": "low",
       "sectors": [
-        "综合"
+        "半导体",
+        "光模块",
+        "AI"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-03",
-      "time": "01:30",
-      "keywords": []
+      "time": "--:--",
+      "keywords": [
+        "华尔街原声"
+      ]
     },
     {
-      "title": "中信建投期货：11月3日能化早报",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-03/doc-inixmhhi8853938.shtml",
-      "content": "橡胶：短期偏弱震荡 周一，国产全乳胶18950元/吨，环比上日上涨100元/吨；泰国20号混合胶18530元/吨，环比上日上涨100元/吨。 原料端：昨日泰国胶水报收85.50泰铢/公斤...",
+      "title": "对于一小部分行动迅速的交易公司和技术娴熟的投资者来说，币安遭遇的63亿美元盗窃案是一次大赚快钱的机会",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-11-03/102500204.html?cxapp_link=true",
+      "content": "对于一小部分行动迅速的交易公司和技术娴熟的投资者来说，币安遭遇的63亿美元盗窃案是一次大赚快钱的机会",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-03",
-      "time": "01:26",
-      "keywords": []
-    },
-    {
-      "title": "中信建投期货：11月3日黑色系早报",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-03/doc-inixmhhe6785647.shtml",
-      "content": "钢材早报：基本面偏弱，期钢重心继续下移 市场信息： 1、 工信部等五部门印发《重点产品碳足迹标准体系建设行动方案（2026—2028 年）》。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-03",
-      "time": "01:26",
-      "keywords": []
+      "time": "--:--",
+      "keywords": [
+        "市场动态"
+      ]
     },
     {
       "title": "一名记者大声问他是否会在周二中期选举后恢复对伊朗的军事打击，特朗普用口型回答“不”",
@@ -2283,70 +2334,6 @@
       "priority": "low",
       "sectors": [
         "机器人",
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "--:--",
-      "keywords": [
-        "华尔街原声"
-      ]
-    },
-    {
-      "title": "寿险公司是长期政府债券尤其重要的买家，因为他们利用这类债券来匹配长期负债",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-10-22/102495901.html?cxapp_link=true",
-      "content": "寿险公司是长期政府债券尤其重要的买家，因为他们利用这类债券来匹配长期负债",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "--:--",
-      "keywords": [
-        "市场动态"
-      ]
-    },
-    {
-      "title": "他表示，SpaceX和特斯拉已成立特别委员会，研究潜在合并。如果最终得以推进，这可能成为史上规模最大的企业合并交易",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-10-22/102495899.html?cxapp_link=true",
-      "content": "他表示，SpaceX和特斯拉已成立特别委员会，研究潜在合并。如果最终得以推进，这可能成为史上规模最大的企业合并交易",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "--:--",
-      "keywords": [
-        "市场动态"
-      ]
-    },
-    {
-      "title": "国际能源署(IEA)数据显示，阿联酋已将石油产量提高至纪录水平",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-10-22/102495898.html?cxapp_link=true",
-      "content": "国际能源署(IEA)数据显示，阿联酋已将石油产量提高至纪录水平",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "--:--",
-      "keywords": [
-        "市场动态"
-      ]
-    },
-    {
-      "title": "预计未来两三周市场仍有波动，AI投资热点将逐渐从基础设施转向技术应用",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-10-21/102495617.html?cxapp_link=true",
-      "content": "预计未来两三周市场仍有波动，AI投资热点将逐渐从基础设施转向技术应用",
-      "priority": "low",
-      "sectors": [
         "AI"
       ],
       "period": "noon",
