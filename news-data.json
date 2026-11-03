@@ -1,113 +1,170 @@
 {
-  "updated": "2026-11-03T18:00:16.287266",
-  "total": 150,
+  "updated": "2026-11-03T23:38:12.638619",
+  "total": 149,
   "sources": [
     "新浪财经",
     "akshare-财新",
     "Tushare"
   ],
   "priority_dist": {
-    "high": 12,
-    "medium": 29,
-    "low": 109
+    "high": 16,
+    "medium": 30,
+    "low": 103
   },
   "items": [
     {
-      "title": "分析师称：民主党中期选举若表现亮眼，市场或将对AI监管心生担忧",
+      "title": "市场分析：若民主党横扫中期选举，可能会加剧对数据中心支出、电力成本及AI监管的审查力度",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixnuiq2041123.shtml",
-      "content": " 一位资深固收分析师表示，如果民主党在周二的中期选举中取得强势表现，金融市场可能会因为对 AI 监管的担忧而陷入紧张情绪。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixpmfh1759153.shtml",
+      "content": "对于亚洲投资者而言，若民主党横扫选举，可能会加剧对数据中心支出、电力成本及AI监管的审查力度，从而给韩国等带来更大压力。而就在当前...",
       "priority": "high",
       "sectors": [
+        "能源",
         "AI"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-11-03",
-      "time": "17:06",
+      "time": "23:33",
       "keywords": []
     },
     {
-      "title": "9月职位空缺大幅走高，非农就业报告出炉前劳动力市场释放积极信号",
+      "title": "现代汽车与起亚10月份美国销量均创下历史同月最高",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixnuin6509360.shtml",
-      "content": "核心要点美国劳工统计局（BLS）周二公布：9 月职位空缺增加 33.3 万个，招聘人数、主动辞职人数双双上升，裁员人数出现下降。在周五重磅非农就业数据发布之前...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixpmfe6240933.shtml",
+      "content": " 现代汽车及其姊妹公司起亚周二公布，得益于混合动力汽车和电动汽车（EV）车型的强劲需求，两家公司10月份在美国的汽车销量均创下历史新高。",
+      "priority": "high",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-11-03",
+      "time": "23:20",
+      "keywords": []
+    },
+    {
+      "title": "完善全链条监管体系 持续增强资本市场韧性和信心",
+      "source": "中国证券报",
+      "url": "https://finance.sina.com.cn/stock/2026-11-04/doc-inixpmfe6238534.shtml",
+      "content": "● 本报记者 昝秀丽 中国证监会党委日前在传达贯彻党的二十届五中全会精神时强调，把增强党性作为根本性任务，在强化思想政治建设上从严；狠抓“关键少数”...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-11-03",
-      "time": "16:47",
+      "time": "23:15",
       "keywords": []
     },
     {
-      "title": "克里格胡椒博士：咖啡业务仍面临挑战",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixnuin6497980.shtml",
-      "content": "内容概要 克里格胡椒博士公布第三季度利润、销售额双双增长，整体净销售额大涨 71%，达到 73.4 亿美元。 尽管最新季度利润和营收实现增长...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "16:15",
-      "keywords": []
-    },
-    {
-      "title": "雷蒙德・詹姆斯：逢低买入Lumentum",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixnpzt8581179.shtml",
-      "content": " Marvell公布收购交易消息之后，Lumentum（LITE） 周一股价暴跌超 18.5%。但投行雷蒙德・詹姆斯认为，这一轮抛售反应过度。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "15:02",
-      "keywords": []
-    },
-    {
-      "title": "长鑫科技收盘股价，创上市以来新低",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/s/2026-11-03/doc-inixnpzs2128920.shtml",
-      "content": " 11月3日收盘，长鑫科技股价报38.80元/股，下跌7.0%，创下自7月27日上市以来收盘新低，收盘总市值约2.63万亿元，较上市后市值高点累计缩水超过1万亿元。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "14:52",
-      "keywords": []
-    },
-    {
-      "title": "超30家A股公司，进场！股票回购增持贷款再加速",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/wm/2026-11-03/doc-inixnpzt8564430.shtml",
-      "content": "A股市场股票回购增持再贷款政策再度受到广泛关注。一方面，回购增持贷款再现加速迹象。据Wind数据，今年10月下旬以来，已有超30家A股上市公司披露回购增持贷款事宜。",
+      "title": "央行将上调金融机构外汇存款准备金率至6%",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-04/doc-inixpmfi8189154.shtml",
+      "content": "本报记者刘琪 据中国人民银行网站11月3日消息，为加强金融机构外汇流动性管理，中国人民银行决定，自2026年11月15日起，上调金融机构外汇存款准备金率2个百分点...",
       "priority": "high",
       "sectors": [
         "金融"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-11-03",
-      "time": "14:15",
+      "time": "22:43",
       "keywords": []
     },
     {
-      "title": "千亿PCB龙头，利好",
-      "source": "中国证券报-中证网",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-03/doc-inixnpzt8565484.shtml",
-      "content": "11月3日晚，PCB龙头东山精密公告称，公司当日收到控股股东出具的提议函，提议公司实施未来三年股东回报安排，其中，公司针对2026会计年度实施的股东回报总额不低于10亿元。...",
+      "title": "证监会：全力维护资本市场平稳运行",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-04/doc-inixpmfa9447614.shtml",
+      "content": "本报记者田鹏 11月3日，中国证监会副主席李超在2026国际金融领袖投资峰会上表示，当前世界百年变局加速演进，以人工智能为代表的新一轮科技革命和产业变革加速突破...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-11-03",
-      "time": "14:11",
+      "time": "22:43",
+      "keywords": []
+    },
+    {
+      "title": "欧洲央行管委：若经济状况不变 12月存在加息可能",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixpmfe6222598.shtml",
+      "content": "欧洲央行管委Martin Kocher表示，如果经济状况保持不变，央行年内可能再次加息。 Kocher接受采访时表示：“如果形势没有变化，如果价格维持在当前水平，而且没有其他变化...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-03",
+      "time": "22:40",
+      "keywords": []
+    },
+    {
+      "title": "油市悬念拉满，日内5%的剧烈波动惊心动魄",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-04/doc-inixpmfh1749818.shtml",
+      "content": "来源：能源研发中心 后市观点 夜盘油价一度再次崩盘，从日内高点再跌超6%，后半夜又在反弹收复近半跌幅，日线上收出长星线，本周连续二个交易日上演超级波动。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-03",
+      "time": "22:36",
+      "keywords": []
+    },
+    {
+      "title": "11月4日外盘头条：苹果警告AI智能体风险 AMD财报后大涨 摩根资管呼吁取消20年期美债 Meta发行150亿美元债券",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixpexh6324736.shtml",
+      "content": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、特朗普：对伊朗发动了“小规模攻击” 2、苹果警告称，AI智能体以“意外或不可预测”方式行事会带来风险 3...",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-11-03",
+      "time": "21:37",
+      "keywords": []
+    },
+    {
+      "title": "AMD财报后股价大涨7%，数据中心营收近乎翻倍",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixpexe9543295.shtml",
+      "content": " 超威半导体（AMD）周二公布了第三季度财报，业绩超出华尔街预期，营收同比增长45%，数据中心销售额较上年同期近乎翻倍。该股盘后大涨7%。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-03",
+      "time": "21:28",
+      "keywords": []
+    },
+    {
+      "title": "央行近五年首次上调外汇存款准备金率",
+      "source": "",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-04/doc-inixpexh6305724.shtml",
+      "content": "（来源：经济参考报） 记者11月3日获悉，为加强金融机构外汇流动性管理，中国人民银行决定，自2026年11月15日起，上调金融机构外汇存款准备金率2个百分点...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-03",
+      "time": "20:55",
+      "keywords": []
+    },
+    {
+      "title": "电子、高端装备、新材料、创新药业绩向好前三季度441家沪市公司净利增速超50%",
+      "source": "",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-04/doc-inixpexe9529678.shtml",
+      "content": "（来源：经济参考报） 截至2026年10月31日，沪市2317家上市公司全部完成三季报披露。从整体业绩大盘来看，2026年前三季度沪市上市公司合计实现营业收入39.07万亿元...",
+      "priority": "high",
+      "sectors": [
+        "医药"
+      ],
+      "period": "night",
+      "date": "2026-11-03",
+      "time": "20:55",
       "keywords": []
     },
     {
@@ -191,186 +248,199 @@
       ]
     },
     {
-      "title": "欧洲股市下跌 美伊协议乐观预期迅速消退",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixnuiq2046246.shtml",
-      "content": "欧洲股市周二下跌，盘中一度受美伊可能达成协议的乐观情绪推动上涨，但涨势很快消退。 斯托克欧洲600指数收跌0.6%。该指数午后早些时候曾短暂转涨...",
+      "title": "固态电池产业化进程提速 上市公司抢抓行业机遇",
+      "source": "证券时报网",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-04/doc-inixpmfh1759117.shtml",
+      "content": "转自：证券时报 人民财讯11月4日电，近期，多家车企的半固态电池项目陆续推进至中试、装车验证阶段，全固态电池也在持续开展技术攻坚。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-11-03",
-      "time": "17:25",
+      "time": "23:32",
       "keywords": []
     },
     {
-      "title": "中期选举结果或颠覆特朗普时代数字金融市场格局",
+      "title": "对冲基金大鳄阿克曼：超大规模云服务商的巨额AI支出将带来超预期回报",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixnuik9738930.shtml",
-      "content": " 特朗普重返白宫为数字金融行业一批相对新兴的金融公司带来了利好。一些交易员正在为周二中期选举后这种局面可能出现的改变未雨绸缪。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixpmfi8206834.shtml",
+      "content": " 美国对冲基金大鳄比尔·阿克曼（Bill Ackman）看好那些在人工智能（AI）领域投入资金最多的企业，尽管投资者对投入AI基础设施的巨额资金感到担忧。",
       "priority": "medium",
       "sectors": [
-        "金融"
+        "AI"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-11-03",
-      "time": "17:07",
+      "time": "23:25",
       "keywords": []
     },
     {
-      "title": "标普500指数接近史高 但高盛交易员指其中60%的个股身处熊市",
+      "title": "CVS将分拆旗下同名连锁药店业务",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixnuik9735808.shtml",
-      "content": "标普500指数距其最近的纪录高位只有3%左右，但这个美股基准60%的成分股处在熊市之中。 这是高盛集团交易员Bobby Molavi描绘的惊人图景。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "16:56",
-      "keywords": []
-    },
-    {
-      "title": "阿克曼警示：投机交易升温，股市沦为“赌场”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixnuin6506942.shtml",
-      "content": "核心要点潘兴广场资本创始人比尔・阿克曼表示，投机交易盛行造成股价剧烈震荡，他担忧股市机制已经 “失灵”。这种市场波动，给这只对冲基金创造了以折价买入优质企业的机会...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixpmfi8206512.shtml",
+      "content": " CVS Health宣布，将拆分为两家公司，把其零售药店业务与保险及药品福利管理业务剥离。此举将逆转曾定义医疗健康行业“巨头时代”的标志性交易之一。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-11-03",
-      "time": "16:40",
+      "time": "23:25",
       "keywords": []
     },
     {
-      "title": "Palantir美股开盘跌超5%，尽管营收增长96%，但合同总额增速放缓引发担忧",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixnpzs2128812.shtml",
-      "content": "11月3日，美国人工智能数据分析公司Palantir（PLTR）美股开盘下跌超过5%，尽管公司第三季度营收及利润双双超预期，并上调全年业绩指引...",
+      "title": "刚需韧性与宏观稳增长预期共振！预计今日钢市......",
+      "source": "",
+      "url": "https://finance.sina.com.cn/money/future/wemedia/2026-11-04/doc-inixpmfa9456476.shtml",
+      "content": "来源：中联钢信网 一 市场行情 昨日国内钢材市场整体呈现期现震荡偏弱、现货主稳局部小幅下探的格局，黑色系主要品种主力螺纹跌0.93%、热卷跌0.54%、铁矿跌0.74%、焦炭跌1...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-11-03",
-      "time": "14:57",
+      "time": "23:00",
       "keywords": []
     },
     {
-      "title": "世界黄金协会：印度三季度非法黄金进口创2023年以来新高",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixnpzs2125965.shtml",
-      "content": "世界黄金协会一份报告显示，受政府上调黄金进口关税影响，印度三季度非法黄金进口量飙升至2023年以来最高水平。 这家由黄金生产商出资的机构援引Metals...",
-      "priority": "medium",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "14:48",
-      "keywords": []
-    },
-    {
-      "title": "汇丰警告勿押注中期选举利好股市：“阵痛还在后面”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixnpzq6593791.shtml",
-      "content": " 股票投资者或许会把美国中期选举视作一次风险出清事件，但汇丰策略师提醒，受人工智能以及中东局势相关风险影响，短期内应当保持谨慎，并警示“阵痛还在后面”。",
+      "title": "宽基ETF交易活跃度提升",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-04/doc-inixpmfh1738557.shtml",
+      "content": "本报记者彭衍菘 11月3日，多只宽基ETF（交易型开放式指数基金）成交显著放量。 万得数据显示，11月3日，全市场387只宽基ETF合计成交额达1839.55亿元，较前一交易日增加544...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-11-03",
-      "time": "14:46",
+      "time": "22:43",
       "keywords": []
     },
     {
-      "title": "机构调研，协创数据称DDR报价上调30%已落地，看好至少三年涨价周期",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-11-03/doc-inixnpzt8571326.shtml",
-      "content": "每经记者|陈俊杰每经编辑|张益铭 一场投资者交流中，协创数据给出了三个方向的存储判断：DDR（双倍数据率同步动态随机存储器）“非常短缺”，Flash（闪存）“相对较弱”...",
+      "title": "中国物流业景气指数连续6个月处于扩张区间",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-04/doc-inixpmfe6223644.shtml",
+      "content": "本报记者孟珂 11月3日，中国物流与采购联合会发布数据显示，2026年10月份中国物流业景气指数为51.2%，较9月份回落0.3个百分点。 中国物流与采购联合会总工程师刘宇航认为...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-11-03",
-      "time": "14:32",
+      "time": "22:43",
       "keywords": []
     },
     {
-      "title": "开盘：中期选举日三大股指涨跌不一，芯片股反弹、油价回落",
+      "title": "【沥燃日报】地缘溢价回落重挫燃料油，关注关键美伊谈判窗口动态",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-04/doc-inixpmfe6238902.shtml",
+      "content": "来源：能源研发中心 【燃料油】 期货：11月3日国内白天收盘，主力FU2701日内继续下跌后震荡拉升，收5081元/吨，跌幅4.8%，持仓19.53万手...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-03",
+      "time": "22:36",
+      "keywords": []
+    },
+    {
+      "title": "美国股市：芯片股推动标普500指数反弹 分析师看好中期选举后的行情",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixnpzq6587231.shtml",
-      "content": "周二，经历此前一轮抛售之后，资金重新回流科技核心个股；与此同时，美国中期选举投票开启前夕，油价出现下跌。 道指跌0.36%，标普500指数涨0.10%，纳指涨0.47%。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixpexk1851141.shtml",
+      "content": "美国中期选举投票进行之际，标普500指数止步三连跌，连日重挫的芯片股迎来反弹。 美国本土的投票站最早于美东时间下午6点关闭，押注平台Polymarket的交易价格显示...",
       "priority": "medium",
       "sectors": [
         "半导体"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-11-03",
-      "time": "14:31",
+      "time": "21:57",
       "keywords": []
     },
     {
-      "title": "中信证券2027年资本市场策略会召开——融光聚存 向新而行",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-11-03/doc-inixnpzq6591679.shtml",
-      "content": "来源：中信证券发布 融光聚存，向新而行 ——中信证券2027年资本市场策略会 CITICS Capital Market Strategy Conference 2027 中信证券2027年资本市场策略会于2026年11月3日...",
+      "title": "11月4日热门中概股涨跌互现 京东涨超2% 拼多多阿里跌超1%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixpexh6330011.shtml",
+      "content": "11月4日热门中概股涨跌互现，纳斯达克中国金龙指数（HXC）收涨0.21%。 上涨个股（按市值从高到低）：台积电涨 1.55%，网易涨 0.64%，联电涨 0.06%，京东涨 2.32%...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-11-03",
-      "time": "14:30",
+      "time": "21:49",
       "keywords": []
     },
     {
-      "title": "“小作文”传野村下调中际旭创目标价至330元，野村回应：不属实",
-      "source": "界面",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-03/doc-inixnpzs2119094.shtml",
-      "content": "界面新闻记者 | 孙艺真 11月3日，一张标注发布机构为野村、声称将中际旭创（300308.SZ，03308.HK）A股目标价下调至330元的研报截图正在投资社群快速流转。",
+      "title": "以方被曝对美国将结束安全援助“感到担忧”",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-04/doc-inixpexm8313752.shtml",
+      "content": "据以色列方面3日消息，以方官员和国防机构对美国总统特朗普当天称即将结束向以色列提供安全援助“感到担忧”。 一名以方官员说，以总理办公室目前没有公布任何关于此事的正式...",
       "priority": "medium",
       "sectors": [
-        "光模块"
+        "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-11-03",
-      "time": "14:30",
+      "time": "21:44",
       "keywords": []
     },
     {
-      "title": "“行业危机”：德国汽车行业再度开启裁员，舍弗勒裁减3460个岗位、发力国防业务",
+      "title": "11月4日美股收盘：选举日道指跌200点 标普纳指结束三日连跌 芯片股反弹",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixnpzq6582487.shtml",
-      "content": "核心要点舍弗勒计划裁减 3460 个工作岗位，关闭欧洲五处工厂；其中约 2660 个岗位、四处工厂位于德国，公司将此归咎于 “行业危机”。到 2028 年...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixpexm8289280.shtml",
+      "content": "纳斯达克综合指数周二上涨，因投资者在近期承压后重新买入关键科技股，并为美国中期选举结果做准备。 纳指上涨0.8%，收复了部分近期跌幅。",
       "priority": "medium",
       "sectors": [
-        "消费"
+        "半导体"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-11-03",
-      "time": "14:23",
+      "time": "21:19",
       "keywords": []
     },
     {
-      "title": "华为在港发布Fintelligent AI解决方案 三大智慧工厂助金融机构转型",
-      "source": "观点地产网",
-      "url": "https://finance.sina.com.cn/stock/estate/integration/2026-11-03/doc-inixnpzt8564378.shtml",
-      "content": "观点网讯：11月3日，华为在香港举行“智启香江 融通未来——华为香港AI+金融高峰论坛”，会上发布全新Fintelligent AI解决方案，目标协助金融机构应对人工智能规模化落地过程中...",
+      "title": "重点城市二手房“银十”成交活跃 市场回稳仍需巩固",
+      "source": "",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-04/doc-inixpexe9529696.shtml",
+      "content": "（来源：经济参考报） 近期，多家市场机构发布的10月房地产监测数据显示，传统销售旺季“银十”收官，房地产市场呈现显著的结构性分化特征。",
       "priority": "medium",
       "sectors": [
-        "金融",
-        "AI"
+        "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-11-03",
-      "time": "14:15",
+      "time": "20:55",
+      "keywords": []
+    },
+    {
+      "title": "医药主题产品业绩突围 基金经理聚焦阿尔法机会",
+      "source": "中国证券报-中证网",
+      "url": "https://finance.sina.com.cn/money/fund/2026-11-04/doc-inixpexh6304105.shtml",
+      "content": "● 本报记者万宇 三季度以来，医药主题基金净值回升，业绩弯道超车，医药主题基金投资热度随之升温。公募基金对医药板块的配置增加，医药主题基金规模增长。",
+      "priority": "medium",
+      "sectors": [
+        "医药"
+      ],
+      "period": "night",
+      "date": "2026-11-03",
+      "time": "20:41",
+      "keywords": []
+    },
+    {
+      "title": "加仓医药减仓科技硬件 机构积极挖掘港股结构性机遇",
+      "source": "中国证券报-中证网",
+      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-11-04/doc-inixpexm8281077.shtml",
+      "content": "● 本报记者胡雨 随着公募基金三季报披露完毕，其对港股的配置变动情况备受关注。整体而言，截至三季度末，主动偏股型公募基金港股仓位相对基准依旧低配。",
+      "priority": "medium",
+      "sectors": [
+        "医药"
+      ],
+      "period": "night",
+      "date": "2026-11-03",
+      "time": "20:41",
       "keywords": []
     },
     {
@@ -632,423 +702,370 @@
       ]
     },
     {
-      "title": "假招聘、恶意软件和AI 币安披露史上最大加密货币盗窃案细节",
+      "title": "OpenAI聘请前优步总裁负责全球公关事务，填补空缺10个月职位",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixnuik9741491.shtml",
-      "content": " 币安控股周二表示，在一起造成63亿美元损失的盗窃案中，黑客使用了包括虚假求职面试在内的社会工程手段以及恶意软件。这是迄今有关此次事件如何发生的最详细说明。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixpmfh1760156.shtml",
+      "content": "OpenAI 聘请了优步科技公司的一位高管负责其全球传播事务。这一关键职位此前已空缺近一年；在 OpenAI 应对复杂政治环境并向首次公开募股（IPO）迈进之际...",
       "priority": "low",
       "sectors": [
         "AI"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-11-03",
-      "time": "17:14",
+      "time": "23:36",
       "keywords": []
     },
     {
-      "title": "中期选举：若民主党横扫国会，股市或将迎来震荡",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixnuin6515475.shtml",
-      "content": "核心要点投资者尚未充分定价民主党同时拿下参众两院的情景。一旦出现 “蓝色浪潮”，周三股价短期承压。历史规律显示，中期选举后的回调通常是买入机会...",
+      "title": "皓文控股拟“4并1”基准合并股份及“1供3”基准供股",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-04/doc-inixpmfi8210709.shtml",
+      "content": "皓文控股（08019）发布公告，董事建议进行股份合并，基准为每4股每股面值0.01港元的已发行及未发行股份合并为1股每股面值0.04港元的合并股份。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-11-03",
-      "time": "17:09",
-      "keywords": []
+      "time": "23:36",
+      "keywords": [
+        "皓文控股",
+        "基准",
+        "供股"
+      ]
     },
     {
-      "title": "迪士尼计划裁员数千人，要求部分管理者最高削减20%成本",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixnuik9733995.shtml",
-      "content": "核心要点据知情人士透露，迪士尼预计将裁员数千名员工。这是乔希・达马罗今年早些时候出任首席执行官之后的新一轮裁员。2023 年 6 月 3 日，佛罗里达州布埃纳维斯塔湖...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "16:50",
-      "keywords": []
-    },
-    {
-      "title": "Shopify第三季度营收、商品交易总额不及预期，股价大跌7%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixnuiq2035765.shtml",
-      "content": "核心要点Shopify 于周二盘前发布第三季度财报。这家电商平台盈利超出预期，但营收略低于路孚特（LSEG）分析师预期。商品交易总额（GMV）以及订阅业务毛利润均未达市场预期...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "16:45",
-      "keywords": []
-    },
-    {
-      "title": "拉斯维加斯突袭者老板：没有压力急于让替补四分卫门多萨仓促上场",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixnuir8485784.shtml",
-      "content": "核心要点突袭者队老板马克・戴维斯表示，外界没有给他压力，不必急于让本届状元秀、替补四分卫费尔南多・门多萨登场比赛。戴维斯认为...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "16:42",
-      "keywords": []
-    },
-    {
-      "title": "加拿大餐饮特许经营集团Foodtastic对MTY Food发起敌意收购",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixnuin6499040.shtml",
-      "content": "内容概要 Foodtastic 向竞争对手 MTY Food 集团发起敌意收购，对后者整体估值约 9.82 亿加元。 加拿大餐饮特许经营企业 Foodtastic 向 MTY Food 集团发起敌意收购...",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "16:17",
-      "keywords": []
-    },
-    {
-      "title": "欧洲多趟航班过去两天收到炸弹威胁 被迫改道",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixnuik9722427.shtml",
-      "content": "过去两天，欧洲多趟航班收到炸弹威胁，迫使载有数百名乘客的飞机改道，并在抵达后接受搜查。 相关航空公司表示，自周一以来，威兹航空两趟航班...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "16:16",
-      "keywords": []
-    },
-    {
-      "title": "汤森路透季度利润下滑，去年同期曾获资产出售收益",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixnuir8475697.shtml",
-      "content": "内容概要 汤森路透公布第三季度净利润从去年同期 4.23 亿美元降至 3.39 亿美元。 受去年资产出售带来的一次性增益消退，叠加软件摊销费用走高的挤压...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "16:13",
-      "keywords": []
-    },
-    {
-      "title": "意大利联合圣保罗银行上调盈利指引，收购西雅那银行的竞标进入关键阶段",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixnuik9718358.shtml",
-      "content": "内容概要 意大利联合圣保罗银行（Intesa Sanpaolo）第二次上调 2026 年净利润预期，受益于营收抬升、成本保持稳定；这家意大利大型银行正准备向规模较小的竞争对手西雅那银...",
+      "title": "力勤资源获控股股东增持154.72万股H股",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-04/doc-inixpmfe6248905.shtml",
+      "content": "力勤资源（02245）公布，近日，公司收到控股股东浙江力勤投资有限公司（以下简称“力勤投资”）出具的《关于增持宁波力勤资源科技股份有限公司 H...",
       "priority": "low",
       "sectors": [
         "金融"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-11-03",
-      "time": "16:10",
-      "keywords": []
+      "time": "23:35",
+      "keywords": [
+        "力勤资源",
+        "控股股东",
+        "增持"
+      ]
     },
     {
-      "title": "AI在多线中期选举博弈中直面选民",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixnuir8471748.shtml",
-      "content": "作者：纳特・艾夫斯 早上好。在今日中期选举到来前，人工智能渗透到各类政治竞选活动之中，正如它几乎渗入各行各业一般： 越来越多美国人会使用 AI...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "16:07",
-      "keywords": []
-    },
-    {
-      "title": "Meta拟通过美元债发行筹资约150亿美元 最早周三首发欧元债券",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixnuik9711246.shtml",
-      "content": " Meta Platforms Inc．寻求通过跨境美元债券发行筹集约150亿美元。在投资者对科技巨头高额支出怀疑加深之际，这些公司仍在发债为人工智能基础设施建设融资。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "15:51",
-      "keywords": []
-    },
-    {
-      "title": "甲骨文据悉将100亿美元股票发行中65%配售给10名投资者",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixnuik9706659.shtml",
-      "content": "据知情人士透露，甲骨文在规模100亿美元的股票发行中，将65%的发行股份配售给了认购规模最大的10名投资者。 知情人士表示，此次发行获得的认购需求达到可供发行股份数量的...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "15:39",
-      "keywords": []
-    },
-    {
-      "title": "IRIB：伊朗称与美国达成协议方面暂无新进展",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixnpzn9835187.shtml",
-      "content": " 伊朗国家电视台援引伊朗谈判团队发言人的话报道称，在达成协议方面尚未取得新的进展，通过斡旋方进行的信息往来仍像此前一样继续。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "15:33",
-      "keywords": []
-    },
-    {
-      "title": "美伊外交斡旋消息传出 油气价格延续跌势",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixnpzn9834963.shtml",
-      "content": "在有关美伊冲突可能出现进一步外交进展的未经证实报道传出后，石油和天然气价格延续跌势。 Al Araby新闻周二援引接近斡旋团队的消息人士报道称...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "15:32",
-      "keywords": []
-    },
-    {
-      "title": "欧洲多地超市冷藏设备遭遇网络攻击，事件详情",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixnpzt8590861.shtml",
-      "content": "核心要点周一，比利时、瑞典等多个欧洲国家的超市遭到网络攻击。这是一个月内欧洲超市第二次遭遇同类袭击，全球网络攻击频次持续走高。袭击引发各界对粮食安全的广泛担忧。...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "15:30",
-      "keywords": []
-    },
-    {
-      "title": "美国9月职位空缺数意外升至四个月高点 裁员人数下降",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixnpzt8586379.shtml",
-      "content": "美国9月职位空缺意外跃升至四个月高点，裁员人数下降，表明进入第四季度之际，企业对劳动力的需求有所增强。 劳工统计局周二公布的数据显示...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "15:16",
-      "keywords": []
-    },
-    {
-      "title": "美国9月职位空缺数增至752.3万 超出所有预期",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixnpzq6604956.shtml",
-      "content": "美国劳工统计局数据显示，9月职位空缺增加33.3万个，至752.3万个，高于预期的716.4万个。 33位经济学家的预测区间为700万至736万个。 前月数据从707.9万个修正至719万个。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "15:15",
-      "keywords": []
-    },
-    {
-      "title": "有可能废掉加州亿万富豪税的“毒药议案”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixnpzs2131568.shtml",
-      "content": "核心要点加州选民将于周二对第 40 号提案（即《亿万富豪税法》）进行投票，该提案计划对净资产超过 10 亿美元的加州居民一次性征收 5% 的财富税。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "15:05",
-      "keywords": []
-    },
-    {
-      "title": "汽车零部件需求低迷 舍弗勒拟关闭欧洲五家工厂、裁员3460人",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixnpzs2129664.shtml",
-      "content": " 舍弗勒集团计划关闭欧洲五处工厂并裁员，这家汽车零部件供应商正面临汽车零部件需求持续低迷、德国本地成本高企的困境。",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "15:00",
-      "keywords": []
-    },
-    {
-      "title": "加拿大股指期货盘前下跌1%，中东油价反弹及美国中期选举压制市场情绪",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixnpzs2129593.shtml",
-      "content": "11月3日，加拿大主要股指期货下跌，市场对中东局势再次升级及能源价格上涨的担忧升温，同时投资者在美国中期选举前保持谨慎。截至北京时间3日22时10分...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "15:00",
-      "keywords": []
-    },
-    {
-      "title": "Meta拟发行至少200亿美元债券，科技巨头加大举债力度支持AI基础设施建设",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixnpzs2128994.shtml",
-      "content": "11月3日，Meta Platforms计划通过美元及欧元债券发行筹集至少200亿美元，加入近期科技巨头密集发债融资的行列，以支持规模庞大的人工智能基础设施投资。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "14:57",
-      "keywords": []
-    },
-    {
-      "title": "特朗普：中期选举结果会“比你们预想的更好”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixnpzt8578534.shtml",
-      "content": "特朗普表示，周二的中期选举对共和党而言，结果将会“比你们预想的更好”，还宣称“通胀问题已经解决”，“一切进展顺利”。 特朗普在选前放出的这番表态...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "14:54",
-      "keywords": []
-    },
-    {
-      "title": "帅特龙IPO：80万元补足1994年未评估实物出资，应收占款接近营收六成",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/newstock/2026-11-03/doc-inixnpzq6598330.shtml",
-      "content": "来源：新财渤社 文\\青屿 宁波帅特龙汽车系统股份有限公司（以下简称“帅特龙”）于11月3日回复北交所首轮问询。 历史沿革中，公司1994年以星光厂净资产转制时...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "14:49",
-      "keywords": []
-    },
-    {
-      "title": "美国司法部：首次在全美50个州部署选举监督力量",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixnpzt8574831.shtml",
-      "content": "美国司法部周二早间发布公告称，将首次向全美50个州派出约1000名选举监察人员。 公告说明，监察人员主要核查各方是否遵守联邦选举权相关法律...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "14:43",
-      "keywords": []
-    },
-    {
-      "title": "知情人士：Meta拟发债募资至少200亿美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixnpzs2117534.shtml",
-      "content": " 据知情人士透露，Meta Platforms当地时间周二上午启动一笔投资级债券发行，目标募资规模200亿–250亿美元，公司持续筹措巨额资金，用于AI基建建设。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "14:27",
-      "keywords": []
-    },
-    {
-      "title": "披露重组预案！停牌10日后，秦港股份官宣复牌",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-11-03/doc-inixnpzq6583877.shtml",
-      "content": "每经记者|黄胜每经编辑|张益铭 因筹划发行股份及支付现金购买资产并募集配套资金暨关联交易事项，秦港股份（SH601326，股价3.57元，市值199.47亿元）已停牌10个交易日。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "14:25",
-      "keywords": []
-    },
-    {
-      "title": "潘功胜：维护股票、债券、外汇等金融市场平稳运行，守住不发生系统性金融风险底线",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-03/doc-inixnpzq6583679.shtml",
-      "content": "十四届全国人大常委会第二十五次会议3日上午在北京人民大会堂举行第二次全体会议。赵乐际委员长出席。 武维华副委员长主持会议。",
+      "title": "力勤资源控股股东拟增持不低于1亿元H股股份",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-04/doc-inixpmfh1759511.shtml",
+      "content": "力勤资源（02245）公布，2026 年 11 月 2 日，公司控股股东浙江力勤投资有限公司（以下简称“力勤投资”）全资子公司矩阵资源（浙江）有限公司（以下简称“矩阵资源”）以自有...",
       "priority": "low",
       "sectors": [
         "金融"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-11-03",
-      "time": "14:22",
+      "time": "23:34",
+      "keywords": [
+        "力勤资源",
+        "增持"
+      ]
+    },
+    {
+      "title": "东山精密控股股东提议2026年度股东回报总额不低于10亿元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-04/doc-inixpmfh1759032.shtml",
+      "content": "东山精密（02384）公布，为提升公司投资价值、实际回报全体投资者，结合当前公司稳健的经营情况以及对未来发展的信心，控股股东提议：建议公司在符合利润分配条件...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-03",
+      "time": "23:33",
+      "keywords": [
+        "东山精密",
+        "股东回报"
+      ]
+    },
+    {
+      "title": "康哲药业：创新药磷酸芦可替尼乳膏新加坡上市许可申请获批",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-04/doc-inixpmfi8209279.shtml",
+      "content": "康哲药业（00867）发布公告，集团附属公司RxilientMedical于2026年11月3日获得新加坡卫生科学局（HSA）批准磷酸芦可替尼乳膏（“产品”或“Lumirix®”）（白癜风适应症）新药上...",
+      "priority": "low",
+      "sectors": [
+        "医药"
+      ],
+      "period": "night",
+      "date": "2026-11-03",
+      "time": "23:32",
+      "keywords": [
+        "康哲药业",
+        "创新药",
+        "申请获批"
+      ]
+    },
+    {
+      "title": "英派药业-B拟回购不超过1亿港元公司H股",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-04/doc-inixpmfe6246493.shtml",
+      "content": "英派药业-B（07630）发布公告，董事会已议决根据于2026年6月25日举行的年度股东会上经公司股东批准并授予公司董事的一般授权，不时在香港联合交易所有限公司公开市场上购回...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-11-03",
+      "time": "23:30",
+      "keywords": [
+        "英派药业-B",
+        "回购",
+        "H股"
+      ]
+    },
+    {
+      "title": "3M公司承诺支付近74亿美元以了结与PFAS相关的索赔",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixpmfa9466670.shtml",
+      "content": "3M公司表示，作为与该公司产品中使用名为PFAS的化学物质有关的和解协议的一部分，承诺在未来九年支付73.5亿美元。 该公司表示，这项承诺涵盖了目前与诉讼相关的约99%的人身...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-03",
+      "time": "23:22",
       "keywords": []
     },
     {
-      "title": "为了用好AI，他们搬了工位！互联网大厂上演流程变革",
-      "source": "中国证券报-中证网",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-03/doc-inixnpzq6578998.shtml",
-      "content": "随着AI的深入应用，个人的工作效率得到大幅提升。而如何把一个人省下的时间，变成整个团队的进度，考验着工具之外的管理功夫。一场由AI引发的流程变革...",
+      "title": "美国中期选举部分地区投票结束 国会两院控制权为重中之重",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixpmfa9466244.shtml",
+      "content": "美国印第安纳州和肯塔基州部分地区周二结束投票，美国选民对唐纳德·特朗普第二个总统任期头两年的动荡局面作出评判。 初步计票结果可能为美国中期选举最终结果提供一些线索...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-03",
+      "time": "23:22",
+      "keywords": []
+    },
+    {
+      "title": "操盘必读：影响股市利好或利空消息_2026年11月4日_财经新闻",
+      "source": "股市直击",
+      "url": "https://finance.sina.com.cn/stock/cpbd/2026-11-04/doc-inixpmfh1755106.shtml",
+      "content": "宏观新闻 1、十四届全国人大常委会第二十五次会议3日上午在北京人民大会堂举行第二次全体会议。会议听取了中国人民银行行长潘功胜受国务院委托作的关于金融工作情况的报告...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-03",
+      "time": "23:21",
+      "keywords": []
+    },
+    {
+      "title": "股海导航_2026年11月4日_沪深股市公告与交易提示",
+      "source": "股市直击",
+      "url": "https://finance.sina.com.cn/stock/s/2026-11-04/doc-inixpmfh1755188.shtml",
+      "content": "【停牌】 无  【复牌】 601326 秦港股份 000972 *ST中基 沪深两市多家上市公司11月3日晚间发布公司公告，以下为重要公告汇总。 【品大事】...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-03",
+      "time": "23:20",
+      "keywords": [
+        "股海导航",
+        "沪深股市",
+        "公告提示"
+      ]
+    },
+    {
+      "title": "四大证券报头版头条内容精华摘要_2026年11月4日_财经新闻",
+      "source": "股市直击",
+      "url": "https://finance.sina.com.cn/stock/y/2026-11-04/doc-inixpmfa9464735.shtml",
+      "content": "11月4日（星期三），今日报刊头条主要内容精华如下： 中国证券报 “人工智能乌镇对话” DeepSeek、千问、MiniMax都来了 继去年主持“杭州六小龙乌镇对话”之后，11月3日...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-03",
+      "time": "23:18",
+      "keywords": [
+        "上证报",
+        "中证报",
+        "证券日报"
+      ]
+    },
+    {
+      "title": "伊朗要求美明确回应7项条件 特朗普再次喊话不排除对伊动武",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/roll/2026-11-04/doc-inixpmfa9458446.shtml",
+      "content": "【相关阅读】伊朗：保持“手指扣在扳机上” 伊朗要求美明确回应7项条件 否则不开放霍尔木兹海峡 特朗普：对伊朗发动了“小规模攻击” 当地时间3日，伊朗方面表示...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-03",
+      "time": "23:05",
+      "keywords": []
+    },
+    {
+      "title": "深耕源头创新 打通创新药价值兑现全链路",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-04/doc-inixpmfa9447934.shtml",
+      "content": "图①康方生物研发大楼中试车间正在进行实验研究 图②公司的自研新药展示 图③公司的生产人员正在进行生产张晓玉/摄 本报记者张晓玉 2012年...",
+      "priority": "low",
+      "sectors": [
+        "医药"
+      ],
+      "period": "night",
+      "date": "2026-11-03",
+      "time": "22:43",
+      "keywords": []
+    },
+    {
+      "title": "今日视点：为楼市注入更多确定性",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-04/doc-inixpmfh1738541.shtml",
+      "content": "■王丽新 中指研究院数据显示，10月份全国100个城市（中指研究院基于房地产市场变化情况及市场活跃度选择的100个样本城市）新建住宅平均价格为17316元/平方米，环比上涨0...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-03",
+      "time": "22:43",
+      "keywords": []
+    },
+    {
+      "title": "11月4日隔夜要闻：选举日特朗普称锁定关岛 伊朗称谈判无新进展 油价震荡走低 金价下跌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixpexk1862320.shtml",
+      "content": "市场 11月4日美股收盘：选举日道指跌200点 标普纳指结束三日连跌 芯片股反弹 11月4日美股成交额前20：甲骨文涨超5% 百亿股票配售 前十投资者拿下65%份额...",
+      "priority": "low",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-11-03",
+      "time": "22:30",
+      "keywords": []
+    },
+    {
+      "title": "大宗商品综述：油价震荡走低 铜价跌至七周低点 金价下跌",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixpexm8310422.shtml",
+      "content": " 油价震荡走低，交易员评估关于美伊和平谈判走向的不同信号。铜价跌至七周低点，市场权衡AI交易与美伊冲突前景。金价下跌，交易员在美国中期选举日避免建立大规模头寸。",
+      "priority": "low",
+      "sectors": [
+        "黄金",
+        "有色"
+      ],
+      "period": "night",
+      "date": "2026-11-03",
+      "time": "22:16",
+      "keywords": []
+    },
+    {
+      "title": "11月4日美股成交额前20：甲骨文涨超5% 百亿股票配售 前十投资者拿下65%份额",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixpexe9561725.shtml",
+      "content": "周二美股成交额第3名苹果收跌1.90%，成交202.77亿美元。 苹果周二在年度财务申报文件中表示，能够以“意外或不可预测的方式”行事的AI智能体可能使公司面临诉讼或损害其声誉...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-03",
+      "time": "22:07",
+      "keywords": []
+    },
+    {
+      "title": "AMD营收展望超预期 人工智能芯片需求强劲",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixpexh6331301.shtml",
+      "content": "作为英伟达在AI芯片领域的主要挑战者，AMD给出的营收预测高于分析师预期，显示数据中心处理器需求仍然强劲。 AMD周二在声明中表示，预计第四季度营收为170亿美元...",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-11-03",
+      "time": "21:52",
+      "keywords": []
+    },
+    {
+      "title": "美国债市：美债回吐早盘涨幅 收益率曲线趋陡",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixpexe9554931.shtml",
+      "content": "美国国债周二呈熊市趋陡走势。油价下跌一度在早盘提振美债，但随着油价脱离日内低点，美债涨势在美国午后逐渐消退。市场接下来将关注中期选举结果以及周三公布的再融资安排...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-03",
+      "time": "21:52",
+      "keywords": []
+    },
+    {
+      "title": "苹果警告称，AI智能体以“意外或不可预测”方式行事会带来风险",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixpexe9546126.shtml",
+      "content": " 苹果周二在年度财务申报文件中表示，能够以“意外或不可预测的方式”行事的AI智能体可能使公司面临诉讼或损害其声誉，从而对其业务构成威胁。",
       "priority": "low",
       "sectors": [
         "AI"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-11-03",
-      "time": "14:11",
+      "time": "21:33",
       "keywords": []
     },
     {
-      "title": "昆仑芯“A+H”上市节奏生变？百度否认推迟传闻",
+      "title": "原油：油价震荡走低 美伊和平谈判前景不明",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixpexh6318337.shtml",
+      "content": "油价在震荡交投中反复波动，交易员评估关于美伊和平谈判走向的不同信号。 全球基准布伦特原油收于每桶104美元下方，盘中波动区间超过6美元。欧洲天然气期货也下跌。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-11-03",
+      "time": "21:26",
+      "keywords": []
+    },
+    {
+      "title": "美国中期选举追踪：首个汽油涨破4美元的投票日 特朗普称锁定关岛",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-04/doc-inixpexk1834472.shtml",
+      "content": "在高企的燃料价格成为核心攻防焦点的美国中期选举中，周二迎来了史上首个汽油均价超过每加仑4美元的投票日。 面临中期大考的总统特朗普最后一刻仍在竭力争取选民投给共和党...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-03",
+      "time": "21:08",
+      "keywords": []
+    },
+    {
+      "title": "首次摆上“双十一”货架 Token走进大众消费",
       "source": "",
-      "url": "https://finance.sina.com.cn/stock/wbstock/2026-11-03/doc-inixnpzq6575956.shtml",
-      "content": "来源：@国际金融报微博11月3日，针对近日市场关于昆仑芯上市时间可能推迟的传闻，百度方面在回应《国际金融报》记者采访时表示，相关市场传闻及报道不属实。",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-04/doc-inixpexh6305715.shtml",
+      "content": "（来源：经济参考报） 今年“双十一”电商大促，Token（词元）以独立品类在多个电商平台上架，看不见、摸不着的算力服务，变成可以下单的商品。",
       "priority": "low",
       "sectors": [
-        "综合"
+        "消费"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-11-03",
-      "time": "14:11",
-      "keywords": []
-    },
-    {
-      "title": "俄罗斯确认新一轮俄乌和平谈判，特朗普夫人将主持停火相关会议",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-03/doc-inixnpzt8557740.shtml",
-      "content": "核心要点俄罗斯于周二确认，普京的顾问弗拉基米尔・梅金斯基将作为俄方首席谈判代表，参加 11 月 10‑11 日在阿布扎比举行的和平谈判。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-03",
-      "time": "14:10",
+      "time": "20:55",
       "keywords": []
     },
     {
