@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-06T19:39:41.398443",
+  "updated": "2026-11-07T00:17:07.232742",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,11 +7,168 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 27,
-    "medium": 25,
-    "low": 98
+    "high": 23,
+    "medium": 22,
+    "low": 105
   },
   "items": [
+    {
+      "title": "罚没1.27亿元！10月银行罚单环比回落，外汇领域开出千万级重罚",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-07/doc-inixwhse8265196.shtml",
+      "content": " 刚刚过去的10月份，银行业严监管态势延续，不过罚单数量与罚没金额较9月高点明显回落，外汇业务违规罚单则颇为引人关注。",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "23:28",
+      "keywords": []
+    },
+    {
+      "title": "11月7日隔夜要闻：美股涨跌不一纳指涨超1% 油价震荡 金价走低 俄美乌三方会谈将于11月10日在阿布扎比举行",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwakh8379297.shtml",
+      "content": "市场 11月7日收盘：三大指数涨跌不一 芯片股反弹 AI监管担忧仍存 11月7日热门中概股多数上涨，台积电涨超6%，理想汽车涨超5% 大宗商品综述：油价走势震荡 铜价下跌...",
+      "priority": "high",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "22:53",
+      "keywords": []
+    },
+    {
+      "title": "OpenAI据悉完成约110亿美元融资 估值1.25万亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwakq5272928.shtml",
+      "content": "据知情人士透露，OpenAI已完成约110亿美元的新融资，这是新一轮融资的首批资金，对该公司的估值为1.25万亿美元。 知情人士表示，截至周五，这笔资金已汇入公司。",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "22:30",
+      "keywords": []
+    },
+    {
+      "title": "大宗商品综述：油价走势震荡 铜价下跌 金价走低",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwakn8486854.shtml",
+      "content": "油价走势震荡，交易员关注伊朗战争降级前景。铜价跌至7月以来最低水平，美国政治格局变化可能削弱两大看涨因素。金价下跌，强劲的美国非农就业数据强化了市场对美联储将加...",
+      "priority": "high",
+      "sectors": [
+        "黄金",
+        "有色"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "22:07",
+      "keywords": []
+    },
+    {
+      "title": "11月7日收盘：三大指数涨跌不一 芯片股反弹 AI监管担忧仍存",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwakk5001971.shtml",
+      "content": " 周五美股企稳，三大指数涨跌不一。尽管经济数据强化了美联储将在12月加息的预期，但逢低买盘继续涌入市场，芯片股反弹，进而推动大盘走高。",
+      "priority": "high",
+      "sectors": [
+        "半导体",
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "21:16",
+      "keywords": []
+    },
+    {
+      "title": "美国债市：国债下跌 收益率曲线趋平 芯片股反弹削弱避险需求",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwakn8463164.shtml",
+      "content": "美国国债周五收跌，短端领跌，推动收益率曲线趋平，因芯片制造商股价反弹带动美股上涨。强劲的10月就业报告虽仅短暂影响市场，但仍略微强化了对美联储12月加息的定价。",
+      "priority": "high",
+      "sectors": [
+        "黄金",
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "21:08",
+      "keywords": []
+    },
+    {
+      "title": "原油：油价走势震荡 交易员关注伊朗战争降级前景",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwakq5238755.shtml",
+      "content": "原油期货走势震荡，交易员权衡伊朗战争朝着降级取得进展的迹象。 布伦特原油基本持平，结算价报每桶98美元附近。 报道称，美国和伊朗接近就结束战争取得突破性进展...",
+      "priority": "high",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "21:07",
+      "keywords": []
+    },
+    {
+      "title": "日本央行行长植田和男：若未来遭遇严重冲击 可能不得不动用QE工具",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwakn8462258.shtml",
+      "content": " 日本央行行长植田和男早在1990年代末就是量化宽松政策的先驱之一。他表示，尽管非常规措施不如传统降息有效，但如果未来遭遇重大冲击，日本央行可能会再次动用这些工具。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "21:06",
+      "keywords": []
+    },
+    {
+      "title": "美国9月份消费者信贷创接近四年来最大增幅",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixvwak8466507.shtml",
+      "content": "美国消费者借款在9月份创出接近四年来最大增幅，受到信用卡余额上升和非循环信贷增加推动。 美联储周五公布的数据显示，未偿还信贷总额增加278亿美元...",
+      "priority": "high",
+      "sectors": [
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "20:22",
+      "keywords": []
+    },
+    {
+      "title": "旧金山联储行长称可能需要进一步加息以遏制通胀",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixvwan5112937.shtml",
+      "content": "旧金山联储行长玛丽·戴利表示，可能需要进一步加息来遏制通胀，但现在判断利率需要提高多少为时过早。 “我的预期是我们将不得不进一步收紧政策...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "20:12",
+      "keywords": []
+    },
+    {
+      "title": "纽约汇市：美元走强 美国就业数据支持加息预期",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixvwak8462599.shtml",
+      "content": " 纽约汇市周五美元兑其他G10货币走强，此前公布的数据显示美国10月就业增长超出所有预期，提振了市场对美联储下个月加息的押注。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "20:03",
+      "keywords": []
+    },
     {
       "title": "日本央行行长称尚不清楚2%的通胀率能维持多久",
       "source": "环球市场播报",
@@ -24,6 +181,20 @@
       "period": "night",
       "date": "2026-11-06",
       "time": "18:51",
+      "keywords": []
+    },
+    {
+      "title": "卡拉斯：任何俄乌和平协议的落实都需要欧盟参与",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-07/doc-inixvwan5104708.shtml",
+      "content": "欧盟外交与安全政策高级代表卡拉斯6日表示，目前无法确定乌克兰与俄罗斯何时以及如何达成和平协议，但任何相关协议的落实都需要欧盟的参与。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "18:42",
       "keywords": []
     },
     {
@@ -55,230 +226,6 @@
       "keywords": []
     },
     {
-      "title": "荷兰和西班牙分别提名 拉加德继任者之争料在Knot和de Cos间展开",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixvrun8552116.shtml",
-      "content": "欧洲央行行长克里斯蒂娜·拉加德的继任者可能最终在荷兰人Klaas Knot和西班牙人Pablo Hernandez de Cos之间产生。 欧元集团主席Kyriakos Pierrakakis周五在声明中表示...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "16:38",
-      "keywords": []
-    },
-    {
-      "title": "共和党中期选举失利后 特朗普首席经济顾问称政府不会调整经济政策",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixvruq5200042.shtml",
-      "content": "共和党在国会中期选举全面失利后，美国总统唐纳德·特朗普的首席经济顾问表示，政府不会重新调整其经济政策。 “我不认为我们需要计划改变政策...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "16:37",
-      "keywords": []
-    },
-    {
-      "title": "Anthropic上市将是更大风险事件 美股暴跌前提出警告的策略师如是判断",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixvmns5302230.shtml",
-      "content": " 在对周四美股大跌有先见之明的少数华尔街策略师中，有一位警告称Anthropic的上市可能成为比中期选举更具决定性影响的事件。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "15:16",
-      "keywords": []
-    },
-    {
-      "title": "马斯克声称软银燃气轮机订单出现违约",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixvmnu8763230.shtml",
-      "content": " 在人工智能基建板块股票普遍遭到抛售、软银集团股价暴跌 10.8% 之际，埃隆・马斯克于周五发文称：“软银正在出现燃气轮机订单违约。”",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "15:04",
-      "keywords": []
-    },
-    {
-      "title": "押注人工智能不堪重负，软银股价为何大幅下挫",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixvmnw5537324.shtml",
-      "content": "从股价表现来看，孙正义耗费数十亿美元在软银打造的高调科技投资帝国正遭受重创。 周四软银股价已经大跌 14.4%，周五盘初再度暴跌 10.83%。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "14:59",
-      "keywords": []
-    },
-    {
-      "title": "佐治亚州：数据中心监管反弹中被低估的风险",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixvmnu8760354.shtml",
-      "content": "作者：布莱恩・索齐 中期选举民主党大胜，对数据中心持批评态度的吉娜・伊诺霍萨取代共和党人格雷格・阿博特出任得克萨斯州州长。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "14:56",
-      "keywords": []
-    },
-    {
-      "title": "美国芯片股强劲反弹拉升大盘 非农数据打压国债",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixvmnw5535013.shtml",
-      "content": " 美国股市暴跌之后逢低买盘涌现，芯片制造商的强势反弹撑起了大盘，尽管超预期的劳动力市场数据强化了投资者对美联储将在12月加息的预期。",
-      "priority": "high",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "14:53",
-      "keywords": []
-    },
-    {
-      "title": "10月新增就业大幅超预期，美联储加息概率攀升",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixvmns5293068.shtml",
-      "content": "美国劳工统计局发布最新数据显示，10 月新增就业岗位远超市场预期。 经季节性调整后，上月非农就业新增 16.5 万人，远高于道琼斯调查的市场一致预期 5.9 万人。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "14:49",
-      "keywords": []
-    },
-    {
-      "title": "10月就业报告大超预期，进一步强化美联储12月加息可能性",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixvmnw5531881.shtml",
-      "content": "远超预期的 10 月就业报告进一步强化市场预期：美联储将在 12 月启动加息，美联储官员当前本就高度关注通胀走高问题。 美国劳工统计局周五发布报告显示...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "14:46",
-      "keywords": []
-    },
-    {
-      "title": "微软下跌1.1%",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/t/2026-11-06/doc-inixvmnu8759604.shtml",
-      "content": "（来源：每日经济新闻）每经AI快讯，微软下跌1.1%，公司据称退出三个Nscale项目，收紧新云数据中心项目监管。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "14:43",
-      "keywords": []
-    },
-    {
-      "title": "政策利好助大盘回升 科创50指数本周上涨近8% 外围市场扰动下A股韧性显现",
-      "source": "大众证券报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-06/doc-inixvmnu8758913.shtml",
-      "content": "本周，大盘呈现探底回升的走势。上证指数上涨1.39%，深证成指上涨3.16%，创业板指上涨2.14%，科创50指数上涨7.96%，沪深300指数上涨1.73%。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "14:42",
-      "keywords": []
-    },
-    {
-      "title": "10月就业报告强劲，美债收益率上行",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixvmns5288715.shtml",
-      "content": " 美国 10 月非农就业增幅超预期、失业率回落至 4.1%，显示劳动力市场韧性犹在，也给美联储留出更大空间，重点应对中东冲突所引发的通胀压力。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "14:39",
-      "keywords": []
-    },
-    {
-      "title": "手握2亿美元词元大单，润建股份走出5天3板！公司紧急泼冷水",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-06/doc-inixvmnq8638220.shtml",
-      "content": "每经记者|黄胜每经编辑|张益铭 11月6日，润建股份（SZ002929，股价63.11元，市值181亿元）再次涨停，走出5天3板的行情。 当晚，润建股份发布异动公告，近期资本市场对AI...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "14:32",
-      "keywords": []
-    },
-    {
-      "title": "开盘：人工智能板块回暖，纳指经历19个月最大暴跌后反弹",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixvmnu8748972.shtml",
-      "content": "纳斯达克股指期货周五迎来反弹。此前纳斯达克指数跌入回调区间，部分投资者趁芯片股大跌逢低买入。 道指跌0.99%，标普500指数涨0.22%，纳指涨1.27%。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "14:31",
-      "keywords": []
-    },
-    {
-      "title": "合计罚款890万元 ST京机年报虚假记载处罚落地 时任董事长一人被罚250万元",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-06/doc-inixvmns5292129.shtml",
-      "content": "ST京机（京山轻机，SZ000821，股价6.95元，市值43.29亿元）11月6日晚间公告，公司及相关责任人于当日收到湖北证监局出具的《行政处罚决定书》（〔2026〕22、23、24、26...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "14:27",
-      "keywords": []
-    },
-    {
-      "title": "美国10月就业增长超市场预期",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixvmnw5521341.shtml",
-      "content": "美国政府周五公布的数据显示，10 月美国新增就业岗位 16.5 万个，大幅超出分析师预期；失业率回落至 4.1%。 美联储肩负双重法定使命：既要实现 2% 的长期通胀目标...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "14:26",
-      "keywords": []
-    },
-    {
       "title": "数据中心建设面临供应及政策约束，现有算力基础设施价值上升；美国中期选举或改变美联储政策预期",
       "source": "财新",
       "url": "https://database.caixin.com/2026-11-06/102501665.html?cxapp_link=true",
@@ -288,7 +235,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -304,7 +251,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -320,7 +267,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "数据图解"
@@ -336,7 +283,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -352,7 +299,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -368,7 +315,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -384,7 +331,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -400,11 +347,96 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
       ]
+    },
+    {
+      "title": "中信建投：全球风险偏好收敛，A股进入结构重估阶段！",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-07/doc-inixwhse8266742.shtml",
+      "content": "来源：中信建投证券 一、往期观点回顾 在往期策略中我们认为，短期市场大概率仍处在情绪消化和结构再平衡的阶段，单边乐观没有依据，过度悲观同样没必要。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "23:30",
+      "keywords": []
+    },
+    {
+      "title": "中国资产，反攻！小鹏、百度、B站、网易领涨…",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-07/doc-inixwhsn5172007.shtml",
+      "content": "中国资产隔夜表现强于美股！ 当地时间11月6日，三大指数收盘涨跌不一，道指跌0.46%，纳指涨1.09%，标普500指数涨0.32%。不过，受此前大幅下跌拖累...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "23:28",
+      "keywords": []
+    },
+    {
+      "title": "景顺长城新兴成长混合增聘基金经理 农冰立与刘彦春共同管理",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-07/doc-inixwakk5034180.shtml",
+      "content": "11月7日，景顺长城基金发布公告称，旗下景顺长城新兴成长混合（基金主代码：260108）将增聘农冰立为基金经理，与刘彦春共同管理该基金。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "23:10",
+      "keywords": []
+    },
+    {
+      "title": "Arini旗舰基金年内亏损扩大至32% 并出售部分持仓",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwakq5283696.shtml",
+      "content": "据致投资者信显示，Arini Capital Management旗下主力对冲基金10月最后几天亏损进一步扩大，今年以来跌幅达到32%。 信中称，由于信用市场持续疲软...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "22:57",
+      "keywords": []
+    },
+    {
+      "title": "巴拉圭参议院因银行丑闻罢免总统",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwakq5276245.shtml",
+      "content": "巴拉圭参议院的Senate TV显示，该机构周五一致表决罢免总统圣地亚哥·佩尼亚。 弹劾案以44票赞成、1票弃权获得通过。",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "22:37",
+      "keywords": []
+    },
+    {
+      "title": "11月7日热门中概股多数上涨，台积电涨超6%，理想汽车涨超5%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwakh8373895.shtml",
+      "content": "11月7日热门中概股多数上涨，纳斯达克中国金龙指数（HXC）收涨1.67%。 上涨个股（按市值从高到低）：台积电涨6.33%，阿里巴巴涨1.28%，网易涨2.28%，日月光半导体涨6.43%...",
+      "priority": "medium",
+      "sectors": [
+        "半导体",
+        "消费"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "22:36",
+      "keywords": []
     },
     {
       "title": "高盛美股恐慌指数触及极端水平 预示强劲反弹或已不远",
@@ -435,132 +467,6 @@
       "keywords": []
     },
     {
-      "title": "中期选举落幕叠加AI板块大跌，Kalshi平台上Anthropic官宣IPO的概率下降",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixvrus8669848.shtml",
-      "content": "核心要点在 Kalshi 预测市场上，这家人工智能企业在 12 月之前官宣 IPO 的概率，一周内从接近 90% 跌至 57%。1 月之前完成 IPO 官宣的概率...",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "16:42",
-      "keywords": []
-    },
-    {
-      "title": "家族办公室10月加大初创企业投资，重点布局女性健康与照护赛道",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixvrun8551037.shtml",
-      "content": "核心要点私人财富情报平台 Fintrx 数据显示，超级富豪家族旗下投资机构 10 月完成 56 笔企业直接投资，环比上月增长近 30%。劳伦・鲍威尔・乔布斯的爱默生集体（Emerson...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "16:35",
-      "keywords": []
-    },
-    {
-      "title": "马斯克长期支持者套现特斯拉，并削减SpaceX持仓",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixvruu5441616.shtml",
-      "content": "核心要点截至周三，苏格兰抵押贷款投资信托将 SpaceX 仓位占总资产比重从 9 月 30 日的 15% 下调至 11.1%。该基金由巴利・吉福德（Baillie Gifford）管理...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "16:31",
-      "keywords": []
-    },
-    {
-      "title": "“整个行业格局已然改变”：博彩业CEO看待中期选举后涌现的新机遇",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixvmnw5564894.shtml",
-      "content": "核心要点多个州民主党胜选，提升了博彩扩张的可能性，得克萨斯州成为最大潜在市场。维基・古德温击败长期反对博彩合法化的得克萨斯州副州长丹・帕特里克...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "16:12",
-      "keywords": []
-    },
-    {
-      "title": "美国消费者信心意外升至三个月高点 对个人财务和经济前景看法改善",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixvmnu8773618.shtml",
-      "content": "美国消费者信心11月升至三个月高点，得益于美国人对个人财务状况和经济前景的看法小幅改善。 密歇根大学周五公布的调查显示，11月消费者信心指数初值从10月的48升至51。",
-      "priority": "medium",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "15:31",
-      "keywords": []
-    },
-    {
-      "title": "中期选举冲击AI板块股价，数据中心建设陷入“消耗战”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixvmnw5549568.shtml",
-      "content": "核心要点民主党掌控国会后，投资者重新评估数据中心建设前景，周四人工智能与半导体股票遭遇大幅抛售。本轮 AI 交易本就承受高利率、巨额资本开支、回报存疑等多重压力...",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "15:31",
-      "keywords": []
-    },
-    {
-      "title": "费城半导体指数涨6%",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/t/2026-11-06/doc-inixvmnq8646602.shtml",
-      "content": "（来源：界面新闻）11月6日消息，费城半导体指数涨6%，报9563.68点。",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "14:45",
-      "keywords": []
-    },
-    {
-      "title": "主力本周大手笔布局：三大板块合计“吸金”超110亿元",
-      "source": "大众证券报",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-06/doc-inixvmnq8646006.shtml",
-      "content": "周五，A股指数全天低位运行，几大指数全线收跌。盘面上，电信、电力、银行、煤炭等红利板块受资金青睐，通信、电子、计算机等科技板块继续承压。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "14:42",
-      "keywords": []
-    },
-    {
-      "title": "占地1728平米！知名纺织染料龙头5.8亿元开建烟台智算中心",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-06/doc-inixvmns5294223.shtml",
-      "content": "算力不是简单堆砌服务器的硬件工程，而是数字时代实体产业寻找第二生长空间的时代命题。 AI大模型落地、各行业数字化智能化改造持续释放算力需求...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "14:34",
-      "keywords": []
-    },
-    {
       "title": "为何在18只主动ETF中独选成长基准？基金经理给出三点理由：其一，未来经济发展中，成长仍是投资的主旋律。其二，公司在成长行业的选择上具备投研优势。其三，成长类公",
       "source": "财新",
       "url": "https://database.caixin.com/2026-11-06/102501536.html?cxapp_link=true",
@@ -570,7 +476,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场洞察"
@@ -586,7 +492,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -602,7 +508,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "权益周观察"
@@ -618,7 +524,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "量化观察"
@@ -634,7 +540,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -650,7 +556,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -666,7 +572,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "行业速递"
@@ -682,7 +588,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "数据图解"
@@ -698,7 +604,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -714,7 +620,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -730,7 +636,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -746,7 +652,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -762,7 +668,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -778,11 +684,277 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "基金观察"
       ]
+    },
+    {
+      "title": "牛弹琴：一觉醒来，卸磨杀驴了",
+      "source": "牛弹琴",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-07/doc-inixwhsh4930959.shtml",
+      "content": "一觉醒来，卸磨杀驴了。 中期选举惨败后，谁会成为特朗普开刀的第一人？ 很多人以为，国防部长赫格塞斯难逃此劫。但11月6日，特朗普突然宣布...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-07",
+      "time": "00:12",
+      "keywords": []
+    },
+    {
+      "title": "何立峰与美国财政部长贝森特、贸易代表格里尔举行视频通话",
+      "source": "新华社",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-07/doc-inixwhsh4923897.shtml",
+      "content": "新华社北京11月7日电 北京时间11月6日晚，中美经贸中方牵头人、国务院副总理何立峰与美方牵头人、美国财政部长贝森特和贸易代表格里尔举行视频通话。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-07",
+      "time": "00:00",
+      "keywords": []
+    },
+    {
+      "title": "墨西哥批准六项光伏项目 将新增近650MW装机",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwhsh4917145.shtml",
+      "content": "墨西哥能源部批准了六项与私营合作方合作的新建光伏发电项目。 能源部通过消息发布的声明称，这批项目预计为该国承压的电网新增近650兆瓦装机容量。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "23:39",
+      "keywords": []
+    },
+    {
+      "title": "圆通总裁潘水苗谈儿子Tim：比大家想象的要辛苦，一年飞40万公里",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/2026-11-07/doc-inixwakq5283457.shtml",
+      "content": "11月7日上午消息，11月6日，第八届世界浙商大会在杭州开幕。圆通速递总裁潘水苗与媒体对话时谈及儿子、影视飓风创始人潘天鸿（Tim）：“他真的比我或者比你们大多数人想象的...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "22:56",
+      "keywords": []
+    },
+    {
+      "title": "初步报告显示两枚导弹击中伊朗格什姆岛",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-07/doc-inixwakk5020029.shtml",
+      "content": "总台记者7日自伊朗方面获悉，根据初步报告，当天凌晨两枚导弹击中了格什姆岛。伊朗官方尚未公布细节。据称，爆炸可能是美国空袭，目标是位于格什姆岛上的伊朗防空导弹发射...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "22:22",
+      "keywords": []
+    },
+    {
+      "title": "11月7日外盘头条：美国10月非农大超预期 特朗普任命米勒出任白宫幕僚长 特斯拉将逐步停产Cybertruck",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwakn8483750.shtml",
+      "content": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、美国10月非农新增16.5万人远超预期 失业率降至4.1% 劳动力市场强劲 2、中期选举失利后...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "21:58",
+      "keywords": []
+    },
+    {
+      "title": "巴拉圭国会通过对总统培尼亚的弹劾议案",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-07/doc-inixwakk5010236.shtml",
+      "content": "巴拉圭国会6日通过对总统培尼亚的弹劾议案，解除其总统职务。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "21:58",
+      "keywords": []
+    },
+    {
+      "title": "Meta为Muse智能体推出Spaces，可自动构建追踪器、规划器和项目看板",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwakq5256775.shtml",
+      "content": " Meta最近推出了Muse智能体——新一代可爱的智能体助手。如今，该公司又推出了Spaces，一种与这些智能体沟通和协作的新方式。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "21:49",
+      "keywords": []
+    },
+    {
+      "title": "选举结果不改OpenAI扩张计划，CFO称将继续投资数据中心并融资",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwakk5004883.shtml",
+      "content": " OpenAI首席财务官Sarah Friar周五表示，公司将继续投资人工智能基础设施，即便选民在周二的中期选举中强烈反对数据中心。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "21:45",
+      "keywords": []
+    },
+    {
+      "title": "伊朗南部格什姆岛传出爆炸声",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-07/doc-inixwakh8362039.shtml",
+      "content": "总台记者7日自伊朗方面获悉，据当地居民反馈，当天凌晨该国南部格什姆岛传出爆炸声。目前官方暂未发布相关说明。（总台记者 李健南）©2026中央广播电视总台版权所有。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "21:42",
+      "keywords": []
+    },
+    {
+      "title": "中期选举失利后 特朗普任命米勒接替威尔斯出任白宫幕僚长",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwakh8355157.shtml",
+      "content": " 美国总统唐纳德·特朗普表示将任命长期助手斯蒂芬·米勒为新任白宫幕僚长，苏西·威尔斯将调至他的政治运营团队，这一白宫人事调整发生在共和党本周中期选举失利后。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "21:40",
+      "keywords": []
+    },
+    {
+      "title": "欧洲坚持俄方先停战再谈安全关切 与美国立场分歧或加深",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixwakk5003096.shtml",
+      "content": "知情人士透露，欧洲国家希望俄罗斯先停止对乌克兰的冲突，然后才会考虑讨论克里姆林宫对欧洲更广泛安全架构的关切。这一立场可能使欧洲与美国在如何结束这场冲突的问题上产...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "21:39",
+      "keywords": []
+    },
+    {
+      "title": "SpaceX股价一度上涨8.3% 受到马斯克讲话提振",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixvwan5113648.shtml",
+      "content": "随着首席执行官埃隆·马斯克在Baron投资会议上发表讲话，SpaceX股价周五延续涨势，一度上涨8.3%。 马斯克表示，SpaceX第四季度收入将较第三季度增长“大约”70%...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "20:16",
+      "keywords": []
+    },
+    {
+      "title": "特朗普任命长期助手米勒担任白宫幕僚长",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixvwan5111660.shtml",
+      "content": "美国总统唐纳德·特朗普表示将任命长期助手斯蒂芬·米勒为新任白宫幕僚长，苏西·威尔斯将转往他的政治运作团队。 特朗普表示，这项人事调整将于11月9日周一生效。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "20:07",
+      "keywords": []
+    },
+    {
+      "title": "美国10月非农新增16.5万人远超预期 失业率降至4.1% 劳动力市场强劲",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixvwak8461751.shtml",
+      "content": "美国10月就业增长大幅加快，失业率小幅下降，显示在经济持续扩张之际，劳动力市场表现强劲。 美国劳工统计局周五公布的数据显示，10月非农就业人数增加16.5万人...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "19:59",
+      "keywords": []
+    },
+    {
+      "title": "特朗普称正在与伊朗进行沟通",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-07/doc-inixwakh8344937.shtml",
+      "content": "当地时间11月6日，美国总统特朗普表示，正在与伊朗进行沟通。此外，卡塔尔首相兼外交大臣穆罕默德·本·阿卜杜勒拉赫曼·阿勒萨尼当天在英国牛津参加一场活动时表示...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "19:54",
+      "keywords": []
+    },
+    {
+      "title": "美国宣布新一轮与伊朗相关的制裁措施",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-07/doc-inixvwas5352378.shtml",
+      "content": "当地时间11月6日，美国财政部网站显示，美国宣布新一轮与伊朗相关的制裁措施。（央视记者 朱磊）©2026中央广播电视总台版权所有。未经许可，请勿转载使用。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "19:38",
+      "keywords": []
+    },
+    {
+      "title": "泽连斯基称将继续打击俄炼油厂以回应俄军袭击",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-07/doc-inixvwak8451931.shtml",
+      "content": "△乌克兰总统泽连斯基（资料图）乌克兰总统泽连斯基6日晚在社交媒体发文称，为回应俄军对乌能源基础设施的袭击，乌克兰对俄罗斯炼油厂的打击行动将继续。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-06",
+      "time": "18:35",
+      "keywords": []
+    },
+    {
+      "title": "伊拉克外长与伊朗外长通电话 讨论伊朗重启谈判方案",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-07/doc-inixvrus8695602.shtml",
+      "content": "△伊朗外长阿拉格齐（左）与伊拉克外长侯赛因当地时间6日晚，据伊拉克外交部声明，伊拉克外长侯赛因当天与伊朗外长阿拉格齐通电话。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-06",
+      "time": "17:58",
+      "keywords": []
     },
     {
       "title": "微软正逐步终止与甲骨文的人工智能云计算租赁协议",
@@ -796,6 +968,34 @@
       "period": "noon",
       "date": "2026-11-06",
       "time": "17:49",
+      "keywords": []
+    },
+    {
+      "title": "普京确认俄美乌三方会谈将于11月10日在阿布扎比举行",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-07/doc-inixvrus8688125.shtml",
+      "content": "当地时间11月6日，俄罗斯总统普京在会议上确认，俄美乌三方乌克兰问题会谈将于11月10日在阿联酋首都阿布扎比举行。普京表示，俄罗斯代表团成员当天参加了俄联邦安全会议。...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-06",
+      "time": "17:43",
+      "keywords": []
+    },
+    {
+      "title": "乌方澄清：布达诺夫将出席乌美俄谈判 不担任代表团团长",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-07/doc-inixvrun8569535.shtml",
+      "content": "当地时间11月6日，乌克兰总统新闻事务顾问利特温称，乌总统办公室主任布达诺夫将出席11月10日至11日在阿联酋阿布扎比举行的乌美俄三方谈判...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-06",
+      "time": "17:22",
       "keywords": []
     },
     {
@@ -869,202 +1069,6 @@
       "keywords": []
     },
     {
-      "title": "OpenAI首席财务官：公司仍将持续投资AI数据中心",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixvrun8555017.shtml",
-      "content": "核心要点OpenAI 首席财务官萨拉・弗里尔周五表示，尽管中期选举结果已经出炉，公司仍会继续投资人工智能基础设施。全美多地选民在周二选举中...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "16:50",
-      "keywords": []
-    },
-    {
-      "title": "加码数据中心：哈西特称“蓝潮”不会阻碍人工智能基建建设",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixvruq5202793.shtml",
-      "content": "核心要点白宫国家经济委员会主任凯文・哈西特表示，尽管中期选举民主党迎来大胜，但他预计数据中心建设仍将按原计划推进。全国数十项公投提案提交选民表决...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "16:48",
-      "keywords": []
-    },
-    {
-      "title": "华尔街恐慌指标或已发出买入信号",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixvruq5200324.shtml",
-      "content": " 俗话说，一场酣畅淋漓的抛售，足以把短线交易员变成长期投资者。这句谚语和一句更为古老的投资名言异曲同工：“街头血流成河之时，正是买入之机。”",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "16:38",
-      "keywords": []
-    },
-    {
-      "title": "伊朗战争结束的希望升温 欧洲天然气势创一年多最大周跌幅",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixvmnq8676075.shtml",
-      "content": " 欧洲天然气价格势将录得一年多来最大单周跌幅。美国政治格局发生变化，加上一系列外交努力，令市场对伊朗战争迅速结束以及能源供应恢复的乐观情绪升温。",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "16:20",
-      "keywords": []
-    },
-    {
-      "title": "台积电据报拟进军先进存储芯片制造 应英伟达要求布局3D DRAM",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixvmns5323701.shtml",
-      "content": " 据报道，台积电考虑将其业务范围拓展至先进存储芯片制造领域，此举将进一步扩大这家全球最大芯片制造商在AI硬件供应链中的份额。",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "16:19",
-      "keywords": []
-    },
-    {
-      "title": "增长何在？成本抬升、市场收紧，传统车企2027年处境将更为艰难",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-07/doc-inixvmnu8783913.shtml",
-      "content": "核心要点 车企警示：大宗商品、物流、存储芯片成本走高，同时向消费者转嫁涨价的空间越来越有限。 多家华尔街分析师认为，车企必须持续保有定价权、进一步压降成本...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "16:00",
-      "keywords": []
-    },
-    {
-      "title": "圣路易斯联储行长：高通胀是由供应冲击和人工智能引发的",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixvmnq8663125.shtml",
-      "content": "圣路易斯联储行长阿尔伯托·穆萨莱姆表示，官员需要警惕人工智能（AI）基础设施建设在短期内加剧通胀的风险。 穆萨莱姆周五在圣路易斯的一场活动上表示：“就目前的高通胀而...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "15:43",
-      "keywords": []
-    },
-    {
-      "title": "运费飙升，小型零售商将迎来假日季“沉重打击”",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixvmnw5548568.shtml",
-      "content": "核心要点 受燃油价格高企推动，运费大幅上涨，中小型零售商经营承压，即将迎来艰难的假日销售季。 部分小企业主表示，正在考虑上调运费...",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "15:28",
-      "keywords": []
-    },
-    {
-      "title": "礼来将在Hims & Hers平台直接销售减重药物",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-06/doc-inixvmnq8645927.shtml",
-      "content": " 礼来公司周五宣布达成合作协议，授权远程医疗平台 Hims &amp; Hers Health 在其平台直接销售肥胖症药物 Zepbound 与 Foundayo；消息一出，这家远程医疗公司涨幅超 7%。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "14:52",
-      "keywords": []
-    },
-    {
-      "title": "锦欣生殖连续24日回购，累计斥资1.04亿港元",
-      "source": "证券时报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-11-06/doc-inixvmnq8646182.shtml",
-      "content": "证券时报.数据宝统计，锦欣生殖在港交所公告显示，11月6日以每股2.290港元至2.375港元的价格回购153.80万股，回购金额达359.62万港元。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "14:47",
-      "keywords": []
-    },
-    {
-      "title": "沪股通现身7只个股龙虎榜",
-      "source": "证券时报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-06/doc-inixvmnw5534816.shtml",
-      "content": "11月6日公开信息显示，沪股通席位共现身7只个股龙虎榜。证券时报.数据宝统计显示，11月6日共有50只个股上榜龙虎榜，其中，7只个股前五大买卖营业部中出现沪股通专用席位的...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "14:46",
-      "keywords": []
-    },
-    {
-      "title": "金融“活水”精准滴灌 科创实体行稳致远",
-      "source": "大众证券报",
-      "url": "https://finance.sina.com.cn/stock/relnews/hk/2026-11-06/doc-inixvmns5290878.shtml",
-      "content": "实体经济是发展根基，科技创新是强劲引擎。作为长三角重要中心城市，南京正加快建设具有全球影响力的产业科技创新中心主承载区。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "14:42",
-      "keywords": []
-    },
-    {
-      "title": "凤凰航运被证监会立案 涉嫌信披违法违规",
-      "source": "中国经营报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-06/doc-inixvmnw5532224.shtml",
-      "content": "凤凰航运（000520.SZ）11月6日公告，公司于当日收到中国证监会下发的《立案告知书》。因涉嫌信息披露违法违规，证监会决定对公司立案。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "14:38",
-      "keywords": []
-    },
-    {
-      "title": "浙江美大：完成董事会换届及高管聘任 张海政任董事长兼代行董秘",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-06/doc-inixvmnq8639578.shtml",
-      "content": "同壁财经讯，浙江美大发布最新公告称，公司于2026年11月6日完成第七届董事会换届选举及高级管理人员聘任，张海政当选董事长并代行董事会秘书职责，汤周良获聘为总经理...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-06",
-      "time": "14:32",
-      "keywords": []
-    },
-    {
       "title": "El-Erian警告，AI投资若遭严重冲击，可能波及实体经济",
       "source": "财新",
       "url": "https://database.caixin.com/2026-11-06/102501666.html?cxapp_link=true",
@@ -1074,7 +1078,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1090,7 +1094,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1106,7 +1110,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1122,7 +1126,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1138,7 +1142,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1154,7 +1158,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1170,7 +1174,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1186,7 +1190,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1202,7 +1206,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1218,7 +1222,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1234,7 +1238,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1250,7 +1254,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1266,7 +1270,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1282,7 +1286,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1298,7 +1302,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1314,7 +1318,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1330,7 +1334,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1347,7 +1351,7 @@
         "消费"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1365,7 +1369,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1381,7 +1385,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1397,7 +1401,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1413,7 +1417,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1429,7 +1433,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态·深度"
@@ -1445,7 +1449,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "霍尔木兹周报"
@@ -1461,7 +1465,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1478,7 +1482,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1494,7 +1498,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1510,7 +1514,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1526,7 +1530,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1543,7 +1547,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1559,7 +1563,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "CCI快报"
@@ -1575,7 +1579,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "风电观察"
@@ -1591,7 +1595,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1607,7 +1611,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1623,7 +1627,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1639,7 +1643,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1655,7 +1659,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1671,7 +1675,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1687,7 +1691,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1703,7 +1707,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1719,7 +1723,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1735,7 +1739,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1751,7 +1755,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1767,7 +1771,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1783,7 +1787,7 @@
         "半导体"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1799,7 +1803,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1815,7 +1819,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1831,7 +1835,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1847,7 +1851,7 @@
         "消费"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1863,7 +1867,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1879,7 +1883,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1895,7 +1899,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1911,7 +1915,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1927,7 +1931,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1943,7 +1947,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1959,7 +1963,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1975,7 +1979,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1991,7 +1995,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "权益周观察"
@@ -2007,7 +2011,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -2023,7 +2027,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "公司速递"
@@ -2039,7 +2043,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -2055,7 +2059,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2071,7 +2075,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2087,7 +2091,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2103,7 +2107,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2119,7 +2123,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2135,7 +2139,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2151,7 +2155,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "数据图解"
@@ -2167,7 +2171,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -2184,7 +2188,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -2200,7 +2204,7 @@
         "消费"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -2216,7 +2220,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "霍尔木兹周报"
@@ -2232,7 +2236,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2248,7 +2252,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2264,7 +2268,7 @@
         "有色"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2280,7 +2284,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2296,7 +2300,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2312,7 +2316,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-06",
+      "date": "2026-11-07",
       "time": "--:--",
       "keywords": [
         "CCI快报"
