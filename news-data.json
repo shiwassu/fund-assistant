@@ -1,239 +1,268 @@
 {
-  "updated": "2026-11-11T09:48:30.592789",
-  "total": 149,
+  "updated": "2026-11-11T18:01:11.179225",
+  "total": 148,
   "sources": [
     "新浪财经",
     "akshare-财新",
     "Tushare"
   ],
   "priority_dist": {
-    "high": 31,
-    "medium": 20,
-    "low": 98
+    "high": 33,
+    "medium": 26,
+    "low": 89
   },
   "items": [
     {
-      "title": "高市称政府将继续与日本央行协调 以实现物价稳定和经济持续增长",
+      "title": "欧洲债市：英国及欧洲短债跑输 油价反弹推动加息押注升温",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykehc2371262.shtml",
-      "content": "根据一份与日本央行的联合声明，首相高市早苗表示，将继续与日本央行协调，以实现物价稳定和经济持续增长。 高市在政府经济财政委员会会议结束时发表了讲话。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniykzmp1520019.shtml",
+      "content": "英国及欧洲短期债券跑输，因为交易员在油价回升后上调对英国央行和欧洲央行的加息押注。 英国两年期国债收益率上涨4个基点至4.92%；掉期市场计入英国央行12月加息19个基点...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-11",
-      "time": "09:37",
+      "time": "17:45",
       "keywords": []
     },
     {
-      "title": "CoreWeave业绩拯救芯片股，股价大涨15%",
+      "title": "AI交易热潮回归 美国科技股势将收复中期选举后失地",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykehc2369598.shtml",
-      "content": "美国云计算服务商CoreWeave周三盘前股价上涨15%，此前该公司公布的季度业绩超出市场预期，并上调了全年业绩指引。 CoreWeave、Nebius和IREN等新兴云计算服务商（Neocloud）...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniykzmp1519001.shtml",
+      "content": " 随着投资者对AI交易的热情重燃，美股周三扩大涨幅，以科技股为主的纳斯达克100指数一度收复美国中期选举以来的全部失地。",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "17:37",
+      "keywords": []
+    },
+    {
+      "title": "受CoreWeave财报利好提振AI交易情绪，芯片板块集体大涨",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniykvcr1638852.shtml",
+      "content": "得益于 CoreWeave 超预期的季度业绩，整体芯片板块走强，英伟达（NVDA）股价于周三迎来反弹。 在连续两个交易日下跌后，该股上涨约 2%。",
+      "priority": "high",
+      "sectors": [
+        "半导体",
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "16:48",
+      "keywords": []
+    },
+    {
+      "title": "CoreWeave股价暴涨20%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniykvcv2185085.shtml",
+      "content": " AI 云服务商 CoreWeave（股票代码 CRWV）周三股价大涨 20%。此前该公司公布的第三季度财报业绩超出市场预期，同时上调了本年度业绩指引。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "16:11",
+      "keywords": []
+    },
+    {
+      "title": "野村现预计美联储今年12月和明年3月各加息一次 因通胀高于预期",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykvcr1619072.shtml",
+      "content": "野村经济学家Aichi Amemiya、Jeremy Schwartz和Ruchir Sharma在11月10日的一份报告中写道，在美国通胀数据高于预期后，该行目前预计美联储除12月加息外...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "15:45",
+      "keywords": []
+    },
+    {
+      "title": "国际油价直线拉升3%，黄金跳水失守4010美元，伊官员称如美再发动袭击，将打击美军基地",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/wm/2026-11-11/doc-iniykvcx4280389.shtml",
+      "content": "据21财经雷达，北京时间11月11日晚，国际油价直线飙升，截至23:30，布伦特原油涨超3%，突破94美元/桶，纽约原油涨近3%，突破88美元/桶。",
+      "priority": "high",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "15:37",
+      "keywords": []
+    },
+    {
+      "title": "美元升至2025年5月以来最高 美联储加息押注升温",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykvcv2168726.shtml",
+      "content": "随着交易员为美联储下月恢复加息做准备，美元升至18个月高点，延续过去两个月来的强劲涨势。 彭博美元指数周三一度上涨0.4%，触及2025年5月以来最高水平...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "15:19",
+      "keywords": []
+    },
+    {
+      "title": "深夜，科技股飙升！美联储加息，新消息",
+      "source": "证券时报",
+      "url": "https://finance.sina.com.cn/wm/2026-11-11/doc-iniykvcs8254187.shtml",
+      "content": "11月11日，美股开盘普涨，道琼斯指数涨0.07%，纳斯达克指数涨1.55%，标普500指数涨0.98%。 板块方面，科技股领涨，费城半导体指数涨幅超过4%，COHERENT涨幅超过10%...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "14:58",
+      "keywords": []
+    },
+    {
+      "title": "高盛预测：美联储继12月加息后，3 月将再度加息",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykvcr1602132.shtml",
+      "content": "高盛目前预计，美联储将在 12 月加息的基础上，于次年 3 月再次加息。 高盛的戴维・梅里克认为，10 月通胀数据高于预期，或将推动美联储在市场预期的 12 月加息之后...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "14:48",
+      "keywords": []
+    },
+    {
+      "title": "重罚！昔日“大妖股”违规细节曝光",
+      "source": "中国证券网",
+      "url": "https://finance.sina.com.cn/stock/s/2026-11-11/doc-iniykvcv2158362.shtml",
+      "content": "曾一度创下22天16板纪录的“大妖股”捷荣技术，因信息披露违规，将被监管重罚。 一桩尘封已久的股权交易细节，也随着监管处罚事先告知书浮出水面。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "14:46",
+      "keywords": []
+    },
+    {
+      "title": "日本批准亚马逊日本公司整改方案 不再设置价格强制条款 将优化商品检索",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykqvx2284840.shtml",
+      "content": " 日本反垄断监管机构周三批准亚马逊日本公司提交的整改方案。此前监管部门调查发现，这家电商平台涉嫌不合理要求平台卖家压低站内售价。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "14:39",
+      "keywords": []
+    },
+    {
+      "title": "关于英伟达、谷歌，PCB概念股奥士康，3天2板后紧急澄清",
+      "source": "每日经济新闻",
+      "url": "https://finance.sina.com.cn/roll/2026-11-11/doc-iniykqvx2282899.shtml",
+      "content": "每经记者|黄胜每经编辑|张益铭 11月11日，奥士康（SZ002913，股价65.26元，市值207.11亿元）再次涨停，走出3天2板。 当晚，奥士康公告称...",
       "priority": "high",
       "sectors": [
         "半导体"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-11",
-      "time": "09:35",
+      "time": "14:33",
       "keywords": []
     },
     {
-      "title": "江阴银行：独立董事、董事会秘书任职资格获核准",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-11-11/doc-iniykehe9135785.shtml",
-      "content": "11月11日金融一线消息，江阴银行公告，公司于近日收到《无锡金融监管分局关于朱显国江苏江阴农村商业银行独立董事任职资格的批复》（锡金复〔2026〕142号）及《无锡金融监...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "09:22",
-      "keywords": []
-    },
-    {
-      "title": "【11.11 ETF复盘】大A：这个双11不打折！光模块禁令现转机！“小盘双星”惊现FOMO资金杀入！",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-11-11/doc-iniykefx1831314.shtml",
-      "content": "11月11日，A股低开高走，午后放量拉升，成长风格全面占优。 沪指涨0.46%，深成指涨1.32%，创业板指涨3.11%，科创50涨2.80%。两市成交1.69万亿元，比前一天放量1719亿元。",
-      "priority": "high",
-      "sectors": [
-        "光模块"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "09:09",
-      "keywords": []
-    },
-    {
-      "title": "“互换通”新增3家境内报价商 今年前10个月累计清算量达5.53万亿元",
-      "source": "上海证券报·中国证券网",
-      "url": "https://finance.sina.com.cn/roll/2026-11-11/doc-iniykefx1840005.shtml",
-      "content": "上证报中国证券网讯（记者 张欣然）据上海清算所消息，11月9日，“互换通”新增民生银行、南京银行、银河证券三家境内报价商。上海清算所为新增报价商提供“互换通”交易集中清...",
+      "title": "最高涨8%，科技类ETF调整到位了吗？",
+      "source": "国际金融报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-11/doc-iniykqvu8375892.shtml",
+      "content": "市场再度回到“光”的主线。 11月11日，算力概念爆发，光模块（CPO）、光芯片等板块大涨，通信设备指数收涨8.75%。午后A股在光通信、光模块板块带动下明显走强...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-11",
-      "time": "09:09",
+      "time": "14:32",
       "keywords": []
     },
     {
-      "title": "Anthropic披露与微软、谷歌达成超100亿美元新算力协议",
+      "title": "美联储古尔斯比称通胀报告 “近乎令人不安”，央行正权衡进一步加息",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykehe9125336.shtml",
-      "content": "本次最新披露表明，Anthropic 仍亟需更多算力资源，用于训练与运行旗下 AI 大模型。 Anthropic 在周二提交的监管申报文件中表示，过去一个月，公司与微软...",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "09:07",
-      "keywords": []
-    },
-    {
-      "title": "OpenAI第三季度营收飙升至100亿美元，但亏损持续扩大",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykefx1828609.shtml",
-      "content": " 据知情人士透露，OpenAI 向投资者披露，受新一代模型与企业产品需求回暖带动，公司第三季度营收大涨近 50%，达到 100 亿美元，摆脱了此前一段时期的增长疲软状态。",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "09:04",
-      "keywords": []
-    },
-    {
-      "title": "中银富登村镇银行募集20亿股股份定向募股方案获核准",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-11-11/doc-iniykefy8475797.shtml",
-      "content": " 11月11日金融一线消息，河北金融监管局发布关于中银富登村镇银行股份有限公司定向募股方案的批复，同意该行募集20亿股股份的定向募股方案。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "09:03",
-      "keywords": []
-    },
-    {
-      "title": "李晓红获批担任上银国际董事长",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/hm/2026-11-11/doc-iniykefx1825823.shtml",
-      "content": " 11月11日金融一线消息，上海金融监管局发布关于李晓红上银国际有限公司董事长任职资格的批复，核准李晓红上银国际有限公司董事长的任职资格。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykqvx2278475.shtml",
+      "content": "核心要点芝加哥联邦储备银行行长奥斯坦・古尔斯比评价最新通胀报告 “近乎令人不安”、“令人忧虑”。经季节调整后，10 月消费者物价指数环比上涨 0.4%，高于经济学家预期。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-11",
-      "time": "09:00",
+      "time": "14:26",
       "keywords": []
     },
     {
-      "title": "黄仁勋会离职吗？3.58%股权背后的权力博弈",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-11/doc-iniykehc2351533.shtml",
-      "content": "两个交易日，英伟达市值蒸发约4300亿美元（约28681.86亿元人民币），接近贵州茅台（约1.8万亿元）+宁德时代（约1.1万亿元）的总市值。",
+      "title": "除了12315，还有哪些好用的投诉渠道？按纠纷类型对号入座",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/consume/xiaofei/2026-11-11/doc-iniyixxz1844204.shtml",
+      "content": "很多消费者投诉时只记得一个12315。它确实是市场监管领域最权威的入口，但并不是所有纠纷都归它管：银行、保险、快递、出行各有自己的主管部门，找对了渠道...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-11",
-      "time": "09:00",
+      "time": "14:21",
       "keywords": []
     },
     {
-      "title": "创新药支付再闯关：两大重磅新政同日出台，商保可以解决应用卡点吗？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/insurance/bxdt/2026-11-11/doc-iniykehc2361119.shtml",
-      "content": "来源：保观 2026年11月创新药应用体系接连出台了两项新的政策。 10日，中国保险行业协会发布了三个医疗险示范条款，商业健康保险药品保障推荐清单...",
-      "priority": "high",
-      "sectors": [
-        "医药"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "09:00",
-      "keywords": []
-    },
-    {
-      "title": "蒋昇获批担任招商银行资金营运中心副总经理",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/hm/2026-11-11/doc-iniykehe9117706.shtml",
-      "content": "11月11日金融一线消息，上海金融监管局发布关于蒋昇招商银行股份有限公司资金营运中心副总经理任职资格的批复，核准蒋昇招商银行股份有限公司资金营运中心副总经理的任职资...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "08:56",
-      "keywords": []
-    },
-    {
-      "title": "张兰获批担任南京银行资金运营中心总经理",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/hm/2026-11-11/doc-iniykehc2340767.shtml",
-      "content": "11月11日金融一线消息，上海金融监管局发布关于张兰南京银行股份有限公司资金运营中心总经理任职资格的批复，核准张兰南京银行股份有限公司资金运营中心总经理的任职资格。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "08:54",
-      "keywords": []
-    },
-    {
-      "title": "姜斌获批担任贝莱德建信理财首席风险官",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/hm/2026-11-11/doc-iniykefy8469834.shtml",
-      "content": " 11月11日金融一线消息，上海金融监管局发布关于姜斌贝莱德建信理财有限责任公司首席风险官任职资格的批复，核准姜斌贝莱德建信理财有限责任公司首席风险官的任职资格。",
+      "title": "高管“坐庄”自家股票，监管出手后谁在买单？",
+      "source": "新京报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-11/doc-iniykqvt1723778.shtml",
+      "content": "今年以来，监管持续向操纵证券市场亮剑。 11月6日，ST龙大发布公告称，实际控制人戴学斌收到中国证券监督管理委员会（简称“中国证监会”）出具的《立案告知书》。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-11",
-      "time": "08:52",
+      "time": "14:03",
       "keywords": []
     },
     {
-      "title": "500亿液冷龙头，涨停封板",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/stock/s/2026-11-11/doc-iniykehc2339975.shtml",
-      "content": "记者丨林健民 编辑丨李燕娜 据21财经雷达，11月11日，液冷服务器震荡走高，截至收盘，同飞股份20cm涨停，中际旭创、中石科技涨超10%，英维克、科瑞技术...",
+      "title": "11月11日晚间新闻精选",
+      "source": "财联社",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-11/doc-iniykqvx2266040.shtml",
+      "content": "1、央行：坚持实施好适度宽松的货币政策，保持流动性充裕；用好债市非银大额赎回互换便利，维护股票、债券、外汇等金融市场平稳运行。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-11",
-      "time": "08:47",
+      "time": "13:52",
       "keywords": []
     },
     {
-      "title": "昔日中行最年轻管辖行行长朱韬新身份终于落定：从华瑞到新网，再任民营银行掌门人",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-11-11/doc-iniykehc2357716.shtml",
-      "content": "来源：今日行长中行系朱韬二进宫执掌民营银行！ 朱韬的第二段民营银行履历，终于定盘。11月9日，四川金融监管局公布批复，核准朱韬新网银行董事长任职资格。",
+      "title": "16天9板后，600715紧急公告！",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-11/doc-iniykqvy9036747.shtml",
+      "content": "股价走出16天9板，文投控股紧急提示风险。 11月11日，AI影视概念震荡拉升，龙头股文投控股（600715）再度涨停，走出三连板行情。",
       "priority": "high",
       "sectors": [
-        "金融"
+        "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-11",
-      "time": "08:37",
+      "time": "13:49",
       "keywords": []
     },
     {
@@ -477,102 +506,186 @@
       ]
     },
     {
-      "title": "暴涨！中际旭创、新易盛双双涨超15%，光模块概念劲升超8%｜华宝基金3A日报（2026.11.11）",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-11-11/doc-iniykehc2378987.shtml",
-      "content": "",
-      "priority": "medium",
-      "sectors": [
-        "光模块"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "09:47",
-      "keywords": []
-    },
-    {
-      "title": "OpenAI收购AI旅行服务商Odessia",
+      "title": "欧洲股市收盘再创纪录 能源和科技板块反弹",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykehe9132962.shtml",
-      "content": "Odessia 依托人工智能帮助用户规划行程、预订旅行产品。其创始人将加入 OpenAI，专注探索 “旅行行业的未来”。 Odessia 创始人弗朗西斯・戴维森于周二在 X 平台发文确认...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniykzmt2081029.shtml",
+      "content": "欧洲股市再创纪录，能源和科技股反弹，帮助延续了欧股近期跑赢其他市场的表现。 周三收盘时，斯托克欧洲600指数上涨0.7%，至663.05点，超过8月创下的前期收盘纪录。",
       "priority": "medium",
       "sectors": [
-        "AI"
+        "能源"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-11",
-      "time": "09:19",
+      "time": "17:56",
       "keywords": []
     },
     {
-      "title": "企业家之夜前瞻|王来春：无论是技术储备、工艺创新还是服务意识，立讯都能让客户放心",
-      "source": "睿见Economy",
-      "url": "https://finance.sina.com.cn/hy/hyjz/2026-11-11/doc-iniykefy8478534.shtml",
-      "content": "“为中国经济点赞——企业家之夜”现已启动，该活动是自2015年起由新浪财经等机构推出的向企业家群体致敬的活动。活动以“致敬新时代驱动力”为主题，基于创新性、颠覆性...",
+      "title": "伯恩斯坦325美元目标价：甲骨文本轮下跌过度",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniykzmu8847149.shtml",
+      "content": "核心要点 甲骨文股价自 6 月高点以来已经腰斩。11 月 10 日，伯恩斯坦维持跑赢大盘（Outperform）评级，目标价 325 美元，较当前股价高出 159%。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-11",
-      "time": "09:08",
+      "time": "17:04",
       "keywords": []
     },
     {
-      "title": "市场进入“警戒状态”，投资者转向防御型股票",
+      "title": "Anthropic推出Claude全新产品，向这三只科技股释放竞争信号",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykehe9119562.shtml",
-      "content": "核心要点 随着科技股再度陷入震荡，投资者似乎正转向医疗保健、必需消费品以及公用事业等防御性板块。 受人工智能支出、融资环境以及经济前景等多重担忧影响...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniykvcv2195250.shtml",
+      "content": "在万众期待的首次公开募股（IPO）前夕，Anthropic（非上市公司代码 ANTH.PVT）向软件行业传递出最新信号：我们想要抢占你们相当一部分业务市场...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-11",
-      "time": "08:59",
+      "time": "16:42",
       "keywords": []
     },
     {
-      "title": "中国银行业协会发布《2025年中国银行业可持续发展报告》",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/bank/2026-11-11/doc-iniykehc2341816.shtml",
-      "content": "来源：中国银协 近日，《2025年中国银行业可持续发展报告》（以下简称《报告》）正式发布。中国银行业协会已连续18年编写发布银行业社会责任报告...",
+      "title": "D‑Wave股价上涨，Rigetti股价下挫：量子企业财报表现分化，投资者看法分歧",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniykvcr1636958.shtml",
+      "content": "D‑Wave 量子（股票代码 QBTS）与 Rigetti 计算（股票代码 RGTI）公布第三季度业绩后，周三量子板块个股走势出现分化。 周二盘后，Rigetti 因财报不及预期...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "16:38",
+      "keywords": []
+    },
+    {
+      "title": "华尔街对黄仁勋执掌的英伟达热情降温，但历史经验表明尚不该放弃这只股票",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniykvcw8968811.shtml",
+      "content": " 和英伟达 “分手” 并非易事。该股下跌 25% 之后，华尔街两家头部大银行将其从首选股票名单中剔除，但两家机构尚且都没有下决心给出 “卖出” 评级。",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "16:34",
+      "keywords": []
+    },
+    {
+      "title": "摩根大通将共和服务公司评级上调至增持",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykvcx4278819.shtml",
+      "content": " 摩根大通分析师将共和服务公司（RSG）的股票评级由中性上调为增持，目标价上调至 295 美元，相较该股周二收盘价，潜在上涨空间接近 19%。",
       "priority": "medium",
       "sectors": [
         "金融"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-11",
-      "time": "08:54",
+      "time": "15:42",
       "keywords": []
     },
     {
-      "title": "机器人板块持续反弹，如何选择指数？",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/enterprise/sale/2026-11-11/doc-iniykefx1822432.shtml",
-      "content": "会翻跟头、会后空翻的机器人，短视频里刷得够多了。但真正值钱的变化，是它开始“上班”。 近日，宇树科技董事长在乌镇峰会提出，2027年大概率会成为具身智能行业及相关模型...",
+      "title": "CFRA：伯克希尔的“巴菲特溢价”或将继续消退",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykvcw8950387.shtml",
+      "content": " 评级机构 CFRA 表示，伯克希尔‑哈撒韦 B 类股（BRK.B）的 “巴菲特溢价” 正在不断消退，原因在于公司基本面持续走弱，同时重大管理层交接存在不确定性。",
       "priority": "medium",
       "sectors": [
-        "机器人"
+        "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-11",
-      "time": "08:53",
+      "time": "15:40",
       "keywords": []
     },
     {
-      "title": "金融AI起战事！WorkBuddy“入职”超250家金融机构，算力投入迎来ROI大考",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-11/doc-iniykehe9115993.shtml",
-      "content": "金融业与AI，彼此都有着明确的扩张野心。 腾讯云副总裁胡利明披露的数据，直观印证了这一双向布局：WorkBuddy企业版已落地中信建投证券、中金公司...",
+      "title": "A股又一“企二代”接班！25岁当副总、去年年薪130万元，高兆春出任数控车床龙头浙海德曼董事长",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/wbstock/2026-11-11/doc-iniykvcr1606119.shtml",
+      "content": "来源：@每日经济新闻微博#企二代25岁当副总43岁接掌上市公司#【A股又一“企二代”接班！25岁当副总、去年年薪130万元，高兆春出任数控车床龙头浙海德曼董事长】#年薪130万企...",
       "priority": "medium",
       "sectors": [
-        "金融",
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "14:43",
+      "keywords": []
+    },
+    {
+      "title": "开盘：三大股指齐涨，CoreWeave财报带动全球科技股反弹",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykqvu8374948.shtml",
+      "content": " 受 CoreWeave 股价大幅走高，以及英伟达在连续两个交易日下挫之后迎来反弹的推动，道指涨0.19%，标普500指数涨0.95%，纳指涨1.56%。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "14:31",
+      "keywords": []
+    },
+    {
+      "title": "英伟达评级遭遇罕见下调 黄仁勋风波动摇华尔街信心",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykqvx2274842.shtml",
+      "content": "华尔街对英伟达的看法开始出现松动，针对公司首席执行官黄仁勋的调查令市场对这家人工智能芯片制造商的前景产生疑虑。 Baird将英伟达评级下调至中性...",
+      "priority": "medium",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "14:18",
+      "keywords": []
+    },
+    {
+      "title": "AI数据中心初创公司Torus完成5亿美元融资，推出集成储能系统的模块化数据中心",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykqvt1721546.shtml",
+      "content": "11月11日，美国能源存储初创公司Torus宣布完成5亿美元C轮融资，由Magnetar领投，Iconiq Capital、Origin Ventures和Trinity Capital等机构参与。",
+      "priority": "medium",
+      "sectors": [
+        "能源",
         "AI"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-11",
-      "time": "08:50",
+      "time": "14:17",
+      "keywords": []
+    },
+    {
+      "title": "明晚24时国内油价大概率下调，为8月下旬以来首次",
+      "source": "澎湃新闻",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-11/doc-iniykqvy9036632.shtml",
+      "content": " 澎湃新闻11月11日从多家大宗商品市场机构获悉，11月12日24时，国内成品油零售限价大概率将结束上涨走势，迎来8月下旬以来的首次下调。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "13:49",
+      "keywords": []
+    },
+    {
+      "title": "德意志银行：明年欧元投资级债一级市场供给将比今年更旺盛",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykqvy9033161.shtml",
+      "content": "德意志银行预计，2027年欧元投资级债券一级市场的总发行规模与净供给规模将比今年更为旺盛。 策略师杰姆·凯尔泰克、史蒂夫·卡普里奥与卡尔西克·纳加林加姆在11月9日的报告...",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "13:45",
       "keywords": []
     },
     {
@@ -784,382 +897,258 @@
       ]
     },
     {
-      "title": "财政部注资金融央企有新进展：两家大行向特定对象发行A股股票申请获得上交所审核通过",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-11-11/doc-iniykehc2378499.shtml",
-      "content": "11月11日金融一线消息，工商银行、农业银行今日发布公告称，该行于2026年11月11日收到上海证券交易所（简称上交所）出具的《关于中国工商银行股份有限公司向特定对象发行股...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "09:47",
-      "keywords": []
-    },
-    {
-      "title": "CoreWeave营收大幅增长，但现金消耗规模急剧扩大",
+      "title": "英国前首相卡梅伦称不应寻求重新加入欧盟 呼吁做布鲁塞尔的最佳伙伴",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykehc2376988.shtml",
-      "content": "近几周 CoreWeave 股价遭受重挫，投资者对该公司持续融资的能力愈发感到担忧。 CoreWeave 公布第三季度营收 36.6 亿美元，较去年同期 13.65 亿美元实现翻倍以上增长...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniykzmu8847582.shtml",
+      "content": " 曾领导英国留欧运动但最终失败的前首相大卫·卡梅伦警告现首相安迪·伯纳姆，不要寻求重新加入欧盟，称此举将削弱英国与欧盟建立更紧密关系的谈判。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-11",
-      "time": "09:45",
+      "time": "17:06",
       "keywords": []
     },
     {
-      "title": "博思艾伦改用英伟达Nemotron大模型",
+      "title": "美国商品期货交易委员会调查Kalshi是否对事件合约进行不当自我认证",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykehe9150635.shtml",
-      "content": "英伟达正遭遇其成立三十年来最严重的声誉打击，事件起因有消息披露，公司首席执行官黄仁勋与一名女性存在婚外情。不过这家 AI 芯片巨头也迎来一抹亮色：其开源大模型项目已...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniykvcv2184221.shtml",
+      "content": "核心要点 Kalshi 称，这只是合约申报环节出现的小问题，表示正配合美国商品期货交易委员会（CFTC）处理此事。 预测交易平台只要遵守《商品交易法》...",
       "priority": "low",
       "sectors": [
-        "半导体",
-        "AI"
+        "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-11",
-      "time": "09:42",
+      "time": "16:08",
       "keywords": []
     },
     {
-      "title": "世界气象组织：未来几个月全球气温将异常炎热",
+      "title": "报道：克里姆林宫称阿布扎比会谈具有实质性 俄美元首APEC会晤在筹备中",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykefy8499007.shtml",
-      "content": " 世界气象组织表示，太平洋正在形成的厄尔尼诺现象，将令全球气温再升高0.1至0.2摄氏度，使得2026年剩余时间直至2027年初，全球都将处于异常高温状态。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-12/doc-iniykvcv2181334.shtml",
+      "content": "据国际文传电讯报道，克里姆林宫助手Yuri Ushakov表示，俄美乌在阿布扎比举行的会谈具有实质性，且有益。 将讨论与欧洲国家接触的可能形式...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-11",
-      "time": "09:41",
+      "time": "16:03",
       "keywords": []
     },
     {
-      "title": "“古稀”王健林重掌万达商管，十年间身家蒸发2000亿",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/hyyj/2026-11-11/doc-iniykehc2377410.shtml",
-      "content": "来源 | 野马财经 要第五次冲击资本市场吗？ 作者 | 贾紫聪 编辑 |高岩 时隔14年，72岁的王健林又重新回到“一号位”。 11月5日，大连万达商业管理集团股份有限公司（以下简称...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "09:40",
-      "keywords": []
-    },
-    {
-      "title": "俄乌在阿布扎比启动第二日和谈 料将重点讨论局势降级措施",
+      "title": "受沙特产量回升推动，欧佩克石油产量接近战前水平",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykefx1850005.shtml",
-      "content": " 乌克兰和俄罗斯在阿布扎比启动由美国主导的第二日和平谈判，此前乌克兰总统沃洛迪米尔·泽连斯基称首轮讨论“富有建设性，且相当具有实质性”。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "09:39",
-      "keywords": []
-    },
-    {
-      "title": "农业银行：定增A股股票申请获上交所审核通过",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-11-11/doc-iniykehe9142713.shtml",
-      "content": "11月11日金融一线消息，农业银行今日发布公告称，该行今日收到上海证券交易所出具的《关于中国农业银行股份有限公司向特定对象发行股票的交易所审核意见》...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "09:32",
-      "keywords": []
-    },
-    {
-      "title": "工商银行：定增A股股票申请获上交所审核通过",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-11-11/doc-iniykehe9141187.shtml",
-      "content": "11月11日金融一线消息，工商银行今日发布公告称，该行于2026年11月11日收到上海证券交易所（简称上交所）出具的《关于中国工商银行股份有限公司向特定对象发行股票的交易所...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "09:30",
-      "keywords": []
-    },
-    {
-      "title": "FDA禁令落地：圣诺生物利润预减近亿元 一年半前签下的订单收入为何落在2026年四季度？",
-      "source": "新浪证券",
-      "url": "https://finance.sina.com.cn/stock/observe/2026-11-11/doc-iniykehe9136855.shtml",
-      "content": "11月10日晚间，成都圣诺生物科技股份有限公司（688117.SH，下称“圣诺生物”）发布《关于签订退货与退款协议（销售退回）事项的公告》...",
-      "priority": "low",
-      "sectors": [
-        "医药"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "09:23",
-      "keywords": []
-    },
-    {
-      "title": "进出口银行：支昱任资产负债管理部总经理、高鹏任财务会计部总经理、邢敦忠任资金营运部总经理",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/hm/2026-11-11/doc-iniykefy8483298.shtml",
-      "content": "11月11日金融一线消息，口行组轩今日发布人事任免公告： 中国进出口银行党委决定： 支昱任资产负债管理部总经理； 高鹏任财务会计部总经理； 邢敦忠任资金营运部总经理；...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "09:17",
-      "keywords": []
-    },
-    {
-      "title": "Anthropic推出全新办公软件，微软股价应声大跌",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykehe9131124.shtml",
-      "content": "在周二该消息公布后，微软股价一度跌幅超 3.5%，随后部分收复失地。 Anthropic 于周二发布多款全新办公软件应用。新产品将自家 Claude 大模型与工具相结合...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "09:15",
-      "keywords": []
-    },
-    {
-      "title": "贾国龙夫妇穷疯了，质押所有股权换现金！西贝的年内上市梦彻底破灭",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-11-11/doc-iniykefx1836116.shtml",
-      "content": "来源：南财社 在西贝的经营渐入困境之际，最新消息爆出贾国龙夫妇已将所有直接持有的股权全部质押给银行，以换取现金流。 但这样一来，2026年仅剩下不到2个月...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "09:15",
-      "keywords": []
-    },
-    {
-      "title": "特朗普给拜登的信件曝光：若非政治，我们本可以做好朋友",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykehc2354763.shtml",
-      "content": " 拜登就职首周，就曾告诉记者，前任特朗普在椭圆形办公室给他留下一封“言辞十分恳切的信”。此后多年，拜登一直拒绝谈及信里的具体内容。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "09:15",
-      "keywords": []
-    },
-    {
-      "title": "互联网贷款自律工作委员会筹备组第三次会议召开 度小满、蚂蚁科技等筹备组成员单位出席",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-11-11/doc-iniykehc2354617.shtml",
-      "content": "11月11日金融一线消息，据中国互联网金融协会发布，11月6日，中国互联网金融协会互联网贷款自律工作委员会筹备组第三次会议在京召开。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "09:15",
-      "keywords": []
-    },
-    {
-      "title": "Mosaic完成融资，布局手术机器人业务Mosaic",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykehc2354024.shtml",
-      "content": "按营收与市值计算，全球规模最大的纯手术机器人企业为直觉外科（Intuitive Surgical），其主打产品达芬奇手术系统搭载多组机械臂，供外科医生远程操控完成各类外科手术。",
-      "priority": "low",
-      "sectors": [
-        "机器人"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "09:14",
-      "keywords": []
-    },
-    {
-      "title": "美防长强势回应弹劾动议：这只是一场政治闹剧",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykehc2348502.shtml",
-      "content": "美国众议院当地时间周二投票，以211票赞成、204票反对，将共和党众议员托马斯·梅西提出的弹劾国防部长皮特·赫格塞思决议移交众议院司法委员会。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "09:06",
-      "keywords": []
-    },
-    {
-      "title": "三年没发现，一换手 “露馅” 了！山西证券督导旧账被翻出",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/quanshang/qsyj/2026-11-11/doc-iniykehe9126427.shtml",
-      "content": "作者 | 谢美浴 编辑|付影 来源 | 独角金融 厦门证监局一纸警示函，把山西证券（002500.SZ）新三板督导的旧账翻了出来。 决定书显示，山西证券在担任迈信智农（836872...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "09:00",
-      "keywords": []
-    },
-    {
-      "title": "吉林银行，被交通银行摆上拍卖台",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-11-11/doc-iniykehe9135915.shtml",
-      "content": "来源：财经众议院 一家银行将另一家银行的股权摆上了拍卖台，两家银行都不简单。拍卖方是六大国有银行之一的交通银行，被拍卖的则是吉林唯一省级城商行吉林银行。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "08:57",
-      "keywords": []
-    },
-    {
-      "title": "乌梅罗夫：俄美乌在阿布扎比开始第二天会谈",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykehc2340230.shtml",
-      "content": "乌克兰谈判代表团团长乌梅罗夫在社交平台上表示，新一轮俄美乌三方和平谈判在阿布扎比开始。 这是在阿布扎比举行的会谈的第二天。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "08:54",
-      "keywords": []
-    },
-    {
-      "title": "多地最低工资标准加快上调：哪些群体受益、影响几何？",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-11/doc-iniykehe9117514.shtml",
-      "content": " 涨工资，关乎老百姓的切身利益。今年以来，多个省份上调最低工资标准，有省份就最低工资标准调整方案征求意见，也有省份上调企业工资指导线。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "08:54",
-      "keywords": []
-    },
-    {
-      "title": "两部门发布洗钱犯罪典型案例：一女子提供银行账户接收非法集资款7000万元",
-      "source": "界面",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-11/doc-iniykehe9117346.shtml",
-      "content": "界面新闻记者 | 张倩楠 2026年11月11日，最高人民检察院、公安部联合发布依法惩治洗钱犯罪典型案例。其中第一例“王某芳洗钱案”涉及社会公众的“养老钱”。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "08:53",
-      "keywords": []
-    },
-    {
-      "title": "中期选举风险扰动Helix AI基建项目 三星投资标的不确定性上升",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykehe9114736.shtml",
-      "content": "三星电子等三星集团旗下六家关联公司共同出资推进的美国人工智能（AI）基础设施项目，正面临越来越大的不确定性。 在美国中期选举前后...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "08:52",
-      "keywords": []
-    },
-    {
-      "title": "每日互动|介绍一下，这是仝人办公",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/enterprise/cn/2026-11-11/doc-iniykefy8468129.shtml",
-      "content": "当AI开始深入实际业务，不仅要能高效交付任务，更要从权限边界、数据处理等多方面确保安全可信，还要通过有效的协同将散落的经验沉淀为组织资产。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "08:49",
-      "keywords": []
-    },
-    {
-      "title": "安全可靠的投资App怎么选？2026券商、行情、资讯三类工具客观梳理",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/aigcy/2026-11-11/doc-iniykefx1819766.shtml",
-      "content": "先说结论：一款投资App是否安全可靠，取决于三件事——牌照在谁名下、资金进入谁的账户、数据来源能否核实。按这三条筛选下来，2026年还值得留在手机里的通常只剩下三类：券...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "08:48",
-      "keywords": []
-    },
-    {
-      "title": "炒股用什么APP？三类工具的差别，先弄清楚再选",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/aigcy/2026-11-11/doc-iniykefx1818972.shtml",
-      "content": "先给一句判断：只想下单的，券商自营APP就够了；要看盘、比价、还要挑券商的，第三方中台更合适；既要看行情又要追消息、顺手把开户办了的...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-11",
-      "time": "08:47",
-      "keywords": []
-    },
-    {
-      "title": "英国批准北海两大海上风电项目 总投资达120亿英镑创同类之最",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykehe9106317.shtml",
-      "content": "英国北海两大海上风电项目已获批，建成后可满足300万户家庭用电需求。 这两个新项目总投资规模达120亿英镑，英国政府称这是该国同类项目中规模最大的一笔投资。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykvcr1609870.shtml",
+      "content": "沙特 10 月原油日产量提升至 1056 万桶，9 月为 837 万桶 内容摘要 得益于成员国启用替代输油管道与变通转运方案，欧佩克 10 月原油日产量大增 196 万桶...",
       "priority": "low",
       "sectors": [
         "能源"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-11",
-      "time": "08:40",
+      "time": "15:09",
       "keywords": []
     },
     {
-      "title": "龙大美食涉嫌信披违法违规被立案，受损股民可进行预登记索赔",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/gmwq/rightscase/2026-11-11/doc-iniykefy8461339.shtml",
-      "content": "根据最新消息，山东龙大美食股份公司（以下简称“龙大美食”）涉嫌信披违法违规被中国证监会立案。该事件或与此前会计差错更正有关。",
+      "title": "波兰奥伦公司取消卡塔尔液化天然气供应协议",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykvcs8254945.shtml",
+      "content": "卡塔尔能源公司曾承担全球约五分之一液化天然气（LNG）的供应，但自今年 3 月起便无法履行合同义务。奥伦的此番决定被视作检验卡塔尔能源一揽子长期合同的重要案例。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "15:06",
+      "keywords": []
+    },
+    {
+      "title": "CoreWeave回应数据中心公投风波：不担心中期选举结果产生影响",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykvcv2162184.shtml",
+      "content": " 尽管上周民主党在大选大胜之后，CoreWeave股价遭遇大幅抛售，但首席执行官迈克·英特拉托（Mike Intrator）表示，公司并不担心即将到来的政治变局。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-11",
-      "time": "08:36",
+      "time": "14:59",
+      "keywords": []
+    },
+    {
+      "title": "603890，股价回调，神秘“牛散”逆势加仓！",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-11/doc-iniykvcw8936740.shtml",
+      "content": "春秋电子10月股价回调，神秘“牛散”却逆势加仓。 11月11日晚，春秋电子（603890）披露回购事项前十大流通股东持股情况。证券时报记者发现...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "14:52",
+      "keywords": []
+    },
+    {
+      "title": "英伟达称数据中心“应当是社区的资产” 应以社区认可的方式推进",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykvcw8934688.shtml",
+      "content": "英伟达表示，建设数据中心的企业需要以能够获得当地社区认可的方式推进项目。 英伟达可持续发展主管Josh Parker周三在土耳其COP31期间的彭博绿色论坛上表示：“我们对人工智...",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "14:49",
+      "keywords": []
+    },
+    {
+      "title": "白宫警告众议院民主党人 部分调查行动可能构成犯罪",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykvcv2158152.shtml",
+      "content": "美国总统唐纳德·特朗普的首席律师警告众议院监督委员会候任主席，称该委员会预计开展的部分调查可能违反法律。 白宫法律顾问Will Scharf提出这一强硬主张...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "14:48",
+      "keywords": []
+    },
+    {
+      "title": "伦敦证券交易所集团拟给首席执行官加薪数百万英镑",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykvcv2158028.shtml",
+      "content": " 伦敦证券交易所（LSE）母公司正计划大幅上调首席执行官薪酬包，加薪规模可达数百万英镑。与此同时，英国蓝筹上市公司纷纷警示，本土高管薪酬水平正持续落后于美国同行。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "14:48",
+      "keywords": []
+    },
+    {
+      "title": "Anthropic IPO获数倍超额认购，最高拟募资904亿美元，或创全球IPO纪录",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykqvu8370785.shtml",
+      "content": "11月11日，知情人士透露，人工智能公司Anthropic的首次公开募股（IPO）已获得数倍超额认购，投资者认购意向远超可供发行的股票数量...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "14:23",
+      "keywords": []
+    },
+    {
+      "title": "大选竞选前夕西班牙爆发全国大罢工，抗议者与警方发生冲突",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykqvy9052978.shtml",
+      "content": "核心要点预计数百万劳动者参与西班牙 14 年来首次全国大罢工，交通与各行各业将遭遇大范围停摆。租金与生活成本飞涨引发社会动荡，工会要求政府在住房...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "14:23",
+      "keywords": []
+    },
+    {
+      "title": "拟重大资产重组，明起停牌",
+      "source": "中国证券报-中证网",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-11/doc-iniykqvy9052919.shtml",
+      "content": "珠免集团11月11日晚公告称，公司筹划以发行股份及支付现金方式，购买珠海市免税企业集团有限公司（简称“免税公司”）49%股权并募集配套资金。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "14:18",
+      "keywords": []
+    },
+    {
+      "title": "连续四周回落之后，美国抵押贷款利率大幅飙升",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykqvt1719405.shtml",
+      "content": "核心要点据《每日抵押贷款新闻》数据，30 年期固定抵押贷款平均利率周二较周一上行 12 个基点，达到 7.30%。抵押贷款银行家协会数据显示，上周抵押贷款申请量环比上涨 6...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "14:12",
+      "keywords": []
+    },
+    {
+      "title": "全美零售联合会：消费者仍在消费，但已显现压力信号",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykqvu8364889.shtml",
+      "content": "核心要点10 月经季节调整后的零售总规模达 5617 亿美元，环比增长 0.2%，同比增长 3.6%。核心消费指标环比上涨 0.3%、同比上涨 3.4%，规模为 4542 亿美元。",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "14:10",
+      "keywords": []
+    },
+    {
+      "title": "美国麻疹病例激增，疫情暴发成本可达数百万美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-11/doc-iniykqvx2269072.shtml",
+      "content": "核心要点 麻疹在美国卷土重来，将给美国医疗体系带来沉重的经济负担。 约翰斯・霍普金斯大学研究人员开发的一款新测算工具估算：2025 年美国麻疹疫情...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "14:07",
+      "keywords": [
+        "新冠肺炎"
+      ]
+    },
+    {
+      "title": "流量博弈下的银行理财大促：热闹营销难改收益定价约束",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/lcxqs/2026-11-11/doc-iniykqvt1713603.shtml",
+      "content": "财联社11月11日讯（编辑 王蔚） 双十一大促火热开启，消费市场满减、补贴玩法层出不穷，而银行及理财子公司也借这一全民流量窗口密集上线 “理财双十一专场”。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "13:50",
+      "keywords": []
+    },
+    {
+      "title": "积存金上线挂单交易，金价波动下银行释放新信号？",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-11-11/doc-iniykqvt1708622.shtml",
+      "content": "来源：国际金融报 金价波动之下，银行开始在积存金的交易便利性上下功夫。 《国际金融报》记者注意到，中信银行近日宣布将于11月16日在个人客户积存金业务中加入挂单买入...",
+      "priority": "low",
+      "sectors": [
+        "黄金",
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-11-11",
+      "time": "13:42",
       "keywords": []
     },
     {
