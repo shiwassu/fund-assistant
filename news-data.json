@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-14T15:18:43.870852",
+  "updated": "2026-11-14T20:54:24.305572",
   "total": 149,
   "sources": [
     "新浪财经",
@@ -7,11 +7,39 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 28,
+    "high": 27,
     "medium": 20,
-    "low": 101
+    "low": 102
   },
   "items": [
+    {
+      "title": "Meta在意大利被罚款8.05亿欧元 涉未经明确同意访问用户相册",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniytnhx3878199.shtml",
+      "content": " 意大利数据保护局对Meta Platforms处以8.05亿欧元（8.87亿美元）罚款，原因是该公司未经Android用户明确同意，访问了其手机相册中的照片和视频。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-14",
+      "time": "15:33",
+      "keywords": []
+    },
+    {
+      "title": "美联储柯林斯：稳步、渐进加息是适宜之举",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniytnhx3878101.shtml",
+      "content": " 波士顿联储行长苏珊·柯林斯表示，随着劳动力市场站稳脚跟而没有加剧价格压力，循序渐进的加息路径对于降低通胀来说将是适宜的。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-14",
+      "time": "15:32",
+      "keywords": []
+    },
     {
       "title": "美国空管系统故障致4小时停飞，交通部长申请500亿升级资金",
       "source": "环球市场播报",
@@ -136,48 +164,6 @@
       "period": "morning",
       "date": "2026-11-14",
       "time": "08:44",
-      "keywords": []
-    },
-    {
-      "title": "小摩：2027年美国高评级债发行规模将冲2.1万亿美元，未来2万亿或成“新常态”",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-11-14/doc-iniysvkv0221373.shtml",
-      "content": "本文源自：智通财经网 智通财经获悉，摩根大通表示，大型科技公司持续加码人工智能（AI）基础设施建设，叠加企业再融资需求高企，将推动美国投资级债券发行规模在2027年再...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-14",
-      "time": "07:50",
-      "keywords": []
-    },
-    {
-      "title": "黄金，正在重演2013年崩盘？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/cj/2026-11-14/doc-iniysvma7302263.shtml",
-      "content": "来源：华尔街情报圈 黄金分析师P． Radomski本周再次发文，他认为黄金可能已经结束最后一轮反弹，正在进入类似2013年4月暴跌前的危险阶段...",
-      "priority": "high",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "morning",
-      "date": "2026-11-14",
-      "time": "07:47",
-      "keywords": []
-    },
-    {
-      "title": "源杰科技，刚摔了一跤又站起来了",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-11-14/doc-iniysvma7295304.shtml",
-      "content": "来源：蔚然先声Lite 作者 | 清予 编辑 | 汪戈伐 前脚刚跌停，后脚就来了一张大单。11月13日，源杰科技当天股价重挫逾11%，收报673.1元。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-14",
-      "time": "07:30",
       "keywords": []
     },
     {
@@ -437,6 +423,20 @@
       ]
     },
     {
+      "title": "前沿 AI 研发回报持续缩水 行业专家否定模型快速自我迭代前景",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-11-15/doc-iniytwwt3667857.shtml",
+      "content": "以色列初创企业Tenzai联合创始人兼CEO阿里尔·蔡特林表示，并不认同递归自我提升的设想。他表示，所谓“快速起飞”，也就是某一家厂商的模型高速自我迭代...",
+      "priority": "medium",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-11-14",
+      "time": "19:37",
+      "keywords": []
+    },
+    {
       "title": "彻底反转了，确定性拉满的核心资产，连跌 6 年，仅有15倍PE",
       "source": "市场资讯",
       "url": "https://finance.sina.com.cn/stock/bxjj/2026-11-14/doc-iniytfyz3966861.shtml",
@@ -504,20 +504,6 @@
       "period": "morning",
       "date": "2026-11-14",
       "time": "08:09",
-      "keywords": []
-    },
-    {
-      "title": "“股王”苹果，市值再创新高！英伟达高开转跌，一竞争对手股价飙涨",
-      "source": "e公司",
-      "url": "https://finance.sina.com.cn/roll/2026-11-14/doc-iniysvkz0523853.shtml",
-      "content": "来源：e公司 “股王”苹果，市值再创新高！英伟达高开转跌，一竞争对手股价飙涨 11月13日，美股主要指数高开，道琼斯指数上涨0.28%，纳斯达克指数涨0.04%，标普500指数涨0...",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "morning",
-      "date": "2026-11-14",
-      "time": "07:25",
       "keywords": []
     },
     {
@@ -743,6 +729,104 @@
       "keywords": [
         "市场动态"
       ]
+    },
+    {
+      "title": "摩根士丹利财富管理Shalett：AI资本支出驱动的牛市逻辑依然稳固",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniytwwt3669681.shtml",
+      "content": "英伟达公司领导层的动荡以及民主党在中期选举中获胜，加剧了市场对人工智能热潮的担忧，但摩根士丹利财富管理的Lisa Shalett表示，这些因素不会动摇本轮牛市的主要驱动力...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-11-14",
+      "time": "20:08",
+      "keywords": []
+    },
+    {
+      "title": "伊拉克查处石油走私，九名安全及石油官员遭解职",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-11-15/doc-iniytwwt3669141.shtml",
+      "content": " 伊拉克总理周六解除了九名安全和石油部门官员的职务。此前一项调查证实，在伊朗支持的“真主党旅”民兵组织据点朱尔夫·萨哈尔存在石油走私行为。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-11-14",
+      "time": "19:57",
+      "keywords": []
+    },
+    {
+      "title": "系统故障酿全美航班停飞 交通部长达菲将矛头指向承包商L3Harris",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-15/doc-iniytwwq6847969.shtml",
+      "content": "美国交通部长肖恩·达菲周六表示，官员们正在调查航空航天和国防承包商L3Harris Technologies Inc．是否是空中交通管制系统瘫痪的罪魁祸首。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-14",
+      "time": "17:58",
+      "keywords": []
+    },
+    {
+      "title": "美联邦航空局局长：全美航空运输预计15日晚恢复正常",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-15/doc-iniytwwt3664711.shtml",
+      "content": "美国联邦航空局局长布赖恩·贝德福德14日说，全美航空运输预计15日晚能恢复正常。在全国航班停飞引发航空出行混乱后，贝德福德14日向美国公众道歉...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-14",
+      "time": "16:28",
+      "keywords": []
+    },
+    {
+      "title": "特斯拉开始邀请部分个人用户订购无人驾驶汽车Cybercab",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-11-15/doc-iniytsqr0181590.shtml",
+      "content": "特斯拉公司开始邀请部分客户订购Cybercab，这款双座车型没有方向盘和脚踏板。 特斯拉人工智能负责人Ashok Elluswamy表示，Cybercab将在与特斯拉Robotaxi车队相同的所有地点...",
+      "priority": "low",
+      "sectors": [
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-11-14",
+      "time": "16:18",
+      "keywords": []
+    },
+    {
+      "title": "索菲亚发布设计趋势洞察 推进全案定制战略落地",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/chanjing/gsnews/2026-11-14/doc-iniytsqs6949054.shtml",
+      "content": "11月14日晚间消息，11月11日，第二届索菲亚5A好设计大赛全国总决赛暨趋势洞察发布会于广州举行。据介绍，本届赛事于4月在法国巴黎正式启幕...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-14",
+      "time": "15:55",
+      "keywords": []
+    },
+    {
+      "title": "伊朗驳斥美方制裁威胁，邻国贸易稳步增长",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-11-14/doc-iniytsqr0172002.shtml",
+      "content": "伊朗经济部长马达尼扎德驳斥了华盛顿进一步实施经济制裁的威胁，称尽管面临美国压力，伊朗与邻国的贸易仍在扩大。马达尼扎德周六回应美国财长贝森特近期的言论时表示...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-14",
+      "time": "15:51",
+      "keywords": []
     },
     {
       "title": "美国航班大乱持续 数千架次取消或延误",
@@ -1108,92 +1192,6 @@
       "period": "morning",
       "date": "2026-11-14",
       "time": "07:55",
-      "keywords": []
-    },
-    {
-      "title": "比亚迪辟谣收购“某数字能源”：无任何事实依据",
-      "source": "快科技2018",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-11-14/doc-iniysvkz0519985.shtml",
-      "content": "快科技11月14日消息，近日，网络流传“华为数字能源年底会有大动作，听说和比亚迪谈妥了”等消息，引发外界关注。 今日午间，比亚迪网络举报中心发文辟谣，明确表示...",
-      "priority": "low",
-      "sectors": [
-        "能源",
-        "消费"
-      ],
-      "period": "morning",
-      "date": "2026-11-14",
-      "time": "07:27",
-      "keywords": []
-    },
-    {
-      "title": "英伟达回应CEO继任者传闻",
-      "source": "央视",
-      "url": "https://finance.sina.com.cn/roll/2026-11-14/doc-iniysvkv0211315.shtml",
-      "content": "据英国《金融时报》13日报道，英伟达董事会已就CEO继任事宜接触英国芯片设计公司安谋控股（Arm Holdings）首席执行官雷内·哈斯。",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "morning",
-      "date": "2026-11-14",
-      "time": "07:18",
-      "keywords": []
-    },
-    {
-      "title": "美国AI损失惨重！黄仁勋交出帅印后，英伟达将丢失灵魂？",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-11-14/doc-iniysvmc2874932.shtml",
-      "content": "来源：智能商业论 “千军易得，一将难求。 外界常说黄仁勋是“AI教父”，我认为这个说法太窄了。 黄仁勋身上有四个特质：技术判断、产业前瞻、供应链掌控、组织帅才。",
-      "priority": "low",
-      "sectors": [
-        "半导体",
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-11-14",
-      "time": "07:18",
-      "keywords": []
-    },
-    {
-      "title": "黄仁勋辞职后：亲友齐聚旧金山豪宅 点炸鸡外卖",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysvmc2868383.shtml",
-      "content": " 深陷风波的科技巨头黄仁勋被曝光存在多段婚外情、戏剧性宣布辞职后，数小时内，他的亲友陆续聚集在其价值3800万美元的旧金山豪宅内。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-14",
-      "time": "07:07",
-      "keywords": []
-    },
-    {
-      "title": "马斯克称Cybercab每月299美元自动驾驶订阅费太高",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-14/doc-iniysvma7285464.shtml",
-      "content": "特斯拉宣布开始向部分个人用户开放 Cybercab 购买渠道，起售价为 29990 美元，首批车辆预计将于 2026 年 12 月交付。不过，目前特斯拉 Cybercab...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-14",
-      "time": "07:06",
-      "keywords": []
-    },
-    {
-      "title": "聚合多元醇商品报价动态（2026-11-14）",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/nyzx/2026-11-14/doc-iniysrcf2978555.shtml",
-      "content": "生意社11月14日讯交易商品牌/产地交货地最新报价聚合多元醇 工业级山东隆汇化工有限公司国产山东省/济南市6800元/吨 （文章来源：生意社）",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-14",
-      "time": "06:01",
       "keywords": []
     },
     {
