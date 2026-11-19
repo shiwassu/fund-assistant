@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-19T13:50:21.435737",
+  "updated": "2026-11-19T22:24:33.394551",
   "total": 149,
   "sources": [
     "新浪财经",
@@ -7,94 +7,205 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 23,
-    "medium": 29,
+    "high": 31,
+    "medium": 21,
     "low": 97
   },
   "items": [
     {
-      "title": "盘前：纳指期货大涨2.16% Anthropic创纪录IPO提振AI链",
+      "title": "美国股市：标普500指数六连跌 Anthropic首秀大涨难振市场信心",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhrrx6162293.shtml",
-      "content": "在人工智能公司Anthropic PBC为创纪录的首次公开募股（IPO）确定发行价后，美国股指期货大幅上涨。此前全球股市面临创下今年最长连跌纪录的风险。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizinvp5798039.shtml",
+      "content": "标普500指数连续第六个交易日下跌，Anthropic PBC上市后带动的科技股涨势未能持续。 标普500指数收跌2%，创2024年4月以来最长连跌。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-19",
+      "time": "22:18",
+      "keywords": []
+    },
+    {
+      "title": "11月20日美股成交额前20：Anthropic首秀收涨17% 成交额869.07亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizinvv0577857.shtml",
+      "content": "周四美股成交额第1名Anthropic收涨17.07%，成交869.07亿美元。 Anthropic登陆华尔街首日大涨17%，收盘约97美元。这家Claude大模型开发商完成810亿美元募资...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-19",
+      "time": "22:17",
+      "keywords": []
+    },
+    {
+      "title": "11月20日外盘头条：Anthropic首秀市值达1.3万亿美元 特朗普9月交易记录曝光 美联储官员未排除更大幅度加息",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizinvp5784689.shtml",
+      "content": "全球财经媒体昨夜今晨共同关注的头条新闻主要有： 1、Anthropic首秀市值达1.3万亿美元 又一巨型AI公司登陆纳斯达克 2、特朗普9月交易记录曝光：加仓英伟达、SpaceX...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-19",
+      "time": "21:48",
+      "keywords": []
+    },
+    {
+      "title": "Anthropic首秀市值达1.3万亿美元 又一巨型AI公司登陆纳斯达克",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizinvp5782425.shtml",
+      "content": " Anthropic登陆华尔街首日大涨17%，收盘约97美元。这家Claude大模型开发商完成810亿美元募资，创下史上最大IPO纪录，投资者争相抢筹这轮AI热潮核心标的。",
       "priority": "high",
       "sectors": [
         "AI"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-11-19",
-      "time": "13:30",
+      "time": "21:39",
       "keywords": []
     },
     {
-      "title": "1500亿AI芯片龙头，最新回应",
-      "source": "中国证券报-中证网",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-19/doc-inizhrsa4488922.shtml",
-      "content": " 11月19日，燧原科技“20CM”跌停，总市值为1568亿元。11月13日，燧原科技股价盘中创下历史新高；11月16日—11月19日，燧原科技连续下跌，股价累计跌幅超过30%。",
+      "title": "美联储理事巴尔称通胀仍过高 货币政策需进一步调整",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizinvp5775362.shtml",
+      "content": " 美联储理事迈克尔·巴尔表示，宽松的金融条件正在推动经济强劲增长和持续的通胀，并重申决策者可能需要进一步调整利率，以应对高通胀。",
       "priority": "high",
       "sectors": [
-        "半导体",
-        "AI"
+        "综合"
       ],
-      "period": "noon",
+      "period": "night",
       "date": "2026-11-19",
-      "time": "13:28",
+      "time": "21:07",
       "keywords": []
     },
     {
-      "title": "欧洲央行Nagel：12月加息将发出控制通胀的明确信号",
+      "title": "美联储古尔斯比称下月会议将考虑所有选项 未排除更大幅度加息",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhrsf0928929.shtml",
-      "content": "德国央行行长Joachim Nagel表示，欧洲央行12月再次加息将释放一个强烈信号，表明决策者控制通胀的决心。 根据德国央行网站公布的文字稿...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizinvq7338509.shtml",
+      "content": " 芝加哥联储行长奥斯坦·古尔斯比表示，决策者下个月开会制定利率政策时，他将考虑所有选项，他也没有反驳加息幅度高于通常水平的可能性。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-19",
+      "time": "20:57",
+      "keywords": []
+    },
+    {
+      "title": "Anthropic重磅IPO衍生超1560亿美元公益资金",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizinvq7338093.shtml",
+      "content": " Anthropic这场重磅IPO，不少人一夜实现世代级财富跃升；同时，这家前沿AI实验室及其员工所支持的公益项目，也将收获一笔巨额善款。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-19",
+      "time": "20:55",
+      "keywords": []
+    },
+    {
+      "title": "芝加哥联储行长古尔斯比称AI建设和支出可能导致经济过热",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizihpx0666158.shtml",
+      "content": "芝加哥联储行长奥斯坦·古尔斯比表示，他担心人工智能建设将导致经济过热。 “眼下，美联储的任务是努力防止这种局面导致经济过热，而这正变得越发复杂...",
+      "priority": "high",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-11-19",
+      "time": "19:41",
+      "keywords": []
+    },
+    {
+      "title": "交易员押注三大央行利率将在数年内保持高位",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizihpu4221462.shtml",
+      "content": "交易员押注，主要央行在2027年底结束加息后，将在数年内基本维持利率不变。 2026年初，货币市场原本计价美联储、欧洲央行和英国央行将降息，但伊朗战争导致石油供应受阻...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-11-19",
+      "time": "18:51",
+      "keywords": []
+    },
+    {
+      "title": "欧洲债市：欧债下跌 油价上涨促使交易员加码加息押注",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizihpu4220731.shtml",
+      "content": "欧洲债券下跌，油价上涨令投资者对通胀风险保持警惕，促使交易员加码加息押注。 德国2年期国债收益率上涨3个基点，至3.15%。 交易员预计...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-19",
+      "time": "18:46",
+      "keywords": []
+    },
+    {
+      "title": "欧洲股市四连跌 创8月份以来最长连跌纪录",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-iniziafz0779647.shtml",
+      "content": "欧洲股市连续第四天下跌，防御性板块构成拖累；投资者等待Anthropic PBC在完成重磅首次公开募股（IPO）后挂牌交易。 斯托克欧洲600指数收盘下跌0.9%...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-19",
+      "time": "18:17",
+      "keywords": []
+    },
+    {
+      "title": "伯南克现身Anthropic IPO现场",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-iniziafw4325297.shtml",
+      "content": "前美联储主席本・伯南克现身纳斯达克现场，与投资者一同见证 Anthropic 首笔股票成交。 Anthropic 在今年 7 月邀请伯南克加入其长期利益信托基金。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-11-19",
-      "time": "13:21",
+      "time": "17:03",
       "keywords": []
     },
     {
-      "title": "摩根大通：预计美联储将加息三次，分别在12月、1月和3月，使联邦基金利率达到4.5%-4.75%",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-19/doc-inizhrry7681011.shtml",
-      "content": "来源：财联社 摩根大通预计美联储将加息三次，分别在12月、1月和3月，使联邦基金利率达到4.5%-4.75%。 美东时间周三，在美联储理事克里斯托弗·沃勒语出惊人...",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "12:38",
-      "keywords": []
-    },
-    {
-      "title": "2027年度中国人民银行直属事业单位公开招聘公告来了！详情→",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-11-19/doc-inizhrry7705848.shtml",
-      "content": "来源：金融时报 根据工作需要，按照《事业单位人事管理条例》和事业单位公开招聘有关政策规定，中国人民银行直属事业单位拟公开招聘部分工作人员。现将有关事项公告如下。",
-      "priority": "high",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "12:36",
-      "keywords": []
-    },
-    {
-      "title": "地天板、天地板轮番上演，九阳股份暴涨逾2倍后多空极致拉锯",
-      "source": "一财网",
-      "url": "https://finance.sina.com.cn/roll/2026-11-19/doc-inizhrsf0900059.shtml",
-      "content": "连续3个交易日，该公司股价在涨停与跌停之间拉锯。 11月19日，九阳股份（002242.SZ）盘中再度上演“地天板”。在这之前的两天，该公司股价也先后走出“地天板”“天地板”行情...",
+      "title": "墨西哥比索兑美元汇率自2025年6月以来首次跌破19比索",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhvxy4426042.shtml",
+      "content": "墨西哥比索兑美元跌破1美元兑19比索，为2025年6月以来首次，在多数新兴市场货币也下跌之际延续了近期跌势。 在央行最新一次会议纪要公布前，比索当日早些时候已逐步走低。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-11-19",
-      "time": "12:24",
+      "time": "15:33",
+      "keywords": []
+    },
+    {
+      "title": "Anthropic股票预示首日开盘价将较IPO价格高出20%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhvyc0859051.shtml",
+      "content": " Anthropic PBC的股票周四开始交易时料将大涨。此前，这家人工智能实验室通过IPO和私募配售募资1，073亿美元，打破SpaceX创下的史上最大规模发行纪录。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-19",
+      "time": "15:11",
       "keywords": []
     },
     {
@@ -370,227 +481,115 @@
       ]
     },
     {
-      "title": "Anthropic上市前再获两家机构看好，Melius给予155美元目标价",
+      "title": "纽约汇市：美元走高 市场避险情绪升温",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhrry7713719.shtml",
-      "content": "11月19日，随着Anthropic将IPO发行价确定为83美元，Citizens及Melius Research宣布首次覆盖该公司，分别给予“跑赢大盘”和“买入”评级，目标价分别为125美元和155美元...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizinvp5769475.shtml",
+      "content": "美元指数收复早盘跌幅后小幅走高，美元兑多数G10货币上涨。 彭博美元即期指数上涨0.2%，此前早盘一度下跌0.1%。美国股市遭到抛售，加上来自沙特阿拉伯的负面消息...",
+      "priority": "medium",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-11-19",
+      "time": "20:48",
+      "keywords": []
+    },
+    {
+      "title": "Anthropic盛大IPO落地后投资者获利了结，美股下挫",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-iniziaft5982551.shtml",
+      "content": "万众期待的 AI 企业 Anthropic IPO 正式交易的同一时刻，大盘应声大跌，跌至日内低点。 科技股云集的纳斯达克指数盘中早些时候一度上涨 2%，现跌 0...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-11-19",
-      "time": "13:39",
+      "time": "17:06",
       "keywords": []
     },
     {
-      "title": "美国11月份费城联邦储备银行制造业指数降至6.3 预估为20.1",
+      "title": "Anthropic为何高薪聘请年薪40万美元的天然气供应经理",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhrsf0936166.shtml",
-      "content": "25名经济学家的预估区间为15至31.4。 费城联邦储备银行公布，前月整体企业活动状况指数为20.9。 支付价格指数11月份增至58.2，前月为43.2。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-iniziafu7542528.shtml",
+      "content": " 招聘网站上一则最新岗位，折射出 AI 行业对电力近乎贪婪的渴求：“如果天然气无法按电厂所需的气量与压力送达，算力就无法运转。”",
       "priority": "medium",
       "sectors": [
-        "金融"
+        "能源"
       ],
       "period": "noon",
       "date": "2026-11-19",
-      "time": "13:36",
+      "time": "16:42",
       "keywords": []
     },
     {
-      "title": "索泰集团上调业绩指引 股价上涨超15%",
+      "title": "Plancorp的考克斯：Anthropic IPO将成为衡量投资者AI投资意愿的重要风向标",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhrrx6152128.shtml",
-      "content": "索泰集团上调业绩指引、手握客户定金，人工智能旺盛需求提升业务可预见性推动股价上涨 今年以来该股市值已经翻两番以上索泰集团表示公司正谋求扩大产能以满足市场需求。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "13:28",
-      "keywords": []
-    },
-    {
-      "title": "Babcock公司财报超预期、布局无人机业务，股价上扬",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhrrx6150634.shtml",
-      "content": "该公司计划加大对人机协同技术的投入Babcock国际集团公布，截至 9 月末的半年营收同比增长 6.3%。 内容速览 这家防务集团公布业绩超出市场预期，并公布全新增长规划后...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "13:24",
-      "keywords": []
-    },
-    {
-      "title": "DA Davidson上调派拓网络目标价至430美元，但对其进军AI模型训练领域持谨慎态度",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhrry7704333.shtml",
-      "content": "11月19日，DA Davidson将派拓网络（Palo Alto Networks）的目标价由420美元上调至430美元，维持“买入”评级。该机构认为，派拓网络在网络安全市场仍占据优势地位...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizhvxy4435975.shtml",
+      "content": "Anthropic 于周四上市，将成为一项关键指标，用以判断投资者对 AI 交易行情的看多热情还剩多少。 Plancorp 投资策略主管卡莉・考克斯表示：“这会是衡量投资者 AI...",
       "priority": "medium",
       "sectors": [
         "AI"
       ],
       "period": "noon",
       "date": "2026-11-19",
-      "time": "13:22",
+      "time": "16:03",
       "keywords": []
     },
     {
-      "title": "食品杂货销售提振沃尔玛业绩 美国消费者转向低价商品",
+      "title": "摩根大通下调 Alphabet 债券评级",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhrsf0926602.shtml",
-      "content": " 沃尔玛表示，在消费者为抵御食品通胀而寻找平价选择之际，该公司在美国食品杂货市场的份额进一步提升，助力这家零售巨头交出超出预期的三季度营收。",
-      "priority": "medium",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "13:16",
-      "keywords": []
-    },
-    {
-      "title": "百亿资本开支压力下 世纪互联用23.4亿乌兰察布资产解局",
-      "source": "观点地产网",
-      "url": "https://finance.sina.com.cn/stock/estate/integration/2026-11-19/doc-inizhrsa4478572.shtml",
-      "content": "观点网 国内算力基础设施领域机构间REITs的首单扩募落地。11月18日，国金资管-世纪乌兰数据中心持有型不动产资产支持专项计划完成扩募发行...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhvyc0868973.shtml",
+      "content": "摩根大通将 Alphabet 公司债券评级由超配下调至中性，理由是 “估值已经抬升，相比亚马逊，超额收益空间变小”。 信用分析师埃丽卡・斯皮尔写道：“我们的基准情景假设公司增...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-11-19",
-      "time": "12:53",
+      "time": "15:46",
       "keywords": []
     },
     {
-      "title": "段永平的逆风局",
-      "source": "中国证券报",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-11-19/doc-inizhrsa4471970.shtml",
-      "content": "【编者按】 行情起落，K线无言。真正动人的，是涨跌背后的人性抉择。 我们不追逐暴富神话，不渲染博弈狂欢，而是通过挖掘知名投资者和投资机构的真实投资故事...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "12:50",
-      "keywords": []
-    },
-    {
-      "title": "A股，利好来袭！龙头公司，最新公告！",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-19/doc-inizhrsf0913122.shtml",
-      "content": "A股上市公司回购动作密集。 11月19日晚间，芯片龙头长鑫科技、海光信息相继公告回购事项。长鑫科技调整回购方案，回购金额增加至不低于25亿元（含）...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "12:50",
-      "keywords": []
-    },
-    {
-      "title": "多只核心宽基ETF集中放量，科创50、沪深300指产品单日成交齐破百亿",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-19/doc-inizhrrx6126556.shtml",
-      "content": "多只头部宽基ETF周四尾盘再次放量。 截至11月19日收盘，上证综指跌0.28%，报3577.62点；深证成指跌0.71%，创业板指跌0.79%。尽管主要指数集体收跌...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "12:38",
-      "keywords": []
-    },
-    {
-      "title": "Anthropic创全球最大IPO纪录，全球半导体股集体上涨",
+      "title": "如何布局Anthropic股票 —— 无需直接参与IPO",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhrrx6123848.shtml",
-      "content": " 11月19日，全球半导体股普遍上涨，Anthropic以超出预期的发行价格完成全球规模最大的IPO，提振了市场对人工智能行业及AI基础设施投资前景的信心。",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "12:35",
-      "keywords": []
-    },
-    {
-      "title": "胡塞武装袭击利雅得，沙特主权财富基金总部大楼受损",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhrry7671686.shtml",
-      "content": "周四，沙特阿拉伯主权财富基金办公地点所在的一栋摩天大楼在疑似胡塞武装导弹袭击中受损。这凸显出，在沙特与伊朗支持的也门胡塞武装重新爆发冲突之际...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhvxy4429501.shtml",
+      "content": "指数基金不会立刻纳入 Anthropic 个股。部分指数基金会在数日或数周内纳入，具体取决于对应指数的纳入规则。 举例：晨星美国全市场指数将在该股上市 5...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-11-19",
-      "time": "12:34",
+      "time": "15:43",
       "keywords": []
     },
     {
-      "title": "巴克莱公布欧洲医疗科技行业首选股，看好依视路陆逊梯卡、飞利浦及费森尤斯",
+      "title": "阿莫代伊：希望Anthropic未来能获得投资级信用评级",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhrsf0901013.shtml",
-      "content": " 11月19日，巴克莱发布欧洲医疗科技及服务行业研究报告，重点看好具备较强竞争壁垒、稳定需求及明确盈利增长前景的企业，并将依视路陆逊梯卡列为该行业首选股。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhvyc0866019.shtml",
+      "content": "首席执行官达里奥・阿莫代伊称，Anthropic 希望未来拿下投资级信用评级。 阿莫代伊表示，公司 “期望” 在未来取得投资级信用评级。 “当然，最终结果如何还要拭目以待。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-11-19",
-      "time": "12:29",
+      "time": "15:36",
       "keywords": []
     },
     {
-      "title": "Anthropic纳斯达克上市前，比特币ETF资金流出显示加密货币市场热情减退",
+      "title": "超半数机构投资者据悉在Anthropic IPO中未获配股份",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhrry7667467.shtml",
-      "content": "加密货币交易员目前通过Hyperliquid对Anthropic（ANT）的定价已超过每股100美元，远高于这家Claude开发商IPO时每股83美元的发行价。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhvxv6079411.shtml",
+      "content": "据知情人士透露，Anthropic PBC首次公开募股中，超过一半参与申购的机构投资者未获配任何股份。 知情人士称，股份配售明显向美国投资者倾斜...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-11-19",
-      "time": "12:26",
-      "keywords": []
-    },
-    {
-      "title": "A股最年轻行长首秀，常熟银行：明年负债端降本仍有空间",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/roll/2026-11-19/doc-inizhrsa4444660.shtml",
-      "content": "新任行长首秀业绩发布会，常熟银行释放怎样的经营信号？ 11月19日，常熟银行召开2026年三季度业绩说明会。这也是7月就任行长的陆鼎昌首次参与业绩会，副行长程鹏飞...",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "12:26",
-      "keywords": []
-    },
-    {
-      "title": "长鑫科技回购上限拟提至50亿元，最高40亿元股份注销减少注册资本",
-      "source": "澎湃新闻",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-19/doc-inizhrry7667094.shtml",
-      "content": "存储龙头长鑫科技计划上调股份回购规模。 11月19日晚间，长鑫科技（688825.SH）发布关于调整以集中竞价交易方式回购公司股份方案的公告。",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "12:24",
+      "time": "15:12",
       "keywords": []
     },
     {
@@ -802,395 +801,396 @@
       ]
     },
     {
-      "title": "英伟达透露：台积电本周曾到访",
+      "title": "美国债市：国债上涨 收益率曲线陡化 短债领涨",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhrsa4488835.shtml",
-      "content": "近日，克雷斯以英伟达（NVDA）临时首席执行官的身份首次公开亮相，而这家公司正处在关键转折点。联合创始人、前CEO黄仁勋已经离职；美国SEC正在调查公司是否存在误导投资者...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizinvs4137434.shtml",
+      "content": "周四美国国债收益率曲线呈牛市陡化走势，收益率曲线短端和中段债券领涨，因美股早盘涨势消退，Anthropic PBC上市首秀稳健也未能持续提振市场对AI交易的信心。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-19",
+      "time": "22:03",
+      "keywords": []
+    },
+    {
+      "title": "宝洁拟到2030年削减最多30%制造和物流员工",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizinvv0561233.shtml",
+      "content": "宝洁公司计划到本十年末将制造和物流员工人数削减20%至30%，因价格压力不断上升。 宝洁首席产品供应官Luc Reynaert周四在一次投资者演示会上公布了公司最新的成本节约举措...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-19",
+      "time": "21:34",
+      "keywords": []
+    },
+    {
+      "title": "11月20日收盘：三大股指均跌超2% 道指跌破5万点大关 Anthropic首秀收涨17%",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizinvs4124102.shtml",
+      "content": "北京时间周五，美股下挫，就在万众瞩目的AI新股Anthropic开盘交易的那一刻，各大股指跌至日内低点。 道指收盘跌1101.11点，跌幅2.19%，报49097.06点...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-19",
+      "time": "21:28",
+      "keywords": []
+    },
+    {
+      "title": "Anthropic超级IPO之后 人才留存迎来考验",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizinvs4121959.shtml",
+      "content": "今天对Anthropic而言是一座重要里程碑。这家成立五年、开发Claude大模型的企业，抢在劲敌OpenAI之前登陆公开市场；公司于今日晚些时候开盘交易后...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-19",
+      "time": "21:11",
+      "keywords": []
+    },
+    {
+      "title": "美能源部长：波斯湾成品油、俄柴油供给增加 美国柴油价料持续下行",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizihps7467296.shtml",
+      "content": " 美国能源部长克里斯·赖特表示，随着波斯湾成品油重返市场、未受制裁的俄罗斯柴油进一步增加供给压力，美国柴油价格有望从历史高点持续回落。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-11-19",
+      "time": "20:41",
+      "keywords": []
+    },
+    {
+      "title": "奈飞等流媒体巨头竞标2030世界杯美国转播权 迪士尼退出竞争",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizihpu4240981.shtml",
+      "content": " 据知情人士透露，奈飞、亚马逊、YouTube以及福克斯均计划在今日截止日前提交报价，角逐2030年男足世界杯美国地区转播权，而迪士尼不会参与竞标。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-19",
+      "time": "20:25",
+      "keywords": []
+    },
+    {
+      "title": "特朗普9月交易记录曝光：加仓英伟达、SpaceX、帕兰提尔，多家企业斩获联邦大单",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizihpu4238779.shtml",
+      "content": "根据一份新近披露的财务申报文件，美国总统唐纳德·特朗普名下投资账户在9月买入了英伟达、帕兰提尔以及埃隆·马斯克旗下SpaceX的股份...",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "night",
+      "date": "2026-11-19",
+      "time": "20:13",
+      "keywords": []
+    },
+    {
+      "title": "特朗普称与普京会谈主要讨论乌克兰问题",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizihpr5886404.shtml",
+      "content": "根据对美国总统特朗普的采访报道，特朗普表示，他与俄罗斯总统普京的会谈“显然主要讨论的是乌克兰问题”。 两位领导人会晤前，一名美国官员曾表示，会谈不会提及俄乌冲突。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-19",
+      "time": "19:44",
+      "keywords": []
+    },
+    {
+      "title": "伊朗加大对油轮的袭击 霍尔木兹海峡石油运输风险上升",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizihpr5875826.shtml",
+      "content": "伊朗对途经霍尔木兹海峡的油轮袭击日益加剧，而与此同时，中东石油供应激增正推动油价下挫。 据汇编的数据，在经历一段时间的低强度冲突后，袭击事件从10月开始增多...",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-11-19",
+      "time": "18:51",
+      "keywords": []
+    },
+    {
+      "title": "美国抵押贷款利率六周来首次上涨 房地产市场继续承压",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizihpu4220622.shtml",
+      "content": "美国抵押贷款利率六周来首次上升，令日益疲软的美国房地产市场继续承压。 房地美周四在声明中表示，30年期固定利率抵押贷款的平均利率从7.11%升至7.28%...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-11-19",
+      "time": "18:46",
+      "keywords": []
+    },
+    {
+      "title": "特朗普会晤普京后称不会在未与泽连斯基磋商的情况下作出决定",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizihps7444032.shtml",
+      "content": " NBC News报道，美国总统特朗普与俄罗斯总统普京会晤后表示，他不会在未与乌克兰总统泽连斯基磋商的情况下，就乌克兰问题作出任何决定。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-19",
+      "time": "18:45",
+      "keywords": []
+    },
+    {
+      "title": "Alphabet重返加拿大债市 拟发债融资至少35亿美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizihps7443506.shtml",
+      "content": "Alphabet Inc．重返加拿大市场，拟发行五档债券，距离该公司首次发行加元债券仅六个月。 知情人士透露，这家谷歌母公司计划筹资至少50亿加元（35亿美元）。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-19",
+      "time": "18:41",
+      "keywords": []
+    },
+    {
+      "title": "库什纳：特朗普对向乌克兰提供类似北约第五条的安全保障持开放态度",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizihpr5873676.shtml",
+      "content": "美国特使贾里德·库什纳表示，美国总统特朗普对向乌克兰提供“类似北约第五条”的安全保障持开放态度。 库什纳在柏林对记者发表讲话。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-19",
+      "time": "18:37",
+      "keywords": []
+    },
+    {
+      "title": "Anthropic创纪录IPO，开盘报每股111.50 美元",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-iniziaft5980761.shtml",
+      "content": "周四，这家 AI 实验室完成史上规模最大 IPO 后，股票正式挂牌，开盘价报每股 111.50 美元，股票交易代码为ANT。 本次 IPO Anthropic 合计募资 813 亿美元。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-19",
+      "time": "17:02",
+      "keywords": []
+    },
+    {
+      "title": "巴斯夫终止收购计划，赢创股价大幅下挫",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-iniziaft5972149.shtml",
+      "content": "赢创拒绝了这家德国化工企业的两份收购要约巴斯夫表示，作出该决定是由于赢创拒绝两份收购要约。 内容概要 在赢创拒绝两份收购要约后，巴斯夫放弃收购赢创工业集团。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-19",
+      "time": "16:28",
+      "keywords": []
+    },
+    {
+      "title": "数千名Anthropic员工与投资者即将收获巨额财富",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-iniziafu7535572.shtml",
+      "content": "这家前沿 AI 实验室 5000 余名员工中，多数人预计将成为百万富翁Anthropic 将于周四挂牌交易，股票代码 “ANT”。 内容概要 Anthropic 将按完全稀释后约 1...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-19",
+      "time": "16:20",
+      "keywords": []
+    },
+    {
+      "title": "Anthropic与特朗普政府关系紧张",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizhvxw7662024.shtml",
+      "content": "今年 Anthropic 已经与特朗普政府爆发两次冲突，但近几个月双方阵营之间的紧张局势开始缓和。 阿莫代伊 9 月前往白宫，与特朗普共进晚餐，这是两人首次一对一会晤。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-19",
+      "time": "16:09",
+      "keywords": []
+    },
+    {
+      "title": "AMD股价一度大跌11% Hunterbrook做空该公司股票",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizhvxw7662018.shtml",
+      "content": "Hunterbrook Capital表示做空Advanced Micro Devices后，后者股价一度下跌11%。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-19",
+      "time": "16:09",
+      "keywords": []
+    },
+    {
+      "title": "新市场交易者押注Anthropic IPO将大幅高开",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizhvxy4437186.shtml",
+      "content": "核心要点永续期货显示 Anthropic 开盘价预期为 104 美元永续期货受到投资者追捧，成为新型价格发现工具Anthropic IPO 正值科技股的关键时间窗口2026 年 11 月 19 日周四...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-19",
+      "time": "16:06",
+      "keywords": []
+    },
+    {
+      "title": "特朗普多次邀约出席G20峰会 普京称“会考虑一下”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-20/doc-inizhvyc0873501.shtml",
+      "content": "俄罗斯总统弗拉基米尔·普京表示，他尚未决定是否接受唐纳德·特朗普的邀请，出席下个月在迈阿密举行的二十国集团峰会，并暗示与欧洲领导人之间的分歧可能会让峰会偏离其经济...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-19",
+      "time": "16:02",
+      "keywords": []
+    },
+    {
+      "title": "沙通社：胡塞武装袭击导致利雅得金融区建筑物受损",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhvxw7656598.shtml",
+      "content": " 沙特通讯社（SPA）援引民防部门发言人的话报道称，也门胡塞武装周四袭击了利雅得金融区的一座大楼，造成该楼多个楼层以及附近建筑受损。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-11-19",
+      "time": "15:54",
+      "keywords": []
+    },
+    {
+      "title": "报道：伊朗称霍尔木兹海峡问题解决前不谈核问题",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhvyc0870751.shtml",
+      "content": " 伊朗官方的伊朗伊斯兰共和国通讯社报道，伊斯兰革命卫队发言人Hossein Mohebbi表示：“在霍尔木兹海峡问题解决之前，我们不会进入核问题。”",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-19",
+      "time": "15:53",
+      "keywords": []
+    },
+    {
+      "title": "SpaceX计划周四进行至少320亿美元AI芯片相关债务融资",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhvxv6090009.shtml",
+      "content": " 据知情人士透露，马斯克旗下SpaceX计划周四进行至少320亿美元的债务融资，作为其最近敲定的一项更大规模芯片融资交易的一部分。",
+      "priority": "low",
+      "sectors": [
+        "半导体",
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-11-19",
+      "time": "15:50",
+      "keywords": []
+    },
+    {
+      "title": "阿莫代伊拒评黄仁勋是否应当重返英伟达担任首席执行官",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhvxw7651731.shtml",
+      "content": "阿莫代伊拒评黄仁勋是否应当重返英伟达出任 CEO：“这由英伟达方面决定”。 达里奥・阿莫代伊表示，Anthropic 与英伟达之间保持着 “长期且富有成效的合作关系”...",
       "priority": "low",
       "sectors": [
         "半导体"
       ],
       "period": "noon",
       "date": "2026-11-19",
-      "time": "13:36",
+      "time": "15:39",
       "keywords": []
     },
     {
-      "title": "美国上周首次申领失业救济人数增加1,000人至20.3万人 预估为19.8万人",
+      "title": "阿莫代伊称，9000 亿美元的投入承诺 “看起来并没有那么庞大”",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhrsf0934307.shtml",
-      "content": "接受调查的40位经济学家的预测范围为19万人至20.5万人。 4周移动均值为19.78万人。 在截至11月7日当周，持续申领失业救济人数增加7万人至176.3万人。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhvyc0865559.shtml",
+      "content": "达里奥・阿莫代伊为该公司高达 9000 亿美元的 AI 投入承诺作出辩护。 他表示：“如果你看看我们资产负债表上的现金储备，以及我们每年已经实现的营收规模...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-11-19",
-      "time": "13:33",
+      "time": "15:34",
       "keywords": []
     },
     {
-      "title": "紫金矿业：拟20亿元—30亿元回购股份",
-      "source": "证券时报网",
-      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-19/doc-inizhrry7710416.shtml",
-      "content": "转自：证券时报人民财讯11月19日电，紫金矿业(601899)11月19日公告，公司拟以20亿元—30亿元回购股份，用于实施公司员工持股计划或股权激励。回购价格不超过35元/股。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "13:33",
-      "keywords": []
-    },
-    {
-      "title": "章建平撤了：不到两个月减持至少2100万股，退出东材科技前十大股东名单",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-11-19/doc-inizhrsf0934643.shtml",
-      "content": "每经记者|张益铭每经编辑|黄胜 11月19日盘后，东材科技（SH601208，股价28.84元，市值291.34亿元）披露《关于回购股份事项前十大股东和前十大无限售条件股东持股情况的公告...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "13:33",
-      "keywords": []
-    },
-    {
-      "title": "Bath & Body Works首席执行官：转型取得进展，但尚未完成",
+      "title": "华尔街也难撼动的“防篡改”设计：拆解Anthropic上市后的非常规治理结构",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhrsa4484278.shtml",
-      "content": "这家香皂香氛零售商第三季度线上及批发渠道销售实现增长Bath &amp; Body Works 各渠道表现喜忧参半，部分渠道实现增长，另一些渠道依旧表现乏力。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhvxw7648873.shtml",
+      "content": "与几乎所有其他上市公司不同，Anthropic在实质上将由其“长期利益信托”（Long-Term Benefit Trust）所掌控。设立该信托的初衷，是为了确保公司在推进人工智能（AI）发展的过...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-11-19",
-      "time": "13:30",
+      "time": "15:31",
       "keywords": []
     },
     {
-      "title": "向上游·见源头｜2026运满满产业与数字物流融合发展大会走进江苏丰县",
+      "title": "除了12315，正规的投诉途径还有哪些？六种渠道按场景对号入座",
       "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/enterprise/2026-11-19/doc-inizhrsf0932498.shtml",
-      "content": "继河南巩义铝产业大会之后，11月19日，2026运满满“向上游·见源头”产业与数字物流融合发展大会走进全国电动三轮车核心产业带——江苏丰县。",
+      "url": "https://finance.sina.com.cn/consume/xiaofei/2026-11-19/doc-inizhezx0324151.shtml",
+      "content": "12315是第一反应，但并不是所有纠纷都适合走12315。金额小、商家拖着不处理、需要快速得到回应的情况，换一个更对口的渠道，往往效果更好。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
       "date": "2026-11-19",
-      "time": "13:29",
+      "time": "15:30",
       "keywords": []
     },
     {
-      "title": "已有70%概率身处AI泡沫：这位经济学家1月还说泡沫未至，如今发现泡沫四大征兆全部出现",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhrrx6150031.shtml",
-      "content": "Acadian Asset Management 投资组合经理、前芝加哥大学金融学教授欧文・拉蒙特在邮件表示：“我认为截至 2026 年 11 月，美国股市已经身处 AI 泡沫的概率为 70%。",
+      "title": "阿里财报会释放对国产芯片信心",
+      "source": "一财网",
+      "url": "https://finance.sina.com.cn/wm/2026-11-19/doc-inizhvxy4421706.shtml",
+      "content": "2026.11．19本文字数：945，阅读时长大约2分钟 作者 |第一财经陈杨园 “国产算力进度超出我们的预期”，11月19日晚，阿里财报发布后的电话会上...",
       "priority": "low",
       "sectors": [
-        "AI"
+        "半导体"
       ],
       "period": "noon",
       "date": "2026-11-19",
-      "time": "13:23",
-      "keywords": []
-    },
-    {
-      "title": "Anthropic IPO股份吸引超10万名英国散户申购",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhrsa4480848.shtml",
-      "content": " 约11万名英国散户投资者参与申购AI巨头Anthropic规模达810亿美元的创纪录IPO，在该股于周四美股开盘、登陆纳斯达克之前，这批散户合计获配3亿美元股票。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "13:22",
-      "keywords": []
-    },
-    {
-      "title": "国际能源署：伊朗冲突或永久削弱全球对霍尔木兹海峡的依赖",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhrsf0929044.shtml",
-      "content": "若航道持续严重受阻，2035 年经该海峡运输的石油或将降至每日 200 万桶以下市场对霍尔木兹海峡的信心已然崩塌，未来十年全球能源贸易格局将迎来重大调整...",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "13:21",
-      "keywords": []
-    },
-    {
-      "title": "55亿山东富豪尽显豪气，“白送”上市公司超2亿“大礼”",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-11-19/doc-inizhrsa4484751.shtml",
-      "content": "涞源：雷达Finance 雷达财经出品 文|周慧 编|孟帅 入主上市公司一年多，身家55亿元的山东富豪吴涛，给亚振家居免费送上价值超2亿元的“大礼”。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "13:21",
-      "keywords": []
-    },
-    {
-      "title": "西方官员忧心美国对伊朗发动新一轮大规模打击的可能性有所上升",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhrsa4479866.shtml",
-      "content": "西方官员表示，随着交战双方不断升级零星冲突，近几日美国对伊朗发动新一轮大规模打击的可能性似乎有所上升。 一名官员表示，美国总统唐纳德·特朗普尚未决定是否下令发动袭...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "13:20",
-      "keywords": []
-    },
-    {
-      "title": "交易员权衡中东航运风险，油价小幅走高",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhrsa4479296.shtml",
-      "content": "布伦特原油近月期货升至每桶 92.40 美元，西德克萨斯轻质原油近月期货报每桶 83.51 美元中东地区正在恢复的石油供应，仍面临船只与能源基础设施遭袭的风险。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "13:19",
-      "keywords": []
-    },
-    {
-      "title": "特朗普媒体计划清偿8.84亿美元债务 不抛售所持比特币",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhrsa4476307.shtml",
-      "content": " 特朗普媒体科技集团正在偿还当初为买入比特币而举借的债务，方案是尽量不出售比特币；留给公司的时间大约还有两周，之后债权人有权要求兑付最高8.835亿美元现金。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "13:14",
-      "keywords": []
-    },
-    {
-      "title": "多笔银行大额股权公开拍卖",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/wbstock/2026-11-19/doc-inizhrrx6148507.shtml",
-      "content": "来源：@第一财经日报微博【#多笔银行大额股权公开拍卖#】#多笔起拍价超4亿元的银行股权流拍# 司法拍卖平台信息显示，广东华兴银行3.12亿股股份、吉林银行1.7亿股股份...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "13:12",
-      "keywords": []
-    },
-    {
-      "title": "章建平减持超2100万股，退出A股一公司前十大股东",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-11-19/doc-inizhrsa4478628.shtml",
-      "content": "11月19日晚，据21财经雷达，A股东材科技（601208.SH）披露回购股份事项前十大股东和前十大无限售条件股东持股情况，截至11月16日，前十大股东中，高金技术产业集团持股1...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "13:00",
-      "keywords": []
-    },
-    {
-      "title": "资深首席财务官比尔・泽雷拉助力Stord加速扩张",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhrsa4466319.shtml",
-      "content": "泽雷拉曾带领三家初创企业完成 IPO，如今他计划依托内生增长与收购，推动这家供应链企业做大做强 【内容速览】 物流初创公司 Stord 今年早些时候完成 2...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "13:00",
-      "keywords": []
-    },
-    {
-      "title": "华为Pura X View阔直板手机获新版本升级，桌面AI快捷栏如约而至",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/t/2026-11-19/doc-inizhrry7693881.shtml",
-      "content": "（来源：IT之家）IT之家 11 月 19 日消息，华为 Pura X View 阔直板手机今日开启了鸿蒙 HarmonyOS 7.0.0.115 SP10 版本升级，系统包大小约 6.63GB...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "12:58",
-      "keywords": []
-    },
-    {
-      "title": "中国工商银行董事长廖林张伟武出席2026年APEC工商领导人峰会开幕式及系列活动",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-11-19/doc-inizhrrx6145981.shtml",
-      "content": "原标题：廖林张伟武出席2026年APEC工商领导人峰会开幕式及系列活动 来源：中国工商银行 11月18日上午，国家主席习近平在深圳前海国际会议中心出席2026年亚太经合组织工商领...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "12:51",
-      "keywords": []
-    },
-    {
-      "title": "章建平，退出601208前10大股东",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/wm/2026-11-19/doc-inizhrsf0914080.shtml",
-      "content": "章建平已退出东材科技股东前十名单。东材科技（601208）11月19日晚披露的前十大股东名单显示，截至11月16日，章建平已不在公司前十大股东之列，持股低于871...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "12:50",
-      "keywords": []
-    },
-    {
-      "title": "超过10万名英国散户投资者争相认购Anthropic IPO股票",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhrsf0906196.shtml",
-      "content": "约11万名英国散户投资者参与了人工智能巨头Anthropic规模创纪录的810亿美元首次公开募股（IPO），合计获配价值3亿美元的股票。在美国市场周四开盘后...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "12:40",
-      "keywords": []
-    },
-    {
-      "title": "章建平，减持601208！退出前十大股东行列",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-19/doc-inizhrsf0904350.shtml",
-      "content": "章建平已退出东材科技股东前十名单。 东材科技（601208）11月19日晚披露的前十大股东名单显示，截至11月16日，章建平已不在公司前十大股东之列，持股低于871...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "12:34",
-      "keywords": []
-    },
-    {
-      "title": "Anthropic预计将于北京时间今晚23:00开始交易",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhrsa4444826.shtml",
-      "content": "11月19日，纳斯达克发布IPO通知，Anthropic（股票代码：ANT）将于北京时间今晚22：50开始报价，预计于23：00正式开放交易。目前，纳斯达克已开始接受交易订单。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "12:28",
-      "keywords": []
-    },
-    {
-      "title": "锦泰保险：调整董事会专门委员会成员",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/insurance/2026-11-19/doc-inizhrry7668275.shtml",
-      "content": "11月19日金融一线消息，锦泰财产保险股份有限公司发布关于调整董事会专门委员会成员的公告，公司第四届董事会第二十二次会议审议通过《关于优化调整第四届董事会各专门委员...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "12:28",
-      "keywords": []
-    },
-    {
-      "title": "媒体：不少投资者将Anthropic看作“必须配置”的标的",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhrsa4444371.shtml",
-      "content": " 据媒体报道，不少投资者都对Anthropic IPO高得离谱的估值、巨额资本开支以及模型同质化风险心存顾虑。但他们反复提到：这只股票是“必须配置的标的”，一定要买。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "12:27",
-      "keywords": []
-    },
-    {
-      "title": "沃尔玛季度营收及每股收益双双超出市场预期",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhrsa4444200.shtml",
-      "content": " 11月19日，沃尔玛公布最新季度财报，营收达到1888亿美元，高于市场预期的1872.7亿美元；每股收益为0.65美元，高于市场预期的0.64美元。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "12:27",
-      "keywords": []
-    },
-    {
-      "title": "分析师：美光估值已低至“令人难以置信”的水平，Anthropic上市有望重振AI投资热情",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-19/doc-inizhrsa4443461.shtml",
-      "content": "11月19日，Lynx Equity分析师KC Rajkumar表示，市场对人工智能基础设施投资放缓的担忧已过度反映在半导体股票估值中。数据中心建设审批速度放缓并不意味着芯片需求减弱...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "12:26",
-      "keywords": []
-    },
-    {
-      "title": "商业银行20天推迟发债900亿，堪比过去20年总和",
-      "source": "界面",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-19/doc-inizhrrx6120327.shtml",
-      "content": "界面新闻记者 | 杨志锦 前脚刚挂出债券发行公告，后脚就宣布发行计划推迟。 界面新闻记者根据同花顺ifind整理，自10月30日以来的近20日内...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "12:25",
-      "keywords": []
-    },
-    {
-      "title": "苏州银行公布2026年半年度权益分派方案：每10股派2.30元（含税）",
-      "source": "金融一线",
-      "url": "https://finance.sina.com.cn/jryx/bank/2026-11-19/doc-inizhrry7665900.shtml",
-      "content": "11月19日金融一线消息，苏州银行发布2026年半年度权益分派实施公告称，该行2026年半年度权益分派方案为：以该行总股本4，470，662，011股为基数，向全体股东每10股派2...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-11-19",
-      "time": "12:24",
+      "time": "15:15",
       "keywords": []
     },
     {
