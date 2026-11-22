@@ -1,184 +1,253 @@
 {
-  "updated": "2026-11-22T10:17:10.290368",
-  "total": 148,
+  "updated": "2026-11-22T18:00:34.732402",
+  "total": 149,
   "sources": [
     "新浪财经",
     "akshare-财新",
     "Tushare"
   ],
   "priority_dist": {
-    "high": 25,
-    "medium": 32,
-    "low": 91
+    "high": 30,
+    "medium": 26,
+    "low": 93
   },
   "items": [
     {
-      "title": "300500，将被ST",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-11-22/doc-inizrhuw5899036.shtml",
-      "content": "来源：中国基金报 【导读】启迪设计将被实施其他风险警示，股票于11月23日停牌一天 中国基金报记者 李智 处罚落地！启迪设计将被实施其他风险警示...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-22",
-      "time": "10:08",
-      "keywords": []
-    },
-    {
-      "title": "视频|莫迪称自己呼吁大家少买黄金，印度人民就真的少买了，黄金价格也跌了",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizrape8944497.shtml",
-      "content": "金价暴跌 莫迪开心道：印度民众听了我的话 一年内少买黄金 钱保住了！ 金价下跌主要靠印度民众 来源：直新闻 当地时间11月21日，莫迪出席活动时说：“我很高兴...",
-      "priority": "high",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "morning",
-      "date": "2026-11-22",
-      "time": "09:57",
-      "keywords": []
-    },
-    {
-      "title": "明天停牌！300500，将被实施其他风险警示",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/s/2026-11-22/doc-inizrape8946833.shtml",
-      "content": "公司股票将于11月23日停牌一天。 启迪设计（300500）11月22日公告称，公司收到证监会江苏监管局《行政处罚事先告知书》，因原子公司虚增利润等事项...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-22",
-      "time": "09:55",
-      "keywords": []
-    },
-    {
-      "title": "大资金“爆买”，一天买了920亿元！",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/money/fund/etf/2026-11-22/doc-inizrany6017846.shtml",
-      "content": "大资金进场，单日买了920亿元。 11月20日，大量资金涌入ETF，当天股票型ETF净流入超过920亿元，仅次于2024年10月8日、2025年4月8日的单日净流入额。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-22",
-      "time": "09:48",
-      "keywords": []
-    },
-    {
-      "title": "退市警报拉响！002146，股价再度跌破1元",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/stock/s/2026-11-22/doc-inizrape8940615.shtml",
-      "content": "11月20日，荣盛发展（002146）股票收盘价为0.96元/股，再度触发面值退市风险。11月22日晚间，荣盛发展披露风险提示公告，称董事会及经营管理层高度重视并密切关注公司当前...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-22",
-      "time": "09:45",
-      "keywords": []
-    },
-    {
-      "title": "回购聚力 授信赋能|胜宏科技多重举措传递发展信心，夯实AI算力成长底色",
-      "source": "长三角资本局",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizrapa2764659.shtml",
-      "content": "近期，胜宏科技（300476.SZ/02476.HK）密集推出股份回购、大额综合授信、海外产能增资等一系列重磅举措。真金白银的回购计划、金融机构大额授信加持...",
-      "priority": "high",
-      "sectors": [
-        "金融",
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-11-22",
-      "time": "08:59",
-      "keywords": []
-    },
-    {
-      "title": "周末影响市场重要资讯回顾：多家品牌宣布下调金饰克价，台湾金管会宣布稳定股市措施，A股回购潮来了",
-      "source": "新浪证券",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizrany5979886.shtml",
-      "content": "本周末影响市场的重要资讯有：证券监管部门联合公安机关依法处罚编造传播资本市场虚假信息行为，台湾金管会宣布稳定股市措施，多家品牌宣布下调金饰克价...",
+      "title": "美国财长贝森特警告美联储过度紧缩风险 指出金融体系出现脆弱迹象",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-23/doc-inizrtkw8726223.shtml",
+      "content": " 美国财政部长贝森特警告称，美联储若针对最新通胀数据而过度收紧政策，则可能危及美国经济，并指出金融体系出现脆弱迹象。",
       "priority": "high",
       "sectors": [
         "金融"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-22",
-      "time": "08:43",
+      "time": "16:40",
       "keywords": []
     },
     {
-      "title": "下周影响市场重要资讯前瞻：首批18只主动ETF将上市，成品油迎调价窗口，3只新股即将发行",
-      "source": "新浪证券",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizqwfa6069538.shtml",
-      "content": "【重磅新闻】 首批18只主动ETF将上市 11月23日，首批18只主动ETF将在沪深交易所挂牌上市。整体来看，上述产品“红利打底+算力增强”的配置特征明显。",
+      "title": "“所有金条都卖光了”，金价持续暴跌，北京“大妈”抄底来了，菜百紧急提示：请理性投资",
+      "source": "每日经济新闻",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizrtkw8699325.shtml",
+      "content": " 本周，国际金价遭遇剧烈杀跌，接连失守3800美元/盎司、3700美元/盎司、3600美元/盎司关口，COMEX黄金、伦敦金周跌幅均近9%，双双创下今年3月20日以来最大单周跌幅。",
+      "priority": "high",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "15:25",
+      "keywords": []
+    },
+    {
+      "title": "涉财务造假，300500下周二“戴帽”",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/stock/s/2026-11-22/doc-inizrpau5912384.shtml",
+      "content": "11月22日，启迪设计（300500）一连披露3则公告，公司于11月19日收到江苏证监局下发的《行政处罚事先告知书》，因原子公司虚增利润等事项导致公司2021年...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-22",
-      "time": "07:35",
+      "time": "14:41",
       "keywords": []
     },
     {
-      "title": "华尔街宏观机构万字复盘：美股暴跌是5大利空碰撞的结果，AI泡沫没有破，市场已计价极端悲观预期",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizqwfk1336327.shtml",
-      "content": "来源：投资者内参 美股近期遭遇剧烈调整，短短45天，美股市值蒸发约6万亿美元。AI交易首当其冲，产业龙头英伟达更是重挫近五成。市场开始担忧，AI泡沫是不是彻底破了？",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-11-22",
-      "time": "07:32",
-      "keywords": []
-    },
-    {
-      "title": "罕见！马斯克，突发警告！",
+      "title": "紧急会议！救市资金，随时启用！韩国最新出手",
       "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-22/doc-inizqwfa6071958.shtml",
-      "content": "日前，特斯拉CEO、SpaceX创始人兼CEO马斯克在社交媒体上表示，人工智能行业明年可能面临严重的资金短缺。 据中新经纬，11月22日，知名深度学习领域开源项目Keras创始人弗朗...",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-22/doc-inizrpaw2678942.shtml",
+      "content": "韩国出手“救市”。 今日（11月22日），韩国财政部对外表示，将实施为期三个月的政策安排：放宽上市公司每日股票回购申报限额，同时对非法卖空行为开展密切监控；股市稳定基...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-22",
-      "time": "07:15",
+      "time": "14:16",
       "keywords": []
     },
     {
-      "title": "美联储加息，突生变数？！",
+      "title": "涉嫌财务造假拟罚1330万元 启迪设计将被ST",
+      "source": "中国经营报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-22/doc-inizrpca1133305.shtml",
+      "content": "启迪设计（300500.SZ）11月22日公告，公司于11月19日收到江苏证监局下发的《行政处罚事先告知书》。因全资子公司涉嫌财务造假，导致启迪设计2021年至2022年年报存在虚假记...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "14:16",
+      "keywords": []
+    },
+    {
+      "title": "今夜，集体拉升了！",
+      "source": "",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-22/doc-inizrpau5899856.shtml",
+      "content": "【导读】集体护盘了中国基金报记者 泰勒大家好啊，马上就要周一开盘了，想必大家心里都有点忐忑不安，毕竟周五的美股科技板块集体暴跌。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "14:11",
+      "keywords": []
+    },
+    {
+      "title": "“所有金条都卖光了”，菜百股份紧急提示",
+      "source": "财联社",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-22/doc-inizrpaw2687938.shtml",
+      "content": "财联社11月22日讯，菜百股份发布贵金属市场波动风险提示：近期受多重因素影响，贵金属价格波动显著加剧，不确定性持续上升。请顾客树立理性稳健的配置理念...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "14:02",
+      "keywords": []
+    },
+    {
+      "title": "下周资本市场大事提醒：国内首批18只主动ETF周一集体上市 美国PCE物价指数与假日消费成焦点",
+      "source": "科创板日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-22/doc-inizrpau5891306.shtml",
+      "content": "1、11月27日，国家统计局将公布中国10月规模以上工业企业利润同比数据。此前1—9月规上工业利润累计同比增15.5%。  2、中国央行：2026年11月24日将招标发行2026年第十期和第...",
+      "priority": "high",
+      "sectors": [
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "13:47",
+      "keywords": []
+    },
+    {
+      "title": "未及时补选独立董事 金科股份收到行政监管措施决定书",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-22/doc-inizrpca1117310.shtml",
+      "content": "近日，金科股份（000656.SZ）公告披露，公司收到中国证券监督管理委员会重庆监管局（简称“重庆证监局”）出具的《关于对金科地产集团股份有限公司采取责令改正措施的决定》...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "13:43",
+      "keywords": []
+    },
+    {
+      "title": "A股稳市力量集结！三大“新政”影响几何？最新解读来了",
       "source": "证券时报",
-      "url": "https://finance.sina.com.cn/wm/2026-11-22/doc-inizqwfe2836002.shtml",
-      "content": "美股下跌或成为影响美联储加息决议的重要变量。 美银首席投资策略师Michael Hartnett在最新一期《Flow Show》周报中指出，阻止美联储继续加息的最快方式...",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizrpaw2641632.shtml",
+      "content": "这个周日，A股迎来三大稳市“新政”。 今日（11月22日），监管层推出一揽子稳市举措，包含调整融资保证金比例、推进创业板做市商制度、实施一揽子降费三项内容，旨在稳市场...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-22",
-      "time": "07:11",
+      "time": "13:08",
       "keywords": []
     },
     {
-      "title": "法国拒绝欧盟最新长期预算方案，称农业补贴力度不足",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-22/doc-inizqwfe2815256.shtml",
-      "content": "11月21日，法国总统府宣布拒绝欧洲理事会主席科斯塔提出的欧盟2028年至2034年长期预算方案，称该方案无法满足欧盟共同农业政策的资金需求...",
+      "title": "台湾地区拟下调融资保证金比例至120%以稳定股市",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-11-22/doc-inizrpaw2638375.shtml",
+      "content": "11月22日消息，中国台湾地区正考虑下调融资维持保证金比例，以遏制股市抛售潮。中国台湾证券交易所表示，周日与10家券商召开紧急会议，讨论这一潜在举措。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-22",
-      "time": "06:41",
+      "time": "13:04",
+      "keywords": []
+    },
+    {
+      "title": "两融松绑、全链条降费，市场新获近4000亿增量资金，A股将如何演绎？",
+      "source": "界面",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-22/doc-inizrpca1090707.shtml",
+      "content": "界面新闻记者 | 陈靖 11月22日，沪深北三大证券交易所联合中国结算集中发布多项支持政策，核心涵盖融资保证金比例下调、一揽子交易与服务费用减免两大维度...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "12:44",
+      "keywords": []
+    },
+    {
+      "title": "重磅时刻！A股，迎三大“新政”！影响几何？最新解读来了",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizrpaw2633184.shtml",
+      "content": "这个周末，A股迎来三大稳市“新政”。 今日（11月22日），监管层推出一揽子稳市举措，包含调整融资保证金比例、推进创业板做市商制度、实施一揽子降费三项内容，旨在稳市场...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "12:43",
+      "keywords": []
+    },
+    {
+      "title": "曾走出“9天8板”的牛股利仁科技收警示函 股价较年内高点回撤逾六成",
+      "source": "每日经济新闻",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-22/doc-inizrpaw2630009.shtml",
+      "content": "11月22日，利仁科技（SZ001259，股价31.23元，市值22.98亿元）公告称，公司于近日收到中国证监会北京监管局下发的《关于对北京利仁科技股份有限公司、宋老亮...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "12:34",
+      "keywords": []
+    },
+    {
+      "title": "三大交易所同时宣布！时隔十个月融资保证金重回80%，积极信号明确",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/wbstock/2026-11-22/doc-inizrpau5851301.shtml",
+      "content": "来源：@财联社APP微博财联社11月22日讯（记者 王晨）杠杆资金退到年内低位之际，监管层再度按下逆周期调节的按钮。今日晚间，沪深北三大交易所同步发布通知...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "12:33",
+      "keywords": []
+    },
+    {
+      "title": "三连跌停后，002187，最新回应！",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-22/doc-inizrhva8874824.shtml",
+      "content": "近期，广百股份（002187）经历了一轮暴涨暴跌。 11月22日，广百股份再次披露异动公告，公司提示，其股票于2026年11月18日、11月19日...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "12:09",
+      "keywords": []
+    },
+    {
+      "title": "千亿龙头，又“追光”！",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/stock/s/2026-11-22/doc-inizrhuw5958649.shtml",
+      "content": "证券日报之声 本报记者 陈红 11月22日晚间，苏州天孚光通信股份有限公司（以下简称“天孚通信”）发布公告称，公司与南昌经济技术开发区管理委员会于近期签署了《产业项目投...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "12:00",
       "keywords": []
     },
     {
@@ -390,270 +459,186 @@
       ]
     },
     {
-      "title": "韩国“救市”！准备启动股市稳定基金，或为2008年来首次，放宽公司回购限额3个月",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizraph1275006.shtml",
-      "content": "来源：华尔街见闻 韩国政府宣布启动股市维稳基金（증안펀드）的激活准备程序，并同步推出放宽上市公司股份回购限额、加强非法卖空监控等一系列市场稳定措施。",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-11-22",
-      "time": "10:01",
-      "keywords": []
-    },
-    {
-      "title": "最高15亿元，603799拟再度回购！多家A股公司也公告",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/stock/s/2026-11-22/doc-inizrapa2800381.shtml",
-      "content": "刚完成6亿元股份回购，钴业龙头拟再度出手回购。 11月22日，A股钴业龙头华友钴业（603799）披露股份回购方案。公司拟以不低于10亿元，且不超过15亿元资金，回购公司股份...",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "morning",
-      "date": "2026-11-22",
-      "time": "09:57",
-      "keywords": []
-    },
-    {
-      "title": "短久期资产受追捧！公募选股“看短不看长”，背后有何原因？",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-22/doc-inizrape8942606.shtml",
-      "content": "当越来越多的主动偏股型基金经理开始引入债券投资的“久期”策略时，美股定价系统会发生什么？ 北京时间11月21日凌晨，美股上演大跌行情，长久期的成长资产遭遇集中抛售...",
+      "title": "华尔街策略师再度下调标普500目标位，认为熊市不太可能出现",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/7x24/2026-11-22/doc-inizrtky1026263.shtml",
+      "content": "在美股大幅下跌、标普500进入技术性回调之后，华尔街策略师艾德·亚德尼在约两个月内第二次下调标普500指数年末目标。 亚德尼研究公司总裁兼首席投资策略师亚德尼目前预测...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-22",
-      "time": "09:47",
+      "time": "15:25",
       "keywords": []
     },
     {
-      "title": "利好！603799，宣布大手笔回购，最高15亿元！",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-22/doc-inizrapa2788239.shtml",
-      "content": "刚完成6亿元股份回购，钴业龙头拟再度出手回购。 11月22日，A股钴业龙头华友钴业（603799）披露股份回购方案。公司拟以不低于10亿元，且不超过15亿元资金，回购公司股份...",
+      "title": "“杨东”，打开限购！",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/china/2026-11-22/doc-inizrpau5911335.shtml",
+      "content": "22日晚间，宁泉资产发布公告称，自2026年11月23日起，恢复接受公司旗下所有基金的新投资者首次申购申请。据公开资料，宁泉资产创始人为知名基金经理杨东...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "14:41",
+      "keywords": []
+    },
+    {
+      "title": "3000亿注资特别国债发行完成 护航金融体系稳健运行",
+      "source": "中国经营报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-22/doc-inizrpay8806189.shtml",
+      "content": "11月18日，财政部完成1500亿元中央金融机构注资特别国债（二期）招标。叠加10月落地的一期1500亿元，2026年度3000亿元中央金融企业注资特别国债已全部完成发行。",
       "priority": "medium",
       "sectors": [
         "金融"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-22",
-      "time": "09:37",
+      "time": "14:16",
       "keywords": []
     },
     {
-      "title": "视频 | 马斯克最新警告：AI行业明年或面临严重资金短缺 营运资金或需额外数干亿美元",
+      "title": "603799，拟最高15亿元回购",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/s/2026-11-22/doc-inizrpca1130475.shtml",
+      "content": "来源：中国基金报 【导读】华友钴业拟回购10至15亿元股份 中国基金报记者 夏天 11月22日晚间，华友钴业（证券代码：603799）发布公告称...",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "14:11",
+      "keywords": []
+    },
+    {
+      "title": "超四成中低风险产品净值回撤 理财公司密集发声",
+      "source": "每日经济新闻",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-22/doc-inizrpau5898506.shtml",
+      "content": "11月19日，中邮理财、浦银理财官微均发布《致投资者的一封信》，解释近期理财净值回撤，并呼吁理性看待短期波动。 此举背后，是原本被视作稳健选择的银行理财...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "14:09",
+      "keywords": []
+    },
+    {
+      "title": "今晚，多家A股公司宣布回购！钴业龙头拟回购最高15亿元",
       "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizrapa2779342.shtml",
-      "content": "",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-22/doc-inizrpaw2674957.shtml",
+      "content": "据21财经雷达，11月22日，多家A股公司披露最新回购计划。 其中，钴业龙头华友钴业（603799.SH）披露股份回购方案。公司拟以不低于10亿元且不超过15亿元的资金回购公司股份...",
       "priority": "medium",
       "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-11-22",
-      "time": "09:30",
-      "keywords": []
-    },
-    {
-      "title": "广发策略：当前红利资产估值还有多少空间?",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizrape8929053.shtml",
-      "content": "相关阅读十大机构看后市：A股性价比处历史极高值位置，有望在近期反弹，春季行情概率正在提升 来源：晨明的策略深度思考 本文作者：刘晨明/李如娟 报告摘要 下半年以来...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-22",
-      "time": "09:20",
-      "keywords": []
-    },
-    {
-      "title": "中信证券：A股的估值洼地体现在哪？极端的估值结构最终会得以修正，变局可能在明年",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/wm/2026-11-22/doc-inizrany5997293.shtml",
-      "content": "相关阅读 十大机构看后市：A股性价比处历史极高值位置，有望在近期反弹，春季行情概率正在提升 策略聚焦|A股的估值洼地体现在哪？",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-22",
-      "time": "09:03",
-      "keywords": []
-    },
-    {
-      "title": "天孚通信：订单充足，加速全球产能扩产",
-      "source": "长三角资本局",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizrape8918553.shtml",
-      "content": "天孚通信表示，公司所处的光互连行业整体需求较为旺盛，公司目前经营情况向好，在手订单充足，公司正积极推进扩产及相关产能准备工作...",
-      "priority": "medium",
-      "sectors": [
-        "光模块"
-      ],
-      "period": "morning",
-      "date": "2026-11-22",
-      "time": "08:58",
-      "keywords": []
-    },
-    {
-      "title": "中际旭创纳入恒生科技指数，再提20—40亿元回购彰显长期信心",
-      "source": "长三角资本局",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizrapa2764025.shtml",
-      "content": "11月20日，恒生指数公司公布截至2026年9月30日的恒生指数系列季度检讨结果，中际旭创（300308.SZ）获纳入恒生科技指数与恒生综合指数。",
-      "priority": "medium",
-      "sectors": [
-        "光模块",
+        "有色",
         "金融"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-22",
-      "time": "08:57",
+      "time": "14:09",
       "keywords": []
     },
     {
-      "title": "新易盛：主营业务发展态势良好，看好高速光互联行业长期前景",
-      "source": "长三角资本局",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizraph1246953.shtml",
-      "content": "新易盛表示，当前客户对光模块的需求指引明确，在手订单充足。随着AI算力基础设施建设持续推进，全球高速光互联需求不断增长，市场对公司800G和1.6T产品的需求持续放量。",
+      "title": "下周，光模块细分领域全球龙头来了！",
+      "source": "中国证券网",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizrpau5888478.shtml",
+      "content": " 11月以来，新股市场诞生2只“肉签”。其中，钶锐锶首日上涨184.77%，单签收益约4.2万元；皇冠新材首日上涨397.94%，单签收益约3.4万元。",
       "priority": "medium",
       "sectors": [
         "光模块"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-22",
-      "time": "08:57",
+      "time": "13:51",
       "keywords": []
     },
     {
-      "title": "解除留置仅一个多月！三安光电总经理林科闯因身体原因辞任，公司2026年前三季度亏损1.2亿元",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-11-22/doc-inizrape8916052.shtml",
-      "content": "每经记者|黄胜每经编辑|张益铭 国内化合物半导体龙头企业三安光电迎来重大人事变动。三安光电（600703.SH，股价8.31元，市值414.59亿元）11月22日公告称...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-22",
-      "time": "08:51",
-      "keywords": []
-    },
-    {
-      "title": "600759、300872，被立案",
+      "title": "集体大动作！易方达、华夏、富国、嘉实等巨头，全出手了",
       "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-22/doc-inizraph1241844.shtml",
-      "content": "来源：中国基金报 【导读】涉嫌信息披露违法违规，ST洲际、天阳科技被证监会立案 中国基金报记者 晨曦 又有上市公司被立案！ 11月22日，ST洲际发布公告称...",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizrpay8769702.shtml",
+      "content": "来源：中国基金报 【导读】自建内容化流量阵地，基金公司扎堆布局KOS矩阵 中国基金报记者 方丽 陆慧婧 近期，小红书等社交平台涌现出一批标注为基金公司从业人员的账号...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-22",
-      "time": "08:41",
+      "time": "13:02",
       "keywords": []
     },
     {
-      "title": "AI中场换道再出发——“囤积算力”转为中美协同研发效率和“场景应用”为王",
-      "source": "新浪证券",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizrape8894122.shtml",
-      "content": "作者：姜昧军 大江洪流私募基金 董事长 近一个月，全球资本市场迎来一轮惨烈震荡。 美股科技巨头股价大幅回撤，纳斯达克指数反复拉锯；A股...",
+      "title": "还得是易方达：资管巨头成立一家专门搞AI和技术的子公司",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizrpay8788449.shtml",
+      "content": "来源：小基慢跑 同样是基金公司，有人想的是星辰大海，有人想的是牌照能不能卖出去，下个月能不能扭亏为盈。 11月16日，广州天河区...",
       "priority": "medium",
       "sectors": [
         "AI"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-22",
-      "time": "08:13",
+      "time": "12:59",
       "keywords": []
     },
     {
-      "title": "“东鹏饮料博爱学校”太广告？捐资助教不该被过度挑刺",
-      "source": "界面",
-      "url": "https://finance.sina.com.cn/wm/2026-11-22/doc-inizrany5961603.shtml",
-      "content": "界面新闻记者 | 翟瑞民界面新闻编辑 | 王强 近日，中国红十字基金会援助广西贵港市高级中学灾后重建项目交付仪式在该校举行。该项目为东鹏饮料捐赠1000万元定向援建...",
+      "title": "A股年底还有行情吗？投资主线有哪些？十大券商策略来了",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/wbstock/2026-11-22/doc-inizrpay8768601.shtml",
+      "content": "来源：@财联社APP微博财联社11月22日讯（编辑 若宇）十大券商最新策略观点新鲜出炉，具体如下：中信证券：A股的估值洼地体现在哪？",
       "priority": "medium",
       "sectors": [
-        "综合"
+        "金融"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-22",
-      "time": "08:09",
+      "time": "12:55",
       "keywords": []
     },
     {
-      "title": "十大机构看后市：A股性价比处历史极高值位置，有望在近期反弹，春季行情概率正在提升",
-      "source": "新浪证券",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizrany5958074.shtml",
-      "content": "本周三大指数调整，上证指数跌2.77%，深证成指跌6.49%，创业板指跌8.82%。后市将如何发展？看看机构怎么说。 中信证券：A股的估值洼地体现在哪？",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-22",
-      "time": "08:08",
-      "keywords": []
-    },
-    {
-      "title": "美的、格力等深市消费领域龙头发展稳中向好、积极回报股东",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/roll/2026-11-22/doc-inizrapa2732321.shtml",
-      "content": "每经编辑|肖芮冬 11月20日，美的集团披露回购股份进展情况公告。截至2026年11月20日，公司累计回购公司A股股份数量为148497601股，占公司目前总股本的1.95%。",
+      "title": "绝味食品，新帅直面业绩压力",
+      "source": "北京商报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-22/doc-inizrpaw2624036.shtml",
+      "content": "靠综艺《后会友期》翻红的绝味食品突然宣布换帅。近日，绝味食品发布公告称，因工作调整，公司创始人戴文军申请辞去总裁职务，辞任后仍担任公司董事长...",
       "priority": "medium",
       "sectors": [
         "消费"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-22",
-      "time": "08:03",
+      "time": "12:27",
       "keywords": []
     },
     {
-      "title": "韩国金融监督院将对加密货币交易所开展突击检查",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-22/doc-inizqwfa6060144.shtml",
-      "content": "韩国金融监督院（FSS）计划对本土虚拟资产服务提供商实施不事先通知的现场检查，核查各家机构系统外部接入节点的管理情况。此前韩国加密行业接连发生安全事件...",
+      "title": "600147，被142家机构集体“盯上”",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizrhva8875894.shtml",
+      "content": "记者|林健民 编辑|李燕娜 据21财经雷达，截至11月22日15：10，21财经记者据Wind数据统计，本周共有450家A股上市公司获机构调研。",
       "priority": "medium",
       "sectors": [
-        "金融"
+        "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-22",
-      "time": "07:19",
+      "time": "12:08",
       "keywords": []
     },
     {
-      "title": "立华股份前三季度“增收不增利”",
+      "title": "招商策略：本轮市场多项指标趋近市场底部  红利交易拥挤度明显上升",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-11-22/doc-inizraph1225479.shtml",
-      "content": "来源：证券之星 近日，黄羽肉鸡养殖龙头立华股份（300761.SZ）再交出一份“增收不增利”的成绩单。今年前三季度，公司养猪业务“量升价跌”，拖累了整体收入增长动能。",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizrpca1081611.shtml",
+      "content": "相关阅读十大机构看后市：A股性价比处历史极高值位置，有望在近期反弹，春季行情概率正在提升 【招商策略】当前市场所处的位置，历史复盘对比以及情景推演——A股投资策略周...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-22",
-      "time": "07:00",
-      "keywords": []
-    },
-    {
-      "title": "瑞银：美国全国性停飞将拖累航司四季度业绩，捷蓝航空受冲击最大",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-22/doc-inizqwfh8979415.shtml",
-      "content": "瑞银分析师在报告中指出，受美国全国性停飞事件及随后持续三天的航班取消影响，美国航空公司第四季度运力、营收、现金流及盈利均将面临压力...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-22",
-      "time": "06:43",
+      "time": "12:06",
       "keywords": []
     },
     {
@@ -865,256 +850,283 @@
       ]
     },
     {
-      "title": "视频|联想集团董事长杨元庆谈联想股价 短期波动不改AI长期趋势 将靠持续兑现赢得市场信任",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizrany6018807.shtml",
-      "content": "",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-11-22",
-      "time": "09:54",
-      "keywords": []
-    },
-    {
-      "title": "近一周融资调仓路线图出炉 9股融资净买入额逾亿元",
-      "source": "证券时报",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-22/doc-inizrapa2789066.shtml",
-      "content": " 人民财讯11月22日电，近一周（11月13日至19日），A股融资余额持续走低，最新值降至21927.43亿元，为近一年新低。融资资金呈现净偿还态势，金额合计859.16亿元。",
+      "title": "三家A股公告：公司或控股股东被证监会立案",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizrtky1029690.shtml",
+      "content": "11月22日，三家A股公司发布公告称，公司或公司控股股东被中国证监会立案。 分别来看，金科股份公告称，公司控股股东及其合伙人因涉嫌信息披露违法违规被中国证监会立案调查...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-22",
-      "time": "09:40",
+      "time": "15:34",
       "keywords": []
     },
     {
-      "title": "资本市场：少一些文字期许，多一份实干托底",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizrany6013363.shtml",
-      "content": "来源：香橙财经 中华文明源远流长，汉字博大精深，立意高远、意蕴厚重。长期以来，我国资本市场顶层设计站位高远、愿景清晰：四千点是牛市起点、坚决防止股市大起大落...",
+      "title": "全球金融市场经历一轮暴力调整",
+      "source": "第一财经",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizrtks5795822.shtml",
+      "content": "2026.11．22 作者 |第一财经齐琦 从硅谷到伦敦，首尔到东京，全球金融市场经历一轮暴力调整。 上周Anthropic在纳斯达克完成史上最大规模IPO（首次公开募股）...",
       "priority": "low",
       "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-22",
-      "time": "09:21",
-      "keywords": []
-    },
-    {
-      "title": "昔日牛股，被立案",
-      "source": "",
-      "url": "https://finance.sina.com.cn/stock/s/2026-11-22/doc-inizrape8920090.shtml",
-      "content": "ST洲际被证监会立案。 11月22日，ST洲际（600759）公告，公司于11月20日收到证监会下发的《立案告知书》，因涉嫌信息披露违法违规行为...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-22",
-      "time": "09:00",
-      "keywords": []
-    },
-    {
-      "title": "陈东升卸任湖北省楚商联合会会长，转任名誉会长，软通动力刘天文接棒",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizrany5984360.shtml",
-      "content": "11月22日消息，湖北省楚商联合会第四届第一次会员代表大会今日上午在武汉召开，完成换届选举。泰康保险集团创始人、董事长陈东升卸任会长一职...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-22",
-      "time": "08:52",
-      "keywords": []
-    },
-    {
-      "title": "联想靠AI赚了大钱，股价为何被“腰斩”",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizrapa2763602.shtml",
-      "content": "来源：深蓝财经 撰文：符小茵 联想觊觎已久的AI生意，赚钱赶上了好时候，股价却撞上了坏时候。 11月19日中午，联想集团（0992.HK）交出了一份创纪录的财报：单季营收首次突...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-11-22",
-      "time": "08:47",
-      "keywords": []
-    },
-    {
-      "title": "华友钴业：拟10亿元—15亿元回购股份",
-      "source": "新浪证券",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-22/doc-inizraph1237746.shtml",
-      "content": "11月22日，华友钴业公告，公司拟以自有资金或自筹资金回购股份，金额不低于人民币10亿元（含）且不超过人民币15亿元（含），回购股份价格不超过45元/股（含）...",
-      "priority": "low",
-      "sectors": [
-        "有色",
         "金融"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-22",
-      "time": "08:38",
+      "time": "15:17",
       "keywords": []
     },
     {
-      "title": "300872，被证监会立案！",
+      "title": "章建平家族大幅加仓！300903，最新披露→",
+      "source": "证券时报",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizrtky1020244.shtml",
+      "content": "科翔股份（300903）近日披露的回购事项股东名册，给出了章建平家族最新的持仓数据：截至11月13日，章建平的妻子方文艳持有公司2160.28万股股份，占公司总股本的4.96%...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "14:57",
+      "keywords": []
+    },
+    {
+      "title": "章建平家族，大举加仓PCB概念股",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizrtku2560227.shtml",
+      "content": "两个月内股价腰斩，章建平家族大手笔加仓。 科翔股份（300903）最新公告显示，四季度以来，章建平妻子方文艳大手笔加仓，截至11月13日，跃升为该公司第一大流通股东。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "14:46",
+      "keywords": []
+    },
+    {
+      "title": "12家上市公司暴露环境风险 节能环境一控股公司被罚49.2万元",
+      "source": "每日经济新闻",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-22/doc-inizrpaw2676474.shtml",
+      "content": "超标排放大气污染物，节能环境（SZ300140）一控股公司被罚49.2万元；两个项目先后未批先建，凯赛生物（SH688065）全资子公司收到48.8万元罚单…… 2026年11月1日至15日...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "14:13",
+      "keywords": []
+    },
+    {
+      "title": "李大霄：救市组合拳有助于加速市场稳定 市场或会起稳定反应",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/jjsy/2026-11-22/doc-inizrpaw2667427.shtml",
+      "content": "截止到2026年11月26日19：26分，利好消息为： 1）降低融资门槛。沪深北交易所把融资买入证券的最低保证金比例从100% 降到了80%。与2026年1月14日中午从80%提升100%相对应。...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "14:00",
+      "keywords": []
+    },
+    {
+      "title": "国际金价跌破3600美元，价格连跌带动金饰需求",
+      "source": "一财网",
+      "url": "https://finance.sina.com.cn/wm/2026-11-22/doc-inizrpay8790277.shtml",
+      "content": "2026.11．22 作者 |第一财经黄晶晶 袁玉立 本周，伦敦现货黄金走出连续调整行情，连跌5个交易日，累计跌幅超9%，价格跌破3600美元/盎司关口，创下年内新低。",
+      "priority": "low",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "13:45",
+      "keywords": []
+    },
+    {
+      "title": "持仓13.35亿元！章建平家族大举加仓300903",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/stock/s/2026-11-22/doc-inizrpay8782439.shtml",
+      "content": "两个月内股价腰斩，章建平家族大手笔加仓。 科翔股份（300903）最新公告显示，四季度以来，章建平妻子方文艳大手笔加仓，截至11月13日，跃升为该公司第一大流通股东。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "13:34",
+      "keywords": []
+    },
+    {
+      "title": "债市 | 看股做债时刻",
+      "source": "郁言债市",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-22/doc-inizrpay8774070.shtml",
+      "content": "►情绪反转，债市超跌修复11月16-20日，债市经历“黄金坑”后的修复行情。10年国债收益率下行3bp至1.58%，30年、50年国债收益率分别下行2bp、5bp至2.04%、2.14%。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "13:13",
+      "keywords": []
+    },
+    {
+      "title": "星思半导体IPO获备案 华为系团队创业 高瓴、经纬等投了",
+      "source": "财联社",
+      "url": "https://finance.sina.com.cn/roll/2026-11-22/doc-inizrpaw2639987.shtml",
+      "content": "《科创板日报》11月22日讯（记者 戴嘉怡） 芯片新秀上海星思半导体股份有限公司（下称：“星思半导体”）IPO取得新进展。近日，据中国证监会国际合作司披露的备案通知书...",
+      "priority": "low",
+      "sectors": [
+        "半导体"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "13:08",
+      "keywords": []
+    },
+    {
+      "title": "商业银行交前三季度成绩单：净息差磨底，不良率创阶段新高",
       "source": "",
-      "url": "https://finance.sina.com.cn/stock/zqgd/2026-11-22/doc-inizrape8906082.shtml",
-      "content": "天阳科技涉嫌信披违法违规被证监会立案。 天阳科技（300872）11月22日晚间公告，公司于11月20日收到中国证监会出具的《立案告知书》。",
+      "url": "https://finance.sina.com.cn/stock/wbstock/2026-11-22/doc-inizrpaw2634308.shtml",
+      "content": "来源：@究竟视频微博 #银行不良贷款率升至1.54%# 【#商业银行交前三季度成绩单#：净息差磨底，不良率创阶段新高】2026年前三季度商业银行成绩单出炉。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "12:50",
+      "keywords": []
+    },
+    {
+      "title": "杨德龙：三项稳市举措同日落地 融资端、成本端、制度端同步发力",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/jjsy/2026-11-22/doc-inizrhuw5969130.shtml",
+      "content": " 11月22日，资本市场集中发布三项稳市举措，涉及融资保证金比例、交易所降费和创业板做市商制度。三项措施从融资端、成本端和制度端同时发力，有助于改善市场预期。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-22",
-      "time": "08:33",
+      "time": "12:25",
       "keywords": []
     },
     {
-      "title": "天孚通信：拟在南昌投建高速光器件研发生产项目",
-      "source": "新浪证券",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizrany5964940.shtml",
-      "content": "11月22日，天孚通信公告称，公司与南昌经济技术开发区管理委员会签署《产业项目投资发展合作协议》，拟在当地投资建设新一代高速光器件研发和生产制造建设项目...",
-      "priority": "low",
-      "sectors": [
-        "光模块"
-      ],
-      "period": "morning",
-      "date": "2026-11-22",
-      "time": "08:19",
-      "keywords": []
-    },
-    {
-      "title": "金科股份：因涉嫌信息披露违法违规，控股股东及合伙人被证监会立案",
-      "source": "新浪证券",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-22/doc-inizqwfe2848156.shtml",
-      "content": "11月22日金科股份公告，公司控股股东京渝星筑、京渝星璨于11月20日收到中国证监会下发的《立案告知书》，因涉嫌信息披露违法违规行为...",
+      "title": "德生科技：银龄体验官上岗 以科技温度守护长者幸福",
+      "source": "证券时报网",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-22/doc-inizrpaw2632890.shtml",
+      "content": "随着人口老龄化进程持续加深，老年群体对美好生活的需求不断升级，已从基础的生活保障逐步延伸至健康守护、数字融入、精神文化等多个维度。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-22",
-      "time": "07:35",
+      "time": "12:12",
       "keywords": []
     },
     {
-      "title": "广生堂“登峰计划”新进展，研发推进难掩五连亏",
+      "title": "A股交易迎新一批降费措施",
+      "source": "",
+      "url": "https://finance.sina.com.cn/stock/wbstock/2026-11-22/doc-inizrhuw5964242.shtml",
+      "content": "来源：@第一财经日报微博 #上交所预计向市场让利13.68亿元# 【#A股交易迎新一批降费措施#】资本市场迎来新一批降费措施。11月22日...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "12:09",
+      "keywords": []
+    },
+    {
+      "title": "浙富控股：关于召开2026年第三次临时股东会的通知",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-22/doc-inizrpaw2630589.shtml",
+      "content": "证券日报网讯11月22日，浙富控股发布公告称，公司将于2026年12月8日召开2026年第三次临时股东会。（文章来源：证券日报）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "12:03",
+      "keywords": []
+    },
+    {
+      "title": "泰晶科技：关于召开2026年第一次临时股东会的通知",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-22/doc-inizrpau5849975.shtml",
+      "content": "证券日报网讯11月22日，泰晶科技发布公告称，公司将于2026年12月9日召开2026年第一次临时股东会。（文章来源：证券日报）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "12:03",
+      "keywords": []
+    },
+    {
+      "title": "清源股份：11月1日至11月20日期间公司累计回购股份490000股",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-22/doc-inizrpca1087317.shtml",
+      "content": "证券日报网讯11月22日，清源股份发布公告称，2026年11月1日至2026年11月20日期间，公司通过集中竞价交易方式累计回购公司股份490,000股，占截至本公告日总股本的0.18%...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "12:03",
+      "keywords": []
+    },
+    {
+      "title": "恩捷股份：截至11月20日公司累计回购股份2457100股",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-22/doc-inizrpau5848983.shtml",
+      "content": "证券日报网讯11月22日，恩捷股份发布公告称，截至本公告披露日，公司通过回购专用证券账户以集中竞价交易方式累计回购股份数量为2,457,100股...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "12:03",
+      "keywords": []
+    },
+    {
+      "title": "国林科技：关于召开2026年第二次临时股东会的通知",
+      "source": "证券日报",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-22/doc-inizrpaw2635244.shtml",
+      "content": "证券日报网讯11月22日，国林科技发布公告称，公司将于2026年12月9日召开2026年第二次临时股东会。（文章来源：证券日报）",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-22",
+      "time": "12:03",
+      "keywords": []
+    },
+    {
+      "title": "十年后重组管理办法再思考：松绑正当时",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-11-22/doc-inizraph1225489.shtml",
-      "content": "来源：证券之星 11月12日晚间，广生堂（300436.SZ）一纸公告，把公司乙肝创新药管线推到聚光灯下：创新药控股子公司福建广生中霖生物科技有限公司（以下简称“广生中霖”）三...",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-22/doc-inizrhve1210097.shtml",
+      "content": "来源：晨壹投资 一直以来，并购重组被寄予促进产业整合、提升上市公司质量的厚望，活跃的买卖交易也代表着企业家和投资者对未来的信心。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "morning",
+      "period": "noon",
       "date": "2026-11-22",
-      "time": "07:00",
-      "keywords": []
-    },
-    {
-      "title": "巴林称民用工业设施遭伊朗袭击并起火",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-22/doc-inizqwfa6049277.shtml",
-      "content": "巴林内政部表示，“伊朗侵略”行动将一处民用工业设施作为袭击目标，并导致现场发生火情。巴林内政部在发帖称，民防部门正在努力控制火势初步报告显示有财产损失...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-22",
-      "time": "06:59",
-      "keywords": []
-    },
-    {
-      "title": "蚂蚁集团CEO韩歆毅：人工智能已走到临床很多环节，相信AI可以成为连接医患延续照顾的可靠纽带",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/tech/2026-11-22/doc-inizqwfa6045814.shtml",
-      "content": "新浪科技讯 11月22日下午消息，2026蚂蚁阿福医疗健康生态大会举行。 在“AI赋能下的未来医院”分论坛上，蚂蚁集团首席执行官韩歆毅提出...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "morning",
-      "date": "2026-11-22",
-      "time": "06:52",
-      "keywords": []
-    },
-    {
-      "title": "南向资金最新调仓，大举买入这只热门股",
-      "source": "e公司",
-      "url": "https://finance.sina.com.cn/roll/2026-11-22/doc-inizqwfa6045120.shtml",
-      "content": "来源：e公司 南向资金最新调仓，大举买入这只热门股 本周南向资金合计净买入164.98亿港元。 南向资金一周净买入超160亿港元 本周（11月16日至11月20日）港股市场主要股指集...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-22",
-      "time": "06:43",
-      "keywords": []
-    },
-    {
-      "title": "欧盟拟向大型科技企业征收3%数字税，成员国就长期预算陷入分歧",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-22/doc-inizqwfe2815796.shtml",
-      "content": "11月21日，欧洲理事会主席科斯塔公布欧盟2028年至2034年长期预算修订方案，拟通过征收数字服务税、电子废弃物税及提高烟草税等方式扩大欧盟财政收入来源...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-22",
-      "time": "06:42",
-      "keywords": []
-    },
-    {
-      "title": "高盛发布2027年油价展望：预计原油市场重返供应过剩，年底布油跌至78美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-22/doc-inizqwfa6037918.shtml",
-      "content": " 高盛在最新报告中预计，2027年布伦特原油均价将达到88美元/桶，随着全球原油市场重新进入供应过剩状态，布伦特原油价格将于2027年12月回落至78美元/桶。",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "morning",
-      "date": "2026-11-22",
-      "time": "06:40",
-      "keywords": []
-    },
-    {
-      "title": "伊朗革命卫队公开新型双联装导弹发射装置",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/world/gjcj/2026-11-22/doc-inizqwfk1305441.shtml",
-      "content": "来源：CCTV国际时讯 #伊朗革命卫队公开新型导弹发射装置#当地时间11月21日，伊朗国家电视台发布的一段视频显示，伊朗伊斯兰革命卫队总司令瓦希迪等高级官员日前现身革命卫...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-22",
-      "time": "06:38",
-      "keywords": []
-    },
-    {
-      "title": "美国移民执法人员在西雅图机场逮捕两名乘客，民主党承诺展开国会调查",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-22/doc-inizqwfh8975290.shtml",
-      "content": " 美国移民与海关执法局（ICE）执法人员在西雅图-塔科马国际机场逮捕两名乘客，引发华盛顿州多名政府官员及民主党议员的强烈批评。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "morning",
-      "date": "2026-11-22",
-      "time": "06:37",
+      "time": "12:00",
       "keywords": []
     },
     {
