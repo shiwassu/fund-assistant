@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-24T18:14:10.798132",
+  "updated": "2026-11-25T02:45:23.849434",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,136 +7,241 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 26,
-    "medium": 25,
-    "low": 99
+    "high": 32,
+    "medium": 24,
+    "low": 94
   },
   "items": [
     {
-      "title": "亚德诺大跌18%，业绩预期喜忧参半",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizwmwt9785897.shtml",
-      "content": "第四财季营收增长 42%，达到 43.7 亿美元第四财季营收同比大涨 42% 至 43.7 亿美元，高于市场预期的 43.3 亿美元。 内容速览 亚德诺公布第四财季净利润 16.5 亿美元...",
+      "title": "拐点已现？小米绩后飙升8%，港股互联网ETF（513770）标的指数大涨3.6%",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/2026-11-25/doc-inizxiam1828447.shtml",
+      "content": "11月25日，港股表现不俗，互联网龙头集体走强，小米集团-W绩后领涨，盘中一度涨超8%，现涨7%，快手-W涨近5%，阿里巴巴-W、美团-W涨超2%，腾讯控股涨逾1%。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "16:57",
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "02:31",
       "keywords": []
     },
     {
-      "title": "Stripe最新投资者谈判中估值有望突破2000亿美元",
+      "title": "黄金反弹受阻重回区间下沿，谨防向下破位",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-11-25/doc-inizxiam1814631.shtml",
+      "content": "汇通财经APP讯——黄金（XAU/USD）在周三亚洲早盘跌至约3550美元，在上一交易日大幅反弹之后失去动能。交易者的注意力已转向美国通胀数据与美联储的货币政策前景。",
+      "priority": "high",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "02:12",
+      "keywords": []
+    },
+    {
+      "title": "韩国公布稳定币规则草案，或将放宽ICO禁令",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizwfqy8889739.shtml",
-      "content": "员工股份要约收购预计将于明年初完成 内容速览 知情人士透露，支付巨头 Stripe 正在商讨一轮股份要约回购，本次交易估值有望突破 2000 亿美元。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizxiai9546078.shtml",
+      "content": " 韩国金融监管机构公布了一项规则草案，拟允许本土银行发行稳定币。此举或将为放宽一项已实施九年的禁令——即禁止通过首次代币发行（ICO）进行融资——铺平道路。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "16:41",
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "02:11",
       "keywords": []
     },
     {
-      "title": "库什纳投资的OakNorth拿到美国银行牌照，全球数字银行争相进军美国市场",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizwfrc4672858.shtml",
-      "content": "核心要点OakNorth 获得监管批准收购密歇根州的 Community Unity Bank；美国货币监理署（OCC）要求交易完成时注资 8000 万美元。这家英国银行主攻中端偏下企业客户...",
+      "title": "港股通创新药再抬头，520880标的指数涨超3%！板块投资逻辑坚挺：政策力挺+景气高企+估值低位",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/2026-11-25/doc-inizxiai9545979.shtml",
+      "content": "11月25日（周三），港股通创新药板块再度反弹，100%创新药研发标的——港股通创新药ETF华宝（520880）跟踪指数（恒生港股通创新药精选指数）盘中冲高逾3%。",
+      "priority": "high",
+      "sectors": [
+        "医药"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "02:11",
+      "keywords": []
+    },
+    {
+      "title": "【看点】沪指走强，小盘翻红！中证2000增强ETF招商(159552)再被资金盯上，修复已开启？",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/2026-11-25/doc-inizxian8585013.shtml",
+      "content": " 11月25日，A股早盘普跌，上证指数跌0.93%。中证2000率先翻红。中证2000增强ETF招商（159552）盘中放量拉升；据实时行情与均价估算，该ETF盘中净流入约500万元。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "02:10",
+      "keywords": []
+    },
+    {
+      "title": "个人养老金四周年：1.5亿开户、户均不足千元 险企如何破局“开户热缴存冷”困境？",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/insurance/2026-11-25/doc-inizxiam1804069.shtml",
+      "content": "财联社11月25日讯（记者 曹韵仪）11月25日，个人养老金制度试点启动迎来四周年。2024年政策全面推开之后，制度框架、产品供给持续完善，但 “开户多、缴存少...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "02:05",
+      "keywords": []
+    },
+    {
+      "title": "小米集团-W早盘涨超5%第三季度营收再超千亿 智能手机业务超市场预期",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-25/doc-inizxaum9659525.shtml",
+      "content": "小米集团-W（01810）盘中涨超6%。截至发稿，股价上涨5.36%，报27.92港元，成交额17.437亿港元。 小米集团发布业绩，公司第三季度实现营收1072.4亿元，经调整后净利润48...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:49",
+      "keywords": [
+        "小米集团-W",
+        "涨超"
+      ]
+    },
+    {
+      "title": "华尔街开始押注：美联储再这么加息 离猛烈降息不远了？",
+      "source": "滚动播报",
+      "url": "https://finance.sina.com.cn/roll/2026-11-25/doc-inizxaut4435636.shtml",
+      "content": "转自：财联社 财联社11月25日讯（编辑 潇湘）债券交易员正争相对冲以下风险：美联储加息和股市下跌将显著拖累美国经济，迫使美联储最早于明年晚些时候重新转向宽松货币政策...",
       "priority": "high",
       "sectors": [
         "金融"
       ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "15:58",
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:43",
       "keywords": []
     },
     {
-      "title": "巴克莱：2027年美国ABS总发行规模预计3650亿美元，存量突破1万亿美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizwfqx2059303.shtml",
-      "content": "巴克莱在一份展望报告中称，2027年美国资产支持证券（ABS）总发行规模大概率持平或略低于2026年的历史高位；消费信贷稳步增长、商业融资需求扩张带来的发行增量...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "14:43",
-      "keywords": []
-    },
-    {
-      "title": "Stripe在最新投资者谈判中的估值有望突破2000亿美元",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvzhx9988203.shtml",
-      "content": "据知情人士透露，在支付巨头Stripe最新一轮股份回购要约中，该公司的估值有望升至2000亿美元以上。 交易详情 知情人士表示，这家未上市公司正在讨论针对现有股份发起要约收...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "14:27",
-      "keywords": []
-    },
-    {
-      "title": "AI领域最有影响力的CEO回来了 但市场这份信心能维持多久？",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvzhz2179720.shtml",
-      "content": "黄仁勋出人意料重返英伟达，给近几周遭受剧烈震荡的 AI 产业重燃希望。 在黄仁勋离任的 11 天里，英伟达市值蒸发超 1 万亿美元；以科技股为主的纳斯达克综合指数逼近调整关...",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "14:24",
-      "keywords": []
-    },
-    {
-      "title": "百思买创下五年最佳销售增速，上调业绩指引推动股价大涨",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvzhz2176391.shtml",
-      "content": "作者：布鲁克・迪帕尔玛 正值零售商一年当中最重要的购物季，电子产品连锁零售商百思买（BBY）发布第三季度财报，业绩大幅超出华尔街预期。",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "14:19",
-      "keywords": []
-    },
-    {
-      "title": "AI市场剧烈震荡，考验沃什的加息策略",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvzia8951424.shtml",
-      "content": "作者：詹妮弗・舍恩伯格 上周股市大跌之时，华尔街一度押注美联储会放缓加息步伐。而周一受英伟达黄仁勋复职消息带动，市场大幅反弹...",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "14:16",
-      "keywords": []
-    },
-    {
-      "title": "纽约联储主席约翰・威廉姆斯：为抑制通胀，利率后续或将走高",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvzhz2173625.shtml",
-      "content": " 纽约联邦储备银行主席约翰・威廉姆斯周一表示，政策制定者仍需付出更多努力才能控制通胀；不过他同时指出，在美国经济持续增长的背景下，后续政策调整可以循序渐进推进。",
+      "title": "海南银行获省财政厅增资，盈利造血仍是必答题",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-11-25/doc-inizxaut4427378.shtml",
+      "content": "来源：机构投资家 楚鸢 11月18日，国家金融监督管理总局海南监管局公开了一则《关于海南银行股份有限公司定向增资扩股方案及海南省财政厅股东资格的批复》...",
       "priority": "high",
       "sectors": [
         "金融"
       ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "14:13",
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:37",
       "keywords": []
+    },
+    {
+      "title": "央行今日开展6170亿元隔夜逆回购操作",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/bank/2026-11-25/doc-inizxaut4425111.shtml",
+      "content": "11月25日金融一线消息，央行今日开展6170亿元隔夜逆回购操作，操作利率为1.25%。今日有5160亿元隔夜逆回购到期。",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:35",
+      "keywords": []
+    },
+    {
+      "title": "华泰期货：全球股指高开低走，宏观情绪再遇冷",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/gzqh/futuresyspzx/2026-11-25/doc-inizxaut4421093.shtml",
+      "content": "作者： 汪雅航 市场分析 美联储加息计价上升。美国10月非农数据大超预期，新增16.5万人，且薪资增速超预期，美国10月核心CPI环比上涨0.3%，高于市场预期的0.2%...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:31",
+      "keywords": []
+    },
+    {
+      "title": "光大期货：11月25日金融日报",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-25/doc-inizxauq8665641.shtml",
+      "content": "股指： （王东灜，从业资格号：F03087149；交易咨询资格号：Z0019537） 昨日，A股市场高开低走，Wind全A上涨0.02%，成交额1.67万亿元。",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:28",
+      "keywords": []
+    },
+    {
+      "title": "100%！美联储，加息大消息！“华尔街之狼”发出警告",
+      "source": "券商中国",
+      "url": "https://finance.sina.com.cn/world/gjcj/2026-11-25/doc-inizxaum9641295.shtml",
+      "content": "距离美联储12月议息会议仅剩两周，市场加息预期重回100%，几乎形成一致判断。 当地时间11月23日，纽约联储主席约翰·威廉姆斯释放进一步收紧货币政策的信号...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:25",
+      "keywords": []
+    },
+    {
+      "title": "利率债又香了？久期压在3年内，国债政金债ETF招商(511580)5日4度净流入",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/2026-11-25/doc-inizxaut4412782.shtml",
+      "content": " 资金避险情绪再度升温，利率债成新宠。wind数据显示，截至11月24日，国债政金债ETF招商（511580）已连续3日被加仓，5日4度净流入合计超3600万元。",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:23",
+      "keywords": []
+    },
+    {
+      "title": "美国经济增长基础扩大、通胀持续顽固，美联储可能需要进一步收紧货币政策",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-11-25/102508526.html?cxapp_link=true",
+      "content": "美国经济增长基础扩大、通胀持续顽固，美联储可能需要进一步收紧货币政策",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-25",
+      "time": "--:--",
+      "keywords": [
+        "华尔街原声"
+      ]
+    },
+    {
+      "title": "截至9月底，我国风电和太阳能发电装机合计达20.1亿千瓦，首次突破20亿千瓦",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-11-25/102508504.html?cxapp_link=true",
+      "content": "截至9月底，我国风电和太阳能发电装机合计达20.1亿千瓦，首次突破20亿千瓦",
+      "priority": "high",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-11-25",
+      "time": "--:--",
+      "keywords": [
+        "光伏观察"
+      ]
     },
     {
       "title": "黄仁勋回归推动股价大涨，董事会此前处理方式受到批评",
@@ -148,7 +253,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -164,7 +269,7 @@
         "有色"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -180,7 +285,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -196,7 +301,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场洞察"
@@ -212,7 +317,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "今日盘面"
@@ -228,7 +333,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -244,7 +349,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场洞察"
@@ -260,7 +365,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -276,7 +381,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -292,7 +397,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "商学院"
@@ -308,7 +413,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -324,7 +429,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -340,7 +445,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "交易簿"
@@ -356,7 +461,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -372,7 +477,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -388,209 +493,198 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场动态"
       ]
     },
     {
-      "title": "港股以及A股代表硬科技方向的科创50领跑大涨，市场活跃度和资金情绪回暖，成交规模相比前几周放大。海外扰动仍存",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-11-09/102502854.html?cxapp_link=true",
-      "content": "港股以及A股代表硬科技方向的科创50领跑大涨，市场活跃度和资金情绪回暖，成交规模相比前几周放大。海外扰动仍存",
-      "priority": "high",
+      "title": "从“规模增长”迈向“价值提升”：能源基础设施长期发展基础持续夯实",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-11-25/doc-inizxian8613809.shtml",
+      "content": "近期，公募REITs市场出现阶段性调整，短期价格波动更多反映市场交易情绪与估值再平衡，而理解能源基础设施REITs的长期价值，仍需回归行业发展趋势...",
+      "priority": "medium",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "02:42",
+      "keywords": []
+    },
+    {
+      "title": "摩根主动ETF份额大增，国泰永赢华泰柏瑞主动ETF不足15亿份",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/etf/2026-11-25/doc-inizxiar4347227.shtml",
+      "content": "11月25日消息，wind数据显示，截止11月24日，首批18只主动ETF产品总份额从发行成立的360亿份，降至297.33亿份。具体看，除了摩根基金旗下大盘成长主动ETF摩根最新份额23...",
+      "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "--:--",
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "02:38",
+      "keywords": []
+    },
+    {
+      "title": "OPEC+年内最重要会议即将登场 将为2027年制定产量方案",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizxiam1818568.shtml",
+      "content": "OPEC+石油部长本月底将举行会议，商讨原油供应问题，这将是他们年内的最重大决策。 沙特及其盟友须为2027年制定策略方针，为伊朗战争可能结束做准备的同时...",
+      "priority": "medium",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "02:21",
+      "keywords": []
+    },
+    {
+      "title": "阿里健康早盘涨逾7% 中期总收入达182.28亿元同比增长9.2%",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-25/doc-inizxiam1815809.shtml",
+      "content": "阿里健康（00241）盘中涨近8%，截至发稿，股价上涨6.99%，现报2.76港元，成交额1.91亿港元。 阿里健康昨晚发布中期业绩公告，截至2026年9月30日止6个月，阿里健康收入182...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "02:18",
       "keywords": [
-        "权益周观察"
+        "阿里健康",
+        "涨逾"
       ]
     },
     {
-      "title": "美元树上调业绩指引，季度销售额实现增长",
+      "title": "小米港股一度涨超8% 花旗称业绩符预期且手机业务毛利率料稳定",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizwmww8766907.shtml",
-      "content": "第三季度净销售额增长 6.9%，达 50.7 亿美元第三季度净销售额同比上涨 6.9% 至 50.7 亿美元，略高于华尔街预期的 50.4 亿美元。 内容速览 受饱受通胀压力...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizxiai9546341.shtml",
+      "content": " 小米集团在香港一度上涨近8.2%，创下近三周最大盘中升幅。花旗在报告中指出，公司三季度经调整净收入大致符合预期，维持对其33.2港元的目标价。",
+      "priority": "medium",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "02:11",
+      "keywords": []
+    },
+    {
+      "title": "恒生科技指数涨幅扩大逾2% 哔哩哔哩领涨成份股",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/2026-11-25/doc-inizxian8584016.shtml",
+      "content": "11月25日消息，港股主要指数拉升，恒生科技指数涨超2%，恒生指数、国企指数均涨超1%。科指成份股中，哔哩哔哩涨超13%，小米涨超8%，京东涨超6%，理想汽车、快手涨超5%...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "17:01",
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "02:08",
       "keywords": []
     },
     {
-      "title": "应对铝市大规模逼空 伦敦金属交易所收紧对重仓者的约束",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizwfqv9910241.shtml",
-      "content": "伦敦金属交易所采取措施应对扰乱铝市场的大规模逼空，矛头直指持有大量头寸的交易商。 交易所表示，应对逼空的主要机制，即所谓的“次日展期借贷指引”对于铝的适用门槛将从...",
-      "priority": "medium",
-      "sectors": [
-        "有色"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "16:39",
-      "keywords": []
-    },
-    {
-      "title": "史蒂夫・艾斯曼：AI 交易充满不确定性，正在降低风险敞口",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizwfqy8875915.shtml",
-      "content": "本周，前首席执行官黄仁勋出人意料回归英伟达，AI 板块随之冒出重重变数，就连部分顶尖投资者也对资金布局感到犹豫。 知名空头投资人史蒂夫・艾斯曼表示...",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "16:12",
-      "keywords": []
-    },
-    {
-      "title": "利率上行，美国10月商业地产市场活跃度下降14%",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizwfqx2075564.shtml",
-      "content": "核心要点商业地产数据平台 LightBox 发布指数显示：10 月商业地产市场活跃度较 9 月下滑 14%。该指数包含三项细分指标：商业地产挂牌量环比 9 月下降 20%；场地环境评估数...",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "15:16",
-      "keywords": []
-    },
-    {
-      "title": "美国11月消费者信心指数升至103.3 高于所有预期",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizwfqx2072008.shtml",
-      "content": "世界大型企业联合会数据显示，美国11月消费者信心指数升至103.3，前月数据为91.9。 预期中值92.4，45位经济学家的预估值介于90至94.7之间。 前月数据从91.7修正至91.9。",
-      "priority": "medium",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "15:08",
-      "keywords": []
-    },
-    {
-      "title": "大额分红，就在明天",
-      "source": "中国证券报-中证网",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-24/doc-inizwfqv9878826.shtml",
-      "content": " 本周（11月23日至27日），A股迎来一轮分红密集落地。按现金红利发放日不完全统计，本周共有63家公司实施派现，累计派现规模超150亿元。",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "15:05",
-      "keywords": []
-    },
-    {
-      "title": "零售股走高：迪克体育用品、Abercrombie & Fitch、科尔士纷纷上调业绩指引",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizwfqv9874162.shtml",
-      "content": " 迪克体育用品（DKS）、Abercrombie &amp; Fitch（ANF）以及科尔士百货（KSS）的股价于周二上涨，上述几家零售企业均交出超预期财报并上调业绩指引。",
-      "priority": "medium",
-      "sectors": [
-        "消费"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "15:04",
-      "keywords": []
-    },
-    {
-      "title": "365亿公募打新：电子股备受青睐",
+      "title": "华泰期货：马棕减产预期升温，油脂板块探底回升",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-24/doc-inizwfrc4645256.shtml",
-      "content": "来源：国际金融报 年内公募基金打新热度高涨。 11月24日，公募排排网数据显示，截至当日，年内已有129家公募机构参与67只年内上市新股的网下配售，合计获配金额365...",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-25/doc-inizxaup1903971.shtml",
+      "content": "作者： 白旭宇 油脂观点 市场分析 期货方面，昨日收盘棕榈油2701合约8311.00元/吨，环比变化+60元，幅度+0.73%；昨日收盘豆油2701合约8489.00元/吨，环比变化+60.00元...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "14:41",
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:38",
       "keywords": []
     },
     {
-      "title": "开盘：三大股指齐跌，英伟达股价回落，回吐周一部分涨幅",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizwfqv9860942.shtml",
-      "content": "受英伟达股价回落拖累，美股三大股指周二下行，回吐前一交易日因黄仁勋复职带动的大幅涨幅。 道指跌0.55%，标普500指数跌1.10%，纳指跌1.35%。",
-      "priority": "medium",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "14:31",
-      "keywords": []
-    },
-    {
-      "title": "恐慌指数一度飙升，美股盘前跳水",
-      "source": "上海证券报",
-      "url": "https://finance.sina.com.cn/wm/2026-11-24/doc-inizwfqy8834992.shtml",
-      "content": "当地时间24日美股盘前，美股股指期货跳水，截至发稿，纳指期货跌2.05%，标普500指数期货跌1.21%，道指期货跌0.58%。 科技股普遍下跌。截至发稿，英伟达盘前跌4.67%。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "14:31",
-      "keywords": []
-    },
-    {
-      "title": "欧美股市全线跳水！利空突袭",
+      "title": "光大期货：11月25软商品日报",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-24/doc-inizvzhx9981848.shtml",
-      "content": "来源：中国基金报 【导读】市场依旧动荡不安 中国基金报记者 泰勒 大家好啊，果然今天A股走得比较谨慎是有原因的。 11月24日晚间，海外市场集体跳水，纳指期货跌超2%！",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-25/doc-inizxauq8668177.shtml",
+      "content": "白糖： （张笑金，从业资格号：F0306200；交易咨询资格号：Z0000082） 消息方面，印度经纪机构（Dolat Capital）预计，2026/27榨季印度食糖产量约2700万吨...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:30",
+      "keywords": []
+    },
+    {
+      "title": "李蓓：“整个课程只记这一张图，绿线以上持续大买！”这图怎么看？",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/2026-11-25/doc-inizxaup1886538.shtml",
+      "content": "11月24日，半夏投资李蓓发布《已做多A股宽基指数》一文，公开其择时框架。文中指出“当时反复跟大家说过，整个课程，如果只记一张图，就记这一张。",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:25",
+      "keywords": []
+    },
+    {
+      "title": "摩根士丹利将联想目标价下调39% 维持超配评级",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizxauq8660660.shtml",
+      "content": "摩根士丹利将联想港股目标价下调39%，因市场不确定性调低增长假设。该行维持对联想的“超配”评级。 将联想目标价从此前的每股49港元下调至30港元...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:23",
+      "keywords": []
+    },
+    {
+      "title": "【早盘三分钟】11月25日华宝基金ETF早知道",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/etf/2026-11-25/doc-inizxaup1882400.shtml",
+      "content": "科创芯片ETF华宝（589190） 创业板人工智能ETF华宝（159363）",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:22",
+      "keywords": []
+    },
+    {
+      "title": "快讯：恒指高开0.15% 恒科指跌0.41% 黄金股低迷 存储概念股低开",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-25/doc-inizxaup1882549.shtml",
+      "content": "美股周二个别发展，科技股大幅反弹后出现回吐，市场忧虑华府即将增加关税，不利大市气氛，三大指数收市升跌不一。美元由高位回落，美国十年期债息维持于4.92厘水平...",
+      "priority": "medium",
+      "sectors": [
+        "黄金"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:20",
+      "keywords": []
+    },
+    {
+      "title": "瑞银预计，MSCI中国指数每股收益增长约10%，估值有约3%的提升空间，对应整体回报约13%。瑞银给出的2027年末MSCI中国指数目标点位为76，恒生指数目标",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-11-25/102508518.html?cxapp_link=true",
+      "content": "瑞银预计，MSCI中国指数每股收益增长约10%，估值有约3%的提升空间，对应整体回报约13%。瑞银给出的2027年末MSCI中国指数目标点位为76，恒生指数目标点位约为26000点",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
-      "time": "14:04",
-      "keywords": []
-    },
-    {
-      "title": "摩根大通：资金供应充裕，3月SOFR与联邦基金利率利差存在错误定价",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvzhz2163936.shtml",
-      "content": "摩根大通由杰伊·巴里（Jay Barry）领衔的策略师团队表示，美国融资市场状况明年应总体保持“有序运行”，尤其是在2027年上半年。因此...",
-      "priority": "medium",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "13:56",
-      "keywords": []
-    },
-    {
-      "title": "金山云Q3收入盈利双增长  AI云收入同比三位数增长",
-      "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/stock/enterprise/2026-11-24/doc-inizvzia8938082.shtml",
-      "content": "2026年11月24日，金山云（NASDAQ：KC，HKEX：3896）发布2026年第三季度财报。季度内，AI云业务保持强劲增长，带动公司整体业绩稳中有进。",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "13:52",
-      "keywords": []
+      "date": "2026-11-25",
+      "time": "--:--",
+      "keywords": [
+        "市场洞察"
+      ]
     },
     {
       "title": "A股主要指数普遍收跌，中小盘及科技成长板块承压，银行、食品饮料等防御性板块相对抗跌。港股同步走弱，市场风险偏好持续收缩",
@@ -603,7 +697,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "权益周观察"
@@ -619,7 +713,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -635,7 +729,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场速递"
@@ -651,7 +745,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场洞察"
@@ -667,7 +761,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -683,7 +777,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "行业速递"
@@ -699,7 +793,7 @@
         "医药"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -715,7 +809,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -731,7 +825,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -747,7 +841,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -763,423 +857,378 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场动态"
       ]
     },
     {
-      "title": "黄仁勋婚外情风波及其信托架构背后折射的是科技创新“新贵”普遍存在的四层结构性风险，也是中国高净值企业家最值得警惕的治理短板",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-11-09/102502809.html?cxapp_link=true",
-      "content": "黄仁勋婚外情风波及其信托架构背后折射的是科技创新“新贵”普遍存在的四层结构性风险，也是中国高净值企业家最值得警惕的治理短板",
-      "priority": "medium",
+      "title": "授信超270亿！银行抢单提速，11月回购增持专项贷款集中落地",
+      "source": "界面",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-25/doc-inizxiar4324628.shtml",
+      "content": "界面新闻记者 | 安震 “各家银行做回购增持贷款的积极性很强，大家盯客户都盯得比较紧，我们最近刚做成了一笔，早上企业还没开门，我们就已经到门口等着了...",
+      "priority": "low",
       "sectors": [
-        "综合"
+        "金融"
       ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "--:--",
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "02:07",
+      "keywords": []
+    },
+    {
+      "title": "首席信息官梁斌辞任，江苏银行高管调整频发",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-11-25/doc-inizxian8582030.shtml",
+      "content": "来源：泰山财经 记者 景茗 近日，江苏银行（600919.SH）首席信息官梁斌因工作调动辞去相关职务的消息，引发外界关注。据悉，梁斌将赴江苏省信用再担保集团任职，与此同时...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "02:06",
+      "keywords": []
+    },
+    {
+      "title": "百融智能-W早盘涨超14% 年内累计回购金额超2.16亿港元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-25/doc-inizxiar4322179.shtml",
+      "content": "百融智能-W（06608）早盘涨超14%。截至发稿，股价上涨14.43%，现报3.925港元，成交额87.219万港元。 今年四季度以来，百融智能加快回购节奏，截至11月20日...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "02:06",
+      "keywords": []
+    },
+    {
+      "title": "轻松健康盘中涨超8% 近期于乌镇峰会分享“AI+健康”创新成果",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-25/doc-inizxiai9539975.shtml",
+      "content": "轻松健康（02661）盘中涨超8%，截至发稿，股价上涨4.32%，现报2.90港元，成交额3769.94万港元。 据轻松健康官微消息，近日，在2026年世界互联网大会乌镇峰会上...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "02:03",
       "keywords": [
-        "家庭财富"
+        "轻松健康",
+        "涨超"
       ]
     },
     {
-      "title": "伊拉克据悉不认可OPEC+产能评估 产量目标谈判或添变数",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizwmwz4584979.shtml",
-      "content": " 据知情人士透露，伊拉克不认可OPEC+委托进行的一项石油产能评估，这可能会在本周末关于产量目标的关键会议上引发冲突。",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "17:54",
-      "keywords": []
-    },
-    {
-      "title": "归来后首次正式亮相 黄仁勋周二召开全体员工大会",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizwmwz4584033.shtml",
-      "content": "据知情人士透露，英伟达首席执行官黄仁勋将在复职次日的全体员工大会上发表讲话。 不愿公开身份的知情人士说，此次会议定于太平洋时间周二中午12：30开始。",
+      "title": "人走了三年，穗岁康保费还在扣？自动划扣认得余额，认不得生死",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/insurance/bxdt/2026-11-25/doc-inizxauq8700423.shtml",
+      "content": "一个死去的人，还要年年续健康保险，这算不算荒谬？ 据羊城晚报“记者帮”11月23日报道，广州张先生的父亲2023年5月去世。张先生给父亲投保的“穗岁康”开了自动续费...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "17:50",
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:55",
       "keywords": []
     },
     {
-      "title": "英国财富管理业频遭网络攻击 圣詹姆斯广场披露遭黑客入侵",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizwmww8787288.shtml",
-      "content": "圣詹姆斯广场公共有限公司上月遭到网络攻击，成为最新一家被黑客盯上的财富管理公司。 这家总部位于英国格洛斯特郡赛伦塞斯特的公司证实...",
+      "title": "华泰期货：停产煤矿增多，双焦盘面震荡反弹",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-25/doc-inizxaum9659391.shtml",
+      "content": "市场分析 期现货方面：昨日双焦期货小幅反弹，焦炭现货继续弱稳运行，坑口煤价企稳回升，部分超跌煤矿价格涨幅较大，蒙5原煤暂稳于1480-1500元/吨。",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "17:50",
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:49",
       "keywords": []
     },
     {
-      "title": "欧洲债市：德国国债上涨 科技股抛售激发避险需求",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizwmwz4565877.shtml",
-      "content": "德国国债上涨，科技股下挫以及有关美国将推出新一轮关税的报道激发避险买盘。 德国国债收益率全线下跌2-3个基点，跟随美国国债走势；英国国债收益率也下跌1-3个基点。",
+      "title": "华泰期货：美国关税大棒再起 贵金属承压",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/nmetal/gjshz/2026-11-25/doc-inizxaut4438071.shtml",
+      "content": "作者： 师橙 市场分析 地缘方面，消息称美国正准备对包括日本、韩国以及欧盟27个成员国在内的数十个国家和地区上调关税，预计最快将于本周公布。",
       "priority": "low",
       "sectors": [
         "黄金"
       ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "16:57",
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:48",
       "keywords": []
     },
     {
-      "title": "美国官员正辩论是否应将伊朗高层领导人列为打击目标",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizwmwz4565297.shtml",
-      "content": " 美国官员表示，特朗普政府官员正在内部辩论美军是否应将伊朗最高层领导人列为打击目标，以清除那些被视为该政权强硬派的人士。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "16:55",
-      "keywords": []
-    },
-    {
-      "title": "Pimco首席投资官：AI带来的颠覆性风险提升债券吸引力",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizwfrc4692280.shtml",
-      "content": " Pimco（品浩）的Daniel Ivascyn表示，人工智能（AI）热潮正令美国经济更容易受到冲击和市场波动影响，这强化了配置美国国债及其他优质债券的理由。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "16:45",
-      "keywords": []
-    },
-    {
-      "title": "为何亚马逊的星链竞品难以追上SpaceX",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizwfqx2114515.shtml",
-      "content": "市场对星链替代方案需求旺盛，但亚马逊卫星业务部门 Leo 接连遭遇挫折2 月，一枚运载亚马逊 Leo 星座卫星的火箭发射升空。 内容速览 受多起运载火箭发射事故拖累...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "16:44",
-      "keywords": []
-    },
-    {
-      "title": "HUAWEI Mate X8发布：加量不加价再塑折叠新标杆",
-      "source": "新浪数码",
-      "url": "https://finance.sina.com.cn/tech/mobile/n/n/2026-11-24/doc-inizwfqy8867845.shtml",
-      "content": "新浪数码讯 11月24日晚间消息，HUAWEI Mate X8 及全场景新品发布会在上海召开。华为带来全新一代旗舰折叠屏手机HUAWEI Mate X8、超薄长续航大屏直板旗舰HUAWEI Mate 90...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "15:54",
-      "keywords": [
-        "Mate X8",
-        "华为"
-      ]
-    },
-    {
-      "title": "瑞银再遭挫败 议会委员会支持90%资本覆盖方案",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizwfqx2090665.shtml",
-      "content": "瑞银集团在旷日持久的瑞士资本金争论中进一步遇挫，议会一个委员会支持一项瑞银反对的提案。 瑞士议会下院一个委员会的议员周二支持一项方案...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "15:52",
-      "keywords": []
-    },
-    {
-      "title": "胡塞武装袭击利雅得金融中心 造成11人受伤",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizwfrc4670499.shtml",
-      "content": "沙特民防部门发言人称，胡塞武装周二对利雅得金融中心一座大楼的袭击造成2名沙特公民和9名外国公民受伤。 受伤的外国人来自印度、尼泊尔和埃及，现场已采取措施确保安全。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "15:50",
-      "keywords": []
-    },
-    {
-      "title": "由英伟达带动的这波暴涨，是市场底部信号吗？或许未必",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizwfqy8859497.shtml",
-      "content": "核心要点像周一这种深度超卖之后的单日反弹值得重视，但不能完全采信。为什么 Anthropic 没能搭上英伟达带动的行情快车。黄仁勋上演一出 “反向方齐（Reverse Fonzie）”。",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "15:35",
-      "keywords": []
-    },
-    {
-      "title": "美国众议员：黄仁勋应赴众议院外交事务委员会公开作证",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizwfrc4662417.shtml",
-      "content": "美国众议院外交事务委员会民主党首席成员Gregory Meeks在声明中表示，英伟达首席执行官黄仁勋应在该委员会公开作证。 Meeks承认，计划进行的有文字记录的问询对监督工作“至...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "15:26",
-      "keywords": []
-    },
-    {
-      "title": "Anthropic股价跌破83美元IPO发行价，但分析师整体依旧看好",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizwfqx2074510.shtml",
-      "content": "核心要点Anthropic 股价周二下挫，跌破这家 AI 企业 83 美元的 IPO 发行价。ANT 自纳斯达克开盘报 111.50 美元之后，股价便持续下行。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "15:13",
-      "keywords": []
-    },
-    {
-      "title": "美国参议员：可能需要给黄仁勋找个“保姆”盯着他",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizwfqv9876027.shtml",
-      "content": "美国共和党联邦参议员Kevin Cramer接受采访时表示：“我们必须设置更严格的护栏。我们甚至可能得给黄仁勋找个保姆。” “可能应该在他两边都安排人跟着”，Cramer表示...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "15:09",
-      "keywords": []
-    },
-    {
-      "title": "全年各项工作收官冲刺、保障性租赁住房、完善公共卫生体系，市政府常务会议研究部署这些工作",
-      "source": "上海发布",
-      "url": "https://finance.sina.com.cn/china/2026-11-24/doc-inizwfrc4659243.shtml",
-      "content": "市委副书记、市长朱忠明今天（11月24日）主持召开市政府常务会议，要求在市委坚强领导下，加力推动做好全年各项工作收官冲刺；加快发展保障性租赁住房；不断健全完善公共卫...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "15:01",
-      "keywords": []
-    },
-    {
-      "title": "黄仁勋回归引争议 民主党直指特朗普干预属于腐败",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizwfqy8845114.shtml",
-      "content": " 对于有志角逐白宫的民主党人而言，早在特朗普成功施压英伟达恢复黄仁勋首席执行官职务之前，总统与科技高管走得过近，就已经是一个极具杀伤力的攻击靶子。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "15:01",
-      "keywords": []
-    },
-    {
-      "title": "Anthropic上市不到一周跌破发行价",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizwfqy8843651.shtml",
-      "content": "Anthropic股价跌破83美元的IPO发行价，抹去了上周蜂拥参与这家AI实验室创纪录上市首秀的投资者的收益。 周二，在股市整体回调之际，该股在纽约一度下跌9.4%，至每股79...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "14:58",
-      "keywords": []
-    },
-    {
-      "title": "摩根大通、伯恩斯坦：2027年石油供应过剩风险将至",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizwfqy8838719.shtml",
-      "content": " 摩根大通表示，大量原油供给即将涌入市场；即便地缘冲突持续，油市仍会出现供应过剩。桑福德・伯恩斯坦也预判，未来三年原油供给增速将超过需求增速。",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "14:49",
-      "keywords": []
-    },
-    {
-      "title": "先通医药上市破发：大跌23% 公司市值26亿港元 上半年亏5亿",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/s/2026-11-24/doc-inizwfqy8841950.shtml",
-      "content": "来源：雷递 雷递网 雷建平 11月24日 北京先通国际医药科技股份有限公司（简称：“先通医药”，股票代码：“09941”）今日在港交所上市，被称为港股“核药第一股”。",
+      "title": "长风药业盘中涨超10% 创新药ICF001获美国FDA临床批准",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-25/doc-inizxaut4437645.shtml",
+      "content": "长风药业（02652）盘中涨超10%，截至发稿，涨幅收窄股价上涨2.82%，现报4.56港元，成交额461.314万港元。 长风药业宣布，美国食品药品监督管理局（FDA）审评团队已完成对公...",
       "priority": "low",
       "sectors": [
         "医药"
       ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "14:47",
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:47",
+      "keywords": [
+        "长风药业",
+        "涨超"
+      ]
+    },
+    {
+      "title": "鸿海股价一度下跌8% 受可转换债券定价影响",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizxaup1914631.shtml",
+      "content": " 鸿海精密股价周三早盘一度下跌8%。台湾交易所的文件显示，该公司发行12.5亿美元的零息可转换公司债券，转换价格定为每股260.48元台币，到期日为2031年12月1日。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:46",
       "keywords": []
     },
     {
-      "title": "韦德布什证券：Anthropic股价仍有上行空间",
+      "title": "华泰期货：现货保持强势，猪价宽幅震荡",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-25/doc-inizxaut4436535.shtml",
+      "content": "作者： 薛钧元 生猪观点 市场要闻与重要数据 期货方面，昨日收盘生猪 2703 合约9620元/吨，较前交易日变动-120元/吨，幅度-1.24%。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:46",
+      "keywords": []
+    },
+    {
+      "title": "维立志博-B早盘涨近6% 维利信®最新临床资料于2026 JEFFERIES全球医疗健康大会发表",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-25/doc-inizxauq8689831.shtml",
+      "content": "维立志博-B（09887）早盘涨近6%，截至发稿，股价上涨5.60%，现报29.02港元，成交额3995.242万港元。 近日，维立志博-B发布公告称，本公司创始人...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:45",
+      "keywords": [
+        "维立志博-B",
+        "涨近"
+      ]
+    },
+    {
+      "title": "阿里巴巴据悉讨论明年发行离岸人民币和美元债券的可能性",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizwfrc4645595.shtml",
-      "content": "韦德布什证券（Wedbush Securities）表示，尽管 Anthropic 公开上市之后股价波动剧烈，但该股仍有望迎来上涨行情。 这家投行首次对这只 AI 个股开启研究覆盖...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizxaup1910782.shtml",
+      "content": "据知情人士透露，阿里巴巴集团最近几周一直在与银行讨论明年可能在离岸债券市场筹集资金的可能性。 知情人士称，该公司已与投资银行进行初步洽谈...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:43",
+      "keywords": []
+    },
+    {
+      "title": "华泰期货：郑糖五千获支撑，底部震荡或持续",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-25/doc-inizxaut4430061.shtml",
+      "content": "作者： 李馨 白糖观点 市场要闻与重要数据 期货方面，昨日收盘白糖2701合约5114元/吨，较前一日变动+85元/吨，幅度+1.69%。现货方面，广西南宁地区白糖现货价格5090元/吨...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:39",
+      "keywords": []
+    },
+    {
+      "title": "哔哩哔哩-W绩后高开逾9% 第三季度营收同比增长8%至83.17亿元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-25/doc-inizxauq8680122.shtml",
+      "content": "哔哩哔哩-W（09626）绩后高开逾9%。截至发稿，股价上涨9.41%，现报91.30港元，成交额1.124亿港元。 哔哩哔哩（B站）公布财报，第三季度，B站总营收达83.2亿元...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:38",
+      "keywords": [
+        "哔哩哔哩-W",
+        "高开"
+      ]
+    },
+    {
+      "title": "贝森特盯上华尔街不当避税 业界大佬引特朗普之言称“何不从上查起”",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizxaup1901624.shtml",
+      "content": "美国财政部长斯科特·贝森特上周末誓言，要打击华尔街公司推销的不当避税操作，但没有指名道姓。 一名重量级人物的回应提供了线索。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:37",
+      "keywords": []
+    },
+    {
+      "title": "中信建投期货：11月25日能化早报",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-25/doc-inizxaut4425424.shtml",
+      "content": "橡胶：短期震荡 周二，国产全乳胶18500元/吨，环比上日上涨250元/吨；泰国20号混合胶17880元/吨，环比上日上涨160元/吨。 原料端：昨日泰国胶水报收79.75泰铢/公斤...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:35",
+      "keywords": []
+    },
+    {
+      "title": "PGIM料10年期美债收益率波动区间较宽 存在升至6%的风险",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-25/doc-inizxaum9644419.shtml",
+      "content": "尽管发达市场债券对近期科技市场的不确定性做出了反应，但PGIM仍然认为收益率有“阶梯式上升”空间。 根据PGIM的报告，在通胀率切实回到目标水平之前...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:34",
+      "keywords": []
+    },
+    {
+      "title": "中信建投期货：11月25日黑色系早报",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-25/doc-inizxaup1896374.shtml",
+      "content": "钢材早报：卷螺分化加深 市场信息： 1、 世界钢协数据显示，2026年10月全球70个纳入世界钢铁协会统计国家/地区的粗钢产量为1.424亿吨，同比下降1.1%。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:33",
+      "keywords": []
+    },
+    {
+      "title": "光大期货：11月25日有色金属日报",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-25/doc-inizxaum9641375.shtml",
+      "content": "铜： （展大鹏，从业资格号：F3013795；交易咨询资格号：Z0013582） 隔夜内外铜价大幅走弱，再创年内新低，国内精炼铜现货进口窗口持续打开...",
+      "priority": "low",
+      "sectors": [
+        "有色"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:31",
+      "keywords": []
+    },
+    {
+      "title": "人民日报访司法部党组书记、部长贺荣：推动依法治国和依规治党有机统一",
+      "source": "人民日报",
+      "url": "https://finance.sina.com.cn/stock/roll/2026-11-25/doc-inizxaut4422584.shtml",
+      "content": "推动依法治国和依规治党有机统一（权威访谈·学习贯彻党的二十届五中全会精神） ——访司法部党组书记、部长贺荣 本报记者 张 璁《人民日报》（2026年11月25日第04版）...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:30",
+      "keywords": []
+    },
+    {
+      "title": "光大期货：11月25日农产品日报",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-25/doc-inizxaup1891058.shtml",
+      "content": "蛋白粕： （侯雪玲，从业资格号：F3048706；交易咨询资格号：Z0013637） 周二，CBOT大豆上涨，得益于豆粕需求强劲以及豆粕期货价格上涨。美豆粕上涨美豆油下跌。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:29",
+      "keywords": []
+    },
+    {
+      "title": "光大期货：11月25日能源化工日报",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-25/doc-inizxaut4418395.shtml",
+      "content": "原油： （钟美燕，从业资格号：F3045334；交易咨询资格号：Z0002410） 周二油价反弹，其中WTI 1月合约收盘上涨1.88美元至82.05美元/桶，涨幅2.35%。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:29",
+      "keywords": []
+    },
+    {
+      "title": "光大期货：11月25日矿钢煤焦日报",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-25/doc-inizxauq8666316.shtml",
+      "content": "螺纹钢： （邱跃成，从业资格号：F3046854；交易咨询资格号：Z0016941） 昨日螺纹盘面震荡上涨，截至日盘螺纹2701合约收盘价格为3028元/吨...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:28",
+      "keywords": []
+    },
+    {
+      "title": "奇富科技-S第三季度股东应占净利润达3.84亿元",
+      "source": "新浪港股",
+      "url": "https://finance.sina.com.cn/stock/hkstock/ggscyd/2026-11-25/doc-inizxaut4411052.shtml",
+      "content": " 奇富科技-S（03660）发布公告，2026年第三季度，净收入总额为人民币30.885亿元，公司普通股股东应占净利润为人民币3.84亿元，每股普通股基本净收益为1.58元。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "night",
+      "date": "2026-11-25",
+      "time": "01:22",
+      "keywords": [
+        "奇富科技-S",
+        "净利润"
+      ]
+    },
+    {
+      "title": "黄仁勋对员工表示，他不喜欢传统的继任者培养规划。他不希望公司高管为了争夺最高职位而明争暗斗",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-11-25/102508487.html?cxapp_link=true",
+      "content": "黄仁勋对员工表示，他不喜欢传统的继任者培养规划。他不希望公司高管为了争夺最高职位而明争暗斗",
       "priority": "low",
       "sectors": [
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
-      "time": "14:46",
-      "keywords": []
-    },
-    {
-      "title": "Anthropic上市后第四个交易日跌破83美元发行价",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizwfrc4643473.shtml",
-      "content": " Anthropic PBC股价跌破每股83美元的首次公开募股（IPO）发行价，抹去了在这家人工智能实验室创纪录上市交易中踊跃买入的投资者此前获得的收益。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "14:41",
-      "keywords": []
-    },
-    {
-      "title": "黄仁勋回归缓解韩国HBM需求担忧 业内警示降低单一客户依赖",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizwfqx2055436.shtml",
-      "content": "黄仁勋在辞职仅11天后复任英伟达首席执行官，此举缓解了市场对三星电子、SK海力士与这家美国芯片巨头的高带宽存储器（HBM）合作，以及韩国由AI带动的存储景气周期能否延续...",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "14:36",
-      "keywords": []
-    },
-    {
-      "title": "国际油价深夜拉升，比特币跌破6万美元，伊朗：将收紧对霍尔木兹海峡封锁",
-      "source": "21世纪经济报道",
-      "url": "https://finance.sina.com.cn/wm/2026-11-24/doc-inizwfqv9864764.shtml",
-      "content": " 21财经雷达数据显示，11月24日晚间，国际油价拉升，截至北京时间22：05，WTI原油期货涨1.21%，报81.14美元/桶；布伦特原油期货涨1.25%，报87.76美元/桶。",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "14:30",
-      "keywords": []
-    },
-    {
-      "title": "特朗普如何推动黄仁勋重返英伟达",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvzif4767767.shtml",
-      "content": " 尽管本月早些时候共和党失去参众两院多数席位，特朗普在华盛顿的影响力有所削弱，但这位总统依旧拥有足以撬动全球格局的能量。",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "14:25",
-      "keywords": []
-    },
-    {
-      "title": "沪市公司密集释放回购增持利好 新增计划接连落地",
-      "source": "长三角资本局",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-11-24/doc-inizvzif4765405.shtml",
-      "content": "11月24日晚间，沪市公司密集释放回购增持利好，新增计划接连落地，存量方案扎实推进。据不完全统计，沪市主板公司当日共提交超20份利好公告，其中新增回购增持计划5单...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "14:21",
-      "keywords": []
-    },
-    {
-      "title": "散户投资者抄底英伟达获利",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvzhx9981210.shtml",
-      "content": "黄仁勋的回归是在硅谷精英群体中一个派系的推动下实现的，但散户投资者也纷纷入场，并从中获得了回报。 零售券商Robinhood的一名发言人表示，11月12日黄仁勋辞职当天...",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "14:14",
-      "keywords": []
-    },
-    {
-      "title": "马斯克：模型竞争不过，不如卖算力",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvzia8947758.shtml",
-      "content": " 马斯克旗下的SpaceX正在将数据中心算力出租给包括Anthropic在内的竞争对手。这使其自身的人工智能业务发展变得更加困难。",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "14:10",
-      "keywords": []
-    },
-    {
-      "title": "不只是CEO复职 韩国券商：黄仁勋回归有望恢复AI市场信心",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-24/doc-inizvzia8945906.shtml",
-      "content": " 随着英伟达首席执行官（CEO）黄仁勋重返管理岗位等消息推动韩国股市大幅反弹，韩国证券业界认为，这可能成为人工智能（AI）投资生态系统恢复市场信心的契机。",
-      "priority": "low",
-      "sectors": [
-        "金融",
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "14:06",
-      "keywords": []
+      "date": "2026-11-25",
+      "time": "--:--",
+      "keywords": [
+        "市场动态"
+      ]
     },
     {
       "title": "分析指出，黄仁勋重返英伟达掌舵，最核心的意义就是给市场以及整个AI生态系统重新注入信心",
@@ -1192,7 +1241,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "今日盘面"
@@ -1208,7 +1257,7 @@
         "半导体"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1224,7 +1273,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1240,7 +1289,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1256,7 +1305,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "研报精华"
@@ -1272,7 +1321,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "霍尔木兹周报"
@@ -1288,7 +1337,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1304,7 +1353,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1320,7 +1369,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1337,7 +1386,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1353,7 +1402,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1369,7 +1418,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1385,7 +1434,7 @@
         "消费"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1401,7 +1450,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1418,7 +1467,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场洞察"
@@ -1434,7 +1483,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "CCI快报"
@@ -1450,7 +1499,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "数据图解"
@@ -1466,7 +1515,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1482,7 +1531,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1498,7 +1547,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1514,7 +1563,7 @@
         "有色"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1531,7 +1580,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1547,7 +1596,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1563,7 +1612,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1579,7 +1628,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1595,7 +1644,7 @@
         "半导体"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1611,7 +1660,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1627,7 +1676,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1643,7 +1692,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1659,7 +1708,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -1675,7 +1724,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1691,7 +1740,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1707,7 +1756,7 @@
         "半导体"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1723,7 +1772,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1739,7 +1788,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场洞察"
@@ -1755,7 +1804,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "数据图解"
@@ -1771,7 +1820,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "量化观察"
@@ -1788,7 +1837,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "权益周观察"
@@ -1804,7 +1853,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "交易簿"
@@ -1820,7 +1869,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "霍尔木兹周报"
@@ -1836,7 +1885,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -1853,7 +1902,7 @@
         "金融"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场洞察"
@@ -1869,7 +1918,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1885,7 +1934,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -1901,7 +1950,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "CCI快报"
@@ -1917,7 +1966,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1933,7 +1982,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1949,7 +1998,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1965,7 +2014,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1982,7 +2031,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -1998,7 +2047,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "周刊提前读"
@@ -2014,7 +2063,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -2030,7 +2079,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2046,7 +2095,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2062,7 +2111,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2078,7 +2127,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -2094,7 +2143,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2110,7 +2159,7 @@
         "能源"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2126,7 +2175,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2142,7 +2191,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -2158,7 +2207,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2175,7 +2224,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场动态"
@@ -2191,7 +2240,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场洞察"
@@ -2207,7 +2256,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -2223,7 +2272,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -2239,7 +2288,7 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "地产观察"
@@ -2255,7 +2304,7 @@
         "AI"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "华尔街原声"
@@ -2271,7 +2320,7 @@
         "半导体"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "商圈"
@@ -2287,42 +2336,10 @@
         "综合"
       ],
       "period": "noon",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "time": "--:--",
       "keywords": [
         "市场动态"
-      ]
-    },
-    {
-      "title": "如果Anthropic的目标是在11月26日美国感恩节假期前上市",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-11-10/102502921.html?cxapp_link=true",
-      "content": "如果Anthropic的目标是在11月26日美国感恩节假期前上市",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "--:--",
-      "keywords": [
-        "市场动态"
-      ]
-    },
-    {
-      "title": "美伊对峙维持高频摩擦，袭船事件持续扰动航道安全，美方借中期选举后的短暂时间窗口实施有限军事打击与物资封锁，伊朗以海峡通航管控、导弹威慑作为反制筹码",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-11-09/102502704.html?cxapp_link=true",
-      "content": "美伊对峙维持高频摩擦，袭船事件持续扰动航道安全，美方借中期选举后的短暂时间窗口实施有限军事打击与物资封锁，伊朗以海峡通航管控、导弹威慑作为反制筹码",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-24",
-      "time": "--:--",
-      "keywords": [
-        "霍尔木兹周报"
       ]
     }
   ]
