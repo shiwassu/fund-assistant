@@ -1,5 +1,5 @@
 {
-  "updated": "2026-11-27T04:29:20.607922",
+  "updated": "2026-11-27T14:15:28.501269",
   "total": 150,
   "sources": [
     "新浪财经",
@@ -7,232 +7,408 @@
     "Tushare"
   ],
   "priority_dist": {
-    "high": 33,
-    "medium": 28,
-    "low": 89
+    "high": 44,
+    "medium": 18,
+    "low": 88
   },
   "items": [
     {
-      "title": "长光辰芯午前大涨逾18% 预计前10月纯利最高增长1.5倍",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkaczqn5530464.shtml",
-      "content": "长光辰芯（03277）午前续涨逾18%，截至发稿，股价上涨17.74%，现报43.94港元，成交额7252.86万港元。 长光辰芯日前公布，预期今年前10个月取得母公司拥有人应占利润约5亿至...",
+      "title": "下周摘牌，科创板首例市值退市！四种财务造假手法曝光",
+      "source": "上海证券报",
+      "url": "https://finance.sina.com.cn/stock/s/2026-11-27/doc-inkaewtw7754131.shtml",
+      "content": " 11月27日晚间，*ST卓然（688121）公告称，公司收到上交所终止上市决定，因股票连续20个交易日每日收盘市值均低于3亿元，触发科创板股票上市规则规定的终止上市情形。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-27",
-      "time": "04:00",
-      "keywords": [
-        "长光辰芯",
-        "大涨"
-      ]
-    },
-    {
-      "title": "港股午评：恒指涨0.85% 科指涨3.25% 科网股普涨 黄金股集体大涨 MINIMAX涨超11%",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkaczqh7815268.shtml",
-      "content": "11月27日消息，港股三大指数集体上涨。截至午间收盘，恒生指数涨0.85%，报22416.44，恒生科技指数涨3.25%，国企指数涨0.86%。盘面上，科网股普涨，联想涨超6%，美团...",
-      "priority": "high",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "night",
-      "date": "2026-11-27",
-      "time": "04:00",
+      "time": "14:01",
       "keywords": []
     },
     {
-      "title": "日本央行呼吁针对数字货币及AI风险采取防范措施",
+      "title": "688121，终止上市！",
+      "source": "证券时报",
+      "url": "https://finance.sina.com.cn/stock/s/2026-11-27/doc-inkaewtv0971855.shtml",
+      "content": "*ST卓然将正式退市。 *ST卓然（688121）11月27日公告，上海证券交易所决定终止公司股票上市，公司股票将于2026年12月4日终止上市暨摘牌。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "13:53",
+      "keywords": []
+    },
+    {
+      "title": "巴西资产大涨 巴西总统卢拉任命新财长",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkacvhq5655879.shtml",
-      "content": " 日本央行执行理事神山一成（Kazushige Kamiyama）周五表示，各国政策制定者必须加强防范，以应对新型数字货币和金融基础设施的出现所带来的金融稳定风险与网络安全风险。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaewtv0961395.shtml",
+      "content": "巴西总统卢拉任命路易斯·卡洛斯·特拉布科·卡皮出任财政部长，交易员大幅调整利率预期，巴西资产大幅上涨。 周五开盘，巴西雷亚尔大涨2.4%...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "13:41",
+      "keywords": []
+    },
+    {
+      "title": "捷克众议院批准对炼油厂超额利润征收50%税",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaewua5408004.shtml",
+      "content": "捷克议员通过政府提案：对炼油厂毛利超出2025年水平的部分征收50%的税款。 该税适用于2026、2027两年炼油厂增加的毛利。 政策预计影响捷克境内两家炼油厂...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "13:38",
+      "keywords": []
+    },
+    {
+      "title": "贵阳银行被罚228.3万元：违反收单业务管理规定等",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/fd/2026-11-27/doc-inkaewtw7734519.shtml",
+      "content": "11月27日金融一线消息，中国人民银行贵州省分行行政处罚决定信息公示表显示，贵阳银行股份有限公司因违反收单业务管理规定；违反账户管理规定；未按照规定制定...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "13:36",
+      "keywords": []
+    },
+    {
+      "title": "主播说联播丨国常会这一部署，突出一个“稳”字",
+      "source": "央视",
+      "url": "https://finance.sina.com.cn/stock/roll/2026-11-27/doc-inkaewtw7757659.shtml",
+      "content": "新闻联播 今天（27日），A股市场表现亮眼，全市场上涨个股5382家，400多家个股涨停。 今天召开的国务院常务会议指出，要“持续完善资本市场稳市机制”。详情具体怎么干？",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "13:33",
+      "keywords": []
+    },
+    {
+      "title": "广发银行贵阳分行被罚187.5万元：违反收单业务管理规定等",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/fd/2026-11-27/doc-inkaewua5405608.shtml",
+      "content": "11月27日金融一线消息，中国人民银行贵州省分行行政处罚决定信息公示表显示，广发银行股份有限公司贵阳分行因违反收单业务管理规定；违反人民币流通管理规定；违反反假货币...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "13:33",
+      "keywords": []
+    },
+    {
+      "title": "湖北鄂州农村商业银行被罚68.77万元：违反金融统计相关规定等",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/fd/2026-11-27/doc-inkaewua5402311.shtml",
+      "content": "11月27日金融一线消息，行政处罚决定信息公示表显示，湖北鄂州农村商业银行股份有限公司因违反金融统计相关规定；违反支付结算管理规定；违反反假货币业务管理规定；占压财...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "13:26",
+      "keywords": []
+    },
+    {
+      "title": "零容忍股市“小作文”！证监会出手处罚安某、乔某",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/roll/2026-11-27/doc-inkaewua5403350.shtml",
+      "content": "据中国证监会官网11月27日消息，中国证监会近日对安某、乔某编造、传播证券市场误导性信息的行为依法作出行政处罚。 经查，安某、乔某在网络平台分别发布涉及上市公司中公...",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "13:25",
+      "keywords": []
+    },
+    {
+      "title": "华商基金：稳市政策强力提振市场信心",
+      "source": "新浪基金",
+      "url": "https://finance.sina.com.cn/money/fund/jjh/2026-11-27/doc-inkaewtw7726979.shtml",
+      "content": "11月27日，A股市场显著走强，市场风险偏好与交易情绪同步回暖。据万得数据，截至当日收盘，上证指数上涨3.73%，创业板指和科创综指分别大幅上涨11.61%和14.21%。",
+      "priority": "high",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "13:21",
+      "keywords": []
+    },
+    {
+      "title": "2只算力大牛股，紧急风险提示",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/stock/s/2026-11-27/doc-inkaewua5403672.shtml",
+      "content": "21财经雷达数据显示，11月27日，2只华为算力牛股，发布股票交易异常波动公告。 华胜天成（600410.SH）发布异动公告，公司有关注到部分媒体对公司与华为算力合作关注度较高...",
       "priority": "high",
       "sectors": [
         "AI"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-27",
-      "time": "03:51",
+      "time": "13:18",
       "keywords": []
     },
     {
-      "title": "芯碁微装午前大涨超21% 公司先进封装、mSAP业务卡位优势明确",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkacvhp3310350.shtml",
-      "content": "芯碁微装（09630）盘中涨超23%，截至发稿，股价上涨21.09%，现报175.10港元，成交额1.20亿港元。 IEEE官方公布ISSCC 2027会议议程草案，其中包括自研HBM内存方案。",
-      "priority": "high",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "night",
-      "date": "2026-11-27",
-      "time": "03:32",
-      "keywords": [
-        "芯碁微装",
-        "大涨"
-      ]
-    },
-    {
-      "title": "德适-B早盘涨逾12% iMedLoop™升级版平台全球上线及同步开放API订阅",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkacvhq5635723.shtml",
-      "content": "德适-B（02526）盘中大涨逾25%，截至发稿，股价上涨11.86%，现报73.10港元，成交额5533.91万港元。 近日，德适-B发布公告，本集团的医疗影像模型开发...",
+      "title": "科创板首个市值退市股，下周摘牌，股价从48元跌到4毛",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/stock/s/2026-11-27/doc-inkaewtw7729696.shtml",
+      "content": "21财经雷达数据显示，11月27日，*ST卓然（688121.SH）公告称，公司收到上交所终止上市决定，因股票连续20个交易日每日收盘市值均低于3亿元...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-27",
-      "time": "03:28",
-      "keywords": [
-        "德适-B",
-        "涨逾"
-      ]
+      "time": "13:18",
+      "keywords": []
     },
     {
-      "title": "韩国据报考虑扩大股票稳定基金的规模",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkacvhk7898804.shtml",
-      "content": " 据报道，韩国考虑扩大规模10.76万亿韩元（80亿美元）的股市稳定基金。随着市场波动加剧，韩国当局正做好入市干预的准备。",
+      "title": "浙商银行连云港分行被罚5.5万元：违反信用信息采集、提供、查询及相关管理规定",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/fd/2026-11-27/doc-inkaewtw7720263.shtml",
+      "content": "11月27日金融一线消息，中国人民银行连云港市分行行政处罚决定信息公示表显示，浙商银行股份有限公司连云港分行因违反信用信息采集、提供、查询及相关管理规定，被罚款5...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "13:12",
+      "keywords": []
+    },
+    {
+      "title": "宁波银行深圳分行被罚1745.4万元：未按照规定开展客户尽职调查等",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/fd/2026-11-27/doc-inkaewtz3062905.shtml",
+      "content": "11月27日金融一线消息，中国人民银行深圳市分行行政处罚决定信息公示表显示，宁波银行股份有限公司深圳分行因未按照规定开展客户尽职调查；未按照规定报告可疑交易；未按照...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "13:10",
+      "keywords": []
+    },
+    {
+      "title": "“20cm”涨停！富创精密，抛出最高2亿元回购！前三季度净利润大增522%",
+      "source": "每日经济新闻",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-27/doc-inkaewua5391702.shtml",
+      "content": "每经记者|黄胜每经编辑|黄博文 11月27日盘后，半导体设备零部件龙头富创精密（688409.SH，股价114.4元，市值350.31亿元）推出大额股份回购计划。",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "13:10",
+      "keywords": []
+    },
+    {
+      "title": "近160只ETF，涨停！",
+      "source": "中国证券报",
+      "url": "https://finance.sina.com.cn/stock/roll/2026-11-27/doc-inkaewtz3065159.shtml",
+      "content": " 11月27日，全市场ETF超1500只产品上涨，近160只ETF涨停。半导体产业链表现亮眼，相关ETF涨停数量超过35只，包括科创芯片、半导体设备等赛道。",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-27",
-      "time": "03:14",
+      "time": "13:09",
       "keywords": []
     },
     {
-      "title": "英镑兑美元小幅反弹，英央行加息预期驱动修复行情",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-11-27/doc-inkacvhi1112308.shtml",
-      "content": "汇通财经APP讯——周五（11月27日）亚盘英镑兑美元小幅抬升，当前交投于1.3125附近。美联储加息预期、中东地缘风险依旧对美元形成支撑...",
+      "title": "嘉联支付贵州分公司被罚没249.2万元：违反清算管理规定等",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/fd/2026-11-27/doc-inkaewua5387758.shtml",
+      "content": "11月27日金融一线消息，中国人民银行贵州省分行行政处罚决定信息公示表显示，嘉联支付有限公司贵州分公司因违反清算管理规定；违反数据安全管理规定，被警告、通报批评...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-27",
-      "time": "03:03",
+      "time": "13:06",
       "keywords": []
     },
     {
-      "title": "发生了什么？拓维信息、润和软件、太极股份集体涨停！云计算ETF招商（159890）盘中冲高",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/2026-11-27/doc-inkacvhk7879556.shtml",
-      "content": "11月27日，云厂商、算力租赁、AI应用概念强势爆发！截至发稿，云计算ETF招商（159890）标的指数盘中涨超4.6%，成分股全线走高：拓维信息、润和软件、太极股份集体涨停...",
+      "title": "工商银行江西省分行被罚50万元：违反金融统计相关规定",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/fd/2026-11-27/doc-inkaesmx1061993.shtml",
+      "content": " 11月27日金融一线消息，中国人民银行江西省分行行政处罚信息公示表显示，中国工商银行股份有限公司江西省分行因违反金融统计相关规定，被处罚款人民币50万元。",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "13:01",
+      "keywords": []
+    },
+    {
+      "title": "工商银行鹤壁分行被罚34.1万元：违反金融统计相关规定等",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/fd/2026-11-27/doc-inkaesne5511180.shtml",
+      "content": "11与27日金融一线消息，中国人民银行鹤壁市分行行政处罚决定信息公示表显示，中国工商银行股份有限公司鹤壁分行因违反金融统计相关规定；违反银行结算账户管理规定；占压财...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "12:59",
+      "keywords": []
+    },
+    {
+      "title": "郑州银行平顶山分行被罚102.2万元：违反金融统计相关规定等",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/fd/2026-11-27/doc-inkaesnc3180019.shtml",
+      "content": "11月27日金融一线消息，中国人民银行平顶山市分行行政处罚决定信息公示表显示，郑州银行股份有限公司平顶山分行因违反金融统计相关规定；违反银行结算账户管理规定；违反人...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "12:56",
+      "keywords": []
+    },
+    {
+      "title": "村镇银行出清步入倒计时，中信银行加入“清零”阵营，股份行仅剩一家待收尾",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-11-27/doc-inkaewua5387470.shtml",
+      "content": "中国基金报记者 马嘉昕 11月27日，国家金融监督管理总局浙江监管局发布行政批复，同意中信银行收购浙江临安中信村镇银行并设立分支机构...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "12:54",
+      "keywords": []
+    },
+    {
+      "title": "央行新规调整大额存单业务规则、规范存贷款计结息管理 业内：预计罚息利率总体将有所下行",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/roll/2026-11-27/doc-inkaesnc3178020.shtml",
+      "content": " 原标题：央行新规调整大额存单业务规则、规范存贷款计结息管理 业内：储户“买了难变现”顾虑有望缓解 预计罚息利率总体将有所下行",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "12:50",
+      "keywords": []
+    },
+    {
+      "title": "沪银日内暴涨12%，一日上涨1151元",
+      "source": "21世纪经济报道",
+      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-27/doc-inkaesmx1055583.shtml",
+      "content": "记者丨叶麦穗 编辑丨周炎炎，强燕 “一根穿云箭，千军万马来相见。” 遭遇了近七成下跌的白银，突然大反转，伦敦现货白银今日大涨6.3%，从本周三（11月25日）最低38...",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-27",
-      "time": "02:53",
+      "time": "12:48",
       "keywords": []
     },
     {
-      "title": "大行观点：央行购金放缓叠加强势美元，黄金年底能否稳住3500-3700？",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-11-27/doc-inkacvhk7876870.shtml",
-      "content": "汇通财经APP讯——黄金今年从历史高点大幅回落近四成，市场情绪从狂热转向谨慎。澳洲联邦银行指出，美元已接近其预期的中期高点，黄金下行空间有限...",
-      "priority": "high",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "night",
-      "date": "2026-11-27",
-      "time": "02:49",
-      "keywords": []
-    },
-    {
-      "title": "中科闻歌早盘一度飙升66% 建议寻求不超过1亿港元H股购回授权",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkacvhq5602510.shtml",
-      "content": "中科闻歌（01956）今早放量大涨，一度飙升66%，截至发稿，股价上涨40.11%，现报42.68港元，成交额7748.86万港元。 中科闻歌昨晚发公告称，建议寻求购回授权...",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-27",
-      "time": "02:45",
-      "keywords": [
-        "中科闻歌",
-        "飙升"
-      ]
-    },
-    {
-      "title": "获批上市！首个乙肝功能性治愈新药来了！港股通创新药板块大举上攻，520880标的指数涨超3.5%",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/2026-11-27/doc-inkacvhq5601210.shtml",
-      "content": "11月27日，港股继续修复，创新药及产业链再度走强！100%创新药研发标的——港股通创新药ETF华宝（520880）标的指数大涨超3.5%，高CXO含量港股通医疗ETF华宝（159137）标的指...",
-      "priority": "high",
-      "sectors": [
-        "医药"
-      ],
-      "period": "night",
-      "date": "2026-11-27",
-      "time": "02:44",
-      "keywords": []
-    },
-    {
-      "title": "机构：金价顽强守住3500美元关口托底，市场开始计价衰退预期",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/money/forex/forexroll/2026-11-27/doc-inkacvhk7863850.shtml",
-      "content": "汇通财经APP讯——今年金价自1月末高点最大回撤幅度一度达到39%，在美国通胀数据走高、美联储议息会议偏鹰的压力之下，金价近期再度测试3500美元关口...",
-      "priority": "high",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "night",
-      "date": "2026-11-27",
-      "time": "02:38",
-      "keywords": []
-    },
-    {
-      "title": "润和软件20cm涨停，算力租赁与应用端走高，创业板人工智能ETF招商（159243）标的指数涨超3%",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/2026-11-27/doc-inkacvhp3263294.shtml",
-      "content": "11月27日，A股AI产业链表现活跃，软件应用与算力服务方向领涨。截至发稿，创业板人工智能ETF招商（159243）跟踪标的涨超3%，交投活跃。",
+      "title": "杨元庆：AI的未来，不在模型参数，而在产业现场",
+      "source": "中国企业家",
+      "url": "https://finance.sina.com.cn/stock/t/2026-11-27/doc-inkaesne5508788.shtml",
+      "content": "文|《中国企业家》记者闫俊文 编辑|李原 头图摄影|邓攀 今年4月，联想集团董事长兼CEO杨元庆提出两年内推动集团年营收突破1000亿美元。",
       "priority": "high",
       "sectors": [
         "AI"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-27",
-      "time": "02:35",
+      "time": "12:44",
       "keywords": []
     },
     {
-      "title": "欧元兑美元大跌之后能否企稳？ING：有修复条件，但难突破1.10",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/money/forex/hbfx/2026-11-27/doc-inkacvhp3261953.shtml",
-      "content": "汇通财经APP讯——周五（11月27日）亚洲早盘，欧元兑美元一度下探至1.0960附近，本周早些时候创出2025年4月以来新低，随后震荡回升至1.0975一线交投。",
+      "title": "央行发布存贷款利率新规，罚息不再默认“顶格上浮50%”，机构计息系统面临改造压力",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-11-27/doc-inkaesmy7826988.shtml",
+      "content": "财联社11月27日讯（记者 郭子硕）11月27日，人民银行发布《人民币存贷款利率管理规定》（下称《新规》），自2027年3月21日起施行...",
+      "priority": "high",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "12:38",
+      "keywords": []
+    },
+    {
+      "title": "韩国央行11月的调查显示，受访民众对当前的经济形势和未来的消费预期信心下降；韩国三季度零售额在连续四个季度同比上涨后转为下降",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-11-27/102509287.html?cxapp_link=true",
+      "content": "韩国央行11月的调查显示，受访民众对当前的经济形势和未来的消费预期信心下降；韩国三季度零售额在连续四个季度同比上涨后转为下降",
+      "priority": "high",
+      "sectors": [
+        "消费"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "--:--",
+      "keywords": [
+        "数据图解"
+      ]
+    },
+    {
+      "title": "预计美联储12月加息，通胀回归2%目标或至少需要两至三年",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-11-27/102509206.html?cxapp_link=true",
+      "content": "预计美联储12月加息，通胀回归2%目标或至少需要两至三年",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-27",
-      "time": "02:33",
-      "keywords": []
+      "time": "--:--",
+      "keywords": [
+        "华尔街原声"
+      ]
     },
     {
-      "title": "润和软件、拓维信息强势涨停！软件板块缘何率先迎超跌反弹？",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/2026-11-27/doc-inkacvhk7855295.shtml",
-      "content": "11月27日，在“国产软件 × 华为算力 × 算力服务”的催化下，拓维信息（华为昇腾整机）、润和软件（开源鸿蒙+AI）强势涨停！软件ETF招商（159899）迎来反弹，标的指数涨近4%...",
+      "title": "多项稳市政策调动多方力量形成稳市合力，释放了坚定维护资本市场平稳运行的强烈信号，A股午后涨幅扩大，沪指重回3600点，创业板指收涨超11%",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-11-27/102509184.html?cxapp_link=true",
+      "content": "多项稳市政策调动多方力量形成稳市合力，释放了坚定维护资本市场平稳运行的强烈信号，A股午后涨幅扩大，沪指重回3600点，创业板指收涨超11%",
       "priority": "high",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-27",
-      "time": "02:32",
-      "keywords": []
+      "time": "--:--",
+      "keywords": [
+        "今日盘面"
+      ]
     },
     {
       "title": "企业通常会公布理论性的芯片设计，以推动研究并交流突破技术前沿的思路",
@@ -491,252 +667,73 @@
       ]
     },
     {
-      "title": "鲍曼警告AI投资回报不及预期可能引发股市大幅调整，市场预期美联储12月继续加息",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-11-11/102503384.html?cxapp_link=true",
-      "content": "鲍曼警告AI投资回报不及预期可能引发股市大幅调整，市场预期美联储12月继续加息",
-      "priority": "high",
-      "sectors": [
-        "AI"
-      ],
-      "period": "noon",
-      "date": "2026-11-27",
-      "time": "--:--",
-      "keywords": [
-        "华尔街原声"
-      ]
-    },
-    {
-      "title": "保证黄仁勋免于处罚的，表面上是董事会和股东的沉默，实际是三十三年的业绩本身",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-11-11/102503358.html?cxapp_link=true",
-      "content": "保证黄仁勋免于处罚的，表面上是董事会和股东的沉默，实际是三十三年的业绩本身",
-      "priority": "high",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-27",
-      "time": "--:--",
-      "keywords": [
-        "交易簿"
-      ]
-    },
-    {
-      "title": "国常会：加力发挥“国家队”稳市作用 进一步优化中央汇金公司的类“平准基金”功能",
-      "source": "新华社",
-      "url": "https://finance.sina.com.cn/jjxw/2026-11-27/doc-inkaczqn5549979.shtml",
-      "content": "国务院总理李强11月27日主持召开国务院常务会议，听取推动高质量发展综合督查情况汇报，研究持续深化资本市场投融资综合改革工作，听取国家标准体系建设情况汇报...",
+      "title": "十余宽基指数迎样本“大换血”！科技赛道加码，传统板块让位（附最全调整名单）",
+      "source": "每日经济新闻",
+      "url": "https://finance.sina.com.cn/roll/2026-11-27/doc-inkaewua5414952.shtml",
+      "content": "每经记者|任飞每经编辑|肖芮冬 11月27日，沪深交易所、中证指数公司集中公告定期调整上证50、科创50、深证成指、创业板指、沪深300、中证500、中证1000、中证A50...",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-27",
-      "time": "04:25",
+      "time": "13:48",
       "keywords": []
     },
     {
-      "title": "哔哩哔哩-W午前涨近5% 第三季度净利润5.04亿元同比增长7%",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkaczqn5529768.shtml",
-      "content": "哔哩哔哩-W（09626）午前涨近5%。截至发稿，股价上涨4.60%，报92.15港元，成交额3.06亿港元。 哔哩哔哩发布业绩，第三季度营业收入83.17亿元，同比增长8%；净利润5...",
+      "title": "基金T类份额来了！这家基金公司将为旗下60只基金增设T类份额",
+      "source": "中证网",
+      "url": "https://finance.sina.com.cn/stock/roll/2026-11-27/doc-inkaewtz3079370.shtml",
+      "content": "11月27日晚间，嘉实基金发布公告称，自11月30日起，为旗下60只基金增设T类基金份额，其中，包括债券型基金、混合型基金、股票型基金、指数增强基金以及ETF联接基金等。",
       "priority": "medium",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-27",
-      "time": "03:59",
-      "keywords": [
-        "哔哩哔哩-W",
-        "涨近",
-        "净利润"
-      ]
+      "time": "13:38",
+      "keywords": []
     },
     {
-      "title": "摩根资产管理和贝莱德竞标管理新加坡公共养老基金旗下新投资项目",
+      "title": "美团三季度营收增至1156亿元，外卖行业“迎来拐点”",
+      "source": "中国证券报",
+      "url": "https://finance.sina.com.cn/stock/roll/2026-11-27/doc-inkaewtw7731772.shtml",
+      "content": "11月27日，美团发布2026年第三季度业绩报告。财报显示，三季度美团实现收入1156亿元，同比增长21.6%，环比增长10.4%；期内溢利20.71亿元，经调整利润净额18.50亿元...",
+      "priority": "medium",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "13:32",
+      "keywords": []
+    },
+    {
+      "title": "美国黑五消费料增加 担忧情绪促使消费者提前囤货",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-11-27/doc-inkacvhi1160931.shtml",
-      "content": " 在对新加坡7010亿新元（5430亿美元）公共养老基金部分资金的管理权角逐中，摩根资产管理、贝莱德和Endowus Singapore Pte处于领先位置。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-27",
-      "time": "03:50",
-      "keywords": []
-    },
-    {
-      "title": "快讯：沪银期货主力合约日内涨近11%",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/future/fmnews/2026-11-27/doc-inkacvhi1140608.shtml",
-      "content": "2026年11月27日，沪银期货主力合约日内涨近11%，报10333元/千克。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-27",
-      "time": "03:31",
-      "keywords": []
-    },
-    {
-      "title": "光大期货1127黄金点评：隔夜黄金窄幅震荡，V型反弹后受阻",
-      "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/money/nmetal/gjshz/2026-11-27/doc-inkacvhi1133580.shtml",
-      "content": "隔夜市场黄金震荡，伦敦现货黄金窄幅震荡，收跌0.64%，COMEX纽约金主力小幅收涨0.86%， SHFE黄金上涨1.28%。隔夜适逢美国感恩节，交投清淡，资金观望为主...",
-      "priority": "medium",
-      "sectors": [
-        "黄金"
-      ],
-      "period": "night",
-      "date": "2026-11-27",
-      "time": "03:24",
-      "keywords": []
-    },
-    {
-      "title": "100万颗卫星！SpaceX开启太空算力部署",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/2026-11-27/doc-inkacvhq5624703.shtml",
-      "content": " 11月27日，商业航天板块开盘上攻，卫星ETF招商（159218）标的指数开盘一度涨超3%，成份股航天电器、光库科技涨超8%，派克新材、移远通信、中科星图等跟涨。",
-      "priority": "medium",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-11-27",
-      "time": "03:16",
-      "keywords": []
-    },
-    {
-      "title": "盘中，A股突变！两大利好，引爆这一赛道",
-      "source": "券商中国",
-      "url": "https://finance.sina.com.cn/stock/marketresearch/2026-11-27/doc-inkacvhi1148435.shtml",
-      "content": "算力产业链集体异动！ 11月27日盘中，A股各大指数纷纷拉升，截至券商中国记者发稿，创业板指、科创50指数涨超2%，深证成指涨超1%。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-27",
-      "time": "03:13",
-      "keywords": []
-    },
-    {
-      "title": "迅策盘中涨超8% 公司获纳入恒生科技指数成份股",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkacvhq5610068.shtml",
-      "content": "迅策（03317）盘中涨超8%，截至发稿，股价上涨6.56%，现报42.24港元，成交额2868.76万港元。 近日，迅策科技公告，公司获纳入恒生科技指数成份股...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-27",
-      "time": "02:56",
-      "keywords": [
-        "迅策",
-        "涨超"
-      ]
-    },
-    {
-      "title": "预期扭亏为盈，美团绩前连续领涨！港股互联网ETF华宝（513770）标的指数涨超2%，机构：估值折价已至极值",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/2026-11-27/doc-inkacvhq5609030.shtml",
-      "content": "11月27日，低位港股互联网龙头连续反弹，美团-W绩前再涨超4%，阿里巴巴-W涨超2%，百度集团-W、小米集团-W、腾讯控股、网易跟涨。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-27",
-      "time": "02:55",
-      "keywords": []
-    },
-    {
-      "title": "深市消费、PCB等领域龙头发展向好 多措并举积极回报投资者",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/roll/2026-11-27/doc-inkacvhq5602183.shtml",
-      "content": "来源：深圳商报 深圳商报·读创客户端记者 钟国斌 近期，深市家电、白酒、PCB等领域龙头企业业务发展向好，多措并举积极回报投资者，二级市场表现较好。",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaewtw7725726.shtml",
+      "content": "从缩减送礼名单到改买更便宜的商品，预算吃紧的美国消费者正带着各种省钱策略迎接“黑色星期五”。 但商品价格上涨，加上假日季常购商品比往年更早开始促销...",
       "priority": "medium",
       "sectors": [
         "消费"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-27",
-      "time": "02:45",
+      "time": "13:19",
       "keywords": []
     },
     {
-      "title": "恒生科技指数涨幅扩大至3% 智谱涨超8%",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkacvhp3269675.shtml",
-      "content": "11月27日消息，恒生科技指数上涨3%至3520.40点。大模型股继续走强，智谱涨超8%，MINIMAX涨逾9%。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-27",
-      "time": "02:40",
-      "keywords": []
-    },
-    {
-      "title": "观望资金周末衔接窗口开启：短久期纯国债品种接棒逆回购",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/2026-11-27/doc-inkacvhk7855818.shtml",
-      "content": "11月27日早盘，A股延续缩量震荡。对于市场观望资金而言，昨日操作1天期国债逆回购的资金于今日回到账户，处于可用不可取状态，今日可将该笔资金转入短久期利率债ETF...",
+      "title": "最新银行业压力测试结果出炉：整体上对资产质量恶化具有一定的抵御能力",
+      "source": "澎湃新闻",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-27/doc-inkaesnc3180005.shtml",
+      "content": "中国人民银行11月27日发布《中国金融稳定报告（2026）》，给出最新的中国银行业压力测试结果。 为进一步发挥压力测试在风险监测评估中的重要作用，2026年...",
       "priority": "medium",
       "sectors": [
         "金融"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-27",
-      "time": "02:33",
-      "keywords": []
-    },
-    {
-      "title": "国产超节点机遇来了？港股硬科技再走强！港股通信息技术ETF 华宝（159131）标的指数涨近3%",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/2026-11-27/doc-inkacvhi1075279.shtml",
-      "content": "今日（11月27日）早盘，港股硬科技延续强势，港股通信息技术ETF华宝（159131）标的指数现涨2.75%。指数成份股中，“中国版Palantir”中科闻歌一度飙涨51%...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-27",
-      "time": "02:30",
-      "keywords": []
-    },
-    {
-      "title": "机构：韩国股市稳定基金扩容或改变债券需求格局",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-11-27/doc-inkacvhk7850120.shtml",
-      "content": " KB证券表示，据报道韩国政府正考虑扩大股市稳定基金规模，此举可能抑制银行购债需求，同时推高保险机构对超长期债券的配置需求。",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-27",
-      "time": "02:28",
-      "keywords": []
-    },
-    {
-      "title": "日本GPIF调整汇报机制 每次资产配置评估情况都将通报董事会",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/world/2026-11-27/doc-inkacvhp3255604.shtml",
-      "content": "日本政府养老投资基金（GPIF）现在将把每次战略资产配置评估结果都报告给董事会，而不再像过去那样只在必要时才报告。 一位GPIF发言人周四表示...",
-      "priority": "medium",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-27",
-      "time": "02:27",
+      "time": "12:55",
       "keywords": []
     },
     {
@@ -949,309 +946,348 @@
       ]
     },
     {
-      "title": "李斌：“速成车”是对中国智能电动汽车产业这么多年创新的污名化",
-      "source": "新浪科技",
-      "url": "https://finance.sina.com.cn/stock/aiassist/lr/2026-11-27/doc-inkaczqn5536741.shtml",
-      "content": " 新浪科技讯 11月27日中午消息，2026广州车展期间，蔚来创始人、董事长、CEO 李斌，乐道汽车总裁沈斐，firefly萤火虫品牌营销负责人浦洋与媒体对话。",
-      "priority": "low",
-      "sectors": [
-        "消费"
-      ],
-      "period": "night",
-      "date": "2026-11-27",
-      "time": "04:07",
-      "keywords": []
-    },
-    {
-      "title": "翰森制药午前涨超4% 花旗给予目标价52港元",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkacvhq5657494.shtml",
-      "content": "翰森制药（03692）早盘涨超4%，截至发稿，股价上涨4.24%，报32.98港元，成交额2.02亿港元。 翰森制药公告HS-20122（EGFR/cMET双抗ADC）授权拜耳，翰森将有资格获得1...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-27",
-      "time": "03:54",
-      "keywords": [
-        "翰森制药",
-        "涨超"
-      ]
-    },
-    {
-      "title": "中国儒意午前涨逾20% 公司正式推出AI视频工具“元拍”（MetaShot）",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkacvhp3328104.shtml",
-      "content": "中国儒意（00136）盘中涨超20%，截至发稿，股价上涨19.78%，现报1.09港元，成交额1.63亿港元。 近日，中国儒意发布公告，为加速数字娱乐产业的智能化升级...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-11-27",
-      "time": "03:53",
-      "keywords": [
-        "中国儒意",
-        "涨逾"
-      ]
-    },
-    {
-      "title": "三生制药午前涨超9% 凝血因子XI单抗3SC002获中美两国IND批准",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkacvhi1162037.shtml",
-      "content": "三生制药（01530）早盘涨超9%，截至发稿，股价上涨9.03%，现报13.04港元，成交额1.61亿港元。 据三生制药官微消息，11月20日，三生制药自主研发的3SC002正式获得美国食品药...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-27",
-      "time": "03:51",
-      "keywords": [
-        "三生制药",
-        "涨超"
-      ]
-    },
-    {
-      "title": "剂泰科技-P午前涨超6% 近期宣布回购及A股上市计划",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkacvhk7920139.shtml",
-      "content": "剂泰科技-P（07666）盘中涨超7%。截至发稿，股价上涨6.03%，报7.56港元，成交额2350.97万港元。 剂泰科技近日迎来多重利好。11月18日...",
+      "title": "跻身全球系统重要性银行，五大行有何缺口？",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-11-27/doc-inkaewtv0966953.shtml",
+      "content": "来源：国际金融报 近日，总部位于瑞士巴塞尔的金融稳定理事会（FSB）发布2026年全球系统重要性银行（G-SIBs）名单。 《国际金融报》记者注意到...",
       "priority": "low",
       "sectors": [
         "金融"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-27",
-      "time": "03:34",
-      "keywords": [
-        "剂泰科技-P",
-        "涨超"
-      ]
+      "time": "13:47",
+      "keywords": []
     },
     {
-      "title": "越南预计2030年股市市值达到GDP的120%",
+      "title": "美国10月商品贸易逆差扩大至1495亿美元 预期逆差1360亿",
       "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkacvhi1128658.shtml",
-      "content": "越南总理黎明兴周五表示，预计到2030年，越南股市总市值将达到GDP的120%。 越南预计从今年到2030年，通过股票市场（包括股票、债券和认股权证）筹集的资金将达到5...",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaewua5411722.shtml",
+      "content": "美国普查局公布的数据显示，美国10月商品贸易逆差初值从前一个月的1351亿美元扩大至1495亿美元。 33位经济学家的预测区间为逆差1274亿至1510亿美元...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-27",
-      "time": "03:19",
+      "time": "13:44",
       "keywords": []
     },
     {
-      "title": "投诉平台哪个处理效率最高？六大渠道节奏要先摸清",
+      "title": "伊朗：又一油轮在霍尔木兹海峡附近触雷起火",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaewtw7739704.shtml",
+      "content": "伊朗革命卫队宣称，周五又有一艘油轮在霍尔木兹海峡附近触雷起火。伊朗国家电视台IRIB发布的声明中，革命卫队海军公关办公室表示...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "13:44",
+      "keywords": []
+    },
+    {
+      "title": "002445，筹划重大资产重组，不停牌！",
+      "source": "证券时报",
+      "url": "https://finance.sina.com.cn/wm/2026-11-27/doc-inkaewtz3081487.shtml",
+      "content": "中南文化正筹划重大资产重组。 中南文化（002445）11月27日公告称，公司及全资子公司中南投资拟以支付现金方式收购上海儒驭100%股权...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "13:37",
+      "keywords": []
+    },
+    {
+      "title": "冯骥约八千字长文谈AI冲击：创作工具平权了，分钱方式没有平权",
+      "source": "新京报",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-27/doc-inkaewua5411757.shtml",
+      "content": "新京报贝壳财经讯（记者韦英姿）11月27日，游戏科学创始人、CEO，《黑神话：悟空》制作人冯骥发长文追问，当AI在生产端大规模取代人类劳动后...",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "13:33",
+      "keywords": []
+    },
+    {
+      "title": "担忧AI影响教育 美国多个学区禁用谷歌AI功能",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaewtw7730910.shtml",
+      "content": "美国多个学区正采取措施封禁谷歌的人工智能功能，并且考虑彻底弃用谷歌全系产品——除非谷歌为他们提供可以永久屏蔽AI功能的方案。",
+      "priority": "low",
+      "sectors": [
+        "AI"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "13:30",
+      "keywords": []
+    },
+    {
+      "title": "深鹏科技IPO：代持起家、协议控权、利润踩线",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/newstock/2026-11-27/doc-inkaewtz3080963.shtml",
+      "content": "来源：新财渤社 文\\林渊 广东深鹏科技股份有限公司（以下简称“深鹏科技”）于11月26日回复北交所首轮问询。 股权层面，公司2012年设立时工商登记仅王守元、江长红两名股东...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "13:29",
+      "keywords": []
+    },
+    {
+      "title": "爱科赛博拟发6.5亿元可转债，加码智算！",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/s/2026-11-27/doc-inkaewtw7729927.shtml",
+      "content": "来源：IPO日报 11月27日盘后，爱科赛博（688719.SH）公告称，公司拟向不特定对象发行可转换公司债券，募集资金总额不超过6.5亿元...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "13:17",
+      "keywords": []
+    },
+    {
+      "title": "*ST岭南：收到股票及可转换公司债券终止上市决定",
+      "source": "界面",
+      "url": "https://finance.sina.com.cn/stock/relnews/cn/2026-11-27/doc-inkaewua5393436.shtml",
+      "content": " *ST岭南11月27日公告，公司于2026年11月27日收到深圳证券交易所下发的《关于岭南生态文旅股份有限公司股票及可转换公司债券终止上市的决定》...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "13:11",
+      "keywords": []
+    },
+    {
+      "title": "华为乾崑生态大会2026举行 联合众多伙伴共建繁荣生态",
+      "source": "TechWeb",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-11-27/doc-inkaewtz3074676.shtml",
+      "content": "【TechWeb】日前，以“乾崑生态 共赴热爱”为主题的华为乾崑生态大会2026在广州举行，一汽红旗、奕境汽车、启境汽车、猛士汽车、阿维塔科技等车企代表，宁德时代、小红书...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "13:10",
+      "keywords": []
+    },
+    {
+      "title": "大额存单新规落地！个人起购门槛降至10万元",
+      "source": "",
+      "url": "https://finance.sina.com.cn/jjxw/2026-11-27/doc-inkaewtz3061284.shtml",
+      "content": "来源：北京商报  作者：宋亦桐 存款市场迎来重要制度调整。11月27日，据中国人民银行官网消息，为促进大额存单市场健康发展，中国人民银行制定了《大额存单管理办法》（以...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "13:09",
+      "keywords": []
+    },
+    {
+      "title": "从预期锚到韧性锚：国常会推出资本市场相关系列举措",
       "source": "新浪财经",
-      "url": "https://finance.sina.com.cn/consume/xiaofei/2026-11-27/doc-inkacvhk7832771.shtml",
-      "content": "“到底哪个投诉平台效率最高”，几乎每个维权的人都会问。但效率高低不是看谁快，而是看渠道属性与你的纠纷类型是否匹配。官方渠道流程严谨所以周期相对较长...",
+      "url": "https://finance.sina.com.cn/stock/enterprise/2026-11-27/doc-inkaewtv0939933.shtml",
+      "content": "分析师：郭磊，广发证券首席经济学家 11月27日，国务院常务会议研究持续深化资本市场投融资综合改革工作。会议提出了一系列举措，对于提升资本市场内生稳定性具有重要意义...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-27",
-      "time": "03:10",
+      "time": "13:09",
       "keywords": []
     },
     {
-      "title": "在岸与离岸人民币利差变化的影响因素分析",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/money/forex/rmb/2026-11-27/doc-inkacvhp3288767.shtml",
-      "content": "中国货币市场 内容提要 在岸与离岸市场长期制度性分割使人民币资金价格存在一定程度的偏离，2025年以来离岸人民币利差明显收窄并稳定在低位。",
+      "title": "国家金融监督管理总局召开党的二十届五中全会精神宣讲报告会",
+      "source": "国家金融监督管理总局",
+      "url": "https://finance.sina.com.cn/money/bank/bank_hydt/2026-11-27/doc-inkaewtz3065920.shtml",
+      "content": "2026年11月26日，国家金融监督管理总局召开党的二十届五中全会精神宣讲报告会。中央宣讲团成员、中央金融办分管日常工作的副主任...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "13:08",
+      "keywords": []
+    },
+    {
+      "title": "中航证券董忠云：A股有望吸引更多长期资金主动配置、长期持有",
+      "source": "中证网",
+      "url": "https://finance.sina.com.cn/stock/roll/2026-11-27/doc-inkaesne5516624.shtml",
+      "content": "11月27日举行的国务院常务会议研究持续深化资本市场投融资综合改革工作，中航证券首席经济学家董忠云在接受中国证券报记者采访时表示...",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-27",
-      "time": "03:01",
+      "time": "13:04",
       "keywords": []
     },
     {
-      "title": "黄金股早盘涨幅居前 中国黄金国际及灵宝黄金均涨逾7%",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkacvhq5612350.shtml",
-      "content": "黄金股早盘涨幅居前，截至发稿，中国黄金国际（02099）上涨6.87%，报146.30港元；灵宝黄金（03330）上涨6.64%，报13.82港元；赤峰黄金（06693）上涨5.44%，报29...",
+      "title": "美国加大经济施压之际 土耳其续签伊朗长期天然气进口合同",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaesne5511752.shtml",
+      "content": " 据知情人士消息，土耳其延长了与伊朗的长期天然气进口合同，在美国对伊朗经济施压之际，为德黑兰稳住一项重要收入来源。",
+      "priority": "low",
+      "sectors": [
+        "能源"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "12:59",
+      "keywords": []
+    },
+    {
+      "title": "卡塔尔经霍尔木兹海峡加大LNG出口 降低东南亚成本",
+      "source": "环球市场播报",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkaesmy7834866.shtml",
+      "content": "卡塔尔加大经霍尔木兹海峡出口液化天然气的举措，已经为资金紧张的南亚液化天然气进口国节约了成本。 船舶追踪数据显示，孟加拉国10月从卡塔尔进口18.9万吨液化天然气...",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "12:58",
+      "keywords": []
+    },
+    {
+      "title": "中国国新总经理侯晓会见中国建设银行党委委员、副行长韩静",
+      "source": "中国国新控股有限责任公司",
+      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-11-27/doc-inkaewtz3069705.shtml",
+      "content": "原标题：侯晓会见中国建设银行党委委员、副行长韩静来源： 11月20日，中国国新党委副书记、总经理侯晓在公司总部会见中国建设银行党委委员、副行长韩静。",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "12:58",
+      "keywords": []
+    },
+    {
+      "title": "济南市医疗保障局发布通报：解除与该主播的劳动关系，责令直播团队停播整顿",
+      "source": "金融一线",
+      "url": "https://finance.sina.com.cn/jryx/insurance/2026-11-27/doc-inkaesmx1054805.shtml",
+      "content": "11月27日金融一线消息，11月27日，山东省济南市医疗保障局发布情况通报称，11月23日，“济南医保”视频号直播间一名主播在直播回复评论时，言语失当，冒犯网友。",
+      "priority": "low",
+      "sectors": [
+        "综合"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "12:51",
+      "keywords": []
+    },
+    {
+      "title": "数字黄金实盘交易落地，对黄金市场影响几何？",
+      "source": "市场资讯",
+      "url": "https://finance.sina.com.cn/stock/hyyj/2026-11-27/doc-inkaesne5507236.shtml",
+      "content": "来源：国际金融报 新型数字黄金来了。 世界黄金协会近日宣布，汇丰银行、摩根大通与StoneX集团完成黄金权益池（PGI）具有法律约束力的批发市场实盘交易、结算...",
       "priority": "low",
       "sectors": [
         "黄金"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-27",
-      "time": "03:00",
-      "keywords": [
-        "中国黄金国际",
-        "灵宝黄金",
-        "涨逾"
-      ]
-    },
-    {
-      "title": "芯片股早盘全线走高 壁仞科技涨超10%天数智芯涨超8%",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkacvhq5608977.shtml",
-      "content": "芯片股早盘全线走高，截至发稿，壁仞科技（06082）上涨10.45%，报14.48港元；天数智芯（09903）上涨8.30%，报45.92港元；华虹宏力（01347）上涨7.57%，报69...",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "night",
-      "date": "2026-11-27",
-      "time": "02:55",
-      "keywords": [
-        "壁仞科技",
-        "涨超"
-      ]
-    },
-    {
-      "title": "新西兰选举结果显示将现罕见悬浮议会 中右翼执政联盟连任之路存挑战",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkacvhi1100437.shtml",
-      "content": "新西兰官方选举结果显示可能出现悬浮议会，目前执政的中右翼联盟要锁定第二个任期将面临着复杂前路。 选举委员会周五在惠灵顿表示...",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "night",
-      "date": "2026-11-27",
-      "time": "02:51",
+      "time": "12:45",
       "keywords": []
     },
     {
-      "title": "AI应用概念股全线走高 中科闻歌涨超42%明略科技-W涨超18%",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkacvhk7876715.shtml",
-      "content": "AI应用概念股全线走高，截至发稿，中科闻歌（01956）上涨42.55%，报43.42港元；明略科技-W（02718）上涨18.23%，报21.66港元；迈富时（02556）上涨6.79%，报34...",
-      "priority": "low",
-      "sectors": [
-        "AI"
-      ],
-      "period": "night",
-      "date": "2026-11-27",
-      "time": "02:50",
-      "keywords": [
-        "中科闻歌",
-        "涨超"
-      ]
-    },
-    {
-      "title": "“我掌握的信息很多”：特朗普再挺黄仁勋，称他完全没问题",
+      "title": "进出口银行董事长陈怀宇与万华化学董事长廖增太举行会谈",
       "source": "市场资讯",
-      "url": "https://finance.sina.com.cn/stock/bxjj/2026-11-27/doc-inkacvhk7880988.shtml",
-      "content": "金十数据 美国总统特朗普周四再次公开支持黄仁勋（Jensen Huang）重返英伟达（NVDA）担任首席执行官，称黄仁勋对回归非常高兴，甚至将这次复职称为自己的“第二任期”。",
+      "url": "https://finance.sina.com.cn/money/bank/gsdt/2026-11-27/doc-inkaesne5504366.shtml",
+      "content": "来源：中国进出口银行 11月27日，进出口银行党委书记、董事长陈怀宇与万华化学集团股份有限公司（以下简称万华化学）党委书记、董事长廖增太在京举行会谈...",
+      "priority": "low",
+      "sectors": [
+        "金融"
+      ],
+      "period": "noon",
+      "date": "2026-11-27",
+      "time": "12:41",
+      "keywords": []
+    },
+    {
+      "title": "供应低位叠加冬储补库预期，焦煤价格大幅上行",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-11-27/102509366.html?cxapp_link=true",
+      "content": "供应低位叠加冬储补库预期，焦煤价格大幅上行",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-27",
-      "time": "02:47",
-      "keywords": []
-    },
-    {
-      "title": "黑芝麻智能现涨超10% 华山A2000芯片已通过BIS相关审查 获准在全球范围内销售与应用",
-      "source": "新浪港股",
-      "url": "https://finance.sina.com.cn/stock/hkstock/marketalerts/2026-11-27/doc-inkacvhq5603308.shtml",
-      "content": "黑芝麻智能（02533）盘中涨超13%，截至发稿，股价上涨10.59%，现报5.17港元，成交额1700.25万港元。 近日，据黑芝麻智能官微消息...",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "night",
-      "date": "2026-11-27",
-      "time": "02:46",
+      "time": "--:--",
       "keywords": [
-        "黑芝麻智能",
-        "涨超"
+        "CCI快报"
       ]
     },
     {
-      "title": "深市回購增持熱潮持續 寧德時代累計回購超60億元",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-11-27/doc-inkacvhi1096064.shtml",
-      "content": "來源：香港商報網 11月25日晚間，寧德時代披露，公司於當日回購47.44萬股，每股回購價為人民幣210.13元~212.22元，共耗資9999.70萬元，回購股份擬註銷。",
+      "title": "美债依旧是全球金融市场流动性最好的固收资产，但“无风险”已不再是它的永久标签",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-11-27/102509229.html?cxapp_link=true",
+      "content": "美债依旧是全球金融市场流动性最好的固收资产，但“无风险”已不再是它的永久标签",
       "priority": "low",
       "sectors": [
         "金融"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-27",
-      "time": "02:43",
-      "keywords": []
+      "time": "--:--",
+      "keywords": [
+        "家庭财富"
+      ]
     },
     {
-      "title": "深市回购增持热潮不断 年内回购计划上限超1861亿元",
-      "source": "证券日报",
-      "url": "https://finance.sina.com.cn/roll/2026-11-27/doc-inkacvhq5599334.shtml",
-      "content": "本报记者 郭之宸 数据显示，今年以来，深圳证券交易所市场（以下简称“深市”）已披露回购计划515家次，回购金额上限1861.87亿元，披露重要股东增持计划227家次...",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-11-27",
-      "time": "02:40",
-      "keywords": []
-    },
-    {
-      "title": "深市回购增持热潮持续，宁德时代累计回购超60亿元",
-      "source": "每日经济新闻",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-11-27/doc-inkacvhp3264703.shtml",
-      "content": " 11月25日晚间，宁德时代公告，公司于当日回购47.44万股，每股回购价为人民币210.13元~212.22元，共耗资9999.70万元，回购股份拟注销。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-11-27",
-      "time": "02:36",
-      "keywords": []
-    },
-    {
-      "title": "深市回购增持持续活跃 11月以来披露相关公告640家次",
-      "source": "滚动播报",
-      "url": "https://finance.sina.com.cn/stock/roll/2026-11-27/doc-inkacvhq5591689.shtml",
-      "content": "来源：央广网 央广网北京11月26日消息（记者 牛谷月）2026年以来，深市上市公司回购增持动作保持活跃，以“真金白银”传递发展信心。",
-      "priority": "low",
-      "sectors": [
-        "金融"
-      ],
-      "period": "night",
-      "date": "2026-11-27",
-      "time": "02:34",
-      "keywords": []
-    },
-    {
-      "title": "汇丰重组印度后台支持岗位 数百个职位受影响",
-      "source": "环球市场播报",
-      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-11-27/doc-inkacvhq5586522.shtml",
-      "content": "汇丰控股正在整合印度部分后台支持职能，这家聚焦亚洲业务的银行正加大力度控本、推进AI应用。 知情人士透露，汇丰近期告知印度员工，将把金奈、古尔冈...",
+      "title": "下调2027-2028年数据中心交付预期，建议以合理估值买入成长股",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-11-27/102509213.html?cxapp_link=true",
+      "content": "下调2027-2028年数据中心交付预期，建议以合理估值买入成长股",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-27",
-      "time": "02:30",
-      "keywords": []
+      "time": "--:--",
+      "keywords": [
+        "华尔街原声"
+      ]
     },
     {
-      "title": "【小盘】“增”的可以，“强”的可怕！159552领涨同类，超额溢出屏幕！",
-      "source": "新浪基金",
-      "url": "https://finance.sina.com.cn/money/fund/2026-11-27/doc-inkacvhi1072076.shtml",
-      "content": "小盘再度走强，中证2000盘中拉升。据Wind数据，截至11月27日10时20分，中证2000涨1.17%；此前两个交易日累计跌4.32%，11月26日单日跌幅收窄至0.06%。",
+      "title": "固态电池距离规模化量产仍有工艺和成本两道难关，一方面要保证材料质量和电芯制造的稳定性，另一方面，也要降低原料、生产环境控制及设备投入带来的成本",
+      "source": "财新",
+      "url": "https://database.caixin.com/2026-11-27/102509207.html?cxapp_link=true",
+      "content": "固态电池距离规模化量产仍有工艺和成本两道难关，一方面要保证材料质量和电芯制造的稳定性，另一方面，也要降低原料、生产环境控制及设备投入带来的成本",
       "priority": "low",
       "sectors": [
         "综合"
       ],
-      "period": "night",
+      "period": "noon",
       "date": "2026-11-27",
-      "time": "02:26",
-      "keywords": []
+      "time": "--:--",
+      "keywords": [
+        "市场洞察"
+      ]
     },
     {
       "title": "英特尔曾经是不可战胜的名字，如今在AI牌桌上要靠代工和补贴找位置；英伟达眼下握着一手好牌，但客户已经在讨论“第二个供应商”。苏姿丰的12年说明，牌桌上的位置从来",
@@ -1268,22 +1304,6 @@
       "time": "--:--",
       "keywords": [
         "商圈"
-      ]
-    },
-    {
-      "title": "华为芯片产业链全线爆发",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-11-27/102509184.html?cxapp_link=true",
-      "content": "华为芯片产业链全线爆发",
-      "priority": "low",
-      "sectors": [
-        "半导体"
-      ],
-      "period": "noon",
-      "date": "2026-11-27",
-      "time": "--:--",
-      "keywords": [
-        "今日盘面"
       ]
     },
     {
@@ -2293,70 +2313,6 @@
       "priority": "low",
       "sectors": [
         "能源"
-      ],
-      "period": "noon",
-      "date": "2026-11-27",
-      "time": "--:--",
-      "keywords": [
-        "华尔街原声"
-      ]
-    },
-    {
-      "title": "库什纳称，乌克兰和俄罗斯之间目前仍不存在互信；领土问题是谈判中最棘手的问题",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-11-12/102503840.html?cxapp_link=true",
-      "content": "库什纳称，乌克兰和俄罗斯之间目前仍不存在互信；领土问题是谈判中最棘手的问题",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-27",
-      "time": "--:--",
-      "keywords": [
-        "市场动态"
-      ]
-    },
-    {
-      "title": "沙特引领地区原油产量复苏，而供应回升正推动油价走低",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-11-12/102503824.html?cxapp_link=true",
-      "content": "沙特引领地区原油产量复苏，而供应回升正推动油价走低",
-      "priority": "low",
-      "sectors": [
-        "能源"
-      ],
-      "period": "noon",
-      "date": "2026-11-27",
-      "time": "--:--",
-      "keywords": [
-        "市场动态"
-      ]
-    },
-    {
-      "title": "可交割库存骤降，且很大一部分剩余库存已被两家交易商控制",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-11-12/102503818.html?cxapp_link=true",
-      "content": "可交割库存骤降，且很大一部分剩余库存已被两家交易商控制",
-      "priority": "low",
-      "sectors": [
-        "综合"
-      ],
-      "period": "noon",
-      "date": "2026-11-27",
-      "time": "--:--",
-      "keywords": [
-        "市场动态"
-      ]
-    },
-    {
-      "title": "中期选举未改变现有项目建设计划，新建数据中心面临限制或提升在建项目价值",
-      "source": "财新",
-      "url": "https://database.caixin.com/2026-11-11/102503369.html?cxapp_link=true",
-      "content": "中期选举未改变现有项目建设计划，新建数据中心面临限制或提升在建项目价值",
-      "priority": "low",
-      "sectors": [
-        "综合"
       ],
       "period": "noon",
       "date": "2026-11-27",
